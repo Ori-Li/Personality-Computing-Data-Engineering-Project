@@ -281,6 +281,46 @@ Do not include:
 Ownership is not authorship.
 
 
+# 4.3 Relationship Is Not Entity Rule
+
+A relationship between creators MUST NOT be converted into an entity.
+
+Reject entities that only describe:
+
+- collaboration relationships
+- production relationships
+- temporary creative partnerships
+- unofficial teams
+- fan-created labels
+
+
+Examples:
+
+Invalid:
+
+- 周杰伦音乐团队
+- 王菲制作团队
+- 五月天幕后团队
+- 某某黄金搭档
+
+
+Correct:
+
+Entity:
+周杰伦
+
+Relationship:
+collaborated_with
+
+Related Entities:
+方文山
+钟兴民
+洪敬尧
+
+
+The dataset stores cultural creators, not relationship descriptions.
+
+
 
 ==================================================
 CHAPTER 5 — PRIMARY CREATIVE DOMAIN RULE
@@ -380,6 +420,28 @@ A celebrity who invested in a game company.
 
 Exclude from Game Production.
 
+
+# 5.3 Country Attribution Rule
+
+Entity region/country must follow the creator's origin.
+
+Do NOT assign country based on:
+
+- work market
+- project location
+- audience region
+- language of work
+
+
+Example:
+
+A Japanese composer creating music for a Chinese film:
+
+Entity Country:
+Japan
+
+
+The project country does not change creator origin.
 
 
 ==================================================
@@ -528,6 +590,49 @@ Reject:
 - Ambiguous identities
 - Historical names without reliable identification
 
+
+# 7.3.1 Alias And Identity Resolution Rule
+
+Before creating a new entity:
+
+The system MUST check:
+
+- canonical name
+- aliases
+- stage names
+- translated names
+- romanized names
+
+
+Different names referring to the same creator MUST NOT create multiple entities.
+
+
+Example:
+
+Correct:
+
+{
+canonicalName:
+"刘柏辛",
+
+aliases:
+[
+"Lexie Liu"
+]
+}
+
+
+Incorrect:
+
+Entity A:
+刘柏辛
+
+
+Entity B:
+Lexie Liu
+
+
+when both refer to the same creator.
 
 
 ==================================================
@@ -1209,6 +1314,44 @@ A member may only be included if they have at least one:
 Do not include ordinary members only because they belong to a famous group.
 
 
+# 8.5.1 Official Group Identity Requirement
+
+A group entity must have:
+
+1.
+A publicly recognized official name.
+
+2.
+Stable membership identity.
+
+3.
+Independent representative works.
+
+4.
+Independent cultural recognition.
+
+
+Reject:
+
+- temporary project groups
+- unofficial teams
+- fan-created names
+- media-created labels
+
+
+Example:
+
+Valid:
+
+- 五月天
+- Beyond
+- 唐朝乐队
+
+
+Invalid:
+
+- 周杰伦音乐团队
+- 某歌手幕后班底
 
 ==================================================
 # 8.6 Creative Unit Priority Rule
@@ -1264,6 +1407,45 @@ Tencent Holdings
 
 Large corporations should not replace actual creative units.
 
+
+# 8.6.1 Project Does Not Equal Creator Entity
+
+A cultural project is not automatically a creator entity.
+
+
+Reject:
+
+- Game music team
+- Film soundtrack team
+- Animation music team
+
+
+Correct structure:
+
+Creative Work
+
+↓
+
+Creator Entity
+
+↓
+
+Contribution Relationship
+
+
+Example:
+
+Game:
+原神
+
+Creator Entities:
+陈致逸
+其他正式作曲家
+
+
+Not:
+
+原神音乐团队
 
 
 ==================================================
