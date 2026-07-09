@@ -1,0 +1,251 @@
+{
+"id": 0,
+"numberN": 10,
+"items": [
+{
+"workId": "novel_中国_1750_001",
+"type": "小说",
+"subcategory": "古典文学",
+"countryName": "中国",
+"year": 1750,
+"workName": "红楼梦",
+"originalName": "红楼梦",
+"creators": [
+{
+"creatorName": "曹雪芹",
+"creatorType": "作者",
+"creatorId": 0
+}
+],
+"introduction": "《红楼梦》是中国古典文学巅峰作品之一，通过贾宝玉、林黛玉等人物关系展现封建家族兴衰、人性情感和社会结构。小说融合诗词、绘画、园林、哲学思想与细腻心理描写，形成高度复杂的艺术体系，被认为是中国现实主义文学的重要代表。",
+"culturalImpact": "作品形成独特的红学研究体系，对中国文学、影视改编、艺术创作和社会文化产生持续影响。"
+},
+{
+"workId": "novel_中国_1590_001",
+"type": "小说",
+"subcategory": "奇幻",
+"countryName": "中国",
+"year": 1590,
+"workName": "西游记",
+"originalName": "西游记",
+"creators": [
+{
+"creatorName": "吴承恩",
+"creatorType": "作者",
+"creatorId": 0
+}
+],
+"introduction": "《西游记》是中国古代神魔小说代表作品，以唐僧师徒西天取经故事构建丰富幻想世界。作品融合佛教思想、民间传说、神话体系和社会讽刺，通过孙悟空等经典形象表现成长、自由、规则与信念等主题。",
+"culturalImpact": "作品塑造了中国最具影响力的文学形象之一，并长期影响影视、动漫、游戏和大众文化。"
+},
+{
+"workId": "novel_中国_1368_001",
+"type": "小说",
+"subcategory": "历史",
+"countryName": "中国",
+"year": 1368,
+"workName": "三国演义",
+"originalName": "三国演义",
+"creators": [
+{
+"creatorName": "罗贯中",
+"creatorType": "作者",
+"creatorId": 0
+}
+],
+"introduction": "《三国演义》是中国历史演义小说的重要代表，以东汉末年至三国时期政治军事斗争为背景，描绘众多历史人物和谋略战争。作品融合历史叙事、英雄塑造和政治哲学思考，形成中国传统叙事文学的重要模式。",
+"culturalImpact": "作品影响中国历史文化认知，并成为影视、游戏、商业战略文化中的重要素材。"
+},
+{
+"workId": "movie_中国_2002_001",
+"type": "电影",
+"subcategory": "武侠",
+"countryName": "中国",
+"year": 2002,
+"workName": "英雄",
+"originalName": "英雄",
+"creators": [
+{
+"creatorName": "张艺谋",
+"creatorType": "导演",
+"creatorId": 0
+}
+],
+"introduction": "《英雄》是中国武侠电影的重要作品，以刺客与秦王之间的故事探讨个人选择、国家统一和牺牲精神。影片通过高度风格化的色彩设计、武术动作和东方美学构建视觉体系，将传统武侠元素与现代电影语言结合。",
+"culturalImpact": "作品推动中国武侠电影国际传播，并影响后来的东方美学电影制作。"
+},
+{
+"workId": "movie_USA_1997_001",
+"type": "电影",
+"subcategory": "爱情",
+"countryName": "美国",
+"year": 1997,
+"workName": "泰坦尼克号",
+"originalName": "Titanic",
+"creators": [
+{
+"creatorName": "詹姆斯·卡梅隆",
+"creatorType": "导演",
+"creatorId": 0
+}
+],
+"introduction": "《泰坦尼克号》是全球知名爱情灾难电影，以历史事件为背景，通过爱情关系、人类情感和灾难场景展现个人命运与时代变化。影片结合先进特效、宏大制作和细腻情感表达，成为商业电影工业的重要案例。",
+"culturalImpact": "影片推动全球电影工业发展，并成为跨文化传播最成功的商业电影之一。"
+},
+{
+"workId": "anime_Japan_2001_001",
+"type": "动漫",
+"subcategory": "奇幻",
+"countryName": "日本",
+"year": 2001,
+"workName": "千与千寻",
+"originalName": "千と千尋の神隠し",
+"creators": [
+{
+"creatorName": "宫崎骏",
+"creatorType": "导演",
+"creatorId": 0
+}
+],
+"introduction": "《千与千寻》是日本动画电影代表作品，通过少女进入神秘世界的经历探讨成长、劳动、身份和人与自然关系。作品融合日本传统文化符号、幻想叙事和细腻人物塑造，创造具有普遍共鸣的成长寓言。",
+"culturalImpact": "影片提升日本动画在国际艺术领域的影响力，并成为全球动画电影的重要经典。"
+},
+{
+"workId": "game_Japan_1996_001",
+"type": "游戏",
+"subcategory": "RPG",
+"countryName": "日本",
+"year": 1996,
+"workName": "宝可梦 红·绿",
+"originalName": "Pokémon Red and Green",
+"creators": [
+{
+"creatorName": "田尻智",
+"creatorType": "游戏制作人",
+"creatorId": 0
+},
+{
+"creatorName": "任天堂",
+"creatorType": "游戏公司",
+"creatorId": 1
+}
+],
+"introduction": "《宝可梦 红·绿》是全球最具影响力的电子游戏作品之一，以收集、培养和交换生物为核心玩法，创造独特的虚拟生态系统。游戏结合探索、社交互动和角色成长机制，使玩家与数字角色建立长期情感连接。",
+"culturalImpact": "作品发展成为全球性文化品牌，影响游戏设计、动画、玩具和跨媒体产业。"
+},
+{
+"workId": "music_中国_1987_001",
+"type": "音乐",
+"subcategory": "流行",
+"countryName": "中国",
+"year": 1987,
+"workName": "冬天里的一把火",
+"originalName": "冬天里的一把火",
+"creators": [
+{
+"creatorName": "费翔",
+"creatorType": "歌手",
+"creatorId": 0
+}
+],
+"introduction": "《冬天里的一把火》是中国流行音乐发展阶段的重要作品，以鲜明节奏、舞台表现和时代气息成为大众熟知歌曲。作品代表改革开放时期流行文化兴起的社会背景，体现音乐与电视传播结合带来的文化影响。",
+"culturalImpact": "歌曲推动中国流行音乐大众传播，并成为一代人的集体文化记忆。"
+},
+{
+"workId": "painting_中国_1940_001",
+"type": "绘画",
+"subcategory": "国画",
+"countryName": "中国",
+"year": 1940,
+"workName": "愚公移山",
+"originalName": "愚公移山",
+"creators": [
+{
+"creatorName": "徐悲鸿",
+"creatorType": "画家",
+"creatorId": 0
+}
+],
+"introduction": "《愚公移山》是中国现代绘画的重要作品，以传统寓言为主题，通过人物群像和强烈造型表现坚韧精神。作品融合中国传统绘画理念与西方写实技巧，体现现代中国艺术探索民族精神表达的新方式。",
+"culturalImpact": "作品成为中国现代美术的重要代表，并影响公共艺术和文化教育领域。"
+},
+{
+"workId": "tv_USA_2011_001",
+"type": "电视剧",
+"subcategory": "奇幻",
+"countryName": "美国",
+"year": 2011,
+"workName": "权力的游戏",
+"originalName": "Game of Thrones",
+"creators": [
+{
+"creatorName": "大卫·贝尼奥夫",
+"creatorType": "主创",
+"creatorId": 0
+},
+{
+"creatorName": "D·B·魏斯",
+"creatorType": "主创",
+"creatorId": 1
+}
+],
+"introduction": "《权力的游戏》是美国奇幻电视剧代表作品，根据乔治·R·R·马丁小说改编，通过多个家族争夺权力的故事展现政治、人性、战争和道德冲突。作品以复杂世界观、多线叙事和成人化主题建立高度影响力。",
+"culturalImpact": "该剧推动电视剧制作工业升级，并改变全球观众对长篇电视剧叙事质量的期待。"
+}
+],
+"generatedWorks": {
+"totalCount": 10,
+"works": [
+{
+"workName": "红楼梦",
+"originalName": "红楼梦",
+"workHash": "红楼梦"
+},
+{
+"workName": "西游记",
+"originalName": "西游记",
+"workHash": "西游记"
+},
+{
+"workName": "三国演义",
+"originalName": "三国演义",
+"workHash": "三国演义"
+},
+{
+"workName": "英雄",
+"originalName": "英雄",
+"workHash": "英雄"
+},
+{
+"workName": "泰坦尼克号",
+"originalName": "Titanic",
+"workHash": "titanic"
+},
+{
+"workName": "千与千寻",
+"originalName": "千と千尋の神隠し",
+"workHash": "千と千尋の神隠し"
+},
+{
+"workName": "宝可梦 红·绿",
+"originalName": "Pokémon Red and Green",
+"workHash": "pokemonredandgreen"
+},
+{
+"workName": "冬天里的一把火",
+"originalName": "冬天里的一把火",
+"workHash": "冬天里的一把火"
+},
+{
+"workName": "愚公移山",
+"originalName": "愚公移山",
+"workHash": "愚公移山"
+},
+{
+"workName": "权力的游戏",
+"originalName": "Game of Thrones",
+"workHash": "gameofthrones"
+}
+]
+}
+}

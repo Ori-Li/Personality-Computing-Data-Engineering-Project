@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 288 528" width="288" height="528">
+	<desc>
+		Game screen of a typical Tetris game in the most common piece colors. This game
+		utilizes a ghost piece (outline at bottom right). When the falling piece reaches
+		the bottom, it will clear four lines at once. Clearing four lines at once is called
+		a "Tetris" move, and yields the highest score for line-clearing moves.
+	</desc>
+	<defs>
+		<pattern id="screenBorderDef" width="24" height="24" patternUnits="userSpaceOnUse">
+			<rect x="2" y="2" width="20" height="20" fill="#777"/>
+			<polygon fill="#999" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#333" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</pattern>
+		<g id="red"> <!-- color for "Z" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#c00"/>
+			<polygon fill="#f00" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#900" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="orange"> <!-- color for "L" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#c60"/>
+			<polygon fill="#f80" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#940" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="yellow"> <!-- color for "O" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#cc0"/>
+			<polygon fill="#ff0" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#990" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="green"> <!-- color for "S" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#0c0"/>
+			<polygon fill="#0f0" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#090" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="cyan"> <!-- color for "I" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#0cc"/>
+			<polygon fill="#0ff" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#099" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="cyanGhost"> <!-- ghost piece for "I" tetromino -->
+			<rect x="0" y="0" width="24" height="24" fill="#0cc"/>
+			<rect x="1" y="1" width="22" height="22" fill="#000"/>
+		</g>
+		<g id="blue"> <!-- color for "J" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#00c"/>
+			<polygon fill="#00f" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#009" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="violet"> <!-- color for "T" tetromino -->
+			<rect x="2" y="2" width="20" height="20" fill="#90c"/>
+			<polygon fill="#c0f" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#609" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+	</defs>
+
+	<!-- The grey border around 10 block wide by 20 block deep game well -->
+	<rect fill="url(#screenBorderDef)" x="0" y="0" width="288" height="528"/>
+	<rect fill="#000" x="24" y="24" width="240" height="480"/>
+
+	
+	<!-- the falling piece -->
+	<use xlink:href="#cyan" transform="translate(240,144)"/>
+	<use xlink:href="#cyan" transform="translate(240,168)"/>
+	<use xlink:href="#cyan" transform="translate(240,192)"/>
+	<use xlink:href="#cyan" transform="translate(240,216)"/>
+
+
+	<!-- there is a group for each row -->
+	<use xlink:href="#violet" transform="translate(24,288)"/>
+	<use xlink:href="#yellow" transform="translate(96,288)"/>
+	<use xlink:href="#yellow" transform="translate(120,288)"/>
+	<use xlink:href="#green" transform="translate(144,288)"/>
+	
+	<use xlink:href="#violet" transform="translate(24,312)"/>
+	<use xlink:href="#violet" transform="translate(48,312)"/>
+	<use xlink:href="#red" transform="translate(72,312)"/>
+	<use xlink:href="#yellow" transform="translate(96,312)"/>
+	<use xlink:href="#yellow" transform="translate(120,312)"/>
+	<use xlink:href="#green" transform="translate(144,312)"/>
+	<use xlink:href="#green" transform="translate(168,312)"/>
+	
+	<use xlink:href="#violet" transform="translate(24,336)"/>
+	<use xlink:href="#red" transform="translate(48,336)"/>
+	<use xlink:href="#red" transform="translate(72,336)"/>
+	<use xlink:href="#violet" transform="translate(96,336)"/>
+	<use xlink:href="#red" transform="translate(120,336)"/>
+	<use xlink:href="#red" transform="translate(144,336)"/>
+	<use xlink:href="#green" transform="translate(168,336)"/>
+	
+	<use xlink:href="#green" transform="translate(24,360)"/>
+	<use xlink:href="#red" transform="translate(48,360)"/>
+	<use xlink:href="#orange" transform="translate(72,360)"/>
+	<use xlink:href="#violet" transform="translate(96,360)"/>
+	<use xlink:href="#violet" transform="translate(120,360)"/>
+	<use xlink:href="#red" transform="translate(144,360)"/>
+	<use xlink:href="#red" transform="translate(168,360)"/>
+	<use xlink:href="#orange" transform="translate(192,360)"/>
+	
+	<use xlink:href="#green" transform="translate(24,384)"/>
+	<use xlink:href="#green" transform="translate(48,384)"/>
+	<use xlink:href="#orange" transform="translate(72,384)"/>
+	<use xlink:href="#violet" transform="translate(96,384)"/>
+	<use xlink:href="#yellow" transform="translate(120,384)"/>
+	<use xlink:href="#yellow" transform="translate(144,384)"/>
+	<use xlink:href="#blue" transform="translate(168,384)"/>
+	<use xlink:href="#orange" transform="translate(192,384)"/>
+
+	<use xlink:href="#blue" transform="translate(24,408)"/>
+	<use xlink:href="#green" transform="translate(48,408)"/>
+	<use xlink:href="#orange" transform="translate(72,408)"/>
+	<use xlink:href="#orange" transform="translate(96,408)"/>
+	<use xlink:href="#yellow" transform="translate(120,408)"/>
+	<use xlink:href="#yellow" transform="translate(144,408)"/>
+	<use xlink:href="#blue" transform="translate(168,408)"/>
+	<use xlink:href="#orange" transform="translate(192,408)"/>
+	<use xlink:href="#orange" transform="translate(216,408)"/>
+	<use xlink:href="#cyanGhost" transform="translate(240,408)"/>
+
+	<use xlink:href="#blue" transform="translate(24,432)"/>
+	<use xlink:href="#blue" transform="translate(48,432)"/>
+	<use xlink:href="#blue" transform="translate(72,432)"/>
+	<use xlink:href="#orange" transform="translate(96,432)"/>
+	<use xlink:href="#violet" transform="translate(120,432)"/>
+	<use xlink:href="#blue" transform="translate(144,432)"/>
+	<use xlink:href="#blue" transform="translate(168,432)"/>
+	<use xlink:href="#red" transform="translate(192,432)"/>
+	<use xlink:href="#cyan" transform="translate(216,432)"/>
+	<use xlink:href="#cyanGhost" transform="translate(240,432)"/>
+
+	<use xlink:href="#cyan" transform="translate(24,456)"/>
+	<use xlink:href="#orange" transform="translate(48,456)"/>
+	<use xlink:href="#orange" transform="translate(72,456)"/>
+	<use xlink:href="#orange" transform="translate(96,456)"/>
+	<use xlink:href="#violet" transform="translate(120,456)"/>
+	<use xlink:href="#violet" transform="translate(144,456)"/>
+	<use xlink:href="#red" transform="translate(168,456)"/>
+	<use xlink:href="#red" transform="translate(192,456)"/>
+	<use xlink:href="#cyan" transform="translate(216,456)"/>
+	<use xlink:href="#cyanGhost" transform="translate(240,456)"/>
+
+	<use xlink:href="#cyan" transform="translate(24,480)"/>
+	<use xlink:href="#yellow" transform="translate(48,480)"/>
+	<use xlink:href="#yellow" transform="translate(72,480)"/>
+	<use xlink:href="#green" transform="translate(96,480)"/>
+	<use xlink:href="#violet" transform="translate(120,480)"/>
+	<use xlink:href="#cyan" transform="translate(144,480)"/>
+	<use xlink:href="#red" transform="translate(168,480)"/>
+	<use xlink:href="#red" transform="translate(192,480)"/>
+	<use xlink:href="#cyan" transform="translate(216,480)"/>
+	<use xlink:href="#cyanGhost" transform="translate(240,480)"/>
+</svg>

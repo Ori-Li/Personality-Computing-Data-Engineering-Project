@@ -1,0 +1,185 @@
+[ 
+    
+
+{
+
+    "id":0,
+
+    "characterType":"真实人物",
+
+    "characterSubType":"国际人物",
+
+    "birthYear": 1920,
+
+    "birthMonth" :"unknown",
+
+    "birthDay":"unknown",
+
+     "deathYear": "unknown",
+
+    "deathMonth" :"unknown",
+
+    "deathDay": "unknown",
+
+    "areaName":"白俄罗斯",
+
+    "originalAreaName":"苏联",
+
+    "filedName":"科学",
+
+
+"name": [
+
+{
+
+
+"characterName":"你好",
+
+"nameType":"中文名"
+
+},
+
+{
+
+
+"characterName":"Привет",
+
+"nameType":"母语名"
+
+},
+
+
+{
+
+
+"characterName":"Hello",
+
+"nameType":"英文名"
+
+}
+
+]
+
+},
+
+
+
+
+{
+
+    "id":"realCharacter_中国_1990_002",
+
+    "characterType":"真实人物",
+
+    
+    "characterSubType":"中国人物",
+
+    "birthYear": 1990,
+
+    "birthMonth" : 12,
+
+    "birthDay": 21,
+
+     "deathYear": "stillAlive",
+
+    "deathMonth" :"stillAlive",
+
+    "deathDay": "stillAlive",
+
+    "areaName":"中国",
+
+    "originalAreaName":"中国",
+
+    "filedName":"影视",
+    
+    "ownWork":[
+
+        {"workName" : "梦游记", "realationShip" : "编剧" ,"workId": "movie_中国_2010_001"},
+
+          {"workName" : "梦游记2", "realationShip" : "演员" ,"workId": "movie_中国_2021_001"}
+
+    
+        
+    ],
+
+"name": [
+
+{
+
+
+"characterName":"你好2",
+
+"nameType":"中文名"
+
+},
+
+{
+
+
+"characterName":"你好2",
+
+"nameType":"母语名"
+
+},
+
+
+{
+
+
+"characterName":"Hello2",
+
+"nameType":"英文名"
+
+}
+
+]
+
+},
+
+
+
+
+
+{
+
+    "id":"virtualCharacter_梦游记_2010_002",
+
+    "characterType":"虚拟人物",
+
+ 
+    
+    "workName":"梦游记",
+
+   "workId": "movie_中国_2010_001",
+
+
+
+"name": [
+
+{
+
+
+"characterName":"你好3",
+
+"nameType":"中文名"
+
+},
+
+{
+
+
+"characterName":"你好3",
+
+"nameType":"原作名"
+
+}
+
+
+
+]
+
+
+
+}
+
+]

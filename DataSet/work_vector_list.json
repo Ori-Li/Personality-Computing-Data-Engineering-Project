@@ -1,0 +1,1945 @@
+
+{
+  "items": [
+    {
+      "basic": {
+        "name": "红楼梦",
+        "type": "小说",
+        "countryName": "中国",
+        "year": 1750,
+        "confidence": 1.0
+      },
+      "semantic": {
+        "summary": "通过贾宝玉、林黛玉等人物关系描绘封建家族兴衰、人性情感与社会结构，以细腻心理描写、诗词艺术和哲学思考构建复杂文学世界。",
+        "themes": ["家族兴衰", "爱情悲剧", "人性", "社会结构", "生命无常"],
+        "keywords": ["贵族家庭", "情感", "命运", "诗意", "心理描写"],
+        "core_experience": "提供深度情感共鸣与人生反思体验，使读者感受到复杂人性、关系变化和时代悲剧。"
+      },
+      "experience_vector": {
+        "passion": 0.3,
+        "healing": 0.4,
+        "awe": 0.7,
+        "nostalgia": 0.8,
+        "reflection": 1.0,
+        "romance": 0.8,
+        "tension": 0.5,
+        "warmth": 0.6,
+        "loneliness": 0.8,
+        "hope": 0.3
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.9,
+          "complexity": 1.0,
+          "depth_of_thought": 1.0,
+          "logical_structure": 0.7,
+          "novelty": 0.7,
+          "exploration": 0.8,
+          "ambiguity": 0.9,
+          "predictability": 0.2,
+          "information_density": 1.0,
+          "learning_value": 1.0
+        },
+        "worldview": {
+          "personal_scale": 0.7,
+          "relationship_scale": 1.0,
+          "social_scale": 0.9,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.2,
+          "time_span": 0.8,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.3,
+          "sadness": 0.9,
+          "loneliness": 0.8,
+          "warmth": 0.6,
+          "fear": 0.1,
+          "tension": 0.5,
+          "awe": 0.7,
+          "nostalgia": 0.9,
+          "hope": 0.3,
+          "melancholy": 1.0,
+          "anger": 0.2,
+          "peace": 0.4
+        },
+        "aesthetic": {
+          "beauty": 1.0,
+          "minimalism": 0.2,
+          "luxury": 0.7,
+          "darkness": 0.5,
+          "brightness": 0.5,
+          "dreamlike": 0.6,
+          "mystery": 0.5,
+          "experimental": 0.5,
+          "classical": 1.0,
+          "modern": 0.2
+        },
+        "narrative": {
+          "plot_complexity": 0.8,
+          "character_depth": 1.0,
+          "character_growth": 0.8,
+          "world_building": 0.9,
+          "nonlinear_structure": 0.5,
+          "slow_immersion": 1.0,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.6,
+          "philosophical_depth": 1.0
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.8,
+          "family": 1.0,
+          "friendship": 0.7,
+          "love": 0.9,
+          "community": 0.6,
+          "competition": 0.4,
+          "cooperation": 0.5,
+          "power_relationship": 0.8,
+          "identity": 0.8
+        },
+        "value": {
+          "freedom": 0.7,
+          "order": 0.5,
+          "truth": 0.8,
+          "beauty": 1.0,
+          "achievement": 0.4,
+          "justice": 0.4,
+          "sacrifice": 0.7,
+          "self_exploration": 1.0,
+          "tradition": 0.9,
+          "change": 0.4,
+          "survival": 0.5,
+          "meaning": 1.0
+        },
+        "behavior": {
+          "curiosity": 0.7,
+          "creation": 0.6,
+          "adventure": 0.1,
+          "reflection": 1.0,
+          "competition": 0.2,
+          "social": 0.6,
+          "discipline": 0.5,
+          "risk": 0.2,
+          "calm": 0.7,
+          "escape": 0.5
+        },
+        "sensory": {
+          "visual_intensity": 0.5,
+          "color_richness": 0.7,
+          "sound_intensity": 0.3,
+          "rhythm_energy": 0.2,
+          "atmosphere": 1.0,
+          "immersion": 0.9
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 1.0,
+          "writing_style": 1.0,
+          "narrative_voice": 0.9,
+          "symbolism": 0.9,
+          "inner_monologue": 1.0,
+          "world_building_depth": 0.9
+        }
+      },
+      "personality_affinity": {
+        "Ni": 1.0,
+        "Ne": 0.5,
+        "Ti": 0.5,
+        "Te": 0.3,
+        "Fi": 1.0,
+        "Fe": 0.8,
+        "Si": 1.0,
+        "Se": 0.2,
+        "Assertive": 0.3,
+        "Turbulent": 1.0
+      },
+      "evidence": [
+        {
+          "dimension": "depth_of_thought",
+          "score": 1.0,
+          "evidence_strength": 1.0,
+          "reason": "作品通过复杂人物心理和社会结构展现深层人性分析。"
+        },
+        {
+          "dimension": "nostalgia",
+          "score": 0.9,
+          "evidence_strength": 0.9,
+          "reason": "描绘传统家族生活和时代变迁，产生历史文化记忆体验。"
+        },
+        {
+          "dimension": "Fi",
+          "score": 1.0,
+          "evidence_strength": 1.0,
+          "reason": "核心体验集中于个人情感、身份和内心价值冲突。"
+        }
+      ]
+    },
+
+
+       {
+      "basic": {
+        "name": "西游记",
+        "type": "小说",
+        "countryName": "中国",
+        "year": 1590,
+        "confidence": 1.0
+      },
+      "semantic": {
+        "summary": "《西游记》通过唐僧师徒西天取经的神话旅程构建宏大的幻想世界，融合佛教思想、民间传说和社会讽刺，通过孙悟空等角色展现自由、成长、规则、信念与自我超越。",
+        "themes": [
+          "成长",
+          "自由",
+          "信念",
+          "神话世界",
+          "自我超越",
+          "规则与反抗"
+        ],
+        "keywords": [
+          "孙悟空",
+          "取经",
+          "神魔",
+          "冒险",
+          "佛道思想",
+          "幻想"
+        ],
+        "core_experience": "提供充满想象力的英雄成长体验，让读者在奇幻冒险中体验突破限制、寻找意义和建立信念的过程。"
+      },
+      "experience_vector": {
+        "passion": 0.8,
+        "healing": 0.5,
+        "awe": 0.9,
+        "nostalgia": 0.8,
+        "reflection": 0.7,
+        "romance": 0.2,
+        "tension": 0.7,
+        "warmth": 0.7,
+        "loneliness": 0.3,
+        "hope": 0.9
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.8,
+          "complexity": 0.8,
+          "depth_of_thought": 0.8,
+          "logical_structure": 0.5,
+          "novelty": 0.9,
+          "exploration": 1.0,
+          "ambiguity": 0.6,
+          "predictability": 0.4,
+          "information_density": 0.8,
+          "learning_value": 0.9
+        },
+        "worldview": {
+          "personal_scale": 0.7,
+          "relationship_scale": 0.7,
+          "social_scale": 0.6,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.9,
+          "time_span": 0.7,
+          "fantasy_level": 1.0
+        },
+        "emotion": {
+          "happiness": 0.7,
+          "sadness": 0.4,
+          "loneliness": 0.3,
+          "warmth": 0.8,
+          "fear": 0.5,
+          "tension": 0.7,
+          "awe": 0.9,
+          "nostalgia": 0.8,
+          "hope": 0.9,
+          "melancholy": 0.3,
+          "anger": 0.5,
+          "peace": 0.6
+        },
+        "aesthetic": {
+          "beauty": 0.8,
+          "minimalism": 0.1,
+          "luxury": 0.3,
+          "darkness": 0.4,
+          "brightness": 0.7,
+          "dreamlike": 1.0,
+          "mystery": 0.9,
+          "experimental": 0.5,
+          "classical": 0.9,
+          "modern": 0.2
+        },
+        "narrative": {
+          "plot_complexity": 0.8,
+          "character_depth": 0.8,
+          "character_growth": 1.0,
+          "world_building": 1.0,
+          "nonlinear_structure": 0.2,
+          "slow_immersion": 0.6,
+          "action_intensity": 0.8,
+          "conflict_intensity": 0.8,
+          "philosophical_depth": 0.8
+        },
+        "social_relationship": {
+          "individualism": 0.7,
+          "collectivism": 0.7,
+          "family": 0.3,
+          "friendship": 1.0,
+          "love": 0.2,
+          "community": 0.7,
+          "competition": 0.5,
+          "cooperation": 1.0,
+          "power_relationship": 0.7,
+          "identity": 0.9
+        },
+        "value": {
+          "freedom": 1.0,
+          "order": 0.6,
+          "truth": 0.8,
+          "beauty": 0.7,
+          "achievement": 0.8,
+          "justice": 0.7,
+          "sacrifice": 0.8,
+          "self_exploration": 0.9,
+          "tradition": 0.8,
+          "change": 0.8,
+          "survival": 0.7,
+          "meaning": 0.9
+        },
+        "behavior": {
+          "curiosity": 1.0,
+          "creation": 0.6,
+          "adventure": 1.0,
+          "reflection": 0.7,
+          "competition": 0.5,
+          "social": 0.8,
+          "discipline": 0.7,
+          "risk": 0.8,
+          "calm": 0.4,
+          "escape": 0.9
+        },
+        "sensory": {
+          "visual_intensity": 0.8,
+          "color_richness": 0.9,
+          "sound_intensity": 0.4,
+          "rhythm_energy": 0.6,
+          "atmosphere": 0.9,
+          "immersion": 1.0
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.8,
+          "writing_style": 0.8,
+          "narrative_voice": 0.8,
+          "symbolism": 0.9,
+          "inner_monologue": 0.5,
+          "world_building_depth": 1.0
+        }
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 1.0,
+        "Ti": 0.5,
+        "Te": 0.4,
+        "Fi": 0.8,
+        "Fe": 0.8,
+        "Si": 0.7,
+        "Se": 0.8,
+        "Assertive": 0.7,
+        "Turbulent": 0.8
+      },
+      "evidence": [
+        {
+          "dimension": "fantasy_level",
+          "score": 1.0,
+          "evidence_strength": 1.0,
+          "reason": "作品构建包含神仙、妖怪和多层世界结构的幻想体系。"
+        },
+        {
+          "dimension": "exploration",
+          "score": 1.0,
+          "evidence_strength": 1.0,
+          "reason": "核心叙事围绕长期旅程、未知世界探索和挑战展开。"
+        },
+        {
+          "dimension": "Ne",
+          "score": 1.0,
+          "evidence_strength": 1.0,
+          "reason": "丰富想象元素、多样神话设定和开放式创造空间吸引高度想象型受众。"
+        }
+      ]
+    },
+
+{
+  "basic": {
+    "name": "三国演义",
+    "type": "小说",
+    "countryName": "中国",
+    "year": 1368,
+    "confidence": 1.0
+  },
+  "semantic": {
+    "summary": "《三国演义》以东汉末年至三国时期的政治军事斗争为背景，通过群雄争霸、国家兴亡和英雄人物命运展现权力、谋略、忠诚与时代变迁。作品结合历史叙事、战争描写和人物塑造，形成中国传统英雄史诗式文学体验。",
+    "themes": [
+      "权力斗争",
+      "英雄主义",
+      "战略谋略",
+      "历史循环",
+      "忠诚与背叛",
+      "时代变迁"
+    ],
+    "keywords": [
+      "三国",
+      "战争",
+      "谋略",
+      "英雄",
+      "政治",
+      "历史"
+    ],
+    "core_experience": "提供宏大历史视角下的战略思考和英雄叙事体验，使读者体验权力博弈、个人选择与时代洪流之间的关系。"
+  },
+  "experience_vector": {
+    "passion": 0.7,
+    "healing": 0.2,
+    "awe": 0.8,
+    "nostalgia": 0.7,
+    "reflection": 0.8,
+    "romance": 0.3,
+    "tension": 0.9,
+    "warmth": 0.4,
+    "loneliness": 0.5,
+    "hope": 0.5
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.7,
+      "complexity": 0.9,
+      "depth_of_thought": 0.9,
+      "logical_structure": 1.0,
+      "novelty": 0.6,
+      "exploration": 0.7,
+      "ambiguity": 0.5,
+      "predictability": 0.5,
+      "information_density": 1.0,
+      "learning_value": 1.0
+    },
+    "worldview": {
+      "personal_scale": 0.6,
+      "relationship_scale": 0.8,
+      "social_scale": 1.0,
+      "civilization_scale": 0.9,
+      "cosmic_scale": 0.2,
+      "time_span": 0.9,
+      "fantasy_level": 0.2
+    },
+    "emotion": {
+      "happiness": 0.3,
+      "sadness": 0.6,
+      "loneliness": 0.5,
+      "warmth": 0.4,
+      "fear": 0.4,
+      "tension": 0.9,
+      "awe": 0.8,
+      "nostalgia": 0.8,
+      "hope": 0.5,
+      "melancholy": 0.6,
+      "anger": 0.5,
+      "peace": 0.2
+    },
+    "aesthetic": {
+      "beauty": 0.7,
+      "minimalism": 0.2,
+      "luxury": 0.4,
+      "darkness": 0.5,
+      "brightness": 0.4,
+      "dreamlike": 0.2,
+      "mystery": 0.4,
+      "experimental": 0.3,
+      "classical": 1.0,
+      "modern": 0.3
+    },
+    "narrative": {
+      "plot_complexity": 1.0,
+      "character_depth": 0.9,
+      "character_growth": 0.8,
+      "world_building": 0.9,
+      "nonlinear_structure": 0.5,
+      "slow_immersion": 0.7,
+      "action_intensity": 0.9,
+      "conflict_intensity": 1.0,
+      "philosophical_depth": 0.8
+    },
+    "social_relationship": {
+      "individualism": 0.6,
+      "collectivism": 0.8,
+      "family": 0.6,
+      "friendship": 0.7,
+      "love": 0.3,
+      "community": 0.7,
+      "competition": 1.0,
+      "cooperation": 0.8,
+      "power_relationship": 1.0,
+      "identity": 0.8
+    },
+    "value": {
+      "freedom": 0.5,
+      "order": 0.8,
+      "truth": 0.7,
+      "beauty": 0.6,
+      "achievement": 0.9,
+      "justice": 0.6,
+      "sacrifice": 0.8,
+      "self_exploration": 0.5,
+      "tradition": 0.9,
+      "change": 0.7,
+      "survival": 0.9,
+      "meaning": 0.8
+    },
+    "behavior": {
+      "curiosity": 0.8,
+      "creation": 0.4,
+      "adventure": 0.7,
+      "reflection": 0.8,
+      "competition": 1.0,
+      "social": 0.8,
+      "discipline": 0.8,
+      "risk": 0.8,
+      "calm": 0.2,
+      "escape": 0.4
+    },
+    "sensory": {
+      "visual_intensity": 0.7,
+      "color_richness": 0.5,
+      "sound_intensity": 0.4,
+      "rhythm_energy": 0.7,
+      "atmosphere": 0.8,
+      "immersion": 0.9
+    }
+  },
+  "media_vector": {
+    "novel_vector": {
+      "literary_depth": 0.8,
+      "writing_style": 0.8,
+      "narrative_voice": 0.9,
+      "symbolism": 0.7,
+      "inner_monologue": 0.5,
+      "world_building_depth": 0.9
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.8,
+    "Ne": 0.6,
+    "Ti": 0.9,
+    "Te": 1.0,
+    "Fi": 0.5,
+    "Fe": 0.7,
+    "Si": 0.8,
+    "Se": 0.7,
+    "Assertive": 0.6,
+    "Turbulent": 0.7
+  },
+  "evidence": [
+    {
+      "dimension": "logical_structure",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品核心围绕军事战略、政治布局和多方势力博弈展开，需要复杂因果理解。"
+    },
+    {
+      "dimension": "Te",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "大量呈现领导、组织、资源管理和战略决策体验，吸引策略型认知偏好。"
+    },
+    {
+      "dimension": "power_relationship",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "故事主要冲突来自国家、集团和人物之间的权力竞争。"
+    },
+    {
+      "dimension": "historical_scale",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "作品通过长期历史进程展现时代变化和文明尺度的问题。"
+    }
+  ]
+},
+
+{
+  "basic": {
+    "name": "英雄",
+    "type": "电影",
+    "countryName": "中国",
+    "year": 2002,
+    "confidence": 0.9
+  },
+  "semantic": {
+    "summary": "《英雄》是一部中国武侠电影，通过刺客与秦王之间关于刺杀、天下、牺牲和个人选择的故事，探讨个人价值与国家统一之间的矛盾。影片采用高度风格化的色彩设计、武术动作和东方美学表达，将传统武侠精神转化为现代电影视觉体验。",
+    "themes": [
+      "英雄主义",
+      "牺牲",
+      "国家与个人",
+      "和平",
+      "武侠精神",
+      "东方美学"
+    ],
+    "keywords": [
+      "武侠",
+      "秦王",
+      "刺客",
+      "剑术",
+      "色彩美学",
+      "天下"
+    ],
+    "core_experience": "提供宏大视觉审美与价值选择体验，使观众思考个人情感、复仇欲望与更高层次目标之间的关系。"
+  },
+  "experience_vector": {
+    "passion": 0.7,
+    "healing": 0.3,
+    "awe": 1.0,
+    "nostalgia": 0.6,
+    "reflection": 0.9,
+    "romance": 0.4,
+    "tension": 0.8,
+    "warmth": 0.3,
+    "loneliness": 0.6,
+    "hope": 0.6
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.8,
+      "complexity": 0.7,
+      "depth_of_thought": 0.8,
+      "logical_structure": 0.6,
+      "novelty": 0.8,
+      "exploration": 0.6,
+      "ambiguity": 0.8,
+      "predictability": 0.4,
+      "information_density": 0.7,
+      "learning_value": 0.6
+    },
+    "worldview": {
+      "personal_scale": 0.6,
+      "relationship_scale": 0.6,
+      "social_scale": 0.8,
+      "civilization_scale": 0.9,
+      "cosmic_scale": 0.2,
+      "time_span": 0.6,
+      "fantasy_level": 0.5
+    },
+    "emotion": {
+      "happiness": 0.2,
+      "sadness": 0.5,
+      "loneliness": 0.6,
+      "warmth": 0.3,
+      "fear": 0.3,
+      "tension": 0.8,
+      "awe": 1.0,
+      "nostalgia": 0.6,
+      "hope": 0.6,
+      "melancholy": 0.7,
+      "anger": 0.5,
+      "peace": 0.7
+    },
+    "aesthetic": {
+      "beauty": 1.0,
+      "minimalism": 0.5,
+      "luxury": 0.7,
+      "darkness": 0.4,
+      "brightness": 0.8,
+      "dreamlike": 0.8,
+      "mystery": 0.7,
+      "experimental": 0.7,
+      "classical": 0.8,
+      "modern": 0.7
+    },
+    "narrative": {
+      "plot_complexity": 0.7,
+      "character_depth": 0.7,
+      "character_growth": 0.5,
+      "world_building": 0.6,
+      "nonlinear_structure": 0.7,
+      "slow_immersion": 0.5,
+      "action_intensity": 0.9,
+      "conflict_intensity": 0.8,
+      "philosophical_depth": 0.8
+    },
+    "social_relationship": {
+      "individualism": 0.7,
+      "collectivism": 0.8,
+      "family": 0.2,
+      "friendship": 0.4,
+      "love": 0.5,
+      "community": 0.5,
+      "competition": 0.5,
+      "cooperation": 0.4,
+      "power_relationship": 0.9,
+      "identity": 0.8
+    },
+    "value": {
+      "freedom": 0.6,
+      "order": 0.8,
+      "truth": 0.8,
+      "beauty": 1.0,
+      "achievement": 0.6,
+      "justice": 0.6,
+      "sacrifice": 1.0,
+      "self_exploration": 0.7,
+      "tradition": 0.8,
+      "change": 0.5,
+      "survival": 0.5,
+      "meaning": 0.9
+    },
+    "behavior": {
+      "curiosity": 0.6,
+      "creation": 0.5,
+      "adventure": 0.7,
+      "reflection": 0.9,
+      "competition": 0.6,
+      "social": 0.5,
+      "discipline": 0.8,
+      "risk": 0.7,
+      "calm": 0.5,
+      "escape": 0.6
+    },
+    "sensory": {
+      "visual_intensity": 1.0,
+      "color_richness": 1.0,
+      "sound_intensity": 0.8,
+      "rhythm_energy": 0.7,
+      "atmosphere": 1.0,
+      "immersion": 0.9
+    }
+  },
+  "media_vector": {
+    "movie_vector": {
+      "cinematic_scale": 0.9,
+      "visual_storytelling": 1.0,
+      "soundtrack_importance": 0.8,
+      "actor_expression": 0.8,
+      "director_style": 1.0
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.9,
+    "Ne": 0.5,
+    "Ti": 0.6,
+    "Te": 0.7,
+    "Fi": 0.8,
+    "Fe": 0.6,
+    "Si": 0.7,
+    "Se": 1.0,
+    "Assertive": 0.7,
+    "Turbulent": 0.7
+  },
+  "evidence": [
+    {
+      "dimension": "visual_storytelling",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "影片大量依靠色彩、构图、动作设计和东方美学传递情绪与意义。"
+    },
+    {
+      "dimension": "awe",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "宏大的历史背景和高度风格化视觉创造强烈震撼体验。"
+    },
+    {
+      "dimension": "Ni",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "作品围绕天下、牺牲、个人与国家关系等抽象价值展开。"
+    },
+    {
+      "dimension": "Se",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "武术动作、视觉色彩和电影感官刺激构成核心观看体验。"
+    }
+  ]
+}
+
+,
+
+{
+  "basic": {
+    "name": "泰坦尼克号",
+    "type": "电影",
+    "countryName": "美国",
+    "year": 1997,
+    "confidence": 1.0
+  },
+  "semantic": {
+    "summary": "《泰坦尼克号》以1912年泰坦尼克号沉船事件为背景，通过杰克与露丝跨越阶层的爱情故事，展现个人情感、时代限制、灾难中的人性选择与生命价值。影片结合宏大历史场景、灾难视觉奇观和细腻情感表达，创造了跨文化传播的经典爱情叙事体验。",
+    "themes": [
+      "爱情",
+      "命运",
+      "阶层冲突",
+      "牺牲",
+      "生命价值",
+      "自由选择"
+    ],
+    "keywords": [
+      "泰坦尼克号",
+      "爱情",
+      "灾难",
+      "阶级",
+      "牺牲",
+      "历史事件"
+    ],
+    "core_experience": "提供强烈情感沉浸体验，使观众在浪漫关系和灾难背景中体验爱、失去、勇气与生命意义。"
+  },
+  "experience_vector": {
+    "passion": 0.8,
+    "healing": 0.6,
+    "awe": 0.9,
+    "nostalgia": 0.7,
+    "reflection": 0.8,
+    "romance": 1.0,
+    "tension": 0.9,
+    "warmth": 0.8,
+    "loneliness": 0.7,
+    "hope": 0.7
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.5,
+      "complexity": 0.6,
+      "depth_of_thought": 0.6,
+      "logical_structure": 0.5,
+      "novelty": 0.5,
+      "exploration": 0.4,
+      "ambiguity": 0.3,
+      "predictability": 0.6,
+      "information_density": 0.6,
+      "learning_value": 0.6
+    },
+    "worldview": {
+      "personal_scale": 0.9,
+      "relationship_scale": 0.9,
+      "social_scale": 0.8,
+      "civilization_scale": 0.7,
+      "cosmic_scale": 0.1,
+      "time_span": 0.6,
+      "fantasy_level": 0.0
+    },
+    "emotion": {
+      "happiness": 0.4,
+      "sadness": 1.0,
+      "loneliness": 0.7,
+      "warmth": 0.8,
+      "fear": 0.8,
+      "tension": 0.9,
+      "awe": 0.9,
+      "nostalgia": 0.8,
+      "hope": 0.7,
+      "melancholy": 0.9,
+      "anger": 0.4,
+      "peace": 0.4
+    },
+    "aesthetic": {
+      "beauty": 1.0,
+      "minimalism": 0.2,
+      "luxury": 1.0,
+      "darkness": 0.5,
+      "brightness": 0.7,
+      "dreamlike": 0.6,
+      "mystery": 0.3,
+      "experimental": 0.3,
+      "classical": 0.7,
+      "modern": 0.7
+    },
+    "narrative": {
+      "plot_complexity": 0.5,
+      "character_depth": 0.8,
+      "character_growth": 0.8,
+      "world_building": 0.7,
+      "nonlinear_structure": 0.2,
+      "slow_immersion": 0.7,
+      "action_intensity": 0.7,
+      "conflict_intensity": 0.8,
+      "philosophical_depth": 0.6
+    },
+    "social_relationship": {
+      "individualism": 0.8,
+      "collectivism": 0.4,
+      "family": 0.5,
+      "friendship": 0.4,
+      "love": 1.0,
+      "community": 0.5,
+      "competition": 0.3,
+      "cooperation": 0.5,
+      "power_relationship": 0.7,
+      "identity": 0.8
+    },
+    "value": {
+      "freedom": 0.9,
+      "order": 0.4,
+      "truth": 0.6,
+      "beauty": 0.9,
+      "achievement": 0.4,
+      "justice": 0.6,
+      "sacrifice": 1.0,
+      "self_exploration": 0.8,
+      "tradition": 0.5,
+      "change": 0.7,
+      "survival": 0.9,
+      "meaning": 0.8
+    },
+    "behavior": {
+      "curiosity": 0.5,
+      "creation": 0.3,
+      "adventure": 0.6,
+      "reflection": 0.8,
+      "competition": 0.2,
+      "social": 0.8,
+      "discipline": 0.4,
+      "risk": 0.7,
+      "calm": 0.3,
+      "escape": 0.5
+    },
+    "sensory": {
+      "visual_intensity": 1.0,
+      "color_richness": 0.8,
+      "sound_intensity": 0.9,
+      "rhythm_energy": 0.7,
+      "atmosphere": 1.0,
+      "immersion": 1.0
+    }
+  },
+  "media_vector": {
+    "movie_vector": {
+      "cinematic_scale": 1.0,
+      "visual_storytelling": 0.9,
+      "soundtrack_importance": 1.0,
+      "actor_expression": 0.9,
+      "director_style": 0.8
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.6,
+    "Ne": 0.4,
+    "Ti": 0.3,
+    "Te": 0.3,
+    "Fi": 1.0,
+    "Fe": 0.9,
+    "Si": 0.8,
+    "Se": 0.8,
+    "Assertive": 0.5,
+    "Turbulent": 0.9
+  },
+  "evidence": [
+    {
+      "dimension": "romance",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品核心围绕跨越阶层限制的爱情关系展开。"
+    },
+    {
+      "dimension": "cinematic_scale",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "宏大的船体复原、灾难场景和视觉制作构成电影核心体验。"
+    },
+    {
+      "dimension": "Fi",
+      "score": 1.0,
+      "evidence_strength": 0.9,
+      "reason": "作品强调个人选择、真实情感和追求内心自由。"
+    },
+    {
+      "dimension": "Turbulent",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "灾难、失去和情感牺牲带来强烈情绪波动和自我反思体验。"
+    }
+  ]
+}
+,
+
+{
+  "basic": {
+    "name": "千与千寻",
+    "type": "动漫",
+    "countryName": "日本",
+    "year": 2001,
+    "confidence": 1.0
+  },
+  "semantic": {
+    "summary": "《千与千寻》通过少女千寻进入神秘异世界后的成长经历，探讨身份、劳动、勇气、人与自然以及现代社会中的自我寻找。作品融合日本传统文化符号、幻想世界构建和细腻情感表达，形成具有普遍意义的成长寓言。",
+    "themes": [
+      "成长",
+      "自我发现",
+      "人与自然",
+      "身份认同",
+      "勇气",
+      "纯真与变化"
+    ],
+    "keywords": [
+      "神隐",
+      "幻想世界",
+      "成长",
+      "温泉",
+      "灵魂",
+      "日本文化"
+    ],
+    "core_experience": "提供温柔而深刻的成长体验，让观众在奇幻旅程中感受自我建立、面对未知和保持内心纯真的过程。"
+  },
+  "experience_vector": {
+    "passion": 0.5,
+    "healing": 0.9,
+    "awe": 0.9,
+    "nostalgia": 0.8,
+    "reflection": 0.9,
+    "romance": 0.3,
+    "tension": 0.6,
+    "warmth": 1.0,
+    "loneliness": 0.5,
+    "hope": 0.9
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.8,
+      "complexity": 0.7,
+      "depth_of_thought": 0.8,
+      "logical_structure": 0.5,
+      "novelty": 0.9,
+      "exploration": 0.9,
+      "ambiguity": 0.7,
+      "predictability": 0.4,
+      "information_density": 0.7,
+      "learning_value": 0.8
+    },
+    "worldview": {
+      "personal_scale": 0.8,
+      "relationship_scale": 0.7,
+      "social_scale": 0.6,
+      "civilization_scale": 0.5,
+      "cosmic_scale": 0.4,
+      "time_span": 0.5,
+      "fantasy_level": 1.0
+    },
+    "emotion": {
+      "happiness": 0.7,
+      "sadness": 0.4,
+      "loneliness": 0.5,
+      "warmth": 1.0,
+      "fear": 0.5,
+      "tension": 0.6,
+      "awe": 0.9,
+      "nostalgia": 0.9,
+      "hope": 0.9,
+      "melancholy": 0.5,
+      "anger": 0.1,
+      "peace": 0.9
+    },
+    "aesthetic": {
+      "beauty": 1.0,
+      "minimalism": 0.4,
+      "luxury": 0.3,
+      "darkness": 0.3,
+      "brightness": 0.8,
+      "dreamlike": 1.0,
+      "mystery": 1.0,
+      "experimental": 0.6,
+      "classical": 0.7,
+      "modern": 0.5
+    },
+    "narrative": {
+      "plot_complexity": 0.7,
+      "character_depth": 0.9,
+      "character_growth": 1.0,
+      "world_building": 1.0,
+      "nonlinear_structure": 0.2,
+      "slow_immersion": 0.9,
+      "action_intensity": 0.4,
+      "conflict_intensity": 0.6,
+      "philosophical_depth": 0.8
+    },
+    "social_relationship": {
+      "individualism": 0.8,
+      "collectivism": 0.5,
+      "family": 0.8,
+      "friendship": 0.8,
+      "love": 0.3,
+      "community": 0.6,
+      "competition": 0.2,
+      "cooperation": 0.8,
+      "power_relationship": 0.5,
+      "identity": 1.0
+    },
+    "value": {
+      "freedom": 0.8,
+      "order": 0.4,
+      "truth": 0.7,
+      "beauty": 1.0,
+      "achievement": 0.6,
+      "justice": 0.5,
+      "sacrifice": 0.6,
+      "self_exploration": 1.0,
+      "tradition": 0.8,
+      "change": 0.9,
+      "survival": 0.6,
+      "meaning": 0.9
+    },
+    "behavior": {
+      "curiosity": 1.0,
+      "creation": 0.5,
+      "adventure": 0.8,
+      "reflection": 0.9,
+      "competition": 0.1,
+      "social": 0.7,
+      "discipline": 0.7,
+      "risk": 0.5,
+      "calm": 0.9,
+      "escape": 0.8
+    },
+    "sensory": {
+      "visual_intensity": 0.9,
+      "color_richness": 1.0,
+      "sound_intensity": 0.6,
+      "rhythm_energy": 0.4,
+      "atmosphere": 1.0,
+      "immersion": 1.0
+    }
+  },
+  "media_vector": {
+    "anime_vector": {
+      "animation_quality": 1.0,
+      "character_design": 0.9,
+      "visual_style": 1.0,
+      "symbolic_expression": 1.0,
+      "emotional_expression": 1.0
+    }
+  },
+  "personality_affinity": {
+    "Ni": 1.0,
+    "Ne": 0.9,
+    "Ti": 0.4,
+    "Te": 0.3,
+    "Fi": 0.9,
+    "Fe": 0.8,
+    "Si": 0.9,
+    "Se": 0.7,
+    "Assertive": 0.7,
+    "Turbulent": 0.8
+  },
+  "evidence": [
+    {
+      "dimension": "symbolic_expression",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品通过神灵、名字、异世界等象征元素表达成长和身份主题。"
+    },
+    {
+      "dimension": "world_building",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "影片构建独特幻想空间，拥有完整规则和文化象征体系。"
+    },
+    {
+      "dimension": "Fi",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "核心体验围绕自我认同、内心成长和个人价值建立。"
+    },
+    {
+      "dimension": "healing",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "温暖叙事、美学氛围和成长主题提供情绪修复体验。"
+    }
+  ]
+},
+
+{
+  "basic": {
+    "name": "宝可梦 红·绿",
+    "type": "游戏",
+    "countryName": "日本",
+    "year": 1996,
+    "confidence": 1.0
+  },
+  "semantic": {
+    "summary": "《宝可梦 红·绿》通过收集、培养和训练虚拟生物构建互动式幻想生态世界。玩家作为训练师探索地区、发现生物、建立伙伴关系，并通过成长系统体验冒险、策略和长期投入带来的成就感。",
+    "themes": [
+      "探索",
+      "成长",
+      "伙伴关系",
+      "收集",
+      "冒险",
+      "虚拟生态"
+    ],
+    "keywords": [
+      "宝可梦",
+      "训练师",
+      "收集",
+      "培养",
+      "交换",
+      "战斗"
+    ],
+    "core_experience": "提供主动参与式成长体验，让玩家通过探索、收集和培养建立长期情感连接，并获得发现未知世界的乐趣。"
+  },
+  "experience_vector": {
+    "passion": 0.7,
+    "healing": 0.8,
+    "awe": 0.7,
+    "nostalgia": 1.0,
+    "reflection": 0.3,
+    "romance": 0.1,
+    "tension": 0.5,
+    "warmth": 1.0,
+    "loneliness": 0.2,
+    "hope": 0.9
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.4,
+      "complexity": 0.7,
+      "depth_of_thought": 0.4,
+      "logical_structure": 0.8,
+      "novelty": 0.8,
+      "exploration": 1.0,
+      "ambiguity": 0.2,
+      "predictability": 0.6,
+      "information_density": 0.8,
+      "learning_value": 0.7
+    },
+    "worldview": {
+      "personal_scale": 0.8,
+      "relationship_scale": 0.7,
+      "social_scale": 0.5,
+      "civilization_scale": 0.3,
+      "cosmic_scale": 0.2,
+      "time_span": 0.6,
+      "fantasy_level": 0.9
+    },
+    "emotion": {
+      "happiness": 0.9,
+      "sadness": 0.2,
+      "loneliness": 0.1,
+      "warmth": 1.0,
+      "fear": 0.2,
+      "tension": 0.5,
+      "awe": 0.7,
+      "nostalgia": 1.0,
+      "hope": 0.9,
+      "melancholy": 0.2,
+      "anger": 0.2,
+      "peace": 0.8
+    },
+    "aesthetic": {
+      "beauty": 0.7,
+      "minimalism": 0.8,
+      "luxury": 0.1,
+      "darkness": 0.1,
+      "brightness": 0.9,
+      "dreamlike": 0.8,
+      "mystery": 0.7,
+      "experimental": 0.4,
+      "classical": 0.3,
+      "modern": 0.6
+    },
+    "narrative": {
+      "plot_complexity": 0.4,
+      "character_depth": 0.5,
+      "character_growth": 0.8,
+      "world_building": 0.8,
+      "nonlinear_structure": 0.3,
+      "slow_immersion": 0.8,
+      "action_intensity": 0.5,
+      "conflict_intensity": 0.5,
+      "philosophical_depth": 0.2
+    },
+    "social_relationship": {
+      "individualism": 0.6,
+      "collectivism": 0.5,
+      "family": 0.2,
+      "friendship": 1.0,
+      "love": 0.2,
+      "community": 0.9,
+      "competition": 0.8,
+      "cooperation": 1.0,
+      "power_relationship": 0.3,
+      "identity": 0.7
+    },
+    "value": {
+      "freedom": 0.8,
+      "order": 0.5,
+      "truth": 0.3,
+      "beauty": 0.6,
+      "achievement": 0.8,
+      "justice": 0.5,
+      "sacrifice": 0.3,
+      "self_exploration": 0.6,
+      "tradition": 0.4,
+      "change": 0.7,
+      "survival": 0.5,
+      "meaning": 0.5
+    },
+    "behavior": {
+      "curiosity": 1.0,
+      "creation": 0.6,
+      "adventure": 1.0,
+      "reflection": 0.3,
+      "competition": 0.8,
+      "social": 1.0,
+      "discipline": 0.7,
+      "risk": 0.4,
+      "calm": 0.8,
+      "escape": 0.9
+    },
+    "sensory": {
+      "visual_intensity": 0.5,
+      "color_richness": 0.8,
+      "sound_intensity": 0.5,
+      "rhythm_energy": 0.5,
+      "atmosphere": 0.8,
+      "immersion": 1.0
+    }
+  },
+  "media_vector": {
+    "game_vector": {
+      "strategy_depth": 0.7,
+      "mechanical_skill": 0.5,
+      "player_agency": 1.0,
+      "exploration_depth": 0.9,
+      "collection_system": 1.0,
+      "progression_system": 1.0,
+      "social_interaction": 1.0,
+      "competition_intensity": 0.7
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.4,
+    "Ne": 1.0,
+    "Ti": 0.7,
+    "Te": 0.5,
+    "Fi": 0.8,
+    "Fe": 0.9,
+    "Si": 1.0,
+    "Se": 0.7,
+    "Assertive": 0.8,
+    "Turbulent": 0.5
+  },
+  "evidence": [
+    {
+      "dimension": "player_agency",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "游戏核心体验来自玩家自主探索、选择培养方向和制定成长路线。"
+    },
+    {
+      "dimension": "collection_system",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "收集不同生物并完成图鉴是作品最核心的行为机制。"
+    },
+    {
+      "dimension": "Ne",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "大量未知生物、探索空间和可能性组合满足想象和发现需求。"
+    },
+    {
+      "dimension": "Si",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "长期陪伴、童年记忆和重复培养机制强化情感连接与怀旧体验。"
+    }
+  ]
+},
+
+{
+  "basic": {
+    "name": "冬天里的一把火",
+    "type": "音乐",
+    "countryName": "中国",
+    "year": 1987,
+    "confidence": 0.9
+  },
+  "semantic": {
+    "summary": "《冬天里的一把火》是中国流行音乐发展时期的重要歌曲，以强烈节奏、鲜明舞台表现和热烈情绪表达展现流行文化进入大众视野的时代氛围。作品通过音乐、表演和传播媒介结合，创造了充满活力与青春感的集体文化体验。",
+    "themes": [
+      "青春活力",
+      "热情",
+      "时代变化",
+      "大众文化",
+      "舞台表达"
+    ],
+    "keywords": [
+      "流行音乐",
+      "舞台",
+      "节奏",
+      "热烈",
+      "改革开放",
+      "集体记忆"
+    ],
+    "core_experience": "提供直接、热烈和具有时代象征性的情绪体验，使听众感受到激情释放、青春能量和群体共鸣。"
+  },
+  "experience_vector": {
+    "passion": 1.0,
+    "healing": 0.5,
+    "awe": 0.4,
+    "nostalgia": 1.0,
+    "reflection": 0.3,
+    "romance": 0.4,
+    "tension": 0.4,
+    "warmth": 0.7,
+    "loneliness": 0.1,
+    "hope": 0.8
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.2,
+      "complexity": 0.2,
+      "depth_of_thought": 0.2,
+      "logical_structure": 0.2,
+      "novelty": 0.5,
+      "exploration": 0.2,
+      "ambiguity": 0.1,
+      "predictability": 0.8,
+      "information_density": 0.3,
+      "learning_value": 0.3
+    },
+    "worldview": {
+      "personal_scale": 0.8,
+      "relationship_scale": 0.6,
+      "social_scale": 0.8,
+      "civilization_scale": 0.3,
+      "cosmic_scale": 0.0,
+      "time_span": 0.5,
+      "fantasy_level": 0.0
+    },
+    "emotion": {
+      "happiness": 0.9,
+      "sadness": 0.1,
+      "loneliness": 0.1,
+      "warmth": 0.8,
+      "fear": 0.0,
+      "tension": 0.4,
+      "awe": 0.3,
+      "nostalgia": 1.0,
+      "hope": 0.9,
+      "melancholy": 0.1,
+      "anger": 0.1,
+      "peace": 0.4
+    },
+    "aesthetic": {
+      "beauty": 0.6,
+      "minimalism": 0.4,
+      "luxury": 0.4,
+      "darkness": 0.1,
+      "brightness": 1.0,
+      "dreamlike": 0.2,
+      "mystery": 0.1,
+      "experimental": 0.3,
+      "classical": 0.1,
+      "modern": 0.7
+    },
+    "narrative": {
+      "plot_complexity": 0.1,
+      "character_depth": 0.1,
+      "character_growth": 0.1,
+      "world_building": 0.1,
+      "nonlinear_structure": 0.0,
+      "slow_immersion": 0.2,
+      "action_intensity": 0.2,
+      "conflict_intensity": 0.1,
+      "philosophical_depth": 0.1
+    },
+    "social_relationship": {
+      "individualism": 0.5,
+      "collectivism": 0.8,
+      "family": 0.3,
+      "friendship": 0.5,
+      "love": 0.4,
+      "community": 0.9,
+      "competition": 0.3,
+      "cooperation": 0.6,
+      "power_relationship": 0.2,
+      "identity": 0.6
+    },
+    "value": {
+      "freedom": 0.7,
+      "order": 0.3,
+      "truth": 0.2,
+      "beauty": 0.6,
+      "achievement": 0.5,
+      "justice": 0.2,
+      "sacrifice": 0.1,
+      "self_exploration": 0.4,
+      "tradition": 0.3,
+      "change": 0.8,
+      "survival": 0.2,
+      "meaning": 0.4
+    },
+    "behavior": {
+      "curiosity": 0.4,
+      "creation": 0.4,
+      "adventure": 0.5,
+      "reflection": 0.2,
+      "competition": 0.3,
+      "social": 1.0,
+      "discipline": 0.3,
+      "risk": 0.4,
+      "calm": 0.2,
+      "escape": 0.7
+    },
+    "sensory": {
+      "visual_intensity": 0.8,
+      "color_richness": 0.6,
+      "sound_intensity": 1.0,
+      "rhythm_energy": 1.0,
+      "atmosphere": 0.9,
+      "immersion": 0.7
+    }
+  },
+  "media_vector": {
+    "music_vector": {
+      "genre": "流行音乐",
+      "tempo": 0.9,
+      "energy": 1.0,
+      "vocal_style": "高亢明亮的流行演唱",
+      "instrumentation": "流行编曲、鼓点、电子元素",
+      "production_style": "1980年代大众流行音乐制作风格",
+      "lyrical_theme": "热情、青春、活力与时代情绪",
+      "emotional_scene": "大型舞台、集体庆典、青春记忆场景",
+      "cultural_context": "中国改革开放时期流行文化兴起的重要代表作品"
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.2,
+    "Ne": 0.5,
+    "Ti": 0.2,
+    "Te": 0.3,
+    "Fi": 0.6,
+    "Fe": 1.0,
+    "Si": 1.0,
+    "Se": 1.0,
+    "Assertive": 1.0,
+    "Turbulent": 0.2
+  },
+  "evidence": [
+    {
+      "dimension": "rhythm_energy",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品依靠强烈节奏和舞台感染力制造直接情绪刺激。"
+    },
+    {
+      "dimension": "nostalgia",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "歌曲承载中国流行文化早期发展的时代记忆。"
+    },
+    {
+      "dimension": "Fe",
+      "score": 1.0,
+      "evidence_strength": 0.9,
+      "reason": "作品通过大众传播和群体演唱形成共同情绪体验。"
+    },
+    {
+      "dimension": "Se",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "核心吸引力来自声音、节奏和舞台视觉带来的即时感官体验。"
+    }
+  ]
+},
+
+{
+  "basic": {
+    "name": "愚公移山",
+    "type": "绘画",
+    "countryName": "中国",
+    "year": 1940,
+    "confidence": 0.9
+  },
+  "semantic": {
+    "summary": "《愚公移山》以中国传统寓言为主题，通过群像人物和强烈造型表现坚持、信念与民族精神。作品融合中国传统绘画理念与西方写实技巧，以视觉叙事方式呈现面对巨大困难时持续行动和精神力量。",
+    "themes": [
+      "坚持",
+      "意志",
+      "民族精神",
+      "劳动",
+      "信念",
+      "克服困难"
+    ],
+    "keywords": [
+      "愚公",
+      "移山",
+      "群像",
+      "力量",
+      "传统寓言",
+      "现代国画"
+    ],
+    "core_experience": "提供精神激励和价值认同体验，使观众感受到面对困难时的坚韧、希望与集体力量。"
+  },
+  "experience_vector": {
+    "passion": 0.7,
+    "healing": 0.4,
+    "awe": 0.8,
+    "nostalgia": 0.6,
+    "reflection": 0.7,
+    "romance": 0.1,
+    "tension": 0.5,
+    "warmth": 0.5,
+    "loneliness": 0.2,
+    "hope": 0.9
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.7,
+      "complexity": 0.6,
+      "depth_of_thought": 0.7,
+      "logical_structure": 0.3,
+      "novelty": 0.5,
+      "exploration": 0.3,
+      "ambiguity": 0.4,
+      "predictability": 0.8,
+      "information_density": 0.6,
+      "learning_value": 0.7
+    },
+    "worldview": {
+      "personal_scale": 0.8,
+      "relationship_scale": 0.6,
+      "social_scale": 0.8,
+      "civilization_scale": 0.6,
+      "cosmic_scale": 0.2,
+      "time_span": 0.5,
+      "fantasy_level": 0.3
+    },
+    "emotion": {
+      "happiness": 0.4,
+      "sadness": 0.2,
+      "loneliness": 0.1,
+      "warmth": 0.5,
+      "fear": 0.2,
+      "tension": 0.4,
+      "awe": 0.8,
+      "nostalgia": 0.6,
+      "hope": 1.0,
+      "melancholy": 0.2,
+      "anger": 0.3,
+      "peace": 0.5
+    },
+    "aesthetic": {
+      "beauty": 0.8,
+      "minimalism": 0.3,
+      "luxury": 0.2,
+      "darkness": 0.2,
+      "brightness": 0.7,
+      "dreamlike": 0.3,
+      "mystery": 0.2,
+      "experimental": 0.5,
+      "classical": 0.8,
+      "modern": 0.7
+    },
+    "narrative": {
+      "plot_complexity": 0.2,
+      "character_depth": 0.4,
+      "character_growth": 0.4,
+      "world_building": 0.3,
+      "nonlinear_structure": 0.0,
+      "slow_immersion": 0.5,
+      "action_intensity": 0.5,
+      "conflict_intensity": 0.7,
+      "philosophical_depth": 0.7
+    },
+    "social_relationship": {
+      "individualism": 0.4,
+      "collectivism": 0.9,
+      "family": 0.7,
+      "friendship": 0.3,
+      "love": 0.1,
+      "community": 0.8,
+      "competition": 0.2,
+      "cooperation": 0.9,
+      "power_relationship": 0.2,
+      "identity": 0.8
+    },
+    "value": {
+      "freedom": 0.4,
+      "order": 0.5,
+      "truth": 0.5,
+      "beauty": 0.8,
+      "achievement": 0.8,
+      "justice": 0.5,
+      "sacrifice": 0.8,
+      "self_exploration": 0.5,
+      "tradition": 0.9,
+      "change": 0.6,
+      "survival": 0.7,
+      "meaning": 0.9
+    },
+    "behavior": {
+      "curiosity": 0.3,
+      "creation": 0.5,
+      "adventure": 0.2,
+      "reflection": 0.8,
+      "competition": 0.2,
+      "social": 0.7,
+      "discipline": 1.0,
+      "risk": 0.5,
+      "calm": 0.5,
+      "escape": 0.1
+    },
+    "sensory": {
+      "visual_intensity": 0.8,
+      "color_richness": 0.5,
+      "sound_intensity": 0.0,
+      "rhythm_energy": 0.1,
+      "atmosphere": 0.8,
+      "immersion": 0.6
+    }
+  },
+  "media_vector": {
+    "painting_vector": {
+      "visual_style": "中国现代写实绘画融合传统国画元素",
+      "color_expression": 0.6,
+      "composition_complexity": 0.8,
+      "symbolism": 1.0,
+      "emotional_expression": 0.9,
+      "historical_style": 0.8
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.8,
+    "Ne": 0.3,
+    "Ti": 0.3,
+    "Te": 0.7,
+    "Fi": 0.8,
+    "Fe": 0.8,
+    "Si": 0.8,
+    "Se": 0.5,
+    "Assertive": 0.9,
+    "Turbulent": 0.5
+  },
+  "evidence": [
+    {
+      "dimension": "symbolism",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品借助愚公移山寓言象征持续奋斗和精神力量。"
+    },
+    {
+      "dimension": "discipline",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "主题核心强调长期坚持、行动和克服困难的意志。"
+    },
+    {
+      "dimension": "collectivism",
+      "score": 0.9,
+      "evidence_strength": 0.9,
+      "reason": "画面通过群体劳动表现共同目标和集体力量。"
+    },
+    {
+      "dimension": "Ni",
+      "score": 0.8,
+      "evidence_strength": 0.9,
+      "reason": "作品通过寓言符号传递超越表象的精神意义。"
+    }
+  ]
+}
+,
+
+{
+  "basic": {
+    "name": "权力的游戏",
+    "type": "电视剧",
+    "countryName": "美国",
+    "year": 2011,
+    "confidence": 1.0
+  },
+  "semantic": {
+    "summary": "《权力的游戏》以虚构大陆维斯特洛的多个家族争夺权力为核心，通过政治斗争、战争、人性冲突和复杂人物关系构建宏大的成人奇幻世界。作品突破传统奇幻叙事模式，以多线叙事、道德灰度和现实主义冲突展现权力、生存与文明秩序。",
+    "themes": [
+      "权力",
+      "战争",
+      "政治博弈",
+      "人性复杂性",
+      "家族",
+      "生存"
+    ],
+    "keywords": [
+      "王权",
+      "家族斗争",
+      "战争",
+      "龙",
+      "阴谋",
+      "冰与火"
+    ],
+    "core_experience": "提供高度沉浸的复杂世界体验，让观众在政治博弈和人物命运变化中思考权力、人性与社会规则。"
+  },
+  "experience_vector": {
+    "passion": 0.7,
+    "healing": 0.1,
+    "awe": 0.9,
+    "nostalgia": 0.3,
+    "reflection": 0.9,
+    "romance": 0.4,
+    "tension": 1.0,
+    "warmth": 0.2,
+    "loneliness": 0.7,
+    "hope": 0.4
+  },
+  "psychology_vector": {
+    "cognitive": {
+      "abstractness": 0.7,
+      "complexity": 1.0,
+      "depth_of_thought": 0.9,
+      "logical_structure": 0.9,
+      "novelty": 0.8,
+      "exploration": 0.9,
+      "ambiguity": 0.9,
+      "predictability": 0.2,
+      "information_density": 1.0,
+      "learning_value": 0.8
+    },
+    "worldview": {
+      "personal_scale": 0.7,
+      "relationship_scale": 0.9,
+      "social_scale": 1.0,
+      "civilization_scale": 0.9,
+      "cosmic_scale": 0.6,
+      "time_span": 0.9,
+      "fantasy_level": 0.8
+    },
+    "emotion": {
+      "happiness": 0.2,
+      "sadness": 0.8,
+      "loneliness": 0.7,
+      "warmth": 0.2,
+      "fear": 0.8,
+      "tension": 1.0,
+      "awe": 0.9,
+      "nostalgia": 0.3,
+      "hope": 0.4,
+      "melancholy": 0.7,
+      "anger": 0.7,
+      "peace": 0.1
+    },
+    "aesthetic": {
+      "beauty": 0.8,
+      "minimalism": 0.2,
+      "luxury": 0.7,
+      "darkness": 0.8,
+      "brightness": 0.3,
+      "dreamlike": 0.5,
+      "mystery": 0.8,
+      "experimental": 0.6,
+      "classical": 0.5,
+      "modern": 0.8
+    },
+    "narrative": {
+      "plot_complexity": 1.0,
+      "character_depth": 1.0,
+      "character_growth": 0.9,
+      "world_building": 1.0,
+      "nonlinear_structure": 0.8,
+      "slow_immersion": 1.0,
+      "action_intensity": 0.9,
+      "conflict_intensity": 1.0,
+      "philosophical_depth": 0.8
+    },
+    "social_relationship": {
+      "individualism": 0.8,
+      "collectivism": 0.6,
+      "family": 1.0,
+      "friendship": 0.6,
+      "love": 0.4,
+      "community": 0.5,
+      "competition": 1.0,
+      "cooperation": 0.5,
+      "power_relationship": 1.0,
+      "identity": 0.9
+    },
+    "value": {
+      "freedom": 0.6,
+      "order": 0.7,
+      "truth": 0.8,
+      "beauty": 0.6,
+      "achievement": 0.8,
+      "justice": 0.6,
+      "sacrifice": 0.8,
+      "self_exploration": 0.6,
+      "tradition": 0.7,
+      "change": 0.8,
+      "survival": 1.0,
+      "meaning": 0.8
+    },
+    "behavior": {
+      "curiosity": 0.9,
+      "creation": 0.3,
+      "adventure": 0.8,
+      "reflection": 0.8,
+      "competition": 1.0,
+      "social": 0.8,
+      "discipline": 0.7,
+      "risk": 0.9,
+      "calm": 0.2,
+      "escape": 0.5
+    },
+    "sensory": {
+      "visual_intensity": 0.9,
+      "color_richness": 0.8,
+      "sound_intensity": 0.8,
+      "rhythm_energy": 0.7,
+      "atmosphere": 1.0,
+      "immersion": 1.0
+    }
+  },
+  "media_vector": {
+    "tv_series_vector": {
+      "episode_dependency": 1.0,
+      "long_term_character_growth": 1.0,
+      "relationship_complexity": 1.0,
+      "world_expansion": 1.0,
+      "season_progression": 1.0
+    }
+  },
+  "personality_affinity": {
+    "Ni": 0.9,
+    "Ne": 0.8,
+    "Ti": 0.8,
+    "Te": 1.0,
+    "Fi": 0.7,
+    "Fe": 0.4,
+    "Si": 0.5,
+    "Se": 0.7,
+    "Assertive": 0.4,
+    "Turbulent": 1.0
+  },
+  "evidence": [
+    {
+      "dimension": "world_building",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "作品建立复杂政治体系、历史背景和奇幻世界规则。"
+    },
+    {
+      "dimension": "relationship_complexity",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "多个家族和角色之间存在高度复杂的联盟、冲突和利益关系。"
+    },
+    {
+      "dimension": "Te",
+      "score": 1.0,
+      "evidence_strength": 1.0,
+      "reason": "核心体验围绕权力规划、资源竞争和战略决策展开。"
+    },
+    {
+      "dimension": "Turbulent",
+      "score": 1.0,
+      "evidence_strength": 0.9,
+      "reason": "大量人物经历不确定性、道德困境和心理冲突。"
+    }
+  ]
+}
+
+  ]
+}
+
