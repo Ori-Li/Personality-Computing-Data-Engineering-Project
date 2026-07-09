@@ -54,9 +54,9 @@ def clean_names(file_path):
 
 if __name__ == "__main__":
 
-    fileName = './characterNameList/03_中国_音乐领域_人物.txt'
+    fileName = './characterNameListFinalList/03_中国_音乐领域_人物.txt'
 
-    with open("./characterNameList/03_中国_音乐领域_人物.txt", "r", encoding="utf-8-sig") as f:
+    with open("./characterNameListFinalList/03_中国_音乐领域_人物.txt", "r", encoding="utf-8-sig") as f:
         content = f.read()
 
       
