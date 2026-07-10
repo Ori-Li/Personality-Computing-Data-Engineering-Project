@@ -1990,6 +1990,276 @@ Including every person who participated in the field.
 High-quality incomplete data is preferred over contaminated complete data.
 
 
+
+
+==================================================
+CHAPTER 9.11 — CANDIDATE ENTITY COLLECTION
+==================================================
+
+
+# 9.11.1 Candidate Name Selection Specification
+
+
+The output of this stage is a candidate character entity seed list.
+
+It is NOT the final knowledge graph entity database.
+
+
+The goal of this stage:
+
+- maximize cultural entity coverage
+- preserve recognizable official names
+- avoid unnecessary name normalization
+
+
+Do NOT perform entity normalization at this stage.
+
+
+Do NOT include:
+
+
+- translated names
+- explanatory Chinese names
+- multilingual duplicate names
+- native language aliases
+- romanized names
+- previous names
+- historical name mappings
+
+
+Each person should appear only once in the candidate list.
+
+
+--------------------------------------------------
+
+
+# 9.11.2 Global Name Selection Rules
+
+
+## Europe and Global Regions
+
+
+Prefer:
+
+
+1. Official original name
+
+or
+
+2. Publicly recognized professional stage name
+
+
+Examples:
+
+
+Correct:
+
+
+Christopher Nolan
+
+Leonardo da Vinci
+
+Ludwig van Beethoven
+
+Snoop Dogg
+
+
+
+Incorrect:
+
+
+克里斯托弗·诺兰
+
+莱昂纳多·达·芬奇
+
+路德维希·范·贝多芬
+
+史努比狗狗
+
+
+
+Do not translate names into Chinese during candidate list generation.
+
+
+
+--------------------------------------------------
+
+
+## Japan
+
+
+Prefer:
+
+
+- Official Japanese name
+- Officially recognized stage name
+
+
+Examples:
+
+
+Correct:
+
+
+宮﨑駿
+
+村上春樹
+
+新海誠
+
+
+
+Do NOT add:
+
+
+Hayao Miyazaki
+
+Haruki Murakami
+
+Makoto Shinkai
+
+
+
+Romanized names and translated names belong to the later Entity Resolution stage.
+
+
+
+--------------------------------------------------
+
+
+## Korea
+
+
+Prefer:
+
+
+- Official Korean name
+- Official professional stage name
+
+
+Examples:
+
+
+Correct:
+
+
+봉준호
+
+김기덕
+
+
+
+Do NOT add:
+
+
+Bong Joon-ho
+
+Kim Ki-duk
+
+奉俊昊
+
+
+
+--------------------------------------------------
+
+
+## China
+
+
+Prefer:
+
+
+- Official Chinese name
+- Publicly recognized professional stage name
+- Official group or artist name
+
+
+Examples:
+
+
+Correct:
+
+
+周深
+
+邓紫棋
+
+C-BLOCK
+
+
+
+Do NOT add:
+
+
+Zhou Shen
+
+G.E.M.
+
+Deng Ziqi
+
+
+
+--------------------------------------------------
+
+
+# 9.11.3 Stage Name Rule
+
+
+If a person is primarily known by a professional stage name:
+
+
+Use the stage name.
+
+
+Examples:
+
+
+Correct:
+
+
+Snoop Dogg
+
+Lady Gaga
+
+Aimer
+
+
+
+Do not replace a widely recognized stage name with a legal name during candidate list generation.
+
+
+
+--------------------------------------------------
+
+
+# 9.11.4 Candidate Stage Limitation
+
+
+The following tasks are NOT performed during candidate entity collection:
+
+
+- multilingual alias expansion
+- translation name generation
+- romanization
+- native name mapping
+- former name collection
+- external database ID matching
+- Wikidata alignment
+
+
+These tasks belong to:
+
+
+Entity Resolution Stage
+
+
+The candidate list stage only performs:
+
+
+Candidate Entity Discovery.
+
+
+
 ==================================================
 CHAPTER 10 — NAME NORMALIZATION AND DUPLICATE CONTROL
 ==================================================
@@ -3287,10 +3557,20 @@ Allowed:
 
 
 
+Actors may be included when:
+
+
+- Their screen body of work is historically or artistically significant
+- Their performances are independently recognized in film history
+- They represent major performance traditions or screen movements
+
+
+
 Do NOT include:
 
 
-- Actors only because of fame
+- Actors without historically meaningful works
+- Actors only because of current popularity or celebrity status
 - Producers only as investors
 - Distributors
 - Platforms
