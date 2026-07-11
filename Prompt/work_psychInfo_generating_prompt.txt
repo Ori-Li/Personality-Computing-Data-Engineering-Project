@@ -1,3 +1,5 @@
+
+
 # Role
 
 
@@ -39,6 +41,84 @@ Audience psychological experience produced by the work itself.
 
 --------------------------------------------------
 
+# Non-execution Rule
+
+This document is a specification, not a generation request.
+
+Do not perform any annotation unless the user explicitly requests generation and provides the corresponding input.
+
+If no valid input is supplied, wait for further instructions.
+
+
+
+The generated Content Psychological Representation should be invariant across cultural media while remaining sensitive to differences in cognitive expression.
+
+
+8–15 evidence when sufficient information exists.
+
+Otherwise generate only the amount that can be supported.
+
+Do not fabricate evidence.
+
+
+-----------------------------------------------------
+
+
+# Execution Trigger
+
+This prompt defines the annotation protocol only.
+
+Do NOT start annotation automatically.
+
+Only generate annotations after the user explicitly provides:
+
+- a JSON input,
+- a work list,
+- or explicitly requests generation.
+
+
+If no input data is provided, do NOT infer, assume, or select any work.
+
+Instead, wait for user input.
+
+Only generate annotations after the user explicitly requests annotation or generation of the provided dataset.
+
+
+
+Never choose works by yourself.
+
+Never generate demonstration examples.
+
+Never use famous works (such as Dream of the Red Chamber, Journey to the West, etc.) as default examples unless explicitly requested.
+
+
+When the user sends:
+
+continue
+next
+resume
+go on
+
+
+ONLY continue
+if there are unfinished items
+generated in the current conversation.
+
+Otherwise,
+wait for a new dataset.
+
+Do not restart from the beginning.
+
+Do not create new tasks.
+
+
+
+Generation must be driven exclusively by the user-provided input.
+
+The model must not create additional items, replace items, or continue generation beyond the supplied input.
+
+-----------------------------------------------------
+
 
 # Input
 
@@ -78,19 +158,73 @@ Do not invent unsupported facts.
 
 Input types:
 
+- OTHER
+- GAME
+- ANIME
+- MANGA
+- MOVIE
+- TV
+- NOVEL
+- LITERATURE
+- MUSIC
+- STAGE
+- PAINTING
+- SCULPTURE
+- ARCHITECTURE
+- IDEA
+- PHOTOGRAPHY
+- DESIGN
 
-- 电影
-- 电视剧
-- 游戏
-- 小说
-- 音乐
-- 漫画
-- 动漫
-- 绘画
-- 建筑
-- 摄影
-- 舞台
-- 雕塑
+--------------------------------------------------
+
+Type Scope
+
+NOVEL includes:
+
+- Long-form novels
+- Short novels
+- Light novels
+- Web novels
+
+LITERATURE includes:
+
+- Poetry
+- Essays
+- Prose
+- Literary criticism
+- Fables
+- Mythology
+- Folklore
+- Fairy tales
+- Epics
+
+IDEA includes:
+
+- Philosophy
+- Political theory
+- Economic theory
+- Scientific theory
+- Psychological theory
+- Religious thought
+- Ideological systems
+- Academic schools
+- Methodologies
+
+DESIGN includes:
+
+- Product Design
+- Industrial Design
+- Fashion Design
+- Furniture Design
+- UI / UX Design
+- Graphic Design
+- Hardware Design
+- Packaging Design
+- Transportation Design
+
+OTHER includes:
+
+- Cultural objects that do not belong to the above categories.
 
 
 
@@ -134,6 +268,51 @@ Recommendation System
 --------------------------------------------------
 
 
+--------------------------------------------------
+
+# Carrier-independent Cognitive Representation
+
+The generated Content Psychological Representation (CPR) must be carrier-independent.
+
+Every psychological dimension should describe a cognitive expression rather than a medium-specific feature.
+
+The same ontology should be applicable to:
+
+- Movies
+- TV Series
+- Anime
+- Manga
+- Novels
+- Games
+- Music
+- Paintings
+- Architecture
+- Photography
+- Stage Performance
+- Sculpture
+- Products
+- Philosophical Works
+- Historical Documents
+- Future cultural media
+
+Do NOT design dimensions that only exist in one medium.
+
+The ontology should remain extensible for future domains.
+
+Media-specific differences should be represented only inside Media Vector.
+
+The Psychology Vector must remain shared across all supported content types.
+
+
+The psychology_vector MUST preserve the exact nested JSON structure defined in Output Format.
+
+Do not flatten dimensions.
+
+Do not merge dimensions from different categories.
+
+--------------------------------------------------
+
+
 # Score System
 
 
@@ -148,34 +327,28 @@ Range:
 
 Meaning:
 
+Every numerical dimension should be anchored using the following principles.
 
-0.0
+0.00
+Completely absent.
 
-Not present
+0.20
+Occasionally appears but has little influence.
 
+0.40
+Noticeable secondary characteristic.
 
+0.60
+Important recurring characteristic.
 
-0.1 - 0.3
+0.80
+Core characteristic shaping the audience experience.
 
-Weak
+1.00
+One of the defining characteristics of the work.
+Should only be assigned to a very small number of dimensions.
 
-
-
-0.4 - 0.6
-
-Moderate
-
-
-
-0.7 - 0.9
-
-Strong
-
-
-
-1.0
-
-Defining characteristic
+Avoid assigning multiple 1.00 values unless each independently represents an irreplaceable defining feature.
 
 
 
@@ -184,8 +357,34 @@ Rules:
 
 - Do not use default values.
 - Scores must reflect actual work characteristics.
-- Similar works should have similar but not identical patterns.
+- Annotations should be determined by the specific characteristics of the current work, not by its genre, franchise, or reputation alone. Similar works may share patterns but should remain distinguishable based on their own content.
 
+
+
+--------------------------------------------------
+
+
+# Relative Ranking Constraint
+
+The relative ordering of dimensions is more important than exact numerical values.
+
+Small numerical fluctuations (approximately ±0.05) are acceptable as long as the overall psychological profile remains stable.
+
+Different annotations of the same work should preserve:
+
+- dominant dimensions
+- weakest dimensions
+- overall distribution
+- relative ranking among dimensions
+
+Avoid changing the psychological position of the work merely because of small numerical adjustments.
+
+
+Numerical scores should support the ranking,
+rather than replacing it.
+
+Relative ordering always has higher priority
+than minimizing numerical fluctuations.
 
 
 --------------------------------------------------
@@ -194,13 +393,23 @@ Rules:
 # Output Format
 
 
-Return ONLY JSON.
-
 
 Structure:
 
 
 {
+    
+"processingState":{
+    "processed":,
+    "remaining":,
+       "total":,
+    "currentWorkId":"",
+    "nextWorkId":"",
+    "isCompleted":,
+
+}
+,
+
 "items":[
 
 {
@@ -217,7 +426,7 @@ Structure:
 
 "personality_affinity":{},
 
-"evidence":[]
+"supporting_evidence":[]
 
 }
 
@@ -225,6 +434,32 @@ Structure:
 
 }
 
+
+
+
+--------------------------------------------------
+
+
+#processingState
+
+
+{
+    "processed":1,
+    "remaining":9,
+     "total": 10,
+    "currentWorkId":"novel_中国_1750_001",
+    "nextWorkId":"novel_中国_1590_001",
+    "isCompleted":false
+}
+
+
+{
+    "processed":500000,
+    "remaining":0,
+    "currentWorkId":null,
+    "nextWorkId":null,
+    "isCompleted":true
+}
 
 
 --------------------------------------------------
@@ -238,9 +473,44 @@ Structure:
 "type":"",
 "countryName":"",
 "year":0,
-"confidence":0.0
+
+"ontologyVersion":"",
+"promptVersion":"",
+"annotationModelVersion":"",
+"generatorDate":"",
+"evidenceVersion":"",
+"annotationLanguage":"zh-CN",
+
+"confidence":0.0,
+
+"primaryMediaType":"",
+
+
+
 }
 
+example:
+
+{
+"name":"",
+"type":"",
+"countryName":"",
+"year":0,
+
+"ontologyVersion":"v1.0",
+"promptVersion":"CPR-1.2",
+"annotationModelVersion":"GPT-5.5"
+"generatorDate":"2026-07-11",
+// Use current generation date.
+"annotationLanguage":"zh-CN",
+"evidenceVersion":"v1.0"
+
+"confidence":0.0,
+
+"primaryMediaType":"DESIGN",
+
+
+}
 
 
 confidence:
@@ -263,6 +533,10 @@ Known work with sufficient information.
 Limited information.
 
 
+Confidence reflects the certainty of annotation based on available evidence,
+
+not the popularity of the work.
+
 
 --------------------------------------------------
 
@@ -282,35 +556,95 @@ Limited information.
 summary:
 
 
-Generate information-dense description.
+使用中文生成高信息密度摘要。
 
+应包含：
 
-Include:
+- 作品核心内容
+- 艺术表现形式
+- 核心冲突或表达主题
+- 作品带来的整体体验
+- 文化意义
 
+避免空泛评价。
 
-- core subject
-- artistic form
-- central conflict or expression
-- audience experience
-- cultural meaning
+尽量保留作品本身的信息密度。
+
+建议80~200字。
+
 
 
 
 themes:
 
-Main conceptual themes.
+使用中文。
+
+输出作品主要主题。
+
+例如：
+
+爱情
+
+战争
+
+成长
+
+家庭
+
+自由
+
+信仰
+
+文明
+
+人性
+
+社会制度
+
+生态
+
+科技
+
+身份认同
 
 
 
 keywords:
 
-Important semantic concepts.
+
+使用中文。
+
+输出作品的重要语义关键词。
+
+包括：
+
+人物
+
+地点
+
+文化概念
+
+艺术形式
+
+历史背景
+
+代表元素
+
+每项保持较短词组。
 
 
 
 core_experience:
 
-Describe the main psychological experience provided to audiences.
+使用中文。
+
+描述作品整体带来的核心心理体验。
+
+不要解释人格。
+
+不要评价作品。
+
+仅描述阅读、观看或体验作品时产生的整体认知与情绪体验。
 
 
 
@@ -345,6 +679,24 @@ Direct emotional experience.
 "hope":0.0
 }
 
+
+--------------------------------------------------
+
+# Psychological Representation Principle
+
+The psychology_vector represents Content Psychological Representation (CPR).
+
+It is NOT:
+
+- personality
+- creator psychology
+- audience psychology
+
+It represents only:
+
+"What cognitive and emotional characteristics are expressed by the content itself."
+
+The CPR must remain interpretable, extensible and suitable for future supervised learning.
 
 
 --------------------------------------------------
@@ -389,6 +741,66 @@ Measures:
 
 
 
+Novelty should be evaluated
+relative to
+the cultural
+and historical context
+of the work,
+
+rather than
+modern audiences.
+
+
+
+Learning Value measures
+how much enduring knowledge,
+insight,
+or understanding
+the audience can gain
+from the work.
+
+Learning may include
+
+culture,
+history,
+society,
+psychology,
+philosophy,
+or artistic understanding.
+
+
+exploration measures:
+
+The degree to which the work encourages discovering unknown ideas,
+unknown worlds,
+unknown systems,
+or new perspectives.
+
+It is NOT equivalent to physical travel.
+
+It includes psychological,
+social,
+and conceptual exploration,
+not only geographical exploration.
+
+
+
+information_density measures:
+
+How much semantic information,
+cultural knowledge,
+structural information,
+or conceptual content
+is delivered per unit of experience.
+
+It is NOT:
+
+- text length
+- work length
+- popularity
+
+
+
 --------------------------------------------------
 
 
@@ -415,7 +827,11 @@ Measures:
 
 Measures:
 
-Scale of presented world or idea.
+Scale of the presented reality,
+including personal,
+social,
+civilizational
+and cosmic scope.
 
 
 
@@ -452,6 +868,11 @@ Scale of presented world or idea.
 }
 
 
+Measures:
+
+Primary emotional expressions
+continuously conveyed by the content.
+
 
 --------------------------------------------------
 
@@ -481,6 +902,11 @@ Scale of presented world or idea.
 "modern":0.0
 }
 
+
+Measures:
+
+Overall aesthetic characteristics
+expressed by the content.
 
 
 --------------------------------------------------
@@ -512,13 +938,48 @@ For narrative-based works.
 "philosophical_depth":0.0
 }
 
+Measures:
 
+Narrative organization,
+story progression
+and structural expression.
+
+
+Character Growth includes
+
+psychological development,
+moral development,
+identity change,
+and worldview evolution,
+
+rather than only
+skill improvement
+or external achievement.
+
+
+World Building measures
+the completeness,
+coherence,
+and richness
+of the presented world,
+whether realistic
+or fictional.
 
 For non-narrative works:
 
-Use values reflecting conceptual structure, not story.
+Interpret these dimensions as expressive structure rather than literal narrative.
 
+Examples:
 
+Design → interaction flow, product evolution, structural expression.
+
+Architecture → spatial progression, structural hierarchy.
+
+Idea → conceptual development, argument progression.
+
+Painting → visual composition and symbolic development.
+
+Music → emotional progression and structural arrangement.
 
 --------------------------------------------------
 
@@ -548,6 +1009,23 @@ Use values reflecting conceptual structure, not story.
 "identity":0.0
 }
 
+Measures:
+
+Dominant forms of interpersonal
+and social interaction
+expressed by the content.
+
+
+
+Competition measures recurring adversarial relationships,
+including interpersonal rivalry,
+resource competition,
+status competition,
+power competition,
+emotional rivalry,
+and ideological confrontation.
+
+Competition is not limited to explicit physical conflict.
 
 
 --------------------------------------------------
@@ -582,7 +1060,11 @@ Use values reflecting conceptual structure, not story.
 "meaning":0.0
 }
 
+Measures:
 
+Core values
+recurrently emphasized
+throughout the work.
 
 --------------------------------------------------
 
@@ -612,7 +1094,11 @@ Use values reflecting conceptual structure, not story.
 "escape":0.0
 }
 
+Measures:
 
+Behavioral tendencies
+encouraged or expressed
+by the content.
 
 --------------------------------------------------
 
@@ -635,6 +1121,10 @@ Use values reflecting conceptual structure, not story.
 }
 
 
+Measures:
+
+Dominant sensory stimulation
+provided by the content.
 
 --------------------------------------------------
 
@@ -642,12 +1132,34 @@ Use values reflecting conceptual structure, not story.
 # Media Specific Vector
 
 
-Generate ONLY the corresponding media vector.
+Generate exactly ONE media vector according to the primary content type.
 
-Do not omit.
+Cross-media characteristics should be reflected only in Psychology Vector, not by generating multiple media vectors.
+
+The Psychology Vector must remain identical across all content types.
+
+The Media Vector captures medium-specific characteristics only.
+
+Generate exactly one of:
+
+movie_vector
+tv_series_vector
+anime_vector
+manga_vector
+novel_vector
+literature_vector
+game_vector
+music_vector
+painting_vector
+architecture_vector
+photography_vector
+stage_vector
+sculpture_vector
+design_vector
+idea_vector
+other_vector
 
 Do not generate unrelated vectors.
-
 
 
 --------------------------------------------------
@@ -845,7 +1357,7 @@ Do not generate unrelated vectors.
 
 "human_interaction":0.0,
 
-"historical_context":0.0
+"structural_logic":0.0
 }
 
 
@@ -915,6 +1427,79 @@ Do not generate unrelated vectors.
 }
 
 
+--------------------------------------------------
+
+# literature_vector
+
+{
+"literary_style":0.0,
+"language_artistry":0.0,
+"symbolism":0.0,
+"rhetorical_complexity":0.0,
+"intellectual_depth":0.0,
+"cultural_depth":0.0,
+"knowledge_density":0.0,
+"interpretation_openness":0.0
+}
+
+--------------------------------------------------
+
+# idea_vector
+
+{
+"conceptual_originality":0.0,
+"logical_rigor":0.0,
+"systematicity":0.0,
+"theoretical_depth":0.0,
+"explanatory_power":0.0,
+"practical_guidance":0.0,
+"reasoning_quality":0.0,
+"paradigm_shift":0.0,
+"internal_consistency":0.0,
+"conceptual_clarity":0.0,
+}
+
+
+--------------------------------------------------
+
+# design_vector
+
+{
+"aesthetic_expression":0.0,
+"functional_design":0.0,
+"user_centeredness":0.0,
+"ergonomics":0.0,
+"innovation":0.0,
+"design_execution":0.0,
+"commercial_positioning":0.0,
+"brand_identity":0.0,
+"interaction_design":0.0,
+
+}
+
+--------------------------------------------------
+
+# other_vector
+
+{
+"generic_expression":0.0,
+"cultural_expression":0.0,
+"functional_focus":0.0,
+"knowledge_density":0.0
+}
+
+--------------------------------------------------
+
+# Personality Affinity Generation Rule
+
+Personality Affinity must ONLY be inferred from the generated Content Psychological Representation.
+
+Do NOT directly infer Personality Affinity from the introduction.
+
+Do NOT directly infer Personality Affinity from cultural knowledge.
+
+The intermediate Content Psychological Representation must remain sufficient for future machine learning models to reproduce the Personality Affinity.
+
 
 --------------------------------------------------
 
@@ -982,6 +1567,110 @@ Format:
 
 }
 
+
+
+Personality Affinity should emerge from CPR.
+
+
+The following mappings are illustrative rather than exhaustive.
+
+The final Personality Affinity should emerge from the complete Content Psychological Representation,
+not from any individual dimension.
+
+
+Example mapping:
+
+High abstractness
++
+High philosophical_depth
++
+High ambiguity
+
+↓
+
+Higher Ni
+
+----------------
+
+High exploration
++
+High novelty
++
+High fantasy_level
+
+↓
+
+Higher Ne
+
+----------------
+
+High logical_structure
++
+High complexity
+
+↓
+
+Higher Ti
+
+----------------
+
+High achievement
++
+High competition
++
+High discipline
+
+↓
+
+Higher Te
+
+----------------
+
+High self_exploration
++
+High identity
++
+High love
+
+↓
+
+Higher Fi
+
+----------------
+
+High family
++
+High friendship
++
+High cooperation
+
+↓
+
+Higher Fe
+
+----------------
+
+High nostalgia
++
+High tradition
++
+High memory-related expression
+
+↓
+
+Higher Si
+
+----------------
+
+High action_intensity
++
+High visual_intensity
++
+High immersion
+
+↓
+
+Higher Se
 
 
 --------------------------------------------------
@@ -1119,6 +1808,13 @@ High Te works usually provide:
 - problem solving
 - strategic planning
 - resource management
+
+
+competition
+including social,
+political,
+resource,
+and strategic competition
 
 
 Examples of high Te characteristics:
@@ -1271,6 +1967,8 @@ Examples of high Se characteristics:
 
 
 
+
+
 --------------------------------------------------
 
 
@@ -1401,37 +2099,100 @@ Do NOT assign scores based on:
 - personal preference of the annotator
 
 
-
 --------------------------------------------------
 
+# Supporting Evidence
 
-# Evidence Chain
+Generate 8–15 generalized factual evidence statements when sufficient information is available.
+
+For works with limited information, generate only the number of evidence statements that can be confidently supported by available facts.
+
+Do not fabricate evidence to satisfy the target quantity.
+
+The evidence should be generated in Simplified Chinese.
+
+Each evidence statement should preserve rich semantic information while remaining directly observable from the work.
+
+Evidence should describe objective content characteristics rather than psychological interpretation.
+
+Requirements:
+
+• 使用简体中文
+
+• 每条20~60字左右
+
+• 每条描述不同事实
+
+• 不重复
+
+• 不使用MBTI
+
+• 不使用心理学术语
+
+• 不解释人格
+
+• 不推断创作者
+
+• 不评价作品优劣
+
+Evidence examples:
+
+"故事围绕多个家族之间长期演变的关系展开。"
+
+"主要冲突持续受到社会制度和身份差异影响。"
+
+"大量篇幅描写人物心理活动和情绪变化。"
+
+"幻想世界拥有完整且稳定的规则体系。"
+
+"叙事不断通过不同事件推动人物成长。"
 
 
-Each work requires 3-5 evidence items.
+The evidence should collectively describe the observable cognitive, emotional, narrative and value expressions contained in the work.
 
+The evidence is NOT an explanation.
 
-Format:
+The evidence is NOT psychological interpretation.
 
+The evidence is NOT personality reasoning.
 
-[
-{
-"dimension":"",
-"score":0.0,
+The evidence should preserve rich semantic information for future machine learning.
 
-"evidence_strength":0.0,
+Each evidence statement should:
 
-"reason":""
-}
-]
+- describe observable facts or expressions
+- avoid personality terminology
+- avoid Jungian terminology
+- avoid psychology_vector field names
+- avoid creator personality
+- avoid audience personality
+- avoid unsupported inference
 
+Evidence should be generalized rather than retelling the plot.
 
-Evidence must explain:
+正确：
 
+"主人公不断根据环境变化调整长期计划。"
 
-- what feature supports this score
-- why the score exists
-- confidence level
+正确：
+
+"多个重要决策依赖长期准备。"
+
+错误：
+
+"作品体现战略思维。"
+
+错误：
+
+"体现高Ni。"
+
+The evidence will be used as future machine learning input for reconstructing the Content Psychological Representation.
+
+Evidence should be sufficiently expressive for future Transformer-based semantic representation learning.
+
+Do not compress evidence into keywords.
+
+Preserve complete factual semantics whenever possible.
 
 
 --------------------------------------------------
@@ -1490,6 +2251,137 @@ The same workId MUST never appear twice in generated outputs.
 
 --------------------------------------------------
 
+# Machine Learning Compatibility
+
+Future supervised learning pipeline:
+
+Supporting Evidence
+
+↓
+
+Content Psychological Representation
+
+↓
+
+Personality Affinity
+
+Therefore:
+
+Supporting Evidence should preserve semantic richness while avoiding psychological conclusions.
+
+The generated CPR should be reproducible from the evidence.
+
+The ontology should remain extensible across future domains.
+
+
+-----------------------------------------------------
+
+
+The integrity of each JSON object is the highest priority.
+
+Never split a work across responses.
+
+If the output limit is approaching,
+
+finish the current work,
+
+close the JSON,
+
+then stop.
+
+Wait for the user to send
+
+"continue"
+
+before generating the next work.
+
+
+---------------------------------------------------------
+
+# Batch Processing
+
+To ensure output completeness,
+
+the annotation agent should automatically determine an appropriate batch size.
+
+Default:
+
+1~3 works per response.
+
+Never exceed the maximum response length.
+
+The user may explicitly specify
+the number of works to generate.
+
+When specified,
+follow the user's request
+as long as the response length allows.
+
+If necessary,
+
+generate only one work in a response.
+
+The next response continues from the next unprocessed work.
+
+--------------------------------------------------
+
+# Consistency Requirement
+
+The generated vectors should remain reasonably stable
+when the same work is annotated repeatedly.
+
+Small numerical fluctuations (±0.05)
+are acceptable.
+
+However,
+
+the following should remain stable:
+
+- relative ranking
+- dominant dimensions
+- personality profile
+- worldview profile
+- emotional profile
+
+The overall psychological position
+inside the Content Psychological Space
+should remain invariant.
+
+
+Avoid artificially smoothing the vectors.
+
+Real cultural works usually exhibit
+strong strengths
+and obvious weaknesses.
+
+Large differences between dimensions
+are expected
+when supported by the work.
+
+--------------------------------------------------
+
+# Cross-work Calibration
+
+Scores should remain globally calibrated across the entire dataset.
+
+Do not evaluate each work independently.
+
+Compare the current work
+against generally accepted characteristics
+of culturally similar works
+and previously annotated works
+when available.
+
+Different works should remain distinguishable inside the shared Content Psychological Space.
+
+Avoid assigning similarly high scores to unrelated works simply because they are important or famous.
+
+When previous annotations are unavailable,
+use generally accepted characteristics of comparable cultural works
+to maintain global calibration.
+
+-----------------------------------------------------
+
 
 # Final Requirements
 
@@ -1516,4 +2408,182 @@ Maintain:
 - human interpretability
 
 
-Return ONLY JSON.
+Media Vector should only describe medium-specific characteristics.
+
+Psychology Vector must remain unified across all content types.
+
+Keep terminology consistent across the whole dataset.
+
+The same concept should always use the same Chinese wording.
+
+Avoid unnecessary synonyms.
+
+For example,
+
+"成长"
+
+should not randomly become
+
+"成长历程"
+
+"成长经历"
+
+"成长过程"
+
+unless the semantic meaning is different.
+
+
+
+Every numerical dimension should be inferred independently.
+
+Avoid assigning correlated scores merely because another dimension is high.
+
+
+Avoid unnecessary score saturation.
+
+Reserve values above 0.95 only for dimensions that are genuinely defining characteristics.
+
+Normally,
+a single work should contain
+no more than 2–4 dimensions scored as 1.00.
+
+Exception:
+
+Universally recognized masterpieces
+may legitimately contain
+more defining dimensions
+when strongly supported.
+
+
+Use the full numerical range instead of clustering values around 0.90–1.00.
+
+
+Correlation should emerge naturally from the content,
+
+not from the annotation process.
+
+
+All numerical scores should be represented with at most two decimal places.
+
+
+
+
+When annotation is requested,
+
+return valid JSON only.
+
+Do not include explanations,
+Markdown,
+or additional text.
+
+Otherwise,
+respond using normal text.
+
+
+Large datasets may be returned in multiple responses.
+
+Every response must contain complete JSON objects.
+
+Never split a single JSON object across multiple responses.
+
+Continue generation only after receiving "continue" from the user.
+
+
+The goal is NOT to memorize this cultural work.
+
+The goal is to generate reusable cognitive representations that allow future machine learning models to generalize to unseen cultural works, products, philosophical texts, user-generated content and future cultural media after standardized preprocessing.
+
+
+The processing state should be derived from the current conversation whenever possible.
+
+When processingState is provided in the previous response, continue from it.
+
+Do not assume memory across unrelated conversations.
+
+When the user says:
+
+continue
+
+next
+
+go on
+
+resume
+
+the agent continues from the next remaining work.
+
+Never regenerate processed workIds.
+
+
+When the same input dataset, ontologyVersion, promptVersion and annotationModelVersion are unchanged, the generated annotation should remain as consistent as reasonably possible.
+
+
+When available evidence is insufficient,
+avoid speculation.
+
+Prefer lower confidence rather than unsupported inference.
+
+
+
+If the remaining response budget is insufficient to finish the next work,
+
+stop generation before starting that work.
+
+Never output incomplete JSON.
+
+
+The same ontologyVersion and promptVersion must be used consistently throughout a single dataset.
+
+
+
+All natural language fields should be generated in Simplified Chinese, including:
+
+summary
+
+themes
+
+keywords
+
+core_experience
+
+supporting_evidence
+
+Media Vector string fields
+
+
+Avoid conservative scoring.
+
+Do not compress most dimensions into
+0.70–0.90.
+
+Real cultural works usually contain
+a small number of defining characteristics
+and many secondary characteristics.
+
+Use the full numerical range.
+
+
+Only JSON field names remain in English for machine compatibility.
+
+
+All string values inside Media Vector should also be generated in Simplified Chinese whenever possible.
+
+Example:
+
+genre:
+"流行"
+
+instead of
+
+"Pop"
+
+
+Popularity,
+historical importance,
+or artistic reputation
+must not directly increase
+psychological scores.
+
+Scores should always reflect
+observable characteristics
+of the content itself.
