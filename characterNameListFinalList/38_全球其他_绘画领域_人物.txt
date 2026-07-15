@@ -1,0 +1,107 @@
+[
+    "Raja Ravi Varma",
+
+    "Amrita Sher-Gil",
+
+    "M. F. Husain",
+
+    "Tyeb Mehta",
+
+    "S. H. Raza",
+
+    "F. N. Souza",
+
+    "Nalini Malani",
+
+    "Atul Dodiya",
+
+    "Shahzia Sikander",
+
+    "Rashid Rana",
+
+    "Sadequain",
+
+    "Parviz Tanavoli",
+
+    "Monir Shahroudy Farmanfarmaian",
+
+    "Mahmoud Said",
+
+    "Ibrahim El-Salahi",
+
+    "Julie Mehretu",
+
+    "El Anatsui",
+
+    "Ben Enwonwu",
+
+    "Njideka Akunyili Crosby",
+
+    "William Kentridge",
+
+    "Marlene Dumas",
+
+    "Irma Stern",
+
+    "Gerard Sekoto",
+
+    "Esther Mahlangu",
+
+    "Chéri Samba",
+
+    "Diego Rivera",
+
+    "Frida Kahlo",
+
+    "David Alfaro Siqueiros",
+
+    "José Clemente Orozco",
+
+    "Rufino Tamayo",
+
+    "Wifredo Lam",
+
+    "Fernando Botero",
+
+    "Joaquín Torres García",
+
+    "Tarsila do Amaral",
+
+    "Candido Portinari",
+
+    "Antonio Berni",
+
+    "Roberto Matta",
+
+    "Claudio Bravo",
+
+    "Guillermo Kuitca",
+
+    "Adriana Varejão",
+
+    "Beatriz Milhazes",
+
+    "Emily Kame Kngwarreye",
+
+    "Albert Namatjira",
+
+    "Gordon Bennett",
+
+    "Tracey Moffatt",
+
+    "Sidney Nolan",
+
+    "Arthur Streeton",
+
+    "Frances Hodgkins",
+
+    "Colin McCahon",
+
+    "Ralph Hotere",
+
+    "Rirkrit Tiravanija",
+
+    "Montien Boonma",
+
+    "Navin Rawanchaikul"
+]

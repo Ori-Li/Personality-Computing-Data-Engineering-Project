@@ -1,0 +1,135 @@
+[
+    "Satyajit Ray",
+
+    "Ritwik Ghatak",
+
+    "Mira Nair",
+
+    "Guru Dutt",
+
+    "Raj Kapoor",
+
+    "Aamir Khan",
+
+    "Shah Rukh Khan",
+
+    "Sanjay Leela Bhansali",
+
+    "Vishal Bhardwaj",
+
+    "Anurag Kashyap",
+
+    "Payal Kapadia",
+
+    "Abbas Kiarostami",
+
+    "Asghar Farhadi",
+
+    "Jafar Panahi",
+
+    "Majid Majidi",
+
+    "Mohsen Makhmalbaf",
+
+    "Samira Makhmalbaf",
+
+    "Nader Saeivar",
+
+    "Youssef Chahine",
+
+    "Nadine Labaki",
+
+    "Elia Suleiman",
+
+    "Hany Abu-Assad",
+
+    "Nuri Bilge Ceylan",
+
+    "Yılmaz Güney",
+
+    "Semih Kaplanoğlu",
+
+    "Sergei Parajanov",
+
+    "Apichatpong Weerasethakul",
+
+    "Pen-Ek Ratanaruang",
+
+    "Nawapol Thamrongrattanarit",
+
+    "Lav Diaz",
+
+    "Brillante Mendoza",
+
+    "Erik Matti",
+
+    "Trần Anh Hùng",
+
+    "Phan Đăng Di",
+
+    "Garin Nugroho",
+
+    "Joko Anwar",
+
+    "Ousmane Sembène",
+
+    "Djibril Diop Mambéty",
+
+    "Souleymane Cissé",
+
+    "Abderrahmane Sissako",
+
+    "Walter Salles",
+
+    "Fernando Meirelles",
+
+    "Héctor Babenco",
+
+    "Kleber Mendonça Filho",
+
+    "Lucrecia Martel",
+
+    "Damián Szifron",
+
+    "Sebastián Lelio",
+
+    "Pablo Larraín",
+
+    "Carlos Reygadas",
+
+    "Alejandro Jodorowsky",
+
+    "Jane Campion",
+
+    "Taika Waititi",
+
+    "Peter Jackson",
+
+    "Baz Luhrmann",
+
+    "George Miller",
+
+    "Peter Weir",
+
+    "Gillian Armstrong",
+
+    "Warwick Thornton",
+
+    "Dev Patel",
+
+    "Priyanka Chopra Jonas",
+
+    "Deepika Padukone",
+
+    "Alia Bhatt",
+
+    "Ranbir Kapoor",
+
+    "Mahesh Babu",
+
+    "Prabhas",
+
+    "Ram Charan",
+
+    "N. T. Rama Rao Jr."
+]

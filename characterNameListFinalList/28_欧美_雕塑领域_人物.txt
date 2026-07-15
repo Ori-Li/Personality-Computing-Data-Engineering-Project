@@ -1,0 +1,103 @@
+[
+    "Donatello",
+
+    "Lorenzo Ghiberti",
+
+    "Michelangelo",
+
+    "Gian Lorenzo Bernini",
+
+    "Antonio Canova",
+
+    "Auguste Rodin",
+
+    "Camille Claudel",
+
+    "Aristide Maillol",
+
+    "Constantin Brâncuși",
+
+    "Alberto Giacometti",
+
+    "Henry Moore",
+
+    "Barbara Hepworth",
+
+    "Alexander Calder",
+
+    "Louise Bourgeois",
+
+    "David Smith",
+
+    "Anthony Caro",
+
+    "Eduardo Chillida",
+
+    "Richard Serra",
+
+    "Donald Judd",
+
+    "Dan Flavin",
+
+    "Carl Andre",
+
+    "Sol LeWitt",
+
+    "Joseph Beuys",
+
+    "Marcel Duchamp",
+
+    "Jean Tinguely",
+
+    "Niki de Saint Phalle",
+
+    "Claes Oldenburg",
+
+    "Jeff Koons",
+
+    "Damien Hirst",
+
+    "Anish Kapoor",
+
+    "Antony Gormley",
+
+    "Rachel Whiteread",
+
+    "Ron Mueck",
+
+    "Urs Fischer",
+
+    "Katharina Fritsch",
+
+    "Tony Cragg",
+
+    "Richard Deacon",
+
+    "Magdalena Abakanowicz",
+
+    "Eva Hesse",
+
+    "Robert Morris",
+
+    "Bruce Nauman",
+
+    "Duane Hanson",
+
+    "George Segal",
+
+    "Louise Nevelson",
+
+    "Ruth Asawa",
+
+    "Simone Leigh",
+
+    "Sarah Lucas",
+
+    "Mona Hatoum",
+
+    "Olafur Eliasson",
+
+    "Maurizio Cattelan",
+
+    "Giuseppe Penone"
+]

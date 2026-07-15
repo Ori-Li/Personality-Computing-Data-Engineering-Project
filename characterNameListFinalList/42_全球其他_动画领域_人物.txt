@@ -1,0 +1,89 @@
+[
+    "Ram Mohan",
+
+    "Gitanjali Rao",
+
+    "Shilpa Ranade",
+
+    "Suresh Eriyat",
+
+    "Usman Riaz",
+
+    "Mohammed Saeed Harib",
+
+    "Ayman Jamal",
+
+    "Carlos Saldanha",
+
+    "Jorge R. Gutierrez",
+
+    "Guillermo del Toro",
+
+    "Juan Antin",
+
+    "Gabriel Osorio Vargas",
+
+    "Germán Acuña",
+
+    "Walter Tournier",
+
+    "Juan Padrón",
+
+    "Alê Abreu",
+
+    "Otto Guerra",
+
+    "Luiz Bolognesi",
+
+    "Pedro Rivero",
+
+    "Adam Elliot",
+
+    "George Miller",
+
+    "Bruce Petty",
+
+    "Anthony Lucas",
+
+    "Animal Logic",
+
+    "Huhu Studios",
+
+    "Triggerfish Animation Studios",
+
+    "Magic Carpet Studios",
+
+    "Kugali Media",
+
+    "Punkrobot Studio",
+
+    "Cinema Fantasma",
+
+    "Ánima Estudios",
+
+    "Hype Animation",
+
+    "Lightstar Studios",
+
+    "Green Gold Animation",
+
+    "Paperboat Animation Studios",
+
+    "Mano Animation Studios",
+
+    "Kantana Animation Studios",
+
+    "DeeDee Animation Studio",
+
+    "RocketSheep Studio",
+
+    "Lemon Sky Studios",
+
+    "Les' Copaque Production",
+
+    "Monsta",
+
+    "The Monk Studios",
+
+    "Igloo Studio"
+]

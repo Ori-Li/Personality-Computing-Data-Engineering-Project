@@ -1,0 +1,151 @@
+[
+    "Johann Sebastian Bach",
+
+    "George Frideric Handel",
+
+    "Joseph Haydn",
+
+    "Wolfgang Amadeus Mozart",
+
+    "Ludwig van Beethoven",
+
+    "Franz Schubert",
+
+    "Frédéric Chopin",
+
+    "Franz Liszt",
+
+    "Robert Schumann",
+
+    "Johannes Brahms",
+
+    "Richard Wagner",
+
+    "Giuseppe Verdi",
+
+    "Pyotr Ilyich Tchaikovsky",
+
+    "Claude Debussy",
+
+    "Maurice Ravel",
+
+    "Igor Stravinsky",
+
+    "Arnold Schoenberg",
+
+    "Gustav Mahler",
+
+    "Dmitri Shostakovich",
+
+    "Sergei Rachmaninoff",
+
+    "John Cage",
+
+    "Philip Glass",
+
+    "Steve Reich",
+
+    "Louis Armstrong",
+
+    "Duke Ellington",
+
+    "Charlie Parker",
+
+    "Miles Davis",
+
+    "John Coltrane",
+
+    "Billie Holiday",
+
+    "Ella Fitzgerald",
+
+    "Bob Dylan",
+
+    "Leonard Cohen",
+
+    "David Bowie",
+
+    "Elton John",
+
+    "Bruce Springsteen",
+
+    "The Beatles",
+
+    "The Rolling Stones",
+
+    "Pink Floyd",
+
+    "Led Zeppelin",
+
+    "Queen",
+
+    "The Velvet Underground",
+
+    "Nirvana",
+
+    "Radiohead",
+
+    "Oasis",
+
+    "Blur",
+
+    "Coldplay",
+
+    "Metallica",
+
+    "Guns N' Roses",
+
+    "The Clash",
+
+    "Joni Mitchell",
+
+    "Kate Bush",
+
+    "Madonna",
+
+    "Michael Jackson",
+
+    "Prince",
+
+    "Whitney Houston",
+
+    "Mariah Carey",
+
+    "Céline Dion",
+
+    "Beyoncé",
+
+    "Taylor Swift",
+
+    "Adele",
+
+    "Rihanna",
+
+    "Lady Gaga",
+
+    "Björk",
+
+    "Lana Del Rey",
+
+    "Billie Eilish",
+
+    "Kendrick Lamar",
+
+    "Kanye West",
+
+    "Eminem",
+
+    "Drake",
+
+    "Jay-Z",
+
+    "Stevie Wonder",
+
+    "Aretha Franklin",
+
+    "Ennio Morricone",
+
+    "John Williams",
+
+    "Hans Zimmer"
+]

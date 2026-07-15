@@ -1,0 +1,111 @@
+[
+    "Uday Shankar",
+
+    "Rukmini Devi Arundale",
+
+    "Birju Maharaj",
+
+    "Kelucharan Mohapatra",
+
+    "Mrinalini Sarabhai",
+
+    "Mallika Sarabhai",
+
+    "Chandralekha",
+
+    "Akram Khan",
+
+    "Aditi Mangaldas",
+
+    "Malavika Sarukkai",
+
+    "Alarmel Valli",
+
+    "Navtej Singh Johar",
+
+    "Saroj Khan",
+
+    "Farah Khan",
+
+    "Prabhu Deva",
+
+    "Shiamak Davar",
+
+    "Nahid Siddiqui",
+
+    "Ohad Naharin",
+
+    "Barak Marshall",
+
+    "Rami Be'er",
+
+    "Emanuel Gat",
+
+    "Yasmeen Godder",
+
+    "Germaine Acogny",
+
+    "Gregory Maqoma",
+
+    "Dada Masilo",
+
+    "Boyzie Cekwana",
+
+    "Vincent Mantsoe",
+
+    "Constanza Macras",
+
+    "Nora Chipaumire",
+
+    "Faustin Linyekula",
+
+    "Deborah Colker",
+
+    "Lia Rodrigues",
+
+    "Victor Quijada",
+
+    "Cecilia Bengolea",
+
+    "Marianela Boán",
+
+    "Carlos Acosta",
+
+    "Alicia Alonso",
+
+    "Julio Bocca",
+
+    "María Pagés",
+
+    "Israel Galván",
+
+    "Rocío Molina",
+
+    "Bangarra Dance Theatre",
+
+    "Sydney Dance Company",
+
+    "The Australian Ballet",
+
+    "Royal New Zealand Ballet",
+
+    "Batsheva Dance Company",
+
+    "Kibbutz Contemporary Dance Company",
+
+    "Compagnie Jant-Bi",
+
+    "Dance Factory Johannesburg",
+
+    "Grupo Corpo",
+
+    "Ballet Nacional de Cuba",
+
+    "Ballet Folklórico de México",
+
+    "Black Grace",
+
+    "Atamira Dance Company",
+
+    "MAU"
+]

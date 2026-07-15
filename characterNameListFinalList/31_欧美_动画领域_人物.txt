@@ -1,0 +1,131 @@
+[
+    "Winsor McCay",
+
+    "Walt Disney",
+
+    "Ub Iwerks",
+
+    "Max Fleischer",
+
+    "Dave Fleischer",
+
+    "Chuck Jones",
+
+    "Tex Avery",
+
+    "Friz Freleng",
+
+    "Joseph Barbera",
+
+    "William Hanna",
+
+    "Ralph Bakshi",
+
+    "Don Bluth",
+
+    "Richard Williams",
+
+    "Nick Park",
+
+    "Peter Lord",
+
+    "David Sproxton",
+
+    "Henry Selick",
+
+    "Tim Burton",
+
+    "John Lasseter",
+
+    "Pete Docter",
+
+    "Andrew Stanton",
+
+    "Brad Bird",
+
+    "Lee Unkrich",
+
+    "Byron Howard",
+
+    "Rich Moore",
+
+    "Chris Buck",
+
+    "Jennifer Lee",
+
+    "Glen Keane",
+
+    "Ron Clements",
+
+    "John Musker",
+
+    "Dean DeBlois",
+
+    "Chris Sanders",
+
+    "Chris Miller",
+
+    "Phil Lord",
+
+    "Peter Ramsey",
+
+    "Jennifer Yuh Nelson",
+
+    "Guillermo del Toro",
+
+    "Travis Knight",
+
+    "Wes Anderson",
+
+    "Tomm Moore",
+
+    "Nora Twomey",
+
+    "Bill Plympton",
+
+    "Don Hertzfeldt",
+
+    "Matt Groening",
+
+    "Seth MacFarlane",
+
+    "Trey Parker",
+
+    "Matt Stone",
+
+    "Genndy Tartakovsky",
+
+    "Craig McCracken",
+
+    "Lauren Faust",
+
+    "Alex Hirsch",
+
+    "Pendleton Ward",
+
+    "Rebecca Sugar",
+
+    "Raphael Bob-Waksberg",
+
+    "Sylvain Chomet",
+
+    "Michel Ocelot",
+
+    "Jan Švankmajer",
+
+    "Yuri Norstein",
+
+    "Pixar Animation Studios",
+
+    "Walt Disney Animation Studios",
+
+    "DreamWorks Animation",
+
+    "Laika",
+
+    "Cartoon Saloon",
+
+    "Aardman Animations",
+
+    "Sony Pictures Animation"
+]

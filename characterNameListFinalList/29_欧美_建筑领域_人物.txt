@@ -1,0 +1,125 @@
+[
+    "Filippo Brunelleschi",
+
+    "Leon Battista Alberti",
+
+    "Andrea Palladio",
+
+    "Christopher Wren",
+
+    "Karl Friedrich Schinkel",
+
+    "Antoni Gaudí",
+
+    "Otto Wagner",
+
+    "Victor Horta",
+
+    "Charles Rennie Mackintosh",
+
+    "Louis Sullivan",
+
+    "Frank Lloyd Wright",
+
+    "Peter Behrens",
+
+    "Adolf Loos",
+
+    "Walter Gropius",
+
+    "Ludwig Mies van der Rohe",
+
+    "Le Corbusier",
+
+    "Alvar Aalto",
+
+    "Louis Kahn",
+
+    "Eero Saarinen",
+
+    "Oscar Niemeyer",
+
+    "Richard Neutra",
+
+    "Philip Johnson",
+
+    "Luis Barragán",
+
+    "Robert Venturi",
+
+    "Denise Scott Brown",
+
+    "Aldo Rossi",
+
+    "James Stirling",
+
+    "Peter Eisenman",
+
+    "Frank Gehry",
+
+    "Renzo Piano",
+
+    "Richard Rogers",
+
+    "Norman Foster",
+
+    "Rem Koolhaas",
+
+    "Peter Zumthor",
+
+    "Jacques Herzog",
+
+    "Pierre de Meuron",
+
+    "Zaha Hadid",
+
+    "Daniel Libeskind",
+
+    "Santiago Calatrava",
+
+    "Jean Nouvel",
+
+    "Dominique Perrault",
+
+    "Bernard Tschumi",
+
+    "Steven Holl",
+
+    "Thom Mayne",
+
+    "Elizabeth Diller",
+
+    "Ricardo Scofidio",
+
+    "David Chipperfield",
+
+    "Bjarke Ingels",
+
+    "Thomas Heatherwick",
+
+    "Francis Kéré",
+
+    "David Adjaye",
+
+    "Anna Heringer",
+
+    "Alejandro Aravena",
+
+    "Jeanne Gang",
+
+    "Frei Otto",
+
+    "Cedric Price",
+
+    "OMA",
+
+    "Foster + Partners",
+
+    "Zaha Hadid Architects",
+
+    "Herzog & de Meuron",
+
+    "Snøhetta",
+
+    "MVRDV"
+]

@@ -1,0 +1,151 @@
+[
+    "Nolan Bushnell",
+
+    "Ralph H. Baer",
+
+    "Steve Russell",
+
+    "Will Crowther",
+
+    "Don Woods",
+
+    "Richard Garriott",
+
+    "Roberta Williams",
+
+    "Ken Williams",
+
+    "Sid Meier",
+
+    "Will Wright",
+
+    "John Carmack",
+
+    "John Romero",
+
+    "Warren Spector",
+
+    "Chris Roberts",
+
+    "Peter Molyneux",
+
+    "David Jones",
+
+    "Sam Houser",
+
+    "Dan Houser",
+
+    "Leslie Benzies",
+
+    "Tim Sweeney",
+
+    "Gabe Newell",
+
+    "Ken Levine",
+
+    "Todd Howard",
+
+    "Jonathan Blow",
+
+    "Phil Fish",
+
+    "Edmund McMillen",
+
+    "Markus Persson",
+
+    "Jens Bergensten",
+
+    "Toby Fox",
+
+    "Eric Barone",
+
+    "Lucas Pope",
+
+    "Sam Barlow",
+
+    "Tim Schafer",
+
+    "Ron Gilbert",
+
+    "Brian Fargo",
+
+    "Josh Sawyer",
+
+    "Chris Avellone",
+
+    "Neil Druckmann",
+
+    "Amy Hennig",
+
+    "Cory Barlog",
+
+    "David Jaffe",
+
+    "Cliff Bleszinski",
+
+    "Rod Fergusson",
+
+    "Josef Fares",
+
+    "Tim Cain",
+
+    "Leonard Boyarsky",
+
+    "Harvey Smith",
+
+    "Raphaël Colantonio",
+
+    "Michel Ancel",
+
+    "Casey Hudson",
+
+    "David Gaider",
+
+    "Jeff Kaplan",
+
+    "Chris Metzen",
+
+    "Sam Lake",
+
+    "Bennett Foddy",
+
+    "Daniel Mullins",
+
+    "Larian Studios",
+
+    "Obsidian Entertainment",
+
+    "Bethesda Game Studios",
+
+    "Valve",
+
+    "Blizzard Entertainment",
+
+    "Naughty Dog",
+
+    "Santa Monica Studio",
+
+    "Insomniac Games",
+
+    "Remedy Entertainment",
+
+    "Double Fine",
+
+    "Supergiant Games",
+
+    "Giant Sparrow",
+
+    "Playdead",
+
+    "Mojang Studios",
+
+    "CD Projekt Red",
+
+    "Rockstar North",
+
+    "Rare",
+
+    "BioWare",
+
+    "Arkane Studios"
+]

@@ -1,0 +1,29 @@
+seed: 42
+model_name: answerdotai/ModernBERT-base
+# Prompt contract: raw work records are model inputs; CPR annotations are labels.
+# Replace annotation_path with the final JSON produced from
+# Prompt/work_psychInfo_generating_prompt.txt when it is ready.
+input_path: DataSet/work_list.json
+annotation_path: DataSet/work_vector_list.json
+output_dir: outputs/modernbert-personality
+
+# Shared, carrier-independent CPR is the primary supervised target (84 dims).
+# Other valid examples: experience_vector, personality_affinity,
+# psychology_vector.emotion
+target_path: psychology_vector
+max_length: 512
+validation_ratio: 0.2
+
+epochs: 5
+train_batch_size: 2
+eval_batch_size: 4
+gradient_accumulation_steps: 4
+learning_rate: 2.0e-5
+weight_decay: 0.01
+warmup_ratio: 0.1
+dropout: 0.1
+freeze_encoder: false
+gradient_checkpointing: true
+num_workers: 0
+fp16: false
+bf16: true

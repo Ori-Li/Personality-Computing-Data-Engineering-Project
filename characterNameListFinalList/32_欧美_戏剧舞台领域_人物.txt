@@ -1,0 +1,125 @@
+[
+    "Aeschylus",
+
+    "Sophocles",
+
+    "Euripides",
+
+    "Aristophanes",
+
+    "William Shakespeare",
+
+    "Christopher Marlowe",
+
+    "Molière",
+
+    "Pierre Corneille",
+
+    "Jean Racine",
+
+    "Carlo Goldoni",
+
+    "Henrik Ibsen",
+
+    "August Strindberg",
+
+    "Anton Chekhov",
+
+    "George Bernard Shaw",
+
+    "Oscar Wilde",
+
+    "Luigi Pirandello",
+
+    "Bertolt Brecht",
+
+    "Samuel Beckett",
+
+    "Eugene O'Neill",
+
+    "Tennessee Williams",
+
+    "Arthur Miller",
+
+    "Harold Pinter",
+
+    "Edward Albee",
+
+    "Jean Genet",
+
+    "Eugène Ionesco",
+
+    "Peter Brook",
+
+    "Jerzy Grotowski",
+
+    "Konstantin Stanislavski",
+
+    "Vsevolod Meyerhold",
+
+    "Antonin Artaud",
+
+    "Ariane Mnouchkine",
+
+    "Robert Wilson",
+
+    "Thomas Ostermeier",
+
+    "Ivo van Hove",
+
+    "Katie Mitchell",
+
+    "Sarah Kane",
+
+    "Caryl Churchill",
+
+    "Tom Stoppard",
+
+    "David Mamet",
+
+    "Sam Shepard",
+
+    "August Wilson",
+
+    "Tony Kushner",
+
+    "Martin McDonagh",
+
+    "Yasmina Reza",
+
+    "Florian Zeller",
+
+    "Andrew Lloyd Webber",
+
+    "Stephen Sondheim",
+
+    "Lin-Manuel Miranda",
+
+    "Jonathan Larson",
+
+    "Bob Fosse",
+
+    "Harold Prince",
+
+    "Julie Taymor",
+
+    "Sam Mendes",
+
+    "Laurence Olivier",
+
+    "Judi Dench",
+
+    "Ian McKellen",
+
+    "Mark Rylance",
+
+    "Royal Shakespeare Company",
+
+    "National Theatre",
+
+    "Cirque du Soleil",
+
+    "Théâtre du Soleil",
+
+    "Schaubühne"
+]

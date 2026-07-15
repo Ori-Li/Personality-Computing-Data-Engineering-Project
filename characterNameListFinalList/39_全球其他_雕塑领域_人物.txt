@@ -1,0 +1,95 @@
+[
+    "Ramkinkar Baij",
+
+    "Anish Kapoor",
+
+    "Subodh Gupta",
+
+    "Navin Rawanchaikul",
+
+    "Parviz Tanavoli",
+
+    "Mona Hatoum",
+
+    "Shirin Neshat",
+
+    "Ahmed Mater",
+
+    "Dia Al-Azzawi",
+
+    "El Anatsui",
+
+    "Olu Amoda",
+
+    "Sokari Douglas Camp",
+
+    "Otobong Nkanga",
+
+    "William Kentridge",
+
+    "Jane Alexander",
+
+    "Mary Sibande",
+
+    "Ben Enwonwu",
+
+    "Fernando Botero",
+
+    "Doris Salcedo",
+
+    "Oscar Muñoz",
+
+    "León Ferrari",
+
+    "Jesús Rafael Soto",
+
+    "Carlos Cruz-Diez",
+
+    "Lygia Clark",
+
+    "Lygia Pape",
+
+    "Ernesto Neto",
+
+    "Vik Muniz",
+
+    "Cildo Meireles",
+
+    "Simone Leigh",
+
+    "Tracey Moffatt",
+
+    "Ken Unsworth",
+
+    "Ron Mueck",
+
+    "Patricia Piccinini",
+
+    "Brook Andrew",
+
+    "Judy Watson",
+
+    "Michael Parekowhai",
+
+    "Ralph Hotere",
+
+    "Rirkrit Tiravanija",
+
+    "Montien Boonma",
+
+    "Nalini Malani",
+
+    "Bharti Kher",
+
+    "N. S. Harsha",
+
+    "Yinka Shonibare",
+
+    "Kendell Geers",
+
+    "Gonçalo Mabunda",
+
+    "Romuald Hazoumè",
+
+    "Abdoulaye Konaté"
+]

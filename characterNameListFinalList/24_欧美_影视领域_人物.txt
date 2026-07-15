@@ -1,0 +1,165 @@
+[
+    "Georges Méliès",
+
+    "Charlie Chaplin",
+
+    "Buster Keaton",
+
+    "Fritz Lang",
+
+    "F. W. Murnau",
+
+    "Sergei Eisenstein",
+
+    "Carl Theodor Dreyer",
+
+    "Jean Renoir",
+
+    "Luis Buñuel",
+
+    "Alfred Hitchcock",
+
+    "Orson Welles",
+
+    "John Ford",
+
+    "Howard Hawks",
+
+    "Billy Wilder",
+
+    "Roberto Rossellini",
+
+    "Vittorio De Sica",
+
+    "Federico Fellini",
+
+    "Michelangelo Antonioni",
+
+    "Ingmar Bergman",
+
+    "Robert Bresson",
+
+    "François Truffaut",
+
+    "Jean-Luc Godard",
+
+    "Agnès Varda",
+
+    "Andrei Tarkovsky",
+
+    "Krzysztof Kieślowski",
+
+    "Werner Herzog",
+
+    "Rainer Werner Fassbinder",
+
+    "Wim Wenders",
+
+    "Ken Loach",
+
+    "Mike Leigh",
+
+    "Stanley Kubrick",
+
+    "Francis Ford Coppola",
+
+    "Martin Scorsese",
+
+    "Steven Spielberg",
+
+    "George Lucas",
+
+    "David Lynch",
+
+    "Ridley Scott",
+
+    "James Cameron",
+
+    "Tim Burton",
+
+    "Joel Coen",
+
+    "Ethan Coen",
+
+    "Quentin Tarantino",
+
+    "Paul Thomas Anderson",
+
+    "David Fincher",
+
+    "Christopher Nolan",
+
+    "Wes Anderson",
+
+    "Sofia Coppola",
+
+    "Greta Gerwig",
+
+    "Denis Villeneuve",
+
+    "Alfonso Cuarón",
+
+    "Alejandro González Iñárritu",
+
+    "Guillermo del Toro",
+
+    "Pedro Almodóvar",
+
+    "Michael Haneke",
+
+    "Lars von Trier",
+
+    "Yorgos Lanthimos",
+
+    "Jordan Peele",
+
+    "Jane Campion",
+
+    "Lynne Ramsay",
+
+    "Kathryn Bigelow",
+
+    "Robert De Niro",
+
+    "Al Pacino",
+
+    "Meryl Streep",
+
+    "Daniel Day-Lewis",
+
+    "Cate Blanchett",
+
+    "Leonardo DiCaprio",
+
+    "Tom Hanks",
+
+    "Brad Pitt",
+
+    "Johnny Depp",
+
+    "Tom Cruise",
+
+    "Christian Bale",
+
+    "Joaquin Phoenix",
+
+    "Emma Stone",
+
+    "Natalie Portman",
+
+    "Scarlett Johansson",
+
+    "Jennifer Lawrence",
+
+    "Margot Robbie",
+
+    "Zendaya",
+
+    "Anya Taylor-Joy",
+
+    "Florence Pugh",
+
+    "Pedro Pascal",
+
+    "Cillian Murphy"
+]

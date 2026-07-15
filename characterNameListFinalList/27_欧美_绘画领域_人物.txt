@@ -1,0 +1,121 @@
+[
+    "Giotto",
+
+    "Sandro Botticelli",
+
+    "Leonardo da Vinci",
+
+    "Michelangelo",
+
+    "Raphael",
+
+    "Titian",
+
+    "Caravaggio",
+
+    "Rembrandt",
+
+    "Johannes Vermeer",
+
+    "Peter Paul Rubens",
+
+    "Diego Velázquez",
+
+    "Francisco Goya",
+
+    "J. M. W. Turner",
+
+    "Eugène Delacroix",
+
+    "Gustave Courbet",
+
+    "Édouard Manet",
+
+    "Claude Monet",
+
+    "Edgar Degas",
+
+    "Pierre-Auguste Renoir",
+
+    "Paul Cézanne",
+
+    "Paul Gauguin",
+
+    "Vincent van Gogh",
+
+    "Georges Seurat",
+
+    "Henri Matisse",
+
+    "Pablo Picasso",
+
+    "Georges Braque",
+
+    "Wassily Kandinsky",
+
+    "Paul Klee",
+
+    "Kazimir Malevich",
+
+    "Piet Mondrian",
+
+    "Edvard Munch",
+
+    "Gustav Klimt",
+
+    "Egon Schiele",
+
+    "René Magritte",
+
+    "Salvador Dalí",
+
+    "Joan Miró",
+
+    "Marc Chagall",
+
+    "Frida Kahlo",
+
+    "Georgia O'Keeffe",
+
+    "Edward Hopper",
+
+    "Jackson Pollock",
+
+    "Mark Rothko",
+
+    "Willem de Kooning",
+
+    "Francis Bacon",
+
+    "Lucian Freud",
+
+    "Andy Warhol",
+
+    "Roy Lichtenstein",
+
+    "David Hockney",
+
+    "Gerhard Richter",
+
+    "Anselm Kiefer",
+
+    "Jean-Michel Basquiat",
+
+    "Keith Haring",
+
+    "Jenny Saville",
+
+    "Peter Doig",
+
+    "Marlene Dumas",
+
+    "Julie Mehretu",
+
+    "Cecily Brown",
+
+    "George Condo",
+
+    "Kerry James Marshall",
+
+    "Banksy"
+]

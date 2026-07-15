@@ -1,0 +1,111 @@
+[
+    "Hassan Fathy",
+
+    "Rasem Badran",
+
+    "Geoffrey Bawa",
+
+    "Minnette de Silva",
+
+    "Charles Correa",
+
+    "Balkrishna Doshi",
+
+    "Raj Rewal",
+
+    "Laurie Baker",
+
+    "Muzharul Islam",
+
+    "Kashef Chowdhury",
+
+    "Marina Tabassum",
+
+    "Nader Khalili",
+
+    "Abdel-Wahed El-Wakil",
+
+    "Francis Kéré",
+
+    "David Adjaye",
+
+    "Mariam Kamara",
+
+    "Kunlé Adeyemi",
+
+    "Peter Rich",
+
+    "Jo Noero",
+
+    "Oscar Niemeyer",
+
+    "Lúcio Costa",
+
+    "Paulo Mendes da Rocha",
+
+    "Lina Bo Bardi",
+
+    "Rogelio Salmona",
+
+    "Luis Barragán",
+
+    "Ricardo Legorreta",
+
+    "Tatiana Bilbao",
+
+    "Mauricio Rocha",
+
+    "Alejandro Aravena",
+
+    "Smiljan Radić",
+
+    "Solano Benítez",
+
+    "Emilio Ambasz",
+
+    "Glenn Murcutt",
+
+    "Harry Seidler",
+
+    "John Andrews",
+
+    "Peter Stutchbury",
+
+    "Sean Godsell",
+
+    "Kerry Hill",
+
+    "Robin Boyd",
+
+    "Claude Megson",
+
+    "Vo Trong Nghia",
+
+    "Hoàng Thúc Hào",
+
+    "Tropical Space",
+
+    "WOHA",
+
+    "Kerry Hill Architects",
+
+    "Studio Mumbai",
+
+    "Bijoy Jain",
+
+    "Anupama Kundoo",
+
+    "Sameep Padora",
+
+    "Sanjay Puri",
+
+    "Elemental",
+
+    "Triptyque Architecture",
+
+    "Grupo SP",
+
+    "Gabinete de Arquitectura",
+
+    "MAPA Architects"
+]

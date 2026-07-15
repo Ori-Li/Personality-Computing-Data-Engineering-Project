@@ -1,0 +1,123 @@
+[
+    "Marius Petipa",
+
+    "Jean-Georges Noverre",
+
+    "August Bournonville",
+
+    "Sergei Diaghilev",
+
+    "Anna Pavlova",
+
+    "Vaslav Nijinsky",
+
+    "Michel Fokine",
+
+    "George Balanchine",
+
+    "Martha Graham",
+
+    "Isadora Duncan",
+
+    "Ruth St. Denis",
+
+    "Ted Shawn",
+
+    "Doris Humphrey",
+
+    "José Limón",
+
+    "Merce Cunningham",
+
+    "Paul Taylor",
+
+    "Alvin Ailey",
+
+    "Twyla Tharp",
+
+    "Pina Bausch",
+
+    "Maurice Béjart",
+
+    "Roland Petit",
+
+    "William Forsythe",
+
+    "Jiří Kylián",
+
+    "Mats Ek",
+
+    "Anne Teresa De Keersmaeker",
+
+    "Akram Khan",
+
+    "Wayne McGregor",
+
+    "Matthew Bourne",
+
+    "Sasha Waltz",
+
+    "Crystal Pite",
+
+    "Hofesh Shechter",
+
+    "Mikhail Baryshnikov",
+
+    "Rudolf Nureyev",
+
+    "Margot Fonteyn",
+
+    "Sylvie Guillem",
+
+    "Natalia Makarova",
+
+    "Svetlana Zakharova",
+
+    "Diana Vishneva",
+
+    "Natalia Osipova",
+
+    "Marianela Núñez",
+
+    "Tamara Rojo",
+
+    "Misty Copeland",
+
+    "Carlos Acosta",
+
+    "Alexei Ratmansky",
+
+    "Kenneth MacMillan",
+
+    "Frederick Ashton",
+
+    "Jerome Robbins",
+
+    "Bob Fosse",
+
+    "Gene Kelly",
+
+    "Fred Astaire",
+
+    "Michael Jackson",
+
+    "Katherine Dunham",
+
+    "Trisha Brown",
+
+    "Yvonne Rainer",
+
+    "Steve Paxton",
+
+    "Ballets Russes",
+
+    "New York City Ballet",
+
+    "American Ballet Theatre",
+
+    "The Royal Ballet",
+
+    "Paris Opera Ballet",
+
+    "Tanztheater Wuppertal Pina Bausch"
+]

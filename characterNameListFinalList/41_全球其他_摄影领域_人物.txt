@@ -1,0 +1,105 @@
+[
+    "Raghu Rai",
+
+    "Dayanita Singh",
+
+    "Raghubir Singh",
+
+    "Prabuddha Dasgupta",
+
+    "Shahidul Alam",
+
+    "Munem Wasif",
+
+    "Abbas Attar",
+
+    "Shirin Neshat",
+
+    "Newsha Tavakolian",
+
+    "Gohar Dashti",
+
+    "Larissa Sansour",
+
+    "Joana Hadjithomas",
+
+    "Khalil Joreige",
+
+    "Peter Hugo",
+
+    "David Goldblatt",
+
+    "Seydou Keïta",
+
+    "Malick Sidibé",
+
+    "Roger Ballen",
+
+    "Samuel Fosso",
+
+    "Omar Victor Diop",
+
+    "Zanele Muholi",
+
+    "Jürgen Schadeberg",
+
+    "Sebastião Salgado",
+
+    "Miguel Rio Branco",
+
+    "Claudia Andujar",
+
+    "Martín Chambi",
+
+    "Graciela Iturbide",
+
+    "Manuel Álvarez Bravo",
+
+    "Tina Modotti",
+
+    "Marcos López",
+
+    "Alfredo Jaar",
+
+    "Paz Errázuriz",
+
+    "Camilo José Vergara",
+
+    "Tracey Moffatt",
+
+    "Bill Henson",
+
+    "Max Dupain",
+
+    "Olive Cotton",
+
+    "Anne Zahalka",
+
+    "Fiona Pardington",
+
+    "Yuki Kihara",
+
+    "Shigeyuki Kihara",
+
+    "Narelle Autio",
+
+    "Trent Parke",
+
+    "Polixeni Papapetrou",
+
+    "Hoda Afshar",
+
+    "Atong Atem",
+
+    "Brook Andrew",
+
+    "Mervyn Bishop",
+
+    "George Osodi",
+
+    "Jide Alakija",
+
+    "Aïda Muluneh",
+
+    "Hassan Hajjaj"
+]

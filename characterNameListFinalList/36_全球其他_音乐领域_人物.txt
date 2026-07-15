@@ -1,0 +1,123 @@
+[
+    "Ravi Shankar",
+
+    "Ali Akbar Khan",
+
+    "Zakir Hussain",
+
+    "Alla Rakha",
+
+    "Lata Mangeshkar",
+
+    "Asha Bhosle",
+
+    "A. R. Rahman",
+
+    "Ilaiyaraaja",
+
+    "Nusrat Fateh Ali Khan",
+
+    "Abida Parveen",
+
+    "Rahat Fateh Ali Khan",
+
+    "Fairuz",
+
+    "Umm Kulthum",
+
+    "Mohammed Abdel Wahab",
+
+    "Abdel Halim Hafez",
+
+    "Wadih El Safi",
+
+    "Marcel Khalife",
+
+    "Sezen Aksu",
+
+    "Tarkan",
+
+    "Yanni",
+
+    "Vangelis",
+
+    "Fela Kuti",
+
+    "Femi Kuti",
+
+    "Ali Farka Touré",
+
+    "Salif Keita",
+
+    "Youssou N'Dour",
+
+    "Angélique Kidjo",
+
+    "Miriam Makeba",
+
+    "Hugh Masekela",
+
+    "Ladysmith Black Mambazo",
+
+    "Manu Dibango",
+
+    "Papa Wemba",
+
+    "Mulatu Astatke",
+
+    "Bob Marley",
+
+    "Peter Tosh",
+
+    "Jimmy Cliff",
+
+    "Cesária Évora",
+
+    "Caetano Veloso",
+
+    "Gilberto Gil",
+
+    "Antônio Carlos Jobim",
+
+    "João Gilberto",
+
+    "Elis Regina",
+
+    "Chico Buarque",
+
+    "Milton Nascimento",
+
+    "Astor Piazzolla",
+
+    "Mercedes Sosa",
+
+    "Violeta Parra",
+
+    "Víctor Jara",
+
+    "Silvio Rodríguez",
+
+    "Rubén Blades",
+
+    "Shakira",
+
+    "Bad Bunny",
+
+    "Carlos Santana",
+
+    "Kylie Minogue",
+
+    "Nick Cave",
+
+    "Sia",
+
+    "Lorde",
+
+    "Tame Impala",
+
+    "Gotye",
+
+    "Troye Sivan",
+
+    "Lisa Manobal"
+]

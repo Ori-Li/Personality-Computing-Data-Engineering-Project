@@ -1,0 +1,89 @@
+[
+    "Navid Khonsari",
+
+    "Dean Hall",
+
+    "Team Cherry",
+
+    "Ari Gibson",
+
+    "William Pellen",
+
+    "Halfbrick Studios",
+
+    "Hipster Whale",
+
+    "Matt Hall",
+
+    "Andy Sum",
+
+    "League of Geeks",
+
+    "Weta Workshop Interactive",
+
+    "Grinding Gear Games",
+
+    "Gameloft Brisbane",
+
+    "Free Lives",
+
+    "The Brotherhood",
+
+    "Nyamakop",
+
+    "Lual Mayen",
+
+    "Kiro'o Games",
+
+    "Olivier Madiba",
+
+    "Maliyo Games",
+
+    "Leti Arts",
+
+    "Usiku Games",
+
+    "Gamebra.in",
+
+    "Shahid Ahmad",
+
+    "Vishal Gondal",
+
+    "Raji: An Ancient Epic team",
+
+    "Nodding Heads Games",
+
+    "99Games",
+
+    "Dhruva Interactive",
+
+    "Digital Happiness",
+
+    "Toge Productions",
+
+    "Mojiken Studio",
+
+    "Kaigan Games",
+
+    "Lemon Sky Studios",
+
+    "Magnus Games Studio",
+
+    "Metronomik",
+
+    "Wan Hazmer",
+
+    "Nguyễn Hà Đông",
+
+    "Dong Nguyen",
+
+    "Sky Mavis",
+
+    "Khang Le",
+
+    "Dream Games",
+
+    "Peak Games",
+
+    "TaleWorlds Entertainment"
+]

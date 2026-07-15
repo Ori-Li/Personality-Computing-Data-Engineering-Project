@@ -1,0 +1,123 @@
+[
+    "Louis Daguerre",
+
+    "William Henry Fox Talbot",
+
+    "Nadar",
+
+    "Julia Margaret Cameron",
+
+    "Eadweard Muybridge",
+
+    "Jacob Riis",
+
+    "Lewis Hine",
+
+    "Alfred Stieglitz",
+
+    "Edward Steichen",
+
+    "Paul Strand",
+
+    "Man Ray",
+
+    "Eugène Atget",
+
+    "Ansel Adams",
+
+    "Edward Weston",
+
+    "Dorothea Lange",
+
+    "Walker Evans",
+
+    "Margaret Bourke-White",
+
+    "Robert Capa",
+
+    "Henri Cartier-Bresson",
+
+    "Brassaï",
+
+    "André Kertész",
+
+    "Vivian Maier",
+
+    "Lee Miller",
+
+    "Imogen Cunningham",
+
+    "Diane Arbus",
+
+    "Richard Avedon",
+
+    "Irving Penn",
+
+    "William Klein",
+
+    "Robert Frank",
+
+    "Garry Winogrand",
+
+    "Lee Friedlander",
+
+    "Saul Leiter",
+
+    "Annie Leibovitz",
+
+    "Steve McCurry",
+
+    "James Nachtwey",
+
+    "Sebastião Salgado",
+
+    "Mary Ellen Mark",
+
+    "Nan Goldin",
+
+    "Cindy Sherman",
+
+    "Jeff Wall",
+
+    "Thomas Ruff",
+
+    "Andreas Gursky",
+
+    "Thomas Struth",
+
+    "Candida Höfer",
+
+    "Wolfgang Tillmans",
+
+    "Juergen Teller",
+
+    "Martin Parr",
+
+    "Paul Graham",
+
+    "Alec Soth",
+
+    "Gregory Crewdson",
+
+    "Ryan McGinley",
+
+    "Peter Lindbergh",
+
+    "Helmut Newton",
+
+    "Guy Bourdin",
+
+    "Tim Walker",
+
+    "Mario Testino",
+
+    "Sarah Moon",
+
+    "Robert Mapplethorpe",
+
+    "Joel Meyerowitz",
+
+    "Stephen Shore",
+
+    "William Eggleston"
+]

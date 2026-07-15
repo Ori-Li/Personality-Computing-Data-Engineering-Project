@@ -1,0 +1,123 @@
+[
+    "Rabindranath Tagore",
+
+    "Premchand",
+
+    "Saadat Hasan Manto",
+
+    "Faiz Ahmad Faiz",
+
+    "Muhammad Iqbal",
+
+    "Arundhati Roy",
+
+    "Amitav Ghosh",
+
+    "Vikram Seth",
+
+    "Salman Rushdie",
+
+    "V. S. Naipaul",
+
+    "Orhan Pamuk",
+
+    "Nâzım Hikmet",
+
+    "Yaşar Kemal",
+
+    "Mahmoud Darwish",
+
+    "Kahlil Gibran",
+
+    "Naguib Mahfouz",
+
+    "Taha Hussein",
+
+    "Adonis",
+
+    "Abdulrazak Gurnah",
+
+    "Chinua Achebe",
+
+    "Wole Soyinka",
+
+    "Ngũgĩ wa Thiong'o",
+
+    "Ben Okri",
+
+    "Chimamanda Ngozi Adichie",
+
+    "Nadine Gordimer",
+
+    "J. M. Coetzee",
+
+    "Alan Paton",
+
+    "Damon Galgut",
+
+    "Gabriel García Márquez",
+
+    "Jorge Luis Borges",
+
+    "Pablo Neruda",
+
+    "Octavio Paz",
+
+    "Mario Vargas Llosa",
+
+    "Juan Rulfo",
+
+    "Julio Cortázar",
+
+    "Carlos Fuentes",
+
+    "Isabel Allende",
+
+    "Roberto Bolaño",
+
+    "Jorge Amado",
+
+    "Clarice Lispector",
+
+    "Paulo Coelho",
+
+    "José Saramago",
+
+    "Fernando Pessoa",
+
+    "Derek Walcott",
+
+    "Aimé Césaire",
+
+    "Patrick White",
+
+    "Peter Carey",
+
+    "Richard Flanagan",
+
+    "Janet Frame",
+
+    "Keri Hulme",
+
+    "Witi Ihimaera",
+
+    "Tim Winton",
+
+    "Pramoedya Ananta Toer",
+
+    "José Rizal",
+
+    "Nick Joaquin",
+
+    "Nguyễn Du",
+
+    "Bảo Ninh",
+
+    "Nguyễn Nhật Ánh",
+
+    "Shahnon Ahmad",
+
+    "Lê Minh Khuê",
+
+    "Nguyễn Huy Thiệp"
+]
