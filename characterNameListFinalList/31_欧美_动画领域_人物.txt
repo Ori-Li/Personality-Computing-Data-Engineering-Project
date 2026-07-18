@@ -127,5 +127,9 @@
 
     "Aardman Animations",
 
-    "Sony Pictures Animation"
+    "Sony Pictures Animation",
+
+    "Domee Shi",
+
+    "Alberto Mielgo"
 ]

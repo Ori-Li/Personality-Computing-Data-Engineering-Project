@@ -1,0 +1,161 @@
+{
+  "schema": "rgmj-curated-cpr-anchors/v1",
+  "works": [
+    {
+      "workName": "Alien",
+      "confidence": 0.94,
+      "evidence": [
+        "故事主要发生在商业拖船诺斯特罗莫号内部，封闭通道持续限制人物的逃生空间。",
+        "异形依靠寄生、快速成长和伏击完成威胁，其形体设计混合生物组织与机械质感。",
+        "船员最初按公司程序调查信号，但公司命令逐渐暴露出牺牲船员获取样本的目的。",
+        "大量场景使用低照度、警报声、蒸汽和狭窄构图维持不可预知的危险感。",
+        "人物需要在信息不足的条件下搜索飞船，并不断因同伴伤亡调整生存方案。",
+        "结尾把冲突收束到雷普利与异形的直接对抗，逃生行动依赖即时观察和执行。"
+      ],
+      "scores": {"experience.tension":0.95,"experience.healing":0.05,"experience.warmth":0.12,"psychology.emotion.fear":0.92,"psychology.emotion.tension":0.95,"psychology.aesthetic.darkness":0.94,"psychology.aesthetic.mystery":0.82,"psychology.narrative.action_intensity":0.78,"psychology.narrative.conflict_intensity":0.9,"psychology.value.survival":0.96,"psychology.social_relationship.power_relationship":0.75,"psychology.sensory.visual_intensity":0.86,"psychology.sensory.sound_intensity":0.82,"psychology.sensory.atmosphere":0.96,"psychology.sensory.immersion":0.9,"media.movie_vector.visual_storytelling":0.92,"media.movie_vector.soundtrack_importance":0.78,"media.movie_vector.director_style":0.9}
+    },
+    {
+      "workName": "Blade Runner",
+      "confidence": 0.94,
+      "evidence": [
+        "影片以追捕复制人为主线，同时反复追问人工生命的记忆、寿命与生命权。",
+        "复制人保存的照片和植入记忆使个人身份无法仅由出生经历确定。",
+        "雨夜都市由巨型广告、拥挤街道、工业废墟和多语言人群共同构成。",
+        "罗伊在生命终点回忆自己见过的景象，并主动救下追捕他的戴克。",
+        "叙事保留戴克身份等关键歧义，没有把人与复制人的边界解释为单一结论。",
+        "电子配乐、霓虹光线和黑色电影构图持续塑造忧郁而梦幻的未来氛围。"
+      ],
+      "scores": {"experience.reflection":0.94,"experience.awe":0.78,"psychology.emotion.melancholy":0.92,"psychology.cognitive.abstractness":0.84,"psychology.cognitive.depth_of_thought":0.92,"psychology.cognitive.ambiguity":0.93,"psychology.worldview.civilization_scale":0.78,"psychology.aesthetic.darkness":0.88,"psychology.aesthetic.dreamlike":0.86,"psychology.aesthetic.mystery":0.88,"psychology.narrative.philosophical_depth":0.94,"psychology.social_relationship.identity":0.95,"psychology.value.truth":0.86,"psychology.value.meaning":0.95,"psychology.value.self_exploration":0.88,"psychology.sensory.atmosphere":0.96,"media.movie_vector.visual_storytelling":0.96,"media.movie_vector.soundtrack_importance":0.92,"media.movie_vector.director_style":0.96}
+    },
+    {
+      "workName": "Coffee Talk",
+      "confidence": 0.9,
+      "evidence": [
+        "玩家在深夜咖啡馆担任店员，通过倾听顾客对话推进故事而非通过战斗解决问题。",
+        "顾客包括精灵、魅魔、兽人和人类，但主要矛盾集中在工作、家庭、爱情与身份压力。",
+        "调制饮品是核心交互，配方和递交结果会影响部分对话及人物反应。",
+        "固定室内空间、雨声、低强度爵士乐和像素画面维持缓慢而安静的节奏。",
+        "多组人物关系跨越数个夜晚继续发展，玩家主要以观察者和倾听者身份参与。",
+        "作品以日常交流呈现不同群体之间的偏见、理解与妥协。"
+      ],
+      "scores": {"experience.healing":0.9,"experience.warmth":0.92,"experience.tension":0.18,"psychology.emotion.warmth":0.94,"psychology.emotion.peace":0.86,"psychology.narrative.slow_immersion":0.9,"psychology.social_relationship.friendship":0.86,"psychology.social_relationship.community":0.9,"psychology.social_relationship.cooperation":0.82,"psychology.social_relationship.identity":0.78,"psychology.behavior.social":0.88,"psychology.behavior.calm":0.92,"psychology.sensory.atmosphere":0.9,"media.game_vector.player_agency":0.48,"media.game_vector.mechanical_skill":0.15,"media.game_vector.social_interaction":0.88,"media.game_vector.competition_intensity":0.05}
+    },
+    {
+      "workName": "Dishonored",
+      "confidence": 0.92,
+      "evidence": [
+        "玩家在瘟疫蔓延的丹沃尔城中执行刺杀与营救任务，可选择潜行、战斗或非致命方案。",
+        "关卡提供屋顶、下水道、室内通道和超自然能力等多条进入与撤离路线。",
+        "混乱度会随杀戮数量变化，并影响城市环境、人物命运和结局走向。",
+        "故事围绕政变、摄政统治、阶层压迫和主角洗清罪名展开。",
+        "瞬移、附身、时间操控和环境机关可以组合成不同解决方式。",
+        "鲸油工业、鼠疫、机械守卫和腐败街区共同构成具有明确规则的世界。"
+      ],
+      "scores": {"experience.tension":0.82,"psychology.cognitive.exploration":0.9,"psychology.cognitive.novelty":0.78,"psychology.narrative.world_building":0.9,"psychology.narrative.action_intensity":0.82,"psychology.social_relationship.power_relationship":0.9,"psychology.value.freedom":0.84,"psychology.value.justice":0.78,"psychology.behavior.creation":0.8,"psychology.behavior.adventure":0.88,"psychology.behavior.risk":0.84,"psychology.sensory.immersion":0.9,"media.game_vector.player_agency":0.96,"media.game_vector.exploration_depth":0.88,"media.game_vector.mechanical_skill":0.78,"media.game_vector.competition_intensity":0.25}
+    },
+    {
+      "workName": "Lord of the Flies",
+      "confidence": 0.94,
+      "evidence": [
+        "一群男孩因空难滞留无人岛，最初使用海螺召集会议并尝试建立共同规则。",
+        "拉尔夫重视信号火和获救目标，杰克逐渐以狩猎、恐惧和暴力组织追随者。",
+        "所谓野兽从传闻发展为群体恐惧，并被权力竞争反复利用。",
+        "西蒙和小猪的死亡标志着讨论秩序被暴力仪式彻底取代。",
+        "岛屿环境从临时避难所转变为追捕场所，火最终既用于毁灭也引来救援。",
+        "结尾由成人军官终止追杀，但外部世界本身仍处于战争之中。"
+      ],
+      "scores": {"experience.reflection":0.92,"experience.tension":0.86,"psychology.cognitive.depth_of_thought":0.9,"psychology.worldview.social_scale":0.84,"psychology.emotion.fear":0.78,"psychology.emotion.anger":0.75,"psychology.narrative.character_depth":0.84,"psychology.narrative.conflict_intensity":0.92,"psychology.social_relationship.collectivism":0.84,"psychology.social_relationship.competition":0.9,"psychology.social_relationship.power_relationship":0.95,"psychology.value.order":0.9,"psychology.value.survival":0.86,"psychology.value.justice":0.7,"psychology.narrative.philosophical_depth":0.9,"media.novel_vector.symbolism":0.94,"media.novel_vector.literary_depth":0.9}
+    },
+    {
+      "workName": "离骚",
+      "confidence": 0.96,
+      "evidence": [
+        "长诗以第一人称回顾身世、品格修养、政治理想以及遭受谗毁和放逐的经历。",
+        "香草、美人、佩饰和芳洁植物被持续用来表达德行、理想君臣关系与自我要求。",
+        "叙述者驾龙乘凤、求女问卜并展开神游，使现实政治冲突进入神话空间。",
+        "诗中反复呈现坚持理想与顺从世俗之间的选择，并拒绝以改变原则换取容身。",
+        "大量对偶、铺陈和反复句式形成强烈节奏，个人抒情与国家命运相互交织。",
+        "结尾仍保留远行与殉道之间的张力，没有消除理想无法实现的悲剧结果。"
+      ],
+      "scores": {"experience.passion":0.94,"experience.reflection":0.95,"experience.loneliness":0.88,"psychology.cognitive.abstractness":0.9,"psychology.cognitive.depth_of_thought":0.94,"psychology.cognitive.ambiguity":0.82,"psychology.worldview.personal_scale":0.9,"psychology.worldview.social_scale":0.88,"psychology.emotion.melancholy":0.9,"psychology.narrative.philosophical_depth":0.94,"psychology.social_relationship.identity":0.93,"psychology.value.freedom":0.86,"psychology.value.sacrifice":0.9,"psychology.value.self_exploration":0.96,"psychology.value.meaning":0.96,"media.literature_vector.language_artistry":0.98,"media.literature_vector.symbolism":0.98,"media.literature_vector.rhetorical_complexity":0.94,"media.literature_vector.cultural_depth":0.98}
+    },
+    {
+      "workName": "月亮代表我的心",
+      "confidence": 0.93,
+      "evidence": [
+        "歌词以问答和反复句式确认感情的真挚、稳定与持久。",
+        "月亮被用作爱情承诺的核心意象，贯穿全曲而不展开复杂叙事。",
+        "旋律线条平稳，速度舒缓，段落结构和重复副歌便于记忆与传唱。",
+        "演唱通常采用克制、清晰的声音处理，不依赖高强度爆发制造情绪。",
+        "编配为人声保留突出位置，使听众注意力集中于旋律与直接情感表达。",
+        "作品通过华语流行音乐传播形成跨地区、跨世代的共同记忆。"
+      ],
+      "scores": {"experience.romance":0.98,"experience.warmth":0.9,"experience.healing":0.82,"experience.tension":0.05,"psychology.emotion.warmth":0.92,"psychology.emotion.peace":0.84,"psychology.social_relationship.love":0.98,"psychology.value.tradition":0.72,"psychology.behavior.calm":0.9,"psychology.sensory.rhythm_energy":0.28,"psychology.sensory.sound_intensity":0.5,"media.music_vector.tempo":0.28,"media.music_vector.energy":0.38}
+    },
+    {
+      "workName": "只此青绿",
+      "confidence": 0.91,
+      "evidence": [
+        "舞蹈以《千里江山图》的创作与流传为线索，将展卷、问篆、唱丝、寻石等工艺转化为舞段。",
+        "青绿色服装、长袖、发髻和群舞造型对应画卷中的山峦、色层与空间起伏。",
+        "标志性的青绿腰动作依靠身体倾斜和静态控制呈现山峰般的视觉轮廓。",
+        "舞台通过圆形装置、卷轴式构图和光影变化模拟观看古画的展开过程。",
+        "作品减少对白说明，主要依靠身体、音乐、服装和空间调度传递传统绘画意境。",
+        "群体协作和工艺劳动被纳入叙事，使画作不只归因于单一画家。"
+      ],
+      "scores": {"experience.awe":0.88,"psychology.emotion.peace":0.86,"psychology.aesthetic.beauty":0.96,"psychology.aesthetic.classical":0.94,"psychology.value.tradition":0.96,"psychology.value.beauty":0.96,"psychology.social_relationship.cooperation":0.84,"psychology.sensory.visual_intensity":0.94,"psychology.sensory.color_richness":0.92,"psychology.sensory.atmosphere":0.9,"media.stage_vector.body_expression":0.98,"media.stage_vector.live_presence":0.88,"media.stage_vector.ritual_sense":0.9,"media.stage_vector.performance_intensity":0.82}
+    },
+    {
+      "workName": "The Rite of Spring",
+      "confidence": 0.95,
+      "evidence": [
+        "乐曲以不规则重音、复合节拍和持续重复音型制造强烈的节奏冲击。",
+        "管弦乐大量使用极端音区、不协和和弦与突变音色，弱化传统旋律的主导地位。",
+        "舞台情境围绕想象中的史前祭仪展开，最终指向被选中少女的献祭之舞。",
+        "群舞采用内扣步态、沉重踏地和集体阵列，主动偏离古典芭蕾的轻盈姿态。",
+        "音乐段落通过块状并置和突然转换推进，而非依赖平滑的浪漫主义发展。",
+        "作品把群体仪式、自然循环和个体牺牲组织为高强度的声响与身体体验。"
+      ],
+      "scores": {"experience.awe":0.94,"experience.tension":0.9,"experience.passion":0.92,"psychology.cognitive.novelty":0.98,"psychology.aesthetic.experimental":0.98,"psychology.aesthetic.darkness":0.78,"psychology.social_relationship.collectivism":0.9,"psychology.value.sacrifice":0.94,"psychology.value.tradition":0.72,"psychology.behavior.discipline":0.84,"psychology.sensory.sound_intensity":0.98,"psychology.sensory.rhythm_energy":1.0,"media.stage_vector.body_expression":0.96,"media.stage_vector.performance_intensity":0.98,"media.stage_vector.ritual_sense":0.98}
+    },
+    {
+      "workName": "早春图",
+      "confidence": 0.93,
+      "evidence": [
+        "画面以高远、深远和平远共同组织山体，使观看路径在主峰、溪谷与远景之间移动。",
+        "山石使用卷云皴与层层墨色塑造湿润质感，表现冬去春来但草木尚未繁盛的时节。",
+        "巨大山体占据主体，人、建筑和道路尺度较小，强化自然空间的纵深与秩序。",
+        "瀑布、溪流、雾气和曲折山路连接不同空间层次，引导视线持续游历。",
+        "画面没有依赖强烈色彩，而以水墨浓淡和留白控制空气感与距离。",
+        "山水并非单一地点写生，而是把多种可游可居的景观经验组织为整体。"
+      ],
+      "scores": {"experience.awe":0.9,"psychology.emotion.peace":0.9,"psychology.cognitive.depth_of_thought":0.78,"psychology.worldview.personal_scale":0.35,"psychology.worldview.time_span":0.76,"psychology.aesthetic.beauty":0.95,"psychology.aesthetic.classical":0.98,"psychology.aesthetic.minimalism":0.72,"psychology.value.tradition":0.94,"psychology.behavior.calm":0.94,"psychology.sensory.visual_intensity":0.86,"psychology.sensory.atmosphere":0.94,"media.painting_vector.composition_complexity":0.96,"media.painting_vector.historical_style":0.98,"media.painting_vector.emotional_expression":0.78}
+    },
+    {
+      "workName": "Museu Brasileiro da Escultura",
+      "confidence": 0.9,
+      "evidence": [
+        "建筑以横跨场地的巨大预应力混凝土梁作为主要视觉和结构元素。",
+        "主体空间大量下沉到地面以下，使屋顶、坡道和开放广场连续连接城市环境。",
+        "裸露混凝土、清晰受力关系和有限材料种类形成克制的整体语言。",
+        "场地没有以封闭立面划分内外，而通过高差、阴影和梁下空间组织公共活动。",
+        "参观路径在室外广场、坡道和地下展厅之间转换，空间体验依赖身体移动。",
+        "结构本身同时承担遮蔽、尺度标记和公共场所象征，而非附加装饰。"
+      ],
+      "scores": {"experience.awe":0.82,"psychology.cognitive.logical_structure":0.96,"psychology.aesthetic.minimalism":0.92,"psychology.aesthetic.modern":0.94,"psychology.value.order":0.9,"psychology.behavior.creation":0.85,"psychology.social_relationship.community":0.76,"psychology.sensory.visual_intensity":0.8,"psychology.sensory.atmosphere":0.82,"media.architecture_vector.structural_logic":0.99,"media.architecture_vector.spatial_experience":0.94,"media.architecture_vector.functional_design":0.86,"media.architecture_vector.human_interaction":0.86,"media.architecture_vector.scale_sense":0.94}
+    },
+    {
+      "workName": "Capernaum",
+      "confidence": 0.94,
+      "evidence": [
+        "影片从男孩赞恩起诉父母的法庭情境展开，并回溯他在贫困家庭中的生活。",
+        "赞恩没有合法身份文件，童工、住房拥挤和妹妹被迫早婚共同限制其选择。",
+        "他离家后照顾埃塞俄比亚移民拉希尔的幼子，两名儿童在城市中共同求生。",
+        "影片大量使用手持摄影、真实街区和非职业演员，保持贴近人物行动的观察距离。",
+        "冲突涉及贫困、无证移民、儿童权利和家庭责任，而非单一反派造成。",
+        "赞恩在持续受压的环境中仍承担照料责任，并试图阻止妹妹遭遇与自己相似的命运。"
+      ],
+      "scores": {"experience.tension":0.86,"experience.warmth":0.68,"experience.hope":0.58,"psychology.emotion.sadness":0.9,"psychology.emotion.anger":0.82,"psychology.worldview.social_scale":0.92,"psychology.narrative.character_depth":0.88,"psychology.social_relationship.family":0.9,"psychology.social_relationship.power_relationship":0.88,"psychology.value.justice":0.96,"psychology.value.survival":0.92,"psychology.value.sacrifice":0.8,"psychology.behavior.risk":0.76,"media.movie_vector.actor_expression":0.9,"media.movie_vector.visual_storytelling":0.86}
+    }
+  ]
+}

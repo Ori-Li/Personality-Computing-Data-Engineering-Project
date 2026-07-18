@@ -119,5 +119,9 @@
 
     "Troye Sivan",
 
-    "Lisa Manobal"
+    "Lisa Manobal",
+
+    "Bismillah Khan",
+
+    "Anoushka Shankar"
 ]

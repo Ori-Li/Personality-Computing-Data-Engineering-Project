@@ -1,0 +1,1717 @@
+[
+  {
+    "workId": "work_chn_-340_001",
+    "workName": "离骚",
+    "originalName": "离骚",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [10004],
+    "year": -340,
+    "countryCode": "CHN",
+    "introduction": "《离骚》是战国时期楚国诗人屈原的代表作，全诗373句，是中国古代最长的抒情诗。作品以诗人的自述展开，通过神话、历史与个人遭际的交织，表达了对理想政治的追求、对谗佞小人的愤慨以及对祖国深沉的眷恋。诗中大量运用香草美人的比喻，开创了“楚辞”的浪漫主义传统，对后世文学影响极大。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_-340_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_-340_002",
+    "workName": "九歌",
+    "originalName": "九歌",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [10004],
+    "year": -340,
+    "countryCode": "CHN",
+    "introduction": "《九歌》是屈原根据楚地民间祭神乐歌改作的一组抒情诗，共十一篇，包括《东皇太一》《云中君》《湘君》《湘夫人》《大司命》《少司命》《东君》《河伯》《山鬼》《国殇》《礼魂》。作品以人神恋歌的形式抒写深挚情感与生死慨叹，辞藻瑰丽，想象奇绝，是中国古代诗歌中极具浪漫色彩的名篇。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_-340_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_-340_003",
+    "workName": "九章",
+    "originalName": "九章",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [10004],
+    "year": -340,
+    "countryCode": "CHN",
+    "introduction": "《九章》是屈原创作的九篇诗歌合集，包括《惜诵》《涉江》《哀郢》《抽思》《怀沙》《思美人》《惜往日》《橘颂》《悲回风》。这些作品大多作于流放时期，真实记录了诗人的政治苦闷、漂泊经历与对故都的魂牵梦萦，风格沉郁顿挫，与《离骚》的奇幻浪漫形成互补，同为楚辞的重要构成。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_-340_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_-340_004",
+    "workName": "天问",
+    "originalName": "天问",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [10004],
+    "year": -340,
+    "countryCode": "CHN",
+    "introduction": "《天问》是屈原所作的一篇奇崛长诗，全诗以提问的方式，一口气提出一百七十多个问题，涉及天地开辟、日月运行、神话传说、历史兴亡等诸多方面。诗中充满强烈的怀疑精神和对宇宙秩序、人世命运的深层追问，气势磅礴，构思独特，是中国诗歌史上别具一格的哲理抒情之作。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_-340_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_0336_001",
+    "workName": "搜神记",
+    "originalName": "搜神记",
+    "genre": 10,
+    "subcategory": 10008,
+    "subcategories": [10008],
+    "year": 336,
+    "countryCode": "CHN",
+    "introduction": "《搜神记》是东晋史学家干宝编撰的志怪小说集，原书已佚，今本为后人辑录。书中收录了大量关于神仙、鬼怪、精灵、异人的传说，故事奇诡多变，不仅体现了魏晋时期的民间信仰与玄怪想象，也对后世唐传奇、宋元话本及明清神魔小说产生了深远影响，被视为六朝志怪小说的代表作。",
+    "primaryAuthorId": "realCharacter_chn_unknown_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_unknown_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1949_001",
+    "workName": "雪城",
+    "originalName": "雪城",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1988,
+    "countryCode": "CHN",
+    "introduction": "《雪城》是梁晓声创作的长篇小说，1988年出版。作品以北大荒知青返城为背景，描写了姚玉慧、徐淑芳等人在城市中重新寻找生存位置的艰难过程，展现了知青一代在理想失落后的精神挣扎与命运沉浮，具有强烈的现实主义精神和时代感。",
+    "primaryAuthorId": "realCharacter_chn_1949_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1949_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1949_002",
+    "workName": "人世间",
+    "originalName": "人世间",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "《人世间》是梁晓声创作的长篇小说，2017年出版，获第十届茅盾文学奖。小说以东北某城市平民社区“光字片”为背景，通过周家三兄妹等十几位平民子弟的人生轨迹，全景式展现了中国社会自1970年代以来的巨大变迁，在平凡生活中挖掘人性的温暖与坚韧。",
+    "primaryAuthorId": "realCharacter_chn_1949_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1949_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1949_003",
+    "workName": "今夜有暴风雪",
+    "originalName": "今夜有暴风雪",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1983,
+    "countryCode": "CHN",
+    "introduction": "《今夜有暴风雪》是梁晓声的中篇小说，1983年发表。故事围绕北大荒某生产建设兵团的知青大返城事件展开，在暴风雪之夜，不同人物的选择与命运交织，深刻呈现了知青一代在理想与现实之间的痛苦抉择，是知青文学的重要作品。",
+    "primaryAuthorId": "realCharacter_chn_1949_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1949_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1226_001",
+    "workName": "梧桐雨",
+    "originalName": "梧桐雨",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": 1226,
+    "countryCode": "CHN",
+    "introduction": "《梧桐雨》是元杂剧作家白朴的代表作之一，全名《唐明皇秋夜梧桐雨》。剧本取材于唐玄宗与杨贵妃的故事，以安史之乱为背景，通过秋夜雨打梧桐的凄凉意象，抒写唐玄宗失去贵妃后的无尽哀思，曲词清丽，意境悲美，是元代历史题材杂剧的典范。",
+    "primaryAuthorId": "realCharacter_chn_1226_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1226_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1226_002",
+    "workName": "墙头马上",
+    "originalName": "墙头马上",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": 1226,
+    "countryCode": "CHN",
+    "introduction": "《墙头马上》是白朴创作的元杂剧，全名《裴少俊墙头马上》。剧写尚书裴行俭之子裴少俊与李千金一见钟情，私奔同居，后历经波折终得团圆。作品歌颂了自由真挚的爱情，曲白生动，人物鲜明，与《梧桐雨》共同奠定了白朴在元曲四大家中的地位。",
+    "primaryAuthorId": "realCharacter_chn_1226_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1226_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1928_001",
+    "workName": "乡愁",
+    "originalName": "乡愁",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1972,
+    "countryCode": "CHN",
+    "introduction": "《乡愁》是余光中创作的一首现代诗，1972年发表。诗中以“小时候”“长大后”“后来啊”“而现在”四个时间段落为线索，选取邮票、船票、坟墓、海峡四个意象，层层递进地表达游子对家乡、亲人的绵长思念，语言平实却蕴藉深沉，是华语现代诗歌中传诵最广的作品之一。",
+    "primaryAuthorId": "realCharacter_chn_1928_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1928_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1928_002",
+    "workName": "听听那冷雨",
+    "originalName": "听听那冷雨",
+    "genre": 10,
+    "subcategory": 10002,
+    "subcategories": [10002],
+    "year": 1974,
+    "countryCode": "CHN",
+    "introduction": "《听听那冷雨》是余光中的散文名篇，1974年发表。文章以细腻的笔触描绘了作者在冷雨中触发的乡愁与文化记忆，从雨声、雨景延展至对汉字美感、古典诗词意境的联想，融写景、叙事、议论于一体，展示了余光中博雅的学养与出色的文字驾驭能力。",
+    "primaryAuthorId": "realCharacter_chn_1928_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1928_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1906_001",
+    "workName": "华威先生",
+    "originalName": "华威先生",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1938,
+    "countryCode": "CHN",
+    "introduction": "《华威先生》是张天翼创作的短篇小说，1938年发表。小说刻画了一位整天忙于开会、奔走各种团体却从不做实事的国民党官僚华威先生，以辛辣的讽刺笔调揭露了抗战时期官僚主义的虚伪与浮躁，人物形象鲜明，是中国现代讽刺小说的名篇。",
+    "primaryAuthorId": "realCharacter_chn_1906_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1906_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1906_002",
+    "workName": "宝葫芦的秘密",
+    "originalName": "宝葫芦的秘密",
+    "genre": 6,
+    "subcategory": 6013,
+    "subcategories": [6013],
+    "year": 1958,
+    "countryCode": "CHN",
+    "introduction": "《宝葫芦的秘密》是张天翼创作的儿童长篇小说，1958年出版。小学生王葆偶然得到一个能满足他任何愿望的宝葫芦，却因此引发一连串麻烦和尴尬，最后发现不劳而获带来的只是虚幻。作品以奇幻情节承载教育主题，语言幽默生动，是中国儿童文学的经典之作。",
+    "primaryAuthorId": "realCharacter_chn_1906_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1906_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_001",
+    "workName": "宫心计",
+    "originalName": "宮心計",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007],
+    "year": 2009,
+    "countryCode": "CHN",
+    "introduction": "《宫心计》是香港电视广播有限公司制作的古装宫廷剧，2009年首播。该剧以唐代宫廷为背景，围绕刘三好与姚金铃两位宫女的不同人生选择展开，描绘了后宫权力争斗中的人性善恶，剧情紧凑，人物鲜明，播出后引发广泛讨论，是TVB宫斗剧的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_002",
+    "workName": "名媛望族",
+    "originalName": "名媛望族",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [5008],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《名媛望族》是2012年播出的TVB民初家族剧，讲述著名大律师钟卓万与五个女人的感情纠葛，折射出1930年代香港社会的变迁与女性地位的觉醒。剧中人物关系错综复杂，戏剧冲突强烈，杨怡凭借此剧获得TVB最佳女主角奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1954_001",
+    "workName": "黑炮事件",
+    "originalName": "黑炮事件",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005, 4008],
+    "year": 1985,
+    "countryCode": "CHN",
+    "introduction": "《黑炮事件》是黄建新执导的处女作电影，1985年上映。工程师赵书信因寻找一枚丢失的象棋“黑炮”而被怀疑为特务，由此引发一系列荒诞的调查。影片以黑色幽默手法批判了体制僵化与信任危机，风格冷峻，被视为中国第五代导演的重要作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1954_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1954_002",
+    "workName": "背靠背，脸对脸",
+    "originalName": "背靠背，脸对脸",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 1994,
+    "countryCode": "CHN",
+    "introduction": "《背靠背，脸对脸》是黄建新执导的电影，1994年上映。影片通过某文化馆副馆长王双立数年里积极争取转正的过程，深刻揭示了中国基层官场的权术游戏与人际倾轧，细节真实，讽刺入骨，被誉为中国当代政治讽喻电影的杰作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1954_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_003",
+    "workName": "天天饮食",
+    "originalName": "天天饮食",
+    "genre": 5,
+    "subcategory": null,
+    "subcategories": [],
+    "year": 1999,
+    "countryCode": "CHN",
+    "introduction": "《天天饮食》是中央电视台推出的一档生活服务类烹饪节目，1999年开播。节目以介绍家常菜做法、饮食文化为主要内容，风格轻松实用，高博曾担任该节目主持人，以亲切自然的讲解受到观众喜爱。该节目是中国播出时间最长的烹饪节目之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_002", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_004",
+    "workName": "这个杀手不太冷静",
+    "originalName": "这个杀手不太冷静",
+    "genre": 4,
+    "subcategory": 4007,
+    "subcategories": [4007],
+    "year": 2022,
+    "countryCode": "CHN",
+    "introduction": "《这个杀手不太冷静》是一部喜剧电影，2022年春节档上映。影片讲述了一个跑龙套的演员被女明星利用扮演杀手，在真实黑帮中周旋的离奇故事。魏翔首次担任男主角，以夸张而富有层次的表演制造大量笑料，收获良好票房与口碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_003", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_005",
+    "workName": "西虹市首富",
+    "originalName": "西虹市首富",
+    "genre": 4,
+    "subcategory": 4007,
+    "subcategories": [4007],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "《西虹市首富》是2018年上映的喜剧电影，由闫非、彭大魔执导，魏翔在其中饰演重要配角。影片讲述落魄守门员王多鱼意外继承大笔遗产，必须在一个月内花光十亿的故事，以荒诞情节讽刺金钱社会与人性的贪婪，是开心麻花团队的又一卖座作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_003", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1953_001",
+    "workName": "倩女幽魂",
+    "originalName": "倩女幽魂",
+    "genre": 4,
+    "subcategory": 4002,
+    "subcategories": [4002, 4004],
+    "year": 1987,
+    "countryCode": "CHN",
+    "introduction": "《倩女幽魂》是程小东执导的奇幻爱情电影，1987年上映。改编自《聊斋志异·聂小倩》，讲述书生宁采臣与女鬼聂小倩之间人鬼殊途的凄美爱情。影片以飘逸的武侠动作、幽魅的美术氛围与经典配乐成为香港奇幻电影的里程碑，王祖贤饰演的聂小倩形象深入人心。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1953_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1953_002",
+    "workName": "笑傲江湖Ⅱ：东方不败",
+    "originalName": "笑傲江湖Ⅱ：東方不敗",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4002],
+    "year": 1992,
+    "countryCode": "CHN",
+    "introduction": "《笑傲江湖Ⅱ：东方不败》是程小东执导的武侠电影，1992年上映。影片在金庸原著基础上大胆改编，以东方不败为主角，林青霞饰演的东方不败亦男亦女、亦正亦邪，成为华语电影经典形象。影片动作场面飘逸凌厉，充满新派武侠美学的极致表现。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1953_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1963_001",
+    "workName": "三节草",
+    "originalName": "三节草",
+    "genre": 4,
+    "subcategory": 4015,
+    "subcategories": [4015],
+    "year": 1997,
+    "countryCode": "CHN",
+    "introduction": "《三节草》是梁碧波执导的纪录片，1997年完成。影片记录了一位名叫肖淑明的老妇人的传奇人生：她年轻时曾嫁到泸沽湖摩梭部落，晚年又力图将自己的孙女送往成都。影片以个人命运折射历史变迁，冷静的镜头语言中透出对文化冲突与女性处境的思考，是中国纪录片领域的获奖作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1963_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1982_001",
+    "workName": "我的前半生",
+    "originalName": "我的前半生",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [5008],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "《我的前半生》是2017年播出的都市情感剧，秦雯担任编剧。该剧根据亦舒同名小说改编，讲述全职太太罗子君遭遇婚变后，在闺蜜唐晶及其男友贺涵的帮助下重新步入职场的成长故事。剧中人物的情感抉择与职场生存引发社会热议，对白犀利，制作精良。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1982_001", "relationType": 3, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1925_001",
+    "workName": "大醉侠",
+    "originalName": "大醉侠",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003],
+    "year": 1966,
+    "countryCode": "CHN",
+    "introduction": "《大醉侠》是邵氏兄弟出品、胡金铨执导的武侠电影，1966年上映。影片讲述了女侠金燕子为救兄而卷入江湖恩怨的故事，郑佩佩饰演的金燕子身手矫健，开创了女性武侠的新形象。影片在动作设计、画面构图和节奏控制上均具开创性，是邵氏武侠经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1925_001", "relationType": 4, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1925_002",
+    "workName": "独臂刀",
+    "originalName": "獨臂刀",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003],
+    "year": 1967,
+    "countryCode": "CHN",
+    "introduction": "《独臂刀》是邵氏兄弟出品、张彻执导的武侠片，1967年上映。主人公方刚被师妹斩断手臂后，苦练独臂刀法，最终为师门复仇。影片以惨烈悲壮的风格改写了武侠电影的阳刚美学，主演王羽由此成为一代巨星，该片也开启了香港新派武侠电影的浪潮。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1925_001", "relationType": 4, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1989_001",
+    "workName": "酸酸甜甜就是我",
+    "originalName": "酸酸甜甜就是我",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《酸酸甜甜就是我》是张含韵演唱的流行歌曲，2005年作为蒙牛酸酸乳广告歌推出。歌曲旋律轻快活泼，歌词以少女视角表达成长中的酸甜感受，与张含韵邻家女孩形象高度契合，迅速风靡全国，成为2000年代中期青春偶像歌手的标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1989_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1952_001",
+    "workName": "公仆",
+    "originalName": "公僕",
+    "genre": 4,
+    "subcategory": 4012,
+    "subcategories": [4012, 4005],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "《公仆》是李修贤自导自演的警匪电影，1984年上映。他在片中饰演一名充满正义感的警察，与社会底层和犯罪分子周旋。影片以写实手法展现基层警察的艰辛与坚守，李修贤凭借此片同时获得香港电影金像奖和台湾金马奖最佳男主角奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1952_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1952_002",
+    "workName": "喋血双雄",
+    "originalName": "喋血雙雄",
+    "genre": 4,
+    "subcategory": 4012,
+    "subcategories": [4012, 4003],
+    "year": 1989,
+    "countryCode": "CHN",
+    "introduction": "《喋血双雄》是吴宇森执导的动作片，1989年上映，李修贤在片中饰演追捕杀手小庄的警察李鹰。影片以双重主人公模式刻画杀手与警察之间的惺惺相惜，枪战场面富有诗意与悲情，是吴宇森暴力美学和兄弟情义主题的巅峰之作，在国际上也获得极高评价。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1952_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1990_001",
+    "workName": "射雕英雄传",
+    "originalName": "射雕英雄传",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5006],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "《射雕英雄传》是2017年播出的古装武侠剧，根据金庸同名小说改编，李一桐在剧中饰演黄蓉。该版本忠实还原原著，以清新自然的风格呈现了郭靖与黄蓉的江湖历程，武打设计与取景均有较大提升，李一桐凭借灵动俏皮的表演赢得广泛认可。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1990_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1990_002",
+    "workName": "鹤唳华亭",
+    "originalName": "鹤唳华亭",
+    "genre": 5,
+    "subcategory": 5006,
+    "subcategories": [5006, 5007],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《鹤唳华亭》是2019年播出的古装权谋剧，根据雪满梁园同名小说改编，李一桐饰演女主角陆文昔。剧情围绕太子萧定权与父亲、朝臣之间的权力博弈展开，美术考究，服化道精致，文辞典雅，以悲情的基调展现了宫廷人物在礼法束缚下的挣扎。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1990_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1969_001",
+    "workName": "康熙微服私访记",
+    "originalName": "康熙微服私访记",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5012],
+    "year": 1997,
+    "countryCode": "CHN",
+    "introduction": "《康熙微服私访记》是1997年首播的系列古装电视剧，由张国立主演，赵亮在剧中饰演太监三德子。故事讲述康熙皇帝微服出巡，体验民间疾苦、惩治贪官污吏的系列案件，兼具历史演义与喜剧色彩，播出后深受观众喜爱，是国产清宫剧的经典系列。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1969_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_001",
+    "workName": "暗算",
+    "originalName": "暗算",
+    "genre": 5,
+    "subcategory": 5003,
+    "subcategories": [5003, 5001],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《暗算》是2005年播出的谍战电视剧，根据麦家同名小说改编，陈数在剧中饰演密码破译专家黄依依。全剧分三个单元讲述不同时期的特情故事，以智斗和心理博弈为核心，气氛压抑紧张，是国产谍战剧的开山之作之一，陈数的表演备受好评。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1977_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_002",
+    "workName": "铁梨花",
+    "originalName": "铁梨花",
+    "genre": 5,
+    "subcategory": 5006,
+    "subcategories": [5006, 5001],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《铁梨花》是2010年播出的传奇剧，根据萧马同名小说改编，陈数饰演女主角铁梨花。故事讲述了一个盗墓贼的女儿在动荡年代中成长为抗日女英雄的传奇一生，情节跌宕，人物命运与家国历史紧密交织，陈数凭借此剧获得华鼎奖最佳女主角。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1977_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1917_001",
+    "workName": "貂蝉",
+    "originalName": "貂蟬",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005, 4006],
+    "year": 1938,
+    "countryCode": "CHN",
+    "introduction": "《貂蝉》是1938年上海出品的古装电影，顾兰君主演。影片以三国时期美女貂蝉巧使连环计、离间董卓与吕布的故事为主线，顾兰君以其古典端庄的形象和细腻表演塑造了一位深明大义的女性形象，该片也是早期中国古装片的重要作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1917_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1912_001",
+    "workName": "思乡曲",
+    "originalName": "思乡曲",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": 1937,
+    "countryCode": "CHN",
+    "introduction": "《思乡曲》是马思聪创作的小提琴曲，1937年完成。乐曲以内蒙古民歌《墙头上跑马》的旋律为基础，通过悠缓哀婉的曲调表达了游子的乡愁，结构精炼，情感深沉，是中国早期小提琴音乐的代表作，流传极广。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1912_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_003",
+    "workName": "梦境",
+    "originalName": "梦境",
+    "genre": 7,
+    "subcategory": 7006,
+    "subcategories": [7006],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《梦境》是中国爵士男歌手赵可的代表专辑，收录了多首融合中文意蕴与爵士即兴的歌曲。专辑以人声为主要乐器，在摇摆与抒情之间自由游走，展现了他对爵士乐本土化的探索，曾在国内外爵士乐界获得关注。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1977_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1968_001",
+    "workName": "绝口不提爱你",
+    "originalName": "絕口不提愛你",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1997,
+    "countryCode": "CHN",
+    "introduction": "《绝口不提爱你》是香港歌手郑中基演唱的流行歌曲，由黄中原作词作曲，1997年发行。歌曲以深情的旋律和克制的歌词描绘了爱到深处却选择沉默的复杂心境，成为郑中基的代表作之一，也是1990年代末华语情歌的经典曲目。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1968_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1949_004",
+    "workName": "回娘家",
+    "originalName": "回娘家",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1982,
+    "countryCode": "CHN",
+    "introduction": "《回娘家》是朱明瑛演唱的流行歌曲，1982年推出。歌曲以轻快的民歌曲风描述小媳妇回娘家的喜悦情景，朱明瑛以其甜润的嗓音和生动的演绎使该曲成为改革开放初期传唱度极高的歌曲之一，也是她的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1949_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1988_001",
+    "workName": "王啸坤",
+    "originalName": "王啸坤",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 2007,
+    "countryCode": "CHN",
+    "introduction": "《王啸坤》是歌手王啸坤的首张个人同名专辑，2007年发行。专辑以流行摇滚为主调，收录了《琴麻岛的海》等原创歌曲，展现了其高亢的嗓音和鲜明的创作才华，推出后受到年轻乐迷的欢迎，确立了他在乐坛的初代印象。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1988_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1993_001",
+    "workName": "勾指起誓",
+    "originalName": "勾指起誓",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "《勾指起誓》是由网络歌手Hanser演唱的一首歌曲，2018年在网络平台发布。歌曲旋律轻快甜蜜，歌词以勾指约定表达纯真的爱与承诺，Hanser用甜美而富有变化的声线演绎，在二次元爱好者中迅速传播，成为其代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1993_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1953_003",
+    "workName": "月亮代表我的心",
+    "originalName": "月亮代表我的心",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1977,
+    "countryCode": "CHN",
+    "introduction": "《月亮代表我的心》是邓丽君演唱的经典歌曲，原曲由翁清溪作曲、孙仪填词，邓丽君1977年重新演绎后风靡全球华人世界。歌曲旋律婉转深情，歌词以月亮喻心意，简单却直击人心，成为邓丽君最具代表性的作品之一，也是华语流行音乐史上最重要的情歌之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1953_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1953_004",
+    "workName": "甜蜜蜜",
+    "originalName": "甜蜜蜜",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1979,
+    "countryCode": "CHN",
+    "introduction": "《甜蜜蜜》是邓丽君演唱的歌曲，1979年发行。歌曲旋律源自印度尼西亚民谣，由庄奴填词，描绘了见到恋人时甜美幸福的心情。邓丽君的演绎温柔甜美，该曲成为她最广为人知的代表作之一，并作为多部影视作品的主题曲，文化影响深远。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1953_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1987_001",
+    "workName": "没有谁",
+    "originalName": "沒有誰",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《没有谁》是台湾歌手张士堂发行的个人专辑，收录了多首深情款款的情歌。专辑以抒情流行为基调，展现了张士堂温暖浑厚的嗓音和扎实的演唱功底，其中同名主打歌《没有谁》等曲目受到超级星光大道观众的好评。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1987_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1995_001",
+    "workName": "满糖宣言",
+    "originalName": "满糖宣言",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《满糖宣言》是吴宣仪演唱的单曲，2019年发行。歌曲以活泼俏皮的曲风和甜蜜直白的歌词，展现少女心动的感觉，与吴宣仪甜美开朗的舞台形象高度契合，受到粉丝的喜爱。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1995_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1970_001",
+    "workName": "遇见",
+    "originalName": "遇見",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2003,
+    "countryCode": "CHN",
+    "introduction": "《遇见》是孙燕姿演唱的歌曲，易家扬作词，2003年发行。作为电影《向左走·向右走》的主题曲，歌词以“我遇见谁会有怎样的对白”开篇，细腻捕捉了都市人期待爱情的心绪，旋律优美，传唱度极高，是华语流行歌曲的经典之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1970_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1970_002",
+    "workName": "修炼爱情",
+    "originalName": "修煉愛情",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2013,
+    "countryCode": "CHN",
+    "introduction": "《修炼爱情》是林俊杰演唱的歌曲，易家扬作词，2013年发行。歌词将爱情比作一场需要不断学习的修炼，情感层层递进，搭配林俊杰高亢的声线，深刻表达了失去后的成长与反思，成为林俊杰的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1970_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_003",
+    "workName": "谋杀",
+    "originalName": "謀殺",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《谋杀》是地下说唱歌手幼稚园杀手的代表作品之一，具体发行年份未公开。歌曲以快速节奏和尖锐歌词，通过隐喻和内心独白方式表现社会底层与人性阴暗面，展现了其高超的押韵技巧和硬核说唱风格，在中文地下嘻哈圈中有重要影响。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_unknown_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_004",
+    "workName": "时间都去哪儿了",
+    "originalName": "时间都去哪儿了",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2014,
+    "countryCode": "CHN",
+    "introduction": "《时间都去哪儿了》是王铮亮演唱的歌曲，2014年央视春晚演出后感动全国。歌曲以质朴的歌词追问岁月流逝与亲情珍贵，旋律舒缓深沉，王铮亮的演绎充满温情，引发广泛共鸣，成为当时极具社会影响力的歌曲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1977_003", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1975_001",
+    "workName": "大艺术家",
+    "originalName": "大藝術家",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《大艺术家》是蔡依林演唱的歌曲，严云农填词，2012年发行。歌词鼓励女性在感情中要有清醒的自我，不被花言巧语迷惑，充满女性觉醒意识。歌曲风格动感，MV视觉前卫，获得了第24届金曲奖最佳年度歌曲奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1975_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1962_001",
+    "workName": "让世界充满爱",
+    "originalName": "让世界充满爱",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1986,
+    "countryCode": "CHN",
+    "introduction": "《让世界充满爱》是郭峰创作的公益歌曲，1986年由百名歌手在北京工人体育馆共同唱响。歌曲旋律温婉大气，歌词呼唤和平与友爱，是中国流行音乐史上第一首大型公益歌曲，也标志着内地流行音乐创作走向成熟。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1962_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1941_001",
+    "workName": "黄河",
+    "originalName": "黄河",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": 1970,
+    "countryCode": "CHN",
+    "introduction": "钢琴协奏曲《黄河》由殷承宗、储望华等人根据冼星海《黄河大合唱》改编创作，1970年首演。全曲四个乐章以黄河为象征，展现中华民族不屈的精神，储望华主要负责钢琴部分的编创，该协奏曲成为中国最常演奏的钢琴作品之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1941_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_007",
+    "workName": "流言侦探",
+    "originalName": "流言侦探",
+    "genre": 1,
+    "subcategory": 1015,
+    "subcategories": [1015, 1010],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "《流言侦探》是木狼游戏开发的一款文字推理游戏，2017年发布。游戏模拟社交聊天界面，玩家通过与不同的角色对话来逐步揭开一桩案件背后的真相，创新的叙事方式和沉浸式的阅读体验使其在移动端获得较高评价。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_unknown_006", "relationType": 6, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2004_001",
+    "workName": "完美世界",
+    "originalName": "完美世界",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003, 1004],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《完美世界》是完美世界游戏公司开发的大型3D MMORPG，2005年正式公测。游戏以东方奇幻为背景，拥有自由飞行、无缝地图和帮派城战等特色，画面在当时颇为出众，是中国自研客户端网游的代表作之一，并成功推向海外市场。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2004_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2004_002",
+    "workName": "诛仙",
+    "originalName": "诛仙",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2007,
+    "countryCode": "CHN",
+    "introduction": "《诛仙》是完美世界游戏根据萧鼎同名小说改编的 MMORPG，2007年上线。游戏还原了小说中的仙侠世界，以情缘系统和精美场景吸引了大量玩家，是继《完美世界》之后该公司又一款现象级客户端游戏。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2004_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1919_001",
+    "workName": "减租会",
+    "originalName": "减租会",
+    "genre": 9,
+    "subcategory": 9005,
+    "subcategories": [9005],
+    "year": 1943,
+    "countryCode": "CHN",
+    "introduction": "《减租会》是版画家古元在延安时期创作的木刻版画作品，1943年完成。画面以质朴有力的刀法描绘了边区农民与地主进行减租说理斗争的场面，人物表情鲜明，构图充满张力，是延安木刻运动中表现农民翻身的经典作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1919_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1000_001",
+    "workName": "早春图",
+    "originalName": "早春图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1072,
+    "countryCode": "CHN",
+    "introduction": "《早春图》是北宋画家郭熙创作的水墨山水画，1072年完成，现藏台北故宫博物院。作品描绘了冬去春来、云雾缭绕的山峦景象，以卷云皴和蟹爪枝法表现松石，将高远、深远、平远三法融合一体，气势浑厚而意境幽深，是北宋全景山水画的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1000_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1945_001",
+    "workName": "我的梦",
+    "originalName": "我的梦",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001, 9007],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《我的梦》是徐芒耀创作的一系列超写实主义油画作品，在精细如照片的描绘中植入不合常理的时空交错或悖谬元素，营造出梦境般的奇异氛围，展示了画家对视觉真实与心理真实关系的探索。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1945_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_009",
+    "workName": "花鸟图",
+    "originalName": "花鸟图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《花鸟图》是明代画家周之冕的代表作之一，采用其创立的“勾花点叶”法绘制，花朵以细笔钩勒，叶枝则用墨彩点簇，设色妍丽，风格介于工笔与写意之间，体现了晚明花鸟画追求生动自然的审美趣味。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_unknown_008", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_011",
+    "workName": "御制耕织图",
+    "originalName": "御制耕织图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1696,
+    "countryCode": "CHN",
+    "introduction": "《御制耕织图》是清代宫廷画家焦秉贞奉康熙帝之命绘制的图册，1696年完成。全册分耕、织两部分，每部分各23图，细致描绘了水稻种植和丝绸纺织的全过程，采用中西合璧的透视法，兼具艺术价值与农事教化功能。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_unknown_010", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1956_001",
+    "workName": "吉首美术馆",
+    "originalName": "吉首美术馆",
+    "genre": 12,
+    "subcategory": 12010,
+    "subcategories": [12010, 12005],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "吉首美术馆是张永和主持的非常建筑事务所在湖南吉首市设计的公共建筑，2019年落成。该馆以两座叠合的桥体横跨万溶江，将美术馆与步行桥功能结合，让艺术融入市民的日常动线，是当代中国实验建筑的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1956_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1981_001",
+    "workName": "海岸线",
+    "originalName": "Coastline",
+    "genre": 14,
+    "subcategory": 14003,
+    "subcategories": [14003, 14005],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《海岸线》是张晓的摄影系列作品，自2009年起至2012年左右持续拍摄。他以冷静的彩色镜头记录了中国漫长海岸线地带在快速城市化与旅游开发进程中的奇异景观与人的状态，画面在纪实中透露出荒诞与诗意，获得多项国际摄影奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1981_001", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1950_001",
+    "workName": "于无声处",
+    "originalName": "于无声处",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1978,
+    "countryCode": "CHN",
+    "introduction": "《于无声处》是宗福先创作的话剧，1978年由上海人民艺术剧院首演。该剧以1976年天安门事件为背景，通过两个家庭一天之内的情感冲突，揭示了时代创伤与人性抉择，演出后引起巨大轰动，是伤痕文学与反思戏剧的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1950_001", "relationType": 99, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1954_003",
+    "workName": "夜夜夜麻",
+    "originalName": "夜夜夜麻",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1997,
+    "countryCode": "CHN",
+    "introduction": "《夜夜夜麻》是纪蔚然创作的现代话剧，1997年首演。全剧以几个中年男子深夜打麻将的单一场景展开，通过琐碎的对话和酒精的催化，逐渐剥露每个人生活的失意与中年危机，黑色幽默中充满对社会的讽刺，是台湾剧场的重要作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1954_002", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1941_003",
+    "workName": "牡丹亭",
+    "originalName": "牡丹亭",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《牡丹亭》是明代剧作家汤显祖创作的传奇剧本，岳美缇以小生行当常演的昆曲经典剧目之一。她饰演的柳梦梅儒雅深情，尤其在《拾画叫画》一折中细腻传神，将昆曲小生的书卷气与舞台表现推至新高。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1941_002", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_006",
+    "workName": "天鹅湖",
+    "originalName": "Swan Lake",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《天鹅湖》是柴可夫斯基作曲的经典芭蕾舞剧，香港芭蕾舞团将其作为保留剧目之一。舞团以典雅的群舞和细腻的双人舞诠释这部古典名作，在不同版本的编舞中展现艺术追求，是舞团常演不衰的代表性演出。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1979_004", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1992_001",
+    "workName": "只此青绿",
+    "originalName": "只此青绿",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004, 8008],
+    "year": 2022,
+    "countryCode": "CHN",
+    "introduction": "《只此青绿》是中国东方演艺集团创作的舞蹈诗剧，2022年央视春晚选段演出后引起轰动。作品以北宋《千里江山图》为灵感，通过“展卷、问篆、唱丝、寻石、习笔、淬墨、入画”等篇章，将画作成形过程拟人化，孟庆旸领舞的“青绿”形象刚柔并济，被誉为用身体书写了中国山水美学。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1992_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1985_001",
+    "workName": "Live",
+    "originalName": "Live",
+    "genre": 5,
+    "subcategory": 5001,
+    "subcategories": [5001, 5014],
+    "year": 2018,
+    "countryCode": "KOR",
+    "introduction": "《Live》是韩国tvN电视台播出的职场剧，2018年首播，李光洙主演。该剧聚焦基层派出所警察的日常工作与生活，以写实手法描写他们在面对各种案件和内部压力时的艰辛与坚持，李光洙在其中展现了不同于综艺形象的细腻演技。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1985_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1947_001",
+    "workName": "花火",
+    "originalName": "HANA-BI",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005, 4012],
+    "year": 1997,
+    "countryCode": "JPN",
+    "introduction": "《花火》是北野武自编自导自演的电影，1997年上映。影片讲述一位面临末路的警察在绝境中对妻子和朋友的守护，以极简的台词、突如其来的暴力与北野武手绘的画作穿插，形成独特的抒情暴力美学，获得威尼斯电影节金狮奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1947_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1947_002",
+    "workName": "菊次郎的夏天",
+    "originalName": "菊次郎の夏",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005, 4007],
+    "year": 1999,
+    "countryCode": "JPN",
+    "introduction": "《菊次郎的夏天》是北野武导演并主演的电影，1999年上映。影片讲述不靠谱的中年大叔菊次郎陪伴小男孩正男寻找母亲的故事，旅途中发生一连串诙谐又温馨的事件，久石让的配乐极大地增强了影片的温情，是北野武作品中少见的充满童趣与感动的一部。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1947_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1985_002",
+    "workName": "行路",
+    "originalName": "행진",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 1985,
+    "countryCode": "KOR",
+    "introduction": "《行路》是韩国摇滚乐队野菊花发行的首张专辑，1985年推出。专辑以蓝调摇滚为基调，歌词直面社会现实与人生困顿，主唱全仁权沙哑的嗓音极具感染力，被公认为韩国摇滚乐史上的里程碑之作，对后世音乐人影响深远。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1985_002", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1971_001",
+    "workName": "女神异闻录5",
+    "originalName": "ペルソナ5",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2016,
+    "countryCode": "JPN",
+    "introduction": "《女神异闻录5》是Atlus开发的角色扮演游戏，2016年在日本首发，目黑将司担任主要作曲。游戏以现代东京为舞台，讲述一群高中生组成“心之怪盗团”，潜入他人内心世界改过自新的故事。其音乐融合了酸爵士、放克与流行，极具时尚感，深受玩家喜爱。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1971_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_2011_001",
+    "workName": "命运之子",
+    "originalName": "데스티니 차일드",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2016,
+    "countryCode": "KOR",
+    "introduction": "《命运之子》是LINE Games开发并运营的一款角色扮演手机游戏，2016年上线。游戏以魔王候补的争霸为故事背景，以高品质的Live2D角色美术和快节奏战斗为特色，曾在韩国及海外市场取得良好成绩。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_2011_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1970_001",
+    "workName": "奇迹MU",
+    "originalName": "뮤 온라인",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2001,
+    "countryCode": "KOR",
+    "introduction": "《奇迹MU》是Webzen公司朴关浩主导开发的3D大型多人在线角色扮演游戏，2001年在韩国推出。游戏以其华丽的画面、流畅的战斗体验和翅膀系统等特色迅速风靡亚洲，是韩国网游进军全球市场的标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1970_001", "relationType": 6, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1940_001",
+    "workName": "街头霸王II",
+    "originalName": "ストリートファイターII",
+    "genre": 1,
+    "subcategory": 1001,
+    "subcategories": [1001],
+    "year": 1991,
+    "countryCode": "JPN",
+    "introduction": "《街头霸王II》是Capcom公司推出的格斗游戏，1991年在日本街机首发，辻本宪三是Capcom的创始人。游戏确立了现代格斗游戏的标准，包括特殊技、连招和多角色选择，风靡全球，引发了格斗游戏的热潮，至今仍有重要影响。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1940_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1928_001",
+    "workName": "出云大社厅",
+    "originalName": "出雲大社庁",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [12005, 12009],
+    "year": 1963,
+    "countryCode": "JPN",
+    "introduction": "出云大社厅是菊竹清训设计的建筑，1963年建成。该建筑是出云大社的办公与集会场所，以粗犷的混凝土与巨大的悬挑屋顶为特征，融合了日本传统神社建筑的比例感与代谢派的现代构造美学，是菊竹早期的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1928_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1987_001",
+    "workName": "东京月光曲",
+    "originalName": "東京月光曲",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": null,
+    "countryCode": "JPN",
+    "introduction": "《东京月光曲》是根本宗子编剧并导演的舞台剧，由她创办的剧团“月刊根本宗子”演出。作品以东京为背景，通过犀利幽默的台词和直面现代人际疏离的剧情，捕捉都市青年男女在寂寞与渴望之间的微妙情感，是她小剧场创作的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1987_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ita_-65_001",
+    "workName": "颂歌",
+    "originalName": "Carmina",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": -23,
+    "countryCode": "ITA",
+    "introduction": "《颂歌》是古罗马诗人贺拉斯的四卷本抒情诗集，约公元前23年出版。作品以希腊抒情诗为典范，在格律上达到拉丁语诗歌的高峰，内容涵盖爱情、友谊、哲学与帝国颂赞等，其“carpe diem”（及时行乐）等主题对西方文学影响深远。",
+    "primaryAuthorId": "realCharacter_ita_-65_001",
+    "creators": [
+      { "characterId": "realCharacter_ita_-65_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ita_-65_002",
+    "workName": "诗艺",
+    "originalName": "Ars Poetica",
+    "genre": 10,
+    "subcategory": 10010,
+    "subcategories": [10010, 10001],
+    "year": -15,
+    "countryCode": "ITA",
+    "introduction": "《诗艺》是贺拉斯以诗体写成的文学论著，约公元前15年发表。全文以书信形式，探讨诗歌创作的原则与技巧，提出“寓教于乐”等经典观点，对后世古典主义文论，尤其是文艺复兴和17世纪新古典主义产生了深刻影响。",
+    "primaryAuthorId": "realCharacter_ita_-65_001",
+    "creators": [
+      { "characterId": "realCharacter_ita_-65_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1911_001",
+    "workName": "蝇王",
+    "originalName": "Lord of the Flies",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004, 6014],
+    "year": 1954,
+    "countryCode": "GBR",
+    "introduction": "《蝇王》是英国作家威廉·戈尔丁的长篇小说，1954年出版。故事讲述一群流落荒岛的男孩从文明合作走向野蛮争斗的可怕过程，以寓言手法揭示了人性中潜藏的黑暗与暴力，成为现代文学经典，也是诺奖获奖作品。",
+    "primaryAuthorId": "realCharacter_gbr_1911_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1911_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1917_001",
+    "workName": "心是孤独的猎手",
+    "originalName": "The Heart Is a Lonely Hunter",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1940,
+    "countryCode": "USA",
+    "introduction": "《心是孤独的猎手》是卡森·麦卡勒斯23岁时出版的长篇小说，1940年问世。小说以美国南方小镇为背景，描写了聋哑人辛格与周围几个孤独灵魂之间的精神寄托与无法沟通的悲哀，深刻探讨了人类的孤独渴望，是美国南方文学的代表作。",
+    "primaryAuthorId": "realCharacter_usa_1917_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1917_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1772_001",
+    "workName": "古舟子咏",
+    "originalName": "The Rime of the Ancient Mariner",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1798,
+    "countryCode": "GBR",
+    "introduction": "《古舟子咏》是柯勒律治的长篇叙事诗，1798年收入《抒情歌谣集》。诗歌讲述一名老水手因射杀信天翁而引来超自然惩罚，最终在磨难中领悟对生命的敬畏。作品以神秘氛围、音乐性节奏和象征手法成为英国浪漫主义诗歌的里程碑。",
+    "primaryAuthorId": "realCharacter_gbr_1772_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1772_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1969_001",
+    "workName": "地下铁道",
+    "originalName": "The Underground Railroad",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [6008, 6004],
+    "year": 2016,
+    "countryCode": "USA",
+    "introduction": "《地下铁道》是科尔森·怀特黑德的小说，2016年出版，获普利策奖和国家图书奖。作品将历史上的“地下铁道”隐喻化为真实的铁路系统，讲述黑人少女科拉从佐治亚种植园一路逃离的惊险历程，以非凡的想象力重写美国奴隶制历史，具有强烈的现实批判力。",
+    "primaryAuthorId": "realCharacter_usa_1969_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1969_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1969_002",
+    "workName": "镍币男孩",
+    "originalName": "The Nickel Boys",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [6008, 6004],
+    "year": 2019,
+    "countryCode": "USA",
+    "introduction": "《镍币男孩》是科尔森·怀特黑德的小说，2019年出版，再获普利策奖。故事基于佛罗里达州一所感化院的真实丑闻，通过两名黑人男孩的友谊与悲惨遭遇，揭露了美国司法系统中的种族歧视与暴力，笔调克制却极具震撼力。",
+    "primaryAuthorId": "realCharacter_usa_1969_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1969_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_1968_001",
+    "workName": "日程",
+    "originalName": "L'Ordre du jour",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [6008],
+    "year": 2017,
+    "countryCode": "FRA",
+    "introduction": "《日程》是法国作家埃里克·维亚尔的小说，2017年获龚古尔文学奖。作品以微历史叙事手法，重现了1933年德国大资本家与希特勒秘密会面的关键事件，以冷静的文学笔触剖析了纳粹如何获得经济支持，展现了历史叙事的强大张力。",
+    "primaryAuthorId": "realCharacter_fra_1968_001",
+    "creators": [
+      { "characterId": "realCharacter_fra_1968_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1887_001",
+    "workName": "观察",
+    "originalName": "Observations",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1924,
+    "countryCode": "USA",
+    "introduction": "《观察》是玛丽安·摩尔的诗集，1924年出版，获普利策奖。诗集以精确的观察和奇特的意象著称，诗人对棒球、动物、艺术等话题进行冷静而富有哲思的书写，形成了标志性的音节诗行与引语拼贴风格，是美国现代主义诗歌的重要作品。",
+    "primaryAuthorId": "realCharacter_usa_1887_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1887_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_2019_001",
+    "workName": "燃烧女子的肖像",
+    "originalName": "Portrait de la jeune fille en feu",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005, 4006],
+    "year": 2019,
+    "countryCode": "FRA",
+    "introduction": "《燃烧女子的肖像》是瑟琳·席安玛执导的电影，2019年上映，获戛纳电影节最佳编剧奖。影片设定在18世纪末的法国，女画家受雇为一位不愿被画的贵族女子绘制肖像，在观察与交往中，两人暗生情愫。全片以女性凝视和克制影像书写了被压抑的爱与艺术创造。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1978_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_2014_001",
+    "workName": "女孩帮",
+    "originalName": "Bande de filles",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2014,
+    "countryCode": "FRA",
+    "introduction": "《女孩帮》是瑟琳·席安玛执导的电影，2014年上映。影片讲述巴黎郊区一个非裔女孩加入女子帮派，试图在暴力与歧视的环境中寻找自我认同与自由的故事，以真实而充满活力的镜头语言展现了青春期的迷失与叛逆。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1978_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1982_001",
+    "workName": "银翼杀手",
+    "originalName": "Blade Runner",
+    "genre": 4,
+    "subcategory": 4001,
+    "subcategories": [4001, 4012],
+    "year": 1982,
+    "countryCode": "GBR",
+    "introduction": "《银翼杀手》是雷德利·斯科特执导的科幻电影，1982年上映。影片设定在未来洛杉矶，退休警探戴克追捕逃回地球的复制人，全片以赛博朋克视觉和哲学追问探讨人性、记忆与生命的定义，已成为科幻电影史上的不朽经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1937_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1979_001",
+    "workName": "异形",
+    "originalName": "Alien",
+    "genre": 4,
+    "subcategory": 4001,
+    "subcategories": [4001, 4010],
+    "year": 1979,
+    "countryCode": "GBR",
+    "introduction": "《异形》是雷德利·斯科特执导的科幻恐怖片，1979年上映。商业太空船“诺斯特罗莫号”在探测一颗小行星时遭遇神秘外星生物，船员在密闭空间中相继被害，影片将科幻与哥特恐怖完美结合，女主人公雷普利的形象成为女性英雄的典范。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1937_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_2000_001",
+    "workName": "角斗士",
+    "originalName": "Gladiator",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4005],
+    "year": 2000,
+    "countryCode": "GBR",
+    "introduction": "《角斗士》是雷德利·斯科特执导的历史动作片，2000年上映。罗马将军麦希穆斯被暴君康茂德陷害沦为奴隶，以角斗士身份寻求复仇。影片场面恢宏，情感充沛，荣获奥斯卡最佳影片等多项大奖，重塑了21世纪史诗电影的标准。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1937_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1997_001",
+    "workName": "OK Computer",
+    "originalName": "OK Computer",
+    "genre": 7,
+    "subcategory": 7003,
+    "subcategories": [7003],
+    "year": 1997,
+    "countryCode": "GBR",
+    "introduction": "《OK Computer》是英国摇滚乐队电台司令的第三张录音室专辑，1997年发行。专辑以前卫的编曲、社会异化主题和忧郁的氛围探索了科技时代的人类焦虑，被广泛认为是1990年代最重要的摇滚专辑之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1985_001", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_2000_002",
+    "workName": "Kid A",
+    "originalName": "Kid A",
+    "genre": 7,
+    "subcategory": 7007,
+    "subcategories": [7007, 7003],
+    "year": 2000,
+    "countryCode": "GBR",
+    "introduction": "《Kid A》是电台司令的第四张专辑，2000年发行。乐队大幅偏离吉他摇滚，融入电子、氛围和爵士元素，以碎片化的歌词和冰冷声景回应新世纪的不安，获得格莱美最佳另类专辑奖，也是其最具实验性的作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1985_001", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_2012_001",
+    "workName": "羞辱",
+    "originalName": "Dishonored",
+    "genre": 1,
+    "subcategory": 1002,
+    "subcategories": [1002, 1001],
+    "year": 2012,
+    "countryCode": "FRA",
+    "introduction": "《羞辱》是阿肯工作室开发的动作冒险游戏，2012年发行。玩家扮演被诬陷谋杀的皇家护卫科尔沃，在鼠疫肆虐的蒸汽朋克城市中运用超能力和潜行技巧展开复仇，以高度自由的关卡设计和沉浸式环境叙事著称。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1999_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_2017_001",
+    "workName": "掠食",
+    "originalName": "Prey",
+    "genre": 1,
+    "subcategory": 1002,
+    "subcategories": [1002, 1001],
+    "year": 2017,
+    "countryCode": "FRA",
+    "introduction": "《掠食》是阿肯工作室开发的第一人称科幻游戏，2017年发行。故事发生在一座废弃的太空站中，玩家需要在可变形的外星生物“台风”的威胁下求生，游戏以高度自由的探索和多解式任务设计延续了沉浸式模拟的优良传统。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1999_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_2021_001",
+    "workName": "死亡循环",
+    "originalName": "Deathloop",
+    "genre": 1,
+    "subcategory": 1002,
+    "subcategories": [1002, 1001],
+    "year": 2021,
+    "countryCode": "FRA",
+    "introduction": "《死亡循环》是阿肯工作室开发的第一人称射击游戏，2021年发行。玩家陷入一座小岛的时间循环，必须在一天之内消灭八个目标以打破循环，同时还要提防另一名玩家的入侵。游戏以其精巧的循环设计和时尚的复古美学广受好评。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1999_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1950_001",
+    "workName": "女人 I",
+    "originalName": "Woman I",
+    "genre": 9,
+    "subcategory": 9006,
+    "subcategories": [9006, 9009],
+    "year": 1950,
+    "countryCode": "USA",
+    "introduction": "《女人 I》是威廉·德·库宁的抽象表现主义油画作品，1950—1952年创作完成。画面以狂暴的笔触和扭曲的形体描绘了一个咧嘴瞪眼的女性半身像，在具象与抽象之间激烈撕扯，成为抽象表现主义运动最具争议和代表性的作品之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1904_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_1899_001",
+    "workName": "成熟",
+    "originalName": "L'Âge mûr",
+    "genre": 11,
+    "subcategory": 11002,
+    "subcategories": [11002],
+    "year": 1899,
+    "countryCode": "FRA",
+    "introduction": "《成熟》是法国雕塑家卡米耶·克洛岱尔的青铜雕塑作品，1899年前后创作。作品中，一个年轻女子跪地伸手哀求，而一名老年妇人牵引着一名男子离去，人物动态与情感张力极强，被普遍解读为艺术家个人情感命运的写照，是现代雕塑的重要作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1864_001", "relationType": 23, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1945_001",
+    "workName": "无题（李·米勒战时摄影）",
+    "originalName": "Untitled (Lee Miller War Photography)",
+    "genre": 14,
+    "subcategory": 14004,
+    "subcategories": [14004, 14005],
+    "year": 1945,
+    "countryCode": "USA",
+    "introduction": "李·米勒在二战期间作为战地摄影师，拍摄了大量具有冲击力的纪实照片，包括解放布痕瓦尔德和达豪集中营的景象。这些作品以冷静而深刻的视角记录了战争的残酷，成为她摄影生涯中最具历史分量的部分，也体现了超现实主义美学对纪实摄影的渗透。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1907_001", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_2013_001",
+    "workName": "史蒂文宇宙",
+    "originalName": "Steven Universe",
+    "genre": 2,
+    "subcategory": 2004,
+    "subcategories": [2004, 2006],
+    "year": 2013,
+    "countryCode": "USA",
+    "introduction": "《史蒂文宇宙》是丽贝卡·休格创作的美国动画剧集，2013年在卡通频道首播。故事围绕半人半宝石的男孩史蒂文与三位宝石战士展开，在超级英雄的外壳下深入探讨了身份认同、包容与情感创伤等主题，音乐剧元素的融入使其更显独特。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1987_001", "relationType": 15, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_deu_1981_001",
+    "workName": "默林",
+    "originalName": "Merlin oder Das wüste Land",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1981,
+    "countryCode": "DEU",
+    "introduction": "《默林》是坦克雷德·多斯特创作的大型舞台剧，1981年首演。该剧以亚瑟王传奇中的巫师默林为主角，通过史诗般的结构和众多场景，将神话、历史与当下融合，探讨文明与野蛮的对抗，是德语戏剧的重要作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_deu_1925_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_deu_1920_001",
+    "workName": "群众与人",
+    "originalName": "Masse Mensch",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1920,
+    "countryCode": "DEU",
+    "introduction": "《群众与人》是恩斯特·托勒尔在狱中创作的表现主义戏剧，1920年发表。剧本通过一位革命女性的内心挣扎，探讨了群众运动中的暴力、道德与个人责任，语言充满激情和呐喊，是德国表现主义戏剧的经典之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_deu_1893_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_rus_1913_001",
+    "workName": "春之祭",
+    "originalName": "Весна священная",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 1913,
+    "countryCode": "RUS",
+    "introduction": "《春之祭》是谢尔盖·佳吉列夫俄罗斯芭蕾舞团于1913年在巴黎首演的芭蕾舞剧，斯特拉文斯基作曲，尼金斯基编舞。作品以原始部落的祭祀仪式为主题，音乐充满不协和音与复杂节奏，舞蹈颠覆了古典芭蕾的传统，首演时引发轰动，被视为现代芭蕾的开端。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_rus_1872_001", "relationType": 99, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_lbn_2018_001",
+    "workName": "何以为家",
+    "originalName": "کفرناحوم",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2018,
+    "countryCode": "LBN",
+    "introduction": "《何以为家》是娜丁·拉巴基执导的剧情片，2018年上映，获戛纳评审团奖并提名奥斯卡。影片讲述12岁男孩赞恩起诉父母“生下了我”的故事，以近乎纪录片的写实手法展现了黎巴嫩底层儿童的生存困境，令人震撼。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_lbn_1974_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_col_2006_001",
+    "workName": "Hips Don't Lie",
+    "originalName": "Hips Don't Lie",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2006,
+    "countryCode": "COL",
+    "introduction": "《Hips Don't Lie》是夏奇拉演唱的拉丁流行歌曲，2006年发行。歌曲融合拉丁节奏、雷鬼与流行舞曲元素，以其极具感染力的旋律和夏奇拉标志性的嗓音与舞蹈成为全球热门单曲，并常被视为她的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_col_1977_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_idn_2020_001",
+    "workName": "Coffee Talk",
+    "originalName": "Coffee Talk",
+    "genre": 1,
+    "subcategory": 1015,
+    "subcategories": [1015, 1007],
+    "year": 2020,
+    "countryCode": "IDN",
+    "introduction": "《Coffee Talk》是印度尼西亚工作室Toge Productions开发的一款视觉小说游戏，2020年发行。玩家在游戏中扮演深夜咖啡馆的老板，为各种奇幻种族顾客冲泡饮品并倾听他们的故事，以其舒缓的氛围和贴近现实的情感叙事受到欢迎。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_idn_2009_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ind_1935_001",
+    "workName": "三位少女",
+    "originalName": "Three Girls",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001, 9010],
+    "year": 1935,
+    "countryCode": "IND",
+    "introduction": "《三位少女》是印度画家阿姆丽塔·谢尔-吉尔的油画作品，1935年完成。画面描绘了三位安静沉思的印度农村女子，用色厚重而富有力量，融合了西方后印象派与印度细密画的影响，被视为现代印度艺术的标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_ind_1913_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_bra_1988_001",
+    "workName": "巴西雕塑博物馆",
+    "originalName": "Museu Brasileiro da Escultura",
+    "genre": 12,
+    "subcategory": 12010,
+    "subcategories": [12010, 12005],
+    "year": 1988,
+    "countryCode": "BRA",
+    "introduction": "巴西雕塑博物馆是保罗·门德斯·达·罗查设计的公共建筑，1988年落成于圣保罗。建筑以巨大的混凝土横梁和下沉花园界定空间，将建筑本身视为一件城市雕塑，粗野主义风格中蕴含诗意，是其代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_bra_1928_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_aus_2005_001",
+    "workName": "Minutes to Midnight",
+    "originalName": "Minutes to Midnight",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [14005, 14003],
+    "year": 2005,
+    "countryCode": "AUS",
+    "introduction": "《Minutes to Midnight》是澳大利亚摄影师特伦特·帕克的摄影集，2005年出版。作品记录了帕克与妻子跨越澳大利亚内陆的旅程，以高对比度的黑白影像捕捉了荒凉风景中的人物和瞬间，充满孤寂、神秘与叙事的张力，是其马格南风格的集中体现。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_aus_1971_001", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_2000_002",
+    "workName": "The Shaming of the True",
+    "originalName": "The Shaming of the True",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002, 7003],
+    "year": 2000,
+    "countryCode": "USA",
+    "introduction": "《The Shaming of the True》是美国音乐人凯文·吉尔伯特的叙事概念专辑，2000年逝世后发行。专辑以摇滚歌剧形式讲述了一位年轻音乐人追寻梦想却被音乐工业扭曲的悲喜剧故事，展现了吉尔伯特卓越的词曲创作与多乐器演奏才能。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1966_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_tur_2005_001",
+    "workName": "疯狂的土耳其",
+    "originalName": "Şu Çılgın Türkler",
+    "genre": 10,
+    "subcategory": 10011,
+    "subcategories": [10011],
+    "year": 2005,
+    "countryCode": "TUR",
+    "introduction": "《疯狂的土耳其》是图尔古特·厄扎克曼的剧本作品，后发展为畅销小说，2005年出版。作品以土耳其独立战争为背景，通过大量历史细节和戏剧化手法，书写了民族抗争的史诗，在土耳其引起极大反响。",
+    "primaryAuthorId": "realCharacter_tur_1930_001",
+    "creators": [
+      { "characterId": "realCharacter_tur_1930_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_nga_2019_001",
+    "workName": "马兰·伊利亚的护照",
+    "originalName": "The Passport of Mallam Ilia",
+    "genre": 2,
+    "subcategory": 2002,
+    "subcategories": [2002, 2012],
+    "year": 2019,
+    "countryCode": "NGA",
+    "introduction": "《马兰·伊利亚的护照》是尼日利亚魔毯动画工作室制作的动画剧集，2019年推出。作品根据同名经典小说改编，以传统豪萨族地区的复仇故事为线索，融合西非文化元素与生动的动画表现，是非洲动画叙事的尝试。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_nga_unknown_001", "relationType": 16, "sortOrder": 0 }
+    ]
+  },
+
+  {
+    "workId": "work_chn_1980_001",
+    "workName": "下个，路口，见",
+    "originalName": "下个，路口，见",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2009,
+    "countryCode": "CHN",
+    "introduction": "《下个，路口，见》是李宇春演唱的流行歌曲，由谭伊哲编曲，2009年发行。歌曲以轻快的电子流行风格和简约的歌词表达了对偶然相遇的期待，旋律流畅上口，成为李宇春广为人知的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1980_001",
+        "relationType": 26,
+        "sortOrder": 0
+      }
+    ]
+  }
+]

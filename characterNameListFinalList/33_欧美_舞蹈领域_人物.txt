@@ -119,5 +119,127 @@
 
     "Paris Opera Ballet",
 
-    "Tanztheater Wuppertal Pina Bausch"
+    "Tanztheater Wuppertal Pina Bausch",
+
+    "Mary Wigman",
+
+    "Kurt Jooss",
+
+    "Harald Kreutzberg",
+
+    "Gret Palucca",
+
+    "Hanya Holm",
+
+    "Anna Sokolow",
+
+    "Lester Horton",
+
+    "Erick Hawkins",
+
+    "Alwin Nikolais",
+
+    "Murray Louis",
+
+    "Meredith Monk",
+
+    "Bill T. Jones",
+
+    "Arnie Zane",
+
+    "Mark Morris",
+
+    "Susan Marshall",
+
+    "Garth Fagan",
+
+    "Rennie Harris",
+
+    "Alonzo King",
+
+    "Stephen Petronio",
+
+    "Doug Varone",
+
+    "John Jasperse",
+
+    "Miguel Gutierrez",
+
+    "Trajal Harrell",
+
+    "Kyle Abraham",
+
+    "Camille A. Brown",
+
+    "Justin Peck",
+
+    "Christopher Wheeldon",
+
+    "David Dawson",
+
+    "Liam Scarlett",
+
+    "Cathy Marston",
+
+    "Sharon Eyal",
+
+    "Gai Behar",
+
+    "Marco Goecke",
+
+    "John Neumeier",
+
+    "Nacho Duato",
+
+    "Angel Corella",
+
+    "Joaquín Cortés",
+
+    "Sara Baras",
+
+    "Eva Yerbabuena",
+
+    "Farruquito",
+
+    "Blanca Li",
+
+    "Dimitris Papaioannou",
+
+    "Wim Vandekeybus",
+
+    "Alain Platel",
+
+    "Sidi Larbi Cherkaoui",
+
+    "Peeping Tom",
+
+    "DV8 Physical Theatre",
+
+    "Rosas",
+
+    "Maguy Marin",
+
+    "Angelin Preljocaj",
+
+    "Philippe Decouflé",
+
+    "Carolyn Carlson",
+
+    "Martha Clarke",
+
+    "Pilobolus",
+
+    "MOMIX",
+
+    "Les Ballets Trockadero de Monte Carlo",
+
+    "Meg Stuart",
+
+    "Xavier Le Roy",
+
+    "Jérôme Bel",
+
+    "Boris Charmatz",
+
+    "Tino Sehgal"
 ]

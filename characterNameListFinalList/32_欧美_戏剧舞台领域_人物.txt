@@ -121,5 +121,191 @@
 
     "Théâtre du Soleil",
 
-    "Schaubühne"
+    "Schaubühne",
+
+    "Friedrich Schiller",
+
+    "Johann Wolfgang von Goethe",
+
+    "Georg Büchner",
+
+    "Frank Wedekind",
+
+    "Ernst Toller",
+
+    "Sean O'Casey",
+
+    "Brian Friel",
+
+    "Conor McPherson",
+
+    "Enda Walsh",
+
+    "Marina Carr",
+
+    "David Greig",
+
+    "Zinnie Harris",
+
+    "Suzan-Lori Parks",
+
+    "Lynn Nottage",
+
+    "Jackie Sibblies Drury",
+
+    "Jeremy O. Harris",
+
+    "Branden Jacobs-Jenkins",
+
+    "Lucas Hnath",
+
+    "Annie Baker",
+
+    "Amy Herzog",
+
+    "Richard Nelson",
+
+    "Bruce Norris",
+
+    "Tracy Letts",
+
+    "John Patrick Shanley",
+
+    "Paula Vogel",
+
+    "David Lindsay-Abaire",
+
+    "Michael Frayn",
+
+    "Alan Bennett",
+
+    "Jez Butterworth",
+
+    "Simon Stephens",
+
+    "Lucy Kirkwood",
+
+    "Alice Birch",
+
+    "Debbie Tucker Green",
+
+    "Philip Ridley",
+
+    "Peter Handke",
+
+    "Elfriede Jelinek",
+
+    "Heiner Müller",
+
+    "Botho Strauß",
+
+    "Rainer Werner Fassbinder",
+
+    "Tankred Dorst",
+
+    "Dea Loher",
+
+    "Sibylle Berg",
+
+    "Rimini Protokoll",
+
+    "Gob Squad",
+
+    "Forced Entertainment",
+
+    "Complicité",
+
+    "Punchdrunk",
+
+    "Milo Rau",
+
+    "Luk Perceval",
+
+    "Guy Cassiers",
+
+    "Romeo Castellucci",
+
+    "Jan Fabre",
+
+    "Dmitry Krymov",
+
+    "Kirill Serebrennikov",
+
+    "Oskaras Koršunovas",
+
+    "Eimuntas Nekrošius",
+
+    "Alvis Hermanis",
+
+    "Dario Fo",
+
+    "Franca Rame",
+
+    "Patrice Chéreau",
+
+    "Claude Régy",
+
+    "Joël Pommerat",
+
+    "Pascal Rambert",
+
+    "Wajdi Mouawad",
+
+    "Éric Lacascade",
+
+    "Olivier Py",
+
+    "Thomas Jolly",
+
+    "Tiago Rodrigues",
+
+    "Krzysztof Warlikowski",
+
+    "Grzegorz Jarzyna",
+
+    "Jan Klata",
+
+    "Maja Kleczewska",
+
+    "Ewelina Marciniak",
+
+    "Oliver Frljić",
+
+    "Silviu Purcărete",
+
+    "Andrei Șerban",
+
+    "Declan Donnellan",
+
+    "Cheek by Jowl",
+
+    "Emma Rice",
+
+    "Vicki Featherstone",
+
+    "Rufus Norris",
+
+    "Kwame Kwei-Armah",
+
+    "Deborah Warner",
+
+    "Phyllida Lloyd",
+
+    "Marianne Elliott",
+
+    "Johan Simons",
+
+    "Toneelgroep Amsterdam",
+
+    "Jacques Lecoq",
+
+    "Philippe Gaulier",
+
+    "Paule Constable",
+
+    "Bunny Christie",
+
+    "Es Devlin",
+
+    "Katrina Lindsay"
 ]

@@ -85,5 +85,15 @@
 
     "Peak Games",
 
-    "TaleWorlds Entertainment"
+    "TaleWorlds Entertainment",
+
+    "Rami Ismail",
+
+    "Mohammad Fahmi",
+
+    "Kris Antoni",
+
+    "Avichal Singh",
+
+    "Shruti Ghosh"
 ]

@@ -119,5 +119,9 @@
 
     "Stephen Shore",
 
-    "William Eggleston"
+    "William Eggleston",
+
+    "Todd Hido",
+
+    "Petra Collins"
 ]

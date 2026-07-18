@@ -121,5 +121,9 @@
 
     "Snøhetta",
 
-    "MVRDV"
+    "MVRDV",
+
+    "Anne Lacaton",
+
+    "Jean-Philippe Vassal"
 ]

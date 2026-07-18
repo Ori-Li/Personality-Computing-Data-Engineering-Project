@@ -99,5 +99,7 @@
 
     "Maurizio Cattelan",
 
-    "Giuseppe Penone"
+    "Giuseppe Penone",
+
+    "Thomas Schütte"
 ]

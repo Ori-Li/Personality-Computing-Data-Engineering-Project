@@ -91,5 +91,11 @@
 
     "Romuald Hazoumè",
 
-    "Abdoulaye Konaté"
+    "Abdoulaye Konaté",
+
+    "Wangechi Mutu",
+
+    "Nairy Baghramian",
+
+    "Teresa Margolles"
 ]

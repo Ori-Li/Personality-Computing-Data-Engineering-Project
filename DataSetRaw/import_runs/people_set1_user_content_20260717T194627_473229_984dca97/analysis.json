@@ -1,0 +1,40 @@
+{
+  "schema": "rgmj-prompt-dataset-analysis/v1",
+  "generatedAt": "2026-07-17T11:46:27.464757+00:00",
+  "inputs": {
+    "characters": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\people_set1_character.json",
+    "works": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\people_set1_work.json",
+    "characterSha256": "514ffc8058c1f09f759f85bb4f7deda19f1734e975fcbd25df8f8b94c61d9964",
+    "workSha256": "76562b33cfae71422c343cc2c8d7fc0e5475c2fbe2849de3373609ea1117b297"
+  },
+  "counts": {
+    "characters": 80,
+    "works": 106,
+    "creatorRelations": 106,
+    "ownWorkReferences": 106,
+    "unknownBeginYear": 0,
+    "missingWorkYear": 12,
+    "unknownCountry": 0,
+    "subcategoryTags": 185
+  },
+  "crossReferences": {
+    "characterIds": 80,
+    "workIds": 106,
+    "broken": 0
+  },
+  "duplicateWorkNames": [],
+  "errors": [],
+  "warnings": [],
+  "isStructurallyValid": true,
+  "qualitySignals": {
+    "unknownBeginYear": 0,
+    "missingWorkYear": 12,
+    "unknownWorkCountry": 0,
+    "missingHistoricalDynasty": 0
+  },
+  "factualCompleteness": {
+    "beginYearCoverage": 1.0,
+    "historicalDynastyCoverage": 1.0
+  },
+  "isPromptComplete": true
+}

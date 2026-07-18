@@ -147,5 +147,27 @@
 
     "John Williams",
 
-    "Hans Zimmer"
+    "Hans Zimmer",
+
+    "The Weeknd",
+
+    "Frank Ocean",
+
+    "Tyler, the Creator",
+
+    "Phoebe Bridgers",
+
+    "Mitski",
+
+    "Sufjan Stevens",
+
+    "Hildur Guðnadóttir",
+
+    "Max Richter",
+
+    "Jóhann Jóhannsson",
+
+    "Caroline Polachek",
+
+    "St. Vincent"
 ]

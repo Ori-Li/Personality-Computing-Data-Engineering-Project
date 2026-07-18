@@ -163,5 +163,18 @@
     "Slade Hopkinson",
     "Edgar Nkosi White",
     "Caryl Phillips",
-    "Devanand Mootien"
+    "Devanand Mootien",
+    "Ammannur Madhava Chakyar",
+    "Mani Madhava Chakyar",
+    "Neelam Mansingh Chowdhry",
+    "Anuradha Kapur",
+    "Madeeha Gauhar",
+    "Shahid Nadeem",
+    "Maya Krishna Rao",
+    "Rabih Mroué",
+    "Lina Saneh",
+    "Tania El Khoury",
+    "Bashar Murkus",
+    "Amir Nizar Zuabi",
+    "Jawad Al-Assadi"
 ]

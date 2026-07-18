@@ -161,5 +161,19 @@
 
     "Pedro Pascal",
 
-    "Cillian Murphy"
+    "Cillian Murphy",
+
+    "Ari Aster",
+
+    "Robert Eggers",
+
+    "Damien Chazelle",
+
+    "Sean Baker",
+
+    "Joachim Trier",
+
+    "Céline Sciamma",
+
+    "Justine Triet"
 ]

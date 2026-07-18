@@ -1,0 +1,7770 @@
+{
+  "schema": "rgmj-work-affinity/v1",
+  "projectionModel": "work-affinity-calibrated",
+  "modelVersion": "v2",
+  "items": [
+    {
+      "profileId": 531383598055279712,
+      "workId": 62584339848256639,
+      "workName": "그것만이 내 세상",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.69,
+        "Ti": 0.33,
+        "Te": 0.36,
+        "Fi": 0.73,
+        "Fe": 0.55,
+        "Si": 0.53,
+        "Se": 0.38,
+        "Assertive": 0.36,
+        "Turbulent": 0.38
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "象征"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5133168385281563718,
+      "workId": 67248602184275247,
+      "workName": "Capernaum",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.4,
+        "Ti": 0.41,
+        "Te": 0.38,
+        "Fi": 0.24,
+        "Fe": 0.59,
+        "Si": 0.31,
+        "Se": 0.63,
+        "Assertive": 0.64,
+        "Turbulent": 0.48
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4337629432257880340,
+      "workId": 164559485684860950,
+      "workName": "Three Girls",
+      "scores": {
+        "Ni": 0.42,
+        "Ne": 0.42,
+        "Ti": 0.44,
+        "Te": 0.36,
+        "Fi": 0.7,
+        "Fe": 0.28,
+        "Si": 0.73,
+        "Se": 0.61,
+        "Assertive": 0.62,
+        "Turbulent": 0.52
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化",
+            "乡村"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "视觉",
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3548679340775773782,
+      "workId": 214312554261452680,
+      "workName": "西藏音诗",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.42,
+        "Ti": 0.32,
+        "Te": 0.37,
+        "Fi": 0.44,
+        "Fe": 0.56,
+        "Si": 0.32,
+        "Se": 0.67,
+        "Assertive": 0.46,
+        "Turbulent": 0.25
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3614438710542334876,
+      "workId": 252370767678713173,
+      "workName": "ストリートファイターII",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.75,
+        "Ti": 0.74,
+        "Te": 0.62,
+        "Fi": 0.44,
+        "Fe": 0.55,
+        "Si": 0.31,
+        "Se": 0.66,
+        "Assertive": 0.34,
+        "Turbulent": 0.42
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4711568534886173427,
+      "workId": 272586965685268025,
+      "workName": "和平饭店",
+      "scores": {
+        "Ni": 0.62,
+        "Ne": 0.44,
+        "Ti": 0.5,
+        "Te": 0.36,
+        "Fi": 0.49,
+        "Fe": 0.7,
+        "Si": 0.33,
+        "Se": 0.55,
+        "Assertive": 0.39,
+        "Turbulent": 0.78
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "身份"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8810973174334700140,
+      "workId": 291134253683306410,
+      "workName": "Minutes to Midnight",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.41,
+        "Ti": 0.74,
+        "Te": 0.36,
+        "Fi": 0.7,
+        "Fe": 0.7,
+        "Si": 0.33,
+        "Se": 0.33,
+        "Assertive": 0.53,
+        "Turbulent": 0.26
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "身份",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8258576757684369409,
+      "workId": 306693861947860840,
+      "workName": "몸의 협주곡",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.68,
+        "Ti": 0.35,
+        "Te": 0.62,
+        "Fi": 0.46,
+        "Fe": 0.59,
+        "Si": 0.3,
+        "Se": 0.6,
+        "Assertive": 0.45,
+        "Turbulent": 0.57
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "群体",
+            "社会",
+            "观众",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5551346714645912322,
+      "workId": 344043401456462940,
+      "workName": "狂飙",
+      "scores": {
+        "Ni": 0.61,
+        "Ne": 0.43,
+        "Ti": 0.34,
+        "Te": 0.36,
+        "Fi": 0.45,
+        "Fe": 0.7,
+        "Si": 0.53,
+        "Se": 0.27,
+        "Assertive": 0.45,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3201746224324616074,
+      "workId": 405798200410260554,
+      "workName": "二分宅",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.41,
+        "Ti": 0.75,
+        "Te": 0.82,
+        "Fi": 0.25,
+        "Fe": 0.68,
+        "Si": 0.31,
+        "Se": 0.58,
+        "Assertive": 0.57,
+        "Turbulent": 0.5
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "公共"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2251441287820301169,
+      "workId": 497817843440800698,
+      "workName": "酸酸甜甜就是我",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.42,
+        "Ti": 0.37,
+        "Te": 0.37,
+        "Fi": 0.73,
+        "Fe": 0.29,
+        "Si": 0.73,
+        "Se": 0.68,
+        "Assertive": 0.71,
+        "Turbulent": 0.51
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7664350563185082042,
+      "workId": 506128562634946647,
+      "workName": "Merlin oder Das wüste Land",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.68,
+        "Ti": 0.44,
+        "Te": 0.61,
+        "Fi": 0.47,
+        "Fe": 0.59,
+        "Si": 0.53,
+        "Se": 0.62,
+        "Assertive": 0.13,
+        "Turbulent": 0.82
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "重写"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "共同体",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 9024737944587429409,
+      "workId": 708533328472233290,
+      "workName": "宫心计",
+      "scores": {
+        "Ni": 0.78,
+        "Ne": 0.42,
+        "Ti": 0.52,
+        "Te": 0.62,
+        "Fi": 0.46,
+        "Fe": 0.71,
+        "Si": 0.32,
+        "Se": 0.27,
+        "Assertive": 0.56,
+        "Turbulent": 0.32
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "命运",
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "竞争"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系",
+            "友情",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5462367582006495712,
+      "workId": 716561972102793370,
+      "workName": "L’Ordre du jour",
+      "scores": {
+        "Ni": 0.43,
+        "Ne": 0.42,
+        "Ti": 0.5,
+        "Te": 0.63,
+        "Fi": 0.48,
+        "Fe": 0.6,
+        "Si": 0.76,
+        "Se": 0.28,
+        "Assertive": 0.5,
+        "Turbulent": 0.43
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "历史",
+            "仪式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6569397877235043459,
+      "workId": 900221508831992465,
+      "workName": "Prey",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.76,
+        "Ti": 0.66,
+        "Te": 0.59,
+        "Fi": 0.5,
+        "Fe": 0.29,
+        "Si": 0.31,
+        "Se": 0.65,
+        "Assertive": 0.31,
+        "Turbulent": 0.7
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "身份"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4133646321664314496,
+      "workId": 903459353783594318,
+      "workName": "L’Âge mûr",
+      "scores": {
+        "Ni": 0.4,
+        "Ne": 0.68,
+        "Ti": 0.46,
+        "Te": 0.62,
+        "Fi": 0.69,
+        "Fe": 0.27,
+        "Si": 0.54,
+        "Se": 0.62,
+        "Assertive": 0.72,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "变化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 651581602814089772,
+      "workId": 974087791179123489,
+      "workName": "日出",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.39,
+        "Ti": 0.35,
+        "Te": 0.63,
+        "Fi": 0.45,
+        "Fe": 0.6,
+        "Si": 0.33,
+        "Se": 0.61,
+        "Assertive": 0.4,
+        "Turbulent": 0.52
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "观众",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4495919522937467510,
+      "workId": 994343538656668089,
+      "workName": "The Heart Is a Lonely Hunter",
+      "scores": {
+        "Ni": 0.45,
+        "Ne": 0.44,
+        "Ti": 0.49,
+        "Te": 0.63,
+        "Fi": 0.72,
+        "Fe": 0.64,
+        "Si": 0.31,
+        "Se": 0.28,
+        "Assertive": 0.68,
+        "Turbulent": 0.82
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "孤独",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5954124749521275879,
+      "workId": 1066857169613726778,
+      "workName": "Blade Runner",
+      "scores": {
+        "Ni": 0.78,
+        "Ne": 0.41,
+        "Ti": 0.45,
+        "Te": 0.35,
+        "Fi": 0.31,
+        "Fe": 0.31,
+        "Si": 0.54,
+        "Se": 0.66,
+        "Assertive": 0.59,
+        "Turbulent": 0.34
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "记忆",
+            "生命",
+            "未来"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2889665193780415841,
+      "workId": 1241082095865321048,
+      "workName": "东方不败",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.7,
+        "Ti": 0.36,
+        "Te": 0.35,
+        "Fi": 0.72,
+        "Fe": 0.54,
+        "Si": 0.74,
+        "Se": 0.69,
+        "Assertive": 0.59,
+        "Turbulent": 0.44
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "变化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "身份",
+            "价值",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "群体"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "动作",
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7938607962467690345,
+      "workId": 1266695165989310782,
+      "workName": "宝葫芦的秘密",
+      "scores": {
+        "Ni": 0.71,
+        "Ne": 0.41,
+        "Ti": 0.59,
+        "Te": 0.61,
+        "Fi": 0.46,
+        "Fe": 0.62,
+        "Si": 0.56,
+        "Se": 0.29,
+        "Assertive": 0.41,
+        "Turbulent": 0.68
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "责任"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "责任"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 9166526606310478696,
+      "workId": 1375035759400724908,
+      "workName": "夜夜夜麻",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.4,
+        "Ti": 0.39,
+        "Te": 0.61,
+        "Fi": 0.74,
+        "Fe": 0.6,
+        "Si": 0.32,
+        "Se": 0.61,
+        "Assertive": 0.33,
+        "Turbulent": 0.73
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "身份"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "关系",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6821154668178683087,
+      "workId": 1616506742496874681,
+      "workName": "菊次郎的夏天",
+      "scores": {
+        "Ni": 0.35,
+        "Ne": 0.43,
+        "Ti": 0.43,
+        "Te": 0.37,
+        "Fi": 0.67,
+        "Fe": 0.6,
+        "Si": 0.51,
+        "Se": 0.64,
+        "Assertive": 0.53,
+        "Turbulent": 0.3
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "陪伴"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4213317254677254806,
+      "workId": 1643018437866528653,
+      "workName": "人世间",
+      "scores": {
+        "Ni": 0.44,
+        "Ne": 0.4,
+        "Ti": 0.56,
+        "Te": 0.8,
+        "Fi": 0.45,
+        "Fe": 0.66,
+        "Si": 0.31,
+        "Se": 0.29,
+        "Assertive": 0.63,
+        "Turbulent": 0.54
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "制度"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7373609916279916986,
+      "workId": 1801268071200360328,
+      "workName": "力挽狂澜",
+      "scores": {
+        "Ni": 0.62,
+        "Ne": 0.42,
+        "Ti": 0.64,
+        "Te": 0.63,
+        "Fi": 0.46,
+        "Fe": 0.29,
+        "Si": 0.52,
+        "Se": 0.63,
+        "Assertive": 0.58,
+        "Turbulent": 0.36
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "象征"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "视觉",
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5381734743981954645,
+      "workId": 1824343012100460292,
+      "workName": "搜神记",
+      "scores": {
+        "Ni": 0.72,
+        "Ne": 0.4,
+        "Ti": 0.55,
+        "Te": 0.37,
+        "Fi": 0.46,
+        "Fe": 0.54,
+        "Si": 0.58,
+        "Se": 0.27,
+        "Assertive": 0.48,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7338497805342609533,
+      "workId": 1888916804490453552,
+      "workName": "Everything in Its Right Place",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.41,
+        "Ti": 0.38,
+        "Te": 0.38,
+        "Fi": 0.45,
+        "Fe": 0.29,
+        "Si": 0.75,
+        "Se": 0.37,
+        "Assertive": 0.71,
+        "Turbulent": 0.34
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "稳定"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 465495173638779793,
+      "workId": 1895530331691504098,
+      "workName": "射雕英雄传",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.43,
+        "Ti": 0.44,
+        "Te": 0.35,
+        "Fi": 0.69,
+        "Fe": 0.68,
+        "Si": 0.53,
+        "Se": 0.27,
+        "Assertive": 0.62,
+        "Turbulent": 0.38
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "成长"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6775635329948173902,
+      "workId": 1899383899667329112,
+      "workName": "大红灯笼高高挂",
+      "scores": {
+        "Ni": 0.61,
+        "Ne": 0.43,
+        "Ti": 0.43,
+        "Te": 0.6,
+        "Fi": 0.68,
+        "Fe": 0.58,
+        "Si": 0.51,
+        "Se": 0.62,
+        "Assertive": 0.6,
+        "Turbulent": 0.44
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "命运"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "群体",
+            "社会",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "视觉",
+            "色彩",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6088393338347093857,
+      "workId": 1933594604071343570,
+      "workName": "墙头马上",
+      "scores": {
+        "Ni": 0.71,
+        "Ne": 0.43,
+        "Ti": 0.51,
+        "Te": 0.62,
+        "Fi": 0.47,
+        "Fe": 0.54,
+        "Si": 0.55,
+        "Se": 0.3,
+        "Assertive": 0.43,
+        "Turbulent": 0.66
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6463969565292325183,
+      "workId": 2060690248389305124,
+      "workName": "九歌",
+      "scores": {
+        "Ni": 0.83,
+        "Ne": 0.41,
+        "Ti": 0.51,
+        "Te": 0.36,
+        "Fi": 0.46,
+        "Fe": 0.6,
+        "Si": 0.55,
+        "Se": 0.26,
+        "Assertive": 0.51,
+        "Turbulent": 0.73
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义",
+            "神话"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5537338176022617793,
+      "workId": 2217481525126004015,
+      "workName": "Steven Universe",
+      "scores": {
+        "Ni": 0.62,
+        "Ne": 0.74,
+        "Ti": 0.54,
+        "Te": 0.35,
+        "Fi": 0.46,
+        "Fe": 0.7,
+        "Si": 0.32,
+        "Se": 0.58,
+        "Assertive": 0.63,
+        "Turbulent": 0.43
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "生命"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "成长"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "色彩",
+            "声音",
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 963186768945941638,
+      "workId": 2218014494201748257,
+      "workName": "离骚",
+      "scores": {
+        "Ni": 0.83,
+        "Ne": 0.41,
+        "Ti": 0.59,
+        "Te": 0.37,
+        "Fi": 0.73,
+        "Fe": 0.27,
+        "Si": 0.31,
+        "Se": 0.27,
+        "Assertive": 0.44,
+        "Turbulent": 0.72
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义",
+            "精神",
+            "政治理想"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "放逐"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7338512889926132603,
+      "workId": 2341684669674627559,
+      "workName": "Poetry",
+      "scores": {
+        "Ni": 0.71,
+        "Ne": 0.4,
+        "Ti": 0.59,
+        "Te": 0.35,
+        "Fi": 0.26,
+        "Fe": 0.58,
+        "Si": 0.33,
+        "Se": 0.53,
+        "Assertive": 0.46,
+        "Turbulent": 0.7
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 323968681124207522,
+      "workId": 2376124988845095191,
+      "workName": "我的梦",
+      "scores": {
+        "Ni": 0.65,
+        "Ne": 0.39,
+        "Ti": 0.54,
+        "Te": 0.37,
+        "Fi": 0.46,
+        "Fe": 0.28,
+        "Si": 0.53,
+        "Se": 0.61,
+        "Assertive": 0.56,
+        "Turbulent": 0.66
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "梦"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "视觉",
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8276929843609266462,
+      "workId": 2650566138367018009,
+      "workName": "黄河钢琴协奏曲",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.35,
+        "Te": 0.36,
+        "Fi": 0.26,
+        "Fe": 0.63,
+        "Si": 0.32,
+        "Se": 0.37,
+        "Assertive": 0.49,
+        "Turbulent": 0.24
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "对话"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3025894164529687600,
+      "workId": 2656330740054579014,
+      "workName": "Petite Maman",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.42,
+        "Ti": 0.39,
+        "Te": 0.36,
+        "Fi": 0.46,
+        "Fe": 0.62,
+        "Si": 0.54,
+        "Se": 0.63,
+        "Assertive": 0.64,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8764383295958809226,
+      "workId": 2690117874930844441,
+      "workName": "The Rite of Spring",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.41,
+        "Ti": 0.49,
+        "Te": 0.62,
+        "Fi": 0.44,
+        "Fe": 0.58,
+        "Si": 0.32,
+        "Se": 0.69,
+        "Assertive": 0.53,
+        "Turbulent": 0.58
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "观众",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "动作",
+            "身体",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7041153447526709970,
+      "workId": 2729181131420535488,
+      "workName": "Masse Mensch",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.42,
+        "Ti": 0.47,
+        "Te": 0.6,
+        "Fi": 0.44,
+        "Fe": 0.58,
+        "Si": 0.51,
+        "Se": 0.61,
+        "Assertive": 0.5,
+        "Turbulent": 0.3
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "政治理想"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "群体",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6578258545218378268,
+      "workId": 2837655222372201747,
+      "workName": "回娘家",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.39,
+        "Ti": 0.43,
+        "Te": 0.35,
+        "Fi": 0.26,
+        "Fe": 0.29,
+        "Si": 0.3,
+        "Se": 0.67,
+        "Assertive": 0.26,
+        "Turbulent": 0.36
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "表演"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3001688483091281722,
+      "workId": 2860840937871256889,
+      "workName": "The Nickel Boys",
+      "scores": {
+        "Ni": 0.68,
+        "Ne": 0.42,
+        "Ti": 0.55,
+        "Te": 0.8,
+        "Fi": 0.52,
+        "Fe": 0.59,
+        "Si": 0.75,
+        "Se": 0.27,
+        "Assertive": 0.65,
+        "Turbulent": 0.46
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "责任",
+            "制度"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "责任"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆",
+            "历史",
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8953285788478743138,
+      "workId": 2931897437146046975,
+      "workName": "铁梨花",
+      "scores": {
+        "Ni": 0.59,
+        "Ne": 0.4,
+        "Ti": 0.42,
+        "Te": 0.37,
+        "Fi": 0.68,
+        "Fe": 0.71,
+        "Si": 0.53,
+        "Se": 0.29,
+        "Assertive": 0.76,
+        "Turbulent": 0.32
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "女性",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系",
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "年代"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2431440796337176053,
+      "workId": 2942379486169781161,
+      "workName": "Women with Fire Masks",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.7,
+        "Ti": 0.7,
+        "Te": 0.38,
+        "Fi": 0.68,
+        "Fe": 0.57,
+        "Si": 0.57,
+        "Se": 0.34,
+        "Assertive": 0.62,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "超现实"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "女性",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "日常"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2527495097608007845,
+      "workId": 3111971999994342644,
+      "workName": "早春图",
+      "scores": {
+        "Ni": 0.41,
+        "Ne": 0.42,
+        "Ti": 0.42,
+        "Te": 0.59,
+        "Fi": 0.26,
+        "Fe": 0.28,
+        "Si": 0.32,
+        "Se": 0.6,
+        "Assertive": 0.53,
+        "Turbulent": 0.5
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7208445855814162315,
+      "workId": 3171544084890342084,
+      "workName": "背靠背，脸对脸",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.42,
+        "Ti": 0.41,
+        "Te": 0.39,
+        "Fi": 0.71,
+        "Fe": 0.56,
+        "Si": 0.75,
+        "Se": 0.65,
+        "Assertive": 0.41,
+        "Turbulent": 0.59
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "关系",
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "日常",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8686078637169902427,
+      "workId": 3251939860011788972,
+      "workName": "서울, 모던 타임즈",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.39,
+        "Ti": 0.7,
+        "Te": 0.35,
+        "Fi": 0.44,
+        "Fe": 0.28,
+        "Si": 0.56,
+        "Se": 0.34,
+        "Assertive": 0.32,
+        "Turbulent": 0.59
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6458668661544526366,
+      "workId": 3356853556250892739,
+      "workName": "Şu Çılgın Türkler",
+      "scores": {
+        "Ni": 0.67,
+        "Ne": 0.43,
+        "Ti": 0.7,
+        "Te": 0.61,
+        "Fi": 0.52,
+        "Fe": 0.55,
+        "Si": 0.75,
+        "Se": 0.28,
+        "Assertive": 0.14,
+        "Turbulent": 0.83
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆",
+            "历史",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 1230263787583954228,
+      "workId": 3394960343666252182,
+      "workName": "完美世界",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.86,
+        "Ti": 0.65,
+        "Te": 0.63,
+        "Fi": 0.44,
+        "Fe": 0.29,
+        "Si": 0.53,
+        "Se": 0.65,
+        "Assertive": 0.31,
+        "Turbulent": 0.43
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "幻想",
+            "探索",
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2422652343394073123,
+      "workId": 3472338873974001822,
+      "workName": "Coffee Talk",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.76,
+        "Ti": 0.74,
+        "Te": 0.6,
+        "Fi": 0.26,
+        "Fe": 0.68,
+        "Si": 0.32,
+        "Se": 0.66,
+        "Assertive": 0.71,
+        "Turbulent": 0.3
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "倾听",
+            "对话",
+            "顾客"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8156842454106787784,
+      "workId": 3514231272721686606,
+      "workName": "满糖宣言",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.38,
+        "Ti": 0.4,
+        "Te": 0.36,
+        "Fi": 0.7,
+        "Fe": 0.31,
+        "Si": 0.55,
+        "Se": 0.68,
+        "Assertive": 0.52,
+        "Turbulent": 0.25
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8409263615442781395,
+      "workId": 3600869337878271833,
+      "workName": "牡丹亭",
+      "scores": {
+        "Ni": 0.61,
+        "Ne": 0.41,
+        "Ti": 0.39,
+        "Te": 0.6,
+        "Fi": 0.68,
+        "Fe": 0.59,
+        "Si": 0.55,
+        "Se": 0.6,
+        "Assertive": 0.36,
+        "Turbulent": 0.36
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "梦"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7480028295781170275,
+      "workId": 3601793797802308226,
+      "workName": "带我去寻找",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.7,
+        "Ti": 0.4,
+        "Te": 0.36,
+        "Fi": 0.73,
+        "Fe": 0.27,
+        "Si": 0.55,
+        "Se": 0.39,
+        "Assertive": 0.35,
+        "Turbulent": 0.4
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "开放"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "价值",
+            "自由"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2445394233934515896,
+      "workId": 3874393776085777672,
+      "workName": "Woman I",
+      "scores": {
+        "Ni": 0.41,
+        "Ne": 0.43,
+        "Ti": 0.48,
+        "Te": 0.35,
+        "Fi": 0.69,
+        "Fe": 0.3,
+        "Si": 0.72,
+        "Se": 0.61,
+        "Assertive": 0.37,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化",
+            "反复"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "视觉",
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2373540122874069483,
+      "workId": 3970682113894865051,
+      "workName": "我的前半生",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.41,
+        "Ti": 0.24,
+        "Te": 0.61,
+        "Fi": 0.69,
+        "Fe": 0.74,
+        "Si": 0.52,
+        "Se": 0.28,
+        "Assertive": 0.44,
+        "Turbulent": 0.57
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "竞争"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "女性",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系",
+            "友情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 85982011771431376,
+      "workId": 4145339727113510593,
+      "workName": "乡愁",
+      "scores": {
+        "Ni": 0.71,
+        "Ne": 0.39,
+        "Ti": 0.6,
+        "Te": 0.36,
+        "Fi": 0.69,
+        "Fe": 0.53,
+        "Si": 0.54,
+        "Se": 0.29,
+        "Assertive": 0.47,
+        "Turbulent": 0.8
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "乡愁",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7672722398617937441,
+      "workId": 4149449345360302567,
+      "workName": "我不难过",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.45,
+        "Te": 0.35,
+        "Fi": 0.47,
+        "Fe": 0.3,
+        "Si": 0.53,
+        "Se": 0.35,
+        "Assertive": 0.46,
+        "Turbulent": 0.47
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "关系"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3715860319233359442,
+      "workId": 4169283078084536317,
+      "workName": "Whenever, Wherever",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.39,
+        "Ti": 0.4,
+        "Te": 0.38,
+        "Fi": 0.69,
+        "Fe": 0.56,
+        "Si": 0.54,
+        "Se": 0.38,
+        "Assertive": 0.65,
+        "Turbulent": 0.32
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自由",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3251617414911370197,
+      "workId": 4236916339387240030,
+      "workName": "雪城",
+      "scores": {
+        "Ni": 0.46,
+        "Ne": 0.4,
+        "Ti": 0.52,
+        "Te": 0.62,
+        "Fi": 0.29,
+        "Fe": 0.7,
+        "Si": 0.31,
+        "Se": 0.29,
+        "Assertive": 0.66,
+        "Turbulent": 0.48
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7477906416251278853,
+      "workId": 4397968016698512600,
+      "workName": "翻身的日子",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.68,
+        "Ti": 0.35,
+        "Te": 0.38,
+        "Fi": 0.48,
+        "Fe": 0.57,
+        "Si": 0.31,
+        "Se": 0.67,
+        "Assertive": 0.45,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "生命"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "变化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7893162077106437400,
+      "workId": 4519726494819913923,
+      "workName": "百花图卷",
+      "scores": {
+        "Ni": 0.41,
+        "Ne": 0.4,
+        "Ti": 0.48,
+        "Te": 0.36,
+        "Fi": 0.43,
+        "Fe": 0.29,
+        "Si": 0.55,
+        "Se": 0.62,
+        "Assertive": 0.47,
+        "Turbulent": 0.55
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "视觉",
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 800776171289667664,
+      "workId": 4608665179056483970,
+      "workName": "独臂刀",
+      "scores": {
+        "Ni": 0.62,
+        "Ne": 0.42,
+        "Ti": 0.43,
+        "Te": 0.36,
+        "Fi": 0.46,
+        "Fe": 0.26,
+        "Si": 0.32,
+        "Se": 0.7,
+        "Assertive": 0.64,
+        "Turbulent": 0.57
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "命运"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "成长"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "动作",
+            "身体",
+            "声音",
+            "节奏",
+            "表演"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3883958922307833554,
+      "workId": 4625991524354186968,
+      "workName": "遇见",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.71,
+        "Ti": 0.39,
+        "Te": 0.61,
+        "Fi": 0.7,
+        "Fe": 0.28,
+        "Si": 0.52,
+        "Se": 0.66,
+        "Assertive": 0.47,
+        "Turbulent": 0.47
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "未来"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "开放"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 211990619652807068,
+      "workId": 4846497823436962165,
+      "workName": "Portrait de la jeune fille en feu",
+      "scores": {
+        "Ni": 0.78,
+        "Ne": 0.4,
+        "Ti": 0.37,
+        "Te": 0.36,
+        "Fi": 0.73,
+        "Fe": 0.63,
+        "Si": 0.74,
+        "Se": 0.64,
+        "Assertive": 0.54,
+        "Turbulent": 0.36
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "记忆",
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "爱情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3774694512775137594,
+      "workId": 5038841683590553408,
+      "workName": "只此青绿",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.42,
+        "Ti": 0.44,
+        "Te": 0.61,
+        "Fi": 0.46,
+        "Fe": 0.59,
+        "Si": 0.54,
+        "Se": 0.6,
+        "Assertive": 0.31,
+        "Turbulent": 0.54
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "观众",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "色彩",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 66549331900874370,
+      "workId": 5195439186900266553,
+      "workName": "Paranoid Android",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.44,
+        "Ti": 0.54,
+        "Te": 0.36,
+        "Fi": 0.48,
+        "Fe": 0.25,
+        "Si": 0.51,
+        "Se": 0.37,
+        "Assertive": 0.59,
+        "Turbulent": 0.49
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5125154103375237015,
+      "workId": 5232118428078598373,
+      "workName": "Odes",
+      "scores": {
+        "Ni": 0.84,
+        "Ne": 0.43,
+        "Ti": 0.65,
+        "Te": 0.36,
+        "Fi": 0.29,
+        "Fe": 0.58,
+        "Si": 0.55,
+        "Se": 0.28,
+        "Assertive": 0.59,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义",
+            "政治理想",
+            "生命"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "爱情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 1848275895290291030,
+      "workId": 5391980431070548502,
+      "workName": "Caramel",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.41,
+        "Ti": 0.44,
+        "Te": 0.37,
+        "Fi": 0.7,
+        "Fe": 0.67,
+        "Si": 0.74,
+        "Se": 0.64,
+        "Assertive": 0.52,
+        "Turbulent": 0.43
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "女性"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "爱情",
+            "温暖"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "日常",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2499984820566841289,
+      "workId": 5609160403766665594,
+      "workName": "On Call 36小时",
+      "scores": {
+        "Ni": 0.61,
+        "Ne": 0.42,
+        "Ti": 0.59,
+        "Te": 0.63,
+        "Fi": 0.25,
+        "Fe": 0.68,
+        "Si": 0.32,
+        "Se": 0.28,
+        "Assertive": 0.62,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "责任"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系",
+            "责任"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 1086528340118970105,
+      "workId": 5625943561113358450,
+      "workName": "Museu Brasileiro da Escultura",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.69,
+        "Ti": 0.76,
+        "Te": 0.81,
+        "Fi": 0.45,
+        "Fe": 0.29,
+        "Si": 0.54,
+        "Se": 0.55,
+        "Assertive": 0.71,
+        "Turbulent": 0.37
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "开放"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "组织",
+            "公共"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2622020298202275924,
+      "workId": 5719574556540249379,
+      "workName": "무정",
+      "scores": {
+        "Ni": 0.43,
+        "Ne": 0.43,
+        "Ti": 0.56,
+        "Te": 0.64,
+        "Fi": 0.25,
+        "Fe": 0.64,
+        "Si": 0.32,
+        "Se": 0.27,
+        "Assertive": 0.8,
+        "Turbulent": 0.36
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "爱情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3197354851493409122,
+      "workId": 5737887293488782445,
+      "workName": "The Underground Railroad",
+      "scores": {
+        "Ni": 0.67,
+        "Ne": 0.67,
+        "Ti": 0.62,
+        "Te": 0.81,
+        "Fi": 0.71,
+        "Fe": 0.58,
+        "Si": 0.76,
+        "Se": 0.29,
+        "Assertive": 0.65,
+        "Turbulent": 0.6
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "神话"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "重写"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "制度"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "自由"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "历史",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 1513811376476286613,
+      "workId": 5848311133333728372,
+      "workName": "华威先生",
+      "scores": {
+        "Ni": 0.42,
+        "Ne": 0.43,
+        "Ti": 0.5,
+        "Te": 0.8,
+        "Fi": 0.48,
+        "Fe": 0.59,
+        "Si": 0.51,
+        "Se": 0.51,
+        "Assertive": 0.34,
+        "Turbulent": 0.63
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "表演"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8531432559315388863,
+      "workId": 5856995207928736503,
+      "workName": "倩女幽魂",
+      "scores": {
+        "Ni": 0.35,
+        "Ne": 0.41,
+        "Ti": 0.31,
+        "Te": 0.38,
+        "Fi": 0.25,
+        "Fe": 0.62,
+        "Si": 0.3,
+        "Se": 0.62,
+        "Assertive": 0.43,
+        "Turbulent": 0.34
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "爱情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8600704383529155131,
+      "workId": 5874102122063453749,
+      "workName": "公仆",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.42,
+        "Ti": 0.45,
+        "Te": 0.36,
+        "Fi": 0.44,
+        "Fe": 0.68,
+        "Si": 0.53,
+        "Se": 0.62,
+        "Assertive": 0.44,
+        "Turbulent": 0.47
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "日常"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8041270985030383369,
+      "workId": 5875484636793589897,
+      "workName": "甜蜜蜜",
+      "scores": {
+        "Ni": 0.78,
+        "Ne": 0.39,
+        "Ti": 0.39,
+        "Te": 0.61,
+        "Fi": 0.27,
+        "Fe": 0.31,
+        "Si": 0.55,
+        "Se": 0.37,
+        "Assertive": 0.41,
+        "Turbulent": 0.57
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "梦",
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8338670198721180380,
+      "workId": 6202226613158755469,
+      "workName": "黑炮事件",
+      "scores": {
+        "Ni": 0.4,
+        "Ne": 0.41,
+        "Ti": 0.42,
+        "Te": 0.37,
+        "Fi": 0.46,
+        "Fe": 0.56,
+        "Si": 0.55,
+        "Se": 0.63,
+        "Assertive": 0.61,
+        "Turbulent": 0.55
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4358353197535365594,
+      "workId": 6239471480979331127,
+      "workName": "耕织图",
+      "scores": {
+        "Ni": 0.42,
+        "Ne": 0.72,
+        "Ti": 0.57,
+        "Te": 0.61,
+        "Fi": 0.44,
+        "Fe": 0.58,
+        "Si": 0.3,
+        "Se": 0.59,
+        "Assertive": 0.41,
+        "Turbulent": 0.73
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "实验"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "生产"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "视觉",
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7723191090862698368,
+      "workId": 6242899642007892319,
+      "workName": "这个杀手不太冷静",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.42,
+        "Ti": 0.57,
+        "Te": 0.37,
+        "Fi": 0.45,
+        "Fe": 0.57,
+        "Si": 0.32,
+        "Se": 0.64,
+        "Assertive": 0.42,
+        "Turbulent": 0.51
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 22538803587160085,
+      "workId": 6319922793374771331,
+      "workName": "山海旅人",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.75,
+        "Ti": 0.63,
+        "Te": 0.61,
+        "Fi": 0.46,
+        "Fe": 0.28,
+        "Si": 0.74,
+        "Se": 0.65,
+        "Assertive": 0.43,
+        "Turbulent": 0.51
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "梦"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化",
+            "仪式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5989535109666661209,
+      "workId": 6467236253740496860,
+      "workName": "让世界充满爱",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.7,
+        "Ti": 0.34,
+        "Te": 0.36,
+        "Fi": 0.45,
+        "Fe": 0.61,
+        "Si": 0.51,
+        "Se": 0.67,
+        "Assertive": 0.42,
+        "Turbulent": 0.46
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "共同体"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6774685024463562207,
+      "workId": 6488184448049174153,
+      "workName": "미르의 전설 2",
+      "scores": {
+        "Ni": 0.39,
+        "Ne": 0.86,
+        "Ti": 0.69,
+        "Te": 0.63,
+        "Fi": 0.69,
+        "Fe": 0.57,
+        "Si": 0.53,
+        "Se": 0.67,
+        "Assertive": 0.45,
+        "Turbulent": 0.57
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索",
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人",
+            "成长"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "战斗"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6821519538792846231,
+      "workId": 6511900300389341651,
+      "workName": "Lord of the Flies",
+      "scores": {
+        "Ni": 0.44,
+        "Ne": 0.42,
+        "Ti": 0.56,
+        "Te": 0.62,
+        "Fi": 0.47,
+        "Fe": 0.59,
+        "Si": 0.53,
+        "Se": 0.27,
+        "Assertive": 0.5,
+        "Turbulent": 0.43
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "秩序"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 850048340211508366,
+      "workId": 6760741523043644749,
+      "workName": "花火",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.37,
+        "Te": 0.35,
+        "Fi": 0.45,
+        "Fe": 0.57,
+        "Si": 0.74,
+        "Se": 0.63,
+        "Assertive": 0.21,
+        "Turbulent": 0.55
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "日常",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6512855407952202944,
+      "workId": 6772267543808862974,
+      "workName": "大醉侠",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.43,
+        "Ti": 0.5,
+        "Te": 0.37,
+        "Fi": 0.47,
+        "Fe": 0.56,
+        "Si": 0.75,
+        "Se": 0.63,
+        "Assertive": 0.57,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "空间",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 840251341433661936,
+      "workId": 6837120259752018753,
+      "workName": "单身情歌",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.41,
+        "Ti": 0.32,
+        "Te": 0.37,
+        "Fi": 0.72,
+        "Fe": 0.58,
+        "Si": 0.31,
+        "Se": 0.37,
+        "Assertive": 0.48,
+        "Turbulent": 0.34
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "群体",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2958601597507904721,
+      "workId": 6948457421117787459,
+      "workName": "The Rime of the Ancient Mariner",
+      "scores": {
+        "Ni": 0.72,
+        "Ne": 0.43,
+        "Ti": 0.55,
+        "Te": 0.37,
+        "Fi": 0.27,
+        "Fe": 0.28,
+        "Si": 0.34,
+        "Se": 0.28,
+        "Assertive": 0.77,
+        "Turbulent": 0.59
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8101421609588551446,
+      "workId": 6990471762687708756,
+      "workName": "The Shaming of the True",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.26,
+        "Te": 0.6,
+        "Fi": 0.52,
+        "Fe": 0.3,
+        "Si": 0.32,
+        "Se": 0.37,
+        "Assertive": 0.46,
+        "Turbulent": 0.45
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式",
+            "概念"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "工业"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7331993570826875023,
+      "workId": 7051376864268898861,
+      "workName": "Hips Don’t Lie",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.42,
+        "Ti": 0.44,
+        "Te": 0.37,
+        "Fi": 0.48,
+        "Fe": 0.29,
+        "Si": 0.54,
+        "Se": 0.65,
+        "Assertive": 0.55,
+        "Turbulent": 0.48
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "表演"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 9024682557874272751,
+      "workId": 7279022688713316649,
+      "workName": "出云大社庁の舎",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.4,
+        "Ti": 0.8,
+        "Te": 0.82,
+        "Fi": 0.25,
+        "Fe": 0.27,
+        "Si": 0.56,
+        "Se": 0.59,
+        "Assertive": 0.6,
+        "Turbulent": 0.38
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "公共"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8921209657016196002,
+      "workId": 7300418411752544878,
+      "workName": "压岁钱",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.43,
+        "Ti": 0.44,
+        "Te": 0.37,
+        "Fi": 0.46,
+        "Fe": 0.69,
+        "Si": 0.56,
+        "Se": 0.64,
+        "Assertive": 0.55,
+        "Turbulent": 0.28
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8393942728371985546,
+      "workId": 7485094348042113126,
+      "workName": "언디셈버",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.86,
+        "Ti": 0.71,
+        "Te": 0.63,
+        "Fi": 0.68,
+        "Fe": 0.3,
+        "Si": 0.52,
+        "Se": 0.71,
+        "Assertive": 0.61,
+        "Turbulent": 0.44
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索",
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值",
+            "自由",
+            "成长"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "动作",
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 3562841959797239550,
+      "workId": 7515006340018161766,
+      "workName": "Cyberangel",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.42,
+        "Ti": 0.42,
+        "Te": 0.37,
+        "Fi": 0.46,
+        "Fe": 0.26,
+        "Si": 0.55,
+        "Se": 0.66,
+        "Assertive": 0.5,
+        "Turbulent": 0.45
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4821610762071078324,
+      "workId": 7529218143276934750,
+      "workName": "思乡曲",
+      "scores": {
+        "Ni": 0.61,
+        "Ne": 0.43,
+        "Ti": 0.38,
+        "Te": 0.35,
+        "Fi": 0.52,
+        "Fe": 0.29,
+        "Si": 0.73,
+        "Se": 0.39,
+        "Assertive": 0.3,
+        "Turbulent": 0.41
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆",
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 6184456940789669719,
+      "workId": 7636698259753621915,
+      "workName": "减租会",
+      "scores": {
+        "Ni": 0.42,
+        "Ne": 0.41,
+        "Ti": 0.38,
+        "Te": 0.79,
+        "Fi": 0.46,
+        "Fe": 0.59,
+        "Si": 0.33,
+        "Se": 0.62,
+        "Assertive": 0.4,
+        "Turbulent": 0.66
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动",
+            "公共"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "视觉",
+            "节奏",
+            "材料"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5756559324127776159,
+      "workId": 7694812679230792005,
+      "workName": "时间都去哪儿了",
+      "scores": {
+        "Ni": 0.59,
+        "Ne": 0.4,
+        "Ti": 0.39,
+        "Te": 0.35,
+        "Fi": 0.47,
+        "Fe": 0.66,
+        "Si": 0.55,
+        "Se": 0.37,
+        "Assertive": 0.65,
+        "Turbulent": 0.25
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "日常"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7870468611775736080,
+      "workId": 7901023437970266522,
+      "workName": "Dishonored",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.75,
+        "Ti": 0.68,
+        "Te": 0.6,
+        "Fi": 0.47,
+        "Fe": 0.53,
+        "Si": 0.33,
+        "Se": 0.66,
+        "Assertive": 0.51,
+        "Turbulent": 0.45
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 5846014605717336030,
+      "workId": 7937910640961499251,
+      "workName": "Alien",
+      "scores": {
+        "Ni": 0.38,
+        "Ne": 0.38,
+        "Ti": 0.63,
+        "Te": 0.61,
+        "Fi": 0.44,
+        "Fe": 0.39,
+        "Si": 0.34,
+        "Se": 0.65,
+        "Assertive": 0.14,
+        "Turbulent": 0.75
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "工业"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "声音",
+            "节奏",
+            "表演",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 32038750570414278,
+      "workId": 8198612339204912720,
+      "workName": "もっとも大いなる愛へ",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.37,
+        "Te": 0.61,
+        "Fi": 0.71,
+        "Fe": 0.64,
+        "Si": 0.54,
+        "Se": 0.6,
+        "Assertive": 0.31,
+        "Turbulent": 0.41
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "行动"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "自我",
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "关系",
+            "爱情",
+            "观众"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "身体",
+            "节奏",
+            "表演",
+            "空间",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2456157392712829683,
+      "workId": 8573438853686258684,
+      "workName": "梧桐雨",
+      "scores": {
+        "Ni": 0.72,
+        "Ne": 0.43,
+        "Ti": 0.48,
+        "Te": 0.36,
+        "Fi": 0.74,
+        "Fe": 0.61,
+        "Si": 0.78,
+        "Se": 0.54,
+        "Assertive": 0.75,
+        "Turbulent": 0.83
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "孤独",
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "爱情"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "历史",
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "舞台"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 4152665529274515535,
+      "workId": 8590974952503471492,
+      "workName": "ペルソナ5",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.86,
+        "Ti": 0.73,
+        "Te": 0.8,
+        "Fi": 0.25,
+        "Fe": 0.29,
+        "Si": 0.3,
+        "Se": 0.66,
+        "Assertive": 0.4,
+        "Turbulent": 0.47
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "探索",
+            "世界"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "规则",
+            "系统",
+            "形式",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织",
+            "策略"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间",
+            "战斗"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 1005354830907441667,
+      "workId": 8616923037402975503,
+      "workName": "海岸线",
+      "scores": {
+        "Ni": 0.36,
+        "Ne": 0.42,
+        "Ti": 0.68,
+        "Te": 0.6,
+        "Fi": 0.45,
+        "Fe": 0.29,
+        "Si": 0.74,
+        "Se": 0.32,
+        "Assertive": 0.4,
+        "Turbulent": 0.54
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "公共"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "个人"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "传统",
+            "日常",
+            "仪式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7825426198356541176,
+      "workId": 8720468171620602847,
+      "workName": "月亮代表我的心",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.42,
+        "Ti": 0.44,
+        "Te": 0.39,
+        "Fi": 0.72,
+        "Fe": 0.63,
+        "Si": 0.74,
+        "Se": 0.36,
+        "Assertive": 0.66,
+        "Turbulent": 0.39
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "私人",
+            "情感",
+            "爱意"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "反复",
+            "稳定"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7538970889523954150,
+      "workId": 8751273067296238335,
+      "workName": "喋血双雄",
+      "scores": {
+        "Ni": 0.37,
+        "Ne": 0.44,
+        "Ti": 0.34,
+        "Te": 0.59,
+        "Fi": 0.25,
+        "Fe": 0.56,
+        "Si": 0.32,
+        "Se": 0.69,
+        "Assertive": 0.46,
+        "Turbulent": 0.29
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [
+            "组织"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "动作",
+            "声音",
+            "节奏",
+            "表演",
+            "镜头"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 8604924139473806939,
+      "workId": 8829513150005812327,
+      "workName": "Ars Poetica",
+      "scores": {
+        "Ni": 0.71,
+        "Ne": 0.41,
+        "Ti": 0.67,
+        "Te": 0.37,
+        "Fi": 0.49,
+        "Fe": 0.57,
+        "Si": 0.56,
+        "Se": 0.27,
+        "Assertive": 0.64,
+        "Turbulent": 0.68
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "价值"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "社会"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "文化"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 7335507820865730202,
+      "workId": 9173414709838203778,
+      "workName": "繁花",
+      "scores": {
+        "Ni": 0.6,
+        "Ne": 0.68,
+        "Ti": 0.53,
+        "Te": 0.36,
+        "Fi": 0.44,
+        "Fe": 0.7,
+        "Si": 0.32,
+        "Se": 0.54,
+        "Assertive": 0.63,
+        "Turbulent": 0.3
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "时间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [
+            "开放"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [
+            "情感"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [
+            "家庭",
+            "关系",
+            "传播"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏",
+            "空间"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    },
+    {
+      "profileId": 2793820834533684230,
+      "workId": 9216567550922974834,
+      "workName": "听听那冷雨",
+      "scores": {
+        "Ni": 0.83,
+        "Ne": 0.4,
+        "Ti": 0.65,
+        "Te": 0.37,
+        "Fi": 0.28,
+        "Fe": 0.29,
+        "Si": 0.76,
+        "Se": 0.29,
+        "Assertive": 0.75,
+        "Turbulent": 0.55
+      },
+      "basis": {
+        "Ni": {
+          "keywords": [
+            "意义",
+            "记忆"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ne": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Ti": {
+          "keywords": [
+            "结构",
+            "形式"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Te": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fi": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Fe": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Si": {
+          "keywords": [
+            "记忆",
+            "历史"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Se": {
+          "keywords": [
+            "节奏"
+          ],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Assertive": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        },
+        "Turbulent": {
+          "keywords": [],
+          "method": "CPR维度、内容语义、媒介特征与跨作品校准"
+        }
+      }
+    }
+  ]
+}

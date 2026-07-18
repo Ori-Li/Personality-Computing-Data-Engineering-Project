@@ -1,0 +1,2090 @@
+[
+{
+"id": "realCharacter_chn_-340_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 5,
+"beginCentury": -340,
+"endCentury": -278,
+"names": [
+{ "language": 0, "name": "屈原" },
+{ "language": 1, "name": "屈原" },
+{ "language": 2, "name": "Qu Yuan" },
+{ "language": 3, "name": "屈平" }
+],
+"introduction": "屈原（约前340—约前278），战国时期楚国诗人、政治家。早年受楚怀王信任，任左徒、三闾大夫，主张联齐抗秦。后遭贵族排挤毁谤，被先后流放汉北与沅湘流域。秦将白起攻破楚国郢都后，屈原自沉汨罗江殉国。他是中国历史上第一位伟大的爱国诗人，创立了“楚辞”文体，其作品《离骚》《九歌》《九章》《天问》等充满了对理想、政治与宇宙的追问，文辞瑰丽、想象奇崛，对后世文学影响深远。端午节亦因纪念他而流传。",
+"ownWork": [
+{ "workChineseName": "离骚", "workOriginalName": "离骚", "workId": "work_chn_-340_001", "relationType": 1 },
+{ "workChineseName": "九歌", "workOriginalName": "九歌", "workId": "work_chn_-340_002", "relationType": 1 },
+{ "workChineseName": "九章", "workOriginalName": "九章", "workId": "work_chn_-340_003", "relationType": 1 },
+{ "workChineseName": "天问", "workOriginalName": "天问", "workId": "work_chn_-340_004", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_unknown_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 10,
+"beginCentury": null,
+"endCentury": 336,
+"names": [
+{ "language": 0, "name": "干宝" },
+{ "language": 1, "name": "干宝" },
+{ "language": 2, "name": "Gan Bao" },
+{ "language": 3, "name": "令升" }
+],
+"introduction": "干宝（？—336），字令升，东晋史学家、文学家。祖籍新蔡（今属河南）。曾任始安太守、司徒右长史等职。其最有名的著作为志怪小说集《搜神记》，记述了大量神异鬼怪故事，成为六朝志怪小说的代表作，对后世唐传奇、宋元话本及明清神魔小说影响极大。此外还著有《晋纪》，有良史之誉，原书已佚。",
+"ownWork": [
+{ "workChineseName": "搜神记", "workOriginalName": "搜神记", "workId": "work_chn_0336_001", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_1949_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 21,
+"beginCentury": 1949,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "梁晓声" },
+{ "language": 1, "name": "梁晓声" },
+{ "language": 2, "name": "Liang Xiaosheng" }
+],
+"introduction": "梁晓声，1949年生于哈尔滨，中国当代作家，北京语言大学人文学院教授。代表作品有《雪城》《年轮》《今夜有暴风雪》《人世间》等。他以对知青一代和底层市民生活的深刻描绘著称，作品多关注社会变迁中的人性温度，笔触沉实厚重。长篇小说《人世间》获第十届茅盾文学奖，并改编为同名电视剧，引发广泛共鸣。",
+"ownWork": [
+{ "workChineseName": "雪城", "workOriginalName": "雪城", "workId": "work_chn_1949_001", "relationType": 1 },
+{ "workChineseName": "人世间", "workOriginalName": "人世间", "workId": "work_chn_1949_002", "relationType": 1 },
+{ "workChineseName": "今夜有暴风雪", "workOriginalName": "今夜有暴风雪", "workId": "work_chn_1949_003", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_1226_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 17,
+"beginCentury": 1226,
+"endCentury": 1306,
+"names": [
+{ "language": 0, "name": "白朴" },
+{ "language": 1, "name": "白朴" },
+{ "language": 2, "name": "Bai Pu" },
+{ "language": 3, "name": "恒轩" }
+],
+"introduction": "白朴（1226—约1306），原名恒，字仁甫，后改名朴，字太素，号兰谷。元代著名杂剧作家，与关汉卿、马致远、郑光祖并称“元曲四大家”。祖籍隩州（今山西河曲），一生经历金元易代，多寓居金陵。所作杂剧今存《梧桐雨》《墙头马上》等，曲词清丽优美，长于抒情。《梧桐雨》写唐明皇与杨贵妃故事，被视为元曲悲美风格的代表。",
+"ownWork": [
+{ "workChineseName": "梧桐雨", "workOriginalName": "梧桐雨", "workId": "work_chn_1226_001", "relationType": 1 },
+{ "workChineseName": "墙头马上", "workOriginalName": "墙头马上", "workId": "work_chn_1226_002", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_1928_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 21,
+"beginCentury": 1928,
+"endCentury": 2017,
+"names": [
+{ "language": 0, "name": "余光中" },
+{ "language": 1, "name": "余光中" },
+{ "language": 2, "name": "Yu Guangzhong" }
+],
+"introduction": "余光中（1928—2017），中国当代作家、诗人、翻译家。生于南京，1949年后移居台湾。其创作涵盖诗歌、散文、评论、翻译，风格多变。代表作《乡愁》以邮票、船票、坟墓、海峡等意象表达了游子对故土的思念，成为华语世界流传最广的现代诗之一。散文《听听那冷雨》等也以博雅精工著称。他曾任教于多所大学，推动华文文学交流，是台湾现代主义诗歌的重要代表。",
+"ownWork": [
+{ "workChineseName": "乡愁", "workOriginalName": "乡愁", "workId": "work_chn_1928_001", "relationType": 1 },
+{ "workChineseName": "听听那冷雨", "workOriginalName": "听听那冷雨", "workId": "work_chn_1928_002", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_1906_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 21,
+"beginCentury": 1906,
+"endCentury": 1985,
+"names": [
+{ "language": 0, "name": "张天翼" },
+{ "language": 1, "name": "张天翼" },
+{ "language": 2, "name": "Zhang Tianyi" }
+],
+"introduction": "张天翼（1906—1985），中国现代作家、儿童文学作家。原名张元定，湖南湘乡人。早年以讽刺小说闻名，代表作《华威先生》刻画了一位官僚主义的形象。新中国成立后主要从事儿童文学创作，《宝葫芦的秘密》《大林和小林》等作品以奇幻情节和幽默笔法深受小读者喜爱，成为中国儿童文学的经典。其语言活泼灵动，善于将现实批判融入童话框架。",
+"ownWork": [
+{ "workChineseName": "华威先生", "workOriginalName": "华威先生", "workId": "work_chn_1906_001", "relationType": 1 },
+{ "workChineseName": "宝葫芦的秘密", "workOriginalName": "宝葫芦的秘密", "workId": "work_chn_1906_002", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_chn_1979_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1979,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "杨怡" },
+{ "language": 1, "name": "杨怡" },
+{ "language": 2, "name": "Tavia Yeung" }
+],
+"introduction": "杨怡，1979年生于香港，香港影视女演员。1999年加入无线电视，凭《溏心风暴之家好月圆》《宫心计》《名媛望族》等剧集成名。她以扎实的演技和端庄形象受到认可，2012年凭《名媛望族》获TVB万千星辉颁奖典礼最佳女主角。其戏路宽广，能驾驭奸角、喜剧与深情角色，是千禧年后港剧的代表性演员之一。",
+"ownWork": [
+{ "workChineseName": "宫心计", "workOriginalName": "宮心計", "workId": "work_chn_1979_001", "relationType": 24 },
+{ "workChineseName": "名媛望族", "workOriginalName": "名媛望族", "workId": "work_chn_1979_002", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1954_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1954,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "黄建新" },
+{ "language": 1, "name": "黄建新" },
+{ "language": 2, "name": "Huang Jianxin" }
+],
+"introduction": "黄建新，1954年生于西安，中国电影导演、编剧、制片人。1985年执导处女作《黑炮事件》一鸣惊人，其后拍摄《站直啰，别趴下》《背靠背，脸对脸》《求求你，表扬我》等作品，长于以黑色幽默和精妙结构揭示社会与人性的矛盾。他还担任《建国大业》《建党伟业》等主旋律大片的监制或导演，在主流叙事与个人表达间找到平衡。",
+"ownWork": [
+{ "workChineseName": "黑炮事件", "workOriginalName": "黑炮事件", "workId": "work_chn_1954_001", "relationType": 2 },
+{ "workChineseName": "背靠背，脸对脸", "workOriginalName": "背靠背，脸对脸", "workId": "work_chn_1954_002", "relationType": 2 }
+]
+},
+{
+"id": "realCharacter_chn_1979_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 9,
+"dynasty": 21,
+"beginCentury": 1979,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "高博" },
+{ "language": 1, "name": "高博" },
+{ "language": 2, "name": "Gao Bo" }
+],
+"introduction": "高博，1979年生，内蒙古包头人，中国中央电视台主持人。毕业于中国传媒大学，曾主持《大风车》《智慧树》等少儿节目，后转向财经和综艺领域，主持《经济半小时》《天天饮食》等。他风格亲切自然，应变能力强，并多次担任大型晚会主持，是央视中生代主持人中的代表。",
+"ownWork": [
+{ "workChineseName": "天天饮食", "workOriginalName": "天天饮食", "workId": "work_chn_1979_003", "relationType": 5 }
+]
+},
+{
+"id": "realCharacter_chn_1979_003",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1979,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "魏翔" },
+{ "language": 1, "name": "魏翔" },
+{ "language": 2, "name": "Wei Xiang" }
+],
+"introduction": "魏翔，1979年生，中国内地影视男演员。早年服役于武警重庆总队文工团，后考入北京电影学院。以开心麻花舞台剧为起点，参演《夏洛特烦恼》《西虹市首富》等喜剧电影，凭借夸张而富有节奏感的表演为观众熟知。2022年首次担任男主角主演《这个杀手不太冷静》，展现了收放自如的喜剧功底。",
+"ownWork": [
+{ "workChineseName": "这个杀手不太冷静", "workOriginalName": "这个杀手不太冷静", "workId": "work_chn_1979_004", "relationType": 24 },
+{ "workChineseName": "西虹市首富", "workOriginalName": "西虹市首富", "workId": "work_chn_1979_005", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1953_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1953,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "程小东" },
+{ "language": 1, "name": "程小东" },
+{ "language": 2, "name": "Ching Siu-tung" }
+],
+"introduction": "程小东，1953年生于香港，中国动作导演、武术指导。原名程冬儿，自幼随父程刚学习京戏与武术。八十年代开始担任电影武术指导及导演，代表作有《倩女幽魂》系列、《笑傲江湖Ⅱ：东方不败》《英雄》等。他擅长将舞蹈韵律与钢丝特技结合，营造凌空飘逸的视觉奇观，是华语电影新派武侠美学的标志人物。",
+"ownWork": [
+{ "workChineseName": "倩女幽魂", "workOriginalName": "倩女幽魂", "workId": "work_chn_1953_001", "relationType": 2 },
+{ "workChineseName": "笑傲江湖Ⅱ：东方不败", "workOriginalName": "笑傲江湖Ⅱ：東方不敗", "workId": "work_chn_1953_002", "relationType": 2 }
+]
+},
+{
+"id": "realCharacter_chn_1963_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1963,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "梁碧波" },
+{ "language": 1, "name": "梁碧波" },
+{ "language": 2, "name": "Liang Bibo" }
+],
+"introduction": "梁碧波，1963年生于四川，中国纪录片导演。代表作有《三节草》《婚事》《老镜子》等。他长期关注中国乡土社会变迁，以人类学视角和沉稳镜头记录普通人在现代化进程中的命运。作品屡获国内外纪录片大奖，并被多所高校作为教学范例。",
+"ownWork": [
+{ "workChineseName": "三节草", "workOriginalName": "三节草", "workId": "work_chn_1963_001", "relationType": 2 }
+]
+},
+{
+"id": "realCharacter_chn_1982_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1982,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "秦雯" },
+{ "language": 1, "name": "秦雯" },
+{ "language": 2, "name": "Qin Wen" }
+],
+"introduction": "秦雯，1982年生，中国编剧。毕业于中央戏剧学院戏剧文学系。代表作品有电视剧《我的前半生》《赘婿》《流金岁月》等。她善于将都市情感故事与现实议题结合，人物对白鲜活，结构扎实，尤其在改编作品中能够平衡原作精神与本土语境，是当前热播剧的重要编剧之一。",
+"ownWork": [
+{ "workChineseName": "我的前半生", "workOriginalName": "我的前半生", "workId": "work_chn_1982_001", "relationType": 3 }
+]
+},
+{
+"id": "realCharacter_chn_1925_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 5,
+"gender": 0,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1925,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "邵氏兄弟" },
+{ "language": 1, "name": "邵氏兄弟" },
+{ "language": 2, "name": "Shaw Brothers" }
+],
+"introduction": "邵氏兄弟有限公司，1925年由邵醉翁、邵邨人、邵仁枚、邵逸夫在上海创立，后主基地移至香港。以庞大的片厂体系和垂直整合经营模式成为华语电影黄金时代的重要推手，出品影片逾千部，涵盖黄梅调、武侠、宫闱、文艺等多种类型。旗下拥有李翰祥、胡金铨、张彻等导演，推动了香港电影的第一次繁荣。1970年代后产量减少，其品牌至今仍具文化影响。",
+"ownWork": [
+{ "workChineseName": "大醉侠", "workOriginalName": "大醉侠", "workId": "work_chn_1925_001", "relationType": 4 },
+{ "workChineseName": "独臂刀", "workOriginalName": "獨臂刀", "workId": "work_chn_1925_002", "relationType": 4 }
+]
+},
+{
+"id": "realCharacter_chn_1989_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1989,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "张含韵" },
+{ "language": 1, "name": "张含韵" },
+{ "language": 2, "name": "Kristy Zhang" }
+],
+"introduction": "张含韵，1989年生于四川德阳，中国内地流行女歌手、演员。2004年参加《超级女声》获全国总决赛季军出道，以《酸酸甜甜就是我》等歌曲广为人知。后转向影视发展，出演《兰陵王妃》《知否？知否？应是绿肥红瘦》等剧。近年来在《乘风破浪的姐姐》等综艺中展示成熟舞台魅力，完成了从少女偶像到全能艺人的转型。",
+"ownWork": [
+{ "workChineseName": "酸酸甜甜就是我", "workOriginalName": "酸酸甜甜就是我", "workId": "work_chn_1989_001", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1952_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1952,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "李修贤" },
+{ "language": 1, "name": "李修贤" },
+{ "language": 2, "name": "Danny Lee" }
+],
+"introduction": "李修贤，1952年生于上海，香港影视演员、导演、制片人。1970年代以邵氏演员出道，后凭借《公仆》获香港电影金像奖与金马奖双料影帝。他经常饰演警察等正面角色，塑造了正义强硬的银幕形象。导演作品《流氓公仆》等延续警匪片路线，同时参与《喋血双雄》等影片，见证了港产警匪片的辉煌年代。",
+"ownWork": [
+{ "workChineseName": "公仆", "workOriginalName": "公僕", "workId": "work_chn_1952_001", "relationType": 24 },
+{ "workChineseName": "喋血双雄", "workOriginalName": "喋血雙雄", "workId": "work_chn_1952_002", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1990_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1990,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "李一桐" },
+{ "language": 1, "name": "李一桐" },
+{ "language": 2, "name": "Li Yitong" }
+],
+"introduction": "李一桐，1990年生于山东济南，中国内地影视女演员。毕业于北京舞蹈学院。2015年因在《半妖倾城》中饰演女主角步入演艺圈。其后凭《射雕英雄传》中黄蓉一角获得广泛关注，以灵动自然的表演受到好评。代表作还有《鹤唳华亭》《狂飙》等，持续在古装与现代题材间拓宽戏路。",
+"ownWork": [
+{ "workChineseName": "射雕英雄传", "workOriginalName": "射雕英雄传", "workId": "work_chn_1990_001", "relationType": 24 },
+{ "workChineseName": "鹤唳华亭", "workOriginalName": "鹤唳华亭", "workId": "work_chn_1990_002", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1969_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1969,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "赵亮" },
+{ "language": 1, "name": "赵亮" },
+{ "language": 2, "name": "Zhao Liang" }
+],
+"introduction": "赵亮，1969年生于重庆，中国内地男演员。中国人民解放军艺术学院毕业。因在《康熙微服私访记》系列中扮演太监“三德子”而被观众熟知。此后还出演《山城棒棒军》《风流才子纪晓岚》等剧，擅长饰演小人物，以幽默质朴的表演风格赢得观众喜爱。",
+"ownWork": [
+{ "workChineseName": "康熙微服私访记", "workOriginalName": "康熙微服私访记", "workId": "work_chn_1969_001", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1977_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 21,
+"beginCentury": 1977,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "陈数" },
+{ "language": 1, "name": "陈数" },
+{ "language": 2, "name": "Chen Shu" }
+],
+"introduction": "陈数，1977年生于湖北黄石，中国内地女演员。毕业于中央戏剧学院表演系。因在《暗算》中饰演黄依依崭露头角，后在《倾城之恋》《铁梨花》等剧中塑造了多个坚韧、知性的女性形象。她气质典雅，表演细腻准确，获华鼎奖、白玉兰奖最佳女主角等多项荣誉。",
+"ownWork": [
+{ "workChineseName": "暗算", "workOriginalName": "暗算", "workId": "work_chn_1977_001", "relationType": 24 },
+{ "workChineseName": "铁梨花", "workOriginalName": "铁梨花", "workId": "work_chn_1977_002", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1917_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 1,
+"dynasty": 20,
+"beginCentury": 1917,
+"endCentury": 1989,
+"names": [
+{ "language": 0, "name": "顾兰君" },
+{ "language": 1, "name": "顾兰君" },
+{ "language": 2, "name": "Gu Lanjun" }
+],
+"introduction": "顾兰君（1917—1989），上海电影女演员。1930年代进入影坛，以《貂蝉》《武则天》《葛嫩娘》等影片走红，与陈云裳、袁美云等并称“上海滩四大名旦”。她尤以扮演古装美人、巾帼英豪著称，台风端庄大气。1940年代后逐渐淡出影坛，其短暂而耀眼的银幕生涯是早期中国电影工业的缩影。",
+"ownWork": [
+{ "workChineseName": "貂蝉", "workOriginalName": "貂蟬", "workId": "work_chn_1917_001", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1912_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1912,
+"endCentury": 1987,
+"names": [
+{ "language": 0, "name": "马思聪" },
+{ "language": 1, "name": "马思聪" },
+{ "language": 2, "name": "Ma Sicong" }
+],
+"introduction": "马思聪（1912—1987），中国小提琴家、作曲家。广东海丰人，11岁赴法留学，后入巴黎音乐学院。回国后创办私立音乐学院，并担任中央音乐学院首任院长。代表作有小提琴曲《思乡曲》《塞外舞曲》以及《第二交响曲》等。他融合中国民歌旋律与西方技法，是中国现代小提琴音乐的重要奠基人。",
+"ownWork": [
+{ "workChineseName": "思乡曲", "workOriginalName": "思乡曲", "workId": "work_chn_1912_001", "relationType": 10 }
+]
+},
+{
+"id": "realCharacter_chn_1977_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1977,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "赵可" },
+{ "language": 1, "name": "赵可" },
+{ "language": 2, "name": "Coco Zhao" }
+],
+"introduction": "赵可，1977年生于湖南，中国爵士男歌手、词曲作者。擅长将中文语境与爵士即兴融合，声音柔韧且富有表现力。他活跃于国内外爵士音乐节，与众多国际乐手合作，推动了中国爵士人声的发展。代表专辑有《梦境》等，并在教育领域培养新一代爵士歌手。",
+"ownWork": [
+{ "workChineseName": "梦境", "workOriginalName": "梦境", "workId": "work_chn_1977_003", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1968_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1968,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "黄中原" },
+{ "language": 1, "name": "黄中原" },
+{ "language": 2, "name": "Huang Zhongyuan" }
+],
+"introduction": "黄中原，1968年生于台湾，华语流行音乐创作人、歌手。早期为郑中基、刘德华等歌手创作大量歌曲，如《绝口不提爱你》《我们这里还有鱼》等。1997年发行个人专辑《断念》，展现沧桑深情的嗓音。他持续在幕后耕耘，是九十年代末华语情歌的重要词曲作者之一。",
+"ownWork": [
+{ "workChineseName": "绝口不提爱你", "workOriginalName": "絕口不提愛你", "workId": "work_chn_1968_001", "relationType": 12 }
+]
+},
+{
+"id": "realCharacter_chn_1949_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1949,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "朱明瑛" },
+{ "language": 1, "name": "朱明瑛" },
+{ "language": 2, "name": "Zhu Mingying" }
+],
+"introduction": "朱明瑛，1949年生于天津，中国女歌唱家、舞蹈家。以演唱亚非拉风格歌曲闻名，《回娘家》《大海啊故乡》等通俗歌曲广为流传。她曾赴美国伯克利音乐学院深造，归国后持续推广多元音乐文化，并创办艺术教育机构，是中国改革开放初期代表性歌手之一。",
+"ownWork": [
+{ "workChineseName": "回娘家", "workOriginalName": "回娘家", "workId": "work_chn_1949_004", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1988_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1988,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "王啸坤" },
+{ "language": 1, "name": "王啸坤" },
+{ "language": 2, "name": "Wang Xiaokun" }
+],
+"introduction": "王啸坤，1988年生于河北石家庄，中国内地男歌手、音乐制作人。2006年获东方卫视《我型我秀》全国总冠军出道，以摇滚曲风和创作实力受到关注。发表《王啸坤》《那些你们喜欢的不喜欢的我都喜欢的女孩》等专辑，词曲有强烈的个人色彩。近年亦涉足影视和音乐制作。",
+"ownWork": [
+{ "workChineseName": "王啸坤", "workOriginalName": "王啸坤", "workId": "work_chn_1988_001", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1993_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1993,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "Hanser" },
+{ "language": 1, "name": "Hanser" },
+{ "language": 2, "name": "Hanser" }
+],
+"introduction": "Hanser，约1993年生，中国内地网络女歌手、配音演员。活跃于哔哩哔哩等平台，以甜美而富有变化的声线翻唱及原创歌曲受到青年群体欢迎。代表歌曲有《千本樱》中文版、《勾指起誓》等，并为多部游戏与动画角色配音，是二次元音乐领域具有广泛影响力的创作者之一。",
+"ownWork": [
+{ "workChineseName": "勾指起誓", "workOriginalName": "勾指起誓", "workId": "work_chn_1993_001", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1953_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1953,
+"endCentury": 1995,
+"names": [
+{ "language": 0, "name": "邓丽君" },
+{ "language": 1, "name": "邓丽君" },
+{ "language": 2, "name": "Teresa Teng" }
+],
+"introduction": "邓丽君（1953—1995），中国流行音乐歌唱家，祖籍河北，生于台湾。她的歌声甜美婉转，跨越语言与地域，以《月亮代表我的心》《甜蜜蜜》《小城故事》等歌曲影响整个华人世界。1970—1980年代在日本、东南亚等地同样取得巨大成功，被誉为“永远的军中情人”“亚洲歌姬”。她的音乐在华语流行乐坛具有里程碑意义。",
+"ownWork": [
+{ "workChineseName": "月亮代表我的心", "workOriginalName": "月亮代表我的心", "workId": "work_chn_1953_003", "relationType": 11 },
+{ "workChineseName": "甜蜜蜜", "workOriginalName": "甜蜜蜜", "workId": "work_chn_1953_004", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1987_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1987,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "张士堂" },
+{ "language": 1, "name": "张士堂" },
+{ "language": 2, "name": "Zhang Shitang" }
+],
+"introduction": "张士堂，1987年生于台湾，华语流行男歌手。参加超级星光大道第六季获得亚军出道。他以温暖深情的嗓音和扎实的演唱技巧著称，擅长情歌演绎。发表个人专辑《没有谁》，并演唱多首影视原声曲，是星光帮中持续活跃的歌手之一。",
+"ownWork": [
+{ "workChineseName": "没有谁", "workOriginalName": "沒有誰", "workId": "work_chn_1987_001", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1995_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1995,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "吴宣仪" },
+{ "language": 1, "name": "吴宣仪" },
+{ "language": 2, "name": "Wu Xuanyi" }
+],
+"introduction": "吴宣仪，1995年生于海南海口，中国内地流行女歌手、演员。先后以宇宙少女、火箭少女101成员身份活动，因《创造101》获得广泛人气。她以甜美的舞台魅力和开朗性格吸引粉丝，单曲《满糖宣言》等展现活泼风格。后转向影视，出演《斗罗大陆》等剧。",
+"ownWork": [
+{ "workChineseName": "满糖宣言", "workOriginalName": "满糖宣言", "workId": "work_chn_1995_001", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1970_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1970,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "易家扬" },
+{ "language": 1, "name": "易家扬" },
+{ "language": 2, "name": "Yi Jiayang" }
+],
+"introduction": "易家扬，1970年生，中国台湾作词人。曾任华纳唱片企划，为孙燕姿、林俊杰、张惠妹等众多歌手填词，代表作有《遇见》《修炼爱情》《记得》等。他的歌词洗练含蓄，擅长捕捉情感细节，是华语流行乐坛最重要的词作者之一。",
+"ownWork": [
+{ "workChineseName": "遇见", "workOriginalName": "遇見", "workId": "work_chn_1970_001", "relationType": 12 },
+{ "workChineseName": "修炼爱情", "workOriginalName": "修煉愛情", "workId": "work_chn_1970_002", "relationType": 12 }
+]
+},
+{
+"id": "realCharacter_chn_1982_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 8,
+"dynasty": 21,
+"beginCentury": 1982,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "黄旭东" },
+{ "language": 1, "name": "黄旭东" },
+{ "language": 2, "name": "Huang Xudong" }
+],
+"introduction": "黄旭东，1982年生，中国电子竞技解说、主播，常用ID“小色”。专注《星际争霸》系列游戏解说十余年，以专业分析、幽默毒舌风格和“毒奶”梗在电竞圈闻名。他与搭档共同创办星际老男孩频道，持续推广星际电竞文化，是中国电竞选手中最有辨识度的解说之一。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_unknown_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 0,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "幼杀" },
+{ "language": 1, "name": "幼杀" },
+{ "language": 2, "name": "Young Kill" },
+{ "language": 3, "name": "幼稚园杀手" }
+],
+"introduction": "幼稚园杀手，简称幼杀，中国内地地下说唱歌手。2000年代末以变音人声出现，身份神秘。歌曲主题常涉及社会底层观察与内心独白，节奏技巧突出，在中国地下嘻哈圈拥有大量追随者。代表作品有《谋杀》《天使的翅膀》等，被视为中文硬核说唱的重要创作者。",
+"ownWork": [
+{ "workChineseName": "谋杀", "workOriginalName": "謀殺", "workId": "work_chn_unknown_003", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_1977_003",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1977,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "王铮亮" },
+{ "language": 1, "name": "王铮亮" },
+{ "language": 2, "name": "Wang Zhengliang" }
+],
+"introduction": "王铮亮，1977年生于四川成都，中国内地男歌手、音乐制作人。2007年参加《快乐男声》进入大众视野，凭《时间都去哪儿了》登上央视春晚感动无数观众。他嗓音清亮兼具磁性，擅长将生活感悟融入旋律，多部影视原声由他创作并演唱。",
+"ownWork": [
+{ "workChineseName": "时间都去哪儿了", "workOriginalName": "时间都去哪儿了", "workId": "work_chn_1977_004", "relationType": 11 }
+]
+},
+{
+"id": "realCharacter_chn_unknown_004",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "苏夏" },
+{ "language": 1, "name": "苏夏" },
+{ "language": 2, "name": "Su Xia" }
+],
+"introduction": "苏夏，中国内地音乐制作人、词曲作者。以幕后工作为主，参与多位流行歌手的歌曲创作与制作，作品注重旋律与编曲细节。她保持低调但持续产出，是当代华语流行音乐工业中活跃的女性创作者之一。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1975_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1975,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "严云农" },
+{ "language": 1, "name": "严云农" },
+{ "language": 2, "name": "Matthew Yen" }
+],
+"introduction": "严云农，1975年生，中国台湾作词人、作家。为蔡依林、罗志祥、孙燕姿等歌手创作大量歌词，代表作有《大艺术家》《恋爱达人》《我要的幸福》等，多次入围金曲奖最佳作词人。他的词作充满都市感与故事性，是华语流行音乐不可忽视的笔杆。",
+"ownWork": [
+{ "workChineseName": "大艺术家", "workOriginalName": "大藝術家", "workId": "work_chn_1975_001", "relationType": 12 }
+]
+},
+{
+"id": "realCharacter_chn_1971_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1971,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "戴伟" },
+{ "language": 1, "name": "戴伟" },
+{ "language": 2, "name": "Dai Wei" }
+],
+"introduction": "戴伟，1971年生，中国作曲家、音乐制作人。从事影视和游戏音乐创作，担任多部电影配乐，以融合管弦乐与电子元素见长。他通过自身创作和制作工作，持续为中国影视产业提供高质量原创音乐。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1980_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1980,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "谭伊哲" },
+{ "language": 1, "name": "谭伊哲" },
+{ "language": 2, "name": "Tan Yizhe" }
+],
+"introduction": "谭伊哲，1980年生，中国音乐制作人、编曲人。曾留学加拿大学习音乐，回国后为李宇春、张靓颖、华晨宇等编曲制作，代表编曲作品有《下个，路口，见》等。他善于融合多种流行音乐风格，制作手法时尚且充满张力，是华语乐坛一线制作人。",
+"ownWork": [
+{ "workChineseName": "下个，路口，见", "workOriginalName": "下个，路口，见", "workId": "work_chn_1980_001", "relationType": 26 }
+]
+},
+{
+"id": "realCharacter_chn_1962_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1962,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "郭峰" },
+{ "language": 1, "name": "郭峰" },
+{ "language": 2, "name": "Guo Feng" }
+],
+"introduction": "郭峰，1962年生于四川，中国作曲家、歌手。1986年创作公益歌曲《让世界充满爱》，成为中国流行音乐里程碑。他擅长写作大气深情的旋律，推出《心会跟爱一起走》《甘心情愿》等作品。其音乐风格融合流行与古典，持续推动国内原创流行音乐发展。",
+"ownWork": [
+{ "workChineseName": "让世界充满爱", "workOriginalName": "让世界充满爱", "workId": "work_chn_1962_001", "relationType": 10 }
+]
+},
+{
+"id": "realCharacter_chn_1941_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": 1941,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "储望华" },
+{ "language": 1, "name": "储望华" },
+{ "language": 2, "name": "Chu Wanghua" }
+],
+"introduction": "储望华，1941年生于湖南，旅澳华裔钢琴家、作曲家。早年就学于中央音乐学院，参与创作钢琴协奏曲《黄河》并负责钢琴部分的编创。其钢琴作品《翻身的日子》《南海小哨兵》等广泛流传于钢琴教育领域。作品兼具中国风味与浪漫气息，是华人钢琴文献的重要书写者。",
+"ownWork": [
+{ "workChineseName": "黄河", "workOriginalName": "黄河", "workId": "work_chn_1941_001", "relationType": 10 }
+]
+},
+{
+"id": "realCharacter_chn_unknown_005",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 0,
+"countryCode": "CHN",
+"field": 2,
+"dynasty": 21,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "方朝俊" },
+{ "language": 1, "name": "方朝俊" },
+{ "language": 2, "name": "Fang Chaojun" }
+],
+"introduction": "方朝俊，中国青年作曲家。主要从事影视与游戏音乐创作，风格偏向交响乐与现代电子结合。作品在多个项目中呈现较强的叙事性与氛围感，是新生代原声音乐创作者之一。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_unknown_006",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 6,
+"gender": 0,
+"countryCode": "CHN",
+"field": 8,
+"dynasty": 21,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "木狼游戏" },
+{ "language": 1, "name": "木狼游戏" },
+{ "language": 2, "name": "Wooden Wolf Game" }
+],
+"introduction": "木狼游戏，中国独立游戏工作室。专注于叙事驱动型游戏的开发，代表作为文字冒险游戏《流言侦探》，以模拟真实社交聊天的形式推进剧情，在叙事互动方面做出了新颖尝试。团队规模虽小，但凭借特色作品在移动端获得一定关注。",
+"ownWork": [
+{ "workChineseName": "流言侦探", "workOriginalName": "流言侦探", "workId": "work_chn_unknown_007", "relationType": 6 }
+]
+},
+{
+"id": "realCharacter_chn_2004_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 6,
+"gender": 0,
+"countryCode": "CHN",
+"field": 8,
+"dynasty": 21,
+"beginCentury": 2004,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "完美世界游戏" },
+{ "language": 1, "name": "完美世界游戏" },
+{ "language": 2, "name": "Perfect World Games" }
+],
+"introduction": "完美世界游戏，中国大型游戏开发商与发行商，成立于2004年。成功推出《完美世界》《诛仙》《幻塔》等多款客户端与移动端游戏，业务覆盖MMORPG、卡牌、开放世界等多种类型。公司还涉及海外发行和电子竞技，是中国游戏产业的核心企业之一。",
+"ownWork": [
+{ "workChineseName": "完美世界", "workOriginalName": "完美世界", "workId": "work_chn_2004_001", "relationType": 8 },
+{ "workChineseName": "诛仙", "workOriginalName": "诛仙", "workId": "work_chn_2004_002", "relationType": 8 }
+]
+},
+{
+"id": "realCharacter_chn_1919_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 20,
+"beginCentury": 1919,
+"endCentury": 1996,
+"names": [
+{ "language": 0, "name": "古元" },
+{ "language": 1, "name": "古元" },
+{ "language": 2, "name": "Gu Yuan" }
+],
+"introduction": "古元（1919—1996），中国版画家、水彩画家。生于广东，1938年赴延安，在鲁迅艺术文学院学习并任教。其延安时期的木刻版画《减租会》《离婚诉》等以质朴刀法表现边区生活，成为革命美术经典。后任中央美术学院院长，创作大量水彩风景，风格清丽明朗。他是新兴木刻运动的杰出代表，对中国现代版画影响深远。",
+"ownWork": [
+{ "workChineseName": "减租会", "workOriginalName": "减租会", "workId": "work_chn_1919_001", "relationType": 17 }
+]
+},
+{
+"id": "realCharacter_chn_1000_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 16,
+"beginCentury": 1000,
+"endCentury": 1090,
+"names": [
+{ "language": 0, "name": "郭熙" },
+{ "language": 1, "name": "郭熙" },
+{ "language": 2, "name": "Guo Xi" }
+],
+"introduction": "郭熙（约1000—约1090），字淳夫，北宋杰出山水画家。河阳温县（今河南温县）人。神宗时入翰林图画院，深得皇帝赏识。其作画主张深入体察自然，总结“高远、深远、平远”三远法，极大丰富了中国山水画的构图理论。传世作品《早春图》描绘冬去春来的山川气象，笔墨浑厚，意境幽深，是北宋全景式山水画的巅峰之作。",
+"ownWork": [
+{ "workChineseName": "早春图", "workOriginalName": "早春图", "workId": "work_chn_1000_001", "relationType": 17 }
+]
+},
+{
+"id": "realCharacter_chn_1945_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1945,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "徐芒耀" },
+{ "language": 1, "name": "徐芒耀" },
+{ "language": 2, "name": "Xu Mangyao" }
+],
+"introduction": "徐芒耀，1945年生于上海，中国油画家。中国美术学院教授。1970年代毕业于浙江美术学院（今中国美院），后赴法国研修。他以超级写实主义油画著称，善于在画面中构建视觉悖谬与时空交错，作品《我的梦》等将精细的写实技巧与超现实主义想象结合，在中国当代写实油画领域独树一帜。",
+"ownWork": [
+{ "workChineseName": "我的梦", "workOriginalName": "我的梦", "workId": "work_chn_1945_001", "relationType": 17 }
+]
+},
+{
+"id": "realCharacter_chn_1932_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1932,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "夏阳" },
+{ "language": 1, "name": "夏阳" },
+{ "language": 2, "name": "Hsia Yan" }
+],
+"introduction": "夏阳，1932年生于湖南，中国当代艺术家。早年师从李仲生，是台湾现代艺术运动“东方画会”的重要成员。后移居纽约，创作转向照相写实主义，又融合东方线条与图腾，形成独特的抽象表现风格。他以猫、武士等系列题材持续探索文化身份的视觉表达，是联结中西语境的重要画家。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_unknown_008",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 16,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "周之冕" },
+{ "language": 1, "name": "周之冕" },
+{ "language": 2, "name": "Zhou Zhimian" }
+],
+"introduction": "周之冕，明代画家，字服卿，号少谷，长洲（今江苏苏州）人。活跃于万历年间，擅长花鸟画，创“勾花点叶”法，即以钩勒画花、以点簇写叶，设色妍丽，风格介于工笔与写意之间。传世作品有《花鸟图》等，对晚明花鸟画的发展有重要贡献。",
+"ownWork": [
+{ "workChineseName": "花鸟图", "workOriginalName": "花鸟图", "workId": "work_chn_unknown_009", "relationType": 17 }
+]
+},
+{
+"id": "realCharacter_chn_unknown_010",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 19,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "焦秉贞" },
+{ "language": 1, "name": "焦秉贞" },
+{ "language": 2, "name": "Jiao Bingzhen" }
+],
+"introduction": "焦秉贞，清代宫廷画家。康熙年间供奉内廷，曾任钦天监五官正，通晓天文历法。他在中国绘画中融入西方透视法与明暗法，风格中西合璧。代表作为《御制耕织图》，依康熙旨意绘制，精细描绘农耕与蚕织全过程，兼具艺术性与教化功能。",
+"ownWork": [
+{ "workChineseName": "御制耕织图", "workOriginalName": "御制耕织图", "workId": "work_chn_unknown_011", "relationType": 17 }
+]
+},
+{
+"id": "realCharacter_chn_1946_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1946,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "郭宝寨" },
+{ "language": 1, "name": "郭宝寨" },
+{ "language": 2, "name": "Guo Baozhai" }
+],
+"introduction": "郭宝寨，1946年生于河北，中国雕塑家。中央美术学院雕塑系教授。作品多以青铜、石料塑造人物，追求浑厚朴拙的造型语言。代表城市雕塑作品散布于多个城市，室内作品则关注人物精神状态，其艺术实践横跨教学与公共艺术，对中国当代雕塑教育有一定影响。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1955_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1955,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "林伟而" },
+{ "language": 1, "name": "林伟而" },
+{ "language": 2, "name": "William Lim" }
+],
+"introduction": "林伟而，1955年生于香港，建筑师、艺术家。香港思联建筑设计有限公司创始人。设计涵盖住宅、酒店与商业空间，善于将现代建筑语汇与本土文化元素结合。他还从事装置艺术创作，参与威尼斯双年展等国际展览，是香港当代建筑与跨界艺术实践的重要人物。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1956_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1956,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "张永和" },
+{ "language": 1, "name": "张永和" },
+{ "language": 2, "name": "Yung Ho Chang" }
+],
+"introduction": "张永和，1956年生于北京，中国建筑师、建筑教育家。美国麻省理工学院建筑系前主任，非常建筑事务所创始人。他提倡建筑与城市、材料、构造的批判性对话，代表作有席殊书屋、吉首美术馆等，并参与威尼斯双年展中国馆策划。他将建筑实验与当代艺术结合，是中国实验建筑的重要开拓者。",
+"ownWork": [
+{ "workChineseName": "吉首美术馆", "workOriginalName": "吉首美术馆", "workId": "work_chn_1956_001", "relationType": 18 }
+]
+},
+{
+"id": "realCharacter_chn_1900_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 20,
+"beginCentury": 1900,
+"endCentury": 1971,
+"names": [
+{ "language": 0, "name": "张印泉" },
+{ "language": 1, "name": "张印泉" },
+{ "language": 2, "name": "Zhang Yinquan" }
+],
+"introduction": "张印泉（1900—1971），中国摄影家。河北丰润人。1920年代开始摄影活动，擅长风光与人物摄影，讲究构图与光影，作品富有画意。他长期担任摄影教育组织工作，曾任中国摄影学会副主席，推动了中国早期艺术摄影的普及与理论建设。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1965_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1965,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "刘卫兵" },
+{ "language": 1, "name": "刘卫兵" },
+{ "language": 2, "name": "Liu Weibing" }
+],
+"introduction": "刘卫兵，1965年生，中国摄影师。长期从事纪实与人文摄影，关注城市化进程中的乡土变迁与百姓日常。作品多次在国内外展览中展出，以平实的视角记录时代细节，是当代中国纪实摄影领域的积极实践者。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1981_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1981,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "张晓" },
+{ "language": 1, "name": "张晓" },
+{ "language": 2, "name": "Zhang Xiao" }
+],
+"introduction": "张晓，1981年生于山东，中国摄影艺术家。代表系列《海岸线》拍摄了中国漫长的沿海地带，记录了快速经济发展下的景观与人，获得多项国际摄影奖。其作品以冷静的彩色摄影叙事探索中国社会表层之下的荒诞与诗意。",
+"ownWork": [
+{ "workChineseName": "海岸线", "workOriginalName": "Coastline", "workId": "work_chn_1981_001", "relationType": 20 }
+]
+},
+{
+"id": "realCharacter_chn_unknown_012",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 4,
+"gender": 0,
+"countryCode": "CHN",
+"field": 8,
+"dynasty": 21,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "绿怪研" },
+{ "language": 1, "name": "绿怪研" },
+{ "language": 2, "name": "Green Monster Research" }
+],
+"introduction": "绿怪研，中国动画工作室。主要从事二维动画制作，参与过《十万个冷笑话》大电影等作品的部分制作，风格上偏向网络化、快节奏搞笑。团队活跃于原创动画与外包合作，是国内网络动画浪潮中的活跃团队之一。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1939_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1939,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "张世明" },
+{ "language": 1, "name": "张世明" },
+{ "language": 2, "name": "Zhang Shiming" }
+],
+"introduction": "张世明，1939年生，中国连环画家、插图画家。长期从事连环画和儿童图画书创作，画风细腻写实，注重人物动态与画面构成。代表作有连环画《水浒传》等，参与绘制的多部作品在全国美展中获奖，是中国连环画繁荣时期的重要画家之一。",
+"ownWork": []
+},
+{
+"id": "realCharacter_chn_1950_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 8,
+"gender": 0,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1950,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "上海人民艺术剧院" },
+{ "language": 1, "name": "上海人民艺术剧院" },
+{ "language": 2, "name": "Shanghai People's Art Theatre" }
+],
+"introduction": "上海人民艺术剧院，成立于1950年，是中国重要的话剧院团之一。首任院长夏衍。剧院以现实主义话剧为主，排演了《日出》《雷雨》《于无声处》等大量经典与原创剧目，造就了一批杰出的导演、演员。1995年与上海青年话剧团合并为上海话剧艺术中心，其传统构成了上海话剧的基石。",
+"ownWork": [
+{ "workChineseName": "于无声处", "workOriginalName": "于无声处", "workId": "work_chn_1950_001", "relationType": 99 }
+]
+},
+{
+"id": "realCharacter_chn_1954_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "CHN",
+"field": 3,
+"dynasty": 21,
+"beginCentury": 1954,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "纪蔚然" },
+{ "language": 1, "name": "纪蔚然" },
+{ "language": 2, "name": "Chi Wei-jan" }
+],
+"introduction": "纪蔚然，1954年生于台湾，中国剧作家、戏剧学者。台湾大学戏剧学系教授。剧本作品包括《夜夜夜麻》《倒数计时》等，擅长以黑色幽默和锐利对白揭示社会与人性的荒诞。他将学术思维与剧场实践紧密结合，是台湾现代戏剧的重要推动者之一。",
+"ownWork": [
+{ "workChineseName": "夜夜夜麻", "workOriginalName": "夜夜夜麻", "workId": "work_chn_1954_003", "relationType": 21 }
+]
+},
+{
+"id": "realCharacter_chn_1941_002",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1941,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "岳美缇" },
+{ "language": 1, "name": "岳美缇" },
+{ "language": 2, "name": "Yue Meiti" }
+],
+"introduction": "岳美缇，1941年生，昆剧女小生演员。上海昆剧团一级演员，工小生，师承俞振飞。她扮相儒雅，嗓音宽亮，表演细腻传神，代表剧目有《牡丹亭·拾画叫画》《玉簪记·琴挑》《墙头马上》等。她将昆曲小生的书卷气与舞台表现力推向新的高度，是昆剧女小生行当的代表性艺术家。",
+"ownWork": [
+{ "workChineseName": "牡丹亭", "workOriginalName": "牡丹亭", "workId": "work_chn_1941_003", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_chn_1979_004",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 8,
+"gender": 0,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1979,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "香港芭蕾舞团" },
+{ "language": 1, "name": "香港芭蕾舞团" },
+{ "language": 2, "name": "Hong Kong Ballet" }
+],
+"introduction": "香港芭蕾舞团，1979年成立，是亚洲主要的芭蕾舞团之一。舞团保留多部古典剧目如《天鹅湖》《胡桃夹子》，同时委约当代编舞家创作新作。舞团长期推动芭蕾教育与社区拓展，其舞者来自世界各地，艺术风格兼具传统典雅与现代活力，是香港最具代表性的表演艺术团体之一。",
+"ownWork": [
+{ "workChineseName": "天鹅湖", "workOriginalName": "Swan Lake", "workId": "work_chn_1979_006", "relationType": 13 }
+]
+},
+{
+"id": "realCharacter_chn_1992_001",
+"characterType": 1,
+"realSubType": 2,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "CHN",
+"field": 5,
+"dynasty": 21,
+"beginCentury": 1992,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "孟庆旸" },
+{ "language": 1, "name": "孟庆旸" },
+{ "language": 2, "name": "Meng Qingyang" }
+],
+"introduction": "孟庆旸，1992年生于河南，中国舞蹈演员。中国东方演艺集团首席舞者。2022年因在央视春晚舞蹈诗剧《只此青绿》中领舞“青绿”而广受瞩目，以优雅刚劲的身姿诠释了宋代山水意境。她拥有扎实的古典舞功底，舞台表现兼具力量与柔美，是新生代中国舞的重要代表人物。",
+"ownWork": [
+{ "workChineseName": "只此青绿", "workOriginalName": "只此青绿", "workId": "work_chn_1992_001", "relationType": 22 }
+]
+},
+{
+"id": "realCharacter_kor_1985_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "KOR",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1985,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "이광수" },
+{ "language": 1, "name": "李光洙" },
+{ "language": 2, "name": "Lee Kwang-soo" }
+],
+"introduction": "李光洙，1985年出生，韩国演员、模特。以综艺节目《Running Man》中幽默而倒霉的形象走红亚洲。同时作为演员出演《没关系，是爱情啊》《Live》等电视剧，展现细腻的正剧表演功力。他将喜剧天赋与温情特质结合，成为韩国最具人气的多栖艺人之一。",
+"ownWork": [
+{ "workChineseName": "Live", "workOriginalName": "Live", "workId": "work_kor_1985_001", "relationType": 24 }
+]
+},
+{
+"id": "realCharacter_jpn_1947_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "JPN",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1947,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "北野武" },
+{ "language": 1, "name": "北野武" },
+{ "language": 2, "name": "Takeshi Kitano" }
+],
+"introduction": "北野武，1947年生于东京，日本导演、演员、喜剧艺人。早年以漫才组合“Two Beat”成名，后转型电影。导演作品《花火》《座头市》《菊次郎的夏天》等以冷静的镜头和突如其来的暴力美学著称，在国际影展屡获大奖。他同时是画家和作家，作品充满对生命与死亡的沉思。",
+"ownWork": [
+{ "workChineseName": "花火", "workOriginalName": "HANA-BI", "workId": "work_jpn_1947_001", "relationType": 2 },
+{ "workChineseName": "菊次郎的夏天", "workOriginalName": "菊次郎の夏", "workId": "work_jpn_1947_002", "relationType": 2 }
+]
+},
+{
+"id": "realCharacter_kor_1985_002",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 2,
+"gender": 0,
+"countryCode": "KOR",
+"field": 8,
+"dynasty": null,
+"beginCentury": 1985,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "들국화" },
+{ "language": 1, "name": "野菊花" },
+{ "language": 2, "name": "Deulgukhwa" }
+],
+"introduction": "野菊花（들국화），韩国传奇摇滚乐队，1985年由主唱全仁权组建。首张专辑《行路》以深刻的社会意识和蓝调摇滚曲风震撼韩国乐坛，被认为是韩国摇滚乐的重要里程碑。乐队成员历经更迭，音乐风格影响了几代韩国音乐人，在韩国大众音乐史上占有崇高地位。",
+"ownWork": [
+{ "workChineseName": "行路", "workOriginalName": "행진", "workId": "work_kor_1985_002", "relationType": 13 }
+]
+},
+{
+"id": "realCharacter_jpn_1971_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "JPN",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1971,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "目黒将司" },
+{ "language": 1, "name": "目黑将司" },
+{ "language": 2, "name": "Shoji Meguro" }
+],
+"introduction": "目黑将司，1971年生，日本作曲家、游戏音乐制作人。长期为Atlus公司效力，以《女神异闻录》系列的音乐闻名于世，风格融合流行、摇滚、爵士与电子，旋律极具辨识度。他为《真·女神转生》系列等多部作品配乐，是游戏音乐界风格最为鲜明的作曲家之一。",
+"ownWork": [
+{ "workChineseName": "女神异闻录5", "workOriginalName": "ペルソナ5", "workId": "work_jpn_1971_001", "relationType": 10 }
+]
+},
+{
+"id": "realCharacter_kor_2011_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 6,
+"gender": 0,
+"countryCode": "KOR",
+"field": 8,
+"dynasty": null,
+"beginCentury": 2011,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "라인게임즈" },
+{ "language": 1, "name": "LINE Games" },
+{ "language": 2, "name": "LINE Games" }
+],
+"introduction": "LINE Games，韩国游戏公司，2011年成立，是LINE株式会社的关联企业。致力于手机游戏和在线游戏开发与发行，代表作品有《命运之子》《深海水族馆》等。公司利用LINE社交平台的庞大用户基础，专注全球化移动游戏市场。",
+"ownWork": [
+{ "workChineseName": "命运之子", "workOriginalName": "데스티니 차일드", "workId": "work_kor_2011_001", "relationType": 8 }
+]
+},
+{
+"id": "realCharacter_kor_1970_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "KOR",
+"field": 8,
+"dynasty": null,
+"beginCentury": 1970,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "박관호" },
+{ "language": 1, "name": "朴关浩" },
+{ "language": 2, "name": "Park Kwan-ho" }
+],
+"introduction": "朴关浩，1970年生，韩国游戏制作人、企业家。Webzen公司创始人，2001年推出大型多人在线角色扮演游戏《奇迹MU》，在亚洲市场取得巨大成功，推动了韩国网游产业的全球化。随后公司又开发《奇迹世界》等作品，他是21世纪初韩国网游黄金期的标志人物之一。",
+"ownWork": [
+{ "workChineseName": "奇迹MU", "workOriginalName": "뮤 온라인", "workId": "work_kor_1970_001", "relationType": 6 }
+]
+},
+{
+"id": "realCharacter_jpn_1940_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "JPN",
+"field": 3,
+"dynasty": null,
+"beginCentury": 1940,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "辻本憲三" },
+{ "language": 1, "name": "辻本宪三" },
+{ "language": 2, "name": "Kenzo Tsujimoto" }
+],
+"introduction": "辻本宪三，1940年生于日本奈良，实业家，卡普空（Capcom）公司创始人。1983年创立卡普空，推出《街头霸王》《生化危机》《怪物猎人》等世界级游戏系列，奠定了公司在动作游戏与格斗游戏领域的领先地位。他的商业眼光与对创意人才的培养使卡普空成为全球最具影响力的游戏企业之一。",
+"ownWork": [
+{ "workChineseName": "街头霸王II", "workOriginalName": "ストリートファイターII", "workId": "work_jpn_1940_001", "relationType": 8 }
+]
+},
+{
+"id": "realCharacter_jpn_1928_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "JPN",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1928,
+"endCentury": 2011,
+"names": [
+{ "language": 0, "name": "菊竹清訓" },
+{ "language": 1, "name": "菊竹清训" },
+{ "language": 2, "name": "Kiyonori Kikutake" }
+],
+"introduction": "菊竹清训（1928—2011），日本建筑师，代谢派代表人物之一。其代表作“海上城市”等构想以巨型结构和有机生长理念探索未来都市形态，而“出云大社厅”等实际建筑则展现他对混凝土的抒情运用。他与黑川纪章、槇文彦等共同推动日本现代建筑走向世界，影响深远。",
+"ownWork": [
+{ "workChineseName": "出云大社厅", "workOriginalName": "出雲大社庁", "workId": "work_jpn_1928_001", "relationType": 18 }
+]
+},
+{
+"id": "realCharacter_kor_unknown_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "KOR",
+"field": 2,
+"dynasty": null,
+"beginCentury": null,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "한영수" },
+{ "language": 1, "name": "韩永秀" },
+{ "language": 2, "name": "Han Young-soo" }
+],
+"introduction": "韩永秀，韩国摄影师，生于1950年代后期或1960年代初。他以纪实风格拍摄韩国社会转型期的日常生活与城市景观，作品透过安静而富有节奏的黑白影像，记录了首尔等城市的变迁与民众的生存状态，被视为韩国现代主义纪实摄影的重要实践者。",
+"ownWork": []
+},
+{
+"id": "realCharacter_jpn_1987_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "JPN",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1987,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "根本宗子" },
+{ "language": 1, "name": "根本宗子" },
+{ "language": 2, "name": "Nemoto Shuko" }
+],
+"introduction": "根本宗子，1987年生，日本剧作家、导演。她创立剧团“月刊根本宗子”，以犀利幽默的台词和直面现代人际疏离的剧作风格受到年轻观众追捧。代表作有《东京月光曲》等，常自编自导，并出演角色，是当代日本小剧场的重要新势力。",
+"ownWork": [
+{ "workChineseName": "东京月光曲", "workOriginalName": "東京月光曲", "workId": "work_jpn_1987_001", "relationType": 21 }
+]
+},
+{
+"id": "realCharacter_kor_1944_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "KOR",
+"field": 2,
+"dynasty": null,
+"beginCentury": 1944,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "안성수" },
+{ "language": 1, "name": "安成秀" },
+{ "language": 2, "name": "Ahn Sang-soo" }
+],
+"introduction": "安成秀，1944年生，韩国平面设计师、字体设计家。他以拆解重构韩文字母的实验性设计闻名，创立了安成秀字体学院，开发多款具有图形思维和哲学意味的韩文字体。他的设计探索了文字作为视觉符号的边界，对韩国当代平面设计影响深远。",
+"ownWork": []
+},
+{
+"id": "realCharacter_ita_-65_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "ITA",
+"field": 4,
+"dynasty": null,
+"beginCentury": -65,
+"endCentury": -8,
+"names": [
+{ "language": 0, "name": "Horatius" },
+{ "language": 1, "name": "贺拉斯" },
+{ "language": 2, "name": "Horace" },
+{ "language": 3, "name": "Quintus Horatius Flaccus" }
+],
+"introduction": "贺拉斯（前65—前8），古罗马诗人。与维吉尔、奥维德并称罗马文学黄金时代三大诗人。早期创作讽刺诗与长短句，后以《颂歌》达到艺术顶峰，提出“寓教于乐”的诗歌理念。《诗艺》则对后世古典主义文论产生了深刻影响。他的诗歌凝练优雅，充满哲理与生活智慧。",
+"ownWork": [
+{ "workChineseName": "颂歌", "workOriginalName": "Carmina", "workId": "work_ita_-65_001", "relationType": 1 },
+{ "workChineseName": "诗艺", "workOriginalName": "Ars Poetica", "workId": "work_ita_-65_002", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_gbr_1911_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "GBR",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1911,
+"endCentury": 1993,
+"names": [
+{ "language": 0, "name": "William Golding" },
+{ "language": 1, "name": "威廉·戈尔丁" },
+{ "language": 2, "name": "William Golding" }
+],
+"introduction": "威廉·戈尔丁（1911—1993），英国小说家、诗人，1983年诺贝尔文学奖得主。曾参加二战海军作战，战争的体验深刻影响了他的创作。代表作《蝇王》以荒岛上的儿童群体隐喻人性的黑暗与文明的脆弱，成为20世纪英语文学经典。他还著有《继承者》《品彻·马丁》等寓言性强烈的小说。",
+"ownWork": [
+{ "workChineseName": "蝇王", "workOriginalName": "Lord of the Flies", "workId": "work_gbr_1911_001", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_usa_1917_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "USA",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1917,
+"endCentury": 1967,
+"names": [
+{ "language": 0, "name": "Carson McCullers" },
+{ "language": 1, "name": "卡森·麦卡勒斯" },
+{ "language": 2, "name": "Carson McCullers" }
+],
+"introduction": "卡森·麦卡勒斯（1917—1967），美国小说家、剧作家。生于乔治亚州，擅长描写南方小镇中孤独、边缘化的人物。23岁时出版的《心是孤独的猎手》震动文坛，其后《婚礼的成员》《伤心咖啡馆之歌》等作品继续以细腻的笔触探讨人际疏离与渴望认同。她是美国南方文学的代表人物。",
+"ownWork": [
+{ "workChineseName": "心是孤独的猎手", "workOriginalName": "The Heart Is a Lonely Hunter", "workId": "work_usa_1917_001", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_gbr_1772_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "GBR",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1772,
+"endCentury": 1834,
+"names": [
+{ "language": 0, "name": "Samuel Taylor Coleridge" },
+{ "language": 1, "name": "塞缪尔·泰勒·柯勒律治" },
+{ "language": 2, "name": "Samuel Taylor Coleridge" }
+],
+"introduction": "塞缪尔·泰勒·柯勒律治（1772—1834），英国诗人、文学批评家，浪漫主义文学先驱。与华兹华斯共同出版《抒情歌谣集》，其诗作《古舟子咏》《忽必烈汗》以神秘想象和音乐性著称。他提出“悬置怀疑”的文学观，对后世诗歌与批评理论产生深远影响。",
+"ownWork": [
+{ "workChineseName": "古舟子咏", "workOriginalName": "The Rime of the Ancient Mariner", "workId": "work_gbr_1772_001", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_usa_1969_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "USA",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1969,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "Colson Whitehead" },
+{ "language": 1, "name": "科尔森·怀特黑德" },
+{ "language": 2, "name": "Colson Whitehead" }
+],
+"introduction": "科尔森·怀特黑德，1969年生于纽约，美国小说家。以体裁创新和历史重写著称，《地下铁道》虚构一条真实运行的秘密铁道，获普利策奖与国家图书奖。《镍币男孩》则基于真实感化院黑暗史，再获普利策奖。他的作品将非裔美国人的历史创伤与幻想、惊悚等类型结合，成为当代文学的重要声音。",
+"ownWork": [
+{ "workChineseName": "地下铁道", "workOriginalName": "The Underground Railroad", "workId": "work_usa_1969_001", "relationType": 1 },
+{ "workChineseName": "镍币男孩", "workOriginalName": "The Nickel Boys", "workId": "work_usa_1969_002", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_fra_1968_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 1,
+"countryCode": "FRA",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1968,
+"endCentury": null,
+"names": [
+{ "language": 0, "name": "Éric Vuillard" },
+{ "language": 1, "name": "埃里克·维亚尔" },
+{ "language": 2, "name": "Éric Vuillard" }
+],
+"introduction": "埃里克·维亚尔，1968年生于里昂，法国作家、导演。以历史微叙事著称，在有限的篇幅内剖析重大历史瞬间背后的权力关系。作品《7月14日》《日常秩序》获多项大奖，2017年以《日程》赢得龚古尔文学奖。他的写作将历史资料与文学想象精妙地缝合，迫使读者重新审视已知的历史。",
+"ownWork": [
+{ "workChineseName": "日程", "workOriginalName": "L'Ordre du jour", "workId": "work_fra_1968_001", "relationType": 1 }
+]
+},
+{
+"id": "realCharacter_usa_1887_001",
+"characterType": 1,
+"realSubType": 1,
+"creativeEntityType": 1,
+"gender": 2,
+"countryCode": "USA",
+"field": 4,
+"dynasty": null,
+"beginCentury": 1887,
+"endCentury": 1972,
+"names": [
+{ "language": 0, "name": "Marianne Moore" },
+{ "language": 1, "name": "玛丽安·摩尔" },
+{ "language": 2, "name": "Marianne Moore" }
+],
+"introduction": "玛丽安·摩尔（1887—1972），美国现代主义诗人。诗风精确、观察入微，常以棒球、穿山甲等日常或奇特事物为素材展开哲理沉思。她长期担任《日晷》杂志编辑，对现代诗歌发展有重要影响。诗集《观察》获普利策奖，其标志性的音节诗行与引语拼贴技法独树一帜。",
+"ownWork": [
+{ "workChineseName": "观察", "workOriginalName": "Observations", "workId": "work_usa_1887_001", "relationType": 1 }
+]
+},
+
+  {
+    "id": "realCharacter_fra_1978_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "FRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1978,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Céline Sciamma" },
+      { "language": 1, "name": "瑟琳·席安玛" },
+      { "language": 2, "name": "Céline Sciamma" }
+    ],
+    "introduction": "瑟琳·席安玛，1978年生于蓬图瓦兹，法国导演、编剧。作品聚焦女性身份与欲望，风格细腻克制。代表作《女孩帮》《燃烧女子的肖像》等广受国际赞誉，《燃烧女子的肖像》获戛纳最佳编剧奖。她被视为当代欧洲艺术电影最具原创力的声音之一。",
+    "ownWork": [
+      { "workChineseName": "燃烧女子的肖像", "workOriginalName": "Portrait de la jeune fille en feu", "workId": "work_fra_2019_001", "relationType": 2 },
+      { "workChineseName": "女孩帮", "workOriginalName": "Bande de filles", "workId": "work_fra_2014_001", "relationType": 2 }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1937_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "GBR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1937,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Ridley Scott" },
+      { "language": 1, "name": "雷德利·斯科特" },
+      { "language": 2, "name": "Ridley Scott" }
+    ],
+    "introduction": "雷德利·斯科特，1937年生于英国杜伦，电影导演、制片人。以视觉风格强烈、题材多变著称。1979年《异形》将科幻与恐怖深度融合，1982年《银翼杀手》成为赛博朋克美学奠基之作。此后《末路狂花》《角斗士》《火星救援》等持续拓展类型边界，是当代最具商业与作者性兼备的导演之一。",
+    "ownWork": [
+      { "workChineseName": "银翼杀手", "workOriginalName": "Blade Runner", "workId": "work_gbr_1982_001", "relationType": 2 },
+      { "workChineseName": "异形", "workOriginalName": "Alien", "workId": "work_gbr_1979_001", "relationType": 2 },
+      { "workChineseName": "角斗士", "workOriginalName": "Gladiator", "workId": "work_gbr_2000_001", "relationType": 2 }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1985_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 2,
+    "gender": 0,
+    "countryCode": "GBR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1985,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Radiohead" },
+      { "language": 1, "name": "电台司令" },
+      { "language": 2, "name": "Radiohead" }
+    ],
+    "introduction": "电台司令，1985年成立于英国牛津郡的另类摇滚乐队，由汤姆·约克、强尼·格林伍德等五人组成。1997年专辑《OK Computer》以前卫的编曲与对现代异化的反思被奉为经典，2000年《Kid A》则颠覆性地融合电子与爵士。乐队持续突破摇滚边界，是世纪之交最具影响力的乐队之一。",
+    "ownWork": [
+      { "workChineseName": "OK Computer", "workOriginalName": "OK Computer", "workId": "work_gbr_1997_001", "relationType": 13 },
+      { "workChineseName": "Kid A", "workOriginalName": "Kid A", "workId": "work_gbr_2000_002", "relationType": 13 }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1999_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "FRA",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1999,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Arkane Studios" },
+      { "language": 1, "name": "阿肯工作室" },
+      { "language": 2, "name": "Arkane Studios" }
+    ],
+    "introduction": "阿肯工作室，1999年成立于法国里昂的游戏开发团队，现属微软旗下。以沉浸式模拟游戏著称，先后推出《羞辱》系列、《掠食》及《死亡循环》，强调玩家选择与关卡架构的自由度，美术风格鲜明，是当代最具艺术气质的游戏工作室之一。",
+    "ownWork": [
+      { "workChineseName": "羞辱", "workOriginalName": "Dishonored", "workId": "work_fra_2012_001", "relationType": 8 },
+      { "workChineseName": "掠食", "workOriginalName": "Prey", "workId": "work_fra_2017_001", "relationType": 8 },
+      { "workChineseName": "死亡循环", "workOriginalName": "Deathloop", "workId": "work_fra_2021_001", "relationType": 8 }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1904_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1904,
+    "endCentury": 1997,
+    "names": [
+      { "language": 0, "name": "Willem de Kooning" },
+      { "language": 1, "name": "威廉·德·库宁" },
+      { "language": 2, "name": "Willem de Kooning" }
+    ],
+    "introduction": "威廉·德·库宁（1904—1997），荷兰裔美国画家，抽象表现主义核心人物。早年受训于鹿特丹，1926年移居美国。他以粗犷笔触与强烈色彩将具象与抽象融合，《女人》系列成为其标志性作品。与波洛克等共同推动纽约画派，对战后美国艺术影响深远。",
+    "ownWork": [
+      { "workChineseName": "女人 I", "workOriginalName": "Woman I", "workId": "work_usa_1950_001", "relationType": 17 }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1864_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "FRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1864,
+    "endCentury": 1943,
+    "names": [
+      { "language": 0, "name": "Camille Claudel" },
+      { "language": 1, "name": "卡米耶·克洛岱尔" },
+      { "language": 2, "name": "Camille Claudel" }
+    ],
+    "introduction": "卡米耶·克洛岱尔（1864—1943），法国雕塑家。曾师从罗丹并与之密切合作，作品《成熟》《华尔兹》等以充满张力的人体造型和情感深度著称。她冲破当时对女性艺术家的偏见，却在精神困境中度过晚年。其艺术成就正被重新评估，被视为现代雕塑的重要先驱。",
+    "ownWork": [
+      { "workChineseName": "成熟", "workOriginalName": "L'Âge mûr", "workId": "work_fra_1899_001", "relationType": 23 }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1907_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1907,
+    "endCentury": 1977,
+    "names": [
+      { "language": 0, "name": "Lee Miller" },
+      { "language": 1, "name": "李·米勒" },
+      { "language": 2, "name": "Lee Miller" }
+    ],
+    "introduction": "李·米勒（1907—1977），美国摄影师、超现实主义艺术家。早年作为模特登上《Vogue》封面，后转向摄影，在巴黎与曼·雷合作。二战期间担任战地记者，拍下集中营解放等震撼影像。她的作品融合了时尚、超现实与纪实，人生经历极具传奇色彩。",
+    "ownWork": [
+      { "workChineseName": "无题（李·米勒战时摄影）", "workOriginalName": "Untitled (Lee Miller War Photography)", "workId": "work_usa_1945_001", "relationType": 20 }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1987_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 3,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1987,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Rebecca Sugar" },
+      { "language": 1, "name": "丽贝卡·休格" },
+      { "language": 2, "name": "Rebecca Sugar" }
+    ],
+    "introduction": "丽贝卡·休格，1987年生于美国，动画师、编剧、作曲家。以创作动画剧集《史蒂文宇宙》闻名，该作品因包容性的主题、复杂的情感刻画与音乐元素广受好评。她此前曾参与《探险时光》，是当代美国电视动画重要作者之一。",
+    "ownWork": [
+      { "workChineseName": "史蒂文宇宙", "workOriginalName": "Steven Universe", "workId": "work_usa_2013_001", "relationType": 15 }
+    ]
+  },
+  {
+    "id": "realCharacter_deu_1925_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "DEU",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1925,
+    "endCentury": 2017,
+    "names": [
+      { "language": 0, "name": "Tankred Dorst" },
+      { "language": 1, "name": "坦克雷德·多斯特" },
+      { "language": 2, "name": "Tankred Dorst" }
+    ],
+    "introduction": "坦克雷德·多斯特（1925—2017），德国剧作家、导演。战后德语戏剧重要人物，作品深受布莱希特影响，又融入荒诞与诗意。代表作《默林》系列、《我，费尔巴哈》等，常以历史寓言观照当下，长期与舞台剧导演合作，获毕希纳奖等殊荣。",
+    "ownWork": [
+      { "workChineseName": "默林", "workOriginalName": "Merlin oder Das wüste Land", "workId": "work_deu_1981_001", "relationType": 21 }
+    ]
+  },
+  {
+    "id": "realCharacter_deu_1893_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "DEU",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1893,
+    "endCentury": 1939,
+    "names": [
+      { "language": 0, "name": "Ernst Toller" },
+      { "language": 1, "name": "恩斯特·托勒尔" },
+      { "language": 2, "name": "Ernst Toller" }
+    ],
+    "introduction": "恩斯特·托勒尔（1893—1939），德国表现主义剧作家、革命家。曾参与1919年巴伐利亚苏维埃共和国，后被捕，狱中写成《群众与人》等剧作。他的剧本以充满激情的语言探讨暴力、理想与道德冲突，流亡期间继续创作，后在美国自杀。",
+    "ownWork": [
+      { "workChineseName": "群众与人", "workOriginalName": "Masse Mensch", "workId": "work_deu_1920_001", "relationType": 21 }
+    ]
+  },
+  {
+    "id": "realCharacter_rus_1872_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "RUS",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1872,
+    "endCentury": 1929,
+    "names": [
+      { "language": 0, "name": "Сергей Павлович Дягилев" },
+      { "language": 1, "name": "谢尔盖·佳吉列夫" },
+      { "language": 2, "name": "Sergei Diaghilev" }
+    ],
+    "introduction": "谢尔盖·佳吉列夫（1872—1929），俄罗斯艺术活动家，芭蕾舞团创始人。1909年在巴黎创办俄罗斯芭蕾舞团，集结斯特拉文斯基、毕加索、尼金斯基等顶尖艺术家，推出《火鸟》《春之祭》等革新之作，彻底改变了现代芭蕾的面貌，是20世纪初跨界艺术的灵魂人物。",
+    "ownWork": [
+      { "workChineseName": "春之祭", "workOriginalName": "Весна священная", "workId": "work_rus_1913_001", "relationType": 99 }
+    ]
+  },
+  {
+    "id": "realCharacter_lbn_1974_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "LBN",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1974,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "نادين لبكي" },
+      { "language": 1, "name": "娜丁·拉巴基" },
+      { "language": 2, "name": "Nadine Labaki" }
+    ],
+    "introduction": "娜丁·拉巴基，1974年生于黎巴嫩，电影导演、演员。作品多聚焦黎巴嫩社会问题，以现实主义与戏剧性结合见长。2018年《何以为家》讲述贫民窟儿童起诉父母的故事，获戛纳评审团奖与奥斯卡提名，使她成为阿拉伯世界最具国际影响力的导演之一。",
+    "ownWork": [
+      { "workChineseName": "何以为家", "workOriginalName": "کفرناحوم", "workId": "work_lbn_2018_001", "relationType": 2 }
+    ]
+  },
+  {
+    "id": "realCharacter_col_1977_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "COL",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1977,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Shakira" },
+      { "language": 1, "name": "夏奇拉" },
+      { "language": 2, "name": "Shakira" }
+    ],
+    "introduction": "夏奇拉，1977年生于哥伦比亚巴兰基亚，拉丁流行歌手、词曲作者。以融合拉丁、摇滚与中东元素的独特风格和出色舞台表现闻名全球，代表作《Hips Don't Lie》《Waka Waka》等。她是拉丁跨界艺人中最成功的代表之一，多次获格莱美与拉丁格莱美奖。",
+    "ownWork": [
+      { "workChineseName": "Hips Don't Lie", "workOriginalName": "Hips Don't Lie", "workId": "work_col_2006_001", "relationType": 11 }
+    ]
+  },
+  {
+    "id": "realCharacter_idn_2009_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "IDN",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 2009,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Toge Productions" },
+      { "language": 1, "name": "Toge Productions" },
+      { "language": 2, "name": "Toge Productions" }
+    ],
+    "introduction": "Toge Productions，印度尼西亚独立游戏工作室，成立于2009年。以开发叙事驱动、体现印尼文化特色的游戏闻名，代表作《Coffee Talk》系列通过冲调咖啡与对话推进故事，获得广泛好评。工作室致力于挖掘本土故事并推向国际市场。",
+    "ownWork": [
+      { "workChineseName": "Coffee Talk", "workOriginalName": "Coffee Talk", "workId": "work_idn_2020_001", "relationType": 8 }
+    ]
+  },
+  {
+    "id": "realCharacter_ind_1913_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "IND",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1913,
+    "endCentury": 1941,
+    "names": [
+      { "language": 0, "name": "Amrita Sher-Gil" },
+      { "language": 1, "name": "阿姆丽塔·谢尔-吉尔" },
+      { "language": 2, "name": "Amrita Sher-Gil" }
+    ],
+    "introduction": "阿姆丽塔·谢尔-吉尔（1913—1941），印度画家，被誉为“印度的弗里达”。拥有匈牙利与印度血统，早年留学巴黎。她的画风融合西方现代主义与印度细密画传统，以强烈色彩描绘印度乡村日常，尤以女性肖像见长。虽英年早逝，却对现代印度艺术产生深远影响。",
+    "ownWork": [
+      { "workChineseName": "三位少女", "workOriginalName": "Three Girls", "workId": "work_ind_1935_001", "relationType": 17 }
+    ]
+  },
+  {
+    "id": "realCharacter_bra_1928_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "BRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1928,
+    "endCentury": 2021,
+    "names": [
+      { "language": 0, "name": "Paulo Mendes da Rocha" },
+      { "language": 1, "name": "保罗·门德斯·达·罗查" },
+      { "language": 2, "name": "Paulo Mendes da Rocha" }
+    ],
+    "introduction": "保罗·门德斯·达·罗查（1928—2021），巴西建筑师，2006年普利兹克建筑奖得主。以粗野主义风格闻名，善于用清水混凝土构筑大气而富有诗意的公共空间。代表作有巴西雕塑博物馆、圣保罗体育场改造等，其设计强调结构诚实与社会关怀，是拉丁美洲现代建筑的重要代表。",
+    "ownWork": [
+      { "workChineseName": "巴西雕塑博物馆", "workOriginalName": "Museu Brasileiro da Escultura", "workId": "work_bra_1988_001", "relationType": 18 }
+    ]
+  },
+  {
+    "id": "realCharacter_aus_1971_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "AUS",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1971,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Trent Parke" },
+      { "language": 1, "name": "特伦特·帕克" },
+      { "language": 2, "name": "Trent Parke" }
+    ],
+    "introduction": "特伦特·帕克，1971年生于澳大利亚纽卡斯尔，摄影师。马格南图片社首位澳大利亚成员。其作品以高对比黑白影像捕捉本国日常生活中的戏剧性与孤寂感，《Minutes to Midnight》等摄影集记录了跨越内陆的旅程，展现独特的视觉叙事风格。",
+    "ownWork": [
+      { "workChineseName": "Minutes to Midnight", "workOriginalName": "Minutes to Midnight", "workId": "work_aus_2005_001", "relationType": 20 }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1966_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1966,
+    "endCentury": 1996,
+    "names": [
+      { "language": 0, "name": "Kevin Gilbert" },
+      { "language": 1, "name": "凯文·吉尔伯特" },
+      { "language": 2, "name": "Kevin Gilbert" }
+    ],
+    "introduction": "凯文·吉尔伯特（1966—1996），美国音乐人、词曲作者、制作人。曾为雪儿·克罗等人创作，以个人专辑《The Shaming of the True》展现叙事摇滚概念专辑的才华。他多乐器演奏能力出众，因意外早逝，却在洛杉矶音乐圈留下深刻影响。",
+    "ownWork": [
+      { "workChineseName": "The Shaming of the True", "workOriginalName": "The Shaming of the True", "workId": "work_usa_2000_002", "relationType": 11 }
+    ]
+  },
+  {
+    "id": "realCharacter_tur_1930_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "TUR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1930,
+    "endCentury": 2013,
+    "names": [
+      { "language": 0, "name": "Turgut Özakman" },
+      { "language": 1, "name": "图尔古特·厄扎克曼" },
+      { "language": 2, "name": "Turgut Özakman" }
+    ],
+    "introduction": "图尔古特·厄扎克曼（1930—2013），土耳其剧作家、作家。作品常取材自历史与现实，以戏剧手法探讨民族认同与社会变迁。代表作《疯狂的土耳其》等广受欢迎，他还撰写电影剧本和小说，是土耳其现代戏剧界的重要推动者。",
+    "ownWork": [
+      { "workChineseName": "疯狂的土耳其", "workOriginalName": "Şu Çılgın Türkler", "workId": "work_tur_2005_001", "relationType": 1 }
+    ]
+  }
+,
+  {
+    "id": "realCharacter_nga_unknown_001",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 4,
+    "gender": 0,
+    "countryCode": "NGA",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": null,
+    "endCentury": null,
+    "names": [
+      { "language": 0, "name": "Magic Carpet Studios" },
+      { "language": 1, "name": "魔毯动画工作室" },
+      { "language": 2, "name": "Magic Carpet Studios" }
+    ],
+    "introduction": "魔毯动画工作室，尼日利亚动画制作公司。以融合西非文化元素与当代动画技术见长，致力于为本土及全球观众创作动画内容。代表作品包括动画剧集《马兰·伊利亚的护照》等，通过生动的视觉叙事展现非洲故事，是尼日利亚新兴动画产业的重要推动者。",
+    "ownWork": [
+      { "workChineseName": "马兰·伊利亚的护照", "workOriginalName": "The Passport of Mallam Ilia", "workId": "work_nga_2019_001", "relationType": 16 }
+    ]
+  }
+]

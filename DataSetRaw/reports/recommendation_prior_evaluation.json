@@ -1,0 +1,17 @@
+{
+  "schema": "rgmj-recommendation-prior-evaluation/v1",
+  "ready": false,
+  "coverage": {
+    "latestRatings": 2,
+    "eligibleRatings": 0,
+    "behaviorUsers": 1,
+    "testPriorUsers": 1,
+    "crpWorks": 0,
+    "audiencePriorWorks": 0
+  },
+  "variants": {},
+  "limitations": [
+    "这是使用现有评分的离线相关性检查，不是线上因果 A/B 测试。",
+    "用户长期向量可能已经学习过被评估评分，因此结果存在信息泄漏；正式评估应按时间切分。"
+  ]
+}

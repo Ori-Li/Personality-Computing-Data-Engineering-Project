@@ -1,0 +1,4494 @@
+{
+  "schema": "rgmj-entity-snapshot/v1",
+  "generatedAt": "2026-07-17T12:14:13.534300+00:00",
+  "database": "rgmj",
+  "characters": [
+    {
+      "databaseId": 177262078377455567,
+      "gender": 1,
+      "introduction": "土耳其剧作家、小说家与公共文化管理者，作品经常处理共和国历史和社会现代化。代表作品包括《Şu Çılgın Türkler》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1930,
+      "endCentury": 2013,
+      "countryCode": "TUR",
+      "names": [
+        {
+          "language": 0,
+          "name": "Turgut Özakman"
+        }
+      ]
+    },
+    {
+      "databaseId": 315157178266955305,
+      "gender": 2,
+      "introduction": "美国作家，作品关注孤独、欲望、身体差异与美国南方小镇中的疏离关系。代表作品包括《The Heart Is a Lonely Hunter》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1917,
+      "endCentury": 1967,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Carson McCullers"
+        }
+      ]
+    },
+    {
+      "databaseId": 334184674644426185,
+      "gender": 2,
+      "introduction": "中国演员，具有舞蹈训练背景，影视角色多涉及职业女性、年代叙事与复杂家庭关系。代表作品包括《铁梨花》、《和平饭店》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1977,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "陈数"
+        }
+      ]
+    },
+    {
+      "databaseId": 819657856803763120,
+      "gender": 2,
+      "introduction": "中国歌唱家，以多语种和不同地域音乐风格的舞台演唱形成广泛传播。代表作品包括《回娘家》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1950,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "朱明瑛"
+        }
+      ]
+    },
+    {
+      "databaseId": 985152646119743182,
+      "gender": 2,
+      "introduction": "中国演员，主要参与电视剧和电影表演，作品覆盖武侠、年代和都市题材。代表作品包括《射雕英雄传》、《狂飙》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。代表角色经由电影、电视或舞台传播，成为观众认识其职业生涯的重要线索。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1990,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "李一桐"
+        }
+      ]
+    },
+    {
+      "databaseId": 1001714274025317875,
+      "gender": 0,
+      "introduction": "香港影视制作机构，建立类型片工业体系并持续生产武侠、动作、黄梅调和都市电影。代表作品包括《独臂刀》、《大醉侠》。该组织通过持续协作整合创意、技术与制作资源，代表成果体现了共同形成的专业方向和文化影响。",
+      "realSubType": 2,
+      "creativeEntityType": 5,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1958,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "邵氏兄弟"
+        }
+      ]
+    },
+    {
+      "databaseId": 1064332462268903951,
+      "gender": 0,
+      "introduction": "香港专业芭蕾舞团，演出古典剧目并委约当代编舞，形成国际与本地创作并行的 repertory。代表作品包括《大红灯笼高高挂》。该组织通过持续协作整合创意、技术与制作资源，代表成果体现了共同形成的专业方向和文化影响。",
+      "realSubType": 2,
+      "creativeEntityType": 3,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1979,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "香港芭蕾舞团"
+        }
+      ]
+    },
+    {
+      "databaseId": 1099728103270357859,
+      "gender": 1,
+      "introduction": "香港演员、导演和制片人，长期参与警匪电影并以写实表演塑造执法者与边缘人物。代表作品包括《公仆》、《喋血双雄》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。相关作品经由院线、电视、影展或流媒体传播，成为观众理解其创作生涯的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1952,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "李修贤"
+        }
+      ]
+    },
+    {
+      "databaseId": 1119614339038073117,
+      "gender": 1,
+      "introduction": "东晋史官与志怪文学作者，编纂材料时将历史记录、民间传说与神异叙事结合。代表作品包括《搜神记》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 10,
+      "beginCentury": 283,
+      "endCentury": 351,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "干宝"
+        }
+      ]
+    },
+    {
+      "databaseId": 1350329933521921020,
+      "gender": 1,
+      "introduction": "中国创作歌手，从选秀舞台进入职业音乐领域，作品结合流行摇滚与个人写作。代表作品包括《带我去寻找》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1988,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "王啸坤"
+        }
+      ]
+    },
+    {
+      "databaseId": 1552575052437741938,
+      "gender": 2,
+      "introduction": "黎巴嫩导演与演员，以非职业演员和社会现实题材处理女性处境、贫困与家庭责任。代表作品包括《Capernaum》、《Caramel》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1974,
+      "endCentury": null,
+      "countryCode": "LBN",
+      "names": [
+        {
+          "language": 0,
+          "name": "Nadine Labaki"
+        }
+      ]
+    },
+    {
+      "databaseId": 1619964093779028381,
+      "gender": 1,
+      "introduction": "元代杂剧作家，在历史兴亡与爱情叙事中发展曲词和舞台结构。代表作品包括《梧桐雨》、《墙头马上》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 17,
+      "beginCentury": 1226,
+      "endCentury": 1306,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "白朴"
+        }
+      ]
+    },
+    {
+      "databaseId": 1801277456254463844,
+      "gender": 1,
+      "introduction": "巴西建筑师，以裸露混凝土、大跨度结构和公共性空间回应圣保罗的城市条件。代表作品包括《Museu Brasileiro da Escultura》。其建筑实践把结构、材料、空间组织与城市环境结合起来，代表项目体现了明确的公共性和设计方法。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1928,
+      "endCentury": 2021,
+      "countryCode": "BRA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Paulo Mendes da Rocha"
+        }
+      ]
+    },
+    {
+      "databaseId": 1819639602444433040,
+      "gender": 1,
+      "introduction": "英国小说家，通过封闭群体和寓言结构考察文明秩序、暴力与道德责任。代表作品包括《Lord of the Flies》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1911,
+      "endCentury": 1993,
+      "countryCode": "GBR",
+      "names": [
+        {
+          "language": 0,
+          "name": "William Golding"
+        }
+      ]
+    },
+    {
+      "databaseId": 1875364542273825919,
+      "gender": 1,
+      "introduction": "战国时期楚国诗人，以香草美人意象、政治理想与放逐经验构成《楚辞》的核心传统。代表作品包括《离骚》、《九歌》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 5,
+      "beginCentury": -340,
+      "endCentury": -278,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "屈原"
+        }
+      ]
+    },
+    {
+      "databaseId": 1977604086690041068,
+      "gender": 1,
+      "introduction": "中国油画家，以具象人物、身体结构和室内空间研究学院派写实语言。代表作品包括《我的梦》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。相关作品通过展览、收藏、出版和艺术史叙述持续进入公共视野。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1945,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "徐芒耀"
+        }
+      ]
+    },
+    {
+      "databaseId": 2074425203781892955,
+      "gender": 1,
+      "introduction": "现代作家，以讽刺小说和儿童文学观察社会角色、功利心理与日常权力关系。代表作品包括《华威先生》、《宝葫芦的秘密》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 3,
+      "dynasty": 20,
+      "beginCentury": 1906,
+      "endCentury": 1985,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "张天翼"
+        }
+      ]
+    },
+    {
+      "databaseId": 2111682869381161872,
+      "gender": 1,
+      "introduction": "中国歌手、词曲作者与音乐教师，以钢琴基础和抒情歌曲写作参与影视及流行音乐生产。代表作品包括《时间都去哪儿了》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1977,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "王铮亮"
+        }
+      ]
+    },
+    {
+      "databaseId": 2202612747816261509,
+      "gender": 1,
+      "introduction": "中国版画家，以木刻记录乡村生活、劳动者形象和革命时期的社会经验。代表作品包括《减租会》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。相关作品通过展览、收藏、出版和艺术史叙述持续进入公共视野。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 20,
+      "beginCentury": 1919,
+      "endCentury": 1996,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "古元"
+        }
+      ]
+    },
+    {
+      "databaseId": 2220276042988708207,
+      "gender": 2,
+      "introduction": "匈牙利出生的印度画家，将欧洲现代主义训练与印度乡村人物、女性生活和色彩传统结合。代表作品包括《Three Girls》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1913,
+      "endCentury": 1941,
+      "countryCode": "IND",
+      "names": [
+        {
+          "language": 0,
+          "name": "Amrita Sher-Gil"
+        }
+      ]
+    },
+    {
+      "databaseId": 2417713507785337033,
+      "gender": 2,
+      "introduction": "中国配音演员与网络歌手，工作横跨游戏角色配音、虚拟内容和歌曲演唱。代表作品包括《Cyberangel》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1992,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "Hanser"
+        }
+      ]
+    },
+    {
+      "databaseId": 2479706076825739353,
+      "gender": 2,
+      "introduction": "中国歌手与演员，通过女子组合、综艺和影视表演形成跨媒介职业路径。代表作品包括《满糖宣言》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1995,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "吴宣仪"
+        }
+      ]
+    },
+    {
+      "databaseId": 2611854521963269414,
+      "gender": 2,
+      "introduction": "昆曲表演艺术家，专工小生，在传统身段、唱腔和现代舞台传播之间持续实践。代表作品包括《牡丹亭》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。代表角色经由电影、电视或舞台传播，成为观众认识其职业生涯的重要线索。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1941,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "岳美缇"
+        }
+      ]
+    },
+    {
+      "databaseId": 2642424819475008541,
+      "gender": 1,
+      "introduction": "台湾作词人，以口语化叙事、人物视角和电影感意象参与华语流行音乐创作。代表作品包括《我不难过》。其歌词创作重视语言节奏、意象与叙事浓度，使作品在流行传播之外保留鲜明的文本特征。相关文本伴随歌曲传播，并在不同听众和时代语境中获得持续阅读。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1975,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "严云农"
+        }
+      ]
+    },
+    {
+      "databaseId": 2766911024263705816,
+      "gender": 1,
+      "introduction": "韩国摄影家，以战后首尔街头、儿童与日常生活记录快速现代化中的社会面貌。代表作品包括《서울, 모던 타임즈》。其摄影实践以取景、光线和拍摄现场的判断建立视觉叙事，作品兼具时代记录与个人风格。相关影像通过出版、展览和新闻传播进入公共视野，保留了具体时代的视觉经验。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1933,
+      "endCentury": 1999,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "한영수"
+        }
+      ]
+    },
+    {
+      "databaseId": 3067227222836245209,
+      "gender": 1,
+      "introduction": "中国摄影家，以风景和社会生活摄影参与近现代摄影艺术的传播与组织。代表作品包括《力挽狂澜》。其摄影实践以取景、光线和拍摄现场的判断建立视觉叙事，作品兼具时代记录与个人风格。相关影像通过出版、展览和新闻传播进入公共视野，保留了具体时代的视觉经验。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 20,
+      "beginCentury": 1900,
+      "endCentury": 1971,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "张印泉"
+        }
+      ]
+    },
+    {
+      "databaseId": 3266123746058772109,
+      "gender": 0,
+      "introduction": "韩国游戏发行与开发公司，业务涵盖移动、PC和主机游戏的制作与运营。代表作品包括《언디셈버》。该公司通过开发组织、技术积累与发行运营推动作品落地，并在游戏类型与玩家文化中形成影响。相关产品在发行和玩家传播中积累认知，体现了团队的长期开发能力。",
+      "realSubType": 1,
+      "creativeEntityType": 6,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 2012,
+      "endCentury": null,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "라인게임즈"
+        }
+      ]
+    },
+    {
+      "databaseId": 3275713122911230929,
+      "gender": 1,
+      "introduction": "中国建筑师与建筑教育者，关注建造逻辑、日常材料和现代城市中的空间经验。代表作品包括《二分宅》。其建筑实践把结构、材料、空间组织与城市环境结合起来，代表项目体现了明确的公共性和设计方法。这些项目以可实际进入和使用的空间保存其设计理念，并持续参与城市生活。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1956,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "张永和"
+        }
+      ]
+    },
+    {
+      "databaseId": 3275746144553929013,
+      "gender": 1,
+      "introduction": "中国电影导演，以黑色幽默和现实主义视角观察机构生活、知识分子处境与社会转型。代表作品包括《黑炮事件》、《背靠背，脸对脸》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1954,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "黄建新"
+        }
+      ]
+    },
+    {
+      "databaseId": 3515621873092390892,
+      "gender": 1,
+      "introduction": "日本建筑师，新陈代谢派重要成员，以可生长结构和海上城市设想回应战后城市化。代表作品包括《出云大社庁の舎》。其建筑实践把结构、材料、空间组织与城市环境结合起来，代表项目体现了明确的公共性和设计方法。这些项目以可实际进入和使用的空间保存其设计理念，并持续参与城市生活。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1928,
+      "endCentury": 2011,
+      "countryCode": "JPN",
+      "names": [
+        {
+          "language": 0,
+          "name": "菊竹清訓"
+        }
+      ]
+    },
+    {
+      "databaseId": 3564038093521603599,
+      "gender": 1,
+      "introduction": "明代花鸟画家，综合工笔与写意方法，以花卉禽鸟构成清润而繁密的画面。代表作品包括《百花图卷》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。相关作品通过展览、收藏、出版和艺术史叙述持续进入公共视野。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 18,
+      "beginCentury": 1521,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "周之冕"
+        }
+      ]
+    },
+    {
+      "databaseId": 3706484020602424415,
+      "gender": 1,
+      "introduction": "日本导演、演员与喜剧人，电影以克制节奏、突发暴力和孤独人物形成鲜明风格。代表作品包括《花火》、《菊次郎的夏天》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。相关作品经由院线、电视、影展或流媒体传播，成为观众理解其创作生涯的重要部分。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1947,
+      "endCentury": null,
+      "countryCode": "JPN",
+      "names": [
+        {
+          "language": 0,
+          "name": "北野武"
+        }
+      ]
+    },
+    {
+      "databaseId": 3754801012421127669,
+      "gender": 1,
+      "introduction": "美国多乐器演奏者、词曲作者与制作人，以前卫摇滚编曲和个人化录音工程受到关注。代表作品包括《The Shaming of the True》。其音乐创作通过旋律、和声、配器与结构塑造作品气质，并在演出或录音传播中建立辨识度。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1966,
+      "endCentury": 1996,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Kevin Gilbert"
+        }
+      ]
+    },
+    {
+      "databaseId": 3776793108327213425,
+      "gender": 1,
+      "introduction": "中国演员，长期参与舞台喜剧和商业电影，在夸张喜剧节奏中保留小人物处境。代表作品包括《这个杀手不太冷静》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。代表角色经由电影、电视或舞台传播，成为观众认识其职业生涯的重要线索。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1979,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "魏翔"
+        }
+      ]
+    },
+    {
+      "databaseId": 3806215731059945588,
+      "gender": 0,
+      "introduction": "法国起源的游戏工作室，以沉浸式模拟、关卡系统和多路径玩家选择著称。代表作品包括《Dishonored》、《Prey》。该团队围绕程序、美术、关卡与交互系统持续协作，以完整产品呈现共同的设计取向。这些项目通过实际游玩过程呈现设计理念，也积累了稳定的玩家认知。",
+      "realSubType": 1,
+      "creativeEntityType": 6,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1999,
+      "endCentury": null,
+      "countryCode": "FRA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Arkane Studios"
+        }
+      ]
+    },
+    {
+      "databaseId": 4114341476142669068,
+      "gender": 1,
+      "introduction": "诗人、散文家与翻译家，作品反复处理乡愁、语言迁移和古典传统的现代转化。代表作品包括《乡愁》、《听听那冷雨》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 3,
+      "dynasty": 21,
+      "beginCentury": 1928,
+      "endCentury": 2017,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "余光中"
+        }
+      ]
+    },
+    {
+      "databaseId": 4179072157216227257,
+      "gender": 1,
+      "introduction": "中国作曲家与钢琴家，参与将传统旋律和革命歌曲材料转化为钢琴作品。代表作品包括《翻身的日子》、《黄河钢琴协奏曲》。其音乐创作通过旋律、和声、配器与结构塑造作品气质，并在演出或录音传播中建立辨识度。相关作品通过录音、演出和再演绎持续传播，构成其音乐生涯的重要坐标。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1941,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "储望华"
+        }
+      ]
+    },
+    {
+      "databaseId": 4215356693366640332,
+      "gender": 1,
+      "introduction": "华语流行音乐作词人，歌词常以清晰叙事和都市情感组织歌曲意象。代表作品包括《遇见》、《单身情歌》。其歌词创作重视语言节奏、意象与叙事浓度，使作品在流行传播之外保留鲜明的文本特征。相关文本伴随歌曲传播，并在不同听众和时代语境中获得持续阅读。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1969,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "易家扬"
+        }
+      ]
+    },
+    {
+      "databaseId": 4275241623245354551,
+      "gender": 2,
+      "introduction": "法国雕塑家，以强烈身体动态和亲密关系主题发展独立于学院传统的雕塑语言。代表作品包括《L’Âge mûr》。其雕塑创作重视材料、尺度与观看空间的关系，代表作体现了对形体和公共环境的持续探索。相关作品通过展览与公共空间被反复观看，形成稳定的视觉文化记忆。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1864,
+      "endCentury": 1943,
+      "countryCode": "FRA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Camille Claudel"
+        }
+      ]
+    },
+    {
+      "databaseId": 4370301001457947796,
+      "gender": 1,
+      "introduction": "作曲家与小提琴家，将中国民歌素材融入西方器乐写作并推动近现代小提琴创作。代表作品包括《思乡曲》、《西藏音诗》。其音乐创作通过旋律、和声、配器与结构塑造作品气质，并在演出或录音传播中建立辨识度。相关作品通过录音、演出和再演绎持续传播，构成其音乐生涯的重要坐标。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 20,
+      "beginCentury": 1912,
+      "endCentury": 1987,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "马思聪"
+        }
+      ]
+    },
+    {
+      "databaseId": 4477972354225670208,
+      "gender": 1,
+      "introduction": "中国作家，长期书写知青经历、工人家庭与社会转型中的伦理选择。代表作品包括《人世间》、《雪城》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 3,
+      "dynasty": 21,
+      "beginCentury": 1949,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "梁晓声"
+        }
+      ]
+    },
+    {
+      "databaseId": 4588365749680933783,
+      "gender": 0,
+      "introduction": "英国摇滚乐队，在吉他摇滚基础上持续吸收电子音乐、实验结构和数字发行方式。代表作品包括《Paranoid Android》、《Everything in Its Right Place》。该组织通过持续协作整合创意、技术与制作资源，代表成果体现了共同形成的专业方向和文化影响。",
+      "realSubType": 1,
+      "creativeEntityType": 2,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1985,
+      "endCentury": null,
+      "countryCode": "GBR",
+      "names": [
+        {
+          "language": 0,
+          "name": "Radiohead"
+        }
+      ]
+    },
+    {
+      "databaseId": 4595849640738958922,
+      "gender": 1,
+      "introduction": "荷兰出生的美国画家，以剧烈笔触、反复修改和人物与抽象之间的张力成为抽象表现主义核心人物。代表作品包括《Woman I》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1904,
+      "endCentury": 1997,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Willem de Kooning"
+        }
+      ]
+    },
+    {
+      "databaseId": 4613665268405556461,
+      "gender": 1,
+      "introduction": "俄罗斯艺术策划人与芭蕾制作人，通过跨国委约连接编舞、音乐、绘画和舞台设计。代表作品包括《The Rite of Spring》。其创作实践连接题材选择、媒介方法与协作过程，代表成果体现了长期积累形成的专业方向。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1872,
+      "endCentury": 1929,
+      "countryCode": "RUS",
+      "names": [
+        {
+          "language": 0,
+          "name": "Sergei Diaghilev"
+        }
+      ]
+    },
+    {
+      "databaseId": 4631313885021438836,
+      "gender": 2,
+      "introduction": "华语流行歌手，以细腻咬字和跨地区传播改变华语流行歌曲的演唱与接受方式。代表作品包括《月亮代表我的心》、《甜蜜蜜》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1953,
+      "endCentury": 1995,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "邓丽君"
+        }
+      ]
+    },
+    {
+      "databaseId": 4674695188732857090,
+      "gender": 1,
+      "introduction": "日本游戏企业家，创办卡普空并推动街机与家用机游戏的长期系列化经营。代表作品包括《ストリートファイターII》。该公司通过开发组织、技术积累与发行运营推动作品落地，并在游戏类型与玩家文化中形成影响。相关产品在发行和玩家传播中积累认知，体现了团队的长期开发能力。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 3,
+      "dynasty": null,
+      "beginCentury": 1940,
+      "endCentury": null,
+      "countryCode": "JPN",
+      "names": [
+        {
+          "language": 0,
+          "name": "辻本憲三"
+        }
+      ]
+    },
+    {
+      "databaseId": 5016430403458995595,
+      "gender": 0,
+      "introduction": "中国游戏公司，长期运营网络游戏并参与角色扮演、移动游戏与全球发行。代表作品包括《完美世界》。该公司通过开发组织、技术积累与发行运营推动作品落地，并在游戏类型与玩家文化中形成影响。相关产品在发行和玩家传播中积累认知，体现了团队的长期开发能力。",
+      "realSubType": 2,
+      "creativeEntityType": 6,
+      "field": 8,
+      "dynasty": 21,
+      "beginCentury": 2004,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "完美世界游戏"
+        }
+      ]
+    },
+    {
+      "databaseId": 5018106561625938795,
+      "gender": 2,
+      "introduction": "哥伦比亚歌手与词曲作者，将拉丁流行、摇滚和舞蹈表演推向跨语种国际市场。代表作品包括《Hips Don’t Lie》、《Whenever, Wherever》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1977,
+      "endCentury": null,
+      "countryCode": "COL",
+      "names": [
+        {
+          "language": 0,
+          "name": "Shakira"
+        }
+      ]
+    },
+    {
+      "databaseId": 5067741002692323936,
+      "gender": 1,
+      "introduction": "香港动作指导与导演，以威亚、身体运动和快速剪辑塑造武侠电影的视觉节奏。代表作品包括《倩女幽魂》、《东方不败》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。相关作品经由院线、电视、影展或流媒体传播，成为观众理解其创作生涯的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1953,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "程小东"
+        }
+      ]
+    },
+    {
+      "databaseId": 5324617127757309774,
+      "gender": 2,
+      "introduction": "中国早期电影演员，在上海电影工业中以都市女性和家庭伦理角色受到关注。代表作品包括《压岁钱》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。代表角色经由电影、电视或舞台传播，成为观众认识其职业生涯的重要线索。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 20,
+      "beginCentury": 1917,
+      "endCentury": 1989,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "顾兰君"
+        }
+      ]
+    },
+    {
+      "databaseId": 5342755306584452787,
+      "gender": 1,
+      "introduction": "英国电影导演，以精密视觉设计在科幻、历史和犯罪类型中构建制度与个体冲突。代表作品包括《Alien》、《Blade Runner》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1937,
+      "endCentury": null,
+      "countryCode": "GBR",
+      "names": [
+        {
+          "language": 0,
+          "name": "Ridley Scott"
+        }
+      ]
+    },
+    {
+      "databaseId": 5537204886350685439,
+      "gender": 2,
+      "introduction": "香港演员，以电视剧表演建立职业声誉，角色选择横跨古装、职业与家庭叙事。代表作品包括《宫心计》、《On Call 36小时》。其表演通过角色理解、身体语言和声音控制完成银幕或舞台形象，并在不同题材中展现稳定的专业能力。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1979,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "杨怡"
+        }
+      ]
+    },
+    {
+      "databaseId": 5625846745232686516,
+      "gender": 1,
+      "introduction": "美国小说家，以类型转换、历史研究和讽刺语言重构种族经验与制度暴力。代表作品包括《The Underground Railroad》、《The Nickel Boys》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1969,
+      "endCentury": null,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Colson Whitehead"
+        }
+      ]
+    },
+    {
+      "databaseId": 5762280276644793482,
+      "gender": 2,
+      "introduction": "日本剧作家、导演与演员，作品以高速对白和女性经验处理亲密关系与社会期待。代表作品包括《もっとも大いなる愛へ》。其戏剧创作通过人物冲突、语言节奏与舞台结构回应社会经验，代表作在演出与阅读中持续流传。这些剧作通过排演、出版和再创作延续生命，也连接了不同时期的舞台观众。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1989,
+      "endCentury": null,
+      "countryCode": "JPN",
+      "names": [
+        {
+          "language": 0,
+          "name": "根本宗子"
+        }
+      ]
+    },
+    {
+      "databaseId": 5944192256341930574,
+      "gender": 0,
+      "introduction": "中国独立游戏工作室，围绕叙事解谜和本土文化题材进行小团队开发。代表作品包括《山海旅人》。该公司通过开发组织、技术积累与发行运营推动作品落地，并在游戏类型与玩家文化中形成影响。相关产品在发行和玩家传播中积累认知，体现了团队的长期开发能力。",
+      "realSubType": 2,
+      "creativeEntityType": 6,
+      "field": 8,
+      "dynasty": 21,
+      "beginCentury": 2015,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "木狼游戏"
+        }
+      ]
+    },
+    {
+      "databaseId": 6042037112585577460,
+      "gender": 2,
+      "introduction": "中国舞者，以中国古典舞训练和当代舞台表达塑造具有仪式感的身体形象。代表作品包括《只此青绿》。其编舞通过身体动作、空间关系与音乐节奏组织舞台，推动作品形成独立的表演语言。相关舞台作品依靠排演与身体传承持续传播，并拓展了舞蹈的表现边界。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1992,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "孟庆旸"
+        }
+      ]
+    },
+    {
+      "databaseId": 6140390625601568606,
+      "gender": 1,
+      "introduction": "澳大利亚摄影家，以高反差光线、街头瞬间和长期个人项目重构日常经验。代表作品包括《Minutes to Midnight》。其摄影实践以取景、光线和拍摄现场的判断建立视觉叙事，作品兼具时代记录与个人风格。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1971,
+      "endCentury": null,
+      "countryCode": "AUS",
+      "names": [
+        {
+          "language": 0,
+          "name": "Trent Parke"
+        }
+      ]
+    },
+    {
+      "databaseId": 6276971789133984785,
+      "gender": 1,
+      "introduction": "日本游戏作曲家，以摇滚、爵士和电子音色为角色扮演游戏建立鲜明声音身份。代表作品包括《ペルソナ5》。其音乐创作通过旋律、和声、配器与结构塑造作品气质，并在演出或录音传播中建立辨识度。相关作品通过录音、演出和再演绎持续传播，构成其音乐生涯的重要坐标。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1971,
+      "endCentury": null,
+      "countryCode": "JPN",
+      "names": [
+        {
+          "language": 0,
+          "name": "目黒将司"
+        }
+      ]
+    },
+    {
+      "databaseId": 6306244044463747804,
+      "gender": 1,
+      "introduction": "韩国游戏企业家与制作管理者，创办娱美德并长期参与网络游戏产业运营。代表作品包括《미르의 전설 2》。其游戏制作实践把玩法机制、叙事目标和团队协作结合起来，推动项目形成稳定而可辨识的体验。代表项目在玩法设计与叙事表达之间建立联系，并获得了持续的玩家讨论。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 3,
+      "dynasty": null,
+      "beginCentury": 1973,
+      "endCentury": null,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "박관호"
+        }
+      ]
+    },
+    {
+      "databaseId": 6308753851672872846,
+      "gender": 2,
+      "introduction": "美国现代主义诗人，以精确观察、引文拼贴和严格形式讨论动物、伦理与公共语言。代表作品包括《Poetry》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1887,
+      "endCentury": 1972,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Marianne Moore"
+        }
+      ]
+    },
+    {
+      "databaseId": 6702741312252318317,
+      "gender": 1,
+      "introduction": "中国作曲家、歌手和音乐制作人，参与公益歌曲与流行音乐的大型协作生产。代表作品包括《让世界充满爱》。其音乐创作通过旋律、和声、配器与结构塑造作品气质，并在演出或录音传播中建立辨识度。相关作品通过录音、演出和再演绎持续传播，构成其音乐生涯的重要坐标。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1962,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "郭峰"
+        }
+      ]
+    },
+    {
+      "databaseId": 6742019393857605008,
+      "gender": 1,
+      "introduction": "德国表现主义剧作家，作品由战争经验与革命政治出发，关注群体行动和个人责任。代表作品包括《Masse Mensch》。其戏剧创作通过人物冲突、语言节奏与舞台结构回应社会经验，代表作在演出与阅读中持续流传。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1893,
+      "endCentury": 1939,
+      "countryCode": "DEU",
+      "names": [
+        {
+          "language": 0,
+          "name": "Ernst Toller"
+        }
+      ]
+    },
+    {
+      "databaseId": 6758393697733400377,
+      "gender": 1,
+      "introduction": "台湾剧作家与学者，以悬疑结构、黑色幽默和知识分子处境组织现代戏剧文本。代表作品包括《夜夜夜麻》。其戏剧创作通过人物冲突、语言节奏与舞台结构回应社会经验，代表作在演出与阅读中持续流传。这些剧作通过排演、出版和再创作延续生命，也连接了不同时期的舞台观众。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1954,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "纪蔚然"
+        }
+      ]
+    },
+    {
+      "databaseId": 6768713679877047905,
+      "gender": 2,
+      "introduction": "中国歌手与演员，从选秀出道后持续在流行音乐、影视和舞台表演之间转换。代表作品包括《酸酸甜甜就是我》。其演唱把音色、节奏处理与舞台表达结合起来，代表作品也记录了不同时期的音乐选择。这些歌曲通过录音、现场演出和大众媒介广泛传播，构成其公众形象的重要部分。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": 21,
+      "beginCentury": 1989,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "张含韵"
+        }
+      ]
+    },
+    {
+      "databaseId": 7002487606466049381,
+      "gender": 0,
+      "introduction": "中国专业话剧院团，长期进行现实主义戏剧排演、演员培养和上海城市文化表达。代表作品包括《日出》。该组织通过持续协作整合创意、技术与制作资源，代表成果体现了共同形成的专业方向和文化影响。相关成果通过公开演出、出版、展览或发行进入文化生活，并形成持续影响。",
+      "realSubType": 2,
+      "creativeEntityType": 99,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1950,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "上海人民艺术剧院"
+        }
+      ]
+    },
+    {
+      "databaseId": 7046836942373536997,
+      "gender": 1,
+      "introduction": "法国作家与电影作者，以短篇历史叙事重组档案细节，审视权力仪式和集体责任。代表作品包括《L’Ordre du jour》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1968,
+      "endCentury": null,
+      "countryCode": "FRA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Éric Vuillard"
+        }
+      ]
+    },
+    {
+      "databaseId": 7050882640334621711,
+      "gender": 1,
+      "introduction": "韩国近代作家，小说创作与民族启蒙、现代教育及殖民时期思想矛盾紧密相关。代表作品包括《무정》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。其文本也为后来的阅读、研究、出版或改编提供了持续可见的作品基础。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1892,
+      "endCentury": 1950,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "이광수"
+        }
+      ]
+    },
+    {
+      "databaseId": 7640510436918998718,
+      "gender": 3,
+      "introduction": "美国动画创作者和词曲作者，以包容性角色、成长叙事与音乐结构组织系列动画。代表作品包括《Steven Universe》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 1987,
+      "endCentury": null,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Rebecca Sugar"
+        }
+      ]
+    },
+    {
+      "databaseId": 7867419582381361054,
+      "gender": 0,
+      "introduction": "韩国摇滚乐队，以现场演奏、直率声线和创作歌曲推动1980年代韩国摇滚文化。代表作品包括《그것만이 내 세상》。该组织通过持续协作整合创意、技术与制作资源，代表成果体现了共同形成的专业方向和文化影响。录音与现场演出共同保存了其艺术实践，也扩大了相关曲目的传播范围。",
+      "realSubType": 1,
+      "creativeEntityType": 2,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1985,
+      "endCentury": null,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "들국화"
+        }
+      ]
+    },
+    {
+      "databaseId": 7925480475925364237,
+      "gender": 2,
+      "introduction": "法国导演与编剧，电影持续观察性别成长、凝视关系、记忆和亲密经验。代表作品包括《Portrait de la jeune fille en feu》、《Petite Maman》。其导演实践重视镜头调度、表演关系与叙事节奏，使题材在银幕或舞台上获得鲜明的整体表达。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1978,
+      "endCentury": null,
+      "countryCode": "FRA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Céline Sciamma"
+        }
+      ]
+    },
+    {
+      "databaseId": 7957241590904171657,
+      "gender": 1,
+      "introduction": "英国浪漫主义诗人和批评家，以超自然叙事、想象理论和诗歌音乐性产生持续影响。代表作品包括《The Rime of the Ancient Mariner》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1772,
+      "endCentury": 1834,
+      "countryCode": "GBR",
+      "names": [
+        {
+          "language": 0,
+          "name": "Samuel Taylor Coleridge"
+        }
+      ]
+    },
+    {
+      "databaseId": 7988385028968583269,
+      "gender": 1,
+      "introduction": "德国剧作家，以历史材料、神话重写和碎片化舞台结构讨论战争记忆与社会角色。代表作品包括《Merlin oder Das wüste Land》。其戏剧创作通过人物冲突、语言节奏与舞台结构回应社会经验，代表作在演出与阅读中持续流传。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": 1925,
+      "endCentury": 2017,
+      "countryCode": "DEU",
+      "names": [
+        {
+          "language": 0,
+          "name": "Tankred Dorst"
+        }
+      ]
+    },
+    {
+      "databaseId": 8046734023809527035,
+      "gender": 2,
+      "introduction": "中国编剧，主要从事都市电视剧创作，擅长以密集对白组织女性关系与家庭冲突。代表作品包括《我的前半生》、《繁花》。其编剧工作通过人物关系、情节推进与对白安排建立作品的戏剧结构，并影响最终呈现的叙事重心。这些剧本成果在人物塑造和类型叙事方面留下了可辨认的文本基础。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 1,
+      "dynasty": 21,
+      "beginCentury": 1976,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "秦雯"
+        }
+      ]
+    },
+    {
+      "databaseId": 8080703811710853088,
+      "gender": 0,
+      "introduction": "印度尼西亚独立游戏工作室与发行团队，关注叙事游戏、本地创作者扶持和东南亚题材。代表作品包括《Coffee Talk》。该团队围绕程序、美术、关卡与交互系统持续协作，以完整产品呈现共同的设计取向。这些项目通过实际游玩过程呈现设计理念，也积累了稳定的玩家认知。",
+      "realSubType": 1,
+      "creativeEntityType": 6,
+      "field": 8,
+      "dynasty": null,
+      "beginCentury": 2009,
+      "endCentury": null,
+      "countryCode": "IDN",
+      "names": [
+        {
+          "language": 0,
+          "name": "Toge Productions"
+        }
+      ]
+    },
+    {
+      "databaseId": 8480207827067240226,
+      "gender": 1,
+      "introduction": "韩国编舞家，将传统身体语汇、现代舞训练和剧场构成结合于当代舞台。代表作品包括《몸의 협주곡》。其编舞通过身体动作、空间关系与音乐节奏组织舞台，推动作品形成独立的表演语言。相关舞台作品依靠排演与身体传承持续传播，并拓展了舞蹈的表现边界。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1962,
+      "endCentury": null,
+      "countryCode": "KOR",
+      "names": [
+        {
+          "language": 0,
+          "name": "안성수"
+        }
+      ]
+    },
+    {
+      "databaseId": 8840904812963268176,
+      "gender": 2,
+      "introduction": "美国摄影家，经历时尚摄影、超现实主义实验与战地报道，形成跨类型的视觉记录。代表作品包括《Women with Fire Masks》。其摄影实践以取景、光线和拍摄现场的判断建立视觉叙事，作品兼具时代记录与个人风格。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 2,
+      "dynasty": null,
+      "beginCentury": 1907,
+      "endCentury": 1977,
+      "countryCode": "USA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Lee Miller"
+        }
+      ]
+    },
+    {
+      "databaseId": 9047716995341154384,
+      "gender": 1,
+      "introduction": "北宋画家与绘画理论家，以全景山水和“三远”空间观组织宏阔自然秩序。代表作品包括《早春图》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。相关作品通过展览、收藏、出版和艺术史叙述持续进入公共视野。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 16,
+      "beginCentury": 1020,
+      "endCentury": 1090,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "郭熙"
+        }
+      ]
+    },
+    {
+      "databaseId": 9086539368846352713,
+      "gender": 1,
+      "introduction": "清代宫廷画家，接触西方透视与明暗方法，并将其融入人物和耕织题材。代表作品包括《耕织图》。其视觉创作通过构图、色彩、材料与主题选择建立个人语言，并在所属艺术史语境中持续被讨论。相关作品通过展览、收藏、出版和艺术史叙述持续进入公共视野。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 10,
+      "dynasty": 19,
+      "beginCentury": 1689,
+      "endCentury": 1726,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "焦秉贞"
+        }
+      ]
+    },
+    {
+      "databaseId": 9122508021937590487,
+      "gender": 1,
+      "introduction": "古罗马诗人，以颂歌、讽刺诗和诗艺讨论节制、友谊、公共生活及文学规范。代表作品包括《Odes》、《Ars Poetica》。其作品以文字结构、叙事视角和时代经验组织主题，在相关文学传统中形成了清晰的创作位置。",
+      "realSubType": 1,
+      "creativeEntityType": 1,
+      "field": 4,
+      "dynasty": null,
+      "beginCentury": -65,
+      "endCentury": -8,
+      "countryCode": "ITA",
+      "names": [
+        {
+          "language": 0,
+          "name": "Horace"
+        }
+      ]
+    },
+    {
+      "databaseId": 9166742317961933870,
+      "gender": 1,
+      "introduction": "中国摄影家，以长期田野拍摄观察城市边缘、民间仪式与快速变化的公共景观。代表作品包括《海岸线》。其摄影实践以取景、光线和拍摄现场的判断建立视觉叙事，作品兼具时代记录与个人风格。相关影像通过出版、展览和新闻传播进入公共视野，保留了具体时代的视觉经验。",
+      "realSubType": 2,
+      "creativeEntityType": 1,
+      "field": 5,
+      "dynasty": 21,
+      "beginCentury": 1981,
+      "endCentury": null,
+      "countryCode": "CHN",
+      "names": [
+        {
+          "language": 1,
+          "name": "张晓"
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "databaseId": 62584339848256639,
+      "workName": "그것만이 내 세상",
+      "originalName": "그것만이 내 세상",
+      "genre": 7,
+      "subcategory": "7002",
+      "year": 1985,
+      "countryCode": "KOR",
+      "introduction": "韩国摇滚歌曲以粗粝声线和坚定旋律表达对自我世界的坚持，成为乐队文化的重要象征。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7867419582381361054,
+          "relationType": 13,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 67248602184275247,
+      "workName": "Capernaum",
+      "originalName": "کفرناحوم",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 2018,
+      "countryCode": "LBN",
+      "introduction": "影片跟随贫困男孩在贝鲁特街头求生，并以控告父母的法庭框架质问儿童权利和结构性贫困。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1552575052437741938,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 164559485684860950,
+      "workName": "Three Girls",
+      "originalName": "Three Girls",
+      "genre": 9,
+      "subcategory": "9001",
+      "year": 1935,
+      "countryCode": "IND",
+      "introduction": "画面中的三位女性以沉静姿态并坐，厚重色块和克制表情呈现乡村女性的共同处境与内在距离。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2220276042988708207,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 9010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 214312554261452680,
+      "workName": "西藏音诗",
+      "originalName": "西藏音诗",
+      "genre": 7,
+      "subcategory": "7005",
+      "year": 1941,
+      "countryCode": "CHN",
+      "introduction": "管弦乐作品吸收西藏音乐材料，以多乐章结构和民族旋律描绘高原景象与舞蹈节奏。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4370301001457947796,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 252370767678713173,
+      "workName": "ストリートファイターII",
+      "originalName": "ストリートファイターII",
+      "genre": 1,
+      "subcategory": "1011",
+      "year": 1991,
+      "countryCode": "JPN",
+      "introduction": "街机格斗游戏确立角色差异、指令招式和对战节奏，推动竞技格斗成为全球性游戏类型。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4674695188732857090,
+          "relationType": 8,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1011,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 272586965685268025,
+      "workName": "和平饭店",
+      "originalName": "和平饭店",
+      "genre": 5,
+      "subcategory": "5003",
+      "year": 2018,
+      "countryCode": "CHN",
+      "introduction": "悬疑剧把多方人物困于旅馆，在有限空间内通过身份伪装、谈判和信息差推进谍战。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 334184674644426185,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5006,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 291134253683306410,
+      "workName": "Minutes to Midnight",
+      "originalName": "Minutes to Midnight",
+      "genre": 14,
+      "subcategory": "14003",
+      "year": 2005,
+      "countryCode": "AUS",
+      "introduction": "摄影项目以高反差黑白影像穿行澳大利亚社会，在寓言化瞬间中连接国家身份、家庭和末世不安。取景、光线与拍摄伦理共同决定图像如何保存现实，同时暴露摄影者的观看位置。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6140390625601568606,
+          "relationType": 20,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 14003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 14006,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 306693861947860840,
+      "workName": "몸의 협주곡",
+      "originalName": "몸의 협주곡",
+      "genre": 8,
+      "subcategory": "8004",
+      "year": null,
+      "countryCode": "KOR",
+      "introduction": "当代舞作品把不同身体视为彼此回应的声部，通过节奏、重量和群体排列探索共同运动。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 8480207827067240226,
+          "relationType": 22,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 344043401456462940,
+      "workName": "狂飙",
+      "originalName": "狂飙",
+      "genre": 5,
+      "subcategory": "5002",
+      "year": 2023,
+      "countryCode": "CHN",
+      "introduction": "犯罪剧以警察与黑恶势力二十年的纠缠展开，刻画利益网络如何改变个人选择和地方秩序。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 985152646119743182,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 405798200410260554,
+      "workName": "二分宅",
+      "originalName": "二分宅",
+      "genre": 12,
+      "subcategory": "12005",
+      "year": 2002,
+      "countryCode": "CHN",
+      "introduction": "住宅设计以两个相互关联的体量回应家庭生活，裸露材料和清晰构造强调空间关系而非表面装饰。结构、材料、场地和使用方式彼此约束，公共性体现于人在空间中的实际行动。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3275713122911230929,
+          "relationType": 18,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 12005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 12007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 497817843440800698,
+      "workName": "酸酸甜甜就是我",
+      "originalName": "酸酸甜甜就是我",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2005,
+      "countryCode": "CHN",
+      "introduction": "流行歌曲以青春期的自我感受和轻快旋律塑造亲近形象，成为早期选秀文化中的代表性声音。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6768713679877047905,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 506128562634946647,
+      "workName": "Merlin oder Das wüste Land",
+      "originalName": "Merlin oder Das wüste Land",
+      "genre": 8,
+      "subcategory": "8001",
+      "year": 1981,
+      "countryCode": "DEU",
+      "introduction": "剧作重写亚瑟王传说，以庞杂人物和碎片结构展示理想共同体如何走向战争与荒原。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7988385028968583269,
+          "relationType": 21,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 708533328472233290,
+      "workName": "宫心计",
+      "originalName": "宮心計",
+      "genre": 5,
+      "subcategory": "5007",
+      "year": 2009,
+      "countryCode": "CHN",
+      "introduction": "宫廷剧以唐代后宫女官体系为背景，通过资源竞争、友情分化和权力选择推动人物命运。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5537204886350685439,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5007,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 716561972102793370,
+      "workName": "L’Ordre du jour",
+      "originalName": "L’Ordre du jour",
+      "genre": 6,
+      "subcategory": "6008",
+      "year": 2017,
+      "countryCode": "FRA",
+      "introduction": "短篇历史叙事聚焦企业家会议与德奥合并前后的细节，拆穿宏大历史背后的利益、怯懦和仪式。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": 7046836942373536997,
+      "creators": [
+        {
+          "characterDatabaseId": 7046836942373536997,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 900221508831992465,
+      "workName": "Prey",
+      "originalName": "Prey",
+      "genre": 1,
+      "subcategory": "1001",
+      "year": 2017,
+      "countryCode": "FRA",
+      "introduction": "游戏以空间站身份谜团开场，将探索、资源管理和可组合能力置于关于意识与同理心的选择中。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3806215731059945588,
+          "relationType": 7,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1002,
+          "isPrimary": 0,
+          "sortOrder": 1
+        },
+        {
+          "subcategory": 1009,
+          "isPrimary": 0,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "databaseId": 903459353783594318,
+      "workName": "L’Âge mûr",
+      "originalName": "L’Âge mûr",
+      "genre": 11,
+      "subcategory": "11002",
+      "year": 1899,
+      "countryCode": "FRA",
+      "introduction": "雕塑群以被带走的男子、挽留的年轻女子和年长女性构成关系断裂，姿态运动强化失落与不可逆。材料、体量与姿态共同组织观看，作品会随观者位置变化呈现不同关系。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4275241623245354551,
+          "relationType": 23,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 11002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 974087791179123489,
+      "workName": "日出",
+      "originalName": "日出",
+      "genre": 8,
+      "subcategory": "8001",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "话剧以都市交际花及其周围人物的一昼夜为中心，揭示金钱秩序对不同阶层生活的侵蚀。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7002487606466049381,
+          "relationType": 99,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 994343538656668089,
+      "workName": "The Heart Is a Lonely Hunter",
+      "originalName": "The Heart Is a Lonely Hunter",
+      "genre": 6,
+      "subcategory": "6004",
+      "year": 1940,
+      "countryCode": "USA",
+      "introduction": "小说围绕聋哑者辛格及南方小镇的孤独人物展开，呈现交流渴望与无法真正互相理解的困境。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": 315157178266955305,
+      "creators": [
+        {
+          "characterDatabaseId": 315157178266955305,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6015,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1066857169613726778,
+      "workName": "Blade Runner",
+      "originalName": "Blade Runner",
+      "genre": 4,
+      "subcategory": "4001",
+      "year": 1982,
+      "countryCode": "GBR",
+      "introduction": "影片在雨夜未来都市追问复制人的记忆与生命权，黑色电影影像和电子配乐塑造赛博朋克范式。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5342755306584452787,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1241082095865321048,
+      "workName": "东方不败",
+      "originalName": "笑傲江湖II東方不敗",
+      "genre": 4,
+      "subcategory": "4003",
+      "year": 1992,
+      "countryCode": "CHN",
+      "introduction": "武侠片以权力欲望与身份变化重构江湖冲突，快速动作、群体调度和情感暧昧突破传统正邪框架。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5067741002692323936,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1266695165989310782,
+      "workName": "宝葫芦的秘密",
+      "originalName": "宝葫芦的秘密",
+      "genre": 10,
+      "subcategory": "10009",
+      "year": 1958,
+      "countryCode": "CHN",
+      "introduction": "童话让少年获得能够满足愿望的宝葫芦，却在不劳而获引发的混乱中理解责任和劳动。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": 2074425203781892955,
+      "creators": [
+        {
+          "characterDatabaseId": 2074425203781892955,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10009,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 1375035759400724908,
+      "workName": "夜夜夜麻",
+      "originalName": "夜夜夜麻",
+      "genre": 8,
+      "subcategory": "8001",
+      "year": 1996,
+      "countryCode": "CHN",
+      "introduction": "舞台作品在悬疑与黑色幽默中拆解亲密关系，通过语言游戏和身份错位暴露欲望与自我欺骗。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6758393697733400377,
+          "relationType": 21,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1616506742496874681,
+      "workName": "菊次郎的夏天",
+      "originalName": "菊次郎の夏",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 1999,
+      "countryCode": "JPN",
+      "introduction": "公路电影通过失意成人陪伴男孩寻母的旅程，在笨拙喜剧与温柔失落之间建立情感。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3706484020602424415,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1643018437866528653,
+      "workName": "人世间",
+      "originalName": "人世间",
+      "genre": 6,
+      "subcategory": "6004",
+      "year": 2017,
+      "countryCode": "CHN",
+      "introduction": "小说以东北城市周家数十年的生活为轴，连接工人家庭、知青经历、单位制度与改革时代的社会变迁。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": 4477972354225670208,
+      "creators": [
+        {
+          "characterDatabaseId": 4477972354225670208,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1801268071200360328,
+      "workName": "力挽狂澜",
+      "originalName": "力挽狂澜",
+      "genre": 14,
+      "subcategory": "14005",
+      "year": 1935,
+      "countryCode": "CHN",
+      "introduction": "摄影以强烈瞬间和象征性构图凝固危急行动，体现早期中国摄影对现实事件与视觉戏剧性的把握。取景、光线与拍摄伦理共同决定图像如何保存现实，同时暴露摄影者的观看位置。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3067227222836245209,
+          "relationType": 20,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 14005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 14006,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1824343012100460292,
+      "workName": "搜神记",
+      "originalName": "搜神記",
+      "genre": 10,
+      "subcategory": "10008",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "志怪集汇录神灵、鬼怪、报应和人间异事，保存魏晋时期对生死秩序、地方传说与伦理因果的想象。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": 1119614339038073117,
+      "creators": [
+        {
+          "characterDatabaseId": 1119614339038073117,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 10012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1888916804490453552,
+      "workName": "Everything in Its Right Place",
+      "originalName": "Everything in Its Right Place",
+      "genre": 7,
+      "subcategory": "7007",
+      "year": 2000,
+      "countryCode": "GBR",
+      "introduction": "作品以循环键盘、切割人声和不稳定和声开启电子化转向，表达秩序表面下的感知错乱。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4588365749680933783,
+          "relationType": 13,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7007,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1895530331691504098,
+      "workName": "射雕英雄传",
+      "originalName": "射雕英雄传",
+      "genre": 5,
+      "subcategory": "5007",
+      "year": 2017,
+      "countryCode": "CHN",
+      "introduction": "电视剧改编金庸小说，以郭靖成长、家国冲突和江湖群像构成长篇武侠叙事。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 985152646119743182,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5007,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1899383899667329112,
+      "workName": "大红灯笼高高挂",
+      "originalName": "大紅燈籠高高掛",
+      "genre": 8,
+      "subcategory": "8004",
+      "year": 2007,
+      "countryCode": "CHN",
+      "introduction": "芭蕾改编以身体、色彩和群体队形重述深宅女性命运，将中国题材转化为现代舞台视觉。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1064332462268903951,
+          "relationType": 99,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 1933594604071343570,
+      "workName": "墙头马上",
+      "originalName": "裴少俊墙头马上",
+      "genre": 10,
+      "subcategory": "10004",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "杂剧以青年男女主动追求婚姻为核心，在喜剧行动中冲撞门第礼法和家长权威。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": 1619964093779028381,
+      "creators": [
+        {
+          "characterDatabaseId": 1619964093779028381,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 2060690248389305124,
+      "workName": "九歌",
+      "originalName": "九歌",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "组诗吸收楚地祭祀歌舞和神话想象，以人神相接而终难相守的情境表现敬畏、爱慕与失落。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 1875364542273825919,
+      "creators": [
+        {
+          "characterDatabaseId": 1875364542273825919,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 2217481525126004015,
+      "workName": "Steven Universe",
+      "originalName": "Steven Universe",
+      "genre": 2,
+      "subcategory": "2004",
+      "year": 2013,
+      "countryCode": "USA",
+      "introduction": "动画系列通过少年与宝石生命共同生活的冒险讨论成长、创伤修复、家庭选择和多样亲密关系。角色、运动、色彩、声音和分集节奏共同推动成长与世界观展开。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7640510436918998718,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 2004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 2008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2218014494201748257,
+      "workName": "离骚",
+      "originalName": "离骚",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "长篇抒情诗以放逐者的自我陈述展开，将身世、政治理想、神游和香草美人意象编织为持续的精神辩难。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 1875364542273825919,
+      "creators": [
+        {
+          "characterDatabaseId": 1875364542273825919,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 2341684669674627559,
+      "workName": "Poetry",
+      "originalName": "Poetry",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": 1919,
+      "countryCode": "USA",
+      "introduction": "诗作以“我也不喜欢它”开篇，在怀疑中为真实的想象空间辩护，体现摩尔精确而反讽的诗学。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 6308753851672872846,
+      "creators": [
+        {
+          "characterDatabaseId": 6308753851672872846,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 2376124988845095191,
+      "workName": "我的梦",
+      "originalName": "我的梦",
+      "genre": 9,
+      "subcategory": "9001",
+      "year": 1988,
+      "countryCode": "CHN",
+      "introduction": "油画通过严谨造型和封闭空间表现人物身体，写实表面下带有沉静而不安的心理张力。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1977604086690041068,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 9010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2650566138367018009,
+      "workName": "黄河钢琴协奏曲",
+      "originalName": "黄河钢琴协奏曲",
+      "genre": 7,
+      "subcategory": "7005",
+      "year": 1969,
+      "countryCode": "CHN",
+      "introduction": "协奏曲把《黄河大合唱》主题转化为钢琴与乐队的宏大对话，结合民族旋律和西方协奏结构。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4179072157216227257,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 2656330740054579014,
+      "workName": "Petite Maman",
+      "originalName": "Petite Maman",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 2021,
+      "countryCode": "FRA",
+      "introduction": "影片让女孩在林中遇见童年时期的母亲，以简洁奇幻设定处理哀伤、代际理解和告别。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7925480475925364237,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4002,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2690117874930844441,
+      "workName": "The Rite of Spring",
+      "originalName": "Le Sacre du printemps",
+      "genre": 8,
+      "subcategory": "8004",
+      "year": 1913,
+      "countryCode": "RUS",
+      "introduction": "芭蕾以不规则节奏、尖锐和声和内扣动作表现原始祭典，首演争议后来转化为现代主义标志。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4613665268405556461,
+          "relationType": 99,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2729181131420535488,
+      "workName": "Masse Mensch",
+      "originalName": "Masse Mensch",
+      "genre": 8,
+      "subcategory": "8001",
+      "year": 1921,
+      "countryCode": "DEU",
+      "introduction": "表现主义戏剧让革命者在群众目标与个人伦理之间受压，简化舞台和群体语言强化政治冲突。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6742019393857605008,
+          "relationType": 21,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2837655222372201747,
+      "workName": "回娘家",
+      "originalName": "回娘家",
+      "genre": 7,
+      "subcategory": "7009",
+      "year": 1984,
+      "countryCode": "CHN",
+      "introduction": "歌曲以活泼叙事描写女子雨中回娘家的情景，鲜明节奏和表演感强化民间生活趣味。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 819657856803763120,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7009,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7014,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2860840937871256889,
+      "workName": "The Nickel Boys",
+      "originalName": "The Nickel Boys",
+      "genre": 6,
+      "subcategory": "6008",
+      "year": 2019,
+      "countryCode": "USA",
+      "introduction": "小说依据少年感化院历史展开，以两种道德选择和叙事反转揭示制度虐待及记忆责任。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": 5625846745232686516,
+      "creators": [
+        {
+          "characterDatabaseId": 5625846745232686516,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2931897437146046975,
+      "workName": "铁梨花",
+      "originalName": "铁梨花",
+      "genre": 5,
+      "subcategory": "5006",
+      "year": 2010,
+      "countryCode": "CHN",
+      "introduction": "年代剧围绕乱世女性的生存与家族冲突展开，将传奇经历、地方社会和抗战背景结合。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 334184674644426185,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5006,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 2942379486169781161,
+      "workName": "Women with Fire Masks",
+      "originalName": "Women with Fire Masks",
+      "genre": 14,
+      "subcategory": "14005",
+      "year": 1941,
+      "countryCode": "USA",
+      "introduction": "战时摄影记录伦敦女性佩戴防火面罩的训练，超现实外观与民防日常并置。取景、光线与拍摄伦理共同决定图像如何保存现实，同时暴露摄影者的观看位置。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 8840904812963268176,
+          "relationType": 20,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 14005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 14007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3111971999994342644,
+      "workName": "早春图",
+      "originalName": "早春图",
+      "genre": 9,
+      "subcategory": "9002",
+      "year": 1072,
+      "countryCode": "CHN",
+      "introduction": "北宋山水以高远、深远和平远组织巨幅空间，烟岚、溪流与行旅让自然秩序兼具可游可居感。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 9047716995341154384,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 3171544084890342084,
+      "workName": "背靠背，脸对脸",
+      "originalName": "背靠背，脸对脸",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 1994,
+      "countryCode": "CHN",
+      "introduction": "影片围绕文化馆人事斗争展开，以细密日常和黑色幽默揭示基层权力、关系网络与自我合理化。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3275746144553929013,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3251939860011788972,
+      "workName": "서울, 모던 타임즈",
+      "originalName": "서울, 모던 타임즈",
+      "genre": 14,
+      "subcategory": "14003",
+      "year": null,
+      "countryCode": "KOR",
+      "introduction": "摄影集通过战后首尔的街道、儿童和普通市民，呈现贫困、活力与现代化同时发生的城市表情。取景、光线与拍摄伦理共同决定图像如何保存现实，同时暴露摄影者的观看位置。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2766911024263705816,
+          "relationType": 20,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 14003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 14005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3356853556250892739,
+      "workName": "Şu Çılgın Türkler",
+      "originalName": "Şu Çılgın Türkler",
+      "genre": 6,
+      "subcategory": "6008",
+      "year": 2005,
+      "countryCode": "TUR",
+      "introduction": "历史小说以土耳其独立战争为背景，结合档案叙述和大众化讲述重建民族动员与战争记忆。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 177262078377455567,
+      "creators": [
+        {
+          "characterDatabaseId": 177262078377455567,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3394960343666252182,
+      "workName": "完美世界",
+      "originalName": "完美世界",
+      "genre": 1,
+      "subcategory": "1003",
+      "year": 2005,
+      "countryCode": "CHN",
+      "introduction": "网络角色扮演游戏以东方幻想世界、空中移动和多人协作为核心，体现早期中国大型网游的技术 ambition。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5016430403458995595,
+          "relationType": 8,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3472338873974001822,
+      "workName": "Coffee Talk",
+      "originalName": "Coffee Talk",
+      "genre": 1,
+      "subcategory": "1013",
+      "year": 2020,
+      "countryCode": "IDN",
+      "introduction": "叙事游戏让玩家在深夜咖啡馆调制饮品并倾听都市异族顾客的烦恼，以对话选择形成温和节奏。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 8080703811710853088,
+          "relationType": 7,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1013,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1015,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3514231272721686606,
+      "workName": "满糖宣言",
+      "originalName": "满糖宣言",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2020,
+      "countryCode": "CHN",
+      "introduction": "舞曲化流行作品以明亮节拍和自信表达突出年轻女性的舞台形象。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2479706076825739353,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 3600869337878271833,
+      "workName": "牡丹亭",
+      "originalName": "牡丹亭",
+      "genre": 8,
+      "subcategory": "8005",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "昆曲经典以杜丽娘因梦而爱、因爱复生的传奇挑战礼教边界，唱腔与身段承载细腻情感。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2611854521963269414,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 3601793797802308226,
+      "workName": "带我去寻找",
+      "originalName": "带我去寻找",
+      "genre": 7,
+      "subcategory": "7002",
+      "year": 2009,
+      "countryCode": "CHN",
+      "introduction": "流行摇滚歌曲以出发和寻找为动力，通过开放旋律表达青年对方向、自由与自我确认的需要。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1350329933521921020,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3874393776085777672,
+      "workName": "Woman I",
+      "originalName": "Woman I",
+      "genre": 9,
+      "subcategory": "9006",
+      "year": 1952,
+      "countryCode": "USA",
+      "introduction": "巨幅油画在反复覆盖和刮除中形成女性形象，具象身体与抽象笔触之间保持攻击性张力。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4595849640738958922,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9006,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 9009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 3970682113894865051,
+      "workName": "我的前半生",
+      "originalName": "我的前半生",
+      "genre": 5,
+      "subcategory": "5008",
+      "year": 2017,
+      "countryCode": "CHN",
+      "introduction": "都市剧从婚姻破裂后的职业重建出发，讨论女性独立、友情边界、职场竞争和情感选择。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 8046734023809527035,
+          "relationType": 3,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 4145339727113510593,
+      "workName": "乡愁",
+      "originalName": "鄉愁",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": 1972,
+      "countryCode": "CHN",
+      "introduction": "短诗以邮票、船票、坟墓和海峡递进人生距离，把个人离散经验压缩为跨地域的文化乡愁。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": 4114341476142669068,
+      "creators": [
+        {
+          "characterDatabaseId": 4114341476142669068,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 4149449345360302567,
+      "workName": "我不难过",
+      "originalName": "我不難過",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2003,
+      "countryCode": "CHN",
+      "introduction": "歌词让叙述者在关系结束后辨认欺骗与自尊，口语推进和情绪克制形成反差。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2642424819475008541,
+          "relationType": 12,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 4169283078084536317,
+      "workName": "Whenever, Wherever",
+      "originalName": "Whenever, Wherever",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2001,
+      "countryCode": "COL",
+      "introduction": "作品将安第斯乐器音色与流行摇滚结合，歌词和影像共同塑造主动、自由的跨文化形象。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5018106561625938795,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 4236916339387240030,
+      "workName": "雪城",
+      "originalName": "雪城",
+      "genre": 6,
+      "subcategory": "6004",
+      "year": 1988,
+      "countryCode": "CHN",
+      "introduction": "作品围绕返城知青的生活困境展开，写理想退潮后就业、家庭和尊严之间的长期摩擦。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 4477972354225670208,
+      "creators": [
+        {
+          "characterDatabaseId": 4477972354225670208,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 4397968016698512600,
+      "workName": "翻身的日子",
+      "originalName": "翻身的日子",
+      "genre": 7,
+      "subcategory": "7005",
+      "year": 1964,
+      "countryCode": "CHN",
+      "introduction": "钢琴作品由民间器乐材料改编，运用明快节奏、装饰音和力度变化表现节庆性的生命力。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4179072157216227257,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7014,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 4519726494819913923,
+      "workName": "百花图卷",
+      "originalName": "百花图卷",
+      "genre": 9,
+      "subcategory": "9002",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "长卷汇集四时花卉，以工写结合的笔墨和连续展开方式展示物种观察与文人趣味。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3564038093521603599,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 4608665179056483970,
+      "workName": "独臂刀",
+      "originalName": "獨臂刀",
+      "genre": 4,
+      "subcategory": "4003",
+      "year": 1967,
+      "countryCode": "CHN",
+      "introduction": "武侠片以身体残缺、师门冲突和复仇构成英雄成长，强化了阳刚动作与悲剧命运的类型表达。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1001714274025317875,
+          "relationType": 99,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 4625991524354186968,
+      "workName": "遇见",
+      "originalName": "遇見",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2003,
+      "countryCode": "CHN",
+      "introduction": "歌曲以错过、等待和未来相逢组织线性叙事，简洁意象为电影式情感留下开放空间。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4215356693366640332,
+          "relationType": 12,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 4846497823436962165,
+      "workName": "Portrait de la jeune fille en feu",
+      "originalName": "Portrait de la jeune fille en feu",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 2019,
+      "countryCode": "FRA",
+      "introduction": "电影通过女画家与被画者的共同凝视发展爱情，在有限时间里讨论观看、同意、记忆和女性创作。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 7925480475925364237,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4006,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5038841683590553408,
+      "workName": "只此青绿",
+      "originalName": "只此青绿",
+      "genre": 8,
+      "subcategory": "8004",
+      "year": 2021,
+      "countryCode": "CHN",
+      "introduction": "舞蹈诗剧从《千里江山图》的创作与观看出发，以身体造型、色彩和书画意象表现传统技艺。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6042037112585577460,
+          "relationType": 22,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5195439186900266553,
+      "workName": "Paranoid Android",
+      "originalName": "Paranoid Android",
+      "genre": 7,
+      "subcategory": "7003",
+      "year": 1997,
+      "countryCode": "GBR",
+      "introduction": "歌曲以多段结构、骤变力度和疏离歌词拼接现代焦虑，在摇滚形式中拒绝常规主歌副歌秩序。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4588365749680933783,
+          "relationType": 13,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5232118428078598373,
+      "workName": "Odes",
+      "originalName": "Carmina",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": null,
+      "countryCode": "ITA",
+      "introduction": "贺拉斯颂歌以严格格律讨论友谊、爱情、政治和生命限度，形成节制而机智的拉丁抒情传统。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 9122508021937590487,
+      "creators": [
+        {
+          "characterDatabaseId": 9122508021937590487,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 5391980431070548502,
+      "workName": "Caramel",
+      "originalName": "سكر بنات",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 2007,
+      "countryCode": "LBN",
+      "introduction": "电影以贝鲁特美容院中的女性群像讨论爱情、婚姻、年龄和社会规范，温暖日常中保留矛盾。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1552575052437741938,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5609160403766665594,
+      "workName": "On Call 36小时",
+      "originalName": "On Call 36小時",
+      "genre": 5,
+      "subcategory": "5013",
+      "year": 2012,
+      "countryCode": "CHN",
+      "introduction": "医疗职业剧围绕住院医生的训练、轮班和急症决策展开，同时表现职业责任对亲密关系的压力。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5537204886350685439,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5013,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5014,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5625943561113358450,
+      "workName": "Museu Brasileiro da Escultura",
+      "originalName": "Museu Brasileiro da Escultura",
+      "genre": 12,
+      "subcategory": "12005",
+      "year": 1995,
+      "countryCode": "BRA",
+      "introduction": "建筑以横跨场地的巨大混凝土梁组织开放空间，将展馆主体压入地下并把城市地面还给公众。结构、材料、场地和使用方式彼此约束，公共性体现于人在空间中的实际行动。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1801277456254463844,
+          "relationType": 18,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 12005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 12010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5719574556540249379,
+      "workName": "무정",
+      "originalName": "무정",
+      "genre": 6,
+      "subcategory": "6004",
+      "year": 1917,
+      "countryCode": "KOR",
+      "introduction": "韩国早期现代小说通过爱情选择、教育观念与民族启蒙呈现殖民时期知识青年的矛盾。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 7050882640334621711,
+      "creators": [
+        {
+          "characterDatabaseId": 7050882640334621711,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5737887293488782445,
+      "workName": "The Underground Railroad",
+      "originalName": "The Underground Railroad",
+      "genre": 6,
+      "subcategory": "6008",
+      "year": 2016,
+      "countryCode": "USA",
+      "introduction": "小说把历史上的逃亡网络实体化为地下铁路，通过多地制度景观重写美国奴隶制与自由神话。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 5625846745232686516,
+      "creators": [
+        {
+          "characterDatabaseId": 5625846745232686516,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5848311133333728372,
+      "workName": "华威先生",
+      "originalName": "华威先生",
+      "genre": 6,
+      "subcategory": "6004",
+      "year": 1938,
+      "countryCode": "CHN",
+      "introduction": "短篇通过忙于开会、处处指导的华威先生，讽刺官僚作风、表演性勤勉与组织权力。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 2074425203781892955,
+      "creators": [
+        {
+          "characterDatabaseId": 2074425203781892955,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5856995207928736503,
+      "workName": "倩女幽魂",
+      "originalName": "倩女幽魂",
+      "genre": 4,
+      "subcategory": "4002",
+      "year": 1987,
+      "countryCode": "CHN",
+      "introduction": "电影以书生、女鬼和道士的相遇重述志怪爱情，武术、特效和音乐共同形成浪漫而幽暗的奇幻气质。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5067741002692323936,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4003,
+          "isPrimary": 0,
+          "sortOrder": 1
+        },
+        {
+          "subcategory": 4006,
+          "isPrimary": 0,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "databaseId": 5874102122063453749,
+      "workName": "公仆",
+      "originalName": "公僕",
+      "genre": 4,
+      "subcategory": "4012",
+      "year": 1984,
+      "countryCode": "CHN",
+      "introduction": "警匪片以基层警察的日常工作和家庭压力为中心，强调街区经验、职业伦理与现实质感。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1099728103270357859,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4012,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 5875484636793589897,
+      "workName": "甜蜜蜜",
+      "originalName": "甜蜜蜜",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 1979,
+      "countryCode": "CHN",
+      "introduction": "歌曲借熟悉笑容与梦境组织亲密记忆，轻柔节奏和口语化歌词形成持久的大众亲和力。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4631313885021438836,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 6202226613158755469,
+      "workName": "黑炮事件",
+      "originalName": "黑炮事件",
+      "genre": 4,
+      "subcategory": "4008",
+      "year": 1986,
+      "countryCode": "CHN",
+      "introduction": "电影从一封寻找棋子的电报引出审查与误解，以冷峻构图和荒诞程序讽刺机构的不信任。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3275746144553929013,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6239471480979331127,
+      "workName": "耕织图",
+      "originalName": "耕织图",
+      "genre": 9,
+      "subcategory": "9002",
+      "year": 1696,
+      "countryCode": "CHN",
+      "introduction": "组画分段描绘农耕和蚕织流程，把生产知识、宫廷教化与透视实验结合。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 9086539368846352713,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 6242899642007892319,
+      "workName": "这个杀手不太冷静",
+      "originalName": "这个杀手不太冷静",
+      "genre": 4,
+      "subcategory": "4007",
+      "year": 2022,
+      "countryCode": "CHN",
+      "introduction": "喜剧让群众演员误入伪装成电影拍摄的犯罪计划，利用表演层级、误会和即兴反应制造节奏。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3776793108327213425,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4007,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6319922793374771331,
+      "workName": "山海旅人",
+      "originalName": "山海旅人",
+      "genre": 1,
+      "subcategory": "1013",
+      "year": 2021,
+      "countryCode": "CHN",
+      "introduction": "叙事解谜游戏借逆梦与民俗仪式追索亡魂遗憾，像素场景和时序谜题共同推进因果修复。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5944192256341930574,
+          "relationType": 8,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1013,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        },
+        {
+          "subcategory": 1002,
+          "isPrimary": 0,
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "databaseId": 6467236253740496860,
+      "workName": "让世界充满爱",
+      "originalName": "让世界充满爱",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 1986,
+      "countryCode": "CHN",
+      "introduction": "公益组歌以多位歌手接力演唱表达互助与和平，在大型协作中形成共同体声音。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6702741312252318317,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6488184448049174153,
+      "workName": "미르의 전설 2",
+      "originalName": "미르의 전설 2",
+      "genre": 1,
+      "subcategory": "1003",
+      "year": 2001,
+      "countryCode": "KOR",
+      "introduction": "大型网络角色扮演游戏以东方奇幻、多人战斗和公会社会形成长期在线世界，并在亚洲市场广泛传播。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6306244044463747804,
+          "relationType": 6,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 6511900300389341651,
+      "workName": "Lord of the Flies",
+      "originalName": "Lord of the Flies",
+      "genre": 6,
+      "subcategory": "6015",
+      "year": 1954,
+      "countryCode": "GBR",
+      "introduction": "小说让一群失去成人秩序的男孩困于荒岛，通过权力争夺、恐惧和暴力检验文明的脆弱。叙事视角与人物行动相互制约，社会环境通过具体生活而非抽象结论显现。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": 1819639602444433040,
+      "creators": [
+        {
+          "characterDatabaseId": 1819639602444433040,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 6015,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 6012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6760741523043644749,
+      "workName": "花火",
+      "originalName": "HANA-BI",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 1997,
+      "countryCode": "JPN",
+      "introduction": "电影把警察、病妻和黑帮债务交织在极简叙事中，静默日常与突然暴力形成强烈对照。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3706484020602424415,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6772267543808862974,
+      "workName": "大醉侠",
+      "originalName": "大醉俠",
+      "genre": 4,
+      "subcategory": "4003",
+      "year": 1966,
+      "countryCode": "CHN",
+      "introduction": "影片让女侠追查人质案件，结合客栈空间、节奏鲜明的打斗和传统戏曲身段，奠定新派武侠样式。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1001714274025317875,
+          "relationType": 4,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4004,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6837120259752018753,
+      "workName": "单身情歌",
+      "originalName": "單身情歌",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 1999,
+      "countryCode": "CHN",
+      "introduction": "歌曲把失恋与自我鼓励写成可共同合唱的都市情歌，强烈副歌扩大了群体共鸣。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4215356693366640332,
+          "relationType": 12,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 6948457421117787459,
+      "workName": "The Rime of the Ancient Mariner",
+      "originalName": "The Rime of the Ancient Mariner",
+      "genre": 10,
+      "subcategory": "10001",
+      "year": 1798,
+      "countryCode": "GBR",
+      "introduction": "叙事诗让水手因射杀信天翁遭遇海上惩罚，以超自然景象探问罪责、自然敬畏和讲述的救赎。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 7957241590904171657,
+      "creators": [
+        {
+          "characterDatabaseId": 7957241590904171657,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 10005,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 6990471762687708756,
+      "workName": "The Shaming of the True",
+      "originalName": "The Shaming of the True",
+      "genre": 7,
+      "subcategory": "7003",
+      "year": 2000,
+      "countryCode": "USA",
+      "introduction": "概念专辑追随歌手进入音乐工业后的妥协与崩溃，以前卫摇滚结构批判名声、商业和自我背叛。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3754801012421127669,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7051376864268898861,
+      "workName": "Hips Don’t Lie",
+      "originalName": "Hips Don’t Lie",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2006,
+      "countryCode": "COL",
+      "introduction": "歌曲把拉丁节奏、铜管采样和舞蹈表演结合，以身体律动建立跨语种流行感染力。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5018106561625938795,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7279022688713316649,
+      "workName": "出云大社庁の舎",
+      "originalName": "出雲大社庁の舎",
+      "genre": 12,
+      "subcategory": "12005",
+      "year": 1963,
+      "countryCode": "JPN",
+      "introduction": "建筑以巨型混凝土构件和悬挑空间回应神社环境，体现新陈代谢派对传统原型与现代结构的结合。结构、材料、场地和使用方式彼此约束，公共性体现于人在空间中的实际行动。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3515621873092390892,
+          "relationType": 18,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 12005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 12008,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7300418411752544878,
+      "workName": "压岁钱",
+      "originalName": "压岁钱",
+      "genre": 4,
+      "subcategory": "4005",
+      "year": 1937,
+      "countryCode": "CHN",
+      "introduction": "早期电影以一枚压岁钱在不同人物之间的流转串联社会阶层，观察都市经济和家庭伦理。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5324617127757309774,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 7485094348042113126,
+      "workName": "언디셈버",
+      "originalName": "언디셈버",
+      "genre": 1,
+      "subcategory": "1003",
+      "year": 2022,
+      "countryCode": "KOR",
+      "introduction": "动作角色扮演游戏围绕技能符文自由组合和刷取成长展开，以黑暗奇幻世界承载持续构筑。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3266123746058772109,
+          "relationType": 8,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7515006340018161766,
+      "workName": "Cyberangel",
+      "originalName": "Cyberangel",
+      "genre": 7,
+      "subcategory": "7010",
+      "year": 2019,
+      "countryCode": "CHN",
+      "introduction": "电子流行歌曲与游戏角色叙事相连，快速节拍、明亮声线和数字音色共同塑造虚拟舞台能量。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2417713507785337033,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7010,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7529218143276934750,
+      "workName": "思乡曲",
+      "originalName": "思乡曲",
+      "genre": 7,
+      "subcategory": "7005",
+      "year": 1937,
+      "countryCode": "CHN",
+      "introduction": "小提琴曲取材内蒙古民歌，舒展旋律与细腻滑音将乡土记忆转化为含蓄的器乐抒情。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4370301001457947796,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 7009,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7636698259753621915,
+      "workName": "减租会",
+      "originalName": "减租会",
+      "genre": 9,
+      "subcategory": "9005",
+      "year": 1943,
+      "countryCode": "CHN",
+      "introduction": "木刻以简练刀法呈现农民集会和土地议题，人物群像强化现实行动与公共讨论。构图、材料和笔触保留观看过程，使形象与形式之间维持张力。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2202612747816261509,
+          "relationType": 17,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 9005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 9010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7694812679230792005,
+      "workName": "时间都去哪儿了",
+      "originalName": "时间都去哪儿了",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 2010,
+      "countryCode": "CHN",
+      "introduction": "歌曲从父母衰老和家庭日常追问时间流逝，以朴素歌词触发代际情感。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 2111682869381161872,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 7901023437970266522,
+      "workName": "Dishonored",
+      "originalName": "Dishonored",
+      "genre": 1,
+      "subcategory": "1001",
+      "year": 2012,
+      "countryCode": "FRA",
+      "introduction": "沉浸式模拟游戏让玩家在瘟疫城市执行复仇，可用潜行、超能力和环境系统形成不同后果。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 3806215731059945588,
+          "relationType": 7,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 1002,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 7937910640961499251,
+      "workName": "Alien",
+      "originalName": "Alien",
+      "genre": 4,
+      "subcategory": "4001",
+      "year": 1979,
+      "countryCode": "GBR",
+      "introduction": "科幻恐怖片把商业飞船变为封闭猎场，异形身体、工业空间和公司命令共同制造生存压迫。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5342755306584452787,
+          "relationType": 2,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4010,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 8198612339204912720,
+      "workName": "もっとも大いなる愛へ",
+      "originalName": "もっとも大いなる愛へ",
+      "genre": 8,
+      "subcategory": "8001",
+      "year": 2014,
+      "countryCode": "JPN",
+      "introduction": "舞台作品以尖锐对白检视爱情、依赖和自我表演，让亲密关系中的不对等在剧场中逐层显露。文本、身体、空间与现场节奏共同生效，观众对行动的即时感受是表达的一部分。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 5762280276644793482,
+          "relationType": 21,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 8001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 8007,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 8573438853686258684,
+      "workName": "梧桐雨",
+      "originalName": "唐明皇秋夜梧桐雨",
+      "genre": 10,
+      "subcategory": "10004",
+      "year": null,
+      "countryCode": "CHN",
+      "introduction": "杂剧借唐明皇与杨贵妃的故事书写盛衰、爱情和悔恨，梧桐夜雨成为帝王孤独与历史无常的舞台意象。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 1619964093779028381,
+      "creators": [
+        {
+          "characterDatabaseId": 1619964093779028381,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10004,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 8590974952503471492,
+      "workName": "ペルソナ5",
+      "originalName": "ペルソナ5",
+      "genre": 1,
+      "subcategory": "1003",
+      "year": 2016,
+      "countryCode": "JPN",
+      "introduction": "角色扮演游戏让高中生进入欲望具象化的异世界，以回合战斗、日程管理和爵士酸性配乐组织反抗主题。交互规则、空间探索和玩家选择共同决定体验，系统允许不同策略产生可感知的后果。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 6276971789133984785,
+          "relationType": 10,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 1003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 8616923037402975503,
+      "workName": "海岸线",
+      "originalName": "海岸线",
+      "genre": 14,
+      "subcategory": "14005",
+      "year": 2009,
+      "countryCode": "CHN",
+      "introduction": "摄影项目沿中国海岸持续观察旅游、仪式、建设和日常生活，呈现公共景观中并置的现代经验。取景、光线与拍摄伦理共同决定图像如何保存现实，同时暴露摄影者的观看位置。它在类型传统中保留可辨认的个人方法，并为后续创作提供了可以继承或反驳的参照。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 9166742317961933870,
+          "relationType": 20,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 14005,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 14006,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 8720468171620602847,
+      "workName": "月亮代表我的心",
+      "originalName": "月亮代表我的心",
+      "genre": 7,
+      "subcategory": "7001",
+      "year": 1977,
+      "countryCode": "CHN",
+      "introduction": "歌曲以简洁旋律和反复句式表达稳定爱意，克制演唱使私人情感获得跨地区传播。旋律、节奏、音色和演唱方式共同承担情绪，制作选择也构成作品辨识度。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 4631313885021438836,
+          "relationType": 11,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 7001,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 8751273067296238335,
+      "workName": "喋血双雄",
+      "originalName": "喋血雙雄",
+      "genre": 4,
+      "subcategory": "4003",
+      "year": 1989,
+      "countryCode": "CHN",
+      "introduction": "动作片通过杀手与警察的惺惺相惜组织双雄叙事，教堂意象、慢动作枪战和牺牲主题影响深远。镜头、表演、声音与场面调度相互配合，使主题不只依赖对白说明。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 1099728103270357859,
+          "relationType": 24,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 4003,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 4012,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 8829513150005812327,
+      "workName": "Ars Poetica",
+      "originalName": "Ars Poetica",
+      "genre": 10,
+      "subcategory": "10010",
+      "year": null,
+      "countryCode": "ITA",
+      "introduction": "诗体文论从题材、结构、语言和作者训练讨论创作规范，“寓教于乐”等观念影响后世诗学。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。其文化价值既来自鲜明形式，也来自它对所处时代经验的具体回应。",
+      "primaryAuthorDatabaseId": 9122508021937590487,
+      "creators": [
+        {
+          "characterDatabaseId": 9122508021937590487,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10010,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "databaseId": 9173414709838203778,
+      "workName": "繁花",
+      "originalName": "繁花",
+      "genre": 5,
+      "subcategory": "5008",
+      "year": 2023,
+      "countryCode": "CHN",
+      "introduction": "电视剧以改革开放时期上海为背景，在商业往来、饮食空间和人物关系中呈现城市欲望与时代流动。长篇结构让人物关系随时间积累，职业和家庭选择因连续事件而改变。作品的传播并非只依靠题材，形式控制和情感尺度同样决定了长期接受。",
+      "primaryAuthorDatabaseId": null,
+      "creators": [
+        {
+          "characterDatabaseId": 8046734023809527035,
+          "relationType": 3,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 5008,
+          "isPrimary": 1,
+          "sortOrder": 0
+        },
+        {
+          "subcategory": 5001,
+          "isPrimary": 0,
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "databaseId": 9216567550922974834,
+      "workName": "听听那冷雨",
+      "originalName": "聽聽那冷雨",
+      "genre": 10,
+      "subcategory": "10002",
+      "year": 1974,
+      "countryCode": "CHN",
+      "introduction": "散文由台北雨声触发文字、地理和历史记忆，密集运用声韵与典故连接大陆、台湾和漂泊经验。语言节奏、意象和修辞推动意义展开，并在后世阅读和改编中持续产生影响。作品没有把主题简化为结论，而是让冲突在具体人物、形式和节奏中逐步显现。",
+      "primaryAuthorDatabaseId": 4114341476142669068,
+      "creators": [
+        {
+          "characterDatabaseId": 4114341476142669068,
+          "relationType": 1,
+          "sortOrder": 0
+        }
+      ],
+      "subcategories": [
+        {
+          "subcategory": 10002,
+          "isPrimary": 1,
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}

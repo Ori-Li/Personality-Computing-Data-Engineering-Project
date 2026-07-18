@@ -1,0 +1,2307 @@
+[
+  {
+    "workId": "work_chn_unknown_001",
+    "workName": "离骚",
+    "originalName": "离骚",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "长篇抒情诗以放逐者的自我陈述展开，将身世、政治理想、神游和香草美人意象编织为持续的精神辩难。《离骚》的主要署名中，屈原担任作者。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_-340_001",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_002",
+    "workName": "九歌",
+    "originalName": "九歌",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "组诗吸收楚地祭祀歌舞和神话想象，以人神相接而终难相守的情境表现敬畏、爱慕与失落。《九歌》的主要署名中，屈原担任作者。《九歌》的主要署名中，屈原担任作者。",
+    "primaryAuthorId": "realCharacter_chn_-340_001",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_-340_001",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_003",
+    "workName": "搜神记",
+    "originalName": "搜神記",
+    "genre": 10,
+    "subcategory": 10008,
+    "subcategories": [
+      10008,
+      10012
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "志怪集汇录神灵、鬼怪、报应和人间异事，保存魏晋时期对生死秩序、地方传说与伦理因果的想象。《搜神记》的主要署名中，干宝担任作者。",
+    "primaryAuthorId": "realCharacter_chn_283_002",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_283_002",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2017_004",
+    "workName": "人世间",
+    "originalName": "人世间",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [
+      6004,
+      6010
+    ],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "小说以东北城市周家数十年的生活为轴，连接工人家庭、知青经历、单位制度与改革时代的社会变迁。《人世间》于2017年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_chn_1949_003",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1949_003",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1988_005",
+    "workName": "雪城",
+    "originalName": "雪城",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [
+      6004,
+      6008
+    ],
+    "year": 1988,
+    "countryCode": "CHN",
+    "introduction": "作品围绕返城知青的生活困境展开，写理想退潮后就业、家庭和尊严之间的长期摩擦。《雪城》于1988年首次正式发表或发行。《雪城》的主要署名中，梁晓声担任作者。",
+    "primaryAuthorId": "realCharacter_chn_1949_003",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1949_003",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_006",
+    "workName": "梧桐雨",
+    "originalName": "唐明皇秋夜梧桐雨",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [
+      10004
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "杂剧借唐明皇与杨贵妃的故事书写盛衰、爱情和悔恨，梧桐夜雨成为帝王孤独与历史无常的舞台意象。《梧桐雨》的主要署名中，白朴担任作者。",
+    "primaryAuthorId": "realCharacter_chn_1226_004",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1226_004",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_007",
+    "workName": "墙头马上",
+    "originalName": "裴少俊墙头马上",
+    "genre": 10,
+    "subcategory": 10004,
+    "subcategories": [
+      10004
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "杂剧以青年男女主动追求婚姻为核心，在喜剧行动中冲撞门第礼法和家长权威。《墙头马上》的主要署名中，白朴担任作者。《墙头马上》的主要署名中，白朴担任作者。",
+    "primaryAuthorId": "realCharacter_chn_1226_004",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1226_004",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1972_008",
+    "workName": "乡愁",
+    "originalName": "鄉愁",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001
+    ],
+    "year": 1972,
+    "countryCode": "CHN",
+    "introduction": "短诗以邮票、船票、坟墓和海峡递进人生距离，把个人离散经验压缩为跨地域的文化乡愁。《乡愁》于1972年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_chn_1928_005",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1928_005",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1974_009",
+    "workName": "听听那冷雨",
+    "originalName": "聽聽那冷雨",
+    "genre": 10,
+    "subcategory": 10002,
+    "subcategories": [
+      10002
+    ],
+    "year": 1974,
+    "countryCode": "CHN",
+    "introduction": "散文由台北雨声触发文字、地理和历史记忆，密集运用声韵与典故连接大陆、台湾和漂泊经验。《听听那冷雨》于1974年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_chn_1928_005",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1928_005",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1938_010",
+    "workName": "华威先生",
+    "originalName": "华威先生",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [
+      6004,
+      6010
+    ],
+    "year": 1938,
+    "countryCode": "CHN",
+    "introduction": "短篇通过忙于开会、处处指导的华威先生，讽刺官僚作风、表演性勤勉与组织权力。《华威先生》于1938年首次正式发表或发行。《华威先生》的主要署名中，张天翼担任作者。",
+    "primaryAuthorId": "realCharacter_chn_1906_006",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1906_006",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1958_011",
+    "workName": "宝葫芦的秘密",
+    "originalName": "宝葫芦的秘密",
+    "genre": 10,
+    "subcategory": 10009,
+    "subcategories": [
+      10009
+    ],
+    "year": 1958,
+    "countryCode": "CHN",
+    "introduction": "童话让少年获得能够满足愿望的宝葫芦，却在不劳而获引发的混乱中理解责任和劳动。《宝葫芦的秘密》于1958年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_chn_1906_006",
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1906_006",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2009_012",
+    "workName": "宫心计",
+    "originalName": "宮心計",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [
+      5007,
+      5001
+    ],
+    "year": 2009,
+    "countryCode": "CHN",
+    "introduction": "宫廷剧以唐代后宫女官体系为背景，通过资源竞争、友情分化和权力选择推动人物命运。《宫心计》于2009年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1979_007",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2012_013",
+    "workName": "On Call 36小时",
+    "originalName": "On Call 36小時",
+    "genre": 5,
+    "subcategory": 5013,
+    "subcategories": [
+      5013,
+      5014
+    ],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "医疗职业剧围绕住院医生的训练、轮班和急症决策展开，同时表现职业责任对亲密关系的压力。《On Call 36小时》于2012年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1979_007",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1986_014",
+    "workName": "黑炮事件",
+    "originalName": "黑炮事件",
+    "genre": 4,
+    "subcategory": 4008,
+    "subcategories": [
+      4008,
+      4005
+    ],
+    "year": 1986,
+    "countryCode": "CHN",
+    "introduction": "电影从一封寻找棋子的电报引出审查与误解，以冷峻构图和荒诞程序讽刺机构的不信任。《黑炮事件》于1986年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1954_008",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1994_015",
+    "workName": "背靠背，脸对脸",
+    "originalName": "背靠背，脸对脸",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4008
+    ],
+    "year": 1994,
+    "countryCode": "CHN",
+    "introduction": "影片围绕文化馆人事斗争展开，以细密日常和黑色幽默揭示基层权力、关系网络与自我合理化。《背靠背，脸对脸》于1994年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1954_008",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2022_016",
+    "workName": "这个杀手不太冷静",
+    "originalName": "这个杀手不太冷静",
+    "genre": 4,
+    "subcategory": 4007,
+    "subcategories": [
+      4007,
+      4005
+    ],
+    "year": 2022,
+    "countryCode": "CHN",
+    "introduction": "喜剧让群众演员误入伪装成电影拍摄的犯罪计划，利用表演层级、误会和即兴反应制造节奏。《这个杀手不太冷静》于2022年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1979_009",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1987_017",
+    "workName": "倩女幽魂",
+    "originalName": "倩女幽魂",
+    "genre": 4,
+    "subcategory": 4002,
+    "subcategories": [
+      4002,
+      4003,
+      4006
+    ],
+    "year": 1987,
+    "countryCode": "CHN",
+    "introduction": "电影以书生、女鬼和道士的相遇重述志怪爱情，武术、特效和音乐共同形成浪漫而幽暗的奇幻气质。《倩女幽魂》于1987年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1953_010",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1992_018",
+    "workName": "东方不败",
+    "originalName": "笑傲江湖II東方不敗",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [
+      4003,
+      4004
+    ],
+    "year": 1992,
+    "countryCode": "CHN",
+    "introduction": "武侠片以权力欲望与身份变化重构江湖冲突，快速动作、群体调度和情感暧昧突破传统正邪框架。《东方不败》于1992年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1953_010",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2017_019",
+    "workName": "我的前半生",
+    "originalName": "我的前半生",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [
+      5008,
+      5001
+    ],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "都市剧从婚姻破裂后的职业重建出发，讨论女性独立、友情边界、职场竞争和情感选择。《我的前半生》于2017年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1976_011",
+        "relationType": 3,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2023_020",
+    "workName": "繁花",
+    "originalName": "繁花",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [
+      5008,
+      5001
+    ],
+    "year": 2023,
+    "countryCode": "CHN",
+    "introduction": "电视剧以改革开放时期上海为背景，在商业往来、饮食空间和人物关系中呈现城市欲望与时代流动。《繁花》于2023年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1976_011",
+        "relationType": 3,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1967_021",
+    "workName": "独臂刀",
+    "originalName": "獨臂刀",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [
+      4003,
+      4004
+    ],
+    "year": 1967,
+    "countryCode": "CHN",
+    "introduction": "武侠片以身体残缺、师门冲突和复仇构成英雄成长，强化了阳刚动作与悲剧命运的类型表达。《独臂刀》于1967年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1958_012",
+        "relationType": 99,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1966_022",
+    "workName": "大醉侠",
+    "originalName": "大醉俠",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [
+      4003,
+      4004
+    ],
+    "year": 1966,
+    "countryCode": "CHN",
+    "introduction": "影片让女侠追查人质案件，结合客栈空间、节奏鲜明的打斗和传统戏曲身段，奠定新派武侠样式。《大醉侠》于1966年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1958_012",
+        "relationType": 4,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2005_023",
+    "workName": "酸酸甜甜就是我",
+    "originalName": "酸酸甜甜就是我",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "流行歌曲以青春期的自我感受和轻快旋律塑造亲近形象，成为早期选秀文化中的代表性声音。《酸酸甜甜就是我》于2005年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1989_013",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1984_024",
+    "workName": "公仆",
+    "originalName": "公僕",
+    "genre": 4,
+    "subcategory": 4012,
+    "subcategories": [
+      4012,
+      4005
+    ],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "警匪片以基层警察的日常工作和家庭压力为中心，强调街区经验、职业伦理与现实质感。《公仆》于1984年首次正式发表或发行。《公仆》的主要署名中，李修贤担任导演。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1952_014",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1989_025",
+    "workName": "喋血双雄",
+    "originalName": "喋血雙雄",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [
+      4003,
+      4012
+    ],
+    "year": 1989,
+    "countryCode": "CHN",
+    "introduction": "动作片通过杀手与警察的惺惺相惜组织双雄叙事，教堂意象、慢动作枪战和牺牲主题影响深远。《喋血双雄》于1989年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1952_014",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2017_026",
+    "workName": "射雕英雄传",
+    "originalName": "射雕英雄传",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [
+      5007,
+      5001
+    ],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "电视剧改编金庸小说，以郭靖成长、家国冲突和江湖群像构成长篇武侠叙事。《射雕英雄传》于2017年首次正式发表或发行。《射雕英雄传》的主要署名中，李一桐担任演员。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1990_015",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2023_027",
+    "workName": "狂飙",
+    "originalName": "狂飙",
+    "genre": 5,
+    "subcategory": 5002,
+    "subcategories": [
+      5002,
+      5001
+    ],
+    "year": 2023,
+    "countryCode": "CHN",
+    "introduction": "犯罪剧以警察与黑恶势力二十年的纠缠展开，刻画利益网络如何改变个人选择和地方秩序。《狂飙》于2023年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1990_015",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2010_028",
+    "workName": "铁梨花",
+    "originalName": "铁梨花",
+    "genre": 5,
+    "subcategory": 5006,
+    "subcategories": [
+      5006,
+      5001
+    ],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "年代剧围绕乱世女性的生存与家族冲突展开，将传奇经历、地方社会和抗战背景结合。《铁梨花》于2010年首次正式发表或发行。《铁梨花》的主要署名中，陈数担任演员。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1977_016",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2018_029",
+    "workName": "和平饭店",
+    "originalName": "和平饭店",
+    "genre": 5,
+    "subcategory": 5003,
+    "subcategories": [
+      5003,
+      5006
+    ],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "悬疑剧把多方人物困于旅馆，在有限空间内通过身份伪装、谈判和信息差推进谍战。《和平饭店》于2018年首次正式发表或发行。《和平饭店》的主要署名中，陈数担任演员。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1977_016",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1937_030",
+    "workName": "压岁钱",
+    "originalName": "压岁钱",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005
+    ],
+    "year": 1937,
+    "countryCode": "CHN",
+    "introduction": "早期电影以一枚压岁钱在不同人物之间的流转串联社会阶层，观察都市经济和家庭伦理。《压岁钱》于1937年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1917_017",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1937_031",
+    "workName": "思乡曲",
+    "originalName": "思乡曲",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [
+      7005,
+      7009
+    ],
+    "year": 1937,
+    "countryCode": "CHN",
+    "introduction": "小提琴曲取材内蒙古民歌，舒展旋律与细腻滑音将乡土记忆转化为含蓄的器乐抒情。《思乡曲》于1937年首次正式发表或发行。《思乡曲》的主要署名中，马思聪担任作曲家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1912_018",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1941_032",
+    "workName": "西藏音诗",
+    "originalName": "西藏音诗",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [
+      7005,
+      7009
+    ],
+    "year": 1941,
+    "countryCode": "CHN",
+    "introduction": "管弦乐作品吸收西藏音乐材料，以多乐章结构和民族旋律描绘高原景象与舞蹈节奏。《西藏音诗》于1941年首次正式发表或发行。《西藏音诗》的主要署名中，马思聪担任作曲家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1912_018",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1984_033",
+    "workName": "回娘家",
+    "originalName": "回娘家",
+    "genre": 7,
+    "subcategory": 7009,
+    "subcategories": [
+      7009,
+      7014
+    ],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "歌曲以活泼叙事描写女子雨中回娘家的情景，鲜明节奏和表演感强化民间生活趣味。《回娘家》于1984年首次正式发表或发行。《回娘家》的主要署名中，朱明瑛担任歌手。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1950_019",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2009_034",
+    "workName": "带我去寻找",
+    "originalName": "带我去寻找",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [
+      7002,
+      7001
+    ],
+    "year": 2009,
+    "countryCode": "CHN",
+    "introduction": "流行摇滚歌曲以出发和寻找为动力，通过开放旋律表达青年对方向、自由与自我确认的需要。《带我去寻找》于2009年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1988_020",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2019_035",
+    "workName": "网络天使",
+    "originalName": "Cyberangel",
+    "genre": 7,
+    "subcategory": 7010,
+    "subcategories": [
+      7010,
+      7001
+    ],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "电子流行歌曲与游戏角色叙事相连，快速节拍、明亮声线和数字音色共同塑造虚拟舞台能量。《网络天使》于2019年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1992_021",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_036",
+    "workName": "月亮代表我的心",
+    "originalName": "月亮代表我的心",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 1977,
+    "countryCode": "CHN",
+    "introduction": "歌曲以简洁旋律和反复句式表达稳定爱意，克制演唱使私人情感获得跨地区传播。《月亮代表我的心》于1977年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1953_022",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1979_037",
+    "workName": "甜蜜蜜",
+    "originalName": "甜蜜蜜",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 1979,
+    "countryCode": "CHN",
+    "introduction": "歌曲借熟悉笑容与梦境组织亲密记忆，轻柔节奏和口语化歌词形成持久的大众亲和力。《甜蜜蜜》于1979年首次正式发表或发行。《甜蜜蜜》的主要署名中，邓丽君担任歌手。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1953_022",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2020_038",
+    "workName": "满糖宣言",
+    "originalName": "满糖宣言",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 2020,
+    "countryCode": "CHN",
+    "introduction": "舞曲化流行作品以明亮节拍和自信表达突出年轻女性的舞台形象。《满糖宣言》于2020年首次正式发表或发行。《满糖宣言》的主要署名中，吴宣仪担任歌手。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1995_023",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2003_039",
+    "workName": "遇见",
+    "originalName": "遇見",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 2003,
+    "countryCode": "CHN",
+    "introduction": "歌曲以错过、等待和未来相逢组织线性叙事，简洁意象为电影式情感留下开放空间。《遇见》于2003年首次正式发表或发行。《遇见》的主要署名中，易家扬担任词作者。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1969_024",
+        "relationType": 12,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1999_040",
+    "workName": "单身情歌",
+    "originalName": "單身情歌",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 1999,
+    "countryCode": "CHN",
+    "introduction": "歌曲把失恋与自我鼓励写成可共同合唱的都市情歌，强烈副歌扩大了群体共鸣。《单身情歌》于1999年首次正式发表或发行。《单身情歌》的主要署名中，易家扬担任词作者。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1969_024",
+        "relationType": 12,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2010_041",
+    "workName": "时间都去哪儿了",
+    "originalName": "时间都去哪儿了",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "歌曲从父母衰老和家庭日常追问时间流逝，以朴素歌词触发代际情感。《时间都去哪儿了》于2010年首次正式发表或发行。《时间都去哪儿了》的主要署名中，王铮亮担任歌手。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1977_025",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2003_042",
+    "workName": "我不难过",
+    "originalName": "我不難過",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001
+    ],
+    "year": 2003,
+    "countryCode": "CHN",
+    "introduction": "歌词让叙述者在关系结束后辨认欺骗与自尊，口语推进和情绪克制形成反差。《我不难过》于2003年首次正式发表或发行。《我不难过》的主要署名中，严云农担任词作者。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1975_026",
+        "relationType": 12,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1986_043",
+    "workName": "让世界充满爱",
+    "originalName": "让世界充满爱",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001,
+      7009
+    ],
+    "year": 1986,
+    "countryCode": "CHN",
+    "introduction": "公益组歌以多位歌手接力演唱表达互助与和平，在大型协作中形成共同体声音。《让世界充满爱》于1986年首次正式发表或发行。《让世界充满爱》的主要署名中，郭峰担任作曲家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1962_027",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1964_044",
+    "workName": "翻身的日子",
+    "originalName": "翻身的日子",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [
+      7005,
+      7014
+    ],
+    "year": 1964,
+    "countryCode": "CHN",
+    "introduction": "钢琴作品由民间器乐材料改编，运用明快节奏、装饰音和力度变化表现节庆性的生命力。《翻身的日子》于1964年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1941_028",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1969_045",
+    "workName": "黄河钢琴协奏曲",
+    "originalName": "黄河钢琴协奏曲",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [
+      7005
+    ],
+    "year": 1969,
+    "countryCode": "CHN",
+    "introduction": "协奏曲把《黄河大合唱》主题转化为钢琴与乐队的宏大对话，结合民族旋律和西方协奏结构。《黄河钢琴协奏曲》于1969年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1941_028",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2021_046",
+    "workName": "山海旅人",
+    "originalName": "山海旅人",
+    "genre": 1,
+    "subcategory": 1013,
+    "subcategories": [
+      1013,
+      1010,
+      1002
+    ],
+    "year": 2021,
+    "countryCode": "CHN",
+    "introduction": "叙事解谜游戏借逆梦与民俗仪式追索亡魂遗憾，像素场景和时序谜题共同推进因果修复。《山海旅人》于2021年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_2015_029",
+        "relationType": 8,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2005_047",
+    "workName": "完美世界",
+    "originalName": "完美世界",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [
+      1003,
+      1004
+    ],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "网络角色扮演游戏以东方幻想世界、空中移动和多人协作为核心，体现早期中国大型网游的技术 ambition。《完美世界》于2005年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_2004_030",
+        "relationType": 8,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1943_048",
+    "workName": "减租会",
+    "originalName": "减租会",
+    "genre": 9,
+    "subcategory": 9005,
+    "subcategories": [
+      9005,
+      9010
+    ],
+    "year": 1943,
+    "countryCode": "CHN",
+    "introduction": "木刻以简练刀法呈现农民集会和土地议题，人物群像强化现实行动与公共讨论。《减租会》于1943年首次正式发表或发行。《减租会》的主要署名中，古元担任画家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1919_031",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1072_049",
+    "workName": "早春图",
+    "originalName": "早春图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [
+      9002
+    ],
+    "year": 1072,
+    "countryCode": "CHN",
+    "introduction": "北宋山水以高远、深远和平远组织巨幅空间，烟岚、溪流与行旅让自然秩序兼具可游可居感。《早春图》于1072年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1020_032",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1988_050",
+    "workName": "我的梦",
+    "originalName": "我的梦",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [
+      9001,
+      9010
+    ],
+    "year": 1988,
+    "countryCode": "CHN",
+    "introduction": "油画通过严谨造型和封闭空间表现人物身体，写实表面下带有沉静而不安的心理张力。《我的梦》于1988年首次正式发表或发行。《我的梦》的主要署名中，徐芒耀担任画家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1945_033",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_051",
+    "workName": "百花图卷",
+    "originalName": "百花图卷",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [
+      9002
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "长卷汇集四时花卉，以工写结合的笔墨和连续展开方式展示物种观察与文人趣味。《百花图卷》的主要署名中，周之冕担任画家。《百花图卷》的主要署名中，周之冕担任画家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1521_034",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1696_052",
+    "workName": "耕织图",
+    "originalName": "耕织图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [
+      9002
+    ],
+    "year": 1696,
+    "countryCode": "CHN",
+    "introduction": "组画分段描绘农耕和蚕织流程，把生产知识、宫廷教化与透视实验结合。《耕织图》于1696年首次正式发表或发行。《耕织图》的主要署名中，焦秉贞担任画家。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1689_035",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2002_053",
+    "workName": "二分宅",
+    "originalName": "二分宅",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [
+      12005,
+      12007
+    ],
+    "year": 2002,
+    "countryCode": "CHN",
+    "introduction": "住宅设计以两个相互关联的体量回应家庭生活，裸露材料和清晰构造强调空间关系而非表面装饰。《二分宅》于2002年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1956_036",
+        "relationType": 18,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1935_054",
+    "workName": "力挽狂澜",
+    "originalName": "力挽狂澜",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [
+      14005,
+      14006
+    ],
+    "year": 1935,
+    "countryCode": "CHN",
+    "introduction": "摄影以强烈瞬间和象征性构图凝固危急行动，体现早期中国摄影对现实事件与视觉戏剧性的把握。《力挽狂澜》于1935年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1900_037",
+        "relationType": 20,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2009_055",
+    "workName": "海岸线",
+    "originalName": "海岸线",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [
+      14005,
+      14006
+    ],
+    "year": 2009,
+    "countryCode": "CHN",
+    "introduction": "摄影项目沿中国海岸持续观察旅游、仪式、建设和日常生活，呈现公共景观中并置的现代经验。《海岸线》于2009年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1981_038",
+        "relationType": 20,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_056",
+    "workName": "日出",
+    "originalName": "日出",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [
+      8001
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "话剧以都市交际花及其周围人物的一昼夜为中心，揭示金钱秩序对不同阶层生活的侵蚀。《日出》的主要署名中，上海人民艺术剧院担任创作者。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1950_039",
+        "relationType": 99,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_1996_057",
+    "workName": "夜夜夜麻",
+    "originalName": "夜夜夜麻",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [
+      8001,
+      8007
+    ],
+    "year": 1996,
+    "countryCode": "CHN",
+    "introduction": "舞台作品在悬疑与黑色幽默中拆解亲密关系，通过语言游戏和身份错位暴露欲望与自我欺骗。《夜夜夜麻》于1996年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1954_040",
+        "relationType": 21,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_unknown_058",
+    "workName": "牡丹亭",
+    "originalName": "牡丹亭",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [
+      8005
+    ],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "昆曲经典以杜丽娘因梦而爱、因爱复生的传奇挑战礼教边界，唱腔与身段承载细腻情感。《牡丹亭》的主要署名中，岳美缇担任演员。《牡丹亭》的主要署名中，岳美缇担任演员。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1941_041",
+        "relationType": 24,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2007_059",
+    "workName": "大红灯笼高高挂",
+    "originalName": "大紅燈籠高高掛",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [
+      8004,
+      8008
+    ],
+    "year": 2007,
+    "countryCode": "CHN",
+    "introduction": "芭蕾改编以身体、色彩和群体队形重述深宅女性命运，将中国题材转化为现代舞台视觉。《大红灯笼高高挂》于2007年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1979_042",
+        "relationType": 99,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_chn_2021_060",
+    "workName": "只此青绿",
+    "originalName": "只此青绿",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [
+      8004,
+      8008
+    ],
+    "year": 2021,
+    "countryCode": "CHN",
+    "introduction": "舞蹈诗剧从《千里江山图》的创作与观看出发，以身体造型、色彩和书画意象表现传统技艺。《只此青绿》于2021年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_chn_1992_043",
+        "relationType": 22,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_1917_061",
+    "workName": "无情",
+    "originalName": "무정",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [
+      6004,
+      6005
+    ],
+    "year": 1917,
+    "countryCode": "KOR",
+    "introduction": "韩国早期现代小说通过爱情选择、教育观念与民族启蒙呈现殖民时期知识青年的矛盾。《无情》于1917年首次正式发表或发行。《无情》的主要署名中，李光洙担任作者。",
+    "primaryAuthorId": "realCharacter_kor_1892_044",
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_1892_044",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_1997_062",
+    "workName": "花火",
+    "originalName": "HANA-BI",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4012
+    ],
+    "year": 1997,
+    "countryCode": "JPN",
+    "introduction": "电影把警察、病妻和黑帮债务交织在极简叙事中，静默日常与突然暴力形成强烈对照。《花火》于1997年首次正式发表或发行。《花火》的主要署名中，北野武担任导演。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1947_045",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_1999_063",
+    "workName": "菊次郎的夏天",
+    "originalName": "菊次郎の夏",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4007
+    ],
+    "year": 1999,
+    "countryCode": "JPN",
+    "introduction": "公路电影通过失意成人陪伴男孩寻母的旅程，在笨拙喜剧与温柔失落之间建立情感。《菊次郎的夏天》于1999年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1947_045",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_1985_064",
+    "workName": "那就是我的世界",
+    "originalName": "그것만이 내 세상",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [
+      7002
+    ],
+    "year": 1985,
+    "countryCode": "KOR",
+    "introduction": "韩国摇滚歌曲以粗粝声线和坚定旋律表达对自我世界的坚持，成为乐队文化的重要象征。《那就是我的世界》于1985年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_1985_046",
+        "relationType": 13,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_2016_065",
+    "workName": "女神异闻录5",
+    "originalName": "ペルソナ5",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [
+      1003
+    ],
+    "year": 2016,
+    "countryCode": "JPN",
+    "introduction": "角色扮演游戏让高中生进入欲望具象化的异世界，以回合战斗、日程管理和爵士酸性配乐组织反抗主题。《女神异闻录5》于2016年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1971_047",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_2022_066",
+    "workName": "十三月",
+    "originalName": "언디셈버",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [
+      1003,
+      1001
+    ],
+    "year": 2022,
+    "countryCode": "KOR",
+    "introduction": "动作角色扮演游戏围绕技能符文自由组合和刷取成长展开，以黑暗奇幻世界承载持续构筑。《十三月》于2022年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_2012_048",
+        "relationType": 8,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_2001_067",
+    "workName": "传奇2",
+    "originalName": "미르의 전설 2",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [
+      1003
+    ],
+    "year": 2001,
+    "countryCode": "KOR",
+    "introduction": "大型网络角色扮演游戏以东方奇幻、多人战斗和公会社会形成长期在线世界，并在亚洲市场广泛传播。《传奇2》于2001年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_1973_049",
+        "relationType": 6,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_1991_068",
+    "workName": "街头霸王II",
+    "originalName": "ストリートファイターII",
+    "genre": 1,
+    "subcategory": 1011,
+    "subcategories": [
+      1011,
+      1001
+    ],
+    "year": 1991,
+    "countryCode": "JPN",
+    "introduction": "街机格斗游戏确立角色差异、指令招式和对战节奏，推动竞技格斗成为全球性游戏类型。《街头霸王II》于1991年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1940_050",
+        "relationType": 8,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_1963_069",
+    "workName": "出云大社厅舍",
+    "originalName": "出雲大社庁の舎",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [
+      12005,
+      12008
+    ],
+    "year": 1963,
+    "countryCode": "JPN",
+    "introduction": "建筑以巨型混凝土构件和悬挑空间回应神社环境，体现新陈代谢派对传统原型与现代结构的结合。《出云大社厅舍》于1963年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1928_051",
+        "relationType": 18,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_unknown_070",
+    "workName": "首尔，摩登时代",
+    "originalName": "서울, 모던 타임즈",
+    "genre": 14,
+    "subcategory": 14003,
+    "subcategories": [
+      14003,
+      14005
+    ],
+    "year": null,
+    "countryCode": "KOR",
+    "introduction": "摄影集通过战后首尔的街道、儿童和普通市民，呈现贫困、活力与现代化同时发生的城市表情。《首尔，摩登时代》的主要署名中，韩英洙担任摄影师。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_1933_052",
+        "relationType": 20,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_jpn_2014_071",
+    "workName": "献给最伟大的爱",
+    "originalName": "もっとも大いなる愛へ",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [
+      8001,
+      8007
+    ],
+    "year": 2014,
+    "countryCode": "JPN",
+    "introduction": "舞台作品以尖锐对白检视爱情、依赖和自我表演，让亲密关系中的不对等在剧场中逐层显露。《献给最伟大的爱》于2014年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_jpn_1989_053",
+        "relationType": 21,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_kor_unknown_072",
+    "workName": "身体协奏曲",
+    "originalName": "몸의 협주곡",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [
+      8004,
+      8007
+    ],
+    "year": null,
+    "countryCode": "KOR",
+    "introduction": "当代舞作品把不同身体视为彼此回应的声部，通过节奏、重量和群体排列探索共同运动。《身体协奏曲》的主要署名中，安成洙担任编舞。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_kor_1962_054",
+        "relationType": 22,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_ita_unknown_073",
+    "workName": "颂歌集",
+    "originalName": "Carmina",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001
+    ],
+    "year": null,
+    "countryCode": "ITA",
+    "introduction": "贺拉斯颂歌以严格格律讨论友谊、爱情、政治和生命限度，形成节制而机智的拉丁抒情传统。《颂歌集》的主要署名中，贺拉斯担任作者。",
+    "primaryAuthorId": "realCharacter_ita_-65_055",
+    "creators": [
+      {
+        "characterId": "realCharacter_ita_-65_055",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_ita_unknown_074",
+    "workName": "诗艺",
+    "originalName": "Ars Poetica",
+    "genre": 10,
+    "subcategory": 10010,
+    "subcategories": [
+      10010
+    ],
+    "year": null,
+    "countryCode": "ITA",
+    "introduction": "诗体文论从题材、结构、语言和作者训练讨论创作规范，“寓教于乐”等观念影响后世诗学。《诗艺》的主要署名中，贺拉斯担任作者。",
+    "primaryAuthorId": "realCharacter_ita_-65_055",
+    "creators": [
+      {
+        "characterId": "realCharacter_ita_-65_055",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_1954_075",
+    "workName": "蝇王",
+    "originalName": "Lord of the Flies",
+    "genre": 6,
+    "subcategory": 6015,
+    "subcategories": [
+      6015,
+      6012
+    ],
+    "year": 1954,
+    "countryCode": "GBR",
+    "introduction": "小说让一群失去成人秩序的男孩困于荒岛，通过权力争夺、恐惧和暴力检验文明的脆弱。《蝇王》于1954年首次正式发表或发行。《蝇王》的主要署名中，威廉·戈尔丁担任作者。",
+    "primaryAuthorId": "realCharacter_gbr_1911_056",
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1911_056",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_1940_076",
+    "workName": "心是孤独的猎手",
+    "originalName": "The Heart Is a Lonely Hunter",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [
+      6004,
+      6015
+    ],
+    "year": 1940,
+    "countryCode": "USA",
+    "introduction": "小说围绕聋哑者辛格及南方小镇的孤独人物展开，呈现交流渴望与无法真正互相理解的困境。《心是孤独的猎手》于1940年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_usa_1917_057",
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1917_057",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_1798_077",
+    "workName": "古舟子咏",
+    "originalName": "The Rime of the Ancient Mariner",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001,
+      10005
+    ],
+    "year": 1798,
+    "countryCode": "GBR",
+    "introduction": "叙事诗让水手因射杀信天翁遭遇海上惩罚，以超自然景象探问罪责、自然敬畏和讲述的救赎。《古舟子咏》于1798年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_gbr_1772_058",
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1772_058",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_2016_078",
+    "workName": "地下铁道",
+    "originalName": "The Underground Railroad",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [
+      6008,
+      6004
+    ],
+    "year": 2016,
+    "countryCode": "USA",
+    "introduction": "小说把历史上的逃亡网络实体化为地下铁路，通过多地制度景观重写美国奴隶制与自由神话。《地下铁道》于2016年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_usa_1969_059",
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1969_059",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_2019_079",
+    "workName": "尼克尔男孩",
+    "originalName": "The Nickel Boys",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [
+      6008,
+      6004
+    ],
+    "year": 2019,
+    "countryCode": "USA",
+    "introduction": "小说依据少年感化院历史展开，以两种道德选择和叙事反转揭示制度虐待及记忆责任。《尼克尔男孩》于2019年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_usa_1969_059",
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1969_059",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_2017_080",
+    "workName": "议程",
+    "originalName": "L’Ordre du jour",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [
+      6008,
+      6010
+    ],
+    "year": 2017,
+    "countryCode": "FRA",
+    "introduction": "短篇历史叙事聚焦企业家会议与德奥合并前后的细节，拆穿宏大历史背后的利益、怯懦和仪式。《议程》于2017年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_fra_1968_060",
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1968_060",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_1919_081",
+    "workName": "诗",
+    "originalName": "Poetry",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [
+      10001
+    ],
+    "year": 1919,
+    "countryCode": "USA",
+    "introduction": "诗作以“我也不喜欢它”开篇，在怀疑中为真实的想象空间辩护，体现摩尔精确而反讽的诗学。《诗》于1919年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_usa_1887_061",
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1887_061",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_2019_082",
+    "workName": "燃烧女子的肖像",
+    "originalName": "Portrait de la jeune fille en feu",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4006
+    ],
+    "year": 2019,
+    "countryCode": "FRA",
+    "introduction": "电影通过女画家与被画者的共同凝视发展爱情，在有限时间里讨论观看、同意、记忆和女性创作。《燃烧女子的肖像》于2019年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1978_062",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_2021_083",
+    "workName": "小妈妈",
+    "originalName": "Petite Maman",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4002
+    ],
+    "year": 2021,
+    "countryCode": "FRA",
+    "introduction": "影片让女孩在林中遇见童年时期的母亲，以简洁奇幻设定处理哀伤、代际理解和告别。《小妈妈》于2021年首次正式发表或发行。《小妈妈》的主要署名中，瑟琳·席安玛担任导演。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1978_062",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_1979_084",
+    "workName": "异形",
+    "originalName": "Alien",
+    "genre": 4,
+    "subcategory": 4001,
+    "subcategories": [
+      4001,
+      4010
+    ],
+    "year": 1979,
+    "countryCode": "GBR",
+    "introduction": "科幻恐怖片把商业飞船变为封闭猎场，异形身体、工业空间和公司命令共同制造生存压迫。《异形》于1979年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1937_063",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_1982_085",
+    "workName": "银翼杀手",
+    "originalName": "Blade Runner",
+    "genre": 4,
+    "subcategory": 4001,
+    "subcategories": [
+      4001,
+      4012
+    ],
+    "year": 1982,
+    "countryCode": "GBR",
+    "introduction": "影片在雨夜未来都市追问复制人的记忆与生命权，黑色电影影像和电子配乐塑造赛博朋克范式。《银翼杀手》于1982年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1937_063",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_1997_086",
+    "workName": "偏执狂机器人",
+    "originalName": "Paranoid Android",
+    "genre": 7,
+    "subcategory": 7003,
+    "subcategories": [
+      7003,
+      7012
+    ],
+    "year": 1997,
+    "countryCode": "GBR",
+    "introduction": "歌曲以多段结构、骤变力度和疏离歌词拼接现代焦虑，在摇滚形式中拒绝常规主歌副歌秩序。《偏执狂机器人》于1997年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1985_064",
+        "relationType": 13,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_gbr_2000_087",
+    "workName": "一切尽在其位",
+    "originalName": "Everything in Its Right Place",
+    "genre": 7,
+    "subcategory": 7007,
+    "subcategories": [
+      7007,
+      7012
+    ],
+    "year": 2000,
+    "countryCode": "GBR",
+    "introduction": "作品以循环键盘、切割人声和不稳定和声开启电子化转向，表达秩序表面下的感知错乱。《一切尽在其位》于2000年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_gbr_1985_064",
+        "relationType": 13,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_2012_088",
+    "workName": "耻辱",
+    "originalName": "Dishonored",
+    "genre": 1,
+    "subcategory": 1001,
+    "subcategories": [
+      1001,
+      1002
+    ],
+    "year": 2012,
+    "countryCode": "FRA",
+    "introduction": "沉浸式模拟游戏让玩家在瘟疫城市执行复仇，可用潜行、超能力和环境系统形成不同后果。《耻辱》于2012年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1999_065",
+        "relationType": 7,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_2017_089",
+    "workName": "掠食",
+    "originalName": "Prey",
+    "genre": 1,
+    "subcategory": 1001,
+    "subcategories": [
+      1001,
+      1002,
+      1009
+    ],
+    "year": 2017,
+    "countryCode": "FRA",
+    "introduction": "游戏以空间站身份谜团开场，将探索、资源管理和可组合能力置于关于意识与同理心的选择中。《掠食》于2017年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1999_065",
+        "relationType": 7,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_1952_090",
+    "workName": "女人I",
+    "originalName": "Woman I",
+    "genre": 9,
+    "subcategory": 9006,
+    "subcategories": [
+      9006,
+      9009
+    ],
+    "year": 1952,
+    "countryCode": "USA",
+    "introduction": "巨幅油画在反复覆盖和刮除中形成女性形象，具象身体与抽象笔触之间保持攻击性张力。《女人I》于1952年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1904_066",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_fra_1899_091",
+    "workName": "成熟时代",
+    "originalName": "L’Âge mûr",
+    "genre": 11,
+    "subcategory": 11002,
+    "subcategories": [
+      11002
+    ],
+    "year": 1899,
+    "countryCode": "FRA",
+    "introduction": "雕塑群以被带走的男子、挽留的年轻女子和年长女性构成关系断裂，姿态运动强化失落与不可逆。材料、体量与姿态共同组织观看，作品会随观者位置变化呈现不同关系。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_fra_1864_067",
+        "relationType": 23,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_1941_092",
+    "workName": "戴防火面罩的女人们",
+    "originalName": "Women with Fire Masks",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [
+      14005,
+      14007
+    ],
+    "year": 1941,
+    "countryCode": "USA",
+    "introduction": "战时摄影记录伦敦女性佩戴防火面罩的训练，超现实外观与民防日常并置。《戴防火面罩的女人们》于1941年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1907_068",
+        "relationType": 20,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_2013_093",
+    "workName": "史蒂文宇宙",
+    "originalName": "Steven Universe",
+    "genre": 2,
+    "subcategory": 2004,
+    "subcategories": [
+      2004,
+      2008
+    ],
+    "year": 2013,
+    "countryCode": "USA",
+    "introduction": "动画系列通过少年与宝石生命共同生活的冒险讨论成长、创伤修复、家庭选择和多样亲密关系。角色、运动、色彩、声音和分集节奏共同推动成长与世界观展开。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1987_069",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_deu_1981_094",
+    "workName": "梅林，或荒原",
+    "originalName": "Merlin oder Das wüste Land",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [
+      8001,
+      8007
+    ],
+    "year": 1981,
+    "countryCode": "DEU",
+    "introduction": "剧作重写亚瑟王传说，以庞杂人物和碎片结构展示理想共同体如何走向战争与荒原。《梅林，或荒原》于1981年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_deu_1925_070",
+        "relationType": 21,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_deu_1921_095",
+    "workName": "群众与人",
+    "originalName": "Masse Mensch",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [
+      8001,
+      8007
+    ],
+    "year": 1921,
+    "countryCode": "DEU",
+    "introduction": "表现主义戏剧让革命者在群众目标与个人伦理之间受压，简化舞台和群体语言强化政治冲突。《群众与人》于1921年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_deu_1893_071",
+        "relationType": 21,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_rus_1913_096",
+    "workName": "春之祭",
+    "originalName": "Le Sacre du printemps",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [
+      8004,
+      8008
+    ],
+    "year": 1913,
+    "countryCode": "RUS",
+    "introduction": "芭蕾以不规则节奏、尖锐和声和内扣动作表现原始祭典，首演争议后来转化为现代主义标志。《春之祭》于1913年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_rus_1872_072",
+        "relationType": 99,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_lbn_2018_097",
+    "workName": "何以为家",
+    "originalName": "کفرناحوم",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005
+    ],
+    "year": 2018,
+    "countryCode": "LBN",
+    "introduction": "影片跟随贫困男孩在贝鲁特街头求生，并以控告父母的法庭框架质问儿童权利和结构性贫困。《何以为家》于2018年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_lbn_1974_073",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_lbn_2007_098",
+    "workName": "焦糖",
+    "originalName": "سكر بنات",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [
+      4005,
+      4007
+    ],
+    "year": 2007,
+    "countryCode": "LBN",
+    "introduction": "电影以贝鲁特美容院中的女性群像讨论爱情、婚姻、年龄和社会规范，温暖日常中保留矛盾。《焦糖》于2007年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_lbn_1974_073",
+        "relationType": 2,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_col_2006_099",
+    "workName": "难以抗拒",
+    "originalName": "Hips Don’t Lie",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001,
+      7009
+    ],
+    "year": 2006,
+    "countryCode": "COL",
+    "introduction": "歌曲把拉丁节奏、铜管采样和舞蹈表演结合，以身体律动建立跨语种流行感染力。《难以抗拒》于2006年首次正式发表或发行。《难以抗拒》的主要署名中，夏奇拉担任歌手。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_col_1977_074",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_col_2001_100",
+    "workName": "随时随地",
+    "originalName": "Whenever, Wherever",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [
+      7001,
+      7009
+    ],
+    "year": 2001,
+    "countryCode": "COL",
+    "introduction": "作品将安第斯乐器音色与流行摇滚结合，歌词和影像共同塑造主动、自由的跨文化形象。《随时随地》于2001年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_col_1977_074",
+        "relationType": 11,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_idn_2020_101",
+    "workName": "咖啡心语",
+    "originalName": "Coffee Talk",
+    "genre": 1,
+    "subcategory": 1013,
+    "subcategories": [
+      1013,
+      1015
+    ],
+    "year": 2020,
+    "countryCode": "IDN",
+    "introduction": "叙事游戏让玩家在深夜咖啡馆调制饮品并倾听都市异族顾客的烦恼，以对话选择形成温和节奏。《咖啡心语》于2020年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_idn_2009_075",
+        "relationType": 7,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_ind_1935_102",
+    "workName": "三个女孩",
+    "originalName": "Three Girls",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [
+      9001,
+      9010
+    ],
+    "year": 1935,
+    "countryCode": "IND",
+    "introduction": "画面中的三位女性以沉静姿态并坐，厚重色块和克制表情呈现乡村女性的共同处境与内在距离。《三个女孩》于1935年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_ind_1913_076",
+        "relationType": 17,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_bra_1995_103",
+    "workName": "巴西雕塑博物馆",
+    "originalName": "Museu Brasileiro da Escultura",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [
+      12005,
+      12010
+    ],
+    "year": 1995,
+    "countryCode": "BRA",
+    "introduction": "建筑以横跨场地的巨大混凝土梁组织开放空间，将展馆主体压入地下并把城市地面还给公众。《巴西雕塑博物馆》于1995年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_bra_1928_077",
+        "relationType": 18,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_aus_2005_104",
+    "workName": "午夜前几分钟",
+    "originalName": "Minutes to Midnight",
+    "genre": 14,
+    "subcategory": 14003,
+    "subcategories": [
+      14003,
+      14006
+    ],
+    "year": 2005,
+    "countryCode": "AUS",
+    "introduction": "摄影项目以高反差黑白影像穿行澳大利亚社会，在寓言化瞬间中连接国家身份、家庭和末世不安。《午夜前几分钟》于2005年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_aus_1971_078",
+        "relationType": 20,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_usa_2000_105",
+    "workName": "真相蒙羞",
+    "originalName": "The Shaming of the True",
+    "genre": 7,
+    "subcategory": 7003,
+    "subcategories": [
+      7003,
+      7012
+    ],
+    "year": 2000,
+    "countryCode": "USA",
+    "introduction": "概念专辑追随歌手进入音乐工业后的妥协与崩溃，以前卫摇滚结构批判名声、商业和自我背叛。《真相蒙羞》于2000年首次正式发表或发行。",
+    "primaryAuthorId": null,
+    "creators": [
+      {
+        "characterId": "realCharacter_usa_1966_079",
+        "relationType": 10,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "workId": "work_tur_2005_106",
+    "workName": "疯狂的土耳其人",
+    "originalName": "Şu Çılgın Türkler",
+    "genre": 6,
+    "subcategory": 6008,
+    "subcategories": [
+      6008,
+      6010
+    ],
+    "year": 2005,
+    "countryCode": "TUR",
+    "introduction": "历史小说以土耳其独立战争为背景，结合档案叙述和大众化讲述重建民族动员与战争记忆。《疯狂的土耳其人》于2005年首次正式发表或发行。",
+    "primaryAuthorId": "realCharacter_tur_1930_080",
+    "creators": [
+      {
+        "characterId": "realCharacter_tur_1930_080",
+        "relationType": 1,
+        "sortOrder": 0
+      }
+    ]
+  }
+]

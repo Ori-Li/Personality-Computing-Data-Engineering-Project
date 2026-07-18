@@ -1,0 +1,23 @@
+{
+    "character": {
+        "name": "数据工程样板创作者",
+        "introduction": "用于验证 Data Engineering 到 RGMJ MySQL 数据库导入链路的可清理样板实体。",
+        "character_type": 1,
+        "creative_entity_type": 1,
+        "gender": 0,
+        "language": 1,
+        "area": "44",
+        "field": 4,
+        "sub_type": 0
+    },
+    "work": {
+        "name": "样板作品：文化数据导入测试",
+        "original_name": "Dataset Import Sample Work",
+        "genre": 10,
+        "year": 2026,
+        "subcategory": "数据导入样板",
+        "introduction": "用于验证人物、名称、作品及创作者关系能否在一个事务中正确写入。",
+        "cultural_impact": "仅用于本地开发验证，不属于正式文化作品数据。",
+        "relation_type": 1
+    }
+}

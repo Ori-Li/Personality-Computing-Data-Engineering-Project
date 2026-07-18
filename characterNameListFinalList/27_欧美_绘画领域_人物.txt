@@ -117,5 +117,13 @@
 
     "Kerry James Marshall",
 
-    "Banksy"
+    "Banksy",
+
+    "James Jean",
+
+    "Loish",
+
+    "Ilya Kuvshinov",
+
+    "Kehinde Wiley"
 ]

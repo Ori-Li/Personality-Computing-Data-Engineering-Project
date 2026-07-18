@@ -101,5 +101,9 @@
 
     "Aïda Muluneh",
 
-    "Hassan Hajjaj"
+    "Hassan Hajjaj",
+
+    "Walid Raad",
+
+    "Pieter Hugo"
 ]

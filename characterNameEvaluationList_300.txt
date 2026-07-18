@@ -1,0 +1,601 @@
+[
+    "屈原",
+
+    "李白",
+
+    "杜甫",
+
+    "曹雪芹",
+
+    "鲁迅",
+
+    "莫言",
+
+    "韩寒",
+
+    "郑正秋",
+
+    "谢晋",
+
+    "张艺谋",
+
+    "王家卫",
+
+    "侯孝贤",
+
+    "李安",
+
+    "周星驰",
+
+    "聂耳",
+
+    "冼星海",
+
+    "罗大佑",
+
+    "周杰伦",
+
+    "王菲",
+
+    "崔健",
+
+    "邓丽君",
+
+    "姚壮宪",
+
+    "蔡明宏",
+
+    "陈星汉",
+
+    "冯骥",
+
+    "梁其伟",
+
+    "蔡浩宇",
+
+    "姚晓光",
+
+    "顾恺之",
+
+    "王希孟",
+
+    "张择端",
+
+    "齐白石",
+
+    "徐悲鸿",
+
+    "吴冠中",
+
+    "曾梵志",
+
+    "刘开渠",
+
+    "曾竹韶",
+
+    "潘鹤",
+
+    "朱铭",
+
+    "隋建国",
+
+    "向京",
+
+    "吴为山",
+
+    "梁思成",
+
+    "杨廷宝",
+
+    "吴良镛",
+
+    "王澍",
+
+    "刘家琨",
+
+    "马岩松",
+
+    "魏春雨",
+
+    "沙飞",
+
+    "吴印咸",
+
+    "郎静山",
+
+    "侯登科",
+
+    "吕楠",
+
+    "王福春",
+
+    "陈漫",
+
+    "万籁鸣",
+
+    "特伟",
+
+    "严定宪",
+
+    "戴铁郎",
+
+    "刘健",
+
+    "田晓鹏",
+
+    "饺子",
+
+    "关汉卿",
+
+    "汤显祖",
+
+    "曹禺",
+
+    "梅兰芳",
+
+    "赖声川",
+
+    "孟京辉",
+
+    "陈佩斯",
+
+    "戴爱莲",
+
+    "吴晓邦",
+
+    "杨丽萍",
+
+    "林怀民",
+
+    "金星",
+
+    "谭元元",
+
+    "唐诗逸",
+
+    "紫式部",
+
+    "夏目漱石",
+
+    "芥川龍之介",
+
+    "川端康成",
+
+    "村上春樹",
+
+    "한강",
+
+    "김영하",
+
+    "黒澤明",
+
+    "小津安二郎",
+
+    "宮崎駿",
+
+    "是枝裕和",
+
+    "봉준호",
+
+    "박찬욱",
+
+    "김수현",
+
+    "武満徹",
+
+    "坂本龍一",
+
+    "久石譲",
+
+    "宇多田ヒカル",
+
+    "米津玄師",
+
+    "아이유",
+
+    "조용필",
+
+    "宮本茂",
+
+    "小島秀夫",
+
+    "堀井雄二",
+
+    "坂口博信",
+
+    "宮崎英高",
+
+    "김택진",
+
+    "김정주",
+
+    "雪舟等楊",
+
+    "葛飾北斎",
+
+    "歌川広重",
+
+    "草間彌生",
+
+    "奈良美智",
+
+    "김환기",
+
+    "이우환",
+
+    "高村光雲",
+
+    "高村光太郎",
+
+    "佐藤忠良",
+
+    "名和晃平",
+
+    "塩田千春",
+
+    "김종영",
+
+    "서도호",
+
+    "丹下健三",
+
+    "安藤忠雄",
+
+    "伊東豊雄",
+
+    "妹島和世",
+
+    "隈研吾",
+
+    "김수근",
+
+    "승효상",
+
+    "木村伊兵衛",
+
+    "土門拳",
+
+    "森山大道",
+
+    "荒木経惟",
+
+    "杉本博司",
+
+    "具本昌",
+
+    "배병우",
+
+    "手塚治虫",
+
+    "押井守",
+
+    "高畑勲",
+
+    "大友克洋",
+
+    "今敏",
+
+    "新海誠",
+
+    "연상호",
+
+    "世阿弥",
+
+    "近松門左衛門",
+
+    "寺山修司",
+
+    "蜷川幸雄",
+
+    "鈴木忠志",
+
+    "野田秀樹",
+
+    "한태숙",
+
+    "土方巽",
+
+    "大野一雄",
+
+    "田中泯",
+
+    "勅使川原三郎",
+
+    "熊川哲也",
+
+    "최승희",
+
+    "안애순",
+
+    "Homer",
+
+    "Dante Alighieri",
+
+    "William Shakespeare",
+
+    "Jane Austen",
+
+    "Leo Tolstoy",
+
+    "Virginia Woolf",
+
+    "Stephen King",
+
+    "Georges Méliès",
+
+    "Alfred Hitchcock",
+
+    "Ingmar Bergman",
+
+    "Stanley Kubrick",
+
+    "Martin Scorsese",
+
+    "Christopher Nolan",
+
+    "Greta Gerwig",
+
+    "Johann Sebastian Bach",
+
+    "Ludwig van Beethoven",
+
+    "Miles Davis",
+
+    "Bob Dylan",
+
+    "David Bowie",
+
+    "Michael Jackson",
+
+    "Taylor Swift",
+
+    "Nolan Bushnell",
+
+    "Sid Meier",
+
+    "John Carmack",
+
+    "Will Wright",
+
+    "Tim Schafer",
+
+    "Toby Fox",
+
+    "Sam Lake",
+
+    "Leonardo da Vinci",
+
+    "Rembrandt",
+
+    "Claude Monet",
+
+    "Vincent van Gogh",
+
+    "Pablo Picasso",
+
+    "Frida Kahlo",
+
+    "David Hockney",
+
+    "Michelangelo",
+
+    "Gian Lorenzo Bernini",
+
+    "Auguste Rodin",
+
+    "Constantin Brâncuși",
+
+    "Henry Moore",
+
+    "Louise Bourgeois",
+
+    "Anish Kapoor",
+
+    "Andrea Palladio",
+
+    "Frank Lloyd Wright",
+
+    "Le Corbusier",
+
+    "Louis Kahn",
+
+    "Frank Gehry",
+
+    "Zaha Hadid",
+
+    "Rem Koolhaas",
+
+    "Nadar",
+
+    "Alfred Stieglitz",
+
+    "Ansel Adams",
+
+    "Henri Cartier-Bresson",
+
+    "Robert Capa",
+
+    "Cindy Sherman",
+
+    "Annie Leibovitz",
+
+    "Winsor McCay",
+
+    "Walt Disney",
+
+    "Chuck Jones",
+
+    "Nick Park",
+
+    "Brad Bird",
+
+    "Pete Docter",
+
+    "Tomm Moore",
+
+    "Aeschylus",
+
+    "Arthur Miller",
+
+    "Henrik Ibsen",
+
+    "Anton Chekhov",
+
+    "Bertolt Brecht",
+
+    "Samuel Beckett",
+
+    "Peter Brook",
+
+    "Marius Petipa",
+
+    "Isadora Duncan",
+
+    "George Balanchine",
+
+    "Martha Graham",
+
+    "Pina Bausch",
+
+    "Alvin Ailey",
+
+    "Akram Khan",
+
+    "Rabindranath Tagore",
+
+    "Naguib Mahfouz",
+
+    "Chinua Achebe",
+
+    "Gabriel García Márquez",
+
+    "Jorge Luis Borges",
+
+    "J. M. Coetzee",
+
+    "Arundhati Roy",
+
+    "Satyajit Ray",
+
+    "Abbas Kiarostami",
+
+    "Asghar Farhadi",
+
+    "Apichatpong Weerasethakul",
+
+    "Ousmane Sembène",
+
+    "Walter Salles",
+
+    "Taika Waititi",
+
+    "Ravi Shankar",
+
+    "A. R. Rahman",
+
+    "Umm Kulthum",
+
+    "Fela Kuti",
+
+    "Bob Marley",
+
+    "Caetano Veloso",
+
+    "Shakira",
+
+    "Navid Khonsari",
+
+    "Dean Hall",
+
+    "Ari Gibson",
+
+    "William Pellen",
+
+    "Matt Hall",
+
+    "Nguyễn Hà Đông",
+
+    "Raja Ravi Varma",
+
+    "M. F. Husain",
+
+    "El Anatsui",
+
+    "William Kentridge",
+
+    "Fernando Botero",
+
+    "Emily Kame Kngwarreye",
+
+    "Ramkinkar Baij",
+
+    "Subodh Gupta",
+
+    "Parviz Tanavoli",
+
+    "Doris Salcedo",
+
+    "Ernesto Neto",
+
+    "Patricia Piccinini",
+
+    "Hassan Fathy",
+
+    "Geoffrey Bawa",
+
+    "Balkrishna Doshi",
+
+    "Marina Tabassum",
+
+    "Francis Kéré",
+
+    "Glenn Murcutt",
+
+    "Raghu Rai",
+
+    "Dayanita Singh",
+
+    "Seydou Keïta",
+
+    "Malick Sidibé",
+
+    "Sebastião Salgado",
+
+    "Tracey Moffatt",
+
+    "Ram Mohan",
+
+    "Gitanjali Rao",
+
+    "Carlos Saldanha",
+
+    "Jorge R. Gutierrez",
+
+    "Alê Abreu",
+
+    "Adam Elliot",
+
+    "Kalidasa",
+
+    "Badal Sircar",
+
+    "Wole Soyinka",
+
+    "Athol Fugard",
+
+    "Girish Karnad",
+
+    "Saadallah Wannous",
+
+    "Uday Shankar",
+
+    "Birju Maharaj",
+
+    "Ohad Naharin",
+
+    "Germaine Acogny",
+
+    "Dada Masilo",
+
+    "Carlos Acosta"
+]

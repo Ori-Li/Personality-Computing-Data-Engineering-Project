@@ -1,0 +1,5293 @@
+[
+  {
+    "processingState": {
+      "processed": 1,
+      "remaining": 82,
+      "total": 83,
+      "currentContentId": "work_chn_-340_001",
+      "nextContentId": "work_chn_-340_002",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_-340_001",
+          "parentContentId": null,
+          "workId": "work_chn_-340_001",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "离骚",
+          "type": "LITERATURE",
+          "countryName": "中国",
+          "year": -340,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.9,
+          "primaryMediaType": "LITERATURE"
+        },
+        "semantic": {
+          "summary": "《离骚》是战国时期楚国诗人屈原的长篇抒情诗，共373句，为中国古代最长的抒情诗。全诗以第一人称自述展开，交织神话、历史与个人遭际，塑造了一位追求美政理想、坚守高洁人格却遭谗言放逐的抒情主人公形象。作品大量运用香草美人的象征系统，以丰富奇崛的想象创造了一个上天入地的精神漫游世界，既抒发了对楚国命运的深切忧虑，也表达了对理想失落的悲愤与决绝。作为楚辞的开创之作，它奠定了中国文学浪漫主义传统的基础。",
+          "themes": [
+            "政治理想",
+            "忠君爱国",
+            "道德坚守",
+            "个人与环境的冲突",
+            "生死抉择",
+            "精神漫游",
+            "香草美人象征",
+            "时间焦虑",
+            "求索与幻灭"
+          ],
+          "keywords": [
+            "屈原",
+            "楚辞",
+            "香草美人",
+            "放逐",
+            "美政",
+            "神话",
+            "重华",
+            "天界漫游",
+            "彭咸",
+            "浪漫主义",
+            "战国",
+            "抒情诗"
+          ],
+          "core_experience": "作品以高度自我化的视角，带给读者一种深陷精神困境而上下求索的体验。美政理想与残酷现实之间的张力贯穿始终，伴随强烈的情感起伏——从激昂自励到悲愤质问，再到对天界的驰骋想象，最终归于决绝。大量纷至沓来的神话和香草喻象构建了一个瑰丽而忧伤的精神世界，使人体会到高洁理想在不被理解的世界里所经历的孤独、挣扎与升华。",
+          "experience_introduction": "这是战国诗人屈原在流放中所作的一首长篇抒情诗，以瑰丽奇崛的语言讲述了诗人对政治理想的执着、对谗佞小人的愤慨以及对故国深沉而无奈的眷恋。全篇的情绪在激昂、悲愤与奇幻的想象间反复交织，诗人驾龙乘风、上下求索，却终究无法摆脱现实的失意。作品节奏跌宕，意象纷繁，密集的香草美人象征背后是一种高洁人格在污浊环境中的孤独挣扎与决绝。它不追求平和的抚慰，短暂的快慰也常常被更深的忧患打断，最终指向一个清醒而痛苦的精神归宿。"
+        },
+        "experience_vector": {
+          "passion": 0.9,
+          "healing": 0.15,
+          "awe": 0.55,
+          "nostalgia": 0.4,
+          "reflection": 0.75,
+          "romance": 0.2,
+          "tension": 0.85,
+          "warmth": 0.1,
+          "loneliness": 0.9,
+          "hope": 0.35
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.85,
+            "complexity": 0.8,
+            "depth_of_thought": 0.9,
+            "logical_structure": 0.4,
+            "novelty": 0.95,
+            "exploration": 0.8,
+            "ambiguity": 0.7,
+            "predictability": 0.2,
+            "information_density": 0.9,
+            "learning_value": 0.8
+          },
+          "worldview": {
+            "personal_scale": 0.85,
+            "relationship_scale": 0.4,
+            "social_scale": 0.75,
+            "civilization_scale": 0.6,
+            "cosmic_scale": 0.7,
+            "time_span": 0.5,
+            "fantasy_level": 0.85
+          },
+          "emotion": {
+            "happiness": 0.1,
+            "sadness": 0.85,
+            "loneliness": 0.9,
+            "warmth": 0.1,
+            "fear": 0.3,
+            "tension": 0.85,
+            "awe": 0.55,
+            "nostalgia": 0.4,
+            "hope": 0.35,
+            "melancholy": 0.7,
+            "anger": 0.75,
+            "peace": 0.05
+          },
+          "aesthetic": {
+            "beauty": 0.75,
+            "minimalism": 0.1,
+            "luxury": 0.7,
+            "darkness": 0.65,
+            "brightness": 0.3,
+            "dreamlike": 0.8,
+            "mystery": 0.7,
+            "experimental": 0.85,
+            "classical": 0.8,
+            "modern": 0.15
+          },
+          "narrative": {
+            "plot_complexity": 0.65,
+            "character_depth": 0.9,
+            "character_growth": 0.6,
+            "world_building": 0.8,
+            "nonlinear_structure": 0.7,
+            "slow_immersion": 0.6,
+            "action_intensity": 0.3,
+            "conflict_intensity": 0.9,
+            "philosophical_depth": 0.9
+          },
+          "social_relationship": {
+            "individualism": 0.85,
+            "collectivism": 0.25,
+            "family": 0.15,
+            "friendship": 0.1,
+            "love": 0.25,
+            "community": 0.2,
+            "competition": 0.55,
+            "cooperation": 0.1,
+            "power_relationship": 0.8,
+            "identity": 0.85
+          },
+          "value": {
+            "freedom": 0.65,
+            "order": 0.3,
+            "truth": 0.8,
+            "beauty": 0.65,
+            "achievement": 0.7,
+            "justice": 0.55,
+            "sacrifice": 0.75,
+            "self_exploration": 0.9,
+            "tradition": 0.6,
+            "change": 0.4,
+            "survival": 0.5,
+            "meaning": 0.9
+          },
+          "behavior": {
+            "curiosity": 0.7,
+            "creation": 0.9,
+            "adventure": 0.65,
+            "reflection": 0.95,
+            "competition": 0.3,
+            "social": 0.15,
+            "discipline": 0.6,
+            "risk": 0.4,
+            "calm": 0.1,
+            "escape": 0.55
+          },
+          "sensory": {
+            "visual_intensity": 0.85,
+            "color_richness": 0.75,
+            "sound_intensity": 0.7,
+            "rhythm_energy": 0.75,
+            "atmosphere": 0.9,
+            "immersion": 0.85
+          }
+        },
+        "media_vector": {
+          "literature_vector": {
+            "literary_style": 0.95,
+            "language_artistry": 0.95,
+            "symbolism": 0.95,
+            "rhetorical_complexity": 0.9,
+            "intellectual_depth": 0.9,
+            "cultural_depth": 0.9,
+            "knowledge_density": 0.85,
+            "interpretation_openness": 0.85
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.9,
+            "explanation": "全诗贯穿着对美政理想、高洁人格近乎燃烧的执着与奔涌的情感。诗人的自我期许、对黑暗现实的愤怒和绝望中的精神漫游构成了强烈的激情起伏，是作品最核心的驱动力。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.15,
+            "explanation": "全诗由政治失意、遭受谗言、理想幻灭的悲愤主导，不存在修复、安慰或温暖人心的特性。结尾以死亡表白决心，与治愈体验截然相反。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.55,
+            "explanation": "诗中对天界巡游的奇幻描绘——驾龙乘风、神鸟随行、叩问天门——带来开阔与超凡的感受。但这种景象多与诗人的孤愤交织，并非纯粹的敬畏，震撼之中夹杂着失落。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.4,
+            "explanation": "诗人屡次回顾尧舜等古代圣王治世，借古讽今，流露出对理想化过去的强烈向往。但这种回顾是为批判当下服务的，并非单纯的怀旧情绪。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.75,
+            "explanation": "整首诗是诗人在流放中对自身政治生涯、道德选择及生命意义的深刻内省。对美政理想的反复申说和对个人命运的持续质问，构成了强烈的反思性。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.2,
+            "explanation": "虽然诗中“求女”情节借用了婚恋追寻的外壳，但其核心是政治理想的寻求，并非描摹爱情关系。浪漫之爱本身在作品的情感构成中非常微弱。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.85,
+            "explanation": "理想与现实的尖锐冲突、对谗佞小人的愤恨、对楚王不察的焦虑以及时间流逝的紧迫感，共同营造了一种高度紧绷的精神张力，贯穿全篇。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.1,
+            "explanation": "作品聚焦于个人的精神挣扎和与外部世界的激烈对抗，人际关系层面几乎只有对立和不信任，不存在来自他人的持续关怀、理解或温情互动。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.9,
+            "explanation": "诗人的高洁理想不被世人理解，反遭排斥和放逐，这种“众人皆醉我独醒”式的绝对孤独是作品最基本的情感基调，也是其精神力量的来源。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.35,
+            "explanation": "诗人在上下求索和上天入地的驰骋中曾反复寻找出路和寄托，但每一次叩问都归于失望。短暂升起的期待不断被现实击碎，最终的希望感相当微弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.85,
+            "explanation": "作品以“香草美人”为核心的象征系统、大量神话典故和跳跃的意象群构建了一个高度抽象的意义世界，需要透过具体的比喻去理解其政治和道德意涵。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.8,
+            "explanation": "神话、历史与现实多层交织，情感在自伤、愤怒、幻想、绝望间频繁转换，意象繁复，结构回环往复，使得信息处理和情感追踪的难度较高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.9,
+            "explanation": "作品探讨了个人与浑浊政治的关系、生与死的哲学命题、道德纯粹性的意义以及理想主义者在绝境中如何自处，具有极为深刻的哲学思辨色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.4,
+            "explanation": "全诗的推进逻辑是情感化的和跳跃式的，依靠情绪和意象群的联系而非严格的因果逻辑或论证结构。秩序隐藏在狂热的情感奔流之中，外部逻辑感较弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.95,
+            "explanation": "作品在当时的文化背景下，其长篇抒情体制、个人化视角、庞大的神话象征系统以及想象力之奇绝，都具有强烈的开创性与革命性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.8,
+            "explanation": "精神漫游构成了作品的重要段落，对天界的巡行和对各种神话空间的叩问，充满了对未知领域进行想象性探索的冲动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.7,
+            "explanation": "香草美人等象征意象的具体所指常存在多种解释的可能，叙事线索也因情感跳跃而显得朦胧，留下了大量需要主动解读的意义空间。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.2,
+            "explanation": "作品的情绪走向和意象组合往往出人意表，从现实悲愤突然转入天界漫游，其想象路径难以预料，全诗的结论也非皆大欢喜的常规结局。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.9,
+            "explanation": "诗句中包含了极为密集的人名、地名、典故、香草名和神话片段，每一句都负载着丰富的文化与情感信息，需要高度的知识储备才能完全解读。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.8,
+            "explanation": "通过作品可以深入了解楚文化、战国政治生态、早期中国的神话体系以及浪漫主义文学的起源，能深化对理想主义与知识分子命运等命题的理解。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.85,
+            "explanation": "虽然是宏大的政治抒情，但一切皆从“我”的视角、感受和命运出发，强烈关注个人精神世界的纯洁性与困境，具有鲜明的个人英雄主义色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.4,
+            "explanation": "作品中的关系主要是政治对立关系（与党人、楚王）和象征性的求索关系（求女），缺乏对平等的亲密友谊或家庭温情的细腻刻画。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.75,
+            "explanation": "对楚国政治生态、社会风俗和党人误国的批判贯穿始终，整个作品始终在对社会状况进行价值判断，政治社会关怀是其核心。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.6,
+            "explanation": "对尧舜等三代盛世的追忆与对当下浑浊世道的批判构成了文明兴衰的视角，但文明更替本身并非核心焦点，而是借以衡量现实的政治理想。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.7,
+            "explanation": "天界巡游部分将视野扩展至日月风云、神话众神居所，与天地精神相往来，有鲜明的宇宙层面的想象，但其根源仍在于现实情感的抒发。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.5,
+            "explanation": "叙事在个人的一生和前代历史间跳跃，但焦点始终是当前个人命运的紧迫感，而非对长时段历史演变的描述。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.85,
+            "explanation": "作品中存在大量神话人物、神兽、天界场景和超越现实的漫游能力，现实与幻想自由交织，构成了一个高度奇幻化的精神世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.1,
+            "explanation": "作品基调悲愤忧郁，政治失意与理想破灭贯穿始终，几乎没有纯粹的快乐或满足感出现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.85,
+            "explanation": "对个人不幸遭遇、故国危机和理想沉沦的悲伤是作品的核心情感之一，反复以泪水、叹息、哀伤等词汇直接表达。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.9,
+            "explanation": "“鸷鸟之不群兮”式的绝对孤独感是驱动全诗最重要的情感力量，诗人的高洁不被理解，在精神上完全孤立。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.1,
+            "explanation": "通篇缺乏来自他人的理解、支持和温情关怀，诗人始终处于对抗和自我保护的状态，温情成分几乎可以忽略不计。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.3,
+            "explanation": "对老之将至、时不我待以及对楚国前途的深切忧虑中包含恐惧的成分，但更多被更强烈的愤怒和执着的求索所覆盖。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.85,
+            "explanation": "政治高压、道德困境、时间紧迫和内心冲突共同形成了持续不断的高强度心理紧张感，是阅读过程中最鲜明的感受之一。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.55,
+            "explanation": "神话漫游的壮丽景象和诗人横绝一世的想象力带来了超凡的震撼感，但这种感受始终与诗人的悲剧情怀混合在一起。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.4,
+            "explanation": "对先贤古圣的怀念是其政治批判的基石，确实存在对过去的理想化依恋，但全诗的情感动力是指向当下的抗争，而非沉浸于怀旧。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.35,
+            "explanation": "上下求索的行为本身蕴含着寻找出路的意愿，然而每一次叩问都以失败告终，希望感在反复出现后又被反复扑灭，整体较为微弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.7,
+            "explanation": "自伤身世、感时伤怀的忧郁情调弥漫全篇，构成作品抒情基调的重要底色，区别于直接的愤怒和悲伤。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.75,
+            "explanation": "对谗佞之徒的痛恨、对楚王昏聩的怨愤，构成了作品的刚性情感支撑，许多段落情绪激烈，充满直白的指责。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.05,
+            "explanation": "诗人的心境始终处于风暴之中，没有获得过真正的内在平静或和解，结尾也是决绝的举动而非解脱后的安宁。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.75,
+            "explanation": "香草、美人、玉佩等丰富意象构成了华丽的审美世界，辞藻瑰丽，音韵铿锵，即使在表达痛苦时也保持着形式上的优雅与美感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.1,
+            "explanation": "作品以繁复的意象、多重的象征和奔放的情感见长，风格是铺张扬厉的，与简约克制的美学完全相反。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.7,
+            "explanation": "对华美服饰、香草配饰和天界辉煌的反复描绘，构成了一种视觉和心理上的繁盛华丽感，具有强烈的物质美感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.65,
+            "explanation": "悲愤、绝望以及面对黑暗政治现实的无力感赋予了作品阴郁的色调，许多意象如暮色、幽暗的路径等都加强了这种暗黑感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.3,
+            "explanation": "天界景象和香草美人的华丽带有一定的光亮色彩，但这种明亮在整体的悲剧情调中显得短暂，常被压抑的黑暗氛围所笼罩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.8,
+            "explanation": "作品中现实与神话自由切换，时空跳跃，意象奇异，整个精神漫游过程宛如一场瑰丽而惊心动魄的白日梦。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.7,
+            "explanation": "大量的象征和隐喻、神话典故以及隐喻性的求索行为，赋予了作品层层包裹的神秘感和可供不断挖掘的深度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.85,
+            "explanation": "在当时的文学语境下，其体制之宏大、想象之奇特、个人抒情之强烈以及语言形式之创新，都具有极强的实验性和开创性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.8,
+            "explanation": "作为中国浪漫主义文学的源头，它本身即是古典美的典范，其对“雅正”的追求和对上古黄金时代的崇敬都根植于一种古典价值体系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.15,
+            "explanation": "它的表达方式和问题意识属于其特定的古典时代，与现代审美在简洁、机械或日常经验方面的趣味相距甚远。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.65,
+            "explanation": "虽然没有小说式的完整故事线，但其情感、行动（上下求索）和精神状态的变化构成了一个复杂的内在戏剧性结构，回环跌宕，层次丰富。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.9,
+            "explanation": "抒情主人公的自我形象刻画得极为深刻和立体，其志向、矛盾、高傲、痛苦和最终的抉择都展示了一个极为丰富的精神世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.6,
+            "explanation": "从初始的自信激昂，到遭受打击后的悲愤，再到上下求索的挣扎，最终归于决绝，主人公的心路历程有明显的深化和发展轨迹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.8,
+            "explanation": "作品构建了一个包含现实历史（尧舜禹汤）、神话宇宙（天界、神祇）和象征系统（香草美人）的完整而自洽的世界，规则清晰，体系庞大。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.7,
+            "explanation": "结构回环往复，现实的叙述、历史的追溯与神话的想象交织穿插，并非直线前进，时间和空间的跳跃很大。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.6,
+            "explanation": "其繁复的辞藻和密集的典故要求在缓慢阅读中深入体会，情感的层层推进也需要时间来沉浸其中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.3,
+            "explanation": "虽有天界巡游的动态描写，但核心是内心冲突和抒情，外部动作和事件冲突并非主导。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.9,
+            "explanation": "个人与外部世界、理想与现实、忠诚与被弃、生与死之间的冲突高度尖锐，构成了作品强大的心理能量来源。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.9,
+            "explanation": "作品深刻地探讨了道德的意义、个体与政治的关系、命运的不可抗拒性以及如何在绝境中安置生命价值等终极问题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.85,
+            "explanation": "全诗以“我”的视角、信念和痛苦为绝对中心，歌颂个人独特的价值和高洁品格，表现出对个人独立性的极端坚持。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.25,
+            "explanation": "虽然关怀楚国命运，但这源于个人的政治理想和责任感，而非将个体消融于集体。他与世俗群体处于对立状态，鲜少体现群体协作。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.15,
+            "explanation": "诗中提及祖先和出身，是为了强调自己高贵的血统和与生俱来的责任，并未展开描写家庭亲情或日常家庭互动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.1,
+            "explanation": "诗人始终是孤独的，曾试图寻求理解（如女嬃的劝告段落），但最终因志向不同而更加孤立，不存在平等、温暖的友谊关系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.25,
+            "explanation": "“求女”是寻求政治同盟的隐喻，并非描写世俗的爱情。深情全部奉献给了君主和国家，但这是君臣伦理和理想之爱，非男女之爱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.2,
+            "explanation": "诗人以孤傲的姿态排斥他所鄙夷的“世俗”，未能形成或融入一个有归属感的社群，缺乏和谐的社群生活经验。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.55,
+            "explanation": "政治斗争中充满了敌对、构陷和零和博弈，诗人在此环境中被排挤，体现了强烈的竞争关系，但这并非他所提倡的价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.1,
+            "explanation": "诗人期待的是君臣相得的政治合作，但现实中这一理想完全破灭，作品中几乎不存在任何成功、和谐的协作关系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.8,
+            "explanation": "君与臣、谗佞与忠良、中心与边缘的权力结构是作品叙事的核心框架，诗人不断在权力的压制下进行挣扎和申辩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.85,
+            "explanation": "诗人在对抗中反复定义和捍卫自己的身份——一位出身高贵、品德纯洁、肩负历史使命的政治家与诗人，身份问题是其坚守的核心。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.65,
+            "explanation": "表现为不甘于同流合污、追求精神独立与人格自主的强烈欲望，但最终的自由选择是以死殉道，并非不受约束的逍遥。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.3,
+            "explanation": "诗人追求的“美政”确实包含稳定有序的理想，但其个人行为和对现实的激烈批判恰恰是对既定秩序的挑战和超越。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.8,
+            "explanation": "对真相和本质的追求极为执着，反复申说自己的清白，揭露政治的虚伪，并上下求索宇宙和历史的真谛。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.65,
+            "explanation": "对华美服饰、香草、高洁品德的追求体现了将道德与审美合一的倾向，内美与外在修饰均受到高度重视。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.7,
+            "explanation": "诗人有强烈的建功立业、辅佐君王成就圣王之治的政治抱负，并以此作为衡量自身生命价值的重要标准。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.55,
+            "explanation": "对善恶有报的信念和对黑暗现实的控诉均体现了对正义的诉求，但作品中正义并未得到伸张，更多的是坚守而非实现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.75,
+            "explanation": "“亦余心之所善兮，虽九死其犹未悔”，为理想献身的决心是诗中最突出的价值宣誓之一，结尾更是将牺牲精神推至顶点。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.9,
+            "explanation": "整首诗的本质就是一次深入内心世界的痛苦探险，是对自身信念、情感和生存意义的极致追问和挖掘。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.6,
+            "explanation": "以前代圣贤和古史传统为价值准则和评判标尺，对宗族谱系也有清晰的自豪感，传统是其重要的思想资源。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.4,
+            "explanation": "诗中充斥着对时俗变坏、人心不古的批判，渴望的是回归理想化的过去，而非拥抱未来的社会变革。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.5,
+            "explanation": "面对打击，诗人选择了精神上的坚韧存活而非轻易放弃，但最终他拒绝苟且偷生，将价值置于生理生存之上。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.9,
+            "explanation": "全诗的终极关怀即是在一个价值崩塌的世界里，为个体的生命寻找并锚定意义，其求索过程和最终选择都是围绕意义展开。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.7,
+            "explanation": "表现为强烈的求知和探索欲望，上下求索、叩问天地的行为是其外在体现，目的是在精神迷雾中找到答案。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.9,
+            "explanation": "作品本身就是一项宏伟的语言创造，构建了全新的象征世界和诗歌形式，其想象力和艺术独创性是高度创造性的体现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.65,
+            "explanation": "精神漫游天界、追求各种理想化对象、探索未知的精神领域，充满了冒险式的冲动，尽管最终以幻灭收场。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.95,
+            "explanation": "反复的内省、自我审视和对生命价值的不停追问，构成了作品最主要的心理动作，行为倾向具有极其强烈的反思性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.3,
+            "explanation": "虽然身处充满竞争和倾轧的环境，但诗人本身的行为是坚守和对抗，而非主动参与和享受竞争。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.15,
+            "explanation": "诗人的行为是反社交的，他主动疏远和批判世俗，寻求孤独的坚守，没有表现出寻求群体互动或建立新关系的倾向。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.6,
+            "explanation": "对自身品德和理想的坚守具有极强的纪律性，不因外在环境的压力而妥协，体现了一种内在的道德自律。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.4,
+            "explanation": "诗人敢于直谏、对抗整个世风，具有巨大风险，但这源于道德责任而非对风险刺激本身的追求。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.1,
+            "explanation": "全诗处于高度的情绪激动状态，悲伤、愤怒、焦虑占据主导，没有丝毫的冷静或波澜不惊。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.55,
+            "explanation": "天界漫游和“远逝以自疏”的念头，都体现出脱离现实苦境的心理冲动，但最终强烈的责任感阻止了真正的逃离。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.85,
+            "explanation": "文本通过大量瑰丽、鲜明的视觉意象（香草、玉佩、天界车驾）刺激感官想象，画面感极强，色彩纷呈。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.75,
+            "explanation": "诗中充满了对芳草、鲜花、美玉和璀璨天界景象的色彩描绘，如缤纷、洁白、幽暗等，呈现出一个色彩丰富的精神世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.7,
+            "explanation": "楚辞体的节奏感、语气词的频繁使用以及天界巡游中车驾鸾铃的描写，共同营造了强烈的音乐性和听觉想象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.75,
+            "explanation": "情感的起伏、句式的长短变化以及连续的发问和感叹，赋予了作品一种时而奔放时而低回的强烈节奏能量。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.9,
+            "explanation": "作品成功地营造了一个整体氛围：孤独、悲壮、瑰丽而压抑，这个氛围高度统一且极具浸透力，笼罩着每一个阅读者。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.85,
+            "explanation": "强烈的第一人称抒情、动人的悲剧命运和无限展开的幻想世界，很容易让投入的读者完全沉浸在诗人所创造的精神宇宙中。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.literary_style",
+            "score": 0.95,
+            "explanation": "作为楚辞的最高成就，其风格鲜明独特，融神话、抒情、象征于一体，文风华丽铺张而又沉郁顿挫，辨识度极高。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.language_artistry",
+            "score": 0.95,
+            "explanation": "用词精准瑰丽，句式灵活多变，音韵和谐且富有表现力，对语言本身的雕琢和创造性运用达到了极高的艺术水准。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.symbolism",
+            "score": 0.95,
+            "explanation": "“香草美人”构成了中国文学史上最庞大、最完整的个人化象征系统之一，几乎通篇都在用喻象表达复杂的思想情感。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+            "score": 0.9,
+            "explanation": "比喻、象征、夸张、反问、用典等多种修辞手法被频繁且复杂地运用，增加了文本的表达深度和解读难度。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+            "score": 0.9,
+            "explanation": "其对政治哲学、道德伦理和生命意义的探讨具有相当的思辨深度，是抒情文学中少有能达到哲理高度的作品。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.cultural_depth",
+            "score": 0.9,
+            "explanation": "嵌入了楚地文化、战国历史、神话传说以及士大夫精神传统，是古代中国文化信息的密集载体。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.knowledge_density",
+            "score": 0.85,
+            "explanation": "包含大量历史人物、神话典故、天文地理名词及复杂的身世情感，单位文本承载的知识量极为丰富。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+            "score": 0.85,
+            "explanation": "因其丰富的象征和情感的多义性，历代对诗中的具体喻指和“求女”等情节的解释众说纷纭，留下了广阔的解读空间。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "作品所带来的最核心体验，是高洁的个体在不被理解的污浊环境中所经历的深刻孤独与精神挣扎。强烈的愤怒、悲伤与对理想的激情燃烧交织在一起，形成了高度紧张的内部张力。在这里，短暂的幻想驰骋和美学享受始终被更深重的政治忧患与个人悲愤所笼罩。阅读体验并非走向抚慰或平静，而是经历一场激烈的内心风暴：有对谗佞的愤恨，有对君王不察的哀怨，更有对时间流逝和理想破灭的焦虑。个体与整个外部世界处于尖锐对抗之中，几乎不存在持久的温情、信任或合作关系。最终，对生命价值的决绝选择带来的不是解脱的释然，而是清醒而痛苦的升华，留下长久的悲壮意味。",
+          "structure_description": "《离骚》的结构组织依赖于情感的奔流而非外在叙事的逻辑。它以第一人称抒情为主线，在自述身世和理想后，很快转入理想受挫的悲愤和对时俗的猛烈批判。随后，作品开启了一段上天入地的精神漫游——驾龙乘风、叩问帝阍、四方求女——这些段落形成了情感上的奔涌和想象力的高潮。然而每一次寻求都以失败告终，迫使抒情又回到现实苦痛之中。这种“现实-幻想-再现实”的回环往复构成了基本节奏。最后，在向重华陈词和听取巫咸、灵氛的劝导后，诗人做出最终抉择。整体结构呈现出大开大合、跌宕跳跃的特点，以情绪和象征性意象为组织原则，而非时间或因果的线性逻辑。",
+          "cognitive_expression": "作品引导人进入一个高度象征化和抽象化的意义空间，需要不断将香草、美人、神话等意象解码为政治和道德隐喻。它不依赖线性的因果逻辑，而是通过情感跳跃和意象铺陈来推进，要求读者在密集的典故和文化知识之间建立联系。阅读中，需要同时处理强烈的个人情感、繁复的神话叙事以及隐晦的政治批判，注意力在外部天界的宏大景象与内部心灵的细微挣扎之间不断切换。理解全诗意味着主动地填补象征的空白，并习惯于在矛盾的情感状态中保持思考——诗人时而激昂，时而哀伤，时而决绝，这些反差要求读者对不确定性和复杂性有很高的容忍度。",
+          "behavioral_tendency_description": "作品所赞美和体现的行为，是一种在孤立中仍坚持内在标准的极度自律。它奖励深入的自我反思、对意义的不懈追问和在对抗压力时的不妥协姿态。远游与求索的意象激发探索未知的冲动，但这种探索是精神性的而非实际的社交。反之，顺从俗流、寻求和谐协作或维持情绪安稳的行为模式在这里缺乏共鸣基础。读者被引导去体验一种与外部世界保持距离、在孤独中完成自我界定的行为取向。创造性的表达——用全新的语言和象征去重塑世界——在这里是最终极的行为典范，而忍耐和最终牺牲，则被赋予了超越性的价值。"
+        },
+        "personality_affinity": {
+          "Ni": 0.9,
+          "Ne": 0.7,
+          "Ti": 0.55,
+          "Te": 0.3,
+          "Fi": 0.9,
+          "Fe": 0.15,
+          "Si": 0.4,
+          "Se": 0.2,
+          "openness": 0.9,
+          "conscientiousness": 0.5,
+          "extraversion": 0.1,
+          "agreeableness": 0.15,
+          "neuroticism": 0.8,
+          "Assertive": 0.1,
+          "Turbulent": 0.9
+        },
+        "supporting_evidence": [
+          "全篇以第一人称自述展开，所有叙事都从“我”的视角和内心出发。",
+          "大量使用“香草”、“美人”等喻象，构成一个完整的象征系统。",
+          "诗中反复申说“美政”理想，并因此反复受挫、被谤。",
+          "对“党人”的贪婪、谗佞和楚王的反复无常进行了激烈批判。",
+          "加入了对天界的巡游描写，驾飞龙、乘瑶车，与神话人物对话。",
+          "多次提到“彭咸”作为榜样，最终“将从彭咸之所居”，表明以身殉道的决心。",
+          "对尧、舜、禹、汤等上古圣王和桀纣等暴君的典故进行了大量引用。",
+          "诗歌充满了对时间流逝的焦虑感，如“老冉冉其将至兮”。",
+          "抒情主人公将自己塑造成一个与众皆醉我独醒的绝对孤独者形象。",
+          "对“内美”和“修能”进行了反复强调，重视个人品德与才能的修养。",
+          "情感起伏极大，从高昂自励到极度悲伤，再到愤怒控诉，变化无常。",
+          "其语言瑰丽，辞藻繁复，是《楚辞》浪漫主义风格的典型代表。",
+          "影响了后世文学对“香草美人”这一托喻传统的使用。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 2,
+      "remaining": 81,
+      "total": 83,
+      "currentContentId": "work_chn_-340_002",
+      "nextContentId": "work_chn_-340_003",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_-340_002",
+          "parentContentId": null,
+          "workId": "work_chn_-340_002",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "九歌",
+          "type": "LITERATURE",
+          "countryName": "中国",
+          "year": -340,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.9,
+          "primaryMediaType": "LITERATURE"
+        },
+        "semantic": {
+          "summary": "《九歌》是战国时期楚国诗人屈原根据楚地民间祭神乐歌改作的一组抒情诗，共十一篇，包括《东皇太一》《云中君》《湘君》《湘夫人》《大司命》《少司命》《东君》《河伯》《山鬼》《国殇》《礼魂》。作品以人神恋歌为主要形式，通过迎神、娱神、送神的祭祀场景，抒写人与神灵之间的深挚思慕、相见欢欣与别离怆痛，兼及对为国战死者的庄严礼赞。全诗辞藻瑰丽，想象奇绝，情感细腻缠绵，将楚地巫文化与浪漫主义文学完美融合，被誉为中国古代抒情诗中的浪漫杰作。",
+          "themes": [
+            "人神之恋",
+            "祭祀与巫文化",
+            "相思与离别",
+            "生死慨叹",
+            "自然崇拜",
+            "楚地风俗",
+            "英雄礼赞",
+            "浪漫想象"
+          ],
+          "keywords": [
+            "屈原",
+            "楚辞",
+            "东皇太一",
+            "湘君",
+            "湘夫人",
+            "山鬼",
+            "国殇",
+            "祭祀",
+            "人神恋歌",
+            "香草",
+            "巫觋",
+            "浪漫主义"
+          ],
+          "core_experience": "在庄严肃穆的祭祀氛围中，作品引领人进入一个神灵与人情交织的瑰丽世界。人与神之间缠绵悱恻的倾慕、期盼与失落的交替，带来一种凄美而超凡的情感体验。既有迎神时的虔敬与欢欣，也有别离时的苍凉与无奈，最终在《国殇》的悲壮中升华出对生命与死亡的深沉慨叹，整体笼罩着一种缥缈悠远、既亲近又隔绝的独特忧伤。",
+          "experience_introduction": "《九歌》是屈原改编的楚地祭神组诗，共十一篇，将庄重的祭祀仪式与缠绵的人神恋歌融合在一起。多数篇章以神灵为主角，在期盼、欢会与别离的轮回中流淌着深挚而克制的柔情，辞藻华美，想象奇幻，情绪在虔敬的安宁与求而不得的凄婉之间摆动。部分篇目如《国殇》转为对战死者的悲壮礼赞，节奏随祭曲程式起伏，整体保持一种超脱尘世、介于人神之间的缥缈氛围。作品的冲突感不强，更多呈现内在的思念与怅惘，温情时隐时现，最终归于悠远的寂静与对宿命的接受。"
+        },
+        "experience_vector": {
+          "passion": 0.65,
+          "healing": 0.2,
+          "awe": 0.75,
+          "nostalgia": 0.45,
+          "reflection": 0.55,
+          "romance": 0.7,
+          "tension": 0.35,
+          "warmth": 0.5,
+          "loneliness": 0.65,
+          "hope": 0.4
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.65,
+            "complexity": 0.45,
+            "depth_of_thought": 0.55,
+            "logical_structure": 0.25,
+            "novelty": 0.8,
+            "exploration": 0.3,
+            "ambiguity": 0.5,
+            "predictability": 0.3,
+            "information_density": 0.55,
+            "learning_value": 0.7
+          },
+          "worldview": {
+            "personal_scale": 0.55,
+            "relationship_scale": 0.8,
+            "social_scale": 0.3,
+            "civilization_scale": 0.25,
+            "cosmic_scale": 0.5,
+            "time_span": 0.2,
+            "fantasy_level": 0.75
+          },
+          "emotion": {
+            "happiness": 0.3,
+            "sadness": 0.6,
+            "loneliness": 0.6,
+            "warmth": 0.55,
+            "fear": 0.15,
+            "tension": 0.3,
+            "awe": 0.75,
+            "nostalgia": 0.4,
+            "hope": 0.4,
+            "melancholy": 0.7,
+            "anger": 0.05,
+            "peace": 0.45
+          },
+          "aesthetic": {
+            "beauty": 0.8,
+            "minimalism": 0.15,
+            "luxury": 0.65,
+            "darkness": 0.3,
+            "brightness": 0.55,
+            "dreamlike": 0.7,
+            "mystery": 0.7,
+            "experimental": 0.5,
+            "classical": 0.8,
+            "modern": 0.15
+          },
+          "narrative": {
+            "plot_complexity": 0.25,
+            "character_depth": 0.5,
+            "character_growth": 0.1,
+            "world_building": 0.6,
+            "nonlinear_structure": 0.15,
+            "slow_immersion": 0.7,
+            "action_intensity": 0.15,
+            "conflict_intensity": 0.3,
+            "philosophical_depth": 0.45
+          },
+          "social_relationship": {
+            "individualism": 0.45,
+            "collectivism": 0.4,
+            "family": 0.15,
+            "friendship": 0.15,
+            "love": 0.8,
+            "community": 0.55,
+            "competition": 0.05,
+            "cooperation": 0.35,
+            "power_relationship": 0.3,
+            "identity": 0.4
+          },
+          "value": {
+            "freedom": 0.25,
+            "order": 0.55,
+            "truth": 0.3,
+            "beauty": 0.8,
+            "achievement": 0.15,
+            "justice": 0.2,
+            "sacrifice": 0.25,
+            "self_exploration": 0.35,
+            "tradition": 0.75,
+            "change": 0.15,
+            "survival": 0.3,
+            "meaning": 0.5
+          },
+          "behavior": {
+            "curiosity": 0.25,
+            "creation": 0.8,
+            "adventure": 0.15,
+            "reflection": 0.45,
+            "competition": 0.05,
+            "social": 0.6,
+            "discipline": 0.45,
+            "risk": 0.1,
+            "calm": 0.55,
+            "escape": 0.2
+          },
+          "sensory": {
+            "visual_intensity": 0.75,
+            "color_richness": 0.7,
+            "sound_intensity": 0.65,
+            "rhythm_energy": 0.55,
+            "atmosphere": 0.85,
+            "immersion": 0.75
+          }
+        },
+        "media_vector": {
+          "literature_vector": {
+            "literary_style": 0.85,
+            "language_artistry": 0.9,
+            "symbolism": 0.8,
+            "rhetorical_complexity": 0.75,
+            "intellectual_depth": 0.55,
+            "cultural_depth": 0.8,
+            "knowledge_density": 0.6,
+            "interpretation_openness": 0.65
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.65,
+            "explanation": "人神之间的思慕与祭者的虔敬共同形成一种深沉炽热的情感，但受制于祭祀仪式的庄重氛围，这种热情被包裹在含蓄婉转的表达之中，没有达到燃烧般的激烈程度。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.2,
+            "explanation": "作品基调以相思的愁苦和别离的怅惘为主，虽偶有相会的甜蜜，但更多是聚散无常的无奈，不具备抚慰心灵、给予温暖安定的治愈效果。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.75,
+            "explanation": "对天神、地祇、人鬼的礼赞中充满了对不可知力量的敬畏，尤其是对东皇太一等主神的辉煌描写和《国殇》中壮烈的牺牲，都带来极强的肃穆震撼感。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.45,
+            "explanation": "祭祀本身即是对传统和神灵世界的一种回溯，对美好相遇的追忆和留恋弥漫全篇，但这种怀旧是仪式性的，并非对过往时代的普遍感伤。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.55,
+            "explanation": "在《少司命》《大司命》等篇中，对生命寿夭、聚散离合的咏叹带有一定的哲思色彩，引导听众在情感共鸣之外进行对命运的沉思。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.7,
+            "explanation": "湘君与湘夫人、山鬼等篇章的核心是人神之间的恋爱追求，充满了甜蜜的期待、深情的思念和失恋的忧伤，是作品最主要的叙事框架之一。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.35,
+            "explanation": "冲突主要体现在内心期待与不可逾越的人神之隔上，整体氛围是哀婉而非紧张的。即便《国殇》的战争场面，其精神指向也是壮烈颂扬，而非持续的心理紧绷。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.5,
+            "explanation": "在《湘君》《湘夫人》的思念与准备迎接恋人的细腻描写中，存在明显的温情；但这种温暖常与别离的凄凉相伴，且居于祭祀的公共仪式之下。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.65,
+            "explanation": "求而不得是多数篇章的情感核心，无论是山鬼独立于风雨之中，还是湘水之神终未相遇，都浸透着一种隔绝的孤独感，是作品的底色之一。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.4,
+            "explanation": "尽管存在对相会的憧憬和虔诚的祈祷，但多数篇章以失望或无声的等待收尾，希望感在生离死别面前显得微弱且不持久。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.65,
+            "explanation": "人神对话、自然神灵的人格化表达以及祭祀场景的象征意义，需要听众在具体形象之外理解其精神内涵，但整体比《离骚》的隐喻系统要更直观一些。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.45,
+            "explanation": "各篇章相对独立，叙事线索单纯，多为单一的追求或思念场景，信息的交织和结构的错综程度不高，理解上不会构成太大负担。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.55,
+            "explanation": "作品触及了生死之谜和宿命的哀伤，但这些思考是通过情感体验和神话画面来表现的，并非进行系统化的哲学论证。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.25,
+            "explanation": "组诗以情感和祭祀流程为组织线索，各篇之间没有严格的因果推导或逻辑递进关系，结构松散而抒情化。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.8,
+            "explanation": "将粗糙的民间巫歌提升为精美的文人抒情诗，创造性地用人神恋情来表现人类共通的情感，在当时是一种极具开创性的文学实践。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.3,
+            "explanation": "作品聚焦于已知的神灵世界和固定的祭祀场域，并不旨在探索未知的地理或思想领域，更多的是在既有框架内的情感深化。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.5,
+            "explanation": "神灵身份与人类情感的融合带来了一定的解释弹性，如“山鬼”是神是怪，历代争论不一，但整体意境清晰，不至于造成理解上的严重歧义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.3,
+            "explanation": "人神恋情大多以失望和别离告终，这一悲剧模式较为固定，但瑰丽的意象和细腻的情感转折仍能带来新鲜感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.55,
+            "explanation": "相比《离骚》，本篇的典故和艰深概念较少，单位文本的文化信息负载量相对适中，更多依赖情感和画面来感染读者。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.7,
+            "explanation": "通过作品可以形象地了解楚国的巫祭文化、自然崇拜以及早期浪漫主义文学的抒情范式，是理解中国诗歌传统的重要入口。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.55,
+            "explanation": "各篇章聚焦于神灵的内心情感，但其身份是集体崇拜的对象，个人化的情感表达服务于公共的祭祀目的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.8,
+            "explanation": "人与神、神与神之间的爱恋与思念关系是作品最核心的框架，关系情境决定了几乎全部情感内容。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.3,
+            "explanation": "虽然有集体祭祀的背景，但对社会制度、阶层和政治生活的描写基本缺席，关注的焦点不在人类社会层面。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.25,
+            "explanation": "《国殇》触及了战争与国家存亡，但并未展开对文明兴衰的宏观叙述，重心仍然是对个体牺牲的悲壮礼赞。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.5,
+            "explanation": "神灵体系涉及日月云雨、生死命运，具有一定的宇宙视野，但这些力量被高度人格化，宇宙尺度感并非重点。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.2,
+            "explanation": "每篇多聚焦于一个相遇或离别的瞬间，时间跨度极短，缺乏对长时间演变过程的追溯。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.75,
+            "explanation": "神灵降临、人神对话、自然山川拟人化、神兽随行等奇幻元素构成了整个作品世界，幻想是核心的存在方式。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.3,
+            "explanation": "祭祀歌舞的狂欢和对神灵降临片刻的欢欣是存在的，但这种快乐迅速被更浓郁的相思之愁或离别之苦所冲淡。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.6,
+            "explanation": "“目眇眇兮愁予”式的忧伤是多数篇章的情感基调，失恋的哀怨和等待的落寞构成主要情绪。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.6,
+            "explanation": "无论是独立山巅的山鬼，还是望断秋水的湘夫人，深刻的孤独感弥漫在字里行间。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.55,
+            "explanation": "对爱人的细心装扮、深情呼唤和相聚时刻的温馨描绘，赋予了作品一定的人际温情，但带有凄婉的底色。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.15,
+            "explanation": "除《国殇》中面对死亡的悲壮外，通篇极少有恐怖或惊惧的情绪，即使是面对威严的主神，也多是虔敬而非害怕。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.3,
+            "explanation": "心理压力主要来自相思的痛苦和命运的无奈，并非外部冲突或迫在眉睫的危险，情绪的紧绷程度较低。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.75,
+            "explanation": "对神灵威仪的描绘以及对生杀大权的感叹，引发强烈的敬畏感，是祭祀类文学的根本情感特征之一。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.4,
+            "explanation": "对往日欢愉的回忆反复出现，但这种怀旧是恋爱相思的一部分，服务于眼前的愁绪，并非普遍的对往昔的追缅。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.4,
+            "explanation": "祭祀本身即是一种寄托希望的仪式，相思也包含着重逢的念想，只是结局常令人失望。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.7,
+            "explanation": "一种挥之不去的、美丽的哀愁构成了最主要的抒情氛围，这也是作品浪漫主义色彩的核心所在。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.05,
+            "explanation": "作品中几乎没有对社会或他人的愤怒情绪，所有的痛苦都指向不可抗拒的命运和宿命般的别离。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.45,
+            "explanation": "祭祀仪式的秩序和《礼魂》结尾的成礼，会带来片刻的庄严宁静，但被整体的忧伤所包裹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.8,
+            "explanation": "辞藻的华丽、形象的优美、意境的空灵，使作品达到了一种高度精致和哀婉的美学境界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.15,
+            "explanation": "追求繁复的修饰和细致的铺陈，如对香草、佩饰、宫室的详尽描绘，与极简主义的美学追求背道而驰。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.65,
+            "explanation": "对神灵居所、衣饰、车驾的描写充满珍宝和花香，呈现出一种感官上的华丽与富足感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.3,
+            "explanation": "虽有别离的阴影，但整体色调是瑰丽明亮的，即便是《山鬼》中的雷雨，也是作为壮观背景而非纯粹的黑暗压迫。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.55,
+            "explanation": "《东皇太一》的辉煌、《东君》的日光普照，都带来明亮的视觉印象，只是常被情感上的忧郁柔化。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.7,
+            "explanation": "人神交接的场景犹如梦幻，缥缈而不可捉摸，现实与超自然交织，整个艺术世界带有强烈的朦胧梦幻色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.7,
+            "explanation": "祭神仪式本身和神灵行踪的不可测知赋予了作品一层神秘的面纱，许多意象带有隐秘的象征意味。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.5,
+            "explanation": "相对于之前的诗歌，其文人化改编具有创新性，但整体仍服务于公共祭祀表演，不像《离骚》那样是极端的个人化实验。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.8,
+            "explanation": "作为古典浪漫主义的源头之一，其审美范式——和谐、典雅、哀而不伤——深刻地奠定了中国文学的古典美。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.15,
+            "explanation": "内容和形式都深深植根于古代巫祭文化，与现代艺术在技法或观念上的关联非常微弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.25,
+            "explanation": "各篇的情节极其简单，多为一个等待或追寻的瞬间，缺乏复杂的因果链条和情节转折。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.5,
+            "explanation": "神灵的性格通过细腻的心理刻画和行动表现得到了一定程度的展现，但多是类型化的相思者形象，内在矛盾并不突出。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.1,
+            "explanation": "人物没有经历性格上的发展或转变，她们的情感状态在整个篇章中是静止的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.6,
+            "explanation": "通过十一篇作品构建了一个由众多神灵、自然山川和祭祀场景组成的完整而自洽的楚地神话世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.15,
+            "explanation": "每篇内部都是线性的情感抒发或事件等待，没有倒叙、插叙等非线性叙事手法。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.7,
+            "explanation": "通过大量的景物描写、心理独白和仪式细节铺陈，创造出一种缓慢而深沉的沉浸式情感体验。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.15,
+            "explanation": "动作描写极少，且多是仪式化的轻微动作或想象中的神驾飞驰，几乎没有身体对抗或激烈的外部动作。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.3,
+            "explanation": "核心冲突在于人与神之间不可逾越的距离，是内化的、情感的冲突，而非尖锐对抗或暴力相向。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.45,
+            "explanation": "对命运的慨叹带有哲理意味，但多数停留在情感层面，没有像《天问》那样进行深刻的形而上学追问。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.45,
+            "explanation": "作品中展现的主要是成对的、私密的情感关系，而非强调个人独立或与社会对立，但也未歌颂集体主义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.4,
+            "explanation": "祭祀活动本身是集体性的，但诗歌的焦点始终在主要神灵的个人情感上，集体的存在只是一个模糊的背景。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.15,
+            "explanation": "神与神之间是恋人关系，没有构建人类意义上的家庭结构和亲属互动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.15,
+            "explanation": "作品侧重男女之爱，不涉及同伴友谊或志同道合的交往。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.8,
+            "explanation": "男女恋情，无论是人与神还是神与神之间的浪漫依恋，是整个作品毫无争议的中心主题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.55,
+            "explanation": "迎神、祭神活动将整个社区联系在一起，形成了一种共享信仰和仪式的集体归属感，这在《礼魂》中尤为明显。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.05,
+            "explanation": "完全不存在个体间为了资源、地位或情感而展开的竞争和对抗。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.35,
+            "explanation": "在祭祀活动中，巫觋与众人之间存在配合，但这种协作是仪式性的，并非出于解决共同难题的实用合作。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.3,
+            "explanation": "人与神之间存在地位差异，人对神的祈求暗含着权力的不平等，但这并非支配与压迫，而是崇拜与赐福的关系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.4,
+            "explanation": "身份的探讨主要集中在神与人的界限上，偶有涉及身份带来的隔膜，但并不作为核心议题被深入挖掘。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.25,
+            "explanation": "人物受制于天命和神灵职责，无法自由选择相守，自由的价值在这里基本没有体现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.55,
+            "explanation": "祭祀本身代表着对宇宙和季节秩序的遵从，繁复的仪式和规矩体现了对秩序的高度尊重。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.3,
+            "explanation": "作品不侧重对客观真理的探究，其核心是抒情和信仰，而非事实和逻辑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.8,
+            "explanation": "对美的追求显而易见，无论是人的修饰、场景的布置，还是诗歌语言的雕琢，都体现了对美的极致推崇。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.15,
+            "explanation": "没有通过竞争获取世俗成就的价值观，神灵的行动受情感驱动，而非功业。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.2,
+            "explanation": "《国殇》中歌颂的牺牲带有某种正义性，但整体上正义不是作品的焦点，是非对错的评判不是主题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.25,
+            "explanation": "仅为国捐躯的将士身上体现了牺牲精神，此外在其他篇章中并非重要价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.35,
+            "explanation": "神灵们在相思中品味自己的情绪，有一定的自我内心审视，但尚未达到深刻的自我剖析程度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.75,
+            "explanation": "作品本身就是对民间祭神传统的艺术化传承，充满了对既定仪式和神话故事传统的敬畏与遵从。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.15,
+            "explanation": "寻求改变现状、突破命运的努力在这里是徒劳的，一切都在周而复始，变化的价值被悲情所否定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.3,
+            "explanation": "《国殇》直面死亡，但其主旨是颂扬精神不朽而非挣扎求生，其他篇章则沉浸在情感的生死体验中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.5,
+            "explanation": "通过对神灵世界的建构和情感的渲染，赋予了生命和爱恋以超越性的意义，但这种意义更多是感受性的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.25,
+            "explanation": "行为上表现为对神灵的等待和呼唤，而非积极探索未知，好奇心和探索欲不明显。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.8,
+            "explanation": "将粗朴的民间祭歌创造性地转化为极富文学性的华丽诗篇，这种行为本身就是高度艺术创造力的体现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.15,
+            "explanation": "没有任何冒险或挑战外部世界的行为，一切都在既定的空间和仪式内进行。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.45,
+            "explanation": "作品中存在对命运和情感的沉思，但这种反思往往是即景生情，而非持续的理性推敲。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.05,
+            "explanation": "完全没有任何竞争性行为的呈现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.6,
+            "explanation": "集体祭祀和围绕神祇的公共活动构成了核心场景，社交性的仪式参与是作品鼓励的主要行为模式。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.45,
+            "explanation": "繁复的祭祀仪式和严整的篇章结构体现了对传统规范的严格遵循，有着内在的纪律性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.1,
+            "explanation": "没有任何高风险行为的描写，行为安全且符合规范。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.55,
+            "explanation": "在等待和思念中，神灵们多呈现一种静穆或缓慢行动的状态，配合祭祀的庄重氛围，整体行为节奏是平静的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.2,
+            "explanation": "没有从现实中逃离的冲动，相反，是渴望与对象在现有框架内相遇，而非脱离现存世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.75,
+            "explanation": "对神灵衣饰、车驾和自然山川的描绘色彩艳丽、形象生动，提供了强烈的视觉想象空间。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.7,
+            "explanation": "诗中充满了对白玉、琼芳、红叶、翠竹等多彩物象的描写，构建了一个鲜明的色彩体系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.65,
+            "explanation": "与祭祀音乐舞蹈密切相关的拟声和节奏描写，以及人神对唱的韵律感，赋予了作品较高的听觉表现力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.55,
+            "explanation": "祭祀乐舞的节奏为诗歌注入了活力，但多数篇章的情感起伏是悠缓哀婉的，能量感适中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.85,
+            "explanation": "作品出色地营造了一种由神灵、香草、水波、烟雨共同构成的迷离而虔诚的整体氛围，感染力极强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.75,
+            "explanation": "读者很容易被带到那个充满香火、乐舞和深情的特定时空之中，身临其境感相当突出。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.literary_style",
+            "score": 0.85,
+            "explanation": "风格瑰丽缠绵，是楚辞浪漫主义风格的典型代表，与《诗经》的写实传统形成鲜明对比。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.language_artistry",
+            "score": 0.9,
+            "explanation": "字句雕琢精美，语气词“兮”的运用使诗句富有咏叹感，修辞细腻，达到了极高的语言艺术水准。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.symbolism",
+            "score": 0.8,
+            "explanation": "常用香草、玉佩等作为情感和品德的象征，并以自然现象暗示神灵行踪，象征手法运用得娴熟自然。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+            "score": 0.75,
+            "explanation": "大量运用比兴、铺排和细腻的心理独白，修辞层次丰富。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+            "score": 0.55,
+            "explanation": "对生命和宿命的哲思为作品增添了思想分量，但相比说理文学，其深度主要体现在情感和美学层面。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.cultural_depth",
+            "score": 0.8,
+            "explanation": "是了解战国时期楚地巫风、宗教信仰和社会风俗的绝佳文本，承载了丰厚的文化记忆。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.knowledge_density",
+            "score": 0.6,
+            "explanation": "相比其他楚辞作品，本篇的神话名词和典故数量适中，知识负载不算特别密集。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+            "score": 0.65,
+            "explanation": "由于神话背景和情感的多义性，一些篇章（如《山鬼》）的主旨存在不同的学术阐释，留有一定的解读弹性。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "《九歌》的核心体验是沉浸于一场庄重而凄美的祭神仪式之中，感受人与神之间无望却深挚的爱恋。虔敬的礼赞、相会的片刻甜蜜与恒久的别离之哀怨交织往复，形成一种美丽而忧伤的基调。读者既能体会神灵降临时的敬畏与振奋，也会深陷在“思公子兮未敢言”的孤独和等待的惆怅里。这里没有激烈的对抗或愤怒，所有的痛苦都是内敛的、宿命般的。温情与凄凉相伴相生，短暂的安宁常常被更深的思念取代。这种体验最终不是导向情感的宣泄，而是进入一种对聚散离合的默然接受与审美观照。",
+          "structure_description": "组诗的内部组织遵循祭祀歌舞的程式。开篇《东皇太一》是庄严肃穆的迎神曲，随后诸神依次登场，每篇形成一个独立的抒情片段，聚焦于某位神灵的特定情感状态——期盼、欢愉、猜疑或失落。情感线索是清晰而单一的：追求-受阻-哀叹，极少有复杂的情节纠葛。空间在灵动的自然山水与森严的神殿之间切换，结尾《礼魂》以成礼送神收束，构成一个完整的仪式闭环。这种结构不求因果推进，而是在不同的神祇故事中反复咏叹相似的情感模式，通过重复和变奏加深整体的哀婉氛围。",
+          "cognitive_expression": "引导人去感受而非分析。信息的组织方式高度具象化和情感化，读者通过一个个鲜活的意象（荷屋、桂舟、石兰、杜衡）和典型的情感姿态（遥望、等待、叹息）来捕捉意义，不需要进行抽象的逻辑推理。注意力的焦点始终在当下的人物情绪和景物氛围上，较少涉及对前因后果的长链条追溯。由于各篇相对独立，理解负担较轻；但人神二重性带来的模糊，要求读者同时接受真实与超现实，并在情感上而不是概念上处理这种矛盾。认知加工更偏向直觉性的共情与内化。",
+          "behavioral_tendency_description": "作品鼓励一种沉醉于美的、向内收敛的行为倾向。它歌颂的是深沉的情感投入、虔诚的等待和对传统仪轨的尊重，而不是积极的改变或外在的征服。表达情感比实现目标更重要，反复打磨和美化内心感受是主导的心理动作。公开的竞争、冒险或对抗在这里没有位置。取而代之的，是合作性的集体参与（祭祀）、温婉的给予（为爱人准备居所）和静默的忍耐。这种倾向涵养了对不完美的容纳和对宿命的顺从，同时也抑制了对外界环境的直接干预和个人意志的激烈伸张。"
+        },
+        "personality_affinity": {
+          "Ni": 0.7,
+          "Ne": 0.5,
+          "Ti": 0.25,
+          "Te": 0.15,
+          "Fi": 0.8,
+          "Fe": 0.6,
+          "Si": 0.6,
+          "Se": 0.3,
+          "openness": 0.8,
+          "conscientiousness": 0.45,
+          "extraversion": 0.3,
+          "agreeableness": 0.65,
+          "neuroticism": 0.55,
+          "Assertive": 0.35,
+          "Turbulent": 0.65
+        },
+        "supporting_evidence": [
+          "全组诗共十一篇，分别祭祀东皇太一、云中君、湘君、湘夫人等天神地祇。",
+          "作品源头为楚地民间巫歌，经屈原改写后成为文人化的抒情诗歌。",
+          "《湘君》《湘夫人》《山鬼》等篇以人神或神神恋爱为主题，描写深切的相思之情。",
+          "大量使用香草、美玉、桂舟等楚地物象作为情感象征和场景装饰。",
+          "《国殇》是一首气势悲壮的祭歌，专门追悼和礼赞战死的楚国将士。",
+          "诗句中频繁使用“兮”字，形成一唱三叹的独特楚辞体节奏。",
+          "多数篇章的情节以“等待——寻找——失落”为基本模式。",
+          "描写了许多迎神、娱神的仪式细节，如灵巫起舞、陈设祭品。",
+          "情感表现细腻，常通过景物（如秋风、木叶）烘托人物的内心情绪。",
+          "《礼魂》作为终曲，是送神曲，为整个祭祀活动画上句号。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 3,
+      "remaining": 80,
+      "total": 83,
+      "currentContentId": "work_chn_-340_003",
+      "nextContentId": "work_chn_-340_004",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_-340_003",
+          "parentContentId": null,
+          "workId": "work_chn_-340_003",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "九章",
+          "type": "LITERATURE",
+          "countryName": "中国",
+          "year": -340,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.85,
+          "primaryMediaType": "LITERATURE"
+        },
+        "semantic": {
+          "summary": "《九章》是屈原创作的九篇诗歌合集，包括《惜诵》《涉江》《哀郢》《抽思》《怀沙》《思美人》《惜往日》《橘颂》《悲回风》。这些作品大多作于流放时期，真实记录了诗人遭受排挤后的政治苦闷、辗转漂泊的艰辛历程，以及对故都郢都的魂牵梦萦。与《离骚》奇幻奔放的浪漫风格不同，《九章》多为直抒胸臆的写实之作，笔调沉郁顿挫，情感深挚悲凉，细致刻画了诗人在绝望中坚守信念的心理轨迹，是楚辞中体现现实主义倾向的重要构成。",
+          "themes": [
+            "流放与漂泊",
+            "政治苦闷",
+            "故国之思",
+            "坚守信念",
+            "孤独",
+            "岁月流逝",
+            "冤屈与表白",
+            "死亡意识",
+            "自然感怀"
+          ],
+          "keywords": [
+            "屈原",
+            "楚辞",
+            "九章",
+            "流放",
+            "哀郢",
+            "怀沙",
+            "涉江",
+            "橘颂",
+            "悲回风",
+            "纪行",
+            "直谏",
+            "沉郁"
+          ],
+          "core_experience": "作品带来的是个体在政治失意与漫长流放中被迫内省的沉痛体验。现实苦境被反复咀嚼，对故都的思念与归去无望的悲哀交织成厚重的压抑感。不同于《离骚》的奇幻超越，这里更多是脚踏实地的困顿与无助，从江畔行吟到秋风感怀，所有情绪都指向一种清醒的绝望和以死明志的决心，给人以直面悲剧人生的震撼。",
+          "experience_introduction": "《九章》是屈原流放期间创作的九篇诗歌合集，真实记录了他远离故都、辗转南土的艰苦旅程与内心的沉痛波澜。与《离骚》的上天入地不同，这些作品多立足现实，直抒遭受谗言后的冤屈、对郢都的深切眷恋以及理想破灭后的失意。整体氛围偏阴郁压抑，孤独感和岁月流逝的焦虑贯穿始终，偶尔出现的对过往清明时刻的追忆和自然景物的描摹也难以冲淡其悲凉底色。诗中的情绪少有起伏，更多是一种逐渐走向决绝的深沉悲愤，最终在绝望中完成对信念的最后坚守。"
+        },
+        "experience_vector": {
+          "passion": 0.65,
+          "healing": 0.1,
+          "awe": 0.2,
+          "nostalgia": 0.85,
+          "reflection": 0.8,
+          "romance": 0.1,
+          "tension": 0.7,
+          "warmth": 0.15,
+          "loneliness": 0.9,
+          "hope": 0.2
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.45,
+            "complexity": 0.4,
+            "depth_of_thought": 0.7,
+            "logical_structure": 0.25,
+            "novelty": 0.5,
+            "exploration": 0.35,
+            "ambiguity": 0.4,
+            "predictability": 0.3,
+            "information_density": 0.5,
+            "learning_value": 0.65
+          },
+          "worldview": {
+            "personal_scale": 0.9,
+            "relationship_scale": 0.3,
+            "social_scale": 0.6,
+            "civilization_scale": 0.4,
+            "cosmic_scale": 0.2,
+            "time_span": 0.45,
+            "fantasy_level": 0.15
+          },
+          "emotion": {
+            "happiness": 0.05,
+            "sadness": 0.85,
+            "loneliness": 0.9,
+            "warmth": 0.15,
+            "fear": 0.25,
+            "tension": 0.55,
+            "awe": 0.1,
+            "nostalgia": 0.85,
+            "hope": 0.2,
+            "melancholy": 0.8,
+            "anger": 0.55,
+            "peace": 0.1
+          },
+          "aesthetic": {
+            "beauty": 0.5,
+            "minimalism": 0.5,
+            "luxury": 0.15,
+            "darkness": 0.75,
+            "brightness": 0.2,
+            "dreamlike": 0.2,
+            "mystery": 0.15,
+            "experimental": 0.35,
+            "classical": 0.7,
+            "modern": 0.1
+          },
+          "narrative": {
+            "plot_complexity": 0.25,
+            "character_depth": 0.85,
+            "character_growth": 0.4,
+            "world_building": 0.3,
+            "nonlinear_structure": 0.2,
+            "slow_immersion": 0.8,
+            "action_intensity": 0.1,
+            "conflict_intensity": 0.7,
+            "philosophical_depth": 0.65
+          },
+          "social_relationship": {
+            "individualism": 0.85,
+            "collectivism": 0.2,
+            "family": 0.2,
+            "friendship": 0.1,
+            "love": 0.15,
+            "community": 0.15,
+            "competition": 0.45,
+            "cooperation": 0.1,
+            "power_relationship": 0.65,
+            "identity": 0.8
+          },
+          "value": {
+            "freedom": 0.45,
+            "order": 0.25,
+            "truth": 0.65,
+            "beauty": 0.35,
+            "achievement": 0.45,
+            "justice": 0.5,
+            "sacrifice": 0.7,
+            "self_exploration": 0.85,
+            "tradition": 0.5,
+            "change": 0.25,
+            "survival": 0.55,
+            "meaning": 0.85
+          },
+          "behavior": {
+            "curiosity": 0.2,
+            "creation": 0.65,
+            "adventure": 0.15,
+            "reflection": 0.9,
+            "competition": 0.15,
+            "social": 0.1,
+            "discipline": 0.55,
+            "risk": 0.25,
+            "calm": 0.15,
+            "escape": 0.5
+          },
+          "sensory": {
+            "visual_intensity": 0.55,
+            "color_richness": 0.4,
+            "sound_intensity": 0.35,
+            "rhythm_energy": 0.4,
+            "atmosphere": 0.85,
+            "immersion": 0.7
+          }
+        },
+        "media_vector": {
+          "literature_vector": {
+            "literary_style": 0.8,
+            "language_artistry": 0.75,
+            "symbolism": 0.6,
+            "rhetorical_complexity": 0.6,
+            "intellectual_depth": 0.7,
+            "cultural_depth": 0.7,
+            "knowledge_density": 0.55,
+            "interpretation_openness": 0.5
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.65,
+            "explanation": "对理想的执着和对故都的热恋仍然是强大的情感内核，但这股热情在持续的打击下已内敛为沉痛而非昂扬的状态，表现得更为克制。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.1,
+            "explanation": "作品整体是绝望与悲痛的抒发，偶尔出现的景物描写（如《橘颂》的赞美）虽有一丝美感，但远不足以构成安慰或修复性体验。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.2,
+            "explanation": "与《离骚》《九歌》不同，《九章》的视角极少超越现实人间。即便面对壮丽山川，也只是添作悲情背景，很少引发对超凡力量的敬畏。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.85,
+            "explanation": "《哀郢》中对故都的深切怀念，以及其他篇章对清白过往的追忆，使乡愁和怀旧成为压倒性的体验之一。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.8,
+            "explanation": "流放中的苦闷迫使他不断反刍自己的政治遭遇、道德选择和生命意义，整体呈现出极强的内省特质。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.1,
+            "explanation": "作品中几乎没有涉及男女之爱或浪漫情感，所有的情感能量都集中在政治遭遇和个人信念上。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.7,
+            "explanation": "内心的不甘、冤屈无处申诉的愤懑、对黑暗现实的担忧，共同构成了持续的心理压力，虽然没有《离骚》的激烈起伏，但更深沉压抑。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.15,
+            "explanation": "只有在对君王或古人的期许中透出一丝微弱的信任感，现实中基本没有来自他人的温暖互动，人际关系冷漠。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.9,
+            "explanation": "流放本身就是绝对的孤立状态，加上“举世皆浊我独清”的心理隔阂，孤独感是全篇最浓重的人生底色。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.2,
+            "explanation": "诗人反复表白忠心、幻想君王回心转意，但这种希望微乎其微，且随着时间推移不断消退，最终被绝望覆盖。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.45,
+            "explanation": "多数篇章直接描写现实的行旅、景物和内心苦闷，较少使用繁复的象征，表达相对具体清晰。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.4,
+            "explanation": "结构平实，单篇内多为顺叙的行程记录和情绪抒发，思绪的跳跃和信息的交错层级不高，整体易于理解。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.7,
+            "explanation": "虽然没有系统的哲学辩论，但对生死、忠奸、命运等命题的反复拷问具有深刻的人生洞察力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.25,
+            "explanation": "诗歌结构依情感流动或行程顺序组织，不存在严密的因果推理或逻辑论证框架。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.5,
+            "explanation": "相比《离骚》的开创性，《九章》在形式和内容上是楚辞风格的延续和深化，创新性更多体现在写实倾向的加强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.35,
+            "explanation": "虽有“涉江”“远游”的纪行描写，但动机是被迫流放，不是主动探索未知世界，精神上的探索也仅限于内心。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.4,
+            "explanation": "情感倾向和道德判断非常明确，除部分细节有争议外，整体主旨清晰，歧义空间不大。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.3,
+            "explanation": "情绪基调是固定的悲愤与绝望，但各篇的具体场景和意象仍有变化，不会完全重复。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.5,
+            "explanation": "相比《离骚》，典故和神话名词大量减少，单位篇幅内的新信息量适中，不构成过重负担。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.65,
+            "explanation": "可以深入了解屈原晚期的真实心态、战国政治生态以及中国知识分子在困境中的典型精神反应。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.9,
+            "explanation": "几乎全部内容都集中在诗人自身的遭遇、思绪和感官体验上，是极端个人化的内心独白。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.3,
+            "explanation": "除了单向的对君王和古人的精神对话外，缺乏具体的人物互动和双向关系的描写。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.6,
+            "explanation": "对楚国政治腐败和民生疾苦的关注贯穿始终，具备较强的社会批判意识。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.4,
+            "explanation": "对故都的哀思和楚国的命运体现出文明的关怀，但视角始终未脱离个人经历，未涉及宏大的文明兴衰规律。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.2,
+            "explanation": "极少有天界或宇宙层面的想象，焦点始终锁定在人间大地上的具体苦难。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.45,
+            "explanation": "收录了不同时期的作品，整体记录了一段较长的流放生涯，但单篇内的时间跨度通常很局限。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.15,
+            "explanation": "写实性极强，基本没有超现实的神话元素，即使有比喻也取自现实事物，如《橘颂》。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.05,
+            "explanation": "整体处于深重的痛苦之中，几乎找不到任何欢乐或满足的痕迹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.85,
+            "explanation": "无尽的哀伤是主导情绪，为个人、为故国、为逝去的理想而悲。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.9,
+            "explanation": "被疏远、被放逐的绝对孤独感在作品中表露无遗，是构成其痛苦的基础。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.15,
+            "explanation": "只有在对君王理想化的幻想或对古人的追慕中存在些许温暖，现实中则被冷漠和敌意包围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.25,
+            "explanation": "对死亡和未知旅途的些许不安是存在的，但相比坚定的悲愤和决绝，恐惧感并不显著。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.55,
+            "explanation": "心理压抑和冤屈无处宣泄的憋闷造成了持续的紧张，只是表现得更内敛、更低沉。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.1,
+            "explanation": "缺乏对超自然力量的惊奇感，对自然的描绘也多为阴冷凄凉，不激发敬畏。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.85,
+            "explanation": "对故都和旧日美好时光的怀念是情感的主轴之一，尤其是《哀郢》。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.2,
+            "explanation": "曾被反复申述的“致君尧舜”之想已极为渺茫，诗中更多的是对希望的否定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.8,
+            "explanation": "沉郁的哀愁和深长的叹息构成了作品的典型情调，比单纯的悲伤更富思想重量。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.55,
+            "explanation": "对谗佞小人和昏聩朝政的愤恨依然是作品的刚性支撑，但相比《离骚》，激越的控诉有所减少。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.1,
+            "explanation": "内心始终在痛苦中挣扎，即便《怀沙》赴死前的平静也是绝望的决绝，而非真正的安宁。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.5,
+            "explanation": "语言优美，但整体风格偏质朴苍凉，不是为了展示华美，而是为了表达沉重的真实情感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.5,
+            "explanation": "相比于《离骚》，意象堆叠减少，叙述更直接，有向简洁写实发展的倾向。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.15,
+            "explanation": "极少对华服、珍宝等进行铺陈，审美趣味转向萧瑟黯淡的旅途风物。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.75,
+            "explanation": "暮秋、回风、幽谷、寒江等阴冷意象占据主导，营造出强烈的幽暗压抑氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.2,
+            "explanation": "少数篇章（如早期《橘颂》）有明亮色彩，但多数时候被愁云惨雾覆盖。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.2,
+            "explanation": "写实笔法主导，即使是《抽思》中的梦境描写也服从于现实的苦闷，极少有缥缈的梦幻感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.15,
+            "explanation": "没有像《九歌》或《离骚》那样的神话背景和宗教神秘色彩，表达极为直露。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.35,
+            "explanation": "在楚辞体系中，其强烈的纪实和个人化倾向有一定实验性，但语言形式本身不算激进。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.7,
+            "explanation": "作为中国古典诗歌的源头之一，其悲愤沉郁的美学风格具有典范意义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.1,
+            "explanation": "内容和表达方式完全属于古典时代，与现代艺术观念几乎没有交集。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.25,
+            "explanation": "基本是行程记录加心绪抒发，少有完整的事件和情节推进，叙事性较弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.85,
+            "explanation": "诗人的自我形象非常饱满，从多重角度展示了他的挣扎、软弱、愤怒与最后的坚定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.4,
+            "explanation": "从初期的冤屈申诉到后期的赴死决心，心态上确有变化，但更多的是同一种信念的深化而非转变。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.3,
+            "explanation": "缺乏构建完整虚构世界的意图，诗歌背景就是现实中的楚地山水。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.2,
+            "explanation": "各篇内部基本是平铺直叙，很少打破时空顺序。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.8,
+            "explanation": "反复的哀叹和细致的景物刻画，引导读者缓慢地沉入其深沉的痛苦之中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.1,
+            "explanation": "除地理上的被迫迁徙外，几乎没有主动的、外部的动作和事件。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.7,
+            "explanation": "精神层面的冲突高度激烈，是个人信念与整个黑暗现实的对峙，张力十足。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.65,
+            "explanation": "对生死问题的反复思考和决断，赋予了作品深沉的哲学意味。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.85,
+            "explanation": "极端强调个人操守和特立独行，以孤独的个体对抗整个世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.2,
+            "explanation": "虽然关怀楚国，但并不认同当时的群体，是与集体的决裂而非融合。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.2,
+            "explanation": "基本没有对家庭成员的直接描写，情感世界全部围绕政治和故国。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.1,
+            "explanation": "诗人是绝对孤立的，没有知己或同伴。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.15,
+            "explanation": "情感是政治性的和自恋式的，不涉及男女之爱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.15,
+            "explanation": "处于被社群抛弃的状态，没有任何归属感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.45,
+            "explanation": "党人的谗害构成了恶性的政治竞争环境，但诗人是被动受害者，并非主动竞争者。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.1,
+            "explanation": "完全缺乏合作情境，诗人与周围世界是对立的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.65,
+            "explanation": "君王的疏远、小人的得势，使得权力压迫感成为其痛苦的主要来源。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.8,
+            "explanation": "在流放中不断确认自己的忠臣和清醒者身份，身份危机与坚持是其核心议题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.45,
+            "explanation": "渴望摆脱精神重负和政治迫害，但并非追求无拘无束的逍遥，而是希望得到清白和公正。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.25,
+            "explanation": "对混乱污浊的朝政极度不满，但已不寄望于恢复秩序，更多是指向内心的自我约束。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.65,
+            "explanation": "执着于自我表白，追求事实真相和历史公论，反复强调自己的清白。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.35,
+            "explanation": "少数篇章如《橘颂》赞美了美好的品质，但审美追求已被沉重的现实压力所压倒。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.45,
+            "explanation": "未放弃对修名和功业的追求，但这已成为无法实现的痛苦根源。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.5,
+            "explanation": "极度渴望公正的评判，但又深知在现实中无法获得，这种矛盾加剧了内心的煎熬。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.7,
+            "explanation": "不惜以生命为代价来证明清白、坚守理想，牺牲的决心在《怀沙》《悲回风》中最为鲜明。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.85,
+            "explanation": "整个流放过程就是一场痛苦但深入的自我剖析和意义追问。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.5,
+            "explanation": "常引古圣先贤为榜样，但现实已与传统断裂，对传统的坚守更多是个人信仰。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.25,
+            "explanation": "看不到任何改善的可能，对变化持彻底的悲观态度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.55,
+            "explanation": "经历了长期的艰苦流放生活，求生与赴死的念头反复斗争，最终选择超越生理生存。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.85,
+            "explanation": "构建生命的意义是其最根本的关怀，尤其是在一切外在支撑都崩塌的时候。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.2,
+            "explanation": "已没有精力去探索外部世界，注意力全部集中在内心痛苦上。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.65,
+            "explanation": "将极度的痛苦转化为了不朽的诗篇，这是极高层次的艺术创造行为。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.15,
+            "explanation": "旅途是痛苦的放逐，而非充满激情的探险。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.9,
+            "explanation": "不断的内省和反思是全部作品的基本行为动作。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.15,
+            "explanation": "对竞争本身持否定和厌恶态度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.1,
+            "explanation": "完全回避和拒绝社交，主动疏离。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.55,
+            "explanation": "对内心信念的坚守需要极强的自律，面对诱惑和压力从未动摇。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.25,
+            "explanation": "赴死是极大的冒险，但这并非对风险刺激的追求，而是无奈之下的极端选择。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.15,
+            "explanation": "内心处于激烈动荡之中，几乎没有平静的时刻。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.5,
+            "explanation": "存在强烈的从痛苦现实中解脱的愿望，但地理上的远走并非真正的解脱，死亡才是。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.55,
+            "explanation": "有对沿途景物的细致刻画，画面感存在，但风格偏于萧瑟苍凉，色彩并不丰富。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.4,
+            "explanation": "色彩基调是灰暗的，多描写黯淡、阴冷的风物，缺少亮丽色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.35,
+            "explanation": "偶有对风声、水声的描写来烘托凄凉，但听觉刺激整体不强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.4,
+            "explanation": "节奏沉缓顿挫，符合其沉郁的情感基调，没有高能量的律动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.85,
+            "explanation": "极为成功地营造了悲凉、压抑、孤独的整体氛围，笼罩读者的沉浸感很强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.7,
+            "explanation": "读者容易被其浓烈真挚的痛苦情感带入作者的精神世界，产生强烈共鸣。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.literary_style",
+            "score": 0.8,
+            "explanation": "形成了与《离骚》奇幻风格互补的沉郁顿挫风格，是楚辞写实倾向的代表。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.language_artistry",
+            "score": 0.75,
+            "explanation": "语言质朴而精炼，真情流露，虽不尚华丽，但造句遣词仍极富表现力。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.symbolism",
+            "score": 0.6,
+            "explanation": "以自然景物和行程纪历作为心境的象征，如《涉江》的路途艰难，《橘颂》的直接借物言志。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+            "score": 0.6,
+            "explanation": "多用反问、叠字和直抒胸臆的手法，修辞不繁复但有力。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+            "score": 0.7,
+            "explanation": "对生存困境和死亡抉择的思考具有相当的哲学深度。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.cultural_depth",
+            "score": 0.7,
+            "explanation": "提供了战国末期楚国士大夫精神世界的真实个案，文化史料价值极高。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.knowledge_density",
+            "score": 0.55,
+            "explanation": "包含的历史和神话典故少于《离骚》，知识负载量适中。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+            "score": 0.5,
+            "explanation": "多数篇章的自传性质使其主旨较为确定，阐释空间主要在对其思想的不同评价。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "体验的核心是随着诗人在长久流放中一步步走向绝望的沉痛。强烈的孤独感和无法排解的乡愁交织在一起，厚重的悲郁几乎令人窒息。对故国、君王和理想的执念与日益严酷的现实形成尖锐对比，带来持续的压抑和痛楚。唯一留下的情绪出口是对自我清白的反复申说和对黑暗势力的愤怒，但这股愤怒最终也化入深邃的哀伤里。绝无抚慰，短暂出现的自然景物或回忆片段也只是让现下的痛苦更加分明。最终体验导向一种清醒而庄严的死亡觉悟，在彻底的孤绝中完成对个体生命价值的最后确认。",
+          "structure_description": "《九章》合九篇诗作而成，并非一个事先规划的统一结构，而是在不同时间、地点创作的独立篇章的集合，因此其整体结构是松散的、累积性的。单篇内部结构通常清晰简单：多从当前的流落地或旅途环境起兴，描写景物，引出内心的哀伤与思念，然后进入大段的内心独白，申诉冤屈、表白心迹，最后归于无奈的悲叹或赴死的决心。其推进线索主要是情绪的层层深入而非情节的变化。景与情的关系极为密切，一切景物都被染上悲凉的主观色彩，服务于内心世界的揭示。",
+          "cognitive_expression": "阅读这类作品需要处理的是高度浓缩且反复叠加的负面情绪。信息的组织方式是情感化的，景物描写常常作为触发回忆和感慨的媒介。读者被引导着去理解一个孤独者在绝境中的全部心理活动，需要不断连接他过去的辉煌与当下的潦倒、他的道德洁癖与污浊的环境，这种连接大部分是依靠共情和内省完成的。逻辑上并无难解之处，它不挑战智力，但考验情绪的承受力和对深层痛苦的接纳度。语言相对直白，减少了概念解码的负担，使注意力可以完全停留在情感体验上。",
+          "behavioral_tendency_description": "作品所体现的行为模式是在外部世界完全崩塌时，转而通过内在的坚守和对艺术创造的不懈追求来保存自我。它奖励在极度痛苦中仍不放弃反思和表达，将苦难转化为深刻的省察和永恒的作品。它排斥任何轻浮的社交、虚伪的妥协或盲目的行动。面对无力改变的现实，行为倾向不是外向的改造或逃避，而是内敛的承受、诚实的记录和最终的自我主宰——以死亡的选择权来捍卫精神的自由。这种倾向体现了极强的内在纪律和对意义建构的终极需求。"
+        },
+        "personality_affinity": {
+          "Ni": 0.65,
+          "Ne": 0.3,
+          "Ti": 0.4,
+          "Te": 0.15,
+          "Fi": 0.95,
+          "Fe": 0.1,
+          "Si": 0.55,
+          "Se": 0.15,
+          "openness": 0.65,
+          "conscientiousness": 0.55,
+          "extraversion": 0.05,
+          "agreeableness": 0.1,
+          "neuroticism": 0.85,
+          "Assertive": 0.15,
+          "Turbulent": 0.9
+        },
+        "supporting_evidence": [
+          "共收录九篇作品，多数为屈原在流放期间创作的纪实性抒情诗。",
+          "《哀郢》描写了郢都陷落后百姓流离失所的惨状和诗人对故都的深切哀悼。",
+          "《涉江》记录了诗人渡江南下、深入偏远山区的具体流放路线。",
+          "《橘颂》以赞美橘树“受命不迁”来表达自己坚守故土和信念的志向。",
+          "《怀沙》和《悲回风》等篇明确表达了以死殉道的决心。",
+          "作品中反复出现对楚王听信谗言、不辨忠奸的怨愤。",
+          "常以秋风、回风、寒江等阴冷意象自喻其凄凉处境。",
+          "《惜诵》等篇以向天发誓的方式反复表白自己的忠诚和清白。",
+          "诗句风格比《离骚》更显沉郁、悲凉，少用神话典故。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 4,
+      "remaining": 79,
+      "total": 83,
+      "currentContentId": "work_chn_-340_004",
+      "nextContentId": "work_chn_0336_001",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_-340_004",
+          "parentContentId": null,
+          "workId": "work_chn_-340_004",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "天问",
+          "type": "LITERATURE",
+          "countryName": "中国",
+          "year": -340,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.9,
+          "primaryMediaType": "LITERATURE"
+        },
+        "semantic": {
+          "summary": "《天问》是屈原创作的一篇奇崛长诗，全诗以提问方式一气提出一百七十多个问题，涉及天地开辟、日月星辰运行、神话传说、历史兴亡等诸多方面。作品罕见地放弃了抒情与自述，以纯粹的怀疑精神对宇宙秩序、自然现象与历史命运进行系统性质问，其中大量神话与古史记载相悖的细节被指出，气势磅礴，构思独特。全诗辞藻奇诡，思绪跳跃，既是对当时知识体系的全面检视，也是一部充满批判意识和哲学思辨的旷世奇作，在中国诗歌史上独树一帜。",
+          "themes": [
+            "怀疑与质问",
+            "宇宙起源",
+            "神话解构",
+            "历史兴亡",
+            "天道与人事",
+            "地理博物",
+            "知识探索",
+            "是非追问",
+            "哲学抒情"
+          ],
+          "keywords": [
+            "屈原",
+            "楚辞",
+            "天问",
+            "提问体",
+            "创世神话",
+            "鲧禹治水",
+            "夏商周历史",
+            "昆仑",
+            "日神",
+            "女娲",
+            "共工",
+            "褒姒",
+            "质疑精神"
+          ],
+          "core_experience": "作品带来一种在宏大时空尺度上不断遭遇未知与矛盾的震撼体验。读者被带入一个没有叙事连贯性的问题洪流中，被迫直面宇宙和人类历史中无数无法解释的奥秘与不公。情绪上并非哀伤或愤怒，而是一种夹杂着困惑、惊奇与求索欲的冷峻张力。在接连不断的追问下，既有知识框架受到强烈冲击，激发起对终极真相的深层渴望和面对浩瀚未知的渺小感。",
+          "experience_introduction": "《天问》是屈原所作的一篇独特长诗，通篇由一百七十多个问题连缀而成，没有直接的情节或抒情，而是以密集的疑问指向天地开辟、日月运行、神话怪诞和历代兴亡。诗中的信息如急流般涌来，从一个宇宙之谜跳到一段历史公案，需要不断在神话片段与古史之间建立联系。整体氛围是强烈的求知与怀疑交织，节奏紧凑，情绪在困惑、惊叹和冷峻的审视中快速切换。它不提供安抚或明确的答案，温暖的关怀或平静的沉思在这里极少出现，反而让人始终处于一种高度警觉、不断被挑战的认知状态。"
+        },
+        "experience_vector": {
+          "passion": 0.7,
+          "healing": 0.05,
+          "awe": 0.85,
+          "nostalgia": 0.15,
+          "reflection": 0.85,
+          "romance": 0.05,
+          "tension": 0.8,
+          "warmth": 0.05,
+          "loneliness": 0.5,
+          "hope": 0.2
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.8,
+            "complexity": 0.85,
+            "depth_of_thought": 0.9,
+            "logical_structure": 0.35,
+            "novelty": 0.95,
+            "exploration": 0.85,
+            "ambiguity": 0.65,
+            "predictability": 0.2,
+            "information_density": 0.95,
+            "learning_value": 0.9
+          },
+          "worldview": {
+            "personal_scale": 0.3,
+            "relationship_scale": 0.15,
+            "social_scale": 0.5,
+            "civilization_scale": 0.8,
+            "cosmic_scale": 0.9,
+            "time_span": 0.85,
+            "fantasy_level": 0.6
+          },
+          "emotion": {
+            "happiness": 0.05,
+            "sadness": 0.2,
+            "loneliness": 0.35,
+            "warmth": 0.05,
+            "fear": 0.15,
+            "tension": 0.75,
+            "awe": 0.85,
+            "nostalgia": 0.1,
+            "hope": 0.1,
+            "melancholy": 0.15,
+            "anger": 0.25,
+            "peace": 0.1
+          },
+          "aesthetic": {
+            "beauty": 0.65,
+            "minimalism": 0.55,
+            "luxury": 0.25,
+            "darkness": 0.5,
+            "brightness": 0.35,
+            "dreamlike": 0.4,
+            "mystery": 0.85,
+            "experimental": 0.9,
+            "classical": 0.7,
+            "modern": 0.3
+          },
+          "narrative": {
+            "plot_complexity": 0.15,
+            "character_depth": 0.2,
+            "character_growth": 0.05,
+            "world_building": 0.9,
+            "nonlinear_structure": 0.95,
+            "slow_immersion": 0.2,
+            "action_intensity": 0.05,
+            "conflict_intensity": 0.7,
+            "philosophical_depth": 0.95
+          },
+          "social_relationship": {
+            "individualism": 0.7,
+            "collectivism": 0.15,
+            "family": 0.1,
+            "friendship": 0.05,
+            "love": 0.1,
+            "community": 0.05,
+            "competition": 0.3,
+            "cooperation": 0.05,
+            "power_relationship": 0.55,
+            "identity": 0.45
+          },
+          "value": {
+            "freedom": 0.45,
+            "order": 0.35,
+            "truth": 0.95,
+            "beauty": 0.3,
+            "achievement": 0.15,
+            "justice": 0.7,
+            "sacrifice": 0.15,
+            "self_exploration": 0.55,
+            "tradition": 0.3,
+            "change": 0.35,
+            "survival": 0.25,
+            "meaning": 0.8
+          },
+          "behavior": {
+            "curiosity": 0.95,
+            "creation": 0.7,
+            "adventure": 0.6,
+            "reflection": 0.8,
+            "competition": 0.1,
+            "social": 0.05,
+            "discipline": 0.25,
+            "risk": 0.55,
+            "calm": 0.2,
+            "escape": 0.1
+          },
+          "sensory": {
+            "visual_intensity": 0.7,
+            "color_richness": 0.55,
+            "sound_intensity": 0.5,
+            "rhythm_energy": 0.8,
+            "atmosphere": 0.8,
+            "immersion": 0.7
+          }
+        },
+        "media_vector": {
+          "literature_vector": {
+            "literary_style": 0.9,
+            "language_artistry": 0.85,
+            "symbolism": 0.65,
+            "rhetorical_complexity": 0.8,
+            "intellectual_depth": 0.95,
+            "cultural_depth": 0.9,
+            "knowledge_density": 0.95,
+            "interpretation_openness": 0.85
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.7,
+            "explanation": "持续不断、穷追不舍的提问方式体现出一种近乎燃烧的求知热情和对真相的执着，但这种热情是冷峻理性的，不同于个人化的激昂。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.05,
+            "explanation": "作品以质疑和解构为目的，不给读者任何情感上的安慰或修复，反而是对既有信念的猛烈冲击。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.85,
+            "explanation": "从宇宙诞生到日月运行的宏大设问，以及面对历史宿命时的无力感，都会引发强烈的敬畏与惊叹。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.15,
+            "explanation": "对历史的追问侧重于批判与困惑，不存在对“黄金时代”的追忆或感伤式怀旧。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.85,
+            "explanation": "通篇都在对宇宙、历史和既有知识进行深刻反思，迫使读者也必须跟随诗人的思路进行高强度思考。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.05,
+            "explanation": "不涉及任何男女情爱或浪漫依恋，纯粹是理性和哲学的探讨。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.8,
+            "explanation": "连续不断的疑问句制造了一种智识上的高压，读者被置于一个又一个无法逃避的难题前，心理紧绷感很强。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.05,
+            "explanation": "全文是冷峻的、分析式的，没有人际温情，也不提供情感上的慰藉，温暖感几乎为零。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.5,
+            "explanation": "提问者独自面对浩瀚宇宙和荒谬历史，透出一种孤独求索的意味，但相比屈原其他作品，这种孤独是智识层面的，而非凄苦悲凉。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.2,
+            "explanation": "问题大多没有答案，历史叙述也充满不公，几乎没有积极的希望感，只是在怀疑中寻求一丝清明。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.8,
+            "explanation": "探讨宇宙起源、天道规则等抽象概念，许多问题本身即是形而上的，脱离了具体叙事。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.85,
+            "explanation": "涉及领域极广，神话、历史、地理交错，问题间跳跃极大，且许多问题本身就包含悖论，复杂度很高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.9,
+            "explanation": "深入到对天地本质、历史正义和人类认知极限的质询，是中国古代少有的具有系统批判精神的作品。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.35,
+            "explanation": "问题之间虽有大致分类（天、地、史），但内在联系松散跳跃，没有严密的逻辑推理链。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.95,
+            "explanation": "通篇疑问、没有答语的结构和怀疑一切的精神，在中国诗歌史上是绝对空前的，具有极强的独创性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.85,
+            "explanation": "问题本身即是对未知领域的巨大探索冲动，涵盖地理、天文、神怪、史学等多方面的边疆。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.65,
+            "explanation": "许多问题基于已失传的神话版本，指代不明，加上问句本身的多义性，留下了丰富的解释空间。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.2,
+            "explanation": "问题的走向和挑选的质疑点完全出人意料，无法用常规叙事逻辑预测。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.95,
+            "explanation": "每一句都包含一个独立的神话或历史问题，名词和典故高度密集，是中国古诗词中信息密度最大的作品之一。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.9,
+            "explanation": "通过作品可窥见战国时期的宇宙观、神话体系和历史观，是研究上古思想史和神话学极为重要的资料。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.3,
+            "explanation": "个人的情感和遭遇被完全隐去，焦点全部放在外部宏大的宇宙和历史之上。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.15,
+            "explanation": "几乎没有提及任何人际亲密关系，历史故事中的人物也只是作为例子被简略提及。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.5,
+            "explanation": "历史部分涉及王朝更迭和政治事件，对社会权力结构有所关注，但不是以描写社会百态为主。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.8,
+            "explanation": "从夏商周到春秋，贯穿了长时段的文明演变，并从兴亡中思考历史规律。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.9,
+            "explanation": "开篇即追问宇宙创生、日月星辰的布局与运行，视野极度宏阔。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.85,
+            "explanation": "从天地未分前的混沌，一直追述到当代（诗人所在的楚国），时间跨度极其漫长。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.6,
+            "explanation": "包含大量神话元素，但诗人的态度是质疑和辨析，并非全盘接受奇幻叙事。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.05,
+            "explanation": "基调是严肃、怀疑和沉思的，与快乐无关。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.2,
+            "explanation": "对于历史中的奸佞当道和忠良遭难偶有感叹，但情感的流露被智性追问所压抑，哀伤不是主导。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.35,
+            "explanation": "一个单独的思考者面对亘古的谜题，有智识上的孤立感，但不带自怜自哀的凄凉。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.05,
+            "explanation": "没有任何温情脉脉的时刻，整体氛围冰冷。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.15,
+            "explanation": "对某些神话怪物和自然伟力有轻微惊惧，但都被求知的欲望盖过。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.75,
+            "explanation": "连续的疑问和高密度的信息冲击构成了智识上的强烈紧张感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.85,
+            "explanation": "面对创世、日月、山川等不可言说的奥秘，惊叹与敬畏是贯穿全文的主要情绪之一。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.1,
+            "explanation": "没有对过去的向往，更多的是在对传说和记载的追问中寻找破绽。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.1,
+            "explanation": "疑问中没有答案，历史中也没有正义的希望，整体倾向于不可知和怀疑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.15,
+            "explanation": "缺乏那种绵长的、情绪化的忧伤，理性批判取代了感伤。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.25,
+            "explanation": "对历史不公偶有愤慨的质问，但并不像《离骚》那样有鲜明的攻击对象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.1,
+            "explanation": "处处是难题和困惑，没有片刻的内心平静。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.65,
+            "explanation": "语言仍不失楚辞的瑰丽，问句本身充满奇崛的想象，具有一种雄辩式的美感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.55,
+            "explanation": "结构上除去了叙事和抒情，只留问题，极简而有力，但语言修辞并不极简。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.25,
+            "explanation": "关注点不在感官享乐，而在事理，辞藻的华丽被理性的冷峻中和。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.5,
+            "explanation": "宇宙的幽暗、历史的晦暗不明为作品投下阴影，有黑暗感，但并非压抑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.35,
+            "explanation": "对日月的探索中有一定的明亮景象，但整体不是明亮的基调。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.4,
+            "explanation": "神话和现实的边界模糊带来一些梦幻感，但逻辑主导，非沉溺的梦幻。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.85,
+            "explanation": "宇宙、神话和历史中无数的未解之谜，构成了核心的审美氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.9,
+            "explanation": "其作品形式在诗史上是彻底的反传统实验，打破了所有既有的诗歌规范。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.7,
+            "explanation": "作为楚辞的代表，用词和节奏依然是古典的，是古典文学中一个突兀的现代实验。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.3,
+            "explanation": "其怀疑精神和开放性结构有超时代性，但文字载体仍是古汉语。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.15,
+            "explanation": "没有故事情节，只有按主题分类的问题罗列。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.2,
+            "explanation": "不存在角色刻画，提问者本身也只是一个模糊的求知者形象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.05,
+            "explanation": "没有人物，自然没有人物的发展。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.9,
+            "explanation": "通过对神话和历史的密集提问，无形中构建了一个极其庞大的宇宙和人文世界体系。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.95,
+            "explanation": "结构完全是碎片化的、跳跃的，打破了一切线性逻辑，是超链接式的思维。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.2,
+            "explanation": "快节奏的问答冲击使人无法缓慢沉浸，而是被推着不断切换场景。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.05,
+            "explanation": "只有纯粹的脑力激荡，没有任何身体动作或事件冲突。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.7,
+            "explanation": "思想层面的冲突——对权威、传统和既定知识的挑战——非常激烈。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.95,
+            "explanation": "不提供答案，而是通过提问本身展现了对存在、认知和历史逻辑的极为深刻的思辨。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.7,
+            "explanation": "一个孤立的“我”在质疑一切，这种姿态本身就具有极强的个人主义色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.15,
+            "explanation": "对社群协作或集体价值几乎没有任何正面或反面的描写。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.1,
+            "explanation": "历史故事中偶有提及后妃、父子，但只作为质疑的案例，没有对家庭关系的刻画。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.05,
+            "explanation": "不存在。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.1,
+            "explanation": "只在神话和历史片段中略提男女关系，不是主题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.05,
+            "explanation": "没有社区或团体的正面形象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.3,
+            "explanation": "历史叙述涉及政治斗争和军事冲突，有竞争的案例，但不是褒扬。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.05,
+            "explanation": "缺乏对良性合作的描述。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.55,
+            "explanation": "对帝王、后妃、权臣等权力结构多有质疑，关注权力对个人命运的影响。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.45,
+            "explanation": "通过质疑来界定认知的边界，有自我身份确认的意味，但不深入个人情感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.45,
+            "explanation": "体现为思想上的绝对自由，不盲从任何权威，敢于怀疑一切。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.35,
+            "explanation": "对宇宙运行的规律有强烈的追问，但结论是充满变数的，秩序的价值次位于真理。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.95,
+            "explanation": "追求真相、戳破神话和历史谎言是作品最核心和最强烈的价值导向。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.3,
+            "explanation": "虽然语言有艺术美，但内容上对美学赏玩兴趣不大，理性和真实压倒审美。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.15,
+            "explanation": "对历史人物的功业持审慎甚至嘲讽态度，不强调个人成就。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.7,
+            "explanation": "对历史中善恶无报的现象提出了尖锐质问，对正义有强烈的渴望和怀疑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.15,
+            "explanation": "仅作为历史故事被简要提及，未赋予其崇高意义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.55,
+            "explanation": "通过对外部世界的追问，隐含了对人类认知能力的反身性探索。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.3,
+            "explanation": "传统和历史正是被质疑和挑战的对象，而非被无条件维护。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.35,
+            "explanation": "历史展示了无常的变迁，但诗人对此更多的是困惑而非拥抱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.25,
+            "explanation": "不关注个体的求生问题，焦点在宏观的宇宙历史。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.8,
+            "explanation": "整部作品就是一次对意义的痛苦索求，尽管结果可能是虚无，但探求本身被高度价值化。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.95,
+            "explanation": "整部作品由无所不包的提问构成，是最极端和纯粹的求知行为典范。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.7,
+            "explanation": "创造了独一无二的艺术形式，是将批判性思维转化为伟大文学的创造。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.6,
+            "explanation": "思想的冒险，对禁忌和未知领域的无畏追问。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.8,
+            "explanation": "强烈的反思性思维活动贯注全篇。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.1,
+            "explanation": "不存在人际或资源上的竞争行为。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.05,
+            "explanation": "完全的孤独思考行为，无任何社交互动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.25,
+            "explanation": "提问的坚持体现了智识上的坚韧，但并非日常行为的纪律。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.55,
+            "explanation": "质疑正统观念和神话在当时是极具思想风险的行为。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.2,
+            "explanation": "思维状态高度活跃，与冷静克制相去甚远。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.1,
+            "explanation": "不是逃避，而是正面强攻未知与矛盾。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.7,
+            "explanation": "大量对日月、雷电、山川、异兽的描写，创造了强烈而奇诡的视觉想象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.55,
+            "explanation": "有一些对光彩的描述，但不如《离骚》那样绚烂，偏重神异而非华美。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.5,
+            "explanation": "连续的追问形成了铿锵的节奏和声音冲击，但并非对听觉景象的直接描摹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.8,
+            "explanation": "一问接一问的快速推进，营造了极为强劲的智识节奏和能量感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.8,
+            "explanation": "成功地营造了一种幽邃、神秘且充满张力的智识氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.7,
+            "explanation": "高强度的疑问具有强制性，容易将读者吸入其思辨的漩涡中。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.literary_style",
+            "score": 0.9,
+            "explanation": "在楚辞中，其纯粹的质询体是绝对的异数，风格独特到几乎无法归类。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.language_artistry",
+            "score": 0.85,
+            "explanation": "用词精准奇崛，句法多变，以疑问传达诗意，语言功底深厚。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.symbolism",
+            "score": 0.65,
+            "explanation": "虽无通篇的托喻系统，但许多神话问题本身即带有隐喻色彩，如对鲧禹的追问。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+            "score": 0.8,
+            "explanation": "通篇设问，糅合反问、排比、对比等手法，形成了极端复杂的修辞阵列。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+            "score": 0.95,
+            "explanation": "触及了宇宙学、神学、历史哲学等多个领域的深层问题，思想深度在古诗中无出其右。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.cultural_depth",
+            "score": 0.9,
+            "explanation": "是先秦神话、历史、天文、地理知识的集大成者，是反映当时思想界的文化宝库。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.knowledge_density",
+            "score": 0.95,
+            "explanation": "句句是干货，任何一问都可单独成篇研究，知识浓度是普通诗歌的数十倍。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+            "score": 0.85,
+            "explanation": "绝大多数问题没有标准答案，历代注家聚讼纷纭，阐释的空间极大。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "全篇没有抒情和叙事，只是一个个凌厉的疑问劈头盖脸砸来。读者感受不到丝毫的温情或安慰，取而代之的是被密集的未知和矛盾所包围的智识眩晕。对宇宙奇观的敬畏，对历史不公的冷峻审视，对神话破绽的犀利指摘，共同汇成一种高度的思想紧张。短暂的神奇意象只增添困惑，而非美感享受；史实碎片只暴露荒谬，而非提供教训。情绪上没有出口，始终保持尖锐的饥渴和不安，最终留下的不是感动，而是被深刻问题穿透后的空旷与深沉。",
+          "structure_description": "《天问》的结构是清单式的、跳跃的。其内在顺序大致遵循：从宇宙开辟、天地形状，到日月星辰的运行，再到大地山川和神话传说，然后转入夏商周的历史兴衰，直至当代楚国。但这种分类是松散和模糊的，许多问题的衔接仅凭字词联想或近似主题，缺乏因果逻辑。它没有开头和结尾的叙事框架，通篇就是一长串不加回答的疑问句。这种结构本身打破了读者对连贯叙事的期待，强制形成一种片段化、超链接式的认知节奏。每个问题都是一个自足的思想单元，组合起来则是一幅磅礴又零散的知识拼图。",
+          "cognitive_expression": "它迫使大脑始终处于高频提问和分析的模式。面对不断堆叠的疑问，读者无法被动接收信息，必须主动调动已有的神话和历史知识去理解那些问题的指向，并尝试在脑海中填补答案或承认无知。信息的组织是发散和离散的，将不同领域的知识并置，促使思维不断在宇宙、历史、自然之间跳转。它不奖励对确定性的寻求，反而训练对矛盾和不合理的敏感度。阅读过程是持续的认知失调——旧有的解释体系被逐个击破，新的体系又无从建立——由此将人推向更高级的、与悬而未决的谜题共存的思维状态。",
+          "behavioral_tendency_description": "作品鼓励的行为是完全智识性的：大胆怀疑权威叙事，穷追不舍地探究根源，并享受提问过程本身，哪怕没有答案。它塑造了一种不依赖社交或外部认可的内在驱动——为了真理可以挑战一切既有信条。这种行为模式显示出极高的认知需求和对不确定性极强的忍耐力。它厌恶盲从、附会和虚假的安慰，倾向于在拆解谎言和神话中获得掌控感。在现实中，这会转化为对规则背后逻辑的持续追问，以及在传统智慧面前保持清醒和批判的思维习惯。"
+        },
+        "personality_affinity": {
+          "Ni": 0.8,
+          "Ne": 0.85,
+          "Ti": 0.9,
+          "Te": 0.4,
+          "Fi": 0.35,
+          "Fe": 0.05,
+          "Si": 0.15,
+          "Se": 0.1,
+          "openness": 0.95,
+          "conscientiousness": 0.25,
+          "extraversion": 0.1,
+          "agreeableness": 0.1,
+          "neuroticism": 0.55,
+          "Assertive": 0.25,
+          "Turbulent": 0.7
+        },
+        "supporting_evidence": [
+          "全诗由一百七十多个连续的问题组成，没有任何陈述句作为回答。",
+          "开篇即问：“遂古之初，谁传道之？”，直接质疑宇宙起源的传说。",
+          "对日月星辰的运行轨迹和昼夜成因提出了一系列具体疑问。",
+          "提到了鲧、禹治水的方式差异，对鲧的死和禹的功业表示疑惑。",
+          "关于昆仑悬圃的神话，问“其尻安在？”，要求明确位置。",
+          "对后羿射日、嫦娥奔月等神话的细节进行了追问。",
+          "历史部分从夏启、太康到商汤、周武，历数各朝代的混乱与不公。",
+          "对妲己、褒姒等女性在亡国中的角色提出与传统史观相异的疑问。",
+          "在众多问题中穿插了对古先贤（如比干、梅伯）遭遇的慨叹与质疑。",
+          "诗歌形式打破了《诗经》以来的四言传统，多用五言、六言乃至七言。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 5,
+      "remaining": 78,
+      "total": 83,
+      "currentContentId": "work_chn_0336_001",
+      "nextContentId": "work_chn_1949_001",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_0336_001",
+          "parentContentId": null,
+          "workId": "work_chn_0336_001",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "搜神记",
+          "type": "LITERATURE",
+          "countryName": "中国",
+          "year": 336,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.85,
+          "primaryMediaType": "LITERATURE"
+        },
+        "semantic": {
+          "summary": "《搜神记》是东晋史学家干宝编撰的志怪小说集，原书已佚，今本为后人辑录。书中收录了数百则关于神仙、鬼怪、精灵、异人、方士的短篇传说，故事多取材于民间传闻和旧籍记载，情节奇诡多变，篇幅精悍。内容既展现了魏晋时期浓厚的民间信仰与玄怪想象，也通过大量因果报应、人神婚恋、动物报恩等母题，折射出时人对命运、道德和未知世界的集体心理。作为六朝志怪小说的代表作，它对后世唐传奇、宋元话本及明清神魔小说产生了深远影响。",
+          "themes": [
+            "神鬼志怪",
+            "民间信仰",
+            "因果报应",
+            "人与异类婚恋",
+            "方术异能",
+            "动物报恩",
+            "命运前定",
+            "历史传说",
+            "道教神仙",
+            "死亡与复活"
+          ],
+          "keywords": [
+            "干宝",
+            "搜神记",
+            "志怪小说",
+            "六朝",
+            "神仙",
+            "鬼怪",
+            "精灵",
+            "异人",
+            "方士",
+            "魏晋南北朝",
+            "董永",
+            "蚕马",
+            "干将莫邪",
+            "李寄斩蛇"
+          ],
+          "core_experience": "作品带领读者进入一个万物有灵、人鬼杂处的神秘世界。短小精悍的传闻轶事如同碎片化的奇异窗口，不断唤起惊奇、怪异与隐约的不安。故事多以简练笔法勾勒，情节突兀奇诡，情感上混合了对超自然力量的敬畏、对因果宿命的叹息，以及对异类情感的好奇。整体体验不是深陷悲伤或激情，而是在一瞥奇闻后留下悠长的遐想与道德警觉。",
+          "experience_introduction": "《搜神记》是东晋干宝编纂的一部志怪小说集，收录了数百则关于神仙、鬼怪、精灵和异人的奇闻怪谈，每则短小精悍，情节往往突兀离奇。书中展现了人与神怪相遇的种种情形，有因果报应的警示，也有人神婚恋的奇情，整体氛围幽深神秘，充满对未知世界的好奇与轻微的惊惧。它不追求深入的情感挖掘或宏伟叙事，而是以快节奏的事件片段不断激发读者的惊奇感，道德训诫穿插其中，温暖或悲伤的情感短暂闪现，难以持续。作品更侧重于呈现诡异多彩的幻想世界，而非引人深思或提供抚慰。"
+        },
+        "experience_vector": {
+          "passion": 0.25,
+          "healing": 0.1,
+          "awe": 0.5,
+          "nostalgia": 0.15,
+          "reflection": 0.3,
+          "romance": 0.2,
+          "tension": 0.45,
+          "warmth": 0.15,
+          "loneliness": 0.2,
+          "hope": 0.1
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.25,
+            "complexity": 0.25,
+            "depth_of_thought": 0.3,
+            "logical_structure": 0.15,
+            "novelty": 0.8,
+            "exploration": 0.5,
+            "ambiguity": 0.3,
+            "predictability": 0.4,
+            "information_density": 0.35,
+            "learning_value": 0.6
+          },
+          "worldview": {
+            "personal_scale": 0.3,
+            "relationship_scale": 0.4,
+            "social_scale": 0.5,
+            "civilization_scale": 0.15,
+            "cosmic_scale": 0.3,
+            "time_span": 0.15,
+            "fantasy_level": 0.9
+          },
+          "emotion": {
+            "happiness": 0.15,
+            "sadness": 0.15,
+            "loneliness": 0.15,
+            "warmth": 0.15,
+            "fear": 0.35,
+            "tension": 0.4,
+            "awe": 0.5,
+            "nostalgia": 0.1,
+            "hope": 0.1,
+            "melancholy": 0.1,
+            "anger": 0.1,
+            "peace": 0.15
+          },
+          "aesthetic": {
+            "beauty": 0.35,
+            "minimalism": 0.7,
+            "luxury": 0.15,
+            "darkness": 0.55,
+            "brightness": 0.2,
+            "dreamlike": 0.5,
+            "mystery": 0.8,
+            "experimental": 0.3,
+            "classical": 0.7,
+            "modern": 0.1
+          },
+          "narrative": {
+            "plot_complexity": 0.1,
+            "character_depth": 0.1,
+            "character_growth": 0.05,
+            "world_building": 0.55,
+            "nonlinear_structure": 0.85,
+            "slow_immersion": 0.15,
+            "action_intensity": 0.3,
+            "conflict_intensity": 0.4,
+            "philosophical_depth": 0.2
+          },
+          "social_relationship": {
+            "individualism": 0.25,
+            "collectivism": 0.35,
+            "family": 0.3,
+            "friendship": 0.2,
+            "love": 0.3,
+            "community": 0.4,
+            "competition": 0.15,
+            "cooperation": 0.2,
+            "power_relationship": 0.3,
+            "identity": 0.2
+          },
+          "value": {
+            "freedom": 0.15,
+            "order": 0.5,
+            "truth": 0.25,
+            "beauty": 0.15,
+            "achievement": 0.15,
+            "justice": 0.55,
+            "sacrifice": 0.25,
+            "self_exploration": 0.1,
+            "tradition": 0.6,
+            "change": 0.15,
+            "survival": 0.35,
+            "meaning": 0.2
+          },
+          "behavior": {
+            "curiosity": 0.65,
+            "creation": 0.3,
+            "adventure": 0.35,
+            "reflection": 0.15,
+            "competition": 0.1,
+            "social": 0.25,
+            "discipline": 0.2,
+            "risk": 0.25,
+            "calm": 0.3,
+            "escape": 0.2
+          },
+          "sensory": {
+            "visual_intensity": 0.6,
+            "color_richness": 0.4,
+            "sound_intensity": 0.2,
+            "rhythm_energy": 0.35,
+            "atmosphere": 0.75,
+            "immersion": 0.5
+          }
+        },
+        "media_vector": {
+          "literature_vector": {
+            "literary_style": 0.65,
+            "language_artistry": 0.5,
+            "symbolism": 0.4,
+            "rhetorical_complexity": 0.3,
+            "intellectual_depth": 0.3,
+            "cultural_depth": 0.75,
+            "knowledge_density": 0.45,
+            "interpretation_openness": 0.5
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.25,
+            "explanation": "作品为客观纪异，叙述冷静简练，缺乏浓烈的情感宣泄或理想主义的激情，主要传达惊奇而非炽热的信念。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.1,
+            "explanation": "故事中多祸福无常、鬼物作祟，整体氛围诡异不安，不具有抚慰心灵的治愈特性。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.5,
+            "explanation": "神仙方术、超常异能以及灵异现象的描述，引起对超自然力量的惊奇与敬畏，但多数故事仍立足人间琐谈，敬畏感有限。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.15,
+            "explanation": "历史传说虽涉及过去，但无明显的怀旧或伤感追忆，主要服务于奇闻的叙述。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.3,
+            "explanation": "部分篇章寓含因果报应等道德教训，引发简单的是非思考，但并不过多引导深层自我反刍。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.2,
+            "explanation": "存在人神婚恋、人鬼幽情的情节，但叙述克制简略，浪漫情感并非主导体验。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.45,
+            "explanation": "部分鬼怪故事营造了恐怖、悬疑的紧张氛围，但因篇幅短小、收束迅速，紧绷感难以持久。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.15,
+            "explanation": "人伦温情极少是描写的重点，偶尔的善报与家庭团聚也以奇闻形式出现，缺乏情感渲染。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.2,
+            "explanation": "作品为第三人称的客观叙述，极少表现角色的孤立心境，孤独感并不凸显。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.1,
+            "explanation": "命运多由天定或冥冥力量掌控，人类努力常显无力，积极面向未来的希望感很弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.25,
+            "explanation": "叙述具体的事件与形象，极少使用抽象概念或象征体系，思维层面偏向直观和具象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.25,
+            "explanation": "单则故事线索单一，因果链简单，情节多为直线推进的奇闻，极少多线交织。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.3,
+            "explanation": "蕴含朴素的天人感应和善恶报应思想，但并不进行深入的哲学辨析，思想止于道德训诫。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.15,
+            "explanation": "各则故事独立成篇，全书是松散的故事集合，内部和相互之间没有严密的逻辑框架。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.8,
+            "explanation": "在当时文学环境中，集中收录并文学化地加工大量民间怪谈，开创了文言志怪小说的先河，新颖性很高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.5,
+            "explanation": "故事引领读者窥探一个与日常世界平行的神鬼领域，满足了认知上的探索欲，但缺乏系统性的探究。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.3,
+            "explanation": "多数故事寓意明确，或标明善恶之报，或指出精怪来历，含义模糊的篇章不多。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.4,
+            "explanation": "善有善报、恶有恶报的模式较为固定，但具体神鬼变幻的情节常有出人意料之处。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.35,
+            "explanation": "语言质朴，叙述简洁，不堆砌典故，单位文本承载的新概念或复杂信息偏少。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.6,
+            "explanation": "是了解魏晋民间信仰、社会心理和志怪文学源流的珍贵资料，具有一定的文化和历史认知价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.3,
+            "explanation": "人物多作为奇遇的承受者出现，缺乏深入的内心刻画，叙事重心在事件而非个人。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.4,
+            "explanation": "包含人神、人鬼、人与动物间的奇缘，但关系多为功能性的奇缘设定，缺乏细腻的情感发展。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.5,
+            "explanation": "故事背景涉及社会各阶层，间接反映了当时社会的信仰、风俗和道德观念。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.15,
+            "explanation": "没有探讨文明演进或历史变迁，关注点始终在孤立的奇闻怪事上。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.3,
+            "explanation": "偶尔涉及天界、幽冥，但大多作为单一故事的背景元素，没有构建完整的宇宙框架。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.15,
+            "explanation": "每则故事往往截取人生或奇遇的片段，时间跨度很短。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.9,
+            "explanation": "神仙、鬼怪、精灵、异术、复活等超自然元素是全书的核心内容，幻想程度极高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.15,
+            "explanation": "偶尔有善报的喜悦，但叙述平淡，欢愉不是主调。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.15,
+            "explanation": "悲剧因素如死亡、离别时有出现，但笔调客观冷静，不特意渲染伤感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.15,
+            "explanation": "故事中很少孤立个人的心理描写，社会性互动频繁（尽管是奇异的），孤独不突出。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.15,
+            "explanation": "人际关系功能性为主，缺乏温情的细腻刻画。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.35,
+            "explanation": "许多鬼怪灵异故事旨在引起惊惧和警觉，恐惧是重要的叙事效果之一，但多被猎奇心理冲淡。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.4,
+            "explanation": "情节转折突然，人鬼对峙时有紧张感，但短篇幅和套路化结局限制了紧张度的持续。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.5,
+            "explanation": "对神仙、异人和怪异现象的描写持续产生一种惊奇与敬畏交织的情感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.1,
+            "explanation": "没有怀旧或感伤的怀乡病，故事全然指向异于日常的另一重世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.1,
+            "explanation": "命运观念浓厚，人力改变现状的希望极微，多数结局由超自然力量裁定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.1,
+            "explanation": "缺乏那种绵长、诗意的忧伤，情感色彩偏冷。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.1,
+            "explanation": "不涉及强烈的社会批判或个人愤慨，怨怒情绪几乎不存在。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.15,
+            "explanation": "大部分故事以出人意料的情节打破日常平静，而非指向内在的平和。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.35,
+            "explanation": "语言简朴，不以辞藻华丽见长，美感更多来自故事的奇幻想象力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.7,
+            "explanation": "文笔极为洗练，往往数十字即完成一个完整故事，具有极简主义式的留白和高效。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.15,
+            "explanation": "对场景和服饰的奢华描写极少，重点在奇异事件本身。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.55,
+            "explanation": "鬼物、精怪、死亡、墓穴等阴暗母题大量存在，给全书蒙上幽暗色调。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.2,
+            "explanation": "少数神仙下凡或白日飞升的场景有光明感，但远非主流。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.5,
+            "explanation": "许多奇遇似真似幻，现实与梦境的界限模糊，带有梦幻色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.8,
+            "explanation": "未知的超自然力量、不可思议的事件构成了全书最核心的审美氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.3,
+            "explanation": "作为志怪小说的早期代表，有开创性，但单篇形式在同期并非绝无仅有。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.7,
+            "explanation": "文言短篇志怪是古代小说的基本范式之一，奠定了后世笔记体小说古典美的基础。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.1,
+            "explanation": "与现代艺术在主题和技法上基本没有交集。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.1,
+            "explanation": "情节为单一的奇异事件记录，绝少复杂的因果嵌套或转折。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.1,
+            "explanation": "人物形象高度类型化（孝子、术士、鬼女），几乎没有性格发展或心理深度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.05,
+            "explanation": "人物在经历奇遇后性格大多不变，缺乏成长轨迹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.55,
+            "explanation": "通过数百个零散故事，共同构建了一个人、神、鬼、怪混杂共存的、具规则性的想象世界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.85,
+            "explanation": "全书由完全独立的短篇组成，没有线性叙事，任何一篇都可以单独阅读，结构极为离散。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.15,
+            "explanation": "故事节奏快，叙事直接，不允许缓慢沉浸，更多是快速猎奇。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.3,
+            "explanation": "常有斩妖、斗法、变形等动作元素，但描写简略，不如后世武侠小说激烈。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.4,
+            "explanation": "人与鬼怪、人与命运之间存在冲突，但因篇幅小、结局快，冲突的张力受限。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.2,
+            "explanation": "提供的是民间道德和朴素信仰，没有达到系统哲学思辨的层次。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.25,
+            "explanation": "人物多作为道德范例，个性不突出，不强调个人独立价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.35,
+            "explanation": "故事中常见乡里、家族背景，反映了社群生活，但并非有意宣扬集体主义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.3,
+            "explanation": "孝道故事、人鬼夫妻等涉及家庭关系，但只作为故事载体，未深入情感肌理。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.2,
+            "explanation": "极少关于友谊的正面描写。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.3,
+            "explanation": "人神、人妖恋题材占相当比例，但情爱描写节制，奇情色彩浓于浪漫。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.4,
+            "explanation": "故事常发生在村落、城镇，有集体背景，但社区纽带的正面描写并不充分。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.15,
+            "explanation": "偶尔有斗法、比试，但竞争不是主要的关系模式。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.2,
+            "explanation": "人与神、人与动物之间偶有互助，但多属一方对另一方的施报。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.3,
+            "explanation": "神对人的支配、官吏对百姓的治理等权力关系有所体现，但浅尝辄止。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.2,
+            "explanation": "人物身份随奇遇而定，没有对自我认同的执着探求。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.15,
+            "explanation": "命运和天条往往不可违逆，个人自由意志薄弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.5,
+            "explanation": "大量故事强调天道秩序的不可抗拒，善恶有报是维护宇宙秩序的手段。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.25,
+            "explanation": "以纪异为目的，标榜实录，但重点不在探究真相，而在接受奇迹。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.15,
+            "explanation": "审美并非其追求，故事价值主要在奇异性和道德劝惩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.15,
+            "explanation": "少有通过努力成就功名的叙事，奇遇多为命中注定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.55,
+            "explanation": "因果报应主题非常突出，对善恶的奖惩构成了核心的价值引导。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.25,
+            "explanation": "有孝子、义士的牺牲故事（如李寄），但并不成为普遍强调的价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.1,
+            "explanation": "不涉及对内心世界的挖掘或个人道路的反思。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.6,
+            "explanation": "全书是对民间旧闻和传说的忠实整理，体现了对传统叙事和信仰的高度尊重。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.15,
+            "explanation": "不鼓励变革或打破常规，越界者常遭惩罚。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.35,
+            "explanation": "部分故事包含求生元素（如李寄斩蛇），但多依赖机智和外力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.2,
+            "explanation": "较少涉及对生命终极意义的追问，更关注具体命运的奇异展现。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.65,
+            "explanation": "整部书的诞生即源于对神怪之事的浓厚兴趣和记录欲，阅读行为本身也是好奇心的驱动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.3,
+            "explanation": "编纂和润色传说具有一定的创作性，但多数故事源出民间，原创性有限。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.35,
+            "explanation": "故事角色常踏入未知领域（深山、洞穴、冥界），进行有限度的冒险。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.15,
+            "explanation": "故事之后引发的道德思考浅层而短暂，不鼓励持续的内省。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.1,
+            "explanation": "竞争行为极少见。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.25,
+            "explanation": "人物仍处于社群网络之中，但叙述重心在奇遇本身，而非社交互动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.2,
+            "explanation": "偶有道术修炼的描写，但并不过分强调自律和刻苦。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.25,
+            "explanation": "与鬼怪打交道的行为本身充满风险，但角色常为被动卷入。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.3,
+            "explanation": "叙述语调本身是冷静客观的，但内容并不导向内心的宁静。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.2,
+            "explanation": "阅读志怪本身就是一种从日常进入幻想的短暂逃离，但并非作品主题。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.6,
+            "explanation": "对神怪形貌、异象变幻的描写激发了清晰的视觉想象，但文字本身不事铺张。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.4,
+            "explanation": "颜色词使用不多，氛围阴森多于鲜明。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.2,
+            "explanation": "很少刻画声音效果，听觉维度不突出。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.35,
+            "explanation": "短小篇目接连阅读时有跳跃感，但整体节奏平缓。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.75,
+            "explanation": "诡秘、幽玄的整体氛围营造得非常成功，是作品最鲜明的感官特征。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.5,
+            "explanation": "因其超自然主题，容易使人暂时脱离现实，但因篇幅短小和叙述简洁，沉浸感不深。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.literary_style",
+            "score": 0.65,
+            "explanation": "风格质朴简古，是典型的六朝笔记体文言小说，风格独特且具有代表性。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.language_artistry",
+            "score": 0.5,
+            "explanation": "不以词藻华美为目标，追求“实录”效果，语言艺术性中等。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.symbolism",
+            "score": 0.4,
+            "explanation": "故事有时直接点明道德寓意，较少使用复杂的象征和隐射。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+            "score": 0.3,
+            "explanation": "修辞手法简单，以白描和直叙为主。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+            "score": 0.3,
+            "explanation": "思想层面停留在民间智慧和朴素哲理，未进入深刻的抽象思辨。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.cultural_depth",
+            "score": 0.75,
+            "explanation": "作为社会思想的活化石，蕴含着极丰富的魏晋宗教、民俗、伦理信息。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.knowledge_density",
+            "score": 0.45,
+            "explanation": "虽涉及神异知识，但并非学术性著作，信息密度适中。"
+          },
+          {
+            "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+            "score": 0.5,
+            "explanation": "许多故事有多重解读可能（如神怪象征意义），但因寓意较显豁，开放度中等。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "阅读《搜神记》如同翻阅一本古老的异闻录，主导感受是接连不断的好奇与轻微的悚然。读者不断遭遇打破日常认知的怪异事件：亡者复生、动物吐人言、神仙临凡，每一则都激起对超自然领域窥探的欲望。情感基调偏冷，惊异多于感动，敬畏与不安并存。较少陷入深切的悲伤或热烈的欢喜，即便是人鬼恋情也叙述得克制疏离。道德上的慰藉来自于报应不爽的结局，但这种慰藉被命运的严酷所包裹。整体体验短暂而密集，缺乏持久的情感沉浸，最终留下的是一幅万物有灵、幽明相通的朦胧图景。",
+          "structure_description": "全书的组织结构极为松散，由数百则互不隶属的独立短篇构成。每一篇内部结构通常非常简洁：交代时间、地点、人物，叙述奇异事件的经过和结局，偶尔附加简短的议论。叙事节奏快，开门见山，在极短的篇幅内完成从平静到奇遇、再到收束的全过程。这种结构不追求情节的复杂和人物的丰满，而是依靠题材本身的奇异性和数量的堆叠来产生持续的吸引力。整体而言，它是一幅由无数志怪碎片拼贴而成的文化马赛克，结构本身即是其美学，体现了一种收集与陈列的原始乐趣。",
+          "cognitive_expression": "引导读者进行快速的情景转换和简单的因果联想。理解单个故事毫无难度，不需分析复杂的人物或情节网络。认知努力主要花在将每个故事归结为一个道德或命运的“格言”上。由于故事间互不相干，思维不断被重置，注意力很难保持长期聚焦，更多是一种浏览式的闲逸认知。它激发的是对外部世界奇异性的广泛收集欲，而不是对某一命题的深入加工。世界观方面，它反复强化一套朴素的天人感应逻辑，让人倾向于在偶发事件中寻找神秘的关联。",
+          "behavioral_tendency_description": "作品所鼓励的行为倾向是保持对世界的好奇和对未知的警觉。它奖励对奇闻异事的敏感性和收集习惯，并将这种猎奇行为合理化、知识化。在生活中，这可能体现为对反常现象的关注而非忽视，对命运暗示的警觉。同时，书中浓厚的因果报应叙事倾向于塑造一种谨慎的道德行为模式——克制恶行、施行善举，不是因为内在的道德激情，而是出于对超自然惩罚的畏惧。另一方面，它也使人在面对不可解之事时，倾向于接受而非抗争，形成一种敬而远之的适应性行为。"
+        },
+        "personality_affinity": {
+          "Ni": 0.3,
+          "Ne": 0.7,
+          "Ti": 0.25,
+          "Te": 0.2,
+          "Fi": 0.2,
+          "Fe": 0.35,
+          "Si": 0.6,
+          "Se": 0.35,
+          "openness": 0.8,
+          "conscientiousness": 0.25,
+          "extraversion": 0.2,
+          "agreeableness": 0.35,
+          "neuroticism": 0.35,
+          "Assertive": 0.45,
+          "Turbulent": 0.4
+        },
+        "supporting_evidence": [
+          "全书收录数百则短篇志怪故事，多为采集民间传说和旧籍记载而来。",
+          "内容涉及神仙（如《董永》）、鬼怪（如《宋定伯捉鬼》）、精灵异人等多种类型。",
+          "大量故事围绕因果报应展开，如害人者终得恶果，行善者得到神佑。",
+          "人神婚恋是常见母题，如《董永与七仙女》《弦超与知琼》等。",
+          "部分故事以动物报恩为主题，如《隋侯珠》《义犬》等。",
+          "著名篇章《干将莫邪》讲述了铸剑师之子为父报仇的悲壮传奇。",
+          "《李寄斩蛇》描写少女李寄主动献身、智斩大蛇的孝勇故事。",
+          "多则涉及道教方士、术士的奇异法术和预言能力。",
+          "文风简朴，大多以记实口吻叙述，鲜少铺陈辞藻。",
+          "原书已佚，今本为明代辑本，但仍保留了六朝志怪的基本面貌。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 6,
+      "remaining": 77,
+      "total": 83,
+      "currentContentId": "work_chn_1949_001",
+      "nextContentId": "work_chn_1949_002",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_1949_001",
+          "parentContentId": null,
+          "workId": "work_chn_1949_001",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "雪城",
+          "type": "NOVEL",
+          "countryName": "中国",
+          "year": 1988,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.8,
+          "primaryMediaType": "NOVEL"
+        },
+        "semantic": {
+          "summary": "《雪城》是梁晓声创作的长篇小说，1988年出版。作品以北大荒知青大规模返城为背景，聚焦姚玉慧、徐淑芳等知青在回到城市后所面临的生存困境与精神危机。他们曾将青春献给边疆，回城后却发现自己成了城市的边缘人，需要在住房、工作、婚姻等一系列现实压力下重新寻找位置。小说多线交织，以严峻的现实主义笔法刻画了知青一代在理想失落后的痛苦适应、人格挣扎与命运沉浮，同时也闪现着艰难环境中的坚韧与互助，是记录八十年代中国社会转型期阵痛的重要文学见证。",
+          "themes": [
+            "知青命运",
+            "理想与现实的冲突",
+            "城市生存压力",
+            "身份认同",
+            "一代人的失落",
+            "女性命运",
+            "精神挣扎",
+            "社会转型"
+          ],
+          "keywords": [
+            "梁晓声",
+            "北大荒",
+            "返城知青",
+            "1980年代",
+            "姚玉慧",
+            "徐淑芳",
+            "现实主义",
+            "理想失落",
+            "就业",
+            "住房"
+          ],
+          "core_experience": "小说带来的是混合着压抑、苦涩与坚韧的厚重体验。跟随人物在逼仄的现实中左冲右突，感受理想主义被日常生计碾碎的痛苦，以及面对不公时的愤懑与无力。同时，在人物之间的扶持和偶尔的希望中，又能体味到一丝人性的温暖。整体氛围沉郁，夹杂着对时代荒谬感的冷峻审视，最终导向一种在废墟之上重建生活的沉缓坚韧。",
+          "experience_introduction": "《雪城》以一群北大荒返城知青为主角，描绘了他们在1980年代城市中重新安身立命的艰难历程。故事沉重而写实，集中呈现了理想失落后的心理落差、就业与住房的重压，以及人际关系的复杂纠葛。情绪基调多为苦涩、压抑与愤懑，短暂的温情或希望往往被更顽固的现实困难所淹没。叙事节奏偏缓，用大量细节铺陈人物的生存挣扎和内心矛盾，读者需要在沉重的氛围中慢慢体会那个特殊群体的集体创伤与不屈。"
+        },
+        "experience_vector": {
+          "passion": 0.55,
+          "healing": 0.15,
+          "awe": 0.1,
+          "nostalgia": 0.65,
+          "reflection": 0.75,
+          "romance": 0.2,
+          "tension": 0.7,
+          "warmth": 0.3,
+          "loneliness": 0.6,
+          "hope": 0.35
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.4,
+            "complexity": 0.5,
+            "depth_of_thought": 0.65,
+            "logical_structure": 0.5,
+            "novelty": 0.5,
+            "exploration": 0.25,
+            "ambiguity": 0.3,
+            "predictability": 0.35,
+            "information_density": 0.6,
+            "learning_value": 0.7
+          },
+          "worldview": {
+            "personal_scale": 0.75,
+            "relationship_scale": 0.7,
+            "social_scale": 0.8,
+            "civilization_scale": 0.5,
+            "cosmic_scale": 0.1,
+            "time_span": 0.5,
+            "fantasy_level": 0.05
+          },
+          "emotion": {
+            "happiness": 0.1,
+            "sadness": 0.7,
+            "loneliness": 0.55,
+            "warmth": 0.3,
+            "fear": 0.25,
+            "tension": 0.65,
+            "awe": 0.05,
+            "nostalgia": 0.65,
+            "hope": 0.35,
+            "melancholy": 0.7,
+            "anger": 0.5,
+            "peace": 0.1
+          },
+          "aesthetic": {
+            "beauty": 0.3,
+            "minimalism": 0.45,
+            "luxury": 0.1,
+            "darkness": 0.7,
+            "brightness": 0.2,
+            "dreamlike": 0.1,
+            "mystery": 0.1,
+            "experimental": 0.2,
+            "classical": 0.6,
+            "modern": 0.4
+          },
+          "narrative": {
+            "plot_complexity": 0.55,
+            "character_depth": 0.75,
+            "character_growth": 0.6,
+            "world_building": 0.5,
+            "nonlinear_structure": 0.25,
+            "slow_immersion": 0.7,
+            "action_intensity": 0.15,
+            "conflict_intensity": 0.75,
+            "philosophical_depth": 0.55
+          },
+          "social_relationship": {
+            "individualism": 0.45,
+            "collectivism": 0.45,
+            "family": 0.5,
+            "friendship": 0.5,
+            "love": 0.4,
+            "community": 0.55,
+            "competition": 0.45,
+            "cooperation": 0.45,
+            "power_relationship": 0.6,
+            "identity": 0.8
+          },
+          "value": {
+            "freedom": 0.3,
+            "order": 0.3,
+            "truth": 0.5,
+            "beauty": 0.2,
+            "achievement": 0.5,
+            "justice": 0.55,
+            "sacrifice": 0.45,
+            "self_exploration": 0.55,
+            "tradition": 0.4,
+            "change": 0.5,
+            "survival": 0.75,
+            "meaning": 0.6
+          },
+          "behavior": {
+            "curiosity": 0.15,
+            "creation": 0.35,
+            "adventure": 0.15,
+            "reflection": 0.7,
+            "competition": 0.3,
+            "social": 0.45,
+            "discipline": 0.4,
+            "risk": 0.3,
+            "calm": 0.2,
+            "escape": 0.25
+          },
+          "sensory": {
+            "visual_intensity": 0.5,
+            "color_richness": 0.3,
+            "sound_intensity": 0.2,
+            "rhythm_energy": 0.35,
+            "atmosphere": 0.8,
+            "immersion": 0.7
+          }
+        },
+        "media_vector": {
+          "novel_vector": {
+            "literary_depth": 0.65,
+            "writing_style": 0.55,
+            "narrative_voice": 0.6,
+            "symbolism": 0.4,
+            "inner_monologue": 0.65,
+            "world_building_depth": 0.5
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.55,
+            "explanation": "人物在困境中仍保留着对更好生活的渴望和奋斗的热情，但这种激情被沉重的现实持续消耗，表现为一种隐忍的内驱力而非昂扬的奔放。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.15,
+            "explanation": "作品以呈现创伤和生存压力为主，氛围压抑，几乎没有抚慰或修复性元素。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.1,
+            "explanation": "聚焦城市底层生活和日常挣扎，没有宏伟景观或超凡力量，不能引发敬畏或惊叹。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.65,
+            "explanation": "人物时常回望北大荒的青春岁月，那里虽有苦难却也承载了他们的理想主义，这种对逝去时光的复杂怀念贯穿全书。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.75,
+            "explanation": "小说深刻反思了知青运动、个人命运与时代变迁的关系，引导读者对一代人的集体创伤进行审视。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.2,
+            "explanation": "虽有情感纠葛，但爱情在生存重压下退居次位，且常被现实磨损，浪漫感极弱。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.7,
+            "explanation": "求职、住房、人际冲突等持续的生存压力，以及与社会不公的对抗，构成了较长时间的紧张和焦虑。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.3,
+            "explanation": "部分人物之间相互扶持的情谊带来一抹暖色，但被整体的冰冷现实压抑，温暖是偶发的。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.6,
+            "explanation": "许多人物在心理上是孤立的，他们的痛苦和理想难以被外界理解，体现了城市边缘人的精神孤独。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.35,
+            "explanation": "尽管人物不断挣扎，但出路模糊，获得的改善有限，希望就像灰烬中的火星，微弱且不稳定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.4,
+            "explanation": "叙事扎根于具体的现实生活细节，思想内涵通过情节和人物境遇表现，较少进行形而上或抽象的思辨。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.5,
+            "explanation": "多线人物和事件的交织有一定复杂度，但主线清晰，为传统的现实主义叙事，不过分晦涩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.65,
+            "explanation": "对知青一代的命运、理想主义的消亡及社会转型的阵痛进行了较为深入的剖析，引发对历史与个人关系的思考。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.5,
+            "explanation": "情节推进遵循现实的时间线和因果逻辑，结构稳固但缺乏刻意的工整或推理式框架。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.5,
+            "explanation": "在1980年代的伤痕文学和知青文学思潮中，该书是重要的组成部分，主题具有时代新意，但艺术形式并非极端前卫。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.25,
+            "explanation": "叙事空间主要在城市内部，核心是对既定社会现实的适应而非探索未知，探索精神很弱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.3,
+            "explanation": "价值判断清晰，善恶及社会问题的呈现较为直接，没有留给读者过多的模棱两可空间。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.35,
+            "explanation": "现实主义小说注重性格与环境的必然逻辑，许多不幸的发展有其社会决定论的色彩，但并不完全是落俗套的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.6,
+            "explanation": "包含了丰富的社会生活细节、人物心路历程和时代背景信息，单位篇幅内传递的信息量较大。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.7,
+            "explanation": "为了解中国1980年代的社会转型、知青这一特殊群体的历史境遇提供了细致的文学范本。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.75,
+            "explanation": "深刻关注个体在时代洪流中的内心世界和命运走向，个人视角是叙事的重心。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.7,
+            "explanation": "人际关系是推动情节和展现人物命运的关键，包括亲情、爱情、友谊和复杂的利益交换。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.8,
+            "explanation": "全面呈现了特定历史时期的社会问题，如就业政策、住房分配、官僚主义等，有强烈的社会批判意识。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.5,
+            "explanation": "通过一个群体的命运折射出改革开放初期中国社会文明的转折，但没有宏观的文明史叙事。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.1,
+            "explanation": "完全局限在人类社会和历史层面，不涉及任何宇宙或超自然维度。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.5,
+            "explanation": "主要描写返城后的一段时光，跨度数年，不涉及漫长的历史更替。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.05,
+            "explanation": "纯粹的现实主义作品，没有任何超现实的幻想元素。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.1,
+            "explanation": "小说基调沉重，痛苦和挣扎压倒一切，几乎没有纯粹的快乐。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.7,
+            "explanation": "理想破灭、命运坎坷、生存艰辛，这些因素共同构成了弥漫的悲哀。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.55,
+            "explanation": "个体在对抗社会挤压时产生的精神孤立感强烈，内心世界无人理解的寂寞。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.3,
+            "explanation": "仅有少量来自亲友的关怀，且在残酷现实下显得脆弱无力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.25,
+            "explanation": "对未来的不确定和生存的威胁带来一定恐惧，但更多是焦虑和压抑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.65,
+            "explanation": "人与环境、人与人之间为了基本生存产生的摩擦不断，形成了持续的心理紧张。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.05,
+            "explanation": "内容着眼于凡俗苦乐，没有能让读者产生敬畏感的人或事。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.65,
+            "explanation": "对知青岁月混合着青春无悔与苦难的复杂怀旧，是小说的主要情感支柱之一。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.35,
+            "explanation": "人物不懈地为改善生活而努力，偶尔有转机，但总体上压抑的现实使希望黯淡。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.7,
+            "explanation": "一种挥之不去的、源于理想逝去和青春不再的深沉忧郁，构成了小说的情感底色。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.5,
+            "explanation": "对社会不公、命运捉弄存在明显的愤怒和控诉，但这种愤怒多内化为坚韧和批判。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.1,
+            "explanation": "内心始终在动荡中，没有达到平静和解的境界。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.3,
+            "explanation": "美学追求服务于现实主义的冷峻和粗粝，不以优美意境为目标。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.45,
+            "explanation": "笔法相对朴实、直白，不尚修饰，接近生活的本来面目，有一定极简风格。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.1,
+            "explanation": "描写的是底层平民生活，完全与奢华、精致绝缘。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.7,
+            "explanation": "整体色调阴暗沉重，充满失落、压抑和困苦的意象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.2,
+            "explanation": "偶尔出现的转机或温情仅如微光一闪，旋即被整体氛围吞没。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.1,
+            "explanation": "极端写实，没有任何梦幻或超现实色彩。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.1,
+            "explanation": "情节和主旨都是敞亮的批判与展示，不营造神秘感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.2,
+            "explanation": "遵循经典的现实主义叙事手法，结构上中规中矩，实验性不强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.6,
+            "explanation": "继承了十九世纪以来批判现实主义的文学传统，风格庄重。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.4,
+            "explanation": "关注当代社会问题，具有1980年代的现代意识，但形式是传统的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.55,
+            "explanation": "多头并进的人物线索构成了一定复杂的网状结构，但事件的因果关系是清晰的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.75,
+            "explanation": "对主要人物的心理挖掘细致，展现了他们在时代重压下复杂的内心矛盾和性格发展。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.6,
+            "explanation": "人物在痛苦的适应过程中，观念和生存哲学发生了演变，体现出明显的成长或蜕变。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.5,
+            "explanation": "真实还原了1980年代初的城市社会环境，但世界构建依附于现实，无需凭空创造。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.25,
+            "explanation": "基本按时间线叙事，偶尔有回忆插叙，整体结构是线性的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.7,
+            "explanation": "大量的生活细节和心理描写使阅读节奏偏慢，读者需耐心浸入其沉重的氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.15,
+            "explanation": "几乎没有戏剧性的外部动作或冒险，冲突多为心理层面和社会层面的角力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.75,
+            "explanation": "人与环境的对抗极为尖锐，人物之间的利益和观念冲突深刻，戏剧张力强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.55,
+            "explanation": "包含对存在意义、个人与历史关系的探讨，但出发点是社会问题，而非纯哲学。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.45,
+            "explanation": "个人奋斗和自我拯救是重要出路，但也展现了脱离集体的痛苦，个人主义并不彻底。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.45,
+            "explanation": "知青群体有集体身份认同，互相帮助很重要，但在返城后集体瓦解，个体各自为战。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.5,
+            "explanation": "家庭关系是重要的叙事单元，既有亲情的支撑，也有因生存压力产生的家庭矛盾。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.5,
+            "explanation": "过去的知青友谊在现实中遭受考验，有的坚固，有的破碎，是重要的情感纽带。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.4,
+            "explanation": "爱情多被现实条件（工作、户口、住房）所制约和扭曲，纯粹的爱情较少。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.55,
+            "explanation": "返城知青形成了一个特殊的利益和精神共同体，有强烈的内部认同感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.45,
+            "explanation": "在稀缺的城市资源面前，人与人之间存在求职、晋升等方面的竞争。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.45,
+            "explanation": "相互扶持是部分人物渡过难关的方式，合作在一些情节点上起到关键作用。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.6,
+            "explanation": "官僚主义、走后门、权力寻租等社会现象是人物困境的重要来源，权力关系描写深刻。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.8,
+            "explanation": "“知青”这一身份的失落与再寻找是小说的核心命题，每个人都面临着“我是谁”的重新界定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.3,
+            "explanation": "人物挣扎于基本生存，无暇追求精神或行动上的自由，自由是奢侈品。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.3,
+            "explanation": "社会转型期的无序和规则破坏让人物深受其害，对秩序的渴望存在但非主导价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.5,
+            "explanation": "以揭示现实真相、反对粉饰太平为己任，具有高度的历史真实性追求。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.2,
+            "explanation": "审美的价值被苦难和生存的迫切性所淹没。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.5,
+            "explanation": "人物渴望通过个人奋斗实现社会价值和经济独立，成就是重要的心理驱动力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.55,
+            "explanation": "对社会不公的愤怒和对公平的呼唤在小说中十分突出。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.45,
+            "explanation": "人物常为了家庭或爱人做出自我牺牲，这种品质被隐含地赞扬。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.55,
+            "explanation": "困境迫使他们不断审视自己的过去、现在和未来，有较深的内省过程。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.4,
+            "explanation": "既有对传统价值观（如家庭）的眷恋，也有在新环境下对旧有束缚的挣脱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.5,
+            "explanation": "整个社会在剧变，人物必须适应变化，改变是生存的前提，但这过程充满痛苦。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.75,
+            "explanation": "在社会夹缝中求生存是人物最基本和最强烈的驱动力，压倒一切。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.6,
+            "explanation": "在理想破碎后，为生活寻找新的意义支撑，是许多角色最终的内心诉求。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.15,
+            "explanation": "被现实重负压制，没有余裕和心境进行智识或经验上的好奇探索。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.35,
+            "explanation": "少数人物通过写作等方式表达自我，但创造不是群体的主流行为。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.15,
+            "explanation": "行为趋向保守和避险，任何冒险都可能带来更坏的境况。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.7,
+            "explanation": "对个人遭遇和时代悲剧的不断反思是人物最主要的精神活动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.3,
+            "explanation": "为生存被迫参与竞争，但并非乐在其中，更多是无奈之举。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.45,
+            "explanation": "建立和维持社会关系是获取资源、情感慰藉的主要途径，社交具有功利和情感双重性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.4,
+            "explanation": "艰苦奋斗需要一定的自律，但人物常被环境推着走，主动的纪律性不强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.3,
+            "explanation": "偶尔会为了改变命运而采取冒险行动（如抗争、创业），但多在保障较低的情况下。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.2,
+            "explanation": "内心充满焦虑和愤懑，难以保持冷静和泰然。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.25,
+            "explanation": "沉溺于对过去的回忆是一种心理逃避，但没有真正的逃离现实。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.5,
+            "explanation": "对城市和人物的描写具有画面感，但不追求强烈的视觉奇观。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.3,
+            "explanation": "色调灰暗单一，缺乏斑斓的色彩描写。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.2,
+            "explanation": "很少对声音进行特意渲染，声音环境自然平常。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.35,
+            "explanation": "叙事节奏沉重缓慢，符合其压抑的基调，能量偏低。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.8,
+            "explanation": "成功地营造了一种压抑、灰暗、令人喘不过气的时代氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.7,
+            "explanation": "强烈的现实感和共情使读者容易沉浸于人物的命运之中。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.literary_depth",
+            "score": 0.65,
+            "explanation": "对时代症结的剖析和人物命运的书写具有相当的文学分量。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.writing_style",
+            "score": 0.55,
+            "explanation": "文风朴实有力，适合表现其沉重的主题，个人风格鲜明但非华丽。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.narrative_voice",
+            "score": 0.6,
+            "explanation": "多采用第三人称有限视角，贴近不同人物的心理，叙述声音充满同情和批判。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.symbolism",
+            "score": 0.4,
+            "explanation": "“雪城”等意象具有一定象征色彩，但整体是写实的，不依赖符号体系。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.inner_monologue",
+            "score": 0.65,
+            "explanation": "大量使用人物的内心独白和心理分析，展现其复杂的精神世界。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.world_building_depth",
+            "score": 0.5,
+            "explanation": "忠实复原了一个特定时代的社会截面，但缺乏对虚构世界体系的构建。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "小说带来的核心体验是直面粗粝现实的沉重感。青春的理想被繁琐的谋生和无处不在的社会壁垒消磨，处处碰壁的焦灼与愤懑压得人透不过气。人物之间的关系充满了爱、互助但也混杂着利益计算和彼此伤害，使温暖总是带着苦涩。回到城市的“家”却成了边缘人，这种归属感的缺失造成了深刻的精神漂泊与孤独。然而，在无望的境地里，仍有不肯屈服的求生意志闪烁，这种坚韧不拔的挣扎带来了唯一的悲剧性振奋。最终，体验不是解放或净化，而是对一代人沉重步履的深刻理解与默然共鸣。",
+          "structure_description": "小说采用多人物、多线索的网状叙事结构，以姚玉慧、徐淑芳等人的命运为轴心，平行展开各自的生存斗争，并穿插群像式的其他知青遭遇。结构通过空间的切换（家庭、单位、社交场所）和事件（就业机会、感情波折、权力斗争）来推动，回叙北大荒岁月的片段与现实不断对比，强化了理想与现实的落差。叙事节奏上，着重于慢速的心理写实和细节堆叠，冲突逐步积累，少有爆发性的高潮，在沉缓的推进中累积悲剧性力量，形成了一种厚重、密实的现实织体。",
+          "cognitive_expression": "作品引导读者去理解一代人的集体创伤是如何在具体的社会机制和个人选择中形成的。信息组织方式偏向经验化和情绪化，通过大量艰辛生活的细节和内心独白，要求读者进行深度的共情投入，而非超然的逻辑分析。理解人物行为需要不断联系他们的过去（知青经历）和现在（社会压力），将个体的苦难归因于结构性矛盾，这培养了系统性思考社会问题的倾向。由于基调阴暗、情节重复挫败，阅读也需要较强的情绪调节能力，以承受持续的心理重压而不至于麻木。",
+          "behavioral_tendency_description": "在困境中，作品鼓励的是务实的忍耐和相互依存的团结。它奖励在严酷环境中仍保持道德底线和对他人的同理心，并倡导通过持续不断的微小努力来改善处境。竞争被描绘成被迫的、腐蚀人性的，而合作则带来微弱的希望。主导的行为倾向不是浪漫的革命或逃离，而是在既有规则下寻找缝隙的韧性与生存智慧。同时，对过去的不断反思和对社会不公的清醒认识，被呈现为一种保持人性尊严的必要内在活动，而不只是被动的受苦。"
+        },
+        "personality_affinity": {
+          "Ni": 0.5,
+          "Ne": 0.2,
+          "Ti": 0.35,
+          "Te": 0.5,
+          "Fi": 0.65,
+          "Fe": 0.55,
+          "Si": 0.7,
+          "Se": 0.15,
+          "openness": 0.45,
+          "conscientiousness": 0.5,
+          "extraversion": 0.3,
+          "agreeableness": 0.5,
+          "neuroticism": 0.8,
+          "Assertive": 0.25,
+          "Turbulent": 0.8
+        },
+        "supporting_evidence": [
+          "以北大荒知青大规模返城为历史背景，真实再现了1980年代初的社会状况。",
+          "主要人物姚玉慧、徐淑芳等面临严峻的就业和住房问题。",
+          "人物在北大荒度过的青春不断在回忆中出现，与现实形成强烈对比。",
+          "描写了返城知青成为城市边缘人群，受到体制和人际关系的多重排斥。",
+          "展现了知青群体内部的友谊与情感，既有真诚互助也有利益冲突。",
+          "涉及家庭关系中的矛盾，如因居住拥挤和经济拮据引发的家庭纠纷。",
+          "揭示了权力寻租、任人唯亲等当时的社会弊端。",
+          "人物的内心独白和心理描写占据大量篇幅，深入挖掘其精神挣扎。",
+          "整体语言风格朴实、冷峻，带有强烈的批判现实主义色彩。",
+          "小说标题“雪城”本身即是一个隐喻，象征着寒冷、纯洁但难以生存的城市空间。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  },
+  {
+    "processingState": {
+      "processed": 7,
+      "remaining": 76,
+      "total": 83,
+      "currentContentId": "work_chn_1949_002",
+      "nextContentId": "work_chn_1949_003",
+      "isCompleted": false
+    },
+    "items": [
+      {
+        "basic": {
+          "contentId": "work_chn_1949_002",
+          "parentContentId": null,
+          "workId": "work_chn_1949_002",
+          "sourceType": "CULTURAL_WORK",
+          "dataOrigin": "PROVIDED",
+          "isSynthetic": false,
+          "name": "人世间",
+          "type": "NOVEL",
+          "countryName": "中国",
+          "year": 2017,
+          "ontologyVersion": "v1.0",
+          "promptVersion": "CPR-1.6",
+          "annotationModelVersion": "ACTUAL_MODEL_VERSION",
+          "generatorDate": "2026-07-18",
+          "evidenceVersion": "v1.0",
+          "annotationLanguage": "zh-CN",
+          "confidence": 0.9,
+          "primaryMediaType": "NOVEL"
+        },
+        "semantic": {
+          "summary": "《人世间》是梁晓声2017年出版的长篇小说，获第十届茅盾文学奖。小说以东北某城市平民社区“光字片”为背景，通过周家三兄妹周秉义、周蓉、周秉昆等十几位平民子弟的人生轨迹，全景式展现了中国社会自1970年代以来的巨大变迁。作品时间跨度长达五十年，涉及知青返城、三线建设、改革开放、国企改制、下岗潮、棚户区改造等重大历史事件，在宏阔的时代背景下，于平凡人的日常生活与亲情、友情、爱情中挖掘人性的温暖与坚韧，塑造了一群在苦难中相濡以沫、坚守良善的小人物群像，被誉为“五十年中国百姓生活史”。",
+          "themes": [
+            "家庭伦理",
+            "时代变迁",
+            "平民史诗",
+            "亲情与友情",
+            "苦难与坚韧",
+            "道德坚守",
+            "成长与责任",
+            "城市底层生活",
+            "代际关系",
+            "人性温暖"
+          ],
+          "keywords": [
+            "梁晓声",
+            "光字片",
+            "周家兄妹",
+            "知青",
+            "改革开放",
+            "棚户区改造",
+            "平民视角",
+            "现实主义",
+            "茅盾文学奖",
+            "东北",
+            "1970年代至今"
+          ],
+          "core_experience": "小说带领读者走过五十年的中国社会变迁，以家人般的亲切目光注视一群普通人的生老病死、爱恨情仇。核心体验是在巨大时代洪流中感受个体命运的微光——苦难频繁降临，但亲情和邻里温情如同暗夜中的灯火，持续提供着前行的力量。整体基调是暖中带涩的，在一次次悲欢离合后，沉淀下来的不是绝望，而是对善良的坚定信仰和对朴素生活的深沉敬意。",
+          "experience_introduction": "《人世间》是梁晓声的长篇巨著，以东北平民社区“光字片”的周家三兄妹为主角，讲述他们从上世纪70年代到新世纪五十多年间的人生沉浮。小说如一幅工笔长卷，细致描绘了知青返城、国企改革、棚户区拆迁等社会变革如何深刻影响普通人的命运。故事中既有亲人之间的扶持与羁绊，也有贫困、疾病和不公带来的沉重打击，情绪在苦涩与温情之间反复摆动。整体节奏舒缓，情感细节丰富，虽然苦难不断，但亲情和友情如同基石，稳稳托住了生活的全部重量，让人在漫长的阅读中感受到坚韧与善意的力量。"
+        },
+        "experience_vector": {
+          "passion": 0.55,
+          "healing": 0.65,
+          "awe": 0.15,
+          "nostalgia": 0.7,
+          "reflection": 0.75,
+          "romance": 0.3,
+          "tension": 0.55,
+          "warmth": 0.75,
+          "loneliness": 0.45,
+          "hope": 0.6
+        },
+        "psychology_vector": {
+          "cognitive": {
+            "abstractness": 0.35,
+            "complexity": 0.6,
+            "depth_of_thought": 0.65,
+            "logical_structure": 0.45,
+            "novelty": 0.4,
+            "exploration": 0.2,
+            "ambiguity": 0.3,
+            "predictability": 0.3,
+            "information_density": 0.65,
+            "learning_value": 0.8
+          },
+          "worldview": {
+            "personal_scale": 0.8,
+            "relationship_scale": 0.85,
+            "social_scale": 0.9,
+            "civilization_scale": 0.7,
+            "cosmic_scale": 0.1,
+            "time_span": 0.85,
+            "fantasy_level": 0.05
+          },
+          "emotion": {
+            "happiness": 0.4,
+            "sadness": 0.7,
+            "loneliness": 0.4,
+            "warmth": 0.75,
+            "fear": 0.25,
+            "tension": 0.55,
+            "awe": 0.1,
+            "nostalgia": 0.7,
+            "hope": 0.6,
+            "melancholy": 0.65,
+            "anger": 0.25,
+            "peace": 0.4
+          },
+          "aesthetic": {
+            "beauty": 0.5,
+            "minimalism": 0.35,
+            "luxury": 0.1,
+            "darkness": 0.45,
+            "brightness": 0.45,
+            "dreamlike": 0.1,
+            "mystery": 0.1,
+            "experimental": 0.15,
+            "classical": 0.7,
+            "modern": 0.5
+          },
+          "narrative": {
+            "plot_complexity": 0.65,
+            "character_depth": 0.85,
+            "character_growth": 0.8,
+            "world_building": 0.6,
+            "nonlinear_structure": 0.3,
+            "slow_immersion": 0.75,
+            "action_intensity": 0.15,
+            "conflict_intensity": 0.65,
+            "philosophical_depth": 0.55
+          },
+          "social_relationship": {
+            "individualism": 0.4,
+            "collectivism": 0.6,
+            "family": 0.9,
+            "friendship": 0.75,
+            "love": 0.65,
+            "community": 0.8,
+            "competition": 0.3,
+            "cooperation": 0.7,
+            "power_relationship": 0.4,
+            "identity": 0.6
+          },
+          "value": {
+            "freedom": 0.35,
+            "order": 0.4,
+            "truth": 0.5,
+            "beauty": 0.35,
+            "achievement": 0.5,
+            "justice": 0.45,
+            "sacrifice": 0.65,
+            "self_exploration": 0.5,
+            "tradition": 0.7,
+            "change": 0.6,
+            "survival": 0.6,
+            "meaning": 0.7
+          },
+          "behavior": {
+            "curiosity": 0.2,
+            "creation": 0.35,
+            "adventure": 0.15,
+            "reflection": 0.65,
+            "competition": 0.2,
+            "social": 0.7,
+            "discipline": 0.55,
+            "risk": 0.25,
+            "calm": 0.4,
+            "escape": 0.15
+          },
+          "sensory": {
+            "visual_intensity": 0.55,
+            "color_richness": 0.45,
+            "sound_intensity": 0.25,
+            "rhythm_energy": 0.4,
+            "atmosphere": 0.8,
+            "immersion": 0.8
+          }
+        },
+        "media_vector": {
+          "novel_vector": {
+            "literary_depth": 0.7,
+            "writing_style": 0.6,
+            "narrative_voice": 0.7,
+            "symbolism": 0.4,
+            "inner_monologue": 0.55,
+            "world_building_depth": 0.7
+          }
+        },
+        "vector_facts": [
+          {
+            "dimensionPath": "experience_vector.passion",
+            "score": 0.55,
+            "explanation": "人物对家庭、对改善生活有持久的内驱力，但这种激情内敛于日复一日的辛劳和责任中，并非昂扬的爆发。"
+          },
+          {
+            "dimensionPath": "experience_vector.healing",
+            "score": 0.65,
+            "explanation": "尽管苦难不断，但亲情、友情和邻里之间的温情提供了强大的心理支撑，使得小说具有显著的抚慰和修复性。"
+          },
+          {
+            "dimensionPath": "experience_vector.awe",
+            "score": 0.15,
+            "explanation": "叙事焦点始终在人伦日常，不涉及宏大奇观或超越性力量，敬畏感非常微弱。"
+          },
+          {
+            "dimensionPath": "experience_vector.nostalgia",
+            "score": 0.7,
+            "explanation": "跨越五十年的回望视角，使得对逝去时代、青春和旧式人情味的怀旧成为贯穿始终的浓烈底色。"
+          },
+          {
+            "dimensionPath": "experience_vector.reflection",
+            "score": 0.75,
+            "explanation": "小说通过个体命运深刻反思了时代变迁的代价与收获，引导读者对人生价值和社会演进进行深入思考。"
+          },
+          {
+            "dimensionPath": "experience_vector.romance",
+            "score": 0.3,
+            "explanation": "爱情是人物生命的一部分，但通常被置于家庭责任和生存现实之后，浪漫色彩相对温和。"
+          },
+          {
+            "dimensionPath": "experience_vector.tension",
+            "score": 0.55,
+            "explanation": "经济困顿、亲人病痛、社会变动带来持续性压力，但常有情感纽带作为缓冲，因此紧绷之中有舒缓。"
+          },
+          {
+            "dimensionPath": "experience_vector.warmth",
+            "score": 0.75,
+            "explanation": "家庭内部的相互扶助、邻里之间的肝胆相照是小说最突出的正面情感，提供了源源不断的暖意。"
+          },
+          {
+            "dimensionPath": "experience_vector.loneliness",
+            "score": 0.45,
+            "explanation": "人物大多处于关系网中，但精神层面仍有不为人知的孤独角落，尤其在遭遇重大打击时。"
+          },
+          {
+            "dimensionPath": "experience_vector.hope",
+            "score": 0.6,
+            "explanation": "尽管命运多舛，小说整体上传达出一种“日子总会好起来”的朴素信念，结尾给予了较为明亮的展望。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.abstractness",
+            "score": 0.35,
+            "explanation": "思想蕴含在具体的生活细节和人物对话中，极少进行脱离实际的抽象议论。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.complexity",
+            "score": 0.6,
+            "explanation": "人物众多，时间线长，事件交织，构成了一定的认知复杂度，但因遵循自然时间，可理解性依然较高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+            "score": 0.65,
+            "explanation": "对时代与个人、善良与生存、苦难与尊严之间的关系做了比较深入的思考和挖掘。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.logical_structure",
+            "score": 0.45,
+            "explanation": "以编年史方式推进，结构依靠时间流动，因果关系自然呈现，但缺乏严密的逻辑论证骨架。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.novelty",
+            "score": 0.4,
+            "explanation": "在平民史诗书写这一传统中，其视角和体量有独到之处，但文学形式本身较为传统，创新性中等。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.exploration",
+            "score": 0.2,
+            "explanation": "故事基本围绕固定的社区和人物，鲜少涉及对未知领域或思想的主动探索。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.ambiguity",
+            "score": 0.3,
+            "explanation": "善恶、是非的界限较为分明，作者的情感倾向和价值判断明确，留给读者的歧义空间不大。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.predictability",
+            "score": 0.3,
+            "explanation": "人物命运在时代背景下有一定必然性，但具体情节常有出人意料之处，不完全落入俗套。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.information_density",
+            "score": 0.65,
+            "explanation": "承载了巨量的社会变迁细节、人物生平和时代印记，信息密度相当高。"
+          },
+          {
+            "dimensionPath": "psychology_vector.cognitive.learning_value",
+            "score": 0.8,
+            "explanation": "作为一部中国社会五十年变迁的文学镜像，具有极高的历史认知和人生智慧学习价值。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.personal_scale",
+            "score": 0.8,
+            "explanation": "始终聚焦于个人的内心体验、道德选择和情感世界，个人是叙述的核心。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.relationship_scale",
+            "score": 0.85,
+            "explanation": "亲情、爱情、友情等关系网络是驱动所有人物行动和情节发展的根本动力。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.social_scale",
+            "score": 0.9,
+            "explanation": "小说有意识地通过“光字片”的变迁来勾画整个中国社会的阶层、政策和文化变革，社会视野极为开阔。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.civilization_scale",
+            "score": 0.7,
+            "explanation": "半个世纪的时间跨度涵盖了从农业社会遗存到现代都市文明的深刻转型，具备文明史的潜意识。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+            "score": 0.1,
+            "explanation": "完全局限于人世间，不涉及任何宇宙或超自然维度的探讨。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.time_span",
+            "score": 0.85,
+            "explanation": "从上世纪70年代到新世纪初，跨越近五十年的漫长光阴，时间跨度极长。"
+          },
+          {
+            "dimensionPath": "psychology_vector.worldview.fantasy_level",
+            "score": 0.05,
+            "explanation": "极端的现实主义，无任何幻想成分。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.happiness",
+            "score": 0.4,
+            "explanation": "在团聚、婚嫁、改善生活等时刻有真实的喜悦，但常伴有隐忧，不是单纯的快乐。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.sadness",
+            "score": 0.7,
+            "explanation": "疾病、死亡、分离、贫困等带来的悲伤如影随形，是小说沉重感的主要来源。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.loneliness",
+            "score": 0.4,
+            "explanation": "虽然身处人群，但角色在困境中常有心事无人可诉的孤寂感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.warmth",
+            "score": 0.75,
+            "explanation": "亲情和友情提供的温暖是全书最核心的情感力量，中和了苦难的冰冷。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.fear",
+            "score": 0.25,
+            "explanation": "对变故的担忧存在，但人物的坚韧和互助使得恐惧感不占主导。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.tension",
+            "score": 0.55,
+            "explanation": "生存压力和突发事件带来阶段性紧张，但舒缓的家庭氛围常有释放作用。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.awe",
+            "score": 0.1,
+            "explanation": "描写的世界是彻底世俗化的，没有引发敬畏的对象。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.nostalgia",
+            "score": 0.7,
+            "explanation": "回忆往昔是重要的情感线索，对逝去的人情社会深怀眷恋。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.hope",
+            "score": 0.6,
+            "explanation": "即使身处谷底，人物也大多对未来抱有朴素的期待，结局透露出向好的趋势。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.melancholy",
+            "score": 0.65,
+            "explanation": "回望一生时的苍凉感和对青春易逝的叹息，构成了持久的惆怅氛围。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.anger",
+            "score": 0.25,
+            "explanation": "对社会不公和道德败坏偶有义愤，但更多化为无奈和坚韧，愤怒表现得不极端。"
+          },
+          {
+            "dimensionPath": "psychology_vector.emotion.peace",
+            "score": 0.4,
+            "explanation": "历经沧桑后，部分人物抵达了某种内心的平和与接受，成为终局的宁静力量。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.beauty",
+            "score": 0.5,
+            "explanation": "在描写人情温暖和生活细节时富有朴素的诗意，但整体不刻意追求形式美。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.minimalism",
+            "score": 0.35,
+            "explanation": "篇幅宏大，描写细致，并非极简风格，而是一种厚实的写实。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.luxury",
+            "score": 0.1,
+            "explanation": "聚焦底层平民，与奢华生活方式完全无关。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.darkness",
+            "score": 0.45,
+            "explanation": "大量篇幅涉及贫困、死亡、不公，色调偏暗，但被温情的亮光所调和。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.brightness",
+            "score": 0.45,
+            "explanation": "生活中的小确幸、人性的闪光点带来了平衡性的明亮感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+            "score": 0.1,
+            "explanation": "极度写实，无任何梦幻或朦胧的超现实感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.mystery",
+            "score": 0.1,
+            "explanation": "情节和主题都是敞亮的，不营造神秘。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.experimental",
+            "score": 0.15,
+            "explanation": "文学手法十分正统，无形式上的实验性。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.classical",
+            "score": 0.7,
+            "explanation": "是19世纪以来长篇现实主义小说传统的当代继承，具有古典的宏大叙事美感。"
+          },
+          {
+            "dimensionPath": "psychology_vector.aesthetic.modern",
+            "score": 0.5,
+            "explanation": "主题和内容完全是当代的，但表达手法是偏传统的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.plot_complexity",
+            "score": 0.65,
+            "explanation": "多条人物线和事件交织成密集的网络，但时间线主导，复杂而不混乱。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_depth",
+            "score": 0.85,
+            "explanation": "对几代人物进行了立体而细致的雕刻，深入其内心矛盾与道德思考。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.character_growth",
+            "score": 0.8,
+            "explanation": "人物在数十年的磨砺中，性格、价值观和人生境界发生了明显的演变和成熟。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.world_building",
+            "score": 0.6,
+            "explanation": "对“光字片”及其周边环境进行了详尽构建，但世界依附于真实的东北城市历史。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+            "score": 0.3,
+            "explanation": "基本按照编年顺序推进，偶有倒叙、插叙，整体是线性的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.slow_immersion",
+            "score": 0.75,
+            "explanation": "规模庞大，生活流细节丰富，要求读者有耐心，慢慢沉浸在人物的命运长河中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.action_intensity",
+            "score": 0.15,
+            "explanation": "缺乏外部动作和戏剧性对抗，冲突内化于生活琐碎与心理之中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+            "score": 0.65,
+            "explanation": "人与贫困、疾病、时代、人际矛盾的冲突连绵不绝，内在冲突力很强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+            "score": 0.55,
+            "explanation": "探讨了人为什么而活、怎样活才是有意义的，但表达方式是感性的、叙事的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.individualism",
+            "score": 0.4,
+            "explanation": "个人奋斗是重要的，但个人价值更多地通过为家庭、为他人付出来彰显。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.collectivism",
+            "score": 0.6,
+            "explanation": "家族观念、邻里互助的集体主义精神是“光字片”社会生态的基石。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.family",
+            "score": 0.9,
+            "explanation": "家庭是整部作品的核心与归宿，所有的行为动机和价值判断几乎都围绕着家庭。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.friendship",
+            "score": 0.75,
+            "explanation": "超出血缘的兄弟情、姐妹情、邻里情极其坚固，是人物重要的精神支撑。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.love",
+            "score": 0.65,
+            "explanation": "爱情多转化为患难与共的亲情，浪漫爱在现实重压下变得深沉而坚实。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.community",
+            "score": 0.8,
+            "explanation": "“光字片”本身就是一个命运共同体，社区凝聚力和归属感极强。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.competition",
+            "score": 0.3,
+            "explanation": "外部社会存在竞争，但在核心人际圈内，互助远大于竞争。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.cooperation",
+            "score": 0.7,
+            "explanation": "面对困境时，共同承担责任、合力应对是基本生存法则。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+            "score": 0.4,
+            "explanation": "有底层与体制的摩擦，但权力关系不是探讨的核心，更关注民间伦理。"
+          },
+          {
+            "dimensionPath": "psychology_vector.social_relationship.identity",
+            "score": 0.6,
+            "explanation": "人物的自我认同与家庭出身、工人身份等紧密结合，时代变迁中身份也在流转。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.freedom",
+            "score": 0.35,
+            "explanation": "为家庭和道义所束缚的自由，人物很少纯粹地追求个人自由。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.order",
+            "score": 0.4,
+            "explanation": "对安稳生活的渴望体现出对秩序的需求，但剧烈变化的社会本身是失序的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.truth",
+            "score": 0.5,
+            "explanation": "追求真实地面对人生、真诚地对待他人，是人物评价体系中的重要砝码。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.beauty",
+            "score": 0.35,
+            "explanation": "在粗砺生活中偶有对美的敏感，但并非刻意追求的价值目标。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.achievement",
+            "score": 0.5,
+            "explanation": "考上大学、改善家境等是人物努力的方向，但精神上的成就更受推崇。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.justice",
+            "score": 0.45,
+            "explanation": "对公平有渴望，但小说更强调在非正义环境中如何守住内心正义。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.sacrifice",
+            "score": 0.65,
+            "explanation": "为家庭、为爱人、为朋友自我牺牲是小说中被高度歌颂的品质。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.self_exploration",
+            "score": 0.5,
+            "explanation": "在漫长的人生中，人物逐渐认清自己，这种自知是通过生活本身获得的。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.tradition",
+            "score": 0.7,
+            "explanation": "传统家庭伦理、人情观念在书中占据价值高地，是抵御现代性冲击的精神堡垒。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.change",
+            "score": 0.6,
+            "explanation": "必须适应时代的巨变，接受变化是生存的前提，尽管对变化的态度复杂。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.survival",
+            "score": 0.6,
+            "explanation": "在贫困和动荡中顽强活下去是第一位的，但并非动物性的，而是有尊严的生存。"
+          },
+          {
+            "dimensionPath": "psychology_vector.value.meaning",
+            "score": 0.7,
+            "explanation": "在平凡的劳动、为家人的付出中找到了坚实的人生意义，是作品的核心启示。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.curiosity",
+            "score": 0.2,
+            "explanation": "除了少数知识分子角色，多数人受限于生存环境，没有旺盛的求知和探索欲。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.creation",
+            "score": 0.35,
+            "explanation": "更多是传承与重复，创造性的劳动较少，但通过双手建设家园也是一种创造。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.adventure",
+            "score": 0.15,
+            "explanation": "冒险是被排斥的，安土重迁，求稳是第一选择。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.reflection",
+            "score": 0.65,
+            "explanation": "人物在苦难和变故中不断对生命进行反思，内省是重要的精神活动。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.competition",
+            "score": 0.2,
+            "explanation": "竞争多在外部环境，核心圈层内部的竞争被道德所抑制。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.social",
+            "score": 0.7,
+            "explanation": "走亲戚、串门、互助等密切的社交行为是生活的必需品和润滑剂。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.discipline",
+            "score": 0.55,
+            "explanation": "长期坚守岗位、照料家庭需要极强的责任心和自律精神。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.risk",
+            "score": 0.25,
+            "explanation": "偏好安全稳定的路径，极少主动承担风险。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.calm",
+            "score": 0.4,
+            "explanation": "在风浪中不乏镇定坚韧的表现，但内心也常有波澜。"
+          },
+          {
+            "dimensionPath": "psychology_vector.behavior.escape",
+            "score": 0.15,
+            "explanation": "直面人生、不逃避是普遍的态度，放弃责任和逃离现场会受到严厉的道德谴责。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.visual_intensity",
+            "score": 0.55,
+            "explanation": "对场景和人物有细致的描绘，画面感较强，但不追求震撼性的视觉冲击。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.color_richness",
+            "score": 0.45,
+            "explanation": "色彩上偏向怀旧的暖黄和现实的灰白，丰富度适中。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.sound_intensity",
+            "score": 0.25,
+            "explanation": "少有突出的声音描写，听觉层面较为平淡。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+            "score": 0.4,
+            "explanation": "叙事节奏如舒缓的流水，能量不高但持久稳定。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.atmosphere",
+            "score": 0.8,
+            "explanation": "成功营造了一个既有烟火气、又饱含沧桑的时代氛围，非常浓烈。"
+          },
+          {
+            "dimensionPath": "psychology_vector.sensory.immersion",
+            "score": 0.8,
+            "explanation": "极易让读者进入那个时代和人物命运之中，产生强烈的代入感和情感共鸣。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.literary_depth",
+            "score": 0.7,
+            "explanation": "对时代本质和人性深处有深刻的洞察，承载了厚重的思想内容。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.writing_style",
+            "score": 0.6,
+            "explanation": "语言朴素而厚重，没有炫技，但力透纸背，风格与内容高度统一。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.narrative_voice",
+            "score": 0.7,
+            "explanation": "叙事者温暖、宽厚，带着对人物深深的理解与悲悯，有鲜明的个人调性。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.symbolism",
+            "score": 0.4,
+            "explanation": "整体是写实的，不依赖复杂的象征系统，偶有具象征意味的细节。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.inner_monologue",
+            "score": 0.55,
+            "explanation": "有一定程度的心理活动描写，但不如意识流小说那么密集，叙述以外部细节为主。"
+          },
+          {
+            "dimensionPath": "media_vector.novel_vector.world_building_depth",
+            "score": 0.7,
+            "explanation": "将“光字片”打造成了中国当代社会的一个微型景观，世界构建的深度和广度很高。"
+          }
+        ],
+        "experience_vector_summary": {
+          "experience_description": "读者被邀请进入“光字片”这个充满人情味的平民世界，几十年来与周家人一同经历生老病死、离合悲欢。核心情感体验是“温暖中的苦涩”：苦难不断——贫穷、病痛、分离、不公——但总被亲情、爱情和友情的浓烈暖意所包裹和拯救。怀旧与希望交织，对逝去时代的温柔回望，对冲了当下变迁的失落。愤怒和激烈的紧张被内敛的道德力量软化，更多的是一种沉甸甸的感动和对平凡坚韧的敬意。最终，不是悲剧的净化，而是一种对“活着”本身的深深的、平静的敬畏。",
+          "structure_description": "小说采用编年史式的线性结构，以周家三兄妹的命运为经，以时代事件为纬，织成一张巨大的平民生活画卷。时间从1970年代延伸到新世纪，空间的中心始终是“光字片”及其衍生之处。结构的力量在于累积：无数个生活流细节、日常对话、节庆与危机交替出现，没有刻意的戏剧高潮，却如涓涓细流汇成江河。插叙的回忆和不同角色的视角切换提供了喘息和反思的间隙，整体节奏张弛有度，在漫长的叙事中建构起难以撼动的真实感和亲密感。",
+          "cognitive_expression": "引导读者进行以人物为中心、以时间为线索的联想式理解。需要处理的信息量大但组织清晰：跟随多个角色的成长，记住他们的关系网，并将个体的选择与宏观社会背景联系起来。认知的挑战不在于解读晦涩的象征，而在于情感记忆的负载和道德判断的介入——读者不断被邀请去评判人物的善恶、理解他们的无奈。小说强化了一种基于经验的共情思维，让人倾向于从具体情境和长期关系出发理解问题，而非诉诸抽象原则。怀旧的滤镜也促使人以更加宽容和温情的态度回望历史。",
+          "behavioral_tendency_description": "所赞许的行为模式是高度伦理化和情感化的：将家庭责任置于个人自由之上，在困境中保持良善、忍耐和互助。它奖励长期的承诺、对亲友的忠诚以及在日常琐碎中坚守道义。社交不是功利性的拓展，而是深度情感的维系。冒险、竞争和急切的个人成就被置于次要位置，取而代之的是守成、照顾弱者以及通过代际传承寻找意义。这种行为倾向强化了集体归属感，但可能抑制个体对未知的探索和对既有秩序的挑战。"
+        },
+        "personality_affinity": {
+          "Ni": 0.4,
+          "Ne": 0.2,
+          "Ti": 0.3,
+          "Te": 0.35,
+          "Fi": 0.65,
+          "Fe": 0.8,
+          "Si": 0.75,
+          "Se": 0.15,
+          "openness": 0.4,
+          "conscientiousness": 0.7,
+          "extraversion": 0.45,
+          "agreeableness": 0.75,
+          "neuroticism": 0.65,
+          "Assertive": 0.35,
+          "Turbulent": 0.65
+        },
+        "supporting_evidence": [
+          "以东北某市平民社区“光字片”为贯穿始终的核心场景，时间跨度约五十年。",
+          "周家三兄妹周秉义、周蓉、周秉昆的命运是小说的叙事主轴。",
+          "涵盖知青上山下乡、恢复高考、改革开放、国企改制、下岗潮等重大历史事件。",
+          "大量描写贫困、疾病（如周母成植物人）、家庭经济危机等沉重苦难。",
+          "周秉昆与郑娟的爱情与婚姻，是在患难中相濡以沫的典型。",
+          "六小君子等朋友间的深厚友谊和互助，是抵御生活苦难的重要防线。",
+          "多个人物在重大利诱前选择了坚守道德和家庭责任，如周秉义。",
+          "邻里之间互送食物、共同照料老人小孩等细节生动展现了社区温情。",
+          "结局部分棚户区拆迁，人物搬入新居，带有对生活改善的肯定和旧日时光的告别。",
+          "语言质朴，充满东北地域特色，叙述平实而情感深沉。"
+        ],
+        "quality_control": {
+          "trainingStatus": "TRAINABLE",
+          "evidenceSufficiency": "SUFFICIENT",
+          "cleanlinessPassed": true,
+          "schemaPassed": true,
+          "vectorCoveragePassed": true,
+          "rejectionReasons": []
+        }
+      }
+    ]
+  }
+]

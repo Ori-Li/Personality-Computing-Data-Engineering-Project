@@ -1,0 +1,36 @@
+{
+  "schema": "rgmj-prompt-dataset-analysis/v1",
+  "generatedAt": "2026-07-17T09:17:02.650602+00:00",
+  "inputs": {
+    "characters": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\evaluation_character_300.json",
+    "works": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\evaluation_work_300.json",
+    "characterSha256": "6f3552ec6585b68d79b7cb8f64cc4506a89fbe7c240bac8d19710c9fba87befb",
+    "workSha256": "dc4eb28cb04aef61fcfda48b0d4fde75a76483752d84fdf24180537acd8a0338"
+  },
+  "counts": {
+    "characters": 300,
+    "works": 489,
+    "creatorRelations": 492,
+    "ownWorkReferences": 492,
+    "unknownBirthYear": 300,
+    "missingWorkYear": 489,
+    "unknownCountry": 0
+  },
+  "crossReferences": {
+    "characterIds": 300,
+    "workIds": 489,
+    "broken": 0
+  },
+  "duplicateWorkNames": [
+    "羅生門"
+  ],
+  "errors": [],
+  "warnings": [],
+  "isStructurallyValid": true,
+  "qualitySignals": {
+    "unknownBirthCentury": 300,
+    "missingWorkYear": 489,
+    "unknownWorkCountry": 0
+  },
+  "isPromptComplete": true
+}

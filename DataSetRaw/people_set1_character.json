@@ -1,0 +1,2254 @@
+[
+  {
+    "id": "realCharacter_chn_-340_001",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 5,
+    "beginCentury": -340,
+    "endCentury": -278,
+    "names": [
+      {
+        "language": 1,
+        "name": "屈原"
+      }
+    ],
+    "introduction": "战国时期楚国诗人，以香草美人意象、政治理想与放逐经验构成《楚辞》的核心传统。代表作品包括《离骚》、《九歌》。屈原生于-340年，卒于-278年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_001",
+        "relationType": 1
+      },
+      {
+        "workId": "work_chn_unknown_002",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_283_002",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 10,
+    "beginCentury": 283,
+    "endCentury": 351,
+    "names": [
+      {
+        "language": 1,
+        "name": "干宝"
+      }
+    ],
+    "introduction": "东晋史官与志怪文学作者，编纂材料时将历史记录、民间传说与神异叙事结合。代表作品包括《搜神记》。干宝生于283年，卒于351年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_003",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1949_003",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 3,
+    "dynasty": 21,
+    "beginCentury": 1949,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "梁晓声"
+      }
+    ],
+    "introduction": "中国作家，长期书写知青经历、工人家庭与社会转型中的伦理选择。代表作品包括《人世间》、《雪城》。梁晓声生于1949年。在《人世间》中担任作者，在《雪城》中担任作者。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2017_004",
+        "relationType": 1
+      },
+      {
+        "workId": "work_chn_1988_005",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1226_004",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 17,
+    "beginCentury": 1226,
+    "endCentury": 1306,
+    "names": [
+      {
+        "language": 1,
+        "name": "白朴"
+      }
+    ],
+    "introduction": "元代杂剧作家，在历史兴亡与爱情叙事中发展曲词和舞台结构。代表作品包括《梧桐雨》、《墙头马上》。白朴生于1226年，卒于1306年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_006",
+        "relationType": 1
+      },
+      {
+        "workId": "work_chn_unknown_007",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1928_005",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 3,
+    "dynasty": 21,
+    "beginCentury": 1928,
+    "endCentury": 2017,
+    "names": [
+      {
+        "language": 1,
+        "name": "余光中"
+      }
+    ],
+    "introduction": "诗人、散文家与翻译家，作品反复处理乡愁、语言迁移和古典传统的现代转化。代表作品包括《乡愁》、《听听那冷雨》。余光中生于1928年，卒于2017年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1972_008",
+        "relationType": 1
+      },
+      {
+        "workId": "work_chn_1974_009",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1906_006",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 3,
+    "dynasty": 20,
+    "beginCentury": 1906,
+    "endCentury": 1985,
+    "names": [
+      {
+        "language": 1,
+        "name": "张天翼"
+      }
+    ],
+    "introduction": "现代作家，以讽刺小说和儿童文学观察社会角色、功利心理与日常权力关系。代表作品包括《华威先生》、《宝葫芦的秘密》。张天翼生于1906年，卒于1985年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1938_010",
+        "relationType": 1
+      },
+      {
+        "workId": "work_chn_1958_011",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1979_007",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1979,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "杨怡"
+      }
+    ],
+    "introduction": "香港演员，以电视剧表演建立职业声誉，角色选择横跨古装、职业与家庭叙事。代表作品包括《宫心计》、《On Call 36小时》。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2009_012",
+        "relationType": 24
+      },
+      {
+        "workId": "work_chn_2012_013",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1954_008",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1954,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "黄建新"
+      }
+    ],
+    "introduction": "中国电影导演，以黑色幽默和现实主义视角观察机构生活、知识分子处境与社会转型。代表作品包括《黑炮事件》、《背靠背，脸对脸》。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1986_014",
+        "relationType": 2
+      },
+      {
+        "workId": "work_chn_1994_015",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1979_009",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1979,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "魏翔"
+      }
+    ],
+    "introduction": "中国演员，长期参与舞台喜剧和商业电影，在夸张喜剧节奏中保留小人物处境。代表作品包括《这个杀手不太冷静》。魏翔生于1979年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2022_016",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1953_010",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1953,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "程小东"
+      }
+    ],
+    "introduction": "香港动作指导与导演，以威亚、身体运动和快速剪辑塑造武侠电影的视觉节奏。代表作品包括《倩女幽魂》、《东方不败》。程小东生于1953年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1987_017",
+        "relationType": 2
+      },
+      {
+        "workId": "work_chn_1992_018",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1976_011",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1976,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "秦雯"
+      }
+    ],
+    "introduction": "中国编剧，主要从事都市电视剧创作，擅长以密集对白组织女性关系与家庭冲突。代表作品包括《我的前半生》、《繁花》。其编剧工作通过人物关系、情节推进与对白安排建立作品的戏剧结构，并影响最终呈现的叙事重心。这些剧本成果在人物塑造和类型叙事方面留下了可辨认的文本基础。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2017_019",
+        "relationType": 3
+      },
+      {
+        "workId": "work_chn_2023_020",
+        "relationType": 3
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1958_012",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 5,
+    "gender": 0,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1958,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "邵氏兄弟"
+      }
+    ],
+    "introduction": "香港影视制作机构，建立类型片工业体系并持续生产武侠、动作、黄梅调和都市电影。代表作品包括《独臂刀》、《大醉侠》。该创作组织成立于1958年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1967_021",
+        "relationType": 99
+      },
+      {
+        "workId": "work_chn_1966_022",
+        "relationType": 4
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1989_013",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1989,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "张含韵"
+      }
+    ],
+    "introduction": "中国歌手与演员，从选秀出道后持续在流行音乐、影视和舞台表演之间转换。代表作品包括《酸酸甜甜就是我》。张含韵生于1989年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2005_023",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1952_014",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1952,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "李修贤"
+      }
+    ],
+    "introduction": "香港演员、导演和制片人，长期参与警匪电影并以写实表演塑造执法者与边缘人物。代表作品包括《公仆》、《喋血双雄》。李修贤生于1952年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1984_024",
+        "relationType": 2
+      },
+      {
+        "workId": "work_chn_1989_025",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1990_015",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1990,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "李一桐"
+      }
+    ],
+    "introduction": "中国演员，主要参与电视剧和电影表演，作品覆盖武侠、年代和都市题材。代表作品包括《射雕英雄传》、《狂飙》。李一桐生于1990年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2017_026",
+        "relationType": 24
+      },
+      {
+        "workId": "work_chn_2023_027",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1977_016",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 21,
+    "beginCentury": 1977,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "陈数"
+      }
+    ],
+    "introduction": "中国演员，具有舞蹈训练背景，影视角色多涉及职业女性、年代叙事与复杂家庭关系。代表作品包括《铁梨花》、《和平饭店》。陈数生于1977年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2010_028",
+        "relationType": 24
+      },
+      {
+        "workId": "work_chn_2018_029",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1917_017",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 1,
+    "dynasty": 20,
+    "beginCentury": 1917,
+    "endCentury": 1989,
+    "names": [
+      {
+        "language": 1,
+        "name": "顾兰君"
+      }
+    ],
+    "introduction": "中国早期电影演员，在上海电影工业中以都市女性和家庭伦理角色受到关注。代表作品包括《压岁钱》。顾兰君生于1917年，卒于1989年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1937_030",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1912_018",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 20,
+    "beginCentury": 1912,
+    "endCentury": 1987,
+    "names": [
+      {
+        "language": 1,
+        "name": "马思聪"
+      }
+    ],
+    "introduction": "作曲家与小提琴家，将中国民歌素材融入西方器乐写作并推动近现代小提琴创作。代表作品包括《思乡曲》、《西藏音诗》。马思聪生于1912年，卒于1987年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1937_031",
+        "relationType": 10
+      },
+      {
+        "workId": "work_chn_1941_032",
+        "relationType": 10
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1950_019",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1950,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "朱明瑛"
+      }
+    ],
+    "introduction": "中国歌唱家，以多语种和不同地域音乐风格的舞台演唱形成广泛传播。代表作品包括《回娘家》。朱明瑛生于1950年。在《回娘家》中担任歌手。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1984_033",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1988_020",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1988,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "王啸坤"
+      }
+    ],
+    "introduction": "中国创作歌手，从选秀舞台进入职业音乐领域，作品结合流行摇滚与个人写作。代表作品包括《带我去寻找》。王啸坤生于1988年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2009_034",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1992_021",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1992,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "Hanser"
+      }
+    ],
+    "introduction": "中国配音演员与网络歌手，工作横跨游戏角色配音、虚拟内容和歌曲演唱。代表作品包括《网络天使》。Hanser生于1992年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2019_035",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1953_022",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1953,
+    "endCentury": 1995,
+    "names": [
+      {
+        "language": 1,
+        "name": "邓丽君"
+      }
+    ],
+    "introduction": "华语流行歌手，以细腻咬字和跨地区传播改变华语流行歌曲的演唱与接受方式。代表作品包括《月亮代表我的心》、《甜蜜蜜》。邓丽君生于1953年，卒于1995年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1977_036",
+        "relationType": 11
+      },
+      {
+        "workId": "work_chn_1979_037",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1995_023",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1995,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "吴宣仪"
+      }
+    ],
+    "introduction": "中国歌手与演员，通过女子组合、综艺和影视表演形成跨媒介职业路径。代表作品包括《满糖宣言》。吴宣仪生于1995年。在《满糖宣言》中担任歌手。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2020_038",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1969_024",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1969,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "易家扬"
+      }
+    ],
+    "introduction": "华语流行音乐作词人，歌词常以清晰叙事和都市情感组织歌曲意象。代表作品包括《遇见》、《单身情歌》。易家扬生于1969年。在《遇见》中担任词作者，在《单身情歌》中担任词作者。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2003_039",
+        "relationType": 12
+      },
+      {
+        "workId": "work_chn_1999_040",
+        "relationType": 12
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1977_025",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1977,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "王铮亮"
+      }
+    ],
+    "introduction": "中国歌手、词曲作者与音乐教师，以钢琴基础和抒情歌曲写作参与影视及流行音乐生产。代表作品包括《时间都去哪儿了》。王铮亮生于1977年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2010_041",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1975_026",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1975,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "严云农"
+      }
+    ],
+    "introduction": "台湾作词人，以口语化叙事、人物视角和电影感意象参与华语流行音乐创作。代表作品包括《我不难过》。严云农生于1975年。在《我不难过》中担任词作者。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2003_042",
+        "relationType": 12
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1962_027",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1962,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "郭峰"
+      }
+    ],
+    "introduction": "中国作曲家、歌手和音乐制作人，参与公益歌曲与流行音乐的大型协作生产。代表作品包括《让世界充满爱》。郭峰生于1962年。在《让世界充满爱》中担任作曲家。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1986_043",
+        "relationType": 10
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1941_028",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 2,
+    "dynasty": 21,
+    "beginCentury": 1941,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "储望华"
+      }
+    ],
+    "introduction": "中国作曲家与钢琴家，参与将传统旋律和革命歌曲材料转化为钢琴作品。代表作品包括《翻身的日子》、《黄河钢琴协奏曲》。储望华生于1941年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1964_044",
+        "relationType": 10
+      },
+      {
+        "workId": "work_chn_1969_045",
+        "relationType": 10
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_2015_029",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "CHN",
+    "field": 8,
+    "dynasty": 21,
+    "beginCentury": 2015,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "木狼游戏"
+      }
+    ],
+    "introduction": "中国独立游戏工作室，围绕叙事解谜和本土文化题材进行小团队开发。代表作品包括《山海旅人》。该创作组织成立于2015年。在《山海旅人》中担任游戏公司。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2021_046",
+        "relationType": 8
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_2004_030",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "CHN",
+    "field": 8,
+    "dynasty": 21,
+    "beginCentury": 2004,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "完美世界游戏"
+      }
+    ],
+    "introduction": "中国游戏公司，长期运营网络游戏并参与角色扮演、移动游戏与全球发行。代表作品包括《完美世界》。该创作组织成立于2004年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2005_047",
+        "relationType": 8
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1919_031",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 20,
+    "beginCentury": 1919,
+    "endCentury": 1996,
+    "names": [
+      {
+        "language": 1,
+        "name": "古元"
+      }
+    ],
+    "introduction": "中国版画家，以木刻记录乡村生活、劳动者形象和革命时期的社会经验。代表作品包括《减租会》。古元生于1919年，卒于1996年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1943_048",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1020_032",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 16,
+    "beginCentury": 1020,
+    "endCentury": 1090,
+    "names": [
+      {
+        "language": 1,
+        "name": "郭熙"
+      }
+    ],
+    "introduction": "北宋画家与绘画理论家，以全景山水和“三远”空间观组织宏阔自然秩序。代表作品包括《早春图》。郭熙生于1020年，卒于1090年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1072_049",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1945_033",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1945,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "徐芒耀"
+      }
+    ],
+    "introduction": "中国油画家，以具象人物、身体结构和室内空间研究学院派写实语言。代表作品包括《我的梦》。徐芒耀生于1945年。在《我的梦》中担任画家。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1988_050",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1521_034",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 18,
+    "beginCentury": 1521,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "周之冕"
+      }
+    ],
+    "introduction": "明代花鸟画家，综合工笔与写意方法，以花卉禽鸟构成清润而繁密的画面。代表作品包括《百花图卷》。周之冕生于1521年。在《百花图卷》中担任画家。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_051",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1689_035",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 10,
+    "dynasty": 19,
+    "beginCentury": 1689,
+    "endCentury": 1726,
+    "names": [
+      {
+        "language": 1,
+        "name": "焦秉贞"
+      }
+    ],
+    "introduction": "清代宫廷画家，接触西方透视与明暗方法，并将其融入人物和耕织题材。代表作品包括《耕织图》。焦秉贞生于1689年，卒于1726年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1696_052",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1956_036",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1956,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "张永和"
+      }
+    ],
+    "introduction": "中国建筑师与建筑教育者，关注建造逻辑、日常材料和现代城市中的空间经验。代表作品包括《二分宅》。张永和生于1956年。在《二分宅》中担任建筑师。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2002_053",
+        "relationType": 18
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1900_037",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 20,
+    "beginCentury": 1900,
+    "endCentury": 1971,
+    "names": [
+      {
+        "language": 1,
+        "name": "张印泉"
+      }
+    ],
+    "introduction": "中国摄影家，以风景和社会生活摄影参与近现代摄影艺术的传播与组织。代表作品包括《力挽狂澜》。张印泉生于1900年，卒于1971年。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1935_054",
+        "relationType": 20
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1981_038",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1981,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "张晓"
+      }
+    ],
+    "introduction": "中国摄影家，以长期田野拍摄观察城市边缘、民间仪式与快速变化的公共景观。代表作品包括《海岸线》。张晓生于1981年。在《海岸线》中担任摄影师。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2009_055",
+        "relationType": 20
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1950_039",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 99,
+    "gender": 0,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1950,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "上海人民艺术剧院"
+      }
+    ],
+    "introduction": "中国专业话剧院团，长期进行现实主义戏剧排演、演员培养和上海城市文化表达。代表作品包括《日出》。相关成果通过公开演出、出版、展览或发行进入文化生活，并形成持续影响。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_056",
+        "relationType": 99
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1954_040",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1954,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "纪蔚然"
+      }
+    ],
+    "introduction": "台湾剧作家与学者，以悬疑结构、黑色幽默和知识分子处境组织现代戏剧文本。代表作品包括《夜夜夜麻》。纪蔚然生于1954年。在《夜夜夜麻》中担任剧作家。",
+    "ownWork": [
+      {
+        "workId": "work_chn_1996_057",
+        "relationType": 21
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1941_041",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1941,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "岳美缇"
+      }
+    ],
+    "introduction": "昆曲表演艺术家，专工小生，在传统身段、唱腔和现代舞台传播之间持续实践。代表作品包括《牡丹亭》。岳美缇生于1941年。在《牡丹亭》中担任演员。",
+    "ownWork": [
+      {
+        "workId": "work_chn_unknown_058",
+        "relationType": 24
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1979_042",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 3,
+    "gender": 0,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1979,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "香港芭蕾舞团"
+      }
+    ],
+    "introduction": "香港专业芭蕾舞团，演出古典剧目并委约当代编舞，形成国际与本地创作并行的 repertory。代表作品包括《大红灯笼高高挂》。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2007_059",
+        "relationType": 99
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_chn_1992_043",
+    "characterType": 1,
+    "realSubType": 2,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "CHN",
+    "field": 5,
+    "dynasty": 21,
+    "beginCentury": 1992,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "孟庆旸"
+      }
+    ],
+    "introduction": "中国舞者，以中国古典舞训练和当代舞台表达塑造具有仪式感的身体形象。代表作品包括《只此青绿》。孟庆旸生于1992年。在《只此青绿》中担任编舞。",
+    "ownWork": [
+      {
+        "workId": "work_chn_2021_060",
+        "relationType": 22
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_1892_044",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "KOR",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1892,
+    "endCentury": 1950,
+    "names": [
+      {
+        "language": 1,
+        "name": "李光洙"
+      },
+      {
+        "language": 0,
+        "name": "이광수"
+      }
+    ],
+    "introduction": "韩国近代作家，小说创作与民族启蒙、现代教育及殖民时期思想矛盾紧密相关。代表作品包括《无情》。李光洙生于1892年，卒于1950年。",
+    "ownWork": [
+      {
+        "workId": "work_kor_1917_061",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_jpn_1947_045",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "JPN",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1947,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "北野武"
+      },
+      {
+        "language": 0,
+        "name": "北野武"
+      }
+    ],
+    "introduction": "日本导演、演员与喜剧人，电影以克制节奏、突发暴力和孤独人物形成鲜明风格。代表作品包括《花火》、《菊次郎的夏天》。北野武生于1947年。",
+    "ownWork": [
+      {
+        "workId": "work_jpn_1997_062",
+        "relationType": 2
+      },
+      {
+        "workId": "work_jpn_1999_063",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_1985_046",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 2,
+    "gender": 0,
+    "countryCode": "KOR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1985,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "野菊花乐队"
+      },
+      {
+        "language": 0,
+        "name": "들국화"
+      }
+    ],
+    "introduction": "韩国摇滚乐队，以现场演奏、直率声线和创作歌曲推动1980年代韩国摇滚文化。代表作品包括《那就是我的世界》。录音与现场演出共同保存了其艺术实践，也扩大了相关曲目的传播范围。",
+    "ownWork": [
+      {
+        "workId": "work_kor_1985_064",
+        "relationType": 13
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_jpn_1971_047",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "JPN",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1971,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "目黑将司"
+      },
+      {
+        "language": 0,
+        "name": "目黒将司"
+      }
+    ],
+    "introduction": "日本游戏作曲家，以摇滚、爵士和电子音色为角色扮演游戏建立鲜明声音身份。代表作品包括《女神异闻录5》。目黑将司生于1971年。",
+    "ownWork": [
+      {
+        "workId": "work_jpn_2016_065",
+        "relationType": 10
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_2012_048",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "KOR",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 2012,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "LINE Games"
+      },
+      {
+        "language": 0,
+        "name": "라인게임즈"
+      }
+    ],
+    "introduction": "韩国游戏发行与开发公司，业务涵盖移动、PC和主机游戏的制作与运营。代表作品包括《十三月》。该创作组织成立于2012年。该创作组织成立于2012年。",
+    "ownWork": [
+      {
+        "workId": "work_kor_2022_066",
+        "relationType": 8
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_1973_049",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "KOR",
+    "field": 3,
+    "dynasty": null,
+    "beginCentury": 1973,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "朴瓘镐"
+      },
+      {
+        "language": 0,
+        "name": "박관호"
+      }
+    ],
+    "introduction": "韩国游戏企业家与制作管理者，创办娱美德并长期参与网络游戏产业运营。代表作品包括《传奇2》。其游戏制作实践把玩法机制、叙事目标和团队协作结合起来，推动项目形成稳定而可辨识的体验。代表项目在玩法设计与叙事表达之间建立联系，并获得了持续的玩家讨论。",
+    "ownWork": [
+      {
+        "workId": "work_kor_2001_067",
+        "relationType": 6
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_jpn_1940_050",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "JPN",
+    "field": 3,
+    "dynasty": null,
+    "beginCentury": 1940,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "辻本宪三"
+      },
+      {
+        "language": 0,
+        "name": "辻本憲三"
+      }
+    ],
+    "introduction": "日本游戏企业家，创办卡普空并推动街机与家用机游戏的长期系列化经营。代表作品包括《街头霸王II》。辻本宪三生于1940年。",
+    "ownWork": [
+      {
+        "workId": "work_jpn_1991_068",
+        "relationType": 8
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_jpn_1928_051",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "JPN",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1928,
+    "endCentury": 2011,
+    "names": [
+      {
+        "language": 1,
+        "name": "菊竹清训"
+      },
+      {
+        "language": 0,
+        "name": "菊竹清訓"
+      }
+    ],
+    "introduction": "日本建筑师，新陈代谢派重要成员，以可生长结构和海上城市设想回应战后城市化。代表作品包括《出云大社厅舍》。菊竹清训生于1928年，卒于2011年。",
+    "ownWork": [
+      {
+        "workId": "work_jpn_1963_069",
+        "relationType": 18
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_1933_052",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "KOR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1933,
+    "endCentury": 1999,
+    "names": [
+      {
+        "language": 1,
+        "name": "韩英洙"
+      },
+      {
+        "language": 0,
+        "name": "한영수"
+      }
+    ],
+    "introduction": "韩国摄影家，以战后首尔街头、儿童与日常生活记录快速现代化中的社会面貌。代表作品包括《首尔，摩登时代》。韩英洙生于1933年，卒于1999年。",
+    "ownWork": [
+      {
+        "workId": "work_kor_unknown_070",
+        "relationType": 20
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_jpn_1989_053",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "JPN",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1989,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "根本宗子"
+      },
+      {
+        "language": 0,
+        "name": "根本宗子"
+      }
+    ],
+    "introduction": "日本剧作家、导演与演员，作品以高速对白和女性经验处理亲密关系与社会期待。代表作品包括《献给最伟大的爱》。根本宗子生于1989年。",
+    "ownWork": [
+      {
+        "workId": "work_jpn_2014_071",
+        "relationType": 21
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_kor_1962_054",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "KOR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1962,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "安成洙"
+      },
+      {
+        "language": 0,
+        "name": "안성수"
+      }
+    ],
+    "introduction": "韩国编舞家，将传统身体语汇、现代舞训练和剧场构成结合于当代舞台。代表作品包括《身体协奏曲》。安成洙生于1962年。在《身体协奏曲》中担任编舞。",
+    "ownWork": [
+      {
+        "workId": "work_kor_unknown_072",
+        "relationType": 22
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_ita_-65_055",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "ITA",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": -65,
+    "endCentury": -8,
+    "names": [
+      {
+        "language": 1,
+        "name": "贺拉斯"
+      },
+      {
+        "language": 0,
+        "name": "Horace"
+      }
+    ],
+    "introduction": "古罗马诗人，以颂歌、讽刺诗和诗艺讨论节制、友谊、公共生活及文学规范。代表作品包括《颂歌集》、《诗艺》。贺拉斯生于-65年，卒于-8年。",
+    "ownWork": [
+      {
+        "workId": "work_ita_unknown_073",
+        "relationType": 1
+      },
+      {
+        "workId": "work_ita_unknown_074",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1911_056",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "GBR",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1911,
+    "endCentury": 1993,
+    "names": [
+      {
+        "language": 1,
+        "name": "威廉·戈尔丁"
+      },
+      {
+        "language": 0,
+        "name": "William Golding"
+      }
+    ],
+    "introduction": "英国小说家，通过封闭群体和寓言结构考察文明秩序、暴力与道德责任。代表作品包括《蝇王》。威廉·戈尔丁生于1911年，卒于1993年。",
+    "ownWork": [
+      {
+        "workId": "work_gbr_1954_075",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1917_057",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "USA",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1917,
+    "endCentury": 1967,
+    "names": [
+      {
+        "language": 1,
+        "name": "卡森·麦卡勒斯"
+      },
+      {
+        "language": 0,
+        "name": "Carson McCullers"
+      }
+    ],
+    "introduction": "美国作家，作品关注孤独、欲望、身体差异与美国南方小镇中的疏离关系。代表作品包括《心是孤独的猎手》。卡森·麦卡勒斯生于1917年，卒于1967年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_1940_076",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1772_058",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "GBR",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1772,
+    "endCentury": 1834,
+    "names": [
+      {
+        "language": 1,
+        "name": "塞缪尔·泰勒·柯勒律治"
+      },
+      {
+        "language": 0,
+        "name": "Samuel Taylor Coleridge"
+      }
+    ],
+    "introduction": "英国浪漫主义诗人和批评家，以超自然叙事、想象理论和诗歌音乐性产生持续影响。代表作品包括《古舟子咏》。塞缪尔·泰勒·柯勒律治生于1772年，卒于1834年。",
+    "ownWork": [
+      {
+        "workId": "work_gbr_1798_077",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1969_059",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "USA",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1969,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "科尔森·怀特黑德"
+      },
+      {
+        "language": 0,
+        "name": "Colson Whitehead"
+      }
+    ],
+    "introduction": "美国小说家，以类型转换、历史研究和讽刺语言重构种族经验与制度暴力。代表作品包括《地下铁道》、《尼克尔男孩》。科尔森·怀特黑德生于1969年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_2016_078",
+        "relationType": 1
+      },
+      {
+        "workId": "work_usa_2019_079",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1968_060",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "FRA",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1968,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "埃里克·维亚尔"
+      },
+      {
+        "language": 0,
+        "name": "Éric Vuillard"
+      }
+    ],
+    "introduction": "法国作家与电影作者，以短篇历史叙事重组档案细节，审视权力仪式和集体责任。代表作品包括《议程》。埃里克·维亚尔生于1968年。",
+    "ownWork": [
+      {
+        "workId": "work_fra_2017_080",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1887_061",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "USA",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1887,
+    "endCentury": 1972,
+    "names": [
+      {
+        "language": 1,
+        "name": "玛丽安·穆尔"
+      },
+      {
+        "language": 0,
+        "name": "Marianne Moore"
+      }
+    ],
+    "introduction": "美国现代主义诗人，以精确观察、引文拼贴和严格形式讨论动物、伦理与公共语言。代表作品包括《诗》。玛丽安·穆尔生于1887年，卒于1972年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_1919_081",
+        "relationType": 1
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1978_062",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "FRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1978,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "瑟琳·席安玛"
+      },
+      {
+        "language": 0,
+        "name": "Céline Sciamma"
+      }
+    ],
+    "introduction": "法国导演与编剧，电影持续观察性别成长、凝视关系、记忆和亲密经验。代表作品包括《燃烧女子的肖像》、《小妈妈》。瑟琳·席安玛生于1978年。",
+    "ownWork": [
+      {
+        "workId": "work_fra_2019_082",
+        "relationType": 2
+      },
+      {
+        "workId": "work_fra_2021_083",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1937_063",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "GBR",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1937,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "雷德利·斯科特"
+      },
+      {
+        "language": 0,
+        "name": "Ridley Scott"
+      }
+    ],
+    "introduction": "英国电影导演，以精密视觉设计在科幻、历史和犯罪类型中构建制度与个体冲突。代表作品包括《异形》、《银翼杀手》。雷德利·斯科特生于1937年。",
+    "ownWork": [
+      {
+        "workId": "work_gbr_1979_084",
+        "relationType": 2
+      },
+      {
+        "workId": "work_gbr_1982_085",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_gbr_1985_064",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 2,
+    "gender": 0,
+    "countryCode": "GBR",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1985,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "电台司令乐队"
+      },
+      {
+        "language": 0,
+        "name": "Radiohead"
+      }
+    ],
+    "introduction": "英国摇滚乐队，在吉他摇滚基础上持续吸收电子音乐、实验结构和数字发行方式。代表作品包括《偏执狂机器人》、《一切尽在其位》。",
+    "ownWork": [
+      {
+        "workId": "work_gbr_1997_086",
+        "relationType": 13
+      },
+      {
+        "workId": "work_gbr_2000_087",
+        "relationType": 13
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1999_065",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "FRA",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1999,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "阿肯工作室"
+      },
+      {
+        "language": 0,
+        "name": "Arkane Studios"
+      }
+    ],
+    "introduction": "法国起源的游戏工作室，以沉浸式模拟、关卡系统和多路径玩家选择著称。代表作品包括《耻辱》、《掠食》。该创作组织成立于1999年。",
+    "ownWork": [
+      {
+        "workId": "work_fra_2012_088",
+        "relationType": 7
+      },
+      {
+        "workId": "work_fra_2017_089",
+        "relationType": 7
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1904_066",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1904,
+    "endCentury": 1997,
+    "names": [
+      {
+        "language": 1,
+        "name": "威廉·德·库宁"
+      },
+      {
+        "language": 0,
+        "name": "Willem de Kooning"
+      }
+    ],
+    "introduction": "荷兰出生的美国画家，以剧烈笔触、反复修改和人物与抽象之间的张力成为抽象表现主义核心人物。代表作品包括《女人I》。威廉·德·库宁生于1904年，卒于1997年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_1952_090",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_fra_1864_067",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "FRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1864,
+    "endCentury": 1943,
+    "names": [
+      {
+        "language": 1,
+        "name": "卡米耶·克洛岱尔"
+      },
+      {
+        "language": 0,
+        "name": "Camille Claudel"
+      }
+    ],
+    "introduction": "法国雕塑家，以强烈身体动态和亲密关系主题发展独立于学院传统的雕塑语言。代表作品包括《成熟时代》。其雕塑创作重视材料、尺度与观看空间的关系，代表作体现了对形体和公共环境的持续探索。相关作品通过展览与公共空间被反复观看，形成稳定的视觉文化记忆。",
+    "ownWork": [
+      {
+        "workId": "work_fra_1899_091",
+        "relationType": 23
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1907_068",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "USA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1907,
+    "endCentury": 1977,
+    "names": [
+      {
+        "language": 1,
+        "name": "李·米勒"
+      },
+      {
+        "language": 0,
+        "name": "Lee Miller"
+      }
+    ],
+    "introduction": "美国摄影家，经历时尚摄影、超现实主义实验与战地报道，形成跨类型的视觉记录。代表作品包括《戴防火面罩的女人们》。李·米勒生于1907年，卒于1977年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_1941_092",
+        "relationType": 20
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1987_069",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 3,
+    "countryCode": "USA",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1987,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "丽贝卡·舒格"
+      },
+      {
+        "language": 0,
+        "name": "Rebecca Sugar"
+      }
+    ],
+    "introduction": "美国动画创作者和词曲作者，以包容性角色、成长叙事与音乐结构组织系列动画。代表作品包括《史蒂文宇宙》。丽贝卡·舒格生于1987年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_2013_093",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_deu_1925_070",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "DEU",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1925,
+    "endCentury": 2017,
+    "names": [
+      {
+        "language": 1,
+        "name": "坦克雷德·多斯特"
+      },
+      {
+        "language": 0,
+        "name": "Tankred Dorst"
+      }
+    ],
+    "introduction": "德国剧作家，以历史材料、神话重写和碎片化舞台结构讨论战争记忆与社会角色。代表作品包括《梅林，或荒原》。坦克雷德·多斯特生于1925年，卒于2017年。",
+    "ownWork": [
+      {
+        "workId": "work_deu_1981_094",
+        "relationType": 21
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_deu_1893_071",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "DEU",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1893,
+    "endCentury": 1939,
+    "names": [
+      {
+        "language": 1,
+        "name": "恩斯特·托勒尔"
+      },
+      {
+        "language": 0,
+        "name": "Ernst Toller"
+      }
+    ],
+    "introduction": "德国表现主义剧作家，作品由战争经验与革命政治出发，关注群体行动和个人责任。代表作品包括《群众与人》。恩斯特·托勒尔生于1893年，卒于1939年。",
+    "ownWork": [
+      {
+        "workId": "work_deu_1921_095",
+        "relationType": 21
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_rus_1872_072",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "RUS",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1872,
+    "endCentury": 1929,
+    "names": [
+      {
+        "language": 1,
+        "name": "谢尔盖·佳吉列夫"
+      },
+      {
+        "language": 0,
+        "name": "Sergei Diaghilev"
+      }
+    ],
+    "introduction": "俄罗斯艺术策划人与芭蕾制作人，通过跨国委约连接编舞、音乐、绘画和舞台设计。代表作品包括《春之祭》。其创作实践连接题材选择、媒介方法与协作过程，代表成果体现了长期积累形成的专业方向。",
+    "ownWork": [
+      {
+        "workId": "work_rus_1913_096",
+        "relationType": 99
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_lbn_1974_073",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "LBN",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1974,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "娜丁·拉巴基"
+      },
+      {
+        "language": 0,
+        "name": "Nadine Labaki"
+      }
+    ],
+    "introduction": "黎巴嫩导演与演员，以非职业演员和社会现实题材处理女性处境、贫困与家庭责任。代表作品包括《何以为家》、《焦糖》。娜丁·拉巴基生于1974年。",
+    "ownWork": [
+      {
+        "workId": "work_lbn_2018_097",
+        "relationType": 2
+      },
+      {
+        "workId": "work_lbn_2007_098",
+        "relationType": 2
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_col_1977_074",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "COL",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1977,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "夏奇拉"
+      },
+      {
+        "language": 0,
+        "name": "Shakira"
+      }
+    ],
+    "introduction": "哥伦比亚歌手与词曲作者，将拉丁流行、摇滚和舞蹈表演推向跨语种国际市场。代表作品包括《难以抗拒》、《随时随地》。夏奇拉生于1977年。",
+    "ownWork": [
+      {
+        "workId": "work_col_2006_099",
+        "relationType": 11
+      },
+      {
+        "workId": "work_col_2001_100",
+        "relationType": 11
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_idn_2009_075",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 6,
+    "gender": 0,
+    "countryCode": "IDN",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 2009,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "豆腐制作"
+      },
+      {
+        "language": 0,
+        "name": "Toge Productions"
+      }
+    ],
+    "introduction": "印度尼西亚独立游戏工作室与发行团队，关注叙事游戏、本地创作者扶持和东南亚题材。代表作品包括《咖啡心语》。该创作组织成立于2009年。",
+    "ownWork": [
+      {
+        "workId": "work_idn_2020_101",
+        "relationType": 7
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_ind_1913_076",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 2,
+    "countryCode": "IND",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1913,
+    "endCentury": 1941,
+    "names": [
+      {
+        "language": 1,
+        "name": "阿姆丽塔·谢尔-吉尔"
+      },
+      {
+        "language": 0,
+        "name": "Amrita Sher-Gil"
+      }
+    ],
+    "introduction": "匈牙利出生的印度画家，将欧洲现代主义训练与印度乡村人物、女性生活和色彩传统结合。代表作品包括《三个女孩》。阿姆丽塔·谢尔-吉尔生于1913年，卒于1941年。",
+    "ownWork": [
+      {
+        "workId": "work_ind_1935_102",
+        "relationType": 17
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_bra_1928_077",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "BRA",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1928,
+    "endCentury": 2021,
+    "names": [
+      {
+        "language": 1,
+        "name": "保罗·门德斯·达·罗查"
+      },
+      {
+        "language": 0,
+        "name": "Paulo Mendes da Rocha"
+      }
+    ],
+    "introduction": "巴西建筑师，以裸露混凝土、大跨度结构和公共性空间回应圣保罗的城市条件。代表作品包括《巴西雕塑博物馆》。保罗·门德斯·达·罗查生于1928年，卒于2021年。",
+    "ownWork": [
+      {
+        "workId": "work_bra_1995_103",
+        "relationType": 18
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_aus_1971_078",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "AUS",
+    "field": 2,
+    "dynasty": null,
+    "beginCentury": 1971,
+    "endCentury": null,
+    "names": [
+      {
+        "language": 1,
+        "name": "特伦特·帕克"
+      },
+      {
+        "language": 0,
+        "name": "Trent Parke"
+      }
+    ],
+    "introduction": "澳大利亚摄影家，以高反差光线、街头瞬间和长期个人项目重构日常经验。代表作品包括《午夜前几分钟》。特伦特·帕克生于1971年。",
+    "ownWork": [
+      {
+        "workId": "work_aus_2005_104",
+        "relationType": 20
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_usa_1966_079",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "USA",
+    "field": 8,
+    "dynasty": null,
+    "beginCentury": 1966,
+    "endCentury": 1996,
+    "names": [
+      {
+        "language": 1,
+        "name": "凯文·吉尔伯特"
+      },
+      {
+        "language": 0,
+        "name": "Kevin Gilbert"
+      }
+    ],
+    "introduction": "美国多乐器演奏者、词曲作者与制作人，以前卫摇滚编曲和个人化录音工程受到关注。代表作品包括《真相蒙羞》。凯文·吉尔伯特生于1966年，卒于1996年。",
+    "ownWork": [
+      {
+        "workId": "work_usa_2000_105",
+        "relationType": 10
+      }
+    ]
+  },
+  {
+    "id": "realCharacter_tur_1930_080",
+    "characterType": 1,
+    "realSubType": 1,
+    "creativeEntityType": 1,
+    "gender": 1,
+    "countryCode": "TUR",
+    "field": 4,
+    "dynasty": null,
+    "beginCentury": 1930,
+    "endCentury": 2013,
+    "names": [
+      {
+        "language": 1,
+        "name": "图尔古特·厄扎克曼"
+      },
+      {
+        "language": 0,
+        "name": "Turgut Özakman"
+      }
+    ],
+    "introduction": "土耳其剧作家、小说家与公共文化管理者，作品经常处理共和国历史和社会现代化。代表作品包括《疯狂的土耳其人》。图尔古特·厄扎克曼生于1930年，卒于2013年。",
+    "ownWork": [
+      {
+        "workId": "work_tur_2005_106",
+        "relationType": 1
+      }
+    ]
+  }
+]

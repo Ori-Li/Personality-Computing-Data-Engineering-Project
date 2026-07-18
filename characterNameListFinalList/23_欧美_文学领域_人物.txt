@@ -559,5 +559,12 @@
     "Donald Barthelme",
     "Robert Coover",
     "Stanislaw Lem",
-    "Jaroslav Seifert"
+    "Jaroslav Seifert",
+    "Brandon Sanderson",
+    "Andy Weir",
+    "Leigh Bardugo",
+    "Sally Rooney",
+    "Taylor Jenkins Reid",
+    "R. F. Kuang",
+    "Jon Fosse"
 ]

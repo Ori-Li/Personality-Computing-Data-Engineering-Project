@@ -147,5 +147,37 @@
 
     "BioWare",
 
-    "Arkane Studios"
+    "Arkane Studios",
+
+    "Swen Vincke",
+
+    "Robert Kurvitz",
+
+    "Aleksander Rostov",
+
+    "Helen Hindpere",
+
+    "Argo Tuulik",
+
+    "Anthony Giovannetti",
+
+    "Casey Yano",
+
+    "Luca Galante",
+
+    "Maddy Thorson",
+
+    "Tynan Sylvester",
+
+    "Tarn Adams",
+
+    "Zach Adams",
+
+    "Andrew Spinks",
+
+    "Amir Rao",
+
+    "Greg Kasavin",
+
+    "Jamie Cheng"
 ]

@@ -103,5 +103,17 @@
 
     "Montien Boonma",
 
-    "Navin Rawanchaikul"
+    "Navin Rawanchaikul",
+
+    "James Turrell",
+
+    "Refik Anadol",
+
+    "Zarina Hashmi",
+
+    "Wangechi Mutu",
+
+    "Ibrahim Mahama",
+
+    "Shirin Neshat"
 ]

@@ -1,0 +1,42 @@
+{
+  "schema": "rgmj-prompt-dataset-analysis/v1",
+  "generatedAt": "2026-07-17T09:49:29.829366+00:00",
+  "inputs": {
+    "characters": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\evaluation_character_300.json",
+    "works": "D:\\Personality-Computing-Project\\Data Engineering\\DataSet\\evaluation_work_300.json",
+    "characterSha256": "ece686c290b6540eae40b3e629adf124d4758fcf3d4a9b4beb48d7c4996daae2",
+    "workSha256": "72325b952b0090c6b07fc1b8f26cbe9acf41f611370fd8ba49c546f9c9eb3144"
+  },
+  "counts": {
+    "characters": 300,
+    "works": 489,
+    "creatorRelations": 492,
+    "ownWorkReferences": 492,
+    "unknownBeginYear": 34,
+    "missingWorkYear": 489,
+    "unknownCountry": 0,
+    "subcategoryTags": 436
+  },
+  "crossReferences": {
+    "characterIds": 300,
+    "workIds": 489,
+    "broken": 0
+  },
+  "duplicateWorkNames": [
+    "羅生門"
+  ],
+  "errors": [],
+  "warnings": [],
+  "isStructurallyValid": true,
+  "qualitySignals": {
+    "unknownBeginYear": 34,
+    "missingWorkYear": 489,
+    "unknownWorkCountry": 0,
+    "missingHistoricalDynasty": 18
+  },
+  "factualCompleteness": {
+    "beginYearCoverage": 0.8867,
+    "historicalDynastyCoverage": 0.3571
+  },
+  "isPromptComplete": true
+}

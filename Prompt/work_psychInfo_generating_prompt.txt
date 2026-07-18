@@ -426,7 +426,9 @@ Structure:
 
 "personality_affinity":{},
 
-"supporting_evidence":[]
+"supporting_evidence":[],
+
+"dimension_evidence":[]
 
 }
 
@@ -2194,6 +2196,34 @@ Do not compress evidence into keywords.
 
 Preserve complete factual semantics whenever possible.
 
+
+--------------------------------------------------
+
+# Dimension Evidence Mapping
+
+`supporting_evidence` stores observable factual statements. `dimension_evidence` explicitly maps those facts to every numerical CPR dimension generated for the work.
+
+Do not assign evidence by array rotation, random selection, hash, position, or media-wide default rules. The selected evidence must semantically support the named dimension and its score direction.
+
+Format:
+
+{
+  "dimensionCode":"psychology.cognitive.abstractness",
+  "evidenceIndexes":[0,3],
+  "relationType":1,
+  "evidenceWeight":0.82,
+  "explanation":"作品反复使用象征意象和非直述结构，因此支持较高的抽象程度。"
+}
+
+Rules:
+
+- every numerical field in `experience_vector`, `psychology_vector`, and the selected numeric `media_vector` must have exactly one mapping object;
+- `dimensionCode` uses the full stable path, such as `experience.awe`, `psychology.value.freedom`, or `media.movie_vector.visual_storytelling`;
+- `evidenceIndexes` references zero-based indexes in the same item's `supporting_evidence` array and must never be empty;
+- relationType: `1` supports, `2` limits, `3` contradicts, `4` supports absence or a low score;
+- `explanation` must explain why the cited observable facts support the specific dimension and score direction;
+- the same evidence may support multiple dimensions only when the semantic relationship is genuine;
+- never create a mapping merely to satisfy coverage; if evidence is insufficient, regenerate stronger factual evidence or lower confidence before completing the item.
 
 --------------------------------------------------
 

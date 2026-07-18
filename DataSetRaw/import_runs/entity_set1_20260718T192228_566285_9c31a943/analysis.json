@@ -1,0 +1,48 @@
+{
+  "schema": "rgmj-prompt-dataset-analysis/v1",
+  "generatedAt": "2026-07-18T11:22:28.556576+00:00",
+  "inputs": {
+    "characters": "D:\\Personality-Computing-Project\\Data Engineering\\DataSetRaw\\entity\\peopleentityset1.json",
+    "works": "D:\\Personality-Computing-Project\\Data Engineering\\DataSetRaw\\entity\\workentityset1.json",
+    "characterSha256": "77a6fe09a1c1643918d8f214a140d220efbed608192273aec70e06130009055b",
+    "workSha256": "15a0cec90aaadeb07dafb0c05cb4073242854e692e350d5dfbe222284075a715"
+  },
+  "counts": {
+    "characters": 99,
+    "works": 114,
+    "creatorRelations": 114,
+    "ownWorkReferences": 114,
+    "unknownBeginYear": 10,
+    "missingWorkYear": 7,
+    "unknownCountry": 0,
+    "subcategoryTags": 155
+  },
+  "crossReferences": {
+    "characterIds": 99,
+    "workIds": 114,
+    "broken": 0
+  },
+  "duplicateWorkNames": [],
+  "errors": [],
+  "warnings": [
+    "work_chn_1995_001: introduction 低于 Prompt 建议的 80 字",
+    "realCharacter_chn_unknown_004: introduction 低于 Prompt 建议的 100 字",
+    "realCharacter_chn_1971_001: introduction 低于 Prompt 建议的 100 字",
+    "realCharacter_chn_unknown_005: introduction 低于 Prompt 建议的 100 字",
+    "realCharacter_chn_1965_001: introduction 低于 Prompt 建议的 100 字",
+    "realCharacter_chn_1981_001: introduction 低于 Prompt 建议的 100 字",
+    "realCharacter_chn_unknown_012: introduction 低于 Prompt 建议的 100 字"
+  ],
+  "isStructurallyValid": true,
+  "qualitySignals": {
+    "unknownBeginYear": 10,
+    "missingWorkYear": 7,
+    "unknownWorkCountry": 0,
+    "missingHistoricalDynasty": 0
+  },
+  "factualCompleteness": {
+    "beginYearCoverage": 0.899,
+    "historicalDynastyCoverage": 1.0
+  },
+  "isPromptComplete": false
+}
