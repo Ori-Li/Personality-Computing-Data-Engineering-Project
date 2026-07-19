@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "茶馆",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 1958,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "DeepSeek-Chat",
+        "generatorDate": "2025-10-27",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.96,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《茶馆》是老舍创作的三幕话剧，以北京裕泰茶馆为中心舞台，横跨清末、民国与抗战胜利后三个历史阶段。剧本通过掌柜王利发、实业家秦二爷、旗人常四爷等七十余位人物的命运交织，展现了中国社会半个世纪的动荡变迁与普通人的挣扎。老舍运用精湛的对白与群像手法，将宏大历史浓缩于方寸茶馆之中，以‘葬送三个时代’为主题，带给观众深沉的历史反思与对小人物命运的深切共情。",
+        "themes": [
+          "历史变迁",
+          "社会批判",
+          "命运",
+          "生存",
+          "小人物",
+          "传统与现代",
+          "国家兴衰",
+          "人性"
+        ],
+        "keywords": [
+          "老北京",
+          "裕泰茶馆",
+          "清末",
+          "民国",
+          "王利发",
+          "秦二爷",
+          "常四爷",
+          "时代变迁",
+          "社会画卷",
+          "群像戏",
+          "京味儿"
+        ],
+        "core_experience": "观众在固定的茶馆空间内，目睹跨越半个世纪的人来人往与世事沉浮，体验到一种混合着历史沧桑感、社会讽刺与人性温情却终究归于幻灭的复杂悲凉情绪。",
+        "experience_introduction": "《茶馆》通过将跨度巨大的历史时间压缩进一个三代人经营的固定空间，让观众在短短几小时内亲眼见证一个微观世界的逐步崩塌。老舍以极其精炼的语言和鲜活的市井人物群像，营造出一种强烈的在场感与历史宿命感。观众的情绪从最初的略带幽默的好奇，逐渐转向对人物命运的无助同情，最终在三个老人撒纸钱祭奠自己的高潮中达到悲怆的顶点，完成一次深刻的历史与人性反思体验。"
+      },
+      "experience_vector": {
+        "passion": 0.2,
+        "healing": 0.1,
+        "awe": 0.45,
+        "nostalgia": 0.9,
+        "reflection": 0.95,
+        "romance": 0.05,
+        "tension": 0.65,
+        "warmth": 0.4,
+        "loneliness": 0.85,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.8,
+          "complexity": 0.7,
+          "depth_of_thought": 0.9,
+          "logical_structure": 0.6,
+          "novelty": 0.6,
+          "exploration": 0.3,
+          "ambiguity": 0.5,
+          "predictability": 0.4,
+          "information_density": 0.85,
+          "learning_value": 0.92
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.85,
+          "social_scale": 0.95,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.1,
+          "time_span": 0.95,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.9,
+          "loneliness": 0.85,
+          "warmth": 0.3,
+          "fear": 0.5,
+          "tension": 0.7,
+          "awe": 0.5,
+          "nostalgia": 0.95,
+          "hope": 0.1,
+          "melancholy": 0.95,
+          "anger": 0.35,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.85,
+          "luxury": 0.2,
+          "darkness": 0.75,
+          "brightness": 0.1,
+          "dreamlike": 0.05,
+          "mystery": 0.2,
+          "experimental": 0.3,
+          "classical": 0.95,
+          "modern": 0.1
+        },
+        "narrative": {
+          "plot_complexity": 0.85,
+          "character_depth": 0.95,
+          "character_growth": 0.15,
+          "world_building": 0.9,
+          "nonlinear_structure": 0.5,
+          "slow_immersion": 0.7,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.8,
+          "philosophical_depth": 0.9
+        },
+        "social_relationship": {
+          "individualism": 0.4,
+          "collectivism": 0.6,
+          "family": 0.7,
+          "friendship": 0.7,
+          "love": 0.25,
+          "community": 0.85,
+          "competition": 0.65,
+          "cooperation": 0.3,
+          "power_relationship": 0.9,
+          "identity": 0.8
+        },
+        "value": {
+          "freedom": 0.3,
+          "order": 0.15,
+          "truth": 0.8,
+          "beauty": 0.75,
+          "achievement": 0.2,
+          "justice": 0.45,
+          "sacrifice": 0.5,
+          "self_exploration": 0.2,
+          "tradition": 0.9,
+          "change": 0.85,
+          "survival": 0.9,
+          "meaning": 0.7
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.2,
+          "adventure": 0.1,
+          "reflection": 0.95,
+          "competition": 0.5,
+          "social": 0.8,
+          "discipline": 0.2,
+          "risk": 0.2,
+          "calm": 0.15,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.5,
+          "color_richness": 0.4,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.4,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.95,
+          "actor_expression": 0.95,
+          "body_expression": 0.8,
+          "audience_interaction": 0.7,
+          "performance_intensity": 0.75,
+          "ritual_sense": 0.6
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.2,
+          "explanation": "作品的基调是冷峻的旁观和历史的喟叹，而非激烈澎湃的个人激情，因此passion程度较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "结局是彻底的幻灭与自我祭奠，并未提供情感上的抚慰或治愈，healing体验极其微弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "对历史的宏大叙事和命运无情碾压产生的敬畏感中度存在，但因其落脚于小人物悲剧而并未过度拔高。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.9,
+          "explanation": "全剧充满了对旧时代老北京风情、人情与语言的深切怀念，nostalgia是其核心情感体验之一。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "该剧的核心目的即为引发观众对历史、社会和人性进行深刻反思，reflection是其最主导的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "剧中几乎没有爱情线索或浪漫主义的表达，romance体验几乎可以忽略。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.65,
+          "explanation": "尽管没有激烈的外部动作，但人物在时代洪流中的生存困境和内心挣扎带来了持续的内在紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.4,
+          "explanation": "剧中人物之间存在着草根式的互相扶持和微薄的温暖，但在巨大的悲剧背景下显得杯水车薪。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "随着时代变迁，主要角色逐一老去或被时代抛弃，结尾三个老人独自祭奠的场景将孤独感推向顶点。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "作品旨在‘葬送三个时代’，旧时代的希望被逐一扑灭，结尾处几乎没有给未来留下明确的光明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.8,
+          "explanation": "剧本以具体茶馆象征整个旧中国社会，通过人物群像映射时代命运，具有高度抽象性和象征意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.7,
+          "explanation": "人物众多且关系复杂，横跨三个时代的信息交叠，构建了一个需要观众梳理和多角度理解的社会网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.9,
+          "explanation": "作品深入探讨了历史规律、国民性、文化变迁与个人命运的关系，思想深度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.6,
+          "explanation": "叙事以时间为轴线性展开，结构清晰，但内在逻辑更偏向历史因果的感性呈现而非严密的形式逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "以茶馆作为观察社会横截面的‘人物展览式’戏剧结构，在当时中国话剧创作中具有创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "场景高度集中，精神上的探索指向历史规律和人性，而非对未知世界或新奇事物的发现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.5,
+          "explanation": "人物善恶并非绝对，时代的对错也非简单二元，存在一定的模糊地带，但作者批判意图总体明确。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.4,
+          "explanation": "在已知的三段式历史大框架下，小人物的悲剧命运具有一定可预见性，带来了宿命感而非悬念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "台词精炼且富含潜台词，包含巨量的历史文化、社会风俗和人物心理信息，密度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.92,
+          "explanation": "作为了解中国近代社会变迁、市民文化和语言艺术的教科书式作品，其认识价值和学习价值极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "作品的全部重心落在王利发、常四爷、秦二爷等个体人物的命运和个人选择上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "茶馆是各种社会关系的交汇点，作品精细描绘了主顾、父子、官民、新旧势力之间的复杂关系网。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "作品的核心是描绘整个社会生态和三教九流的众生相，社会全景图的展现是其首要任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.8,
+          "explanation": "通过茶馆的兴衰展现了整个旧中国文明的没落，以及新旧文明交替带来的阵痛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "作品完全聚焦于现世的社会与人事，不涉及宇宙、宗教或超自然层面的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.95,
+          "explanation": "剧本跨度近五十年，覆盖晚清、民国、抗战胜利三个截然不同的历史时期，时间纵深感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "作品为严格的现实主义题材，不存在任何幻想、超自然或非现实的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "全剧基调悲凉，即使有少量幽默对白也是含泪的笑，整体缺乏持续的快乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.9,
+          "explanation": "对人物一步步走向毁灭的铺陈，使悲伤成为贯穿始终的主导情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "老一代人被时代抛弃，新一代人各寻出路，茶馆最终人去楼空，孤独和遗弃感极为强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.3,
+          "explanation": "王利发经营茶馆时的待人接物、邻里间的关照保留了部分人情温度，但被大环境的冷酷所吞噬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.5,
+          "explanation": "人物对军警特务、社会动荡和生存危机的恐惧是推动其行为的重要心理动因之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.7,
+          "explanation": "每一幕都通过不同势力的冲突和人物的求生挣扎营造了高度的戏剧张力和心理压迫感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.5,
+          "explanation": "观众对历史必然性的敬畏和对作者洞察力的叹服构成了一种理性的awe，而非感性的惊叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.95,
+          "explanation": "剧本本身就是一曲旧时代的挽歌，对老北京的语言、规矩、物件和人情世故充满了最深沉的怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "在‘葬送三个时代’的主题下，新世界的光明在茶馆内部几乎不可见，希望感极度微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.95,
+          "explanation": "忧伤、惆怅、对逝去事物的无可奈何弥漫全剧，是作品最核心的美学情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.35,
+          "explanation": "作品更多地表现为无奈和讽刺，直接的愤怒和控诉让位于更深沉的悲哀与批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "作品从始至终充满了动荡与不安，人物内心毫无宁静，和平与安宁的体验几乎为零。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "体现在语言的精粹、结构的匀称和对旧京生活细节的精致还原上，是一种高度艺术化的写实美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "以极简的固定场景承载极度复杂的社会内容，舞台设计、情节转换均体现‘以少胜多’的美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.2,
+          "explanation": "美学风格趋于朴实、地道和生活化，即便表现富态人物也带着讽刺，与奢华审美绝缘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.75,
+          "explanation": "剧情和氛围逐步走向黯淡，结尾尤其黑暗，体现了悲剧美学的深重与压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.1,
+          "explanation": "作品整体色调灰暗，结局凄凉，没有提供明亮、积极或轻松的审美感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "极度写实的风格和对现实社会的精准剖析，与梦幻、朦胧的审美完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.2,
+          "explanation": "一切冲突和命运都指向明确的社会根源，没有营造神秘或悬疑的美学意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "其‘图卷式’的戏剧结构在当时具有探索性，但美学核心依然是经典的现实主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.95,
+          "explanation": "从语言、结构到人文关怀都达到了中国现实主义戏剧的经典高度，体现了古典的均衡与厚重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.1,
+          "explanation": "作品内容是反思‘现代性’对传统社会的冲击，其艺术风格本身是经典而非现代的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.85,
+          "explanation": "虽然缺乏一条主线剧情，但多条人物命运线交织并行，共同构成了宏大而复杂的社会情节网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.95,
+          "explanation": "七十多个角色，绝大多数仅寥寥数笔即形象丰满、性格鲜明、背景深厚，人物塑造达到了极致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "人物性格主要是‘展示’其不变的本质在时代下的呈现，而非经历内在成长或转变，更多的是被摧毁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.9,
+          "explanation": "建构了一个自足的、细节丰富的微观社会——裕泰茶馆，其规则和生态极为完整、真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.5,
+          "explanation": "采用三幕跨越一个大时代的跳跃式线性结构，时间本身是非连续的，但内在因果是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.7,
+          "explanation": "作品需要观众静下心来品味语言细节和人物关系，逐渐沉浸于茶馆的氛围和历史感中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "戏剧冲突主要通过对话完成，几乎没有肢体的暴力或激烈的外部动作，动作强度极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.8,
+          "explanation": "人与人、人与时代的对立尖锐而深刻，内在冲突强度极高，是推进剧情和深化悲剧的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.9,
+          "explanation": "剧本触及了国民性、历史循环、生命意义等深刻的哲学命题，具有极强的思辨价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.4,
+          "explanation": "作品展示个人在旧社会中的挣扎，但个体的力量始终被环境碾压，并非宣扬个人主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.6,
+          "explanation": "作品展现了茶馆作为一个‘小集体’的生态，以及人与社会集体命运的关联，但并非积极的集体主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.7,
+          "explanation": "王利发家庭的代际传承与变化、其他人物的家庭背景是重要的叙事元素和命运支点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.7,
+          "explanation": "王利发、常四爷、秦二爷、松二爷之间几十年风雨飘摇中残存的交情是剧中宝贵的人性暖色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.25,
+          "explanation": "爱情并非作品的主题，特别是男女之爱非常边缘化，亲情和阶层关系是更主要的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.85,
+          "explanation": "整个茶馆就是一个微型社区，其内部的规则、氛围和共同命运是作品描写的核心对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.65,
+          "explanation": "表现为在恶劣环境中对生存资源的残酷争夺，以及新旧势力之间的权力角逐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.3,
+          "explanation": "面对时代洪流，人物间偶有互助，但合作是脆弱和短暂的，难以改变悲剧结局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.9,
+          "explanation": "权力不对等是戏剧冲突的根本来源，官差欺压百姓、强者欺凌弱者是推动情节的核心关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.8,
+          "explanation": "人物的社会身份（掌柜、旗人、实业家、说书人、特务等）决定了他们的命运和处境，身份认同是核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.3,
+          "explanation": "人物鲜有追求抽象自由的主动行为，更多是在不自由的境遇中寻找生存缝隙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "作品描绘的是秩序的崩塌，而非建立秩序，旧时代的秩序被证明是腐朽和不公的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.8,
+          "explanation": "作品以极高的勇气和洞察力揭示了历史与社会的残酷真相，追求‘真’是其核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "在语言艺术、结构美学和对旧时光的挽歌式呈现中，表现出极高的艺术审美价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.2,
+          "explanation": "剧中人物的‘事业’（茶馆改良、实业救国）最终均归于失败，作品本身在解构‘成就’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.45,
+          "explanation": "作品充满了对不公的控诉，但并未在剧中实现正义，反而以一种‘天地不仁’的视角展示正义的缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.5,
+          "explanation": "人物为了生存、家人和信念做出了各种让步与牺牲，这种被动牺牲构成了悲剧性的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.2,
+          "explanation": "人物更多的是被动应对环境，鲜有对内心世界或自我存在意义的主动探求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.9,
+          "explanation": "作品对传统的语言、礼仪、道德观念和生活方式进行了浓墨重彩的描绘、怀念与批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.85,
+          "explanation": "‘时代变迁’是作品的主题，作品深刻展示了变化的不可避免及其带来的巨大阵痛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.9,
+          "explanation": "各阶层人物在动荡社会中想方设法活下去的本能和策略，是贯穿全剧的核心行为逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.7,
+          "explanation": "作品最终指向对生命意义和历史意义的深沉叩问，尤其是在所有挣扎都归于虚无之后。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "作品诱导的是审视和反思，而非对未知的好奇，人物的行为大多出于生存本能而非好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.2,
+          "explanation": "秦二爷的‘实业救国’是创造的尝试，但以失败告终，整体基调是对创造的否定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "人物在封闭的空间中求稳和求生，没有冒险探索的行为导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "这是作品鼓励的最主要行为倾向，引导观众在观剧后对社会、历史和人性进行反复思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.5,
+          "explanation": "生存竞争是人物间的常态，但被更多地呈现为一种残酷的被动态势，而非积极主动的进取。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.8,
+          "explanation": "作品完全围绕社交场所展开，所有活动都是高度社会化的，展示了复杂的社交行为和潜规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "王利发的小心谨慎、遵循祖训是一种规训，但最终被证明无效，作品本身不鼓励刻板的纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "在自身难保的环境下，人物的行为趋向于规避风险，任何冒险都可能招致灭顶之灾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "茶馆的氛围表面平和，实则暗流涌动，人物内心充满焦虑和不安，绝非常见的平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "作品的核心是‘直面’残酷现实，人物无处可逃，也没有鼓励逃避现实的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.5,
+          "explanation": "作为舞台剧，视觉焦点集中在演员表演和相对固定的布景上，强度适中，不以视觉奇观取胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.4,
+          "explanation": "为配合沧桑、破败的时代氛围，舞台美术通常采用灰暗、低饱和度的色调，不以色彩丰富见长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "演员的对白是核心听觉要素，辅以市井的吆喝、蟋蟀叫等环境音，用以烘托氛围而非高强度刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.4,
+          "explanation": "全剧节奏张弛有度，但整体趋向于沉稳、迟缓，符合其深沉的悲剧基调，能量水平不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "通过台词、表演和舞台调度营造出浓厚、真实的时代氛围和茶馆特有的环境气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "写实主义的布景和高超的表演使得观众极易代入茶馆空间，沉浸在跨越几十年的历史情境中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.95,
+          "explanation": "作为话剧，其全部艺术魅力都建立在演员在舞台上的现场演绎和与观众的直接交流上。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "该剧是演员的艺术，对台词功底和面部、声音的表现力要求极高，演员的表演是核心。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.8,
+          "explanation": "演员的走位、姿态、手势等身体语言对塑造人物身份、年龄和内心状态至关重要。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.7,
+          "explanation": "作为一种‘人物展览式’戏剧，它尤其依赖于观众对人物的迅速感应和情感代入，形成共鸣。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.75,
+          "explanation": "虽然外部动作不多，但演员需要灌注巨大的内在情感能量，表演张力贯穿始终，尤其在悲剧高潮处。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.6,
+          "explanation": "结尾三位老人撒纸钱自我祭奠的仪式性场景，是舞台剧仪式感的集中爆发，赋予全剧象征意味。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众被带入一个充满人情味却又注定走向衰亡的茶馆，在长达五十年的历史跨度中，体验着小人物在时代洪流中的无力挣扎。从最初的生动、喧嚣到最后的凋零、死寂，观众的情感经历了一个由怀旧、共情逐步滑向沉重悲凉、直至彻底幻灭的过程。这是一种深刻的移情体验，让人为剧中人的命运扼腕，也为那个逝去的时代发出一声悠长的叹息。",
+        "structure_description": "作品采用高度集中的三幕时空结构，每一幕代表一个时代，通过固定的茶馆空间串联起人物的生死聚散。这种‘人像展览式’的结构不以强烈的外部情节为推动，而是让观众在每一幕的横截面中观察社会生态和人物关系的变化，最终在时间累积中爆发出强大的悲剧力量。节奏由第一幕的熙攘热闹，到第二幕的勉强维持，再到第三幕的凄凉收场，形成情感上的递进与下沉。",
+        "cognitive_expression": "作品要求观众进行高强度的社会图景识别和符号解码，将茶馆的个体叙事升华为对民族和时代命运的抽象思考。观众需要调动其历史知识、社会经验和人文关怀，在多条人物线索和丰富的潜台词中理解作品的深层寓意。其认知体验偏向于辨析，即对复杂社会现象和人性真相进行持续的、批判性的审视。",
+        "behavioral_tendency_description": "作品强烈地唤起观众进行内省和反思的倾向，而非激发外部行动。它引导观众在体验结束后，继续思考个人在历史中的位置、社会变革的代价以及人性的恒常。作品不提供解决方案或行为榜样，而是呈现困境，从而在审美认知层面鼓励一种深沉的、质疑性的思辨行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 0.25,
+        "Ti": 0.7,
+        "Te": 0.35,
+        "Fi": 0.65,
+        "Fe": 0.85,
+        "Si": 0.88,
+        "Se": 0.18,
+        "openness": 0.78,
+        "conscientiousness": 0.35,
+        "extraversion": 0.2,
+        "agreeableness": 0.45,
+        "neuroticism": 0.75,
+        "Assertive": 0.1,
+        "Turbulent": 0.9
+      },
+      "supporting_evidence": [
+        "全剧场景高度集中于一个名为裕泰的北京老茶馆内，通过这一固定空间展现时代变迁。",
+        "剧本采用三幕剧结构，时间分别设定在清末、民国初年和抗战胜利后，间隔数十年。",
+        "主要人物王利发作为茶馆掌柜，贯穿三个时代，其经营策略随社会动荡不断调整以求生存。",
+        "剧中登场人物多达七十余人，涵盖太监、说书人、相士、特务、资本家、贫民等三教九流。",
+        "作品语言运用地道的北京方言，包含大量老北京特有的幽默、客套与反讽。",
+        "主要人物的命运均以悲剧收场，实业救国、改良维新和个人奋斗的尝试在剧中全部宣告失败。",
+        "作品通过具体的个人遭遇，映射出从封建皇权到民国军阀混战再到国民党统治末期的宏大历史变迁。",
+        "权力不对等关系在剧中反复出现，表现为官差、特务、流氓对茶馆掌柜和底层百姓的压迫与勒索。",
+        "茶馆的空间功能从纯粹喝茶聊天逐步演变为公寓、仓库甚至人口买卖的场所，反映了社会的异化。",
+        "结尾处，三个年迈的主角在空无一人的茶馆中，自己为自己撒纸钱进行祭奠，仪式感强烈。",
+        "全剧外显的戏剧动作极少，矛盾冲突主要通过人物之间的语言交锋和心理攻防来展现。",
+        "故事中穿插了父子两代的传承与断裂，例如王利发与其子女在价值观和生存方式上的对立。",
+        "作品对老北京的饮食、礼仪、建筑、行当等物质文化和非物质文化遗产进行了精细的描写。",
+        "剧中没有塑造完美的英雄人物，每个角色都有其自私、懦弱或苟且的一面，呈现出复杂的人性。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

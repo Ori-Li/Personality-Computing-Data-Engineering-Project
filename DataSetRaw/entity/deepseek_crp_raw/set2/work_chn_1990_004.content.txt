@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1990_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "关中百姓",
+        "type": "PHOTOGRAPHY",
+        "countryName": "中国",
+        "year": 1990,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "PHOTOGRAPHY"
+      },
+      "semantic": {
+        "summary": "《关中百姓》是潘科拍摄的纪实摄影集，聚焦于陕西关中地区农村的日常生活。作品以平实而深情的镜头，捕捉了婚丧嫁娶、耕作起居等乡土场景，系统记录了在社会剧烈转型前夕，关中农村最后的宁静与淳朴风貌，具有重要的社会学与人类学档案意义。",
+        "themes": [
+          "乡村生活",
+          "传统农耕文明",
+          "社会变迁",
+          "民间习俗",
+          "土地与家园",
+          "集体记忆"
+        ],
+        "keywords": [
+          "关中地区",
+          "陕西农村",
+          "纪实摄影",
+          "日常生活",
+          "农耕",
+          "婚丧嫁娶",
+          "潘科",
+          "社会转型",
+          "乡土中国",
+          "黑白摄影"
+        ],
+        "core_experience": "观看者在翻阅《关中百姓》时，会体验到一种对渐行渐远的传统农耕文明的沉静凝视。镜头下的日常场景超越了单纯的记录，唤起一种对土地、家园与过往时光的深切怀恋与温和敬意。",
+        "experience_introduction": "《关中百姓》通过静态的黑白影像，将观众带入一个缓慢、宁静且充满仪式感的乡土世界。作品并非追求戏剧性的冲突，而是通过对日常重复性劳作、民俗仪式和群像面孔的细腻捕捉，营造出一种沉浸式的怀旧与平和氛围。观众在观看过程中，情感被温和地调动，注意力被引导至那些正在消逝的生活细节与文化肌理上，从而引发对传统与现代关系的深层思考。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.55,
+        "awe": 0.25,
+        "nostalgia": 0.92,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.10,
+        "warmth": 0.70,
+        "loneliness": 0.45,
+        "hope": 0.20
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.40,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.30,
+          "novelty": 0.35,
+          "exploration": 0.20,
+          "ambiguity": 0.55,
+          "predictability": 0.75,
+          "information_density": 0.65,
+          "learning_value": 0.80
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.70,
+          "social_scale": 0.60,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.10,
+          "time_span": 0.65,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.60,
+          "loneliness": 0.40,
+          "warmth": 0.70,
+          "fear": 0.05,
+          "tension": 0.10,
+          "awe": 0.20,
+          "nostalgia": 0.95,
+          "hope": 0.15,
+          "melancholy": 0.80,
+          "anger": 0.05,
+          "peace": 0.70
+        },
+        "aesthetic": {
+          "beauty": 0.60,
+          "minimalism": 0.85,
+          "luxury": 0.00,
+          "darkness": 0.25,
+          "brightness": 0.45,
+          "dreamlike": 0.20,
+          "mystery": 0.15,
+          "experimental": 0.20,
+          "classical": 0.90,
+          "modern": 0.10
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.60,
+          "character_growth": 0.15,
+          "world_building": 0.70,
+          "nonlinear_structure": 0.30,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.15,
+          "philosophical_depth": 0.65
+        },
+        "social_relationship": {
+          "individualism": 0.25,
+          "collectivism": 0.80,
+          "family": 0.85,
+          "friendship": 0.45,
+          "love": 0.20,
+          "community": 0.90,
+          "competition": 0.05,
+          "cooperation": 0.75,
+          "power_relationship": 0.20,
+          "identity": 0.70
+        },
+        "value": {
+          "freedom": 0.15,
+          "order": 0.70,
+          "truth": 0.85,
+          "beauty": 0.50,
+          "achievement": 0.10,
+          "justice": 0.15,
+          "sacrifice": 0.45,
+          "self_exploration": 0.30,
+          "tradition": 0.95,
+          "change": 0.60,
+          "survival": 0.50,
+          "meaning": 0.80
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.20,
+          "adventure": 0.05,
+          "reflection": 0.90,
+          "competition": 0.05,
+          "social": 0.50,
+          "discipline": 0.40,
+          "risk": 0.05,
+          "calm": 0.85,
+          "escape": 0.30
+        },
+        "sensory": {
+          "visual_intensity": 0.50,
+          "color_richness": 0.10,
+          "sound_intensity": 0.05,
+          "rhythm_energy": 0.10,
+          "atmosphere": 0.95,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "photography_vector": {
+          "reality_capture": 0.95,
+          "human_focus": 0.90,
+          "visual_composition": 0.75,
+          "documentary_value": 0.95,
+          "artistic_expression": 0.70,
+          "moment_sensitivity": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品情绪基调平和，无激烈情感表达，因此激情程度较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.55,
+          "explanation": "乡土生活的宁静画面带来温和的治愈感，但并非核心目的。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.25,
+          "explanation": "以平凡生活为主，不追求宏大或令人敬畏的场景。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.92,
+          "explanation": "作品的核心情感体验，记录了转型前即将消逝的乡土生活。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "影像档案性质强，引导观众思考传统与现代、社会变迁等议题。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "基本不涉及浪漫爱情主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.10,
+          "explanation": "内容平和，无明显紧张或冲突氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.70,
+          "explanation": "镜头语言平实深情，对人物和生活的描绘充满温情。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.45,
+          "explanation": "安静的画面可能带来些许寂寥感，但群体生活场景居多。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.20,
+          "explanation": "基调是回顾与凝视，而非展望未来或传递希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "内容具体实在，集中于具象的生活场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.40,
+          "explanation": "单个画面信息直观，但整体构成复杂的社会文化图景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "需要结合社会学、历史学知识进行深层解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "组织方式多为平铺直叙，缺乏严密的逻辑推导链。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "主题和手法在纪实摄影领域属于经典范畴，非高度创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "是对已知地域的记录，不鼓励探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "静态影像的意义具有开放性，解读空间适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "日常生活场景具有较高的可预见性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.65,
+          "explanation": "图像蕴含丰富的文化、社会和人类学细节，信息浓度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.80,
+          "explanation": "具有极高的社会学、民俗学档案价值，可作为乡土研究史料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "聚焦于个体人物肖像及其日常生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.70,
+          "explanation": "大量描绘劳作、仪式中的人际互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.60,
+          "explanation": "通过群像记录展现了村落社会的运作方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "隐含了对整个农耕文明形态的关怀与记录。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "完全不涉及宇宙或宏大空间尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.65,
+          "explanation": "虽是片段集合，但意在对一个时代做出总结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.00,
+          "explanation": "严格的纪实摄影，无任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "总体氛围沉静而非喜悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.60,
+          "explanation": "对消逝传统和艰苦生活的记录带来淡淡悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.40,
+          "explanation": "少数画面表现了个体的孤寂，但非主要情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.70,
+          "explanation": "人际互动和日常细节的捕捉传递出人情的温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "内容安全，不引起恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.10,
+          "explanation": "氛围松弛，无紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.20,
+          "explanation": "对民间智慧的敬意可能带轻微敬畏，但非主要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.95,
+          "explanation": "主导情感，引导观众怀念过去的生活方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.15,
+          "explanation": "回顾多过展望，希望感微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.80,
+          "explanation": "整体笼罩着对逝去时光的忧郁与感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品冷静客观，不表达愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.70,
+          "explanation": "缓慢的生活节奏营造出深度的平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.60,
+          "explanation": "构图和光影展现了一种朴素之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "视觉元素简洁，去繁就简，突出主体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.00,
+          "explanation": "描绘的是贫乏的物质生活，无奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.25,
+          "explanation": "影调可能偏深沉，但整体明亮度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.45,
+          "explanation": "自然光下的乡村场景，亮度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.20,
+          "explanation": "高度写实，非梦境般的朦胧风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "内容直白，无神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.20,
+          "explanation": "形式经典，非实验性摄影。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.90,
+          "explanation": "极具古典纪实主义摄影的风格特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.10,
+          "explanation": "属于现代摄影，但审美倾向极为传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "无剧情的静态影像集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.60,
+          "explanation": "通过肖像和环境描绘，展现了人物的内在世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "只是切片而非连续叙事，看不到人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.70,
+          "explanation": "系统性构建了一个完整的关中乡土世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.30,
+          "explanation": "摄影集结构可以是非线性的，自由组合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "需要观众静心、长时间地沉浸和品味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "捕捉静态瞬间，无动作场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.15,
+          "explanation": "回避直接冲突，展现的是生活常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.65,
+          "explanation": "蕴含对生存、时间、传统与现代关系的哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.25,
+          "explanation": "大多数活动是集体的，个人主义表现较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.80,
+          "explanation": "强烈展现了集体劳动和群居生活的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.85,
+          "explanation": "家庭是出现频率最高的社会单元。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.45,
+          "explanation": "邻里和伙伴关系体现在日常互动中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.20,
+          "explanation": "爱情不是作品关注的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.90,
+          "explanation": "村落社区是作品的核心社会框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "基本不表现竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.75,
+          "explanation": "农耕和仪式活动体现了高度的合作性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.20,
+          "explanation": "对权力结构有隐隐约约的呈现，非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.70,
+          "explanation": "深刻探讨了“农人”这一身份认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.15,
+          "explanation": "更多呈现束缚在土地上的命运，而非自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.70,
+          "explanation": "强调四时节气、民俗规矩等传统秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.85,
+          "explanation": "纪实摄影的最高价值，追求真实记录。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.50,
+          "explanation": "在平凡中发现美，是作品的表达手法之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.10,
+          "explanation": "不强调个人成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "非社会批判作品，不讨论正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.45,
+          "explanation": "农民的辛劳本身蕴含对家庭的牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.30,
+          "explanation": "更多是群体层面的身份认同，非个体探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.95,
+          "explanation": "作品的核心主题就是记录与致敬传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.60,
+          "explanation": "背景是“转型前”，故而隐含了对巨变的认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.50,
+          "explanation": "展现了靠天吃饭的生存状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.80,
+          "explanation": "探寻这种生活方式背后的生命意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "鼓励对已知文化的深入了解，而非好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.20,
+          "explanation": "不激发观众的创造欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "内容安土重迁，毫无冒险色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.90,
+          "explanation": "作品强烈引导观众进行内省与思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "不表现竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.50,
+          "explanation": "展现了紧密的社交网络，但观众互动体验是静态的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.40,
+          "explanation": "农耕生活需要遵循天时，体现一定纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "回避风险，而非鼓励冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.85,
+          "explanation": "影像的静谧感让观众也变得平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.30,
+          "explanation": "提供了一处现代生活的避难所，但非主要目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.50,
+          "explanation": "作为视觉媒体，强度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.10,
+          "explanation": "黑白摄影，无色彩表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.05,
+          "explanation": "无声的静态影像。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.10,
+          "explanation": "节奏由观者掌控，作品本身无动态节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "作品最突出的成就，成功营造了独特的乡土氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "氛围感强烈，能让观众沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.reality_capture",
+          "score": 0.95,
+          "explanation": "纪实摄影的本质就是捕捉现实。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.human_focus",
+          "score": 0.90,
+          "explanation": "“百姓”是绝对的主题，对人的关注度极高。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.visual_composition",
+          "score": 0.75,
+          "explanation": "画面构图讲究，体现了作者的艺术功底。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.documentary_value",
+          "score": 0.95,
+          "explanation": "核心价值在于其无可替代的文献档案意义。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.artistic_expression",
+          "score": 0.70,
+          "explanation": "在记录事实的同时，融入了深刻的情感与审美表达。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.moment_sensitivity",
+          "score": 0.85,
+          "explanation": "捕捉决定性瞬间，展现生活最有意味的片刻。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众主要经历一次深沉而平和的视觉旅程。核心体验是浓烈的怀旧感与对消逝传统的忧郁反思，同时伴随着由平实镜头带来的温情与对人类生存状态的敬意。作品静水深流，情感层次丰富，但基调沉静，不追求情绪的大起大落。",
+        "structure_description": "作品作为一本摄影集，其体验结构是非线性的、片段式的。观众可以自由翻阅，每一次凝视都是一个独立的体验单元。整体结构松散但内在统一，所有影像共同围绕“关中乡土生活”这一核心，构建起一个完整的世界。缓慢节奏是其主要的结构性特征。",
+        "cognitive_expression": "作品鼓励一种深度观察与反思的认知模式。面对高信息密度的纪实影像，观众需要调动文化、历史知识进行解读，思考个体、群体与文明形态之间的关系。认知负荷不高，但思考深度潜力很大，尤其在社会学和人类学层面。",
+        "behavioral_tendency_description": "作品强烈唤起观众的静观、内省与怀旧行为。它让观众慢下来，细细品味画面的每一个细节，从而触发对自身文化根源的追溯与重新审视。这是一种向内的、沉思式的行为倾向，而非向外探索或行动的冲动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.20,
+        "Ti": 0.30,
+        "Te": 0.15,
+        "Fi": 0.40,
+        "Fe": 0.75,
+        "Si": 0.95,
+        "Se": 0.30,
+        "openness": 0.45,
+        "conscientiousness": 0.55,
+        "extraversion": 0.25,
+        "agreeableness": 0.70,
+        "neuroticism": 0.60,
+        "Assertive": 0.75,
+        "Turbulent": 0.40
+      },
+      "supporting_evidence": [
+        "镜头系统地记录了婚丧嫁娶等关中地区的重要人生仪式。",
+        "大量画面呈现了农民在土地上进行耕种、收获等日常劳作。",
+        "作品捕捉了乡村集市、邻里交谈等公共社交场景。",
+        "影像中的人物肖像展现了农民朴实、坚毅的面部细节。",
+        "照片记录了传统民居、农具和手工艺品的具体形态。",
+        "画面展现了老人与儿童等不同代际人物的生活状态。",
+        "作品拍摄于中国社会发生剧烈城市化转型的前夕。",
+        "整部影集采用黑白摄影进行拍摄。",
+        "镜头语言倾向于平静的观察，而非戏剧化的摆拍。",
+        "场景多为室外自然光下的真实生活瞬间。",
+        "作品呈现了人与土地之间紧密的依存关系。",
+        "影像记录了特定地域的民间信仰和节庆活动。",
+        "作品以关中平原的自然地理环境为统一背景。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

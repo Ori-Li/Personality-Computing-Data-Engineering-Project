@@ -1,0 +1,761 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1970_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "修炼爱情",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2013,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《修炼爱情》是一首华语流行情歌，由林俊杰演唱、易家扬作词。歌曲以“修炼”为核心隐喻，将爱情描绘为一场需要痛苦、反思与坚持的漫长修行。歌词从回忆伤痛切入，逐步转向内省与成长，搭配林俊杰标志性的高亢嗓音和层层递进的编曲，营造出一种从压抑到释放的情感旅程。作品超越了简单的失恋叙事，探讨了失去后的自我重建与情感成熟。",
+        "themes": [
+          "爱情",
+          "失去",
+          "成长",
+          "记忆",
+          "反思",
+          "坚强",
+          "修炼"
+        ],
+        "keywords": [
+          "林俊杰",
+          "易家扬",
+          "流行情歌",
+          "华语流行",
+          "失恋",
+          "情感修炼",
+          "自我成长",
+          "回忆",
+          "伤痛",
+          "坚强",
+          "2013年"
+        ],
+        "core_experience": "在一种逐渐增强的悲伤与力量感交织中，体验从情感废墟中站起来的自我疗愈过程。",
+        "experience_introduction": "歌曲通过压抑低沉的A段主歌与爆发力极强的B段副歌形成鲜明对比，模拟了人在经历重大失去时从内心封锁到情绪决堤，再到最终接受与自我勉励的心理过程。林俊杰的声线在脆弱与坚韧之间游走，引导听众完成一次深度的情感宣泄与内省。"
+      },
+      "experience_vector": {
+        "passion": 0.78,
+        "healing": 0.82,
+        "awe": 0.15,
+        "nostalgia": 0.75,
+        "reflection": 0.88,
+        "romance": 0.55,
+        "tension": 0.72,
+        "warmth": 0.35,
+        "loneliness": 0.80,
+        "hope": 0.70
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.45,
+          "complexity": 0.35,
+          "depth_of_thought": 0.65,
+          "logical_structure": 0.30,
+          "novelty": 0.25,
+          "exploration": 0.20,
+          "ambiguity": 0.40,
+          "predictability": 0.60,
+          "information_density": 0.40,
+          "learning_value": 0.50
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.75,
+          "social_scale": 0.10,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.10,
+          "time_span": 0.55,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.85,
+          "loneliness": 0.80,
+          "warmth": 0.20,
+          "fear": 0.25,
+          "tension": 0.70,
+          "awe": 0.10,
+          "nostalgia": 0.75,
+          "hope": 0.60,
+          "melancholy": 0.82,
+          "anger": 0.30,
+          "peace": 0.25
+        },
+        "aesthetic": {
+          "beauty": 0.70,
+          "minimalism": 0.30,
+          "luxury": 0.40,
+          "darkness": 0.60,
+          "brightness": 0.30,
+          "dreamlike": 0.35,
+          "mystery": 0.15,
+          "experimental": 0.10,
+          "classical": 0.20,
+          "modern": 0.75
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.40,
+          "character_growth": 0.78,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.45,
+          "slow_immersion": 0.65,
+          "action_intensity": 0.30,
+          "conflict_intensity": 0.75,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.70,
+          "collectivism": 0.10,
+          "family": 0.05,
+          "friendship": 0.15,
+          "love": 0.95,
+          "community": 0.05,
+          "competition": 0.05,
+          "cooperation": 0.10,
+          "power_relationship": 0.20,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.10,
+          "truth": 0.25,
+          "beauty": 0.35,
+          "achievement": 0.60,
+          "justice": 0.05,
+          "sacrifice": 0.45,
+          "self_exploration": 0.85,
+          "tradition": 0.15,
+          "change": 0.70,
+          "survival": 0.55,
+          "meaning": 0.80
+        },
+        "behavior": {
+          "curiosity": 0.15,
+          "creation": 0.20,
+          "adventure": 0.10,
+          "reflection": 0.90,
+          "competition": 0.05,
+          "social": 0.10,
+          "discipline": 0.55,
+          "risk": 0.25,
+          "calm": 0.30,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.40,
+          "color_richness": 0.45,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.70,
+          "atmosphere": 0.78,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行",
+          "tempo": 0.55,
+          "energy": 0.78,
+          "vocal_style": "高亢抒情",
+          "instrumentation": "钢琴与弦乐为主",
+          "production_style": "现代流行编曲，情感层层递进",
+          "lyrical_theme": "失恋、成长与内省",
+          "emotional_scene": "深夜独处、回忆往事、雨中场景",
+          "cultural_context": "21世纪华语流行情歌，以细腻情感表达著称"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.78,
+          "explanation": "副歌部分情感爆发力强，演唱充满激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.82,
+          "explanation": "歌词从伤痛走向感悟，营造出自我疗愈氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "作品情感真挚但不追求宏大或令人敬畏的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.75,
+          "explanation": "歌词反复提及过去的记忆和往事，引发怀旧感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.88,
+          "explanation": "核心内容是失去后的自我反思与总结。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.55,
+          "explanation": "以爱情为主题，但侧重失去而非甜蜜浪漫。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.72,
+          "explanation": "主歌压抑的情绪积累到副歌释放，形成强烈张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.35,
+          "explanation": "整体基调偏冷，虽有感悟但温暖感不强。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.80,
+          "explanation": "歌词描绘了一个人面对失去和回忆的孤独状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.70,
+          "explanation": "尽管基调悲伤，但结尾带有走出阴霾的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.45,
+          "explanation": "歌词使用“修炼”作为隐喻，有一定抽象性但意象具体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "结构为标准流行歌曲，认知复杂度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.65,
+          "explanation": "将爱情比作修炼，揭示了失去后的深层意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "歌词以情感流动为主，非逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.25,
+          "explanation": "失恋成长主题在华语流行音乐中较为常见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "集中在情感探索，不涉及外部世界探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.40,
+          "explanation": "情感表达直白，但隐喻留有解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.60,
+          "explanation": "编曲和结构遵循流行歌曲常规，发展可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.40,
+          "explanation": "文本信息量适中，不追求高密度知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.50,
+          "explanation": "歌词传达了关于情感和成长的普适性道理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "叙事视角完全集中于个人内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.75,
+          "explanation": "探讨的是主角与失去的恋人之间的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.10,
+          "explanation": "几乎没有涉及任何社会议题或群体关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "不涉及文明尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "歌词中出现了“星辰”等词汇但仅作为比喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.55,
+          "explanation": "时间上涵盖了过去的记忆和未来的期望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "故事情境非常现实，没有超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "作品整体色彩不包含快乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.85,
+          "explanation": "悲伤是因失去爱人产生的主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.80,
+          "explanation": "描绘了一个人默默承受痛苦和成长的孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.20,
+          "explanation": "情绪氛围偏冷，缺乏温暖舒适的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.25,
+          "explanation": "有对过去回忆的畏惧感但非主要情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.70,
+          "explanation": "情感压抑与爆发形成紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.10,
+          "explanation": "不追求宏大或令人敬畏的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.75,
+          "explanation": "对过去爱情的回忆与怀念贯穿全曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.60,
+          "explanation": "歌曲后半段传达出坚强面对的积极信号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.82,
+          "explanation": "淡淡的忧伤与反思交织，忧郁感明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.30,
+          "explanation": "有少许不甘但未转化为强烈愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.25,
+          "explanation": "内心经历了激烈挣扎，宁静感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.70,
+          "explanation": "旋律和编曲优美流畅，具有典雅气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.30,
+          "explanation": "编曲以钢琴和弦乐为主，但不刻意追求极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.40,
+          "explanation": "制作精良，有流行大歌的质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.60,
+          "explanation": "情感上带有沉痛和压抑的暗色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.30,
+          "explanation": "整体音色和氛围偏暗，明亮感有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.35,
+          "explanation": "回忆部分稍有梦幻感但整体偏现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "主题和表达都很直接，不营造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "结构规整，未使用实验性作曲手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.20,
+          "explanation": "不属于古典美学，充满现代流行气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.75,
+          "explanation": "制作手法和情感表达均属于21世纪流行风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "歌词是情感分析，不涉及复杂情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.40,
+          "explanation": "主角也只是在进行内心独白，层次尚可。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.78,
+          "explanation": "歌曲核心是主角从受伤到坚强的心理成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "不涉及任何世界的构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.45,
+          "explanation": "歌词在回忆与现实间跳跃，非线性感较强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.65,
+          "explanation": "从主歌的铺垫到副歌的爆发，需要时间沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.30,
+          "explanation": "主要是情感能量而非物理动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.75,
+          "explanation": "内心的挣扎与对抗非常强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "将爱情与人生修行类比，有一定哲理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.70,
+          "explanation": "强调的是个体的感受、成长和独立面对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.10,
+          "explanation": "不涉及集体或群体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.15,
+          "explanation": "只提及远方队友表达了微弱的友情支持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "作品完全围绕爱情展开，是所有关系的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "不涉及任何社区或群体关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "不涉及任何竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "无实质性的合作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.20,
+          "explanation": "在丧失关系中涉及微弱的情感不对等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "作品深入探索了失去爱人后的自我认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "最终走出束缚带有一定自由意味但不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "不提倡秩序或规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.25,
+          "explanation": "侧重主观感受而非客观真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.35,
+          "explanation": "更强调情感真实而非纯粹艺术美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.60,
+          "explanation": "将痛苦的克服视为一项个人成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及任何正义或公平议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.45,
+          "explanation": "过去的爱情中包含付出和牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "整首歌都是对内心情感和自我的深度探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "不涉及传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.70,
+          "explanation": "核心是经历变故后的自我更新与改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.55,
+          "explanation": "包含在情感废墟中艰难求生的隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.80,
+          "explanation": "试图为痛苦的经历赋予积极的人生意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.15,
+          "explanation": "主要是内省而非对外界的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.20,
+          "explanation": "未明显鼓励创造性行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "不涉及探险或冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.90,
+          "explanation": "鼓励听者进行深刻的内省和自我对话。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "不涉及任何形式的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.10,
+          "explanation": "描绘的是高度私人化的体验，不具社交性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "“修炼”一词隐含了自律和坚持的意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.25,
+          "explanation": "在感情中勇敢面对伤痛带有微弱的风险倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.30,
+          "explanation": "充满情感波动，不追求平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "早期有逃避痛苦的倾向，但最终选择面对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.40,
+          "explanation": "作为一种音乐，在听觉上较强，但提供的视觉画面感为中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "听觉色彩偏冷，有钢琴与弦乐交织的层次，但不算丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "高音部分极具穿透力，被压缩和爆发感很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.70,
+          "explanation": "情感递进推动节奏感，整体动能是克制的爆发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "营造出深沉的孤独与悲伤氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "情感的递进和高音配合能迅速将听者拉入情绪。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 0.00,
+          "explanation": "属性为“流行”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.55,
+          "explanation": "速度中等，不过于急促也不过于缓慢。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.78,
+          "explanation": "副歌部分能量极高，整体情感能量通过压抑到爆发。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 0.00,
+          "explanation": "高亢的抒情唱法，真假声转换自如。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 0.00,
+          "explanation": "以钢琴与弦乐作为铺垫和情感支撑。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 0.00,
+          "explanation": "采用现代流行音乐制作技术，注重动态变化和情感层次。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 0.00,
+          "explanation": "失恋、成长与内省。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 0.00,
+          "explanation": "深夜独处回忆往事时的心境，适合沉重而沉默的氛围。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 0.00,
+          "explanation": "代表了21世纪华语乐坛高质量抒情流行音乐的工业水准和审美。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在一段高度私密化的情感独白中，经历从压抑隐忍到撕心裂肺的释放，最终在废墟中获得重建自我的微弱希冀。整个体验像一次在深夜进行的痛苦却必要的心理手术，林俊杰的嗓音既是手术刀也是缝合线，剖开伤口后又慢慢将其缝合。",
+        "structure_description": "歌曲采用经典的主歌-副歌结构来模拟心理进程。低沉的A段伴随着钢琴构建出一个被回忆封存的空间，仿若独自舔舐伤口；预副歌的情感攀升如同逐渐决堤的泪水；而高亢的B段则是彻底的释放与呐喊。桥段是冷静下来的思考，最后通过对A段的变奏回归，完成一次心理循环。",
+        "cognitive_expression": "作品通过“修炼”这一核心隐喻，不断引导听者进行高强度的类比思维训练，将抽象的痛苦情感具象化为一个可学习、可进步的技能过程。歌词的非线性叙述，在‘过去的我’与‘现在的我’之间构建了一道认知桥梁，强迫听者去反思自我的连续性与断裂性，从而达成一种基于叙事治疗的认知重构。",
+        "behavioral_tendency_description": "音乐本质上奖励了一种孤独的内省行为。它鼓励听者在独处时不回避痛苦，而是将其视为一种需要主动投入的、艰苦的内心工作。通过将‘坚强’描绘为一种具有高度价值的结果，这首歌激励了个体在经历逆境后去追求更深层次的自我认同和情感独立，承诺了一个通过苦难走向成熟的叙事路径。"
+      },
+      "personality_affinity": {
+        "Ni": 0.68,
+        "Ne": 0.20,
+        "Ti": 0.30,
+        "Te": 0.45,
+        "Fi": 0.90,
+        "Fe": 0.25,
+        "Si": 0.78,
+        "Se": 0.15,
+        "openness": 0.55,
+        "conscientiousness": 0.48,
+        "extraversion": 0.20,
+        "agreeableness": 0.42,
+        "neuroticism": 0.78,
+        "Assertive": 0.55,
+        "Turbulent": 0.80
+      },
+      "supporting_evidence": [
+        "歌词开篇描述“凭什么要失望”，直接呈现了一个充满自我诘问的内心空间。",
+        "整首歌使用“修炼”一词作为核心隐喻，将情感痛苦转化为一种需要付出努力的行为。",
+        "主歌以极简的钢琴伴奏开始，营造出一种孤立、安静的回忆氛围。",
+        "演唱者的声线在主歌部分保持压抑，刻意模拟了现实中人强忍泪水时的哽咽感。",
+        "预副歌部分逐渐升高的音调，描绘了情绪从压抑向失控发展的动态过程。",
+        "副歌通过强力且高亢的嗓音进行宣泄，实现了从内敛到释放的情绪爆发。",
+        "编曲中弦乐的层层加入，对应了内心情感复杂度的增加和痛苦程度的加深。",
+        "歌词反复在“过去的回忆”与“现在的领悟”之间进行时空切换。",
+        "第二段副歌相比第一段增加了更多的即兴颤音和转音，表明情绪波动更为剧烈。",
+        "桥段部分歌词“别人有的爱，我们不可能模仿”强调了这种体验的独特性和个体性。",
+        "音乐在结尾处渐弱至只有钢琴和人声，象征着一个人在经历风暴后的回归与平静。",
+        "将爱情结束后的坚强自处比喻为一种“高级”的获得，赋予苦难正向意义。",
+        "歌词中提及“远方的队友”，引入了极微弱的外部社交支持视角，但仅作为背景。",
+        "整首歌曲的叙事视角始终保持第一人称，拒绝任何外部评论或客观描述。",
+        "旋律的创作充分服务于演唱者声线中的金属质感，使得悲伤听起来不仅有脆弱还有硬度。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

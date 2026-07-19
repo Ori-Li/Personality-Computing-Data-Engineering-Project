@@ -143,6 +143,13 @@ def tracked_ids(characters: list[dict[str, Any]], works: list[dict[str, Any]]) -
             ))
         for subcategory in work.get("subcategories", [] if work.get("subcategory") is None else [work["subcategory"]]):
             result["t_work_subcategory_relation"].append(stable_id("work-subcategory", f"{work_logical_id}:{subcategory}"))
+    current_work_ids={str(work["workId"]) for work in works}
+    for character in characters:
+        character_logical_id=str(character["id"])
+        for own in character.get("ownWork",[]):
+            work_logical_id=str(own["workId"])
+            if work_logical_id not in current_work_ids:
+                result["t_work_creator_relation"].append(stable_id("work-creator",f"{work_logical_id}:{character_logical_id}:{own['relationType']}"))
     return result
 
 

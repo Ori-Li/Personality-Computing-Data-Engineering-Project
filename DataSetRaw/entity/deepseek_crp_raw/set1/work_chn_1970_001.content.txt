@@ -1,0 +1,721 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 1,
+    "total": 1,
+    "currentWorkId": "work_chn_1970_001",
+    "nextWorkId": null,
+    "isCompleted": false
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "遇见",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2003,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-20",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "华语流行歌曲《遇见》作为电影《向左走·向右走》主题曲，由易家扬作词，孙燕姿演唱，2003年发行。歌曲以钢琴和弦乐铺陈出都市抒情氛围，歌词围绕对爱情的等待与偶然性展开，捕捉了现代都市人对命运和缘分的微妙期待。作品旋律优美、情感克制，成为华语流行音乐中极具代表性的抒情作品。",
+        "themes": [
+          "爱情",
+          "命运",
+          "等待",
+          "缘分",
+          "都市生活"
+        ],
+        "keywords": [
+          "向左走向右走",
+          "等待",
+          "错过",
+          "偶然",
+          "都市",
+          "抒情钢琴",
+          "华语流行",
+          "缘分",
+          "几米",
+          "孙燕姿"
+        ],
+        "core_experience": "听众在优美的旋律与克制的演唱中，体验到一种对未知爱情的期待与淡淡的宿命感，情绪细腻而不浓烈，带有都市孤独感与对偶然相遇的温柔幻想。",
+        "experience_introduction": "《遇见》通过平缓的钢琴伴奏、孙燕姿清亮而克制的声线，以及以“我遇见谁会有怎样的对白”为核心追问的歌词，营造出一种宁静而略带忧伤的期待感。听众在反复聆听中，会自然地联想到自身对命运和爱情的等待，作品没有激烈的情绪宣泄，而是以细致入微的方式唤起都市人内心深处的柔软与对缘分的遐想。"
+      },
+      "experience_vector": {
+        "passion": 0.32,
+        "healing": 0.58,
+        "awe": 0.12,
+        "nostalgia": 0.75,
+        "reflection": 0.70,
+        "romance": 0.85,
+        "tension": 0.08,
+        "warmth": 0.65,
+        "loneliness": 0.60,
+        "hope": 0.80
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.20,
+          "depth_of_thought": 0.35,
+          "logical_structure": 0.15,
+          "novelty": 0.28,
+          "exploration": 0.25,
+          "ambiguity": 0.58,
+          "predictability": 0.70,
+          "information_density": 0.30,
+          "learning_value": 0.18
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.82,
+          "social_scale": 0.25,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.22,
+          "time_span": 0.30,
+          "fantasy_level": 0.08
+        },
+        "emotion": {
+          "happiness": 0.35,
+          "sadness": 0.42,
+          "loneliness": 0.60,
+          "warmth": 0.65,
+          "fear": 0.05,
+          "tension": 0.08,
+          "awe": 0.10,
+          "nostalgia": 0.75,
+          "hope": 0.80,
+          "melancholy": 0.48,
+          "anger": 0.02,
+          "peace": 0.68
+        },
+        "aesthetic": {
+          "beauty": 0.82,
+          "minimalism": 0.78,
+          "luxury": 0.05,
+          "darkness": 0.18,
+          "brightness": 0.55,
+          "dreamlike": 0.62,
+          "mystery": 0.35,
+          "experimental": 0.10,
+          "classical": 0.70,
+          "modern": 0.45
+        },
+        "narrative": {
+          "plot_complexity": 0.05,
+          "character_depth": 0.35,
+          "character_growth": 0.20,
+          "world_building": 0.08,
+          "nonlinear_structure": 0.05,
+          "slow_immersion": 0.80,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.12,
+          "philosophical_depth": 0.40
+        },
+        "social_relationship": {
+          "individualism": 0.72,
+          "collectivism": 0.15,
+          "family": 0.08,
+          "friendship": 0.22,
+          "love": 0.92,
+          "community": 0.10,
+          "competition": 0.02,
+          "cooperation": 0.15,
+          "power_relationship": 0.02,
+          "identity": 0.45
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.22,
+          "truth": 0.40,
+          "beauty": 0.80,
+          "achievement": 0.05,
+          "justice": 0.05,
+          "sacrifice": 0.08,
+          "self_exploration": 0.68,
+          "tradition": 0.28,
+          "change": 0.30,
+          "survival": 0.05,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.32,
+          "creation": 0.15,
+          "adventure": 0.10,
+          "reflection": 0.82,
+          "competition": 0.02,
+          "social": 0.18,
+          "discipline": 0.10,
+          "risk": 0.05,
+          "calm": 0.78,
+          "escape": 0.42
+        },
+        "sensory": {
+          "visual_intensity": 0.08,
+          "color_richness": 0.15,
+          "sound_intensity": 0.38,
+          "rhythm_energy": 0.22,
+          "atmosphere": 0.85,
+          "immersion": 0.72
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "华语流行抒情",
+          "tempo": 0.25,
+          "energy": 0.28,
+          "vocal_style": "清亮克制抒情",
+          "instrumentation": "钢琴和弦乐为主",
+          "production_style": "简约流行编曲",
+          "lyrical_theme": "都市爱情与缘分等待",
+          "emotional_scene": "宁静略带忧伤的期待",
+          "cultural_context": "2000年代华语流行乐坛黄金时期"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.32,
+          "explanation": "情感表达克制，以安静期待为主，缺乏强烈的热情释放。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.58,
+          "explanation": "旋律优美且情绪稳定，为听众提供温和的情感抚慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.12,
+          "explanation": "作品聚焦个人情感而非宏大或超越性体验，极少引发惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.75,
+          "explanation": "抒情风格与对过去的等待主题结合，强烈唤起怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.70,
+          "explanation": "歌词引导听众思考自身情感经历和爱情观。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.85,
+          "explanation": "核心主题围绕爱情与缘分展开，浪漫体验贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.08,
+          "explanation": "整体氛围平静安宁，几乎不存在紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.65,
+          "explanation": "演唱和编曲传递出温和的关怀与情感温度。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.60,
+          "explanation": "等待爱情的叙事视角天然伴随都市个体的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.80,
+          "explanation": "尽管有淡淡的忧伤，对未来相遇的期待才是主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "对缘分和命运的探讨具有一定抽象性，但以具体情感体验为载体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.20,
+          "explanation": "流行歌曲结构清晰，信息处理负担较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.35,
+          "explanation": "触及对命运偶然性的思考，但深度有限，重在情感共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "作为抒情歌曲，依赖情感流动而非逻辑结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.28,
+          "explanation": "在华语流行抒情框架内，主题与表现形式相对常规。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.25,
+          "explanation": "引导听众探索内心情感，而非外部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.58,
+          "explanation": "缘分和等待本身是开放式概念，为听众提供了多义解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.70,
+          "explanation": "典型的流行歌曲段落结构，旋律发展符合预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.30,
+          "explanation": "歌词和音乐织体相对简约，单位时间内的信息量不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.18,
+          "explanation": "主要提供情感体验而非知识或文化学习。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "作品完全聚焦于第一人称的内心世界和情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.82,
+          "explanation": "对爱情的期待本质上是关于二人关系的构想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.25,
+          "explanation": "仅通过都市背景间接涉及，不深入社会层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及文明、历史等宏观议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.22,
+          "explanation": "提及“命运”和“缘分”，对宇宙秩序有一丝联想但非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.30,
+          "explanation": "时间感停留在对未来的短期期待和过去的回忆之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.08,
+          "explanation": "完全基于现实都市生活，无任何超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.35,
+          "explanation": "虽有期待，但整体被淡淡的忧伤中和，并非纯粹的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.42,
+          "explanation": "源于等待与不确定性的忧愁，但并非深重的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.60,
+          "explanation": "独自等待爱情的状态是孤独感的直接来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.65,
+          "explanation": "温柔的人声和钢琴音色传递出持续的暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "作品中几乎不存在恐怖或惊吓元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.08,
+          "explanation": "音乐行进平稳舒缓，无戏剧性张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.10,
+          "explanation": "作品不具备令人敬畏的宏大或奇异特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.75,
+          "explanation": "歌曲的旋律走向和歌词对过往等待的描绘极易唤起怀旧之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.80,
+          "explanation": "对未来“遇见”的期盼是歌曲最核心的情感驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.48,
+          "explanation": "由等待带来的忧郁感明确但被希望所调和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.02,
+          "explanation": "作品没有任何愤怒或攻击性情绪的投射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.68,
+          "explanation": "整体聆听体验是宁静、平和且内省的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.82,
+          "explanation": "旋律和编曲优美和谐，高度符合主流审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.78,
+          "explanation": "以钢琴为主要乐器，编曲简约，高度依赖人声和旋律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "音乐和主题均不涉及奢华或物质层面的展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.18,
+          "explanation": "虽有淡淡的忧郁，但整体色调偏向明亮和温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "音色清亮，声线透彻，营造出一种清晨或阳光微露般的明亮感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.62,
+          "explanation": "对未知缘分的等待和幻想，赋予了作品轻盈的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.35,
+          "explanation": "未来的不确定性带来一丝神秘，但基调仍然是熟悉的现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "作品采用标准的流行音乐范式，无实验性元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.70,
+          "explanation": "钢琴和弦乐的使用以及优美的旋律线，赋予了歌曲经典的抒情美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.45,
+          "explanation": "尽管是当代流行乐，但其审美内核偏向经久不衰的经典情歌范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.05,
+          "explanation": "歌曲本身无情节，仅表达一种情感状态和心境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.35,
+          "explanation": "虽无人称叙事，但第一人称视角有一定内心深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.20,
+          "explanation": "作品描绘的是静态的情感等待，而非动态的成长过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.08,
+          "explanation": "作为抒情歌曲，侧重点在于情绪而非世界观构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.05,
+          "explanation": "歌曲遵循引子-主歌-副歌的线性推进结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.80,
+          "explanation": "缓慢的节奏和细腻的情感表达，引导听众进入沉浸式的内省体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "作品完全由静态的情感构成，无任何动作性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.12,
+          "explanation": "唯一的冲突来自内心愿望与现实等待之间的矛盾，极为轻微。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.40,
+          "explanation": "对命运偶然性和必然性的追问，触及了浅层哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.72,
+          "explanation": "极度关注个人情感和内心世界，是典型的个体主义视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "社会、集体或家庭关系不在作品视野内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.08,
+          "explanation": "完全不涉及家庭主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.22,
+          "explanation": "侧重点完全在爱情，友情作为背景关系存在感微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.92,
+          "explanation": "爱情是作品唯一且绝对的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.10,
+          "explanation": "都市背景中的个人，缺乏社群感的描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.02,
+          "explanation": "没有任何竞争关系的表达或暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "主题是等待而非共同行动，缺乏合作体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.02,
+          "explanation": "不存在任何权力结构或力量博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.45,
+          "explanation": "通过追问“我遇见谁”，隐含了对自我身份的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "等待的姿态中包含了选择的自由，但非核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.22,
+          "explanation": "对命运安排的一种被动接受，体现了某种“秩序感”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.40,
+          "explanation": "作品试图追问爱情的真理和命运的逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.80,
+          "explanation": "作品本身就是对美的创造，且高度强调情感之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "等待与期待并不指向任何事业或世俗成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "没有任何关于道德或正义的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.08,
+          "explanation": "单纯的等待不构成牺牲性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.68,
+          "explanation": "对内心情感的细致体察本身就是一场自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.28,
+          "explanation": "歌曲的抒情方式具有经典的华语流行乐传统特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.30,
+          "explanation": "期待生活的改变（遇见爱情），但主动改变的意愿不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.05,
+          "explanation": "完全不涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "“遇见谁”的追问本质上是对生命意义和情感归宿的追寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.32,
+          "explanation": "对未来相遇者的想象是一种温和的好奇心体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "作品本身是创造产物，但并非鼓励听众进行创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "等待而非出发，与冒险精神相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.82,
+          "explanation": "作品的核心行为倾向是反思和内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "解释=": "毫无竞争性，与竞争行为完全无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.18,
+          "explanation": "关注点是个人的内心戏，而非外在的社交活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.10,
+          "explanation": "持续的等待或许需要自律，但作品并未强调此点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "作品极度安全、温和，没有任何冒险或风险倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.78,
+          "explanation": "在等待中保持的平静与安宁是作品最显著的行为特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.42,
+          "explanation": "沉浸在对未来的幻想中，含有对当下现实的一种轻微回避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.08,
+          "explanation": "作为音乐作品，几乎不直接提供视觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.15,
+          "explanation": "听觉上质感纯净、不复杂，对应的色彩感知偏向单色或柔和色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.38,
+          "explanation": "音量动态范围不大，属于中等偏低强度的听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.22,
+          "explanation": "节拍缓慢且平稳，能量感较低，服务于抒情氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "通过钢琴和歌声成功营造出统一且高度辨识度的宁静期待氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.72,
+          "explanation": "平稳的情感输出和优美的旋律很容易让听者沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.25,
+          "explanation": "歌曲为慢板抒情，每分钟节拍数较低。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.28,
+          "explanation": "演唱和配器克制，整体能量处于较低水平。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在聆听过程中，首先被优美简约的钢琴旋律带入一个宁静的内心世界。歌曲从头至尾保持一种克制的抒情，让听众体会到一种混杂着淡淡孤独感、温暖回忆和对未来浪漫相遇的深切期待。这是一种在都市喧嚣中停下脚步、进行自我情感梳理的内省式体验，核心是“等待”与“希望”并存的心境。",
+        "structure_description": "歌曲采用经典的主歌-副歌二段体结构，通过钢琴的轻柔伴奏铺垫，到副歌部分人声和配器的逐渐饱满，形成一个温和的情绪起伏。这种简约且可预测的结构，能让听者将全部注意力集中于旋律的流动和歌词的意境，强化了沉浸感和反思空间，使得循环聆听的体验得以加强。",
+        "cognitive_expression": "作品激发的主要认知活动是内向的反思与微弱的哲学遐想。它不要求复杂的逻辑分析，而是引导听众去解读“缘分”这一模糊概念，追问“我会遇见谁”，在自己的记忆和期待中寻找印证。这种低负荷、高感性的认知过程，使作品易于理解又留有耐人寻味的模糊空间。",
+        "behavioral_tendency_description": "作品极大地鼓励平静、内省和反思的行为倾向。它是一种静态的欣赏，听者更可能在独处时聆听，从而引发对自我的探索和对现实的短暂疏离。它所奖励的不是行动或冒险，而是对内心情感的细致体验和一种被动但充满希望的等待姿态。"
+      },
+      "personality_affinity": {
+        "Ni": 0.72,
+        "Ne": 0.48,
+        "Ti": 0.18,
+        "Te": 0.05,
+        "Fi": 0.95,
+        "Fe": 0.28,
+        "Si": 0.78,
+        "Se": 0.08,
+        "openness": 0.52,
+        "conscientiousness": 0.20,
+        "extraversion": 0.15,
+        "agreeableness": 0.70,
+        "neuroticism": 0.55,
+        "Assertive": 0.60,
+        "Turbulent": 0.65
+      },
+      "supporting_evidence": [
+        "歌词以“我遇见谁会有怎样的对白”开篇，提出了贯穿全曲的核心追问。",
+        "整首歌曲的编曲以钢琴为主要乐器，弦乐辅助，整体音响效果简约而不单薄。",
+        "歌手采用了一种清亮、克制且带有叙事感的演唱方式，避免过度戏剧化。",
+        "歌词反复围绕着等待、错过、缘分和未来这些主题进行抒情。",
+        "歌曲作为电影《向左走·向右走》的主题曲，其主题与影片中不断错过的爱情故事高度契合。",
+        "歌曲发行于2003年，是21世纪初华语流行乐坛黄金时期的代表作之一。",
+        "作品传达的情感并非大喜大悲，而是一种混合着期待与淡淡忧伤的复杂心境。",
+        "聆听该歌曲通常不会引发肢体律动，而是引导听者进入静止和沉思的状态。",
+        "歌词中“我等的人他在多远的未来”明确表达出对未来的期许与不确定性的共存。",
+        "整首歌没有涉及任何社会议题、人际关系网络或宏大的叙事背景。",
+        "歌曲的旋律线优美且易于记忆，符合主流流行音乐的审美标准。",
+        "词作者易家扬擅长捕捉细微情感，其文字风格增强了作品的内省气质。",
+        "作品的MV视觉与歌曲基调一致，充满都市感和个人情感的特写。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

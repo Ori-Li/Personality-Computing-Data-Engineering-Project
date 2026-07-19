@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_unknown_011",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "御制耕织图",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 1696,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "清代宫廷画家焦秉贞奉康熙帝之命绘制的《御制耕织图》是一部以水稻种植和丝绸纺织全流程为主线的工笔重彩图册，共四十六幅。作品采用中西合璧的透视法，将传统农事主题与写实的空间表现相结合，既展现了播种、插秧、收割、入仓的耕作场景，也细致描绘了养蚕、缫丝、织绸的纺织过程。全册以图像记录农耕文明的生产秩序，体现了以农为本的治国理念和劝课农桑的政治功能，整体观赏体验兼具纪实理性与宁静平和的田园之美。",
+        "themes": [
+          "农耕文明",
+          "劳动",
+          "秩序",
+          "天人和谐",
+          "教化",
+          "技术传承",
+          "生产美"
+        ],
+        "keywords": [
+          "水稻种植",
+          "丝绸纺织",
+          "焦秉贞",
+          "康熙",
+          "中西合璧透视法",
+          "工笔重彩",
+          "劝课农桑",
+          "清代",
+          "图册",
+          "生产过程"
+        ],
+        "core_experience": "在系统化的图像序列中，观众体验到一种对劳动秩序的理性认知与对田园生活的平和审美，整体心理节奏稳定、宁静，伴随对古代农耕文明的敬意与亲近感。",
+        "experience_introduction": "《御制耕织图》通过四十六幅具有纪实性的图画，引导观众以线性顺序逐步深入了解水稻种植与丝绸纺织的完整流程。作品消解了叙事的冲突感，代之以清晰的生产步骤和有序的劳动节奏，使观众在观看过程中逐渐建立对农耕文明的认知与敬意，获得平和而充实的审美体验。"
+      },
+      "experience_vector": {
+        "passion": 0.12,
+        "healing": 0.68,
+        "awe": 0.35,
+        "nostalgia": 0.55,
+        "reflection": 0.72,
+        "romance": 0.02,
+        "tension": 0.08,
+        "warmth": 0.45,
+        "loneliness": 0.15,
+        "hope": 0.48
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.22,
+          "complexity": 0.35,
+          "depth_of_thought": 0.40,
+          "logical_structure": 0.82,
+          "novelty": 0.45,
+          "exploration": 0.28,
+          "ambiguity": 0.10,
+          "predictability": 0.75,
+          "information_density": 0.78,
+          "learning_value": 0.85
+        },
+        "worldview": {
+          "personal_scale": 0.15,
+          "relationship_scale": 0.35,
+          "social_scale": 0.55,
+          "civilization_scale": 0.78,
+          "cosmic_scale": 0.12,
+          "time_span": 0.30,
+          "fantasy_level": 0.02
+        },
+        "emotion": {
+          "happiness": 0.25,
+          "sadness": 0.10,
+          "loneliness": 0.10,
+          "warmth": 0.45,
+          "fear": 0.00,
+          "tension": 0.05,
+          "awe": 0.35,
+          "nostalgia": 0.55,
+          "hope": 0.42,
+          "melancholy": 0.18,
+          "anger": 0.00,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.72,
+          "minimalism": 0.25,
+          "luxury": 0.15,
+          "darkness": 0.02,
+          "brightness": 0.60,
+          "dreamlike": 0.05,
+          "mystery": 0.08,
+          "experimental": 0.22,
+          "classical": 0.88,
+          "modern": 0.10
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.05,
+          "character_growth": 0.10,
+          "world_building": 0.65,
+          "nonlinear_structure": 0.00,
+          "slow_immersion": 0.85,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.00,
+          "philosophical_depth": 0.35
+        },
+        "social_relationship": {
+          "individualism": 0.08,
+          "collectivism": 0.82,
+          "family": 0.55,
+          "friendship": 0.05,
+          "love": 0.02,
+          "community": 0.72,
+          "competition": 0.05,
+          "cooperation": 0.78,
+          "power_relationship": 0.25,
+          "identity": 0.35
+        },
+        "value": {
+          "freedom": 0.12,
+          "order": 0.88,
+          "truth": 0.60,
+          "beauty": 0.70,
+          "achievement": 0.55,
+          "justice": 0.10,
+          "sacrifice": 0.15,
+          "self_exploration": 0.05,
+          "tradition": 0.90,
+          "change": 0.08,
+          "survival": 0.48,
+          "meaning": 0.62
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.58,
+          "adventure": 0.02,
+          "reflection": 0.70,
+          "competition": 0.02,
+          "social": 0.42,
+          "discipline": 0.85,
+          "risk": 0.00,
+          "calm": 0.90,
+          "escape": 0.02
+        },
+        "sensory": {
+          "visual_intensity": 0.68,
+          "color_richness": 0.62,
+          "sound_intensity": 0.00,
+          "rhythm_energy": 0.08,
+          "atmosphere": 0.75,
+          "immersion": 0.72
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "工笔重彩",
+          "color_expression": 0.68,
+          "composition_complexity": 0.55,
+          "symbolism": 0.50,
+          "emotional_expression": 0.42,
+          "historical_style": 0.92
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.12,
+          "explanation": "作品以客观记录生产流程为主，很少出现强烈的情绪渲染。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.68,
+          "explanation": "田园农耕的宁静画面和秩序井然的劳动场景带来明显的抚慰感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "精细的工笔技法和完整的生产体系呈现令人产生一定的钦佩。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "对传统农耕生活方式的描绘唤起对田园理想的怀旧之情。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.72,
+          "explanation": "系统性的生产流程展示引导观众思考劳动秩序与文明根基。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.02,
+          "explanation": "全册主题聚焦于生产劳动，几乎没有涉及爱情或浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.08,
+          "explanation": "画面节奏平缓，缺少对立或不确定的紧张因素。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.45,
+          "explanation": "家庭协作和集体劳作的场景传递出温和的人情氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "多数画面表现集体或家庭劳动，孤独感很弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.48,
+          "explanation": "春耕秋收的循环展现了对未来收获的稳定期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.22,
+          "explanation": "图像以具象写实为主，很少使用抽象符号或概念表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "生产流程虽然包含多道工序，但认知难度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.40,
+          "explanation": "作品隐含劝课农桑的治国思想，可引发一定程度的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.82,
+          "explanation": "四十六幅图严格按照耕作与纺织的实际工序排列，结构清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.45,
+          "explanation": "在17世纪末引入西方透视法绘制中国传统农事题材具有一定创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.28,
+          "explanation": "作品主要展示已知的生产知识，探索未知世界的倾向较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.10,
+          "explanation": "图像表达清晰明确，几乎没有歧义或多重解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "按工序排列的线性结构使后续内容高度可预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.78,
+          "explanation": "每幅图包含大量农具、劳作细节和工序知识，信息量丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.85,
+          "explanation": "观众可借此深入了解清代农耕文明的全貌与生产技术。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.15,
+          "explanation": "聚焦于集体生产过程，个人内心世界极少被触及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.35,
+          "explanation": "存在家庭协作的场景，但人际关系并非主要表现对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "描绘了村落和市集背景下的集体劳动与社会分工。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.78,
+          "explanation": "通过耕织体系展现中华农耕文明的整体面貌与生产秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.12,
+          "explanation": "几乎不涉及宇宙观或超自然力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.30,
+          "explanation": "时间跨度覆盖一年四季的农事周期，但非跨越长时段历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.02,
+          "explanation": "完全取材于现实世界的农业生产，无任何幻想成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.25,
+          "explanation": "收获场景中可见喜悦，但整体情感基调偏克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.10,
+          "explanation": "作品回避了灾害与苦难，悲伤感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.10,
+          "explanation": "画面多为群体劳作，个体孤独感几乎不存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.45,
+          "explanation": "家庭与集体协作的劳动场景营造出温和的人情温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.00,
+          "explanation": "作品中无任何恐惧元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.05,
+          "explanation": "画面稳定和谐，几乎不存在紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "对传统技术与劳动秩序的完整呈现令人心生敬意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "对田园农耕图景的描绘唤起对传统生活方式的怀想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.42,
+          "explanation": "春种秋收的循环传递出对未来生活的稳定期许。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.18,
+          "explanation": "宁静的田园氛围中略带一丝时光流逝的淡淡惆怅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.00,
+          "explanation": "无愤怒情绪的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "宁静有序的劳动画面构成了作品最核心的情感基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.72,
+          "explanation": "工笔重彩技法与田园风光相结合，具有较高的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.25,
+          "explanation": "画面细节丰富，并非追求简洁，而是如实记录。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.15,
+          "explanation": "虽为宫廷制作，但题材朴素，不追求奢华。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.02,
+          "explanation": "整体色调明快，无黑暗或压抑的视觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.60,
+          "explanation": "多数画面色调明亮清新，展现田园的生机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "偏向纪实风格，很少营造梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.08,
+          "explanation": "表达直接，缺少神秘或悬念氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.22,
+          "explanation": "中西透视法的融合在当时具有一定的实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.88,
+          "explanation": "整体风格根植于中国传统工笔画与农耕文明题材。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.10,
+          "explanation": "西方透视法的运用带有微量的现代倾向，但主体仍是古典。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "无戏剧性情节，仅按生产流程线性展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "人物皆为类型化的劳动者，无个体性格刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "不包含人物的成长或转变弧线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.65,
+          "explanation": "系统地构建了一个包含耕作与纺织的完整农耕世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.00,
+          "explanation": "图册严格按照从播种到收获的线性时序排列。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.85,
+          "explanation": "慢节奏的工序展示使观众逐渐沉浸在农耕生产的氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "画面均为静止的劳动姿态，无激烈动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.00,
+          "explanation": "作品回避了任何形式的社会或个人冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.35,
+          "explanation": "隐含劝课农桑和天人合一的思想，但未展开哲学辨析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.08,
+          "explanation": "强调集体劳动和家庭协作，个体独立性极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.82,
+          "explanation": "画面核心是群体性的农耕与纺织劳动组织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.55,
+          "explanation": "多处描绘农家共同劳动的场景，家庭关系表现明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "人际关系主要基于血缘与劳动分工，友情不是主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.02,
+          "explanation": "完全不涉及爱情内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.72,
+          "explanation": "展现了村落、市集背景下的社区集体生活与生产协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "劳动场景以合作为主，无竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.78,
+          "explanation": "从插秧到收割再到纺织，各工序都体现高度的分工协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.25,
+          "explanation": "隐含朝廷劝课农桑的教化权威，但非画面核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.35,
+          "explanation": "农民与织工的集体身份在作品中得到呈现和确认。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.12,
+          "explanation": "作品强调顺应天时与遵守生产秩序，个人自由不被强调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.88,
+          "explanation": "生产工序的严格排列是对秩序价值的核心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.60,
+          "explanation": "纪实性的描绘传递了关于农业生产的真实知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.70,
+          "explanation": "田园景观与劳动姿态被赋予艺术美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "从耕耘到收获的全过程体现出劳动带来的充实成就感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.10,
+          "explanation": "未涉及社会正义或道德审判的内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "辛勤劳动本身虽含辛苦，但作品未刻意强调牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.05,
+          "explanation": "主题面向外部世界，缺少对个人内心的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.90,
+          "explanation": "作品本身即是对传统农耕文化与技术的系统性传承与颂扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.08,
+          "explanation": "生产流程遵循恒定的年度循环，变革不是主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.48,
+          "explanation": "耕织活动本质上是生存手段，但作品更偏重文明层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.62,
+          "explanation": "将劳动升华为一种体认天道与构建文明的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "作品提供知识，但较少激发对新奇事物的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.58,
+          "explanation": "耕与织本身就是创造性的生产活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.02,
+          "explanation": "无冒险或探索未知的内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.70,
+          "explanation": "引导观众对农耕文明与劳动价值的静观与反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "场景均为合作性劳动，无竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.42,
+          "explanation": "群体劳动场景带有社交属性，但非主要表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.85,
+          "explanation": "顺应天时、遵守工序的劳作体现了高度的纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.00,
+          "explanation": "完全规避了任何风险性的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.90,
+          "explanation": "宁静有序的画面传递出极度沉稳松缓的内心节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.02,
+          "explanation": "没有逃避现实的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.68,
+          "explanation": "工笔重彩的精细绘制提供了较强的视觉信息刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.62,
+          "explanation": "在淡雅的整体色调中保留了一定的矿物颜料色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.00,
+          "explanation": "作为纯视觉图册，无听觉层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.08,
+          "explanation": "画面节奏极其平稳，几乎无律动变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.75,
+          "explanation": "画面成功营造出清晰的田园与作坊氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.72,
+          "explanation": "系统性的工序描绘使观众容易沉浸于生产情境之中。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": null,
+          "explanation": "以工笔重彩为主，融合西方透视写实技法。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.68,
+          "explanation": "色彩丰富和谐，以石青、石绿等矿物颜料表现田园生机。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.55,
+          "explanation": "画面结构规整，人物与场景安排有序，层次分明。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.50,
+          "explanation": "耕与织本身象征国本，画面元素有一定象征性但解释单一。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.42,
+          "explanation": "情感传递含蓄内敛，主要通过氛围而非人物表情传达。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.92,
+          "explanation": "典型的清代宫廷写实绘画风格，具有强烈的时代特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观赏《御制耕织图》的过程是一场宁静而富有秩序感的体验。观众在依次浏览四十六幅图画时，感受到的是农耕文明的深厚底蕴和劳动本身的从容美感。整体心理节奏平和舒缓，既没有强烈的情绪起伏，也缺乏紧张的矛盾冲突，取而代之的是一种对传统生活方式的内在敬意与认知上的充实感，仿佛置身于一个远离喧嚣的田园世界，心境逐渐归于沉稳。",
+        "structure_description": "全册以线性工序结构展开，从稻田耕作到丝绸纺织，严格遵循实际农业生产的自然时序。这种结构放弃了任何悬念或情节转折，而是以严谨的流程感引导观众。每一幅画都是一道独立的工序节点，合起来则构成一部关于生存与文明的全景图解，使得整个观赏过程有条不紊、节奏高度可控。",
+        "cognitive_expression": "作品鼓励的是一种秩序感极强的图文对应式认知过程。观众需要在视觉图像与劳动工序之间建立联系，理解农业生产的内在逻辑。这种信息处理偏向于系统性的知识获取与常识巩固，而非开放的想象或抽象的思辨，因此认知负荷适中，但知识浓度很高。",
+        "behavioral_tendency_description": "作品传达的行为倾向是内敛的静观与对既定秩序的遵守。它鼓励观众坐下来细细品读，唤起一种对传统劳动规矩和家庭协作模式的认同感，而非激发对外探索、冒险或竞争的动力。这是一种极为沉稳、纪律导向的观赏行为导向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.10,
+        "Ti": 0.45,
+        "Te": 0.72,
+        "Fi": 0.12,
+        "Fe": 0.48,
+        "Si": 0.90,
+        "Se": 0.58,
+        "openness": 0.38,
+        "conscientiousness": 0.92,
+        "extraversion": 0.15,
+        "agreeableness": 0.60,
+        "neuroticism": 0.10,
+        "Assertive": 0.88,
+        "Turbulent": 0.15
+      },
+      "supporting_evidence": [
+        "全册四十六幅图严格按照水稻种植和丝绸纺织的实际工序排列。",
+        "画作采用当时传入中国的西方焦点透视法表现空间深度。",
+        "每幅图的上方有康熙帝御制诗文以及相应的工序解说文字。",
+        "耕部完整描绘了从浸种、插秧到收割、入仓的全过程。",
+        "织部完整描绘了从浴蚕、缫丝到剪帛、成衣的全过程。",
+        "焦秉贞将西画的明暗、透视技巧融入传统工笔重彩之中。",
+        "画面人物多为农家男女老少共同参与集体劳动。",
+        "背景展现了清初江南地区的田园风光与水乡地形。",
+        "大量画面描绘了具体农具、织机的形态和操作方式。",
+        "作品由清宫内府刊印颁发各地，用于劝课农桑。",
+        "整体色调以青绿为主，呈现实用与审美相结合的宫廷绘画风格。",
+        "季节跨度覆盖春夏秋冬，表现农业生产的完整年度循环。",
+        "场景多为村落边缘的田间地头，兼有家庭庭院和室内织房。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

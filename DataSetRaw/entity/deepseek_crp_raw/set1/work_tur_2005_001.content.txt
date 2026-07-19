@@ -1,0 +1,751 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_tur_2005_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "疯狂的土耳其",
+        "type": "LITERATURE",
+        "countryName": "土耳其",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-12-19",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "《疯狂的土耳其》是一部以土耳其独立战争为背景的史诗文学作品。作品最初以剧本形式构思，后发展为小说，通过大量历史细节与戏剧化叙事，重现了民族危亡时刻的抗争历程。作品聚焦战争中的集体命运、民族觉醒与牺牲精神，将宏大的历史事件与个体的英雄主义交织在一起，营造出激昂、悲壮且充满民族自豪感的阅读体验。",
+        "themes": [
+          "战争",
+          "民族主义",
+          "独立",
+          "牺牲",
+          "英雄主义",
+          "历史",
+          "抗争",
+          "集体命运"
+        ],
+        "keywords": [
+          "土耳其独立战争",
+          "穆斯塔法·凯末尔",
+          "民族觉醒",
+          "史诗叙事",
+          "戏剧化历史",
+          "爱国",
+          "国族建构"
+        ],
+        "core_experience": "作品带来一种宏大的历史沉浸感，读者仿佛置身于民族生死存亡的关头，体验到从绝望中迸发出的抗争激情，感受到集体英雄主义的悲壮与民族重生的沉重希望。",
+        "experience_introduction": "《疯狂的土耳其》以土耳其独立战争为核心舞台，通过戏剧化的文学笔法将历史档案转化为具有感染力的民族史诗。作品不以个人命运为主线，而是编织一张覆盖全民族的抗争网络，使观众始终处于集体叙事的高密度冲击中。这种体验不同于个人冒险，而更接近见证一个文明在废墟中重建自我的全过程。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.15,
+        "awe": 0.65,
+        "nostalgia": 0.40,
+        "reflection": 0.55,
+        "romance": 0.05,
+        "tension": 0.70,
+        "warmth": 0.20,
+        "loneliness": 0.35,
+        "hope": 0.60
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.55,
+          "depth_of_thought": 0.45,
+          "logical_structure": 0.50,
+          "novelty": 0.40,
+          "exploration": 0.35,
+          "ambiguity": 0.15,
+          "predictability": 0.75,
+          "information_density": 0.85,
+          "learning_value": 0.80
+        },
+        "worldview": {
+          "personal_scale": 0.15,
+          "relationship_scale": 0.25,
+          "social_scale": 0.55,
+          "civilization_scale": 0.90,
+          "cosmic_scale": 0.05,
+          "time_span": 0.40,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.55,
+          "loneliness": 0.30,
+          "warmth": 0.15,
+          "fear": 0.45,
+          "tension": 0.70,
+          "awe": 0.60,
+          "nostalgia": 0.35,
+          "hope": 0.65,
+          "melancholy": 0.40,
+          "anger": 0.60,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.45,
+          "minimalism": 0.20,
+          "luxury": 0.05,
+          "darkness": 0.55,
+          "brightness": 0.35,
+          "dreamlike": 0.10,
+          "mystery": 0.15,
+          "experimental": 0.30,
+          "classical": 0.85,
+          "modern": 0.25
+        },
+        "narrative": {
+          "plot_complexity": 0.60,
+          "character_depth": 0.40,
+          "character_growth": 0.55,
+          "world_building": 0.90,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.50,
+          "action_intensity": 0.75,
+          "conflict_intensity": 0.88,
+          "philosophical_depth": 0.40
+        },
+        "social": {
+          "individualism": 0.25,
+          "collectivism": 0.90,
+          "family": 0.35,
+          "friendship": 0.45,
+          "love": 0.15,
+          "community": 0.80,
+          "competition": 0.70,
+          "cooperation": 0.85,
+          "power_relationship": 0.65,
+          "identity": 0.75
+        },
+        "value": {
+          "freedom": 0.95,
+          "order": 0.40,
+          "truth": 0.55,
+          "beauty": 0.30,
+          "achievement": 0.60,
+          "justice": 0.70,
+          "sacrifice": 0.90,
+          "self_exploration": 0.15,
+          "tradition": 0.50,
+          "change": 0.75,
+          "survival": 0.85,
+          "meaning": 0.70
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.25,
+          "adventure": 0.45,
+          "reflection": 0.55,
+          "competition": 0.60,
+          "social": 0.70,
+          "discipline": 0.65,
+          "risk": 0.75,
+          "calm": 0.20,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.30,
+          "sound_intensity": 0.60,
+          "rhythm_energy": 0.70,
+          "atmosphere": 0.65,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.55,
+          "language_artistry": 0.60,
+          "symbolism": 0.50,
+          "rhetorical_complexity": 0.45,
+          "intellectual_depth": 0.40,
+          "cultural_depth": 0.85,
+          "knowledge_density": 0.80,
+          "interpretation_openness": 0.25
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "作品通篇贯穿着对民族独立的强烈激情和对敌抗争的昂扬斗志。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品以战争和牺牲为主题，整体基调悲壮沉重，几乎不提供抚慰感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.65,
+          "explanation": "对民族英雄和宏大历史场面的描写，常令读者产生敬畏之心。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.40,
+          "explanation": "作品虽然是历史题材，但侧重激烈抗争而非对过去的温情追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "历史细节的铺陈会引发读者对民族命运和战争代价的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品中几乎不存在个人化的浪漫爱情情节，重心完全在民族斗争上。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "战争题材和戏剧化手法营造了持续的高度紧张与危机感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.20,
+          "explanation": "作品基调冷峻刚硬，人际温情并非叙事核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.35,
+          "explanation": "虽有牺牲的孤独感，但集体主义叙事弱化了个体的孤立无援。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.60,
+          "explanation": "在黑暗的战争现实中始终贯穿着民族独立与胜利的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "叙事以具体的历史事件和人物行动为主，抽象思辨较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "涉及多线历史事件与人物群像，因果关系和战争进程有一定复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.45,
+          "explanation": "主要进行道德与民族存亡的思考，哲学层面的思辨深度一般。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.50,
+          "explanation": "按照战争进程和历史逻辑推进，条理清晰但非严密逻辑推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.40,
+          "explanation": "在土耳其文学中具有开创性，但在世界文学范畴内核并不全新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "聚焦已知历史的戏剧化重现，而非探索未知世界或概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "敌我立场和叙事意图非常明确，几乎没有模棱两可之处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "作为历史题材作品，结局已知，叙事遵循历史发展的必然性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "融入了大量真实的历史人物、地名、战役细节和文化信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.80,
+          "explanation": "读者可以系统了解土耳其独立战争的历史，是生动的历史教材。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.15,
+          "explanation": "叙事极少聚焦个人内心世界，个人命运只是民族命运的缩影。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.25,
+          "explanation": "个人之间的人际关系描写相对薄弱，被宏大的历史叙事冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "涉及社会动员、阶级关系和社会结构的转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.90,
+          "explanation": "核心主题是一个古老文明的存亡绝续和新国家的建立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "叙事完全限于人类社会和历史，不涉及宇宙或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.40,
+          "explanation": "集中描绘独立战争这几年，虽涉及历史背景但时间跨度不算长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "严格的历史现实主义作品，几乎不包含任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "战争带来的苦难和牺牲是叙事主体，欢乐情绪极为罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "大量描写战争带来的死亡、破坏与民族苦难，悲伤感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.30,
+          "explanation": "集体抗争的叙事方式削弱了个体的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "即使在战友或同胞之间，温情也被战争的严肃与残酷所压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.45,
+          "explanation": "对敌军暴行和亡国危机的描写带来一定的恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.70,
+          "explanation": "紧张感来自持续的战斗、战略博弈和民族存亡的巨大压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.60,
+          "explanation": "英雄人物以寡敌众的壮举和史诗般的战场描绘，常引发出敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.35,
+          "explanation": "作品旨在激励当下，虽有对历史的回顾，但怀旧并非其主要情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.65,
+          "explanation": "在最为黑暗的时刻，作品中始终燃烧着对最终胜利和民族新生的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.40,
+          "explanation": "在为巨大的牺牲和逝去的生命感到哀恸时，会有一种沉郁的忧伤浮现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.60,
+          "explanation": "对侵略者的愤怒和对国家被瓜分的强烈愤慨是重要的情感驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "故事背景是激烈的全面战争，平和、安宁的体验几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.45,
+          "explanation": "作品的美感来源于英雄主义和牺牲精神的壮丽，而非形式上的优美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "叙事规模宏大、细节丰富，不符合极简主义美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "故事发生在战争年代的艰苦环境中，与奢华完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "大量描写战争的残酷、死亡和破坏，整体审美偏阴暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.35,
+          "explanation": "虽存在希望，但叙事氛围和战场描写的主色调是灰暗的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "追求的是残酷的历史真实感，不存在梦幻色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "历史事件的因果关系明确，不营造悬疑或神秘的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.30,
+          "explanation": "形式上是传统的史诗叙事，但将剧本感融入小说是其特色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "叙事结构、主题和英雄主义基调都带有浓厚的古典史诗色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.25,
+          "explanation": "作品的语言和创作视角包含现代民族国家的思想，但形式较为传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.60,
+          "explanation": "多线并进，涉及军事、政治、外交多条线索的交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.40,
+          "explanation": "人物多为民族精神的代表，形象鲜明但内心世界的探索较浅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "主要展现民族整体的成长和觉醒，个体人物的成长弧光较不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.90,
+          "explanation": "极尽详细地重建了独立战争时期的历史世界、社会风貌和战场环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "叙事主要沿时间线推进，偶尔有插叙，但结构总体是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.50,
+          "explanation": "通过大量历史细节引导读者进入那个时代，这是一个相对缓慢的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.75,
+          "explanation": "包含了大量频繁且激烈的战争场景描写和戏剧性冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.88,
+          "explanation": "作品的核心就是生死存亡的民族冲突，对抗性极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.40,
+          "explanation": "主题涉及民族主义与牺牲哲学，但未进行深奥的哲学探析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.25,
+          "explanation": "作品的价值导向强烈反个人主义，强调个人对民族的责任。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.90,
+          "explanation": "核心叙事驱动力是民族团结和集体抗敌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.35,
+          "explanation": "在国族叙事面前，家庭层面的描写退居其次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.45,
+          "explanation": "以战友情谊的形式存在，是集体关系中重要的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "爱情在民族大义面前完全被边缘化，几乎没有任何重要的恋爱线索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.80,
+          "explanation": "展示了民族作为一个“想象的共同体”如何在危难中团结起来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.70,
+          "explanation": "作品中的竞争是军事和政治上的敌对关系，是零和博弈的存亡之争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.85,
+          "explanation": "民族独立依赖于全民的团结协作，内部合作是胜利的关键。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.65,
+          "explanation": "核心内容之一是反抗强权，重建民族主权，权力关系变革是核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.75,
+          "explanation": "探讨的核心问题是“我们是谁”的民族身份认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.95,
+          "explanation": "争取民族独立与自由是最核心、最强烈的价值诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.40,
+          "explanation": "旨在打破旧秩序，建立新秩序，但对秩序本身强调较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "力图还原历史真相，同时在文学上进行艺术加工。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "审美上的“美”不是追求的目标，“崇高”和“悲壮”更为重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.60,
+          "explanation": "取得战争胜利、达成建国目标是作品中的最高成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.70,
+          "explanation": "反抗侵略和压迫被视为一种极其正当和崇高的正义事业。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.90,
+          "explanation": "为国捐躯和为民族利益牺牲个人一切是作品反复歌颂的美德。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.15,
+          "explanation": "个体向内探索自我的体验在作品中极其罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.50,
+          "explanation": "既有对奥斯曼传统的批判，也有捍卫民族传统的成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.75,
+          "explanation": "作品本身就是对一个社会进行彻底的、革命性变革的描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "整个故事围绕民族是否能够存活下去的最基本生存问题展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.70,
+          "explanation": "寻找国家存在的意义并为子孙后代创造一个有意义的世界是潜藏主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "作品的导向是行动而非基于好奇心的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "主题是破坏旧世界和建立新国家，侧重于政治实体而非艺术品的创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.45,
+          "explanation": "战争进程充满不确定性，具有冒险意味，但非个人冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.55,
+          "explanation": "历史事件本身引导读者对民族、战争和牺牲进行反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.60,
+          "explanation": "战争是最极端的竞争形式，此处的竞争是敌我的军事对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.70,
+          "explanation": "鼓励群体内的社会动员、组织和团结行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.65,
+          "explanation": "军队纪律和民族凝聚力都是作品中被高度赞扬的行为特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.75,
+          "explanation": "起义和战争本身就是承担极大风险的勇敢行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.20,
+          "explanation": "充满斗争和冲突的语境下，冷静和安宁并非主调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "作品宣扬的是面对而非逃避现实困境的精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "作为文本，其对战争场景的强画面感描写带来了较高的视觉强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.30,
+          "explanation": "色调以战争年代的灰暗、硝烟和血色为主，色彩并不丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.60,
+          "explanation": "文字模拟了炮火、呐喊等战场上的高强度声音环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.70,
+          "explanation": "叙事节奏随着战争进程起伏，整体能量很高，充满动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.65,
+          "explanation": "营造了紧张、悲壮、宏大的历史氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "海量的历史细节和戏剧化叙事能够将读者深深拉入那个时代。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.55,
+          "explanation": "融合了戏剧性与纪实性，形成了独特的史诗风格。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.60,
+          "explanation": "语言富有感染力，能够调动读者情绪，具有较高的文学技巧。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.50,
+          "explanation": "个人物和事件常作为民族精神的象征，具有中等程度的象征性。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.45,
+          "explanation": "修辞手法服务于叙事的清晰和激情，而非刻意制造复杂。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.40,
+          "explanation": "更侧重于情感和历史，而非抽象的智力挑战。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.85,
+          "explanation": "深入挖掘和呈现了土耳其的民族文化、精神与历史记忆。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.80,
+          "explanation": "包含极其丰富的历史知识和文化细节。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.25,
+          "explanation": "作品的政治倾向和民族主义立场非常清晰，留给读者的解读空间有限。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者会经历一段从压抑绝望到激昂抗争的强烈情感旅程。初始沉浸于民族危亡的沉重氛围，进而在英雄史诗般的叙事中体验集体主义的热情与愤怒，最终在巨大的牺牲感中获得悲壮的希望与解脱。",
+        "structure_description": "作品沿历史时间线展开，以蒙太奇式的场景切换在军事、政治、民间各条战线上并进。戏剧化的场景冲突和群体演讲式的对话结构，不断将个体事件推向宏大的民族叙事层面，形成节奏紧凑、高潮迭起的史诗结构。",
+        "cognitive_expression": "作品鼓励读者进行大量的历史信息整合和对因果关系的理解。其信息密度要求读者持续调动历史想象力，同时引导一种以民族利益为核心的价值判断，促使读者思考个人与集体、生存与尊严的关系。",
+        "behavioral_tendency_description": "作品强化读者对集体行动、牺牲精神和严明纪律的认同感。它鼓励一种面对外部威胁时采取团结、果断、勇敢抗争的行为倾向，并贬抑退缩或个人主义的安逸。"
+      },
+      "personality_affinity": {
+        "Ni": 0.40,
+        "Ne": 0.15,
+        "Ti": 0.35,
+        "Te": 0.75,
+        "Fi": 0.30,
+        "Fe": 0.80,
+        "Si": 0.60,
+        "Se": 0.45,
+        "openness": 0.40,
+        "conscientiousness": 0.70,
+        "extraversion": 0.35,
+        "agreeableness": 0.30,
+        "neuroticism": 0.65,
+        "Assertive": 0.35,
+        "Turbulent": 0.70
+      },
+      "supporting_evidence": [
+        "作品以土耳其独立战争为历史背景，书写整个民族的抗争史。",
+        "叙事围绕民族存亡的冲突展开，以国家和文明的命运为核心主题。",
+        "作品最初是剧本形式，后发展为小说，具有强烈的戏剧化特征。",
+        "故事中融入了大量真实的历史人物、地点和战役信息。",
+        "叙事极力塑造为民族独立而战的集体英雄群像。",
+        "作品反复强调牺牲、责任和民族大义等传统价值观念。",
+        "故事严格按照战争进程的时间线进行推进。",
+        "敌我对立关系明确，冲突强度贯穿作品始终。",
+        "作品中几乎没有对个人爱情或私人生活的深入描写。",
+        "人物的精神状态主要围绕对国家命运的关切和抗争激情。",
+        "大量的战争场景描写创造了强烈的视听和心理紧张感。",
+        "整体的美学风格偏向古典史诗的庄严与悲壮。",
+        "叙事结构具有多线并进的特点，但主次分明、逻辑清晰。",
+        "作品的目的之一是激励读者的民族自豪感和爱国热情。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

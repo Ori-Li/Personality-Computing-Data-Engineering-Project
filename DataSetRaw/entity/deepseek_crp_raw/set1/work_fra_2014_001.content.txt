@@ -1,0 +1,734 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_fra_2014_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "女孩帮",
+        "type": "MOVIE",
+        "countryName": "法国",
+        "year": 2014,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-15",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "影片聚焦于巴黎郊区一名非裔少女玛丽埃姆的成长经历。她为了摆脱学校和家庭的双重压抑，加入了一个全女子帮派。通过帮派生活，她探索了暴力、友谊、爱情以及对自由和自我身份的渴望。影片以其粗粝真实的纪实风格和充满活力的表演，展现了底层移民青少年在种族、性别与阶级交织下的生存状态与内心挣扎。",
+        "themes": [
+          "成长",
+          "身份认同",
+          "种族与阶级",
+          "性别与权力",
+          "暴力与生存",
+          "自由",
+          "女性友谊",
+          "社会边缘"
+        ],
+        "keywords": [
+          "巴黎郊区",
+          "非裔移民",
+          "女子帮派",
+          "青春叛逆",
+          "底层社区",
+          "拳击",
+          "同性情感",
+          "社会歧视",
+          "学校与家庭压抑",
+          "身体自主权"
+        ],
+        "core_experience": "在充满压迫和限制的社会环境中，伴随主人公经历一场以暴力和团结为手段的激烈自我重构过程，体验她在融入群体与渴望独立之间的剧烈摇摆，最终感受到一种带有刺痛的成长与不妥协的自由渴望。",
+        "experience_introduction": "《女孩帮》通过聚焦一个非裔女孩在巴黎郊区加入女子帮派的经历，将青春期的迷茫、愤怒与对归属感的渴望置于种族和阶级歧视的背景下。影片以近乎纪实的镜头捕捉了群体暴力、亲密友谊和性向探索等片段，让观众沉浸于一种时而亢奋激昂、时而压抑不安的情绪之中。这种在暴力中寻求保护、在群体中定义自我的矛盾体验，构成了整部作品对边缘少女生存状态的尖锐而富有同理心的呈现。"
+      },
+      "experience_vector": {
+        "passion": 0.74,
+        "healing": 0.10,
+        "awe": 0.05,
+        "nostalgia": 0.20,
+        "reflection": 0.68,
+        "romance": 0.35,
+        "tension": 0.80,
+        "warmth": 0.15,
+        "loneliness": 0.60,
+        "hope": 0.22
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.58,
+          "depth_of_thought": 0.62,
+          "logical_structure": 0.40,
+          "novelty": 0.50,
+          "exploration": 0.66,
+          "ambiguity": 0.48,
+          "predictability": 0.30,
+          "information_density": 0.55,
+          "learning_value": 0.72
+        },
+        "worldview": {
+          "personal_scale": 0.82,
+          "relationship_scale": 0.78,
+          "social_scale": 0.85,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.05,
+          "time_span": 0.35,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.30,
+          "sadness": 0.55,
+          "loneliness": 0.60,
+          "warmth": 0.18,
+          "fear": 0.65,
+          "tension": 0.80,
+          "awe": 0.05,
+          "nostalgia": 0.20,
+          "hope": 0.25,
+          "melancholy": 0.45,
+          "anger": 0.75,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.25,
+          "luxury": 0.10,
+          "darkness": 0.68,
+          "brightness": 0.32,
+          "dreamlike": 0.10,
+          "mystery": 0.20,
+          "experimental": 0.15,
+          "classical": 0.25,
+          "modern": 0.75
+        },
+        "narrative": {
+          "plot_complexity": 0.50,
+          "character_depth": 0.82,
+          "character_growth": 0.85,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.60,
+          "action_intensity": 0.72,
+          "conflict_intensity": 0.88,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.72,
+          "collectivism": 0.58,
+          "family": 0.40,
+          "friendship": 0.78,
+          "love": 0.50,
+          "community": 0.65,
+          "competition": 0.75,
+          "cooperation": 0.55,
+          "power_relationship": 0.82,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.88,
+          "order": 0.20,
+          "truth": 0.55,
+          "beauty": 0.30,
+          "achievement": 0.50,
+          "justice": 0.52,
+          "sacrifice": 0.45,
+          "self_exploration": 0.85,
+          "tradition": 0.15,
+          "change": 0.78,
+          "survival": 0.80,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.48,
+          "creation": 0.20,
+          "adventure": 0.55,
+          "reflection": 0.68,
+          "competition": 0.78,
+          "social": 0.72,
+          "discipline": 0.30,
+          "risk": 0.85,
+          "calm": 0.10,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.70,
+          "color_richness": 0.45,
+          "sound_intensity": 0.65,
+          "rhythm_energy": 0.72,
+          "atmosphere": 0.78,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.40,
+          "visual_storytelling": 0.68,
+          "soundtrack_importance": 0.72,
+          "actor_expression": 0.90,
+          "director_style": 0.80
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.74,
+          "explanation": "角色在帮派生活中表现出强烈的情绪释放和生存渴望，带有高强度的青春激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "影片基调压抑紧张，暴力冲突频繁，几乎不提供舒缓治愈的情感出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "影片关注底层日常生活，几乎没有宏大或令人敬畏的场景与体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.20,
+          "explanation": "故事是当下的青春挣扎，缺乏对过去温暖时光的深情追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.68,
+          "explanation": "女主人公的自我探索及其与社会环境的关系，很容易引发观众对身份和制度的反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.35,
+          "explanation": "影片包含爱情和同性情感的探索线索，但这并非叙事核心，且常与暴力交织。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.80,
+          "explanation": "帮派间的打斗、与社会的对抗以及内心的挣扎，使影片充满持续的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "人际关系充满冲突和利用，温暖时刻很少且短暂。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.60,
+          "explanation": "主角在群体与个人意志、原生家庭和外界歧视中，时常处于一种内心疏离的状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.22,
+          "explanation": "结局是开放且带有苦涩的，自由的代价巨大，表达的希望极为有限和模糊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "影片采用直接、纪实的叙事手法，象征和隐喻的使用比较克制，偏重具体现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.58,
+          "explanation": "角色动机和社会的交叉压力构成了多层复杂性，但叙事结构本身是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.62,
+          "explanation": "片中对种族、性别、阶级与个人身份交互的剖析，为观众提供了深度思考的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.40,
+          "explanation": "剧情发展由角色情感驱动，遵循情感和行为逻辑，而非严谨的外部事件逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.50,
+          "explanation": "以黑人女性在法国郊区的视角切入青春成长题材，为观众提供了新鲜的视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.66,
+          "explanation": "主角通过在帮派中的经历，探索了暴力、爱情、新的社会身份和另一种生活方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.48,
+          "explanation": "角色行为和道德选择常处于灰色地带，但其最终目的（寻求认同与自由）是清晰的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "在高度不稳定的帮派和底层环境中，剧情走向和角色命运常出人意料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "镜头内包含了社会环境、群体动态和人物肢体语言的丰富细节，信息量较大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.72,
+          "explanation": "影片提供了一个了解法国底层移民社区、女性帮派文化和青少年心理的窗口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.82,
+          "explanation": "整个故事严格围绕玛丽埃姆的个人视角、情感变化和身体经验展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.78,
+          "explanation": "人际关系是游戏的核心，包括家庭关系、帮派姐妹情谊和亲密关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "影片深度嵌入法国当代社会的种族主义、阶级固化和性别歧视等社会议题中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "叙事不涉及历史或文明演变，焦点始终放在亚社会群体的局部环境上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "故事完全关乎人间现实，没有任何宇宙性或形而上学的尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "影片聚焦于主角的一段青春期，时间跨度相对集中和短暂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "影片追求极致的写实主义风格，没有出现任何幻想或超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.30,
+          "explanation": "少数帮派成功和聚会的时刻带来了短暂的快乐，但并非主基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "主角的成长伴随着不断的挫败、背叛与失去，弥漫着忧伤的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.60,
+          "explanation": "即使在帮派中，核心的自我认同挣扎和原生家庭的冷漠也让主角时常感到孤立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.18,
+          "explanation": "影片的整体环境、人物关系和色调都显得冷酷，温情时刻极为稀缺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.65,
+          "explanation": "角色经常面临身体暴力和人际背叛的直接威胁，恐惧是其生存状态的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.80,
+          "explanation": "影片充满了帮派间、个体与环境间一触即发的尖锐对峙和高度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "作品聚焦于普通人的日常生活，不追求或提供任何令人感到敬畏的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.20,
+          "explanation": "影片的驱动力是逃离现状和改变未来，而非怀念过去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "主角虽在奋力争取自由，但其手段和结局都充满不确定性，希望渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.45,
+          "explanation": "对无法融入的主流社会和注定要失去的纯真，以及人物命运有所哀叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.75,
+          "explanation": "愤怒是针对歧视、不公平和压抑环境的最核心情绪反应和叙事动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "角色内心和外部环境充满动荡与斗争，几乎不存在宁静平和的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "影片追求粗粝的现实主义美学，而非传统意义上的视觉美或艺术美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.25,
+          "explanation": "布景和服化道如实反映底层生活，但并非刻意追求极简主义的设计风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "故事环境设定在贫穷的郊区底层，完全缺乏奢华的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.68,
+          "explanation": "影片在主题（暴力、犯罪、压抑）和视觉基调上都呈现出明显的黑暗风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.32,
+          "explanation": "尽管有青春活力的片段，但灰暗的环境和沉重的主题压倒了明亮感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "影片坚定的写实手法和晃动的手持镜头完全打破了任何梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "叙事直接坦率，缺乏悬疑和神秘元素，人物动机和行为都清晰可见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "影片采用了非常经典的纪实戏剧结构，叙事和视听语言上并不前卫或实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.25,
+          "explanation": "在镜头语言和叙事上沿用了一定的经典手法，但内容和精神是非常现代的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.75,
+          "explanation": "探讨的主题（性别流动、种族融合）、音乐和青春文化都充满了当代性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.50,
+          "explanation": "剧情由一系列松散关联的帮派生活和成长片段组成，情节密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "影片重点刻画了主角玛丽埃姆多层次的心理：脆弱、残暴、渴望被爱与独立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "从胆怯的学生到帮派分子再到独立个体，主角在影片中的心理和身份发生了根本性转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "信服地构建了巴黎郊区底层移民社区的运作规则、权力生态和氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "故事基本按时间顺序推进，结构线性直叙，偶有舞蹈片段作为情绪间奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.60,
+          "explanation": "影片用大量细节而非强情节驱动，让观众缓慢沉浸于角色的生活环境与内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.72,
+          "explanation": "帮派斗殴和肢体冲突有爆发的瞬间，展现了未经修饰的原始暴力强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.88,
+          "explanation": "种族、家庭、帮派、性别、爱情等各个层面的冲突被压缩在一起，张力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "通过对自由、身份认同和生存意义的探讨，隐含了超越阶层苦难的哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.72,
+          "explanation": "主角最终的选择都是挑战群体压力、维护个人独立和自我定义的成果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.58,
+          "explanation": "帮派活动反映了其对于集体保护和荣誉的重视，但这最终是与个体冲突的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.40,
+          "explanation": "原生家庭是主角痛苦和压抑的来源，传统的家庭支持功能是缺失的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.78,
+          "explanation": "帮派成员既是战友也是姐妹，这种在压迫环境下建立的强大友谊是叙事的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.50,
+          "explanation": "爱情以异性恋和同性恋的形式出现，是成长探索和自我确认的重要部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.65,
+          "explanation": "影片描绘了一个由种族和阶级联系在一起的、边缘的、具有独特规则的社区。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.75,
+          "explanation": "帮派间争夺地盘和尊严的竞争，以及帮派内部围绕主导权的权力斗争都很激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.55,
+          "explanation": "帮派内部的打斗和交易需要高度协同合作，但这种合作是功利性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.82,
+          "explanation": "影片深刻揭示了基于性别、暴力和经济地位的微观权力关系如何影响每一个人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.90,
+          "explanation": "作为黑人、女性、底层移民的‘我是谁’以及‘我想成为谁’，是贯穿全片的根本性追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.88,
+          "explanation": "脱离家庭、学校、帮派和不利环境获得个人自主权，是角色行为的根本驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "无论是社会环境还是帮派内部，都处于一种无秩序的混乱状态，秩序是被反抗的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "影片致力于揭示底层移民社区的真实生存状态，这种真诚是作品的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "传统的‘美’在影片中是被解构的，影片通过展现真实的身体和力量来重新定义美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.50,
+          "explanation": "在帮派中赢得战斗、在街头获得声誉是角色实现自我价值的方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.52,
+          "explanation": "角色对抗系统性不公并试图在内部建立公平，但其寻求正义的方式是模糊的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.45,
+          "explanation": "为了友谊、爱情和自由，角色付出了巨大的个人牺牲，尤其是在安全方面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "整个故事就是女主角通过不同角色扮演来发现自身力量、欲望和局限的旅程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "影片中的年轻一代都在极力反抗或无视父辈守旧的、与主流社会格格不入的传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.78,
+          "explanation": "主角渴望颠覆自身处境和社会结构，影片本身也反映了法国社会的剧变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.80,
+          "explanation": "在一个充满危险的物质和精神环境里，生存是首要且持续迫切的需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "在无望的环境里，角色通过友情、爱和自我选择，努力为自己的生命寻找意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.48,
+          "explanation": "主角对帮派、异性、同性情感和新生活方式的尝试体现了一定的探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.20,
+          "explanation": "影片中的角色主要在应对和破坏，而非创造或建设。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.55,
+          "explanation": "加入帮派本身就是一次冒险，但主要被生存压力和寻求保护驱动，而非纯粹冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.68,
+          "explanation": "主角在独处和关键时刻常表现内向性的自我审视，反思自己的行为和处境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.78,
+          "explanation": "帮派打斗和地位竞争是角色非常核心的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.72,
+          "explanation": "群体互动、融入和背叛构成了角色生活的绝大部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "帮派生活有一定纪律，但整体行为更多是冲动、情绪化和随性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.85,
+          "explanation": "角色时常进行偷窃、斗殴和挑衅行为，将自己置于高风险情境中是常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "环境充满不确定性，角色充满躁动能量，缺少从容与镇定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "饮酒、跳舞、短暂的逃离当前身份是角色应对压力的方式，但并非主旋律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.70,
+          "explanation": "手持镜头、近距离特写和激烈的打斗场景带来了强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "影片色调阴郁，以现实环境的灰色和蓝色为主调，但偶有富有活力的亮色点缀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.65,
+          "explanation": "电子乐、R&B配乐以及环境中的打斗和喊叫声，共同营造了高强度的听觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.72,
+          "explanation": "影片节奏明快，充满青春动感，尤其是在群像出场和斗舞的段落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "成功地营造了底层社区既压抑又充满原始野性力量的独特氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "纪录片式的拍摄手法和真实的环境音，极大地增强了观众的临场感和沉浸度。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.40,
+          "explanation": "场景多为室内和郊区街头的小景别，聚焦人物而非景观，不追求宏大的电影奇观。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.68,
+          "explanation": "角色的情感和处境大量通过身体语言、面部特写和空间环境来传达。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.72,
+          "explanation": "R&B和电子音乐是表达角色情绪、身份认同和群体文化的重要组成部分。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.90,
+          "explanation": "演员真实且能量巨大的肢体和面部表演，是展现角色复杂内心的关键载体。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.80,
+          "explanation": "瑟琳·席安玛的凝视、现实主义美学和对女性议题的关注贯穿全片，风格鲜明。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众会被带入一场充满焦虑、愤怒和不确定性的青春期风暴。体验伴随主角在暴力中寻求力量、在群体中找到归属的原始冲动，同时感受到社会结构性压力带来的持续压抑。这是一场情绪张力极高的共情之旅，让人体验到在边缘处境中寻找自我和自由所必须付出的巨大代价。",
+        "structure_description": "影片采用近乎纪实的线性叙事结构来编织女主角的生活片段。情节通过帮派活动、家庭冲突和爱情探索三个主要层面交替推进，形成了张弛有度、情绪逐渐累积和转变的节奏。关键的情节点看似松散，实则都围绕主角的内心演变，最终指向一次决绝的身份断裂和重生。",
+        "cognitive_expression": "该作品鼓励观众对社会结构进行批判性反思。观众需要解读角色非语言的身体表达，理解其暴力行为背后的脆弱与渴望。作品邀请观众超越表面故事，去分析种族、阶级和性别歧视所构成的系统性困境，以及个体在其中保持主体性的艰难尝试。",
+        "behavioral_tendency_description": "作品的核心行为驱动力是反抗与竞争。它展示了角色如何通过加入帮派、参与暴力对抗和挑衅既有规则来寻找力量感与身份认同。同时，也呈现了角色对亲密关系和真挚友谊的摸索与投入。但这些行为始终与自我保护和生存焦虑深刻绑定，表现为一种高风险的、试图打破无形枷锁的外部行动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.60,
+        "Ne": 0.35,
+        "Ti": 0.42,
+        "Te": 0.68,
+        "Fi": 0.85,
+        "Fe": 0.58,
+        "Si": 0.22,
+        "Se": 0.80,
+        "openness": 0.72,
+        "conscientiousness": 0.38,
+        "extraversion": 0.62,
+        "agreeableness": 0.30,
+        "neuroticism": 0.82,
+        "Assertive": 0.25,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "故事围绕一名非裔少女加入并脱离女子帮派的个人成长经历展开。",
+        "影片设定了在巴黎郊区底层移民社区的现实背景。",
+        "主角的动机始终在寻找自我认同和摆脱被歧视的社会地位之间驱动。",
+        "帮派间使用肢体暴力和斗殴来解决地盘与尊严冲突，画面直接且不加修饰。",
+        "叙事中展现了角色在群体暴力中获取临时安全感和权力的过程。",
+        "大量镜头聚焦于角色的面部特写和身体动作，用以传达其复杂情绪。",
+        "对白和情节常涉及因种族、性别和阶级而受到的不公正对待。",
+        "主角的爱情故事包含了对异性亲密关系和同性情感的双重探索。",
+        "影片描绘了角色与原生家庭成员之间因为期望冲突而产生的紧张关系。",
+        "音乐和舞蹈场景被用作展现青春活力和短暂逃离现实的关键手段。",
+        "主角最终做出了与帮派和现有环境彻底决裂的重大个人决定。",
+        "整部影片采用手持摄影和自然光来追求一种粗糙的纪实美学风格。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

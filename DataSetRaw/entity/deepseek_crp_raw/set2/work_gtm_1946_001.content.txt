@@ -1,0 +1,746 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_gtm_1946_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "总统先生",
+        "type": "NOVEL",
+        "countryName": "危地马拉",
+        "year": 1946,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "Claude-4.5-Opus",
+        "generatorDate": "2025-07-30",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.88,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《总统先生》以匿名拉美国家为背景，通过独裁者总统及其爪牙对反对者的迫害，展现了一个被恐惧笼罩的社会。小说融合魔幻现实主义与诗性语言，通过多条人物线索交织呈现告密、酷刑、死亡与微弱反抗。作品不追求线性叙事，而以碎片化、感官化的意象构建出噩梦般的独裁世界，揭示了暴政对人性的扭曲与个体在极端环境下的挣扎。",
+        "themes": [
+          "独裁与暴政",
+          "恐惧与生存",
+          "权力与腐败",
+          "人性异化",
+          "反抗与绝望",
+          "社会不公",
+          "集体沉默"
+        ],
+        "keywords": [
+          "独裁者",
+          "总统",
+          "告密",
+          "酷刑",
+          "地牢",
+          "乞丐",
+          "政治警察",
+          "谣言",
+          "拉丁美洲",
+          "魔幻现实主义",
+          "诗性语言",
+          "恐惧氛围",
+          "卡米拉",
+          "安赫尔·卡瓦哈尔"
+        ],
+        "core_experience": "读者被卷入一个被恐惧渗透的噩梦般的世界，在扭曲的意象和压抑的氛围中体验暴政下个体的无力感、持续的警觉状态以及微弱的希望火花。阅读过程如同在黑暗中摸索，时刻感受到无形的压迫和不可预测的暴力。",
+        "experience_introduction": "《总统先生》通过魔幻现实主义手法和碎片化叙事，将读者置于独裁统治下的心理空间。作品不依赖情节推进，而是通过感官化的意象、扭曲的现实和持续的压抑氛围，使读者体验恐惧如何渗透日常生活、人际关系如何被权力腐蚀以及个体在极端环境下的心理变化。阅读这部作品不仅是理解一个政治寓言，更是经历一场认知上的不安与情感上的沉重。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.05,
+        "awe": 0.35,
+        "nostalgia": 0.10,
+        "reflection": 0.85,
+        "romance": 0.20,
+        "tension": 0.90,
+        "warmth": 0.08,
+        "loneliness": 0.80,
+        "hope": 0.25
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.82,
+          "complexity": 0.78,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.35,
+          "novelty": 0.90,
+          "exploration": 0.45,
+          "ambiguity": 0.88,
+          "predictability": 0.20,
+          "information_density": 0.75,
+          "learning_value": 0.70
+        },
+        "worldview": {
+          "personal_scale": 0.70,
+          "relationship_scale": 0.65,
+          "social_scale": 0.85,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.15,
+          "time_span": 0.30,
+          "fantasy_level": 0.60
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.75,
+          "loneliness": 0.85,
+          "warmth": 0.10,
+          "fear": 0.95,
+          "tension": 0.90,
+          "awe": 0.40,
+          "nostalgia": 0.15,
+          "hope": 0.20,
+          "melancholy": 0.80,
+          "anger": 0.60,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.15,
+          "luxury": 0.10,
+          "darkness": 0.95,
+          "brightness": 0.05,
+          "dreamlike": 0.80,
+          "mystery": 0.75,
+          "experimental": 0.85,
+          "classical": 0.35,
+          "modern": 0.70
+        },
+        "narrative": {
+          "plot_complexity": 0.60,
+          "character_depth": 0.78,
+          "character_growth": 0.50,
+          "world_building": 0.70,
+          "nonlinear_structure": 0.88,
+          "slow_immersion": 0.75,
+          "action_intensity": 0.25,
+          "conflict_intensity": 0.82,
+          "philosophical_depth": 0.85
+        },
+        "social_relationship": {
+          "individualism": 0.45,
+          "collectivism": 0.40,
+          "family": 0.35,
+          "friendship": 0.30,
+          "love": 0.35,
+          "community": 0.40,
+          "competition": 0.50,
+          "cooperation": 0.15,
+          "power_relationship": 0.95,
+          "identity": 0.65
+        },
+        "value": {
+          "freedom": 0.75,
+          "order": 0.20,
+          "truth": 0.65,
+          "beauty": 0.45,
+          "achievement": 0.15,
+          "justice": 0.70,
+          "sacrifice": 0.60,
+          "self_exploration": 0.55,
+          "tradition": 0.30,
+          "change": 0.55,
+          "survival": 0.85,
+          "meaning": 0.60
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.30,
+          "adventure": 0.10,
+          "reflection": 0.90,
+          "competition": 0.45,
+          "social": 0.20,
+          "discipline": 0.15,
+          "risk": 0.55,
+          "calm": 0.08,
+          "escape": 0.50
+        },
+        "sensory": {
+          "visual_intensity": 0.78,
+          "color_richness": 0.60,
+          "sound_intensity": 0.50,
+          "rhythm_energy": 0.30,
+          "atmosphere": 0.92,
+          "immersion": 0.82
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.92,
+          "writing_style": 0.90,
+          "narrative_voice": 0.88,
+          "symbolism": 0.92,
+          "inner_monologue": 0.75,
+          "world_building_depth": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品基调压抑沉重，几乎不存在热烈奔放的情感表达空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "故事持续处于恐惧和暴力压迫之下，几乎没有给人带来安慰或治愈的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "魔幻现实主义的意象有时产生一定震撼，但整体被压抑氛围弱化。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.10,
+          "explanation": "作品聚焦当下暴政，几乎不涉及对过往美好时光的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "作品强烈引导读者思考权力本质、人性异化和社会沉默等深层议题。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.20,
+          "explanation": "卡米拉与卡瓦哈尔的情感线索存在但并非作品核心，且笼罩在暴政阴影下。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.90,
+          "explanation": "从始至终弥漫着政治迫害的紧张感，读者时刻感到不安和警觉。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.08,
+          "explanation": "人际温暖几乎被恐惧腐蚀殆尽，偶有闪现但很快被黑暗吞噬。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.80,
+          "explanation": "人物在暴政下彼此隔绝，个体面对权力机器时极度孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.25,
+          "explanation": "微弱反抗暗示了希望的存在，但整体氛围持续压抑，希望渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.82,
+          "explanation": "魔幻现实主义手法使现实与梦境交织，大量意象和隐喻需要抽象理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.78,
+          "explanation": "多线叙事、碎片化结构和密集的象征体系构成较高的认知复杂程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品深入探讨权力、恐惧、人性等哲学和政治议题，思辨层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.35,
+          "explanation": "叙事刻意打破线性逻辑，以感官和情绪逻辑替代理性结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.90,
+          "explanation": "1946年率先以魔幻现实主义处理政治独裁题材，在文学史上极具开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.45,
+          "explanation": "作品聚焦封闭压抑的独裁空间，更侧重向内挖掘恐惧而非向外探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.88,
+          "explanation": "现实与幻象边界模糊，叙述者视角多变，大量情节和意象保持开放性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.20,
+          "explanation": "魔幻现实主义的非常规叙事使情节发展难以预料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "诗性语言和丰富象征使每段文字承载多层文化和心理信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.70,
+          "explanation": "读者可深入理解拉美独裁历史、魔幻现实主义文学和权力心理学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.70,
+          "explanation": "作品大量刻画个体在暴政下的内心恐惧、挣扎和道德抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "人际信任被权力腐蚀，告密与背叛成为关系核心，也有爱情微弱存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "小说全景式呈现独裁社会的运作机制，涵盖乞丐、中产、军警等各阶层。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "通过匿名拉美国家暗示普遍文明困境，但焦点仍在一国暴政。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "几乎不涉及宇宙或超越人类社会的宏大尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.30,
+          "explanation": "叙事时间集中在独裁者统治的一段时期，时间跨度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.60,
+          "explanation": "魔幻现实主义使日常现实与超自然意象融合，但底层仍是政治现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品中几乎没有真正的快乐时刻，偶有温情也被恐惧迅速淹没。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "无辜者的苦难、被摧毁的生活和无法逃脱的命运带来深沉的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "人物在暴政下被迫隔离，信任崩塌导致极度的精神孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.10,
+          "explanation": "人际温情偶有闪现但非常微弱，权力关系使温暖难以持续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.95,
+          "explanation": "恐惧是贯穿全书的绝对主导情绪，每个角色都在权力阴影下战栗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.90,
+          "explanation": "从开篇到结尾保持着高度紧张，暴力随时降临的不确定性持续压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.40,
+          "explanation": "魔幻意象偶尔引发敬畏，但被恐惧和压抑主导的体验所抑制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.15,
+          "explanation": "作品缺乏对消逝美好的怀念，沉浸在当下压迫之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.20,
+          "explanation": "反抗力量象征希望的存在，但作品整体色调使希望显得极其渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.80,
+          "explanation": "对人性失落的哀叹和暴政下美好事物消逝的伤感弥漫全书。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.60,
+          "explanation": "对独裁暴行的愤怒隐含于叙事中，但常被压抑转化为更深层的悲哀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "作品中几乎不存在宁静平和的时刻，持续的不安排除了平静的可能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "诗性语言具有美感，但服务于黑暗内容，形成扭曲的美学张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.15,
+          "explanation": "语言风格华丽复杂、意象密集，与简约美学相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "作品描绘恐惧和贫穷，几乎不涉及奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.95,
+          "explanation": "整部作品沉浸在黑暗氛围中，从地牢到深夜阴谋，黑暗是核心美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "作品刻意避免明亮色彩和轻松氛围，偶有光亮也被黑暗吞噬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.80,
+          "explanation": "魔幻现实主义使现实扭曲如梦魇，逻辑断裂产生强烈的梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.75,
+          "explanation": "秘密警察、告密网络和不可知的权力意志营造出浓厚的神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.85,
+          "explanation": "语言、结构和叙事视角均高度实验性，打破传统小说规范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "虽然根植于拉美文学传统，但形式和内容都具有鲜明的现代主义特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.70,
+          "explanation": "魔幻现实主义手法和碎片化叙事体现强烈的现代主义文学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.60,
+          "explanation": "多条人物线索交织，但核心情节元素相对集中，复杂在于结构而非事件数量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.78,
+          "explanation": "深入刻画人物在恐惧下的心理变化和道德崩溃过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.50,
+          "explanation": "人物在压力下发生心理变化，但更偏向崩溃和异化而非积极成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.70,
+          "explanation": "通过碎片化细节构建了一个自洽的独裁社会生态系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.88,
+          "explanation": "叙事刻意打破时间线性，以碎片和意象拼贴取代因果推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.75,
+          "explanation": "需要读者耐心沉浸在压抑氛围中，以缓慢节奏渗透恐惧心理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.25,
+          "explanation": "暴力更多是心理威胁而非直接行动描写，实际动作场景有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.82,
+          "explanation": "个体与权力机器之间的冲突极端激烈，虽以心理形式呈现但强度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "对权力本质、人性异化和存在困境的哲学探讨贯穿全书。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.45,
+          "explanation": "人物在暴政下被迫孤立，更体现孤独生存而非主动个人主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.40,
+          "explanation": "集体行动被暴政压制，社会缺乏健康的集体精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.35,
+          "explanation": "家庭关系在暴政下被扭曲破坏，亲情受到威胁但非核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.30,
+          "explanation": "信任被恐惧腐蚀，友谊难以在告密文化中存活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.35,
+          "explanation": "爱情存在但在暴政阴影下脆弱无力，成为权力迫害的延伸场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.40,
+          "explanation": "社会共同体被恐惧分化为孤立的个体和告密者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.50,
+          "explanation": "生存竞争表现为告密和权力攀附，竞争以扭曲形式存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "合作仅在秘密反抗中罕见出现，整体社会缺乏真诚合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "权力关系是全书绝对核心，所有社会互动都被权力结构和恐惧支配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.65,
+          "explanation": "暴政下个体身份的扭曲和丧失是重要主题，人物被迫背叛自我。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.75,
+          "explanation": "对自由的渴望贯穿全书，被剥夺的自由成为核心价值参照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "作品展现的是扭曲的压迫秩序，健康的秩序几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.65,
+          "explanation": "真相被权力遮蔽，对真实的追寻和揭露成为重要价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.45,
+          "explanation": "诗性语言体现艺术之美，但美被黑暗内容所笼罩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "在暴政下追求个人成就是危险的奢望，作品中几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.70,
+          "explanation": "对正义的渴望和被扭曲的司法形成强烈对照，正义是核心价值诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.60,
+          "explanation": "人物为保护他人或坚持信念付出沉重代价，牺牲场景反复出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "极端处境迫使人物认识自我，但探索更多是被迫而非主动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.30,
+          "explanation": "作品批判传统权力结构，对传统的温情几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "反抗象征着对变革的渴望，但变革的力量在暴政下极为微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "在告密和迫害中求生是所有人物的底层行为驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.60,
+          "explanation": "暴政下的存在意义问题持续浮现，人物挣扎于虚无与坚持之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "恐惧抑制了好奇心，探索未知在暴政下是危险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.30,
+          "explanation": "文学创作本身是反抗，但作品内人物鲜有创造空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "冒险在暴政下意味着死亡，作品几乎不鼓励任何冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.90,
+          "explanation": "作品强烈引导读者向内反思权力、人性和社会本质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.45,
+          "explanation": "竞争以告密和权力攀附的扭曲形式出现，非正面竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.20,
+          "explanation": "社交行为被恐惧压制，人际交往充满危险和算计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "暴政强加扭曲的纪律约束，自觉自律几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "反抗本身是巨大风险，人物在被迫中承担风险而非主动冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.08,
+          "explanation": "持续的恐惧和紧张使平静根本无法维持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.50,
+          "explanation": "人物渴望逃离暴政，但逃离几乎不可能，这种欲望成为心理驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.78,
+          "explanation": "诗性语言创造强烈的视觉意象，黑暗、鲜血、阴影等画面密集呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.60,
+          "explanation": "以暗色调为主，但感官描写丰富，并非单色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.50,
+          "explanation": "沉默和低语是主要声音意象，但也有尖叫和暴力声响的描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.30,
+          "explanation": "叙事节奏缓慢压抑，缺乏高能量推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "压抑恐惧的氛围是作品最突出的感官特征，从始至终笼罩读者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.82,
+          "explanation": "持续的黑暗氛围和感官意象使读者深度沉浸于独裁世界的心理空间。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.92,
+          "explanation": "作为拉美文学里程碑和魔幻现实主义经典，具有极高的文学价值。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.90,
+          "explanation": "诗性语言高度风格化，用词精炼密集，具有强烈的个人辨识度。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.88,
+          "explanation": "叙述视角多变，在客观叙述和人物内心之间自由切换，创造出独特的叙述声音。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.92,
+          "explanation": "全书充满丰富的象征意象，从总统的身影到地牢的黑暗都具有多层寓意。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.75,
+          "explanation": "大量描写人物在恐惧中的内心活动，深入呈现心理状态。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.70,
+          "explanation": "通过碎片化方式构建了自洽的独裁社会，各阶层和权力网络清晰可辨。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读《总统先生》是一种被恐惧包裹的心理体验。读者被投入一个噩梦般的独裁世界，持续感受到压迫性的紧张和不安。作品的魔幻现实主义手法使现实扭曲变形，产生强烈的疏离感和认知失调。情感上以恐惧、悲伤和孤独为主导，偶有微弱温情闪现但迅速被黑暗吞噬。整体体验深沉、压抑，引导读者在沉重中反思权力与人性的本质。",
+        "structure_description": "小说采用高度碎片化和非线性叙事结构，打破常规的因果推进逻辑。多个视角交替呈现，意象和感官描写取代了传统的情节驱动。这种结构本身模拟了独裁统治下的认知混乱和心理分裂，使读者体验到的不是有序的故事，而是无序却有力的情感和思想冲击。",
+        "cognitive_expression": "作品要求读者进行高强度的抽象理解和象征解读。魔幻现实主义模糊了现实与幻想的边界，迫使读者放弃常规的理解框架，在黑暗中摸索意义。哲学性思辨贯穿全书，引导对权力、恐惧和人性异化的深层思考。认知过程充满不确定性，需要容忍模糊并持续反思。",
+        "behavioral_tendency_description": "作品强烈引导反思性行为倾向，鼓励读者向内审视自己对权力和恐惧的反应。它不鼓励行动或冒险，而是在沉浸中培养批判性思考。对外部活动表现为消极，但对内心的思辨探索极为积极。"
+      },
+      "personality_affinity": {
+        "Ni": 0.88,
+        "Ne": 0.45,
+        "Ti": 0.72,
+        "Te": 0.25,
+        "Fi": 0.65,
+        "Fe": 0.55,
+        "Si": 0.20,
+        "Se": 0.30,
+        "openness": 0.92,
+        "conscientiousness": 0.35,
+        "extraversion": 0.15,
+        "agreeableness": 0.50,
+        "neuroticism": 0.85,
+        "Assertive": 0.12,
+        "Turbulent": 0.88
+      },
+      "supporting_evidence": [
+        "全书以匿名拉美国家的独裁统治为社会背景。",
+        "总统作为独裁者几乎不直接出场，但他的阴影笼罩所有人物。",
+        "故事开端于政治警察在深夜追捕一名乞丐。",
+        "告密网络渗透社会各阶层，信任被系统性破坏。",
+        "地牢作为反复出现的空间意象，象征暴政的压迫和死亡威胁。",
+        "魔幻现实主义手法使现实场景与超自然意象交织呈现。",
+        "语言具有高度诗性，大量使用隐喻和感官意象。",
+        "叙事视角不断切换，在多个角色的意识之间流动。",
+        "时间顺序被刻意打乱，过去和现在经常交错呈现。",
+        "安赫尔·卡瓦哈尔因政治罪名被捕并遭受酷刑。",
+        "卡米拉与卡瓦哈尔之间的情感在暴政阴影下发展。",
+        "人物在恐惧中逐渐丧失自我认同，出现心理异化。",
+        "反抗力量以地下形式存在，但面临极大的生命风险。",
+        "社会底层如乞丐群体同样被卷入政治迫害。",
+        "全书充满黑暗、阴影、血液等视觉意象，营造持续的压抑氛围。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

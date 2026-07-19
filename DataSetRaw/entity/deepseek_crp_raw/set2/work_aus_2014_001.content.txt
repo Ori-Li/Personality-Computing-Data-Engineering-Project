@@ -1,0 +1,746 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_aus_2014_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "天天过马路",
+        "type": "GAME",
+        "countryName": "澳大利亚",
+        "year": 2014,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "一款采用像素方块风格的无限循环休闲游戏。玩家通过极简的点按和滑动操作，控制各种可爱的像素动物角色，在动态生成的车流、河流、铁轨等障碍中持续前进。游戏以“被撞即死”的高惩罚机制和短平快的单局体验为核心，结合丰富的可解锁角色收集系统，营造出一种轻松有趣但又充满挑战的“再来一局”体验。其文化意义在于重新定义了移动端休闲游戏的标准，即通过极低的上手门槛、幽默的死亡动画和大量的随机性，创造出令人上瘾的核心循环。",
+        "themes": [
+          "冒险",
+          "生存",
+          "休闲",
+          "收集"
+        ],
+        "keywords": [
+          "像素艺术",
+          "动物角色",
+          "无尽跑酷",
+          "休闲游戏",
+          "车流",
+          "障碍躲避",
+          "角色收集",
+          "方块风格"
+        ],
+        "core_experience": "体验在无尽车流中连续穿越的紧张感与达成新纪录的即时满足感。极简操作带来了高度专注的心流状态，而随机生成的障碍和幽默的失败反馈则不断驱动玩家快速重开，形成一种重复但不枯燥、挫折却无压力的独特休闲心流循环。",
+        "experience_introduction": "《天天过马路》通过极简的操作和鲜明的像素视觉风格，将玩家迅速拉入一个反复试错的“心流”状态。游戏省略了复杂的剧情和教程，直接在“前进-躲避-死亡-重开”的循环中制造高频的紧张与释放。由于单局时间极短且失败成本为零，玩家的挫折感被大幅削弱，取而代之的是对刷新纪录和收集新角色的持续渴望。这种基于行为主义心理学的设计，使游戏体验脱离了传统叙事的束缚，成为一种纯粹通过即时反馈和视觉幽默来驱动情绪的轻量级解压工具。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.35,
+        "awe": 0.05,
+        "nostalgia": 0.45,
+        "reflection": 0.05,
+        "romance": 0.0,
+        "tension": 0.7,
+        "warmth": 0.6,
+        "loneliness": 0.25,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.05,
+          "complexity": 0.15,
+          "depth_of_thought": 0.05,
+          "logical_structure": 0.2,
+          "novelty": 0.6,
+          "exploration": 0.2,
+          "ambiguity": 0.15,
+          "predictability": 0.75,
+          "information_density": 0.15,
+          "learning_value": 0.1
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.05,
+          "social_scale": 0.05,
+          "civilization_scale": 0.02,
+          "cosmic_scale": 0.0,
+          "time_span": 0.05,
+          "fantasy_level": 0.55
+        },
+        "emotion": {
+          "happiness": 0.7,
+          "sadness": 0.05,
+          "loneliness": 0.25,
+          "warmth": 0.6,
+          "fear": 0.3,
+          "tension": 0.7,
+          "awe": 0.05,
+          "nostalgia": 0.45,
+          "hope": 0.55,
+          "melancholy": 0.05,
+          "anger": 0.05,
+          "peace": 0.15
+        },
+        "aesthetic": {
+          "beauty": 0.45,
+          "minimalism": 0.9,
+          "luxury": 0.0,
+          "darkness": 0.1,
+          "brightness": 0.85,
+          "dreamlike": 0.1,
+          "mystery": 0.2,
+          "experimental": 0.3,
+          "classical": 0.1,
+          "modern": 0.8
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.05,
+          "character_growth": 0.0,
+          "world_building": 0.2,
+          "nonlinear_structure": 0.0,
+          "slow_immersion": 0.0,
+          "action_intensity": 0.8,
+          "conflict_intensity": 0.75,
+          "philosophical_depth": 0.0
+        },
+        "social_relationship": {
+          "individualism": 0.9,
+          "collectivism": 0.05,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.0,
+          "community": 0.05,
+          "competition": 0.7,
+          "cooperation": 0.0,
+          "power_relationship": 0.0,
+          "identity": 0.15
+        },
+        "value": {
+          "freedom": 0.65,
+          "order": 0.25,
+          "truth": 0.0,
+          "beauty": 0.4,
+          "achievement": 0.8,
+          "justice": 0.0,
+          "sacrifice": 0.0,
+          "self_exploration": 0.1,
+          "tradition": 0.1,
+          "change": 0.3,
+          "survival": 0.85,
+          "meaning": 0.05
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.1,
+          "adventure": 0.55,
+          "reflection": 0.05,
+          "competition": 0.8,
+          "social": 0.1,
+          "discipline": 0.15,
+          "risk": 0.75,
+          "calm": 0.1,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.75,
+          "sound_intensity": 0.45,
+          "rhythm_energy": 0.9,
+          "atmosphere": 0.35,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.15,
+          "mechanical_skill": 0.55,
+          "player_agency": 0.45,
+          "exploration_depth": 0.1,
+          "collection_system": 0.7,
+          "progression_system": 0.3,
+          "social_interaction": 0.1,
+          "competition_intensity": 0.7
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "游戏节奏轻快，反馈幽默，缺乏深层次的情感投入需求，热情不是核心情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.35,
+          "explanation": "可爱的像素动物和明亮的色彩能带来轻微的治愈感，但紧张的核心玩法会冲淡这种感觉。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "游戏以简单趣味为主，缺乏宏大的场景或深邃的概念来产生敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "复古的像素方块风格和类似经典街机游戏的简单机制，能唤起一定的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.05,
+          "explanation": "快节奏的即时反应玩法几乎没有为玩家的深度思考和反思留出空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "游戏内容完全不涉及任何浪漫元素或相关的情感叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.7,
+          "explanation": "持续躲避车流和障碍的核心机制带来了持续性的高度紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.6,
+          "explanation": "圆润的方块角色设计、明亮的色调和幽默的死亡动画共同营造了温馨友好的氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.25,
+          "explanation": "虽然是单人游戏，但道路上不断出现的其他车辆使得世界感觉并不空旷。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "每次重开都伴随着能够超越上次记录并解锁新奖励的积极期望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.05,
+          "explanation": "内容由具体的视觉元素构成，如汽车、道路、树木，几乎不涉及抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.15,
+          "explanation": "机制简单，规则一目了然，认知负荷极低，仅需处理眼前的障碍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.05,
+          "explanation": "专注于即时的反应和躲避，不提供也不需要深刻思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.2,
+          "explanation": "游戏规则非常直接：碰到障碍物就结束，逻辑结构极其简单。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "将经典玩法与像素方块艺术风格、丰富角色收集系统结合，在当时具有很高概念新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.2,
+          "explanation": "场景随机生成带来少量无目的的探索感，但核心驱动力是前进而非探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "游戏目标和失败条件非常明确，不存在歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "核心规则高度可预测，尽管障碍物位置随机，但机制完全可知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.15,
+          "explanation": "每秒传递的信息量很小，仅限于眼前的几个障碍物和随机金币。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.1,
+          "explanation": "游戏不传递文化、历史或科学知识，学习价值仅限于游戏本身的手眼协调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "玩家的关注点完全集中在控制自己角色如何生存上，是高度个人化的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.05,
+          "explanation": "游戏中不存在任何可以互动的角色或构建的人际关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.05,
+          "explanation": "没有描绘任何社会结构，游戏世界由汽车、河流和树木组成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.02,
+          "explanation": "场景中存在道路、汽车等文明痕迹，但不涉及任何文明议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.0,
+          "explanation": "世界观仅局限于一个平面上的封闭场景，无任何宇宙尺度内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.05,
+          "explanation": "时间跨度仅限于当前一次的游戏进程，没有历史和未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.55,
+          "explanation": "会穿越马路的拟人化像素动物和被压扁后重来的设定，为游戏增添了适度的幻想色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.7,
+          "explanation": "明亮的视觉、可爱的角色和幽默的死法共同营造了欢乐的游戏情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "游戏体验短暂且充满积极的即时反馈，几乎没有悲伤情绪存在的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.25,
+          "explanation": "独自控制一个角色前进，缺乏同伴，但在随机生成的车流中并不显得特别孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.6,
+          "explanation": "怀旧的像素艺术和可爱无害的角色设计共同营造了一种温暖的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.3,
+          "explanation": "突如其来的快速车辆会带来短暂惊吓，但角色可爱的阵亡方式迅速化解了恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.7,
+          "explanation": "必须时刻保持警惕以躲避随机障碍，整个过程伴随着持续的中等强度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "游戏规模小，视觉效果简单，不追求制造令人敬畏的壮丽感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "像素艺术风格和简单的机制容易让玩家想起早期经典电子游戏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "每次死亡都激励玩家再次尝试以走得更远，充满了对下一次尝试的积极期望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.05,
+          "explanation": "游戏体验不具备深沉、忧愁或怀旧伤感等忧郁情绪的典型特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "挫折感被快速的重开机制和幽默反馈化解，玩家很难积累愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.15,
+          "explanation": "虽然画面平和，但核心躲避玩法带来的紧张感压倒了平静的可能性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.45,
+          "explanation": "色彩鲜艳、风格一致，具有一种像素艺术特有的可爱美感，但谈不上精致华丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.9,
+          "explanation": "从操作方式到视觉设计，再到游戏规则，都遵循了极简主义原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "极简的像素风格和休闲定位与奢华感完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "整体视觉明亮活泼，虽然有夜晚主题场景，但依然呈现卡通化的明快质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.85,
+          "explanation": "高饱和度的色彩和明亮的光线效果贯穿始终，视觉感受非常积极明快。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.1,
+          "explanation": "风格鲜明可辨，视觉元素坚实清晰，不具备朦胧或超现实的梦幻质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.2,
+          "explanation": "主要在于随机解锁下一个角色时会带来轻微的神秘感和期待，但内容本身不神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "对经典玩法的极简化和像素化重构具有一定的实验精神，但并未颠覆游戏框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.1,
+          "explanation": "风格非常现代，仅在像素艺术形式上与早期电子游戏有轻微联系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.8,
+          "explanation": "游戏的设计理念和视觉风格高度符合当下的极简与现代审美潮流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "完全不存在故事线，没有剧情和任何叙事元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "角色仅仅是外观不同的操作载体，没有任何背景故事或性格塑造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "角色能力等属性在游戏过程中保持不变，不存在任何形式的成长系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.2,
+          "explanation": "由随机场景元素构成一个无尽变化的简单世界，但缺乏系统性的世界观构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.0,
+          "explanation": "游戏过程本身就是一条线性的前进轨迹，不存在非线性叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.0,
+          "explanation": "游戏节奏极快，不存在通过缓慢铺垫来沉浸的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.8,
+          "explanation": "玩家需要不断地进行点击和滑动来操控角色躲避，动作密度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.75,
+          "explanation": "角色与车流、火车、河流等障碍物的生存冲突是核心且持续的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.0,
+          "explanation": "游戏完全不进行哲学探讨或表达某种深刻的哲学思想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.9,
+          "explanation": "游戏围绕个体表现与分数展开，强调个人操控技术而非团队协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "游戏内不存在集体、团队或社会协作的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "内容完全不涉及家庭主题及相关情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "作为一种纯粹的单人体验，游戏不描绘也不促进友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "游戏内容与爱情主题完全无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "游戏本身不包含社区功能或社区主题的相关内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.7,
+          "explanation": "高分排行榜与自我突破为核心驱动之一，具备强烈的间接竞争性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "不存在任何双人或多人合作机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "游戏内不存在角色间的权力动态或社会阶层关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.15,
+          "explanation": "通过选择不同动物角色，玩家可投射微弱的自我身份表达，但这并非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.65,
+          "explanation": "玩家操作完全自由，可以随时选择前进或停止，体现了高度的行为自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "游戏在混乱的车流中要求玩家找到高效的穿越路径，体现了对秩序的某种需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.0,
+          "explanation": "游戏不追求任何形式的终极真理或知识真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.4,
+          "explanation": "视觉风格上的可爱与色彩上的和谐是其重要外在价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.8,
+          "explanation": "刷新高分和解锁新角色的成就感是驱动玩家反复游玩的绝对核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "玩法中不包含任何与正义、公平或道德判断相关的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.0,
+          "explanation": "游戏中不存在为某个目标牺牲自身利益的机制或主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.1,
+          "explanation": "游戏不引导玩家进行内向的自我挖掘或情感探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.1,
+          "explanation": "像素风格向传统游戏致敬，但其核心设计思想是高度现代的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "障碍物的随机变化与场景切换要求玩家即时适应，变化是游戏体验的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "游戏的核心玩法就是在充满危险的现代道路上生存下来，生存是最首要的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.05,
+          "explanation": "游戏体验本身是浅层的、娱乐的，不引导玩家探寻人生的宏观意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "想知道下一个解锁何种新角色以及期待新场景外观，能激发一定好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "游戏不包含任何创造或自定义元素，玩家完全遵循既定规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.55,
+          "explanation": "穿越随机场景以获取高分的过程具有强烈的微型冒险感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.05,
+          "explanation": "快节奏使人无暇反思，仅凭本能和下意识反应进行操作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.8,
+          "explanation": "与朋友的高分比拼及自我突破是持续游玩的核心行为驱动力之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "不具备游戏内社交功能，但可引发线下讨论和分数比较。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "虽然要求精确操作，但游戏鼓励反复试错而非严格自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.75,
+          "explanation": "每一次点击前进都是在风险与回报之间进行即时权衡，高风险高回报。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "需要冷静判断，但整体体验是活跃和紧张的，而非宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "作为一种消磨时间的工具，它提供了从现实中短暂解脱的减压作用。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "色彩艳丽、场景不断移动，视觉上相当活跃，易于吸引眼球。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.75,
+          "explanation": "使用了高饱和度、对比强烈的明亮调色板，色彩非常丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.45,
+          "explanation": "音效清脆、节奏感强，对游戏操作提供反馈，但并非持续高强度的听觉轰炸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.9,
+          "explanation": "角色跳跃的节拍、背景音乐的节奏以及操作的频率共同构建了非常高的节奏能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.35,
+          "explanation": "虽有统一的视觉风格，但核心的短促玩法阻止了沉浸式氛围的形成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "极简的操作和对瞬间反应的依赖，易使玩家进入一种高度专注的“心流”状态。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.15,
+          "explanation": "主要依赖即时反应能力，长期或复杂的战术规划几乎没有发挥作用的空间。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.55,
+          "explanation": "对玩家在时机判断、点击/滑动的准确性和快速反应上有中等的操作要求。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.45,
+          "explanation": "玩家只能前进或左右移动，路径选择自由度适中，但缺乏改造环境等深层权限。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.1,
+          "explanation": "场景的变化是随机的而非通过探索发现的，场景本身没有可挖掘的深度。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.7,
+          "explanation": "收集和随机解锁大量不同外观的动物角色是延长游戏生命周期的核心外围系统。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.3,
+          "explanation": "游戏缺乏角色成长或明确的关卡进程，唯一的进度就是历史最高分。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.1,
+          "explanation": "游戏内不包含聊天、组队或协同玩法，社交功能仅限于异步的排行榜竞争。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.7,
+          "explanation": "驱动玩家不断重试的一个重要因素就是为了在排行榜上击败朋友的分数。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家在快速失败的循环中体验到强烈且持续的紧张与释放。核心心流建立在躲避随机障碍物的高频紧张感之上，愤怒和挫折则被可爱的艺术风格和零成本的快速重试机制消解。整体体验明亮、乐观且充满幽默感，在极短的单局时间里混合了挑战与温馨。",
+        "structure_description": "游戏通过单一的‘点击以前进’操作驱动所有交互。其结构为一个纯粹的无尽循环：不断在随机生成的车流、河流与铁轨间艰难前进，直到被撞上障碍物，然后瞬间展示幽默结局，并立即鼓励玩家重开。这种纯游戏性的闭环结构摒弃了所有叙事元素，将体验压缩为高度重复但极其上瘾的微观心流单元。",
+        "cognitive_expression": "作品鼓励快速、本能的应激反应式信息处理模式。玩家需要持续扫描屏幕上的动态变化并立即做出判断，认知负荷极低，但要求高度集中。策略思考的空间很小，整体的认知过程更偏向于对随机模式的下意识适应，而非复杂的逻辑分析或长期规划。",
+        "behavioral_tendency_description": "游戏显著地奖励冒险行为与竞争心态。为了获得更高分数，玩家需要在高风险区域大胆前进，这将鼓励玩家不断挑战自己的操作极限。与此同时，收集新角色的系统也激发玩家的好奇心与重复尝试的驱动力，将一种逃避现实的休闲行为引导为自我突破的微型追求。"
+      },
+      "personality_affinity": {
+        "Ni": 0.08,
+        "Ne": 0.35,
+        "Ti": 0.1,
+        "Te": 0.65,
+        "Fi": 0.15,
+        "Fe": 0.15,
+        "Si": 0.5,
+        "Se": 0.88,
+        "openness": 0.55,
+        "conscientiousness": 0.25,
+        "extraversion": 0.6,
+        "agreeableness": 0.3,
+        "neuroticism": 0.25,
+        "Assertive": 0.75,
+        "Turbulent": 0.25
+      },
+      "supporting_evidence": [
+        "玩家通过单次点击控制角色跳跃前进，以躲避随机排列的车流与河流。",
+        "游戏采用高饱和度的低多边形像素方块美术风格，角色均为可爱的动物外形。",
+        "核心游戏循环为“前进-失败-立刻重开”，任何障碍物均为一次致命。",
+        "角色死亡时伴有夸张、幽默的物理动画效果（如被压扁或弹飞）。",
+        "无尽模式中的场景、障碍物和地形均由系统算法动态随机生成。",
+        "游戏内设有一套庞大的收集系统，玩家可通过积累金币随机解锁超过一百种新角色外观。",
+        "更换新角色仅改变视觉外观和部分场景色调，不影响核心操作的数值或能力。",
+        "操作仅限前后左右的跳格移动，无任何攻击、建造或复杂的交互指令。",
+        "背景音乐节奏欢快跳跃，并与角色的行进节拍产生紧密呼应。",
+        "游戏排行榜允许玩家与社区好友进行异步高分竞争。",
+        "游戏进程以“历史最高分”作为唯一的长线实质性进展指标。",
+        "所有规则在进入游戏后通过直观现象即时传递给玩家，无任何文字教学或剧情。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

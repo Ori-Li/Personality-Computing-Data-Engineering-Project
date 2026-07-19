@@ -1,0 +1,763 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "新唐书",
+        "type": "IDEA",
+        "countryName": "中国",
+        "year": 1060,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-04-16",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.9,
+        "primaryMediaType": "IDEA"
+      },
+      "semantic": {
+        "summary": "《新唐书》是北宋官修纪传体唐代史，由欧阳修、宋祁等编纂，共225卷。全书事增文省，体例严谨，在志、表方面着力尤多，系统记载唐朝政治、经济、文化、军事及人物。其叙事简明，史论精要，体现了宋儒的史学观念与古文风格，是研究唐代历史的核心文献之一。",
+        "themes": [
+          "历史编纂",
+          "王朝兴衰",
+          "制度文明",
+          "人物传记",
+          "典章制度"
+        ],
+        "keywords": [
+          "唐朝",
+          "纪传体",
+          "史书",
+          "欧阳修",
+          "宋祁",
+          "志",
+          "表",
+          "本纪",
+          "列传",
+          "官修"
+        ],
+        "core_experience": "读者进入一部结构明晰、信息密集的历史记录，体验以理性眼光审视王朝全貌的认知过程。阅读中不断接触经过剪裁浓缩的史实与精当议论，唤起对盛衰规律的沉思和对传统史学的敬意。",
+        "experience_introduction": "这部作品以精简厚重的文笔和严谨体例，引导读者进入一个完整王朝的宏观图景。大量的人物传记与典章制度志，让阅读过程更接近系统的知识接收而非故事沉浸，带来的主要体验是认知上的充实、对历史理性的领悟，以及透过千年文字与古人功过相连的淡淡怀想。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.05,
+        "awe": 0.3,
+        "nostalgia": 0.5,
+        "reflection": 0.9,
+        "romance": 0.0,
+        "tension": 0.1,
+        "warmth": 0.05,
+        "loneliness": 0.2,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.4,
+          "complexity": 0.8,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.8,
+          "novelty": 0.5,
+          "exploration": 0.6,
+          "ambiguity": 0.2,
+          "predictability": 0.1,
+          "information_density": 0.9,
+          "learning_value": 0.95
+        },
+        "worldview": {
+          "personal_scale": 0.2,
+          "relationship_scale": 0.4,
+          "social_scale": 0.8,
+          "civilization_scale": 0.9,
+          "cosmic_scale": 0.1,
+          "time_span": 1.0,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.3,
+          "loneliness": 0.2,
+          "warmth": 0.1,
+          "fear": 0.1,
+          "tension": 0.2,
+          "awe": 0.4,
+          "nostalgia": 0.5,
+          "hope": 0.2,
+          "melancholy": 0.3,
+          "anger": 0.1,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.3,
+          "minimalism": 0.6,
+          "luxury": 0.1,
+          "darkness": 0.3,
+          "brightness": 0.2,
+          "dreamlike": 0.0,
+          "mystery": 0.1,
+          "experimental": 0.1,
+          "classical": 0.9,
+          "modern": 0.0
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.3,
+          "character_growth": 0.1,
+          "world_building": 0.9,
+          "nonlinear_structure": 0.4,
+          "slow_immersion": 0.6,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.2,
+          "philosophical_depth": 0.6
+        },
+        "social_relationship": {
+          "individualism": 0.3,
+          "collectivism": 0.7,
+          "family": 0.4,
+          "friendship": 0.2,
+          "love": 0.1,
+          "community": 0.5,
+          "competition": 0.5,
+          "cooperation": 0.4,
+          "power_relationship": 0.8,
+          "identity": 0.4
+        },
+        "value": {
+          "freedom": 0.2,
+          "order": 0.8,
+          "truth": 0.9,
+          "beauty": 0.2,
+          "achievement": 0.5,
+          "justice": 0.5,
+          "sacrifice": 0.3,
+          "self_exploration": 0.2,
+          "tradition": 0.8,
+          "change": 0.4,
+          "survival": 0.4,
+          "meaning": 0.6
+        },
+        "behavior": {
+          "curiosity": 0.8,
+          "creation": 0.2,
+          "adventure": 0.1,
+          "reflection": 0.9,
+          "competition": 0.2,
+          "social": 0.1,
+          "discipline": 0.7,
+          "risk": 0.1,
+          "calm": 0.8,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.1,
+          "color_richness": 0.05,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.4,
+          "immersion": 0.5
+        }
+      },
+      "media_vector": {
+        "idea_vector": {
+          "conceptual_originality": 0.5,
+          "logical_rigor": 0.9,
+          "systematicity": 0.95,
+          "theoretical_depth": 0.6,
+          "explanatory_power": 0.8,
+          "practical_guidance": 0.5,
+          "reasoning_quality": 0.8,
+          "paradigm_shift": 0.2,
+          "internal_consistency": 0.9,
+          "conceptual_clarity": 0.9
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "整体叙事以冷静客观为基调，极少激发强烈情感投入。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品目的为存史资治，没有明显的慰藉或修复意图。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.3,
+          "explanation": "王朝盛世的记录和体例的宏大规模能唤起一定敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.5,
+          "explanation": "对唐代典章人物的系统回顾带有明显的追慕与怀古意蕴。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "史论和事增文省的写法持续引导读者思考兴衰之由。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作为严肃史书，不涉及浪漫化叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.1,
+          "explanation": "虽有叛乱、战争记载，但处理方式偏重总结而非营造紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.05,
+          "explanation": "笔法简洁，极少渲染人物温情。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.2,
+          "explanation": "大量人物结局的客观记录可能带来淡薄的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "重事实陈列，对未来无特意提振。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.4,
+          "explanation": "以具体史实为主，抽象议论仅见于序赞部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.8,
+          "explanation": "涵盖政治、经济、军事、文化等多系统交互，信息繁复。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "序赞部分提供史家洞察，引导读者深入理解制度与人事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.8,
+          "explanation": "纪传表志体例分明，各卷之间逻辑关联清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.5,
+          "explanation": "相对《旧唐书》在志表上有创制，但整体不脱离传统史学框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.6,
+          "explanation": "通过志表系统展现唐代制度，引导读者探索文明结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.2,
+          "explanation": "史料力求明确，不刻意遗留解读空白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.1,
+          "explanation": "史实为已知结果，阅读不靠悬念驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.9,
+          "explanation": "事增文省，每卷承载大量人物、事件与制度信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.95,
+          "explanation": "是认识唐代历史与典章制度的基础文献，知识获取价值极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.2,
+          "explanation": "列传虽重个人事迹，但整体框架服务于国家叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.4,
+          "explanation": "人物关系多为政治隶属，少有个体亲密互动描摹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.8,
+          "explanation": "广泛涉及科举、经济、礼乐等社会制度层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.9,
+          "explanation": "从天文、地理到百官选举，构建了完整的文明图景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "仅天文志涉及宇宙观，但不作为核心视野。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 1.0,
+          "explanation": "横跨唐代近三百年历史，时间跨度极长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "全部基于真实历史记录，无虚构元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "治世记录偶见喜悦，但情绪表达十分克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.3,
+          "explanation": "安史之乱、朋党倾轧等内容带来沉郁感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.2,
+          "explanation": "志节之臣的遭遇有时透露孤寂感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "文笔简省，极少展现温情细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "叛乱与酷吏记载可能引起不安，但叙述比较冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.2,
+          "explanation": "朝堂斗争和军事冲突带来一定的紧张度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.4,
+          "explanation": "贞观、开元盛世的宏大纪事使人产生敬意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.5,
+          "explanation": "整体格调包含对盛唐的追怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "部分中兴努力带来微弱希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.3,
+          "explanation": "辉煌与衰败的对比产生一定惆怅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.1,
+          "explanation": "史笔隐恶扬善，不直接煽动愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "阅读节奏平稳，带来的情绪以冷静为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.3,
+          "explanation": "古文简洁之美，但重在实用而非文采。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.6,
+          "explanation": "追求事增文省，风格简练。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "不事铺陈，无奢华之气。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.3,
+          "explanation": "宦官专权、藩镇割据等篇章带来晦暗色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.2,
+          "explanation": "盛世篇章有明亮感，但比重有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.0,
+          "explanation": "纯实录风格，无梦幻色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.1,
+          "explanation": "基本汰除了志怪与神秘叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "严格遵守史法，不进行形式实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.9,
+          "explanation": "典型的中国传统史学美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.0,
+          "explanation": "毫无现代性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "无连续情节，仅以时间轴串连事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.3,
+          "explanation": "列传有性格描写，但不及文学作品细腻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.1,
+          "explanation": "人物多已定型，鲜见成长轨迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.9,
+          "explanation": "通过志表纪传彻底建构了唐代世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.4,
+          "explanation": "纪传分列造成非时序阅读，体例本身带来一定非线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.6,
+          "explanation": "需静心慢读方能把握全貌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "战争记载偏重战略因果，不渲染血战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.2,
+          "explanation": "政治斗争多以简笔勾画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.6,
+          "explanation": "史论部分涉及天人、礼法、治道等深层议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.3,
+          "explanation": "偶见特立独行之士，但主流仍是集体叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.7,
+          "explanation": "一切叙述围绕朝廷、国家、制度展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.4,
+          "explanation": "门阀氏族的记载体现家族的重要性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "友情非叙事重点，偶见于人物关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "极少涉及私人情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.5,
+          "explanation": "地方吏治与民俗部分反映社区感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.5,
+          "explanation": "争夺权位与科举竞争是反复出现的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.4,
+          "explanation": "部分篇章强调忠臣合作为国。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.8,
+          "explanation": "核心关切为君臣关系、派系斗争与宦权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.4,
+          "explanation": "华夷之辨与士族身份有所体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "隐逸志节偶有自由意味，但不构成主流价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.8,
+          "explanation": "强调礼法、制度、纲纪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.9,
+          "explanation": "以直书实录为最高准则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.2,
+          "explanation": "文字精简不尚华丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.5,
+          "explanation": "记录大量建功立业者，隐含价值肯定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.5,
+          "explanation": "褒贬中体现对正义的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.3,
+          "explanation": "忠臣死节的事迹得到颂扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.2,
+          "explanation": "重点在外在事功，非内在探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.8,
+          "explanation": "全书以传统史观统摄，推崇古制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "记录了制度沿革以示变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.4,
+          "explanation": "离乱时期涉及求存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.6,
+          "explanation": "通过褒贬和史论赋予历史行为意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.8,
+          "explanation": "丰富的内容引人探索唐代各个层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.2,
+          "explanation": "作为已有记录，不激发创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "无冒险行为激励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "史笔和论赞持续促发思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.2,
+          "explanation": "阅读不导致竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "独处阅读性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.7,
+          "explanation": "研读需持久有序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.1,
+          "explanation": "无所承担风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.8,
+          "explanation": "整体带来沉静的阅读行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "不是逃避现实的类型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.1,
+          "explanation": "纯文本，无视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.05,
+          "explanation": "不涉及色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "无声。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "叙事节奏平缓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.4,
+          "explanation": "文字营造出古朴庄重的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.5,
+          "explanation": "需投入注意力才能进入历史情境。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.conceptual_originality",
+          "score": 0.5,
+          "explanation": "在旧史基础上有改进，但本质仍是传统史学。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.logical_rigor",
+          "score": 0.9,
+          "explanation": "纪事本末清晰，逻辑严密。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.systematicity",
+          "score": 0.95,
+          "explanation": "纪传表志完备，系统性极强。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.theoretical_depth",
+          "score": 0.6,
+          "explanation": "史论触及治国理念，有一定理论高度。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.explanatory_power",
+          "score": 0.8,
+          "explanation": "对唐代兴衰给出了制度性解释。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.practical_guidance",
+          "score": 0.5,
+          "explanation": "提供资治参考，但非操作手册。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.reasoning_quality",
+          "score": 0.8,
+          "explanation": "论赞推理简练有力。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.paradigm_shift",
+          "score": 0.2,
+          "explanation": "未引发史学范式革命。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.internal_consistency",
+          "score": 0.9,
+          "explanation": "各卷之间无矛盾，体例统一。"
+        },
+        {
+          "dimensionPath": "media_vector.idea_vector.conceptual_clarity",
+          "score": 0.9,
+          "explanation": "每个概念（如宰相、府兵）都定义明确。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者的主导体验是理性认知的充实感与历史沉思的平和感。在翻阅纪传表志的过程中，不断接触到大量浓缩的史实与典章，情绪被控制在冷静而庄重的范围内，偶尔因王朝兴衰浮现淡淡的惆怅和怀古之情。",
+        "structure_description": "纪传体将人物与制度分类编排，辅以时序本纪，形成多线并进、互相参照的结构。这种组织方式鼓励交叉阅读与比对思考，使历史不再是单线叙事，而是一幅多重证据交织的图景。",
+        "cognitive_expression": "作品持续要求高强度的信息接收、分类记忆与因果推理。读者需要对政治制度、地理沿革、人物关系进行系统化整合，且常因事增文省的特点而必须自行补充逻辑链条，从而激发深入探究的认知需求。",
+        "behavioral_tendency_description": "阅读《新唐书》是一种安静且长时间的行为，倾向于独自研读。它鼓励有条理地积累知识，并在读完每篇后自发进行历史反思，不引导冲动行动或社交分享。"
+      },
+      "personality_affinity": {
+        "Ni": 0.6,
+        "Ne": 0.3,
+        "Ti": 0.9,
+        "Te": 0.7,
+        "Fi": 0.2,
+        "Fe": 0.3,
+        "Si": 0.8,
+        "Se": 0.1,
+        "openness": 0.6,
+        "conscientiousness": 0.9,
+        "extraversion": 0.2,
+        "agreeableness": 0.4,
+        "neuroticism": 0.3,
+        "Assertive": 0.8,
+        "Turbulent": 0.3
+      },
+      "supporting_evidence": [
+        "全书按本纪、志、表、列传分门别类记载唐代史事。",
+        "在《旧唐书》基础上删繁就简，文字比旧书更精省。",
+        "新增《仪卫志》《选举志》等，系统记录唐代制度细节。",
+        "《宰相世系表》用表格形式梳理重要家族谱系。",
+        "欧阳修所撰序赞语言峻洁，常以一两句点出兴衰关键。",
+        "本纪以时间顺序编年，展示皇帝在位期间的大事。",
+        "列传将同类人物合为一卷，如忠义、酷吏、儒学等分类。",
+        "详细记载府兵制、均田制、两税法等经济制度的演变。",
+        "《地理志》记录唐代州县沿革、户口数目与物产。",
+        "对安史之乱的起因、过程、影响有清晰梳理。",
+        "突出藩镇割据和宦官专权对唐后期政治的破坏。",
+        "为部分唐代文学家、思想家立传，并收录其代表作品节录。",
+        "继承《春秋》褒贬笔法，对人物事件隐含道德评价。",
+        "全书225卷规模宏大，前后体例统一，编纂历时近二十年。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

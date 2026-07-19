@@ -1,0 +1,730 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_nga_2019_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "马兰·伊利亚的护照",
+        "type": "ANIME",
+        "countryName": "尼日利亚",
+        "year": 2019,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "ANIME"
+      },
+      "semantic": {
+        "summary": "《马兰·伊利亚的护照》是尼日利亚魔毯动画工作室制作的动画剧集，改编自同名经典豪萨语小说。作品以传统豪萨族地区为背景，讲述了一个围绕复仇展开的故事。通过色彩鲜明的动画表现和西非文化元素的融合，作品展现了非洲本土叙事的独特魅力与地域文化风貌。",
+        "themes": [
+          "复仇",
+          "身份认同",
+          "传统与社会",
+          "命运",
+          "成长"
+        ],
+        "keywords": [
+          "豪萨族",
+          "西非文化",
+          "复仇故事",
+          "经典小说改编",
+          "传统服饰",
+          "沙漠景观",
+          "家族荣誉",
+          "命运抗争"
+        ],
+        "core_experience": "观众在观看过程中将进入一个充满异域风情的西非文化世界，随着主人公的复仇旅程，体验个人意志与命运、传统与现代之间的冲突与挣扎。故事通过紧张的情节推进和富有象征意味的文化符号，带来一种兼具反思与厚重感的认知体验。",
+        "experience_introduction": "作品通过豪萨族传统社会的背景设定和复仇主题的推进，将观众引入一个以荣誉与命运为核心的文化空间。叙事节奏伴随着主人公的成长与抉择，观众在体验异域风土人情的同时，也在不断面对关于责任、身份与道德边界的思考。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.18,
+        "awe": 0.40,
+        "nostalgia": 0.55,
+        "reflection": 0.70,
+        "romance": 0.10,
+        "tension": 0.75,
+        "warmth": 0.25,
+        "loneliness": 0.55,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.42,
+          "complexity": 0.50,
+          "depth_of_thought": 0.58,
+          "logical_structure": 0.45,
+          "novelty": 0.62,
+          "exploration": 0.55,
+          "ambiguity": 0.48,
+          "predictability": 0.40,
+          "information_density": 0.58,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.65,
+          "relationship_scale": 0.55,
+          "social_scale": 0.68,
+          "civilization_scale": 0.50,
+          "cosmic_scale": 0.15,
+          "time_span": 0.42,
+          "fantasy_level": 0.20
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.58,
+          "loneliness": 0.55,
+          "warmth": 0.25,
+          "fear": 0.22,
+          "tension": 0.75,
+          "awe": 0.40,
+          "nostalgia": 0.55,
+          "hope": 0.30,
+          "melancholy": 0.62,
+          "anger": 0.70,
+          "peace": 0.12
+        },
+        "aesthetic": {
+          "beauty": 0.58,
+          "minimalism": 0.30,
+          "luxury": 0.10,
+          "darkness": 0.55,
+          "brightness": 0.38,
+          "dreamlike": 0.18,
+          "mystery": 0.45,
+          "experimental": 0.35,
+          "classical": 0.48,
+          "modern": 0.30
+        },
+        "narrative": {
+          "plot_complexity": 0.52,
+          "character_depth": 0.62,
+          "character_growth": 0.58,
+          "world_building": 0.60,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.42,
+          "action_intensity": 0.55,
+          "conflict_intensity": 0.78,
+          "philosophical_depth": 0.45
+        },
+        "social_relationship": {
+          "individualism": 0.42,
+          "collectivism": 0.65,
+          "family": 0.68,
+          "friendship": 0.38,
+          "love": 0.20,
+          "community": 0.60,
+          "competition": 0.50,
+          "cooperation": 0.35,
+          "power_relationship": 0.58,
+          "identity": 0.72
+        },
+        "value": {
+          "freedom": 0.50,
+          "order": 0.42,
+          "truth": 0.48,
+          "beauty": 0.45,
+          "achievement": 0.55,
+          "justice": 0.65,
+          "sacrifice": 0.58,
+          "self_exploration": 0.55,
+          "tradition": 0.75,
+          "change": 0.42,
+          "survival": 0.62,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.48,
+          "creation": 0.22,
+          "adventure": 0.55,
+          "reflection": 0.62,
+          "competition": 0.50,
+          "social": 0.42,
+          "discipline": 0.48,
+          "risk": 0.60,
+          "calm": 0.20,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.68,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.50,
+          "atmosphere": 0.72,
+          "immersion": 0.62
+        }
+      },
+      "media_vector": {
+        "anime_vector": {
+          "animation_quality": 0.55,
+          "character_design": 0.62,
+          "visual_style": 0.70,
+          "symbolic_expression": 0.58,
+          "emotional_expression": 0.55
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "复仇主题和冲突激烈的剧情推动了强烈的情绪投入。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.18,
+          "explanation": "作品基调沉重，较少提供治愈或放松的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.4,
+          "explanation": "西非文化的独特视觉表现带来一定的惊奇感，但并非主要追求。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "作品改编自经典小说，带有对过去时代和传统社会的怀旧氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.7,
+          "explanation": "关于复仇、命运与身份的探讨引发观众深思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.1,
+          "explanation": "爱情并非故事的核心线索。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.75,
+          "explanation": "复仇带来的冲突和不确定性持续制造紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.25,
+          "explanation": "故事基调偏冷峻沉重，温暖时刻较少。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.55,
+          "explanation": "主人公在复仇之路上常处于孤立无援的精神状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.3,
+          "explanation": "沉重的主题和悲剧色彩使希望感不占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.42,
+          "explanation": "叙事以具体情节和人物驱动，抽象概念通过具体事件呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "情节和人物关系具有一定复杂度，但主线清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.58,
+          "explanation": "对复仇、传统和身份等主题进行了有深度的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "叙事注重因果推进，但情感驱动有时优先于严密逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.62,
+          "explanation": "作为非洲动画作品，其题材和文化背景在全球范围内具有新鲜感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "带领观众探索陌生的豪萨族文化和地理环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.48,
+          "explanation": "复仇的道德边界和人物动机具有一定模糊性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.4,
+          "explanation": "走向虽符合悲剧逻辑，但具体情节展开仍有意外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.58,
+          "explanation": "蕴含丰富的豪萨族文化、社会习俗和历史背景信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.6,
+          "explanation": "观众可以从中了解到尼日利亚豪萨族的传统文化和价值观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.65,
+          "explanation": "故事深度聚焦于主人公的个人遭遇和内心挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.55,
+          "explanation": "家庭和仇敌关系是推动情节的核心动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.68,
+          "explanation": "传统豪萨族社区的社会规范和等级制度对故事影响深刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.5,
+          "explanation": "背景涉及特定文明的冲突，但焦点仍集中在社群层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "几乎没有涉及宇宙或超验层面的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.42,
+          "explanation": "故事的时间跨度较为集中，主要在主人公的特定人生阶段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.2,
+          "explanation": "基于现实背景和传统故事改编，几乎没有超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "整体基调悲愤，快乐的时刻极为稀少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.58,
+          "explanation": "失去至亲和不公的命运是贯穿始终的悲伤来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.55,
+          "explanation": "主人公的复仇之路伴随着深刻的孤立感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.25,
+          "explanation": "作品中的人际关系多由责任和冲突主导，温情部分很少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.22,
+          "explanation": "恐惧并非作品渲染的主要情绪，紧张感更多来自冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.75,
+          "explanation": "复仇的步步紧逼和对抗构成了高强度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.4,
+          "explanation": "对文化景观和人物命运的感叹偶有出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "对传统生活方式和过去岁月的怀念感贯穿作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.3,
+          "explanation": "沉重的复仇使命和悲剧氛围压制了对未来的乐观期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.62,
+          "explanation": "对逝去的人和不可挽回的过去充满忧伤的沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.7,
+          "explanation": "不公的待遇和家仇是驱动主人公行动的根本愤怒之源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.12,
+          "explanation": "持续的内心冲突和外部对抗使得平静感几乎无法产生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.58,
+          "explanation": "动画色彩和西非图案设计带来了独特的视觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.3,
+          "explanation": "视觉风格注重细节和文化元素再现，而非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "几乎不表现奢华或富裕的视觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "复仇主题和悲剧情节为作品赋予了阴暗沉重的视觉基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.38,
+          "explanation": "虽有非洲大陆的明亮色彩，但整体氛围并不轻松明快。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.18,
+          "explanation": "叙事扎根于现实，很少采用梦幻或超现实的表现手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.45,
+          "explanation": "异域文化和人物未知的命运带来一定的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.35,
+          "explanation": "作为非洲动画的尝试，有一定探索性，但整体形式较为传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.48,
+          "explanation": "改编自经典文学作品，叙事结构和审美取向偏向古典。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.3,
+          "explanation": "内核是传统故事，没有刻意追求现代性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.52,
+          "explanation": "情节围绕复仇主线展开，伴随多条支线，有一定复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.62,
+          "explanation": "主人公的动机、挣扎和转变被多层次地刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.58,
+          "explanation": "在复仇之路上，主人公经历了显著的性格和认知变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.6,
+          "explanation": "对豪萨族社区的风俗、社会结构和生存环境有详尽的构造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "主要采用线性叙事，回忆和插叙仅作为辅助。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.42,
+          "explanation": "作品注重对环境和文化氛围的缓慢铺陈而非快节奏推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.55,
+          "explanation": "复仇过程中包含必要的冲突和追逐场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.78,
+          "explanation": "故事的核心冲突（复仇）激烈且贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.45,
+          "explanation": "引发了对复仇、传统约束和个人命运的哲理性思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.42,
+          "explanation": "主人公的个人意志突出，但受制于强大的集体传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.65,
+          "explanation": "家族荣誉和社区规范对人物行为有决定性影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.68,
+          "explanation": "家族关系是复仇动机的起点，也是核心情感纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.38,
+          "explanation": "友情在其中不是重点描绘的社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.2,
+          "explanation": "浪漫爱情关系在故事中处于边缘位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.6,
+          "explanation": "主人公的命运与豪萨族社区的集体生活紧密相连。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.5,
+          "explanation": "故事主要围绕对抗而非良性竞争展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.35,
+          "explanation": "主人公更多是孤身奋战，合作并非故事重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.58,
+          "explanation": "传统权威、社会地位和个人力量之间的权力关系是重要元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.72,
+          "explanation": "主人公在传统、命运和复仇之间寻找和确认自己的身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.5,
+          "explanation": "主人公努力挣脱命运和传统的束缚以寻求个人自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.42,
+          "explanation": "对现有秩序既有遵循也有挑战，价值取向复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.48,
+          "explanation": "追寻事件的真相是主人公行动的重要动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.45,
+          "explanation": "文化表达形式的美感是重要构成，但非核心价值追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "成功复仇是主人公的最高成就目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.65,
+          "explanation": "复仇的背后是对正义和公平的强烈渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.58,
+          "explanation": "复仇之路要求主人公付出巨大的个人牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "主人公在行动过程中不断审视自己的内心和动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.75,
+          "explanation": "传统习俗、家族荣誉和社会规范是压倒性的背景和约束力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.42,
+          "explanation": "通过个体的反抗，展现了对改变现状的渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.62,
+          "explanation": "在残酷的现实和敌对环境中求生存是基础命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "主人公在复仇中寻找自身存在的意义和价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.48,
+          "explanation": "作品激发了观众对西非文化的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.22,
+          "explanation": "主题侧重于破坏与报复，而非创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.55,
+          "explanation": "主人公踏上追寻仇敌的旅程，充满了未知和冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.62,
+          "explanation": "作品节奏和主题都鼓励观众对道德和命运进行反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.5,
+          "explanation": "核心是生死对抗，而非规则内的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.42,
+          "explanation": "主人公的孤寂旅程并未强调广泛的社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.48,
+          "explanation": "复仇的执念展现了某种极端的自我约束和目标专注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.6,
+          "explanation": "主人公不断将自己置于危险境地以达成目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.2,
+          "explanation": "剧情充满激烈的情绪和冲突，与冷静平和相去甚远。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "主题是直面创伤而非逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "动画的视觉风格和色彩运用具有很强的冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.68,
+          "explanation": "大量运用了代表西非文化的丰富和鲜艳的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "配乐和音效服务于剧情，在关键场景具有较强感染力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.5,
+          "explanation": "叙事节奏随着复仇进程张弛有度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.72,
+          "explanation": "成功营造了浓厚的地域文化氛围和沉重的命运感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.62,
+          "explanation": "独特的文化设定和情感投入能让观众沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.animation_quality",
+          "score": 0.55,
+          "explanation": "动画制作水平良好，符合其独立工作室的制作背景。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.character_design",
+          "score": 0.62,
+          "explanation": "人物造型融入了豪萨族的文化和服饰特点，设计有特色。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.visual_style",
+          "score": 0.7,
+          "explanation": "视觉风格突出，通过色彩和图案展现了独特的西非美学。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.symbolic_expression",
+          "score": 0.58,
+          "explanation": "动画中运用了一些具象征意义的视觉符号来传达文化内涵。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.emotional_expression",
+          "score": 0.55,
+          "explanation": "通过角色的表情和动作夸张度来传递强烈的内心情绪。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众的情绪体验以持续的紧张和深切的反抗为核心，被强烈的复仇怒火和沉重的悲伤旋律所主导。异域文化景观带来适度的惊奇和怀旧感，而主人公孤立无援的处境和悲剧命运则引发了压抑的孤寂与忧思。作品几乎不提供轻松、治愈或浪漫的情感出口。",
+        "structure_description": "叙事采用以复仇为主线、以主人公个人旅程为中心的结构，层层递进地加深冲突强度。这种设计使观众的情绪随着仇恨的积累和对抗的升级而持续紧绷，同时穿插对过去的回忆来深化悲剧色彩，最终导向对命运不可抗拒之力的体验。",
+        "cognitive_expression": "作品主要引导观众进行深刻的情感代入和道德反思，而非追求逻辑推理或抽象思辨。观众需要理解复杂的家族仇恨、社会传统规范以及人物的内心挣扎，信息处理的重心在于对异质文化语境的吸收和对主人公心理状态的共情分析。",
+        "behavioral_tendency_description": "内容鼓励一种直面冲突、迎难而上的思考倾向，唤起对不公的反抗意识和对自身身份的审视。它所奖励的是坚韧忍耐、目标专注和深刻自省的行为模式，而非轻松社交、安静独处或回避现实。"
+      },
+      "personality_affinity": {
+        "Ni": 0.52,
+        "Ne": 0.3,
+        "Ti": 0.4,
+        "Te": 0.62,
+        "Fi": 0.72,
+        "Fe": 0.38,
+        "Si": 0.55,
+        "Se": 0.58,
+        "openness": 0.6,
+        "conscientiousness": 0.65,
+        "extraversion": 0.35,
+        "agreeableness": 0.25,
+        "neuroticism": 0.78,
+        "Assertive": 0.2,
+        "Turbulent": 0.8
+      },
+      "supporting_evidence": [
+        "故事取材自尼日利亚豪萨族社区的经典小说，围绕家族仇恨展开。",
+        "动画在视觉上大量使用了代表西非传统纺织品的色彩与几何图案。",
+        "主人公因至亲被害而踏上复仇之路，核心动机是寻求正义。",
+        "作品展示了豪萨族的文化习俗、社会等级和日常生活方式。",
+        "剧情推进主要依赖人物之间的直接对话与肢体冲突。",
+        "主要矛盾源于个人复仇意愿与传统社会规范之间的张力。",
+        "配乐融合了非洲传统打击乐器，营造出浓厚的地域氛围。",
+        "人物服饰设计严格参考了豪萨族历史上的传统着装风格。",
+        "主人公在旅途中多次面临道德抉择，考验其复仇的决心。",
+        "故事背景设定在过去，描绘了一个非现代城市化的西非社会。",
+        "叙事主要采用线性结构，按照时间顺序讲述复仇过程。",
+        "角色之间因家族立场和社会地位不同而形成复杂的敌对关系。",
+        "作品通过环境与光影的变化来烘托人物内心的情绪波动。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

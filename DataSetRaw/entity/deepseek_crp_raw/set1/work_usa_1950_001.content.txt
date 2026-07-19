@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1950_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "女人 I",
+        "type": "PAINTING",
+        "countryName": "美国",
+        "year": 1950,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-03-26",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.93,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "《女人 I》是威廉·德·库宁1950—1952年创作的抽象表现主义油画。作品以狂暴、粗粝的笔触构建了一个咧嘴瞪眼的女性半身像，形体在具象的丰满感与抽象的碎裂感之间反复撕扯。颜料厚涂、刮擦与重绘的痕迹直接保留了创作过程中的身体冲突，使画面本身成为欲望、恐惧、崇敬与摧毁相互缠斗的战场，带给观者强烈的视觉冲击与心理不安。",
+        "themes": [
+          "性别",
+          "欲望",
+          "暴力",
+          "身份解构",
+          "具象与抽象的冲突",
+          "身体表达"
+        ],
+        "keywords": [
+          "抽象表现主义",
+          "女性形象",
+          "行动绘画",
+          "厚涂",
+          "粗粝笔触",
+          "瞪视",
+          "咧嘴",
+          "形体扭曲",
+          "纽约画派",
+          "战后美国艺术"
+        ],
+        "core_experience": "在具象辨认与抽象消解之间产生持续的视觉撕扯和心理不安，体验到创作过程中狂暴的能量释放与原始情感的直观冲击。",
+        "experience_introduction": "观者面对《女人 I》时，首先被巨大的尺幅和粗粝的颜料质感所压迫，视线在试图辨认女性形象的同时又被狂乱的笔触反复打散。咧嘴瞪眼的面部形成一个令人不安的焦点，周围是不断涂抹、刮擦与重绘的痕迹，记录了艺术家身体性的创作过程。具象与抽象的边界在画面中不断被冲破又重建，迫使观者放弃轻松辨认的欲望，进入一种被原始情感和强烈能量裹挟的体验——既有被凝视的紧张，也有对创造与摧毁这一矛盾过程的直观感受。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.05,
+        "awe": 0.60,
+        "nostalgia": 0.05,
+        "reflection": 0.55,
+        "romance": 0.10,
+        "tension": 0.95,
+        "warmth": 0.05,
+        "loneliness": 0.40,
+        "hope": 0.05
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.88,
+          "complexity": 0.75,
+          "depth_of_thought": 0.65,
+          "logical_structure": 0.25,
+          "novelty": 0.90,
+          "exploration": 0.60,
+          "ambiguity": 0.92,
+          "predictability": 0.10,
+          "information_density": 0.55,
+          "learning_value": 0.45
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.40,
+          "social_scale": 0.30,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.10,
+          "time_span": 0.10,
+          "fantasy_level": 0.15
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.25,
+          "loneliness": 0.40,
+          "warmth": 0.05,
+          "fear": 0.55,
+          "tension": 0.95,
+          "awe": 0.60,
+          "nostalgia": 0.05,
+          "hope": 0.05,
+          "melancholy": 0.20,
+          "anger": 0.75,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.25,
+          "minimalism": 0.10,
+          "luxury": 0.10,
+          "darkness": 0.70,
+          "brightness": 0.15,
+          "dreamlike": 0.20,
+          "mystery": 0.55,
+          "experimental": 0.95,
+          "classical": 0.10,
+          "modern": 0.90
+        },
+        "narrative": {
+          "plot_complexity": 0.30,
+          "character_depth": 0.60,
+          "character_growth": 0.15,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.75,
+          "slow_immersion": 0.50,
+          "action_intensity": 0.85,
+          "conflict_intensity": 0.92,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.90,
+          "collectivism": 0.10,
+          "family": 0.10,
+          "friendship": 0.05,
+          "love": 0.25,
+          "community": 0.10,
+          "competition": 0.50,
+          "cooperation": 0.05,
+          "power_relationship": 0.70,
+          "identity": 0.80
+        },
+        "value": {
+          "freedom": 0.80,
+          "order": 0.10,
+          "truth": 0.55,
+          "beauty": 0.30,
+          "achievement": 0.30,
+          "justice": 0.10,
+          "sacrifice": 0.15,
+          "self_exploration": 0.70,
+          "tradition": 0.15,
+          "change": 0.75,
+          "survival": 0.35,
+          "meaning": 0.50
+        },
+        "behavior": {
+          "curiosity": 0.50,
+          "creation": 0.85,
+          "adventure": 0.35,
+          "reflection": 0.60,
+          "competition": 0.50,
+          "social": 0.10,
+          "discipline": 0.15,
+          "risk": 0.75,
+          "calm": 0.05,
+          "escape": 0.20
+        },
+        "sensory": {
+          "visual_intensity": 0.95,
+          "color_richness": 0.70,
+          "sound_intensity": 0.00,
+          "rhythm_energy": 0.85,
+          "atmosphere": 0.90,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "抽象表现主义",
+          "color_expression": 0.70,
+          "composition_complexity": 0.75,
+          "symbolism": 0.80,
+          "emotional_expression": 0.95,
+          "historical_style": 0.90
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "画面中狂暴的笔触和强烈的色彩对比直接传递出高度的情感张力，带来强烈的激情体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "画面充满冲突、扭曲和攻击性笔触，不具备任何安抚、慰藉或疗愈特质的视觉元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.60,
+          "explanation": "作品巨大的尺幅和奔放不羁的笔触具有压倒性的存在感，能引发观者的敬畏与震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "画作风格激进前卫，不引用历史或怀旧符号，几乎不唤起任何怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "具象与抽象之间的持续撕扯迫使观者思考形象的本质以及表达与象征的边界。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.10,
+          "explanation": "作品基调充满侵略性和原始力量，不涉及任何浪漫或理想化的情感成分。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.95,
+          "explanation": "扭曲的形体、瞪视的目光和狂乱的笔触共同营造出极度紧张和令人不安的视觉体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.05,
+          "explanation": "色调偏冷且粗粝，构图充满冲突，作品几乎不提供温暖或亲切的感受。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.40,
+          "explanation": "孤立且被放大的女性形象，在充满攻势的笔触包围中，传达出一定程度的孤立感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.05,
+          "explanation": "整体氛围压抑、狂暴且充满撕扯，没有指向希望或乐观的未来方向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.88,
+          "explanation": "作品在具象与抽象的边界上反复撕扯，形体极度扭曲，逼使观者进行高度抽象的视觉转换。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.75,
+          "explanation": "画面由多层叠加、刮擦与重绘的丰富肌理构成，视觉元素多层次交织，难以一次性解析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.65,
+          "explanation": "作品探讨了性别、凝视、创造与摧毁等议题，触及深层的人类心理和文化原型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "构图遵循的是身体性动态和情感逻辑，而非理性和有序的结构安排。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.90,
+          "explanation": "在1950年代的历史背景下，将人物处理成如此暴烈、未完成的抽象状态是一种巨大的创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "作品邀请观者探索形象如何从混沌的颜料中显现与消解，进行一场视觉和概念上的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.92,
+          "explanation": "形体的确认与消解同时发生，使得图像始终处于不确定状态，拥有极高的解读开放性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.10,
+          "explanation": "笔触狂乱无序，形象非典型，视觉路径几乎无法预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "多层厚涂的颜料历史和复杂的笔触运动承载了高密度的创作过程信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.45,
+          "explanation": "作为抽象表现主义的关键作品，它对理解战后美国艺术转向具有重要的艺术史学习价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "聚焦于一个孤立的个人化形象，是高度私密化的身体和心理经验的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.40,
+          "explanation": "画面通过观者与人物形象的对视，构建了一种紧张的凝视关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.30,
+          "explanation": "对女性形象的处理方式隐含了对社会性视角和非个体化审视的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "作品不直接讨论文明议题，但可作为战后西方文明精神危机在美学上的间接反映。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "完全聚焦于人体与心理，不涉及宇宙或宏观尺度的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.10,
+          "explanation": "凝固于一个瞬间的视觉形态，无时间推移或叙事性时间跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.15,
+          "explanation": "形象虽然扭曲，但根基在于现实人体，并未构建一个完全脱离现实的幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "画面情绪是暴怒的、紧张的、充满冲突的，不包含任何快乐的成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.25,
+          "explanation": "狂暴的表象之下，被解构的形体似乎隐含着一种被摧毁的悲哀，但并非主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.40,
+          "explanation": "作为画面中心的孤立的巨大半身像，传达出一种被客体化的个体的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.05,
+          "explanation": "完全没有视觉或情感上的暖意，内容与表现形式都是冷峻和粗暴的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "人物形象的狰狞、瞪视的眼睛和狂乱的氛围引发一种原始的恐惧和不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.95,
+          "explanation": "作品的核心情绪，狂暴的力量在画面上四处冲突，具象与抽象的拉锯达到了白热化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.60,
+          "explanation": "对艺术家强烈的情感力量、身体性的创作行为和纯粹的视觉冲击力产生敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "不涉及任何对过往的回忆或怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "画面被破坏和争斗感所主导，显然不传达希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.20,
+          "explanation": "虽然有悲哀的潜流，但整体情绪的侵略性和烈度远高于沉思性的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.75,
+          "explanation": "无论从笔触、色彩还是形象的狰狞感来看，都充满了强烈的、未加修饰的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "与平和宁静的体验完全相反，作品旨在激发不安和紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.25,
+          "explanation": "作品追求的是一种原始力量和表现力，而非传统和谐意义上的视觉美丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.10,
+          "explanation": "画面呈现出一种'极繁'风格，颜料层层堆叠，元素繁杂，与极简主义完全对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "材料使用是直接、粗野和反精致的，不涉及任何奢华或精致的趣味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.70,
+          "explanation": "无论是色调还是主题，都偏向黑暗、沉重和压抑的心理气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "整体色调偏沉暗，即使存在亮色也被灰暗的调子所中和，毫无明亮轻快之感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.20,
+          "explanation": "虽然意象极度扭曲，但其狂暴的力量压倒了一切梦境般的缥缈感，更像一场噩梦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "形象在显与隐之间的不确定状态赋予作品神秘感，引发对形象背后意义的猜想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.95,
+          "explanation": "这是高度实验性的创作，彻底挑战了传统肖像画的规范，技法与观念都极为激进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.10,
+          "explanation": "完全摒弃了古典艺术的和谐比例、优美线条与永恒理想，是对其的彻底反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.90,
+          "explanation": "画面充满了现代性的焦虑、速度感、碎片化和主体性危机，是现代主义艺术的典范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.30,
+          "explanation": "通过厚涂笔触的层叠与刮擦，暗示了创作过程的先后叠加与修改，构成了隐含的非线性过程叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.60,
+          "explanation": "主体形象虽然破碎扭曲，但其狰狞的表情和瞪视的目光暗示了极其复杂的内部心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "画面呈现的是一个凝固的、充满冲突的状态，不展现人物的成长或变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "绘画空间被压缩为平面的颜料战场，不致力于构建完整的幻想或现实世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.75,
+          "explanation": "叠加、刮擦的痕迹使得作品的创作过程在画面上形成了非线性、碎片化的视觉结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.50,
+          "explanation": "作品丰富的肌理和复杂的空间关系要求观者投入时间缓慢观察，才能逐渐进入其视觉世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.85,
+          "explanation": "笔触本身就记录着剧烈的身体行动，'行动绘画'的概念在此体现得淋漓尽致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.92,
+          "explanation": "视觉上与概念上的多重激烈对立形成一个完整的冲突场，从形式到内容都高度冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "作品引发关于表象与本质、创造与毁灭、凝视与被凝视等哲学层面的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.90,
+          "explanation": "聚焦于单一的主体和极具个人化的表现方式，完全是个人主义精神的产物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.10,
+          "explanation": "不涉及群体、社会仪式或集体价值，与集体主义无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.10,
+          "explanation": "主题不涉及任何家庭纽带或家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "完全不存在友谊或任何其他积极人际关系的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.25,
+          "explanation": "对女性的描绘混合了欲望与攻击性，表现为一种矛盾而富有张力的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.10,
+          "explanation": "不涉及社区或任何形式的社会性群聚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.50,
+          "explanation": "创作者与画布、形象进行着激烈的对抗和搏斗，体现了一种创造过程中的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.05,
+          "explanation": "创作过程是极度个人化的，不存在合作互动的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.70,
+          "explanation": "作品核心是关于凝视的权力关系，艺术家作为观看者对被描绘客体（女性）施加的控制与解构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.80,
+          "explanation": "作品直接探讨并挑战了女性的身份认同，将其解构、扭曲并重新定义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.80,
+          "explanation": "不受约束的笔触和对传统规范的彻底打破，高度体现了艺术表达和规则突破的创作自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "构图混乱，笔触狂放，完全无秩序可言，是对秩序的颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "试图剥离表象，用粗粝的方式直接表达对女性形象的一种心理上和情感上的'真实'。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "将丑陋、狰狞和混乱作为一种表现力来追求，而非传统之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "作为艺术史上一次大胆的突破，可视为一种艺术成就，但并非对世俗成功的关注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.10,
+          "explanation": "不涉及任何社会正义、法律或道德判断的议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "创作过程充满挣扎，可以理解为对旧有美学规范的牺牲，但并非利他性牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.70,
+          "explanation": "创作过程本身就是一场深入个人潜意识，探索自身欲望与恐惧的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "对西方传统肖像画和女性形象描绘的彻底反叛，是对传统的激烈颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.75,
+          "explanation": "作品本身就是艺术史变革的推动者，强调了对旧形式的激进的、动态的改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.35,
+          "explanation": "画面中的狂暴斗争可以被隐喻为一种心理或存在层面的挣扎与求生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.50,
+          "explanation": "通过存在主义式的视觉追问，作品促使观者思考形象、身份和创作本身的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.50,
+          "explanation": "作品的神秘性和开放性激发了观者去探索和理解这种陌生视觉语言的求知欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.85,
+          "explanation": "作品直接、强烈地视觉化了创造行为本身的力量，将创作过程作为主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.35,
+          "explanation": "对艺术家而言，这是一种冒险，对观者而言，则是一次'危险的'视觉之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.60,
+          "explanation": "作品的复杂性和歧义性迫使观者进行持续的反思和解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.50,
+          "explanation": "体现在创作者与其画面、与传统、与既定规则的对抗性关系上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.10,
+          "explanation": "不鼓励社交互动，作为审美客体的性质远大于社交催化剂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "作品颂扬即兴和冲动，而非遵循纪律和精密的控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.75,
+          "explanation": "无论在艺术表达上还是观念上，此作品都是一场高风险的行为，挑战了公众的接受极限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "画面充满动荡与能量，与寻求冷静、平和的行为倾向完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.20,
+          "explanation": "虽然不鼓励从现实中逃避，但可能引发一种沉入潜意识深处的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.95,
+          "explanation": "巨大的尺幅、厚涂的颜料、剧烈的色彩和狂暴的笔触带来了极强的视觉冲击力和强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.70,
+          "explanation": "在大量白色和肉色调的交织中，夹杂着红、黄、蓝、绿等多种色彩，色彩层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.00,
+          "explanation": "作为纯粹的静态视觉艺术，作品本身不包含任何声音元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.85,
+          "explanation": "笔触的运动轨迹在画面上创造了充满能量和速度感的视觉节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.90,
+          "explanation": "营造出一种高度紧张、原始、充满对抗性和攻击性的强烈氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "巨大的尺幅和全方位的视觉细节很容易将观者包围，产生身临其境的沉浸感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.00,
+          "explanation": "风格直接归类为抽象表现主义。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.70,
+          "explanation": "色彩的使用直接为表达激烈的情感服务，大面积肉色和白色与其他颜色的碰撞充满张力。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.75,
+          "explanation": "构图似乎在不断形成与瓦解的过程中，元素多且相互入侵，几乎无稳定结构。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.80,
+          "explanation": "女性形象本身作为一个强有力的符号，承载着复杂的文化与心理象征意义。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.95,
+          "explanation": "作品的首要目的就是直接通过颜料和笔触的物性传递艺术家强烈的、未经中介的情感状态。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.90,
+          "explanation": "完美地体现了抽象表现主义及行动绘画在战后美国兴起时的典型风格与精神。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "面对《女人 I》时，观者首先被巨大的尺幅和粗粝的颜料质感所压迫，视线在试图辨认女性形象的同时又被狂乱的笔触反复打散。咧嘴瞪眼的面部形成一个令人不安的焦点，周围是不断涂抹、刮擦与重绘的痕迹，记录了艺术家身体性的创作过程。具象与抽象的边界在画面中不断被冲破又重建，迫使观者放弃轻松辨认的欲望，进入一种被原始情感和强烈能量裹挟的体验——既有被凝视的紧张，也有对创造与摧毁这一矛盾过程的直观感受。",
+        "structure_description": "作品的结构由层层叠加、刮擦和重绘的厚涂颜料构成，拒绝任何稳定的构图中心。主体人物在看似混乱的笔触中若隐若现，形成一种动态的、自我冲突的视觉结构。这种非线性、碎片化的视觉组织方式直接体现了“行动绘画”的核心原则，将创作时间性压缩进平面的空间之中。",
+        "cognitive_expression": "该作品要求观者进行一种高度动态和抽象的认知活动，必须在持续的视觉模糊与辨识之间不断切换。它迫使观者放弃传统的、被动的观看方式，转而投入一种主动构建意义的状态，同时反思形象与象征、创造与破坏之间的哲学关系。",
+        "behavioral_tendency_description": "作品强烈地鼓励着创造性的冒险和自由的表达。面对它，观者被推动去接受陌生和不安的体验，并对既定规则进行审视。这是一种要求主动投入、敢于面对冲突的观看行为，而不是被动的欣赏。"
+      },
+      "personality_affinity": {
+        "Ni": 0.72,
+        "Ne": 0.62,
+        "Ti": 0.55,
+        "Te": 0.25,
+        "Fi": 0.88,
+        "Fe": 0.18,
+        "Si": 0.10,
+        "Se": 0.82,
+        "openness": 0.95,
+        "conscientiousness": 0.12,
+        "extraversion": 0.40,
+        "agreeableness": 0.15,
+        "neuroticism": 0.78,
+        "Assertive": 0.30,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "作品以狂暴、粗粝的笔触构建了一个咧嘴瞪眼的女性半身像，形体在具象与抽象之间反复撕扯。",
+        "颜料层由厚涂、刮擦与重绘的动作痕迹叠加构成，记录了创作过程中的身体性冲突。",
+        "人物面部呈现出突出的咧嘴和瞪视表情，与周围碎裂的笔触形成高度紧张的视觉关系。",
+        "画面整体色调以肉色、白色为主，同时夹杂着红、黄、蓝、绿等多种强烈色彩。",
+        "形象在画面中似乎不断地从混沌的颜料堆中显现又消解，拒绝被轻易辨认。",
+        "巨大的尺幅与充斥着动势的笔触，使得整个画面充满了压倒性的能量。",
+        "作品不遵循传统肖像画的和谐构图与优美比例，其结构是动态且不稳定的。",
+        "在具象辨认与抽象消解之间，观者的视线被反复推拉，难以找到稳定的焦点。",
+        "画面底层和表层的颜料之间存在着刮擦、覆盖和重新描绘的痕迹，呈现了时间的厚度。",
+        "女性形象被处理为一个承载着原始力量和心理冲突的符号，而非具体个体肖像。",
+        "作品挑战了古典艺术对女性美的理想化描绘，代之以狰狞、粗野的形象。",
+        "创作年代处于战后美国艺术大变革时期，作品本身是这场艺术革命中极具争议的标志。",
+        "画作直接体现了“行动绘画”的理念，将艺术家的身体运动和情感宣泄记录在画布上。",
+        "观者面对作品时，体验到的不是平静的欣赏，而是一种被视觉强烈冲击的心理眩晕感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

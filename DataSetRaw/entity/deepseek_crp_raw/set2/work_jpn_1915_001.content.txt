@@ -1,0 +1,737 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1915_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "罗生门",
+        "type": "NOVEL",
+        "countryName": "日本",
+        "year": 1915,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.93,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《罗生门》是芥川龙之介于1915年发表的短篇小说，以平安时代末期荒废的都城京都为舞台。故事聚焦于一个被主人解雇、走投无路的家将，在罗生门下避雨时面临生存与行恶的道德抉择。小说通过冷峻的笔调、细腻的心理刻画及象征性的空间场景，揭示了人在极端困境下利己主义的膨胀与道德底线的崩塌，整体体验压抑而引人深思，是日本近代文学探讨人性之恶的经典之作。",
+        "themes": [
+          "生存",
+          "道德困境",
+          "利己主义",
+          "人性之恶",
+          "社会衰败"
+        ],
+        "keywords": [
+          "罗生门",
+          "家将",
+          "老太婆",
+          "拔死人头发",
+          "尸骸",
+          "平安时代",
+          "京都",
+          "利己主义",
+          "道德泯灭",
+          "末世景象"
+        ],
+        "core_experience": "体验者在阅读中逐渐被一种强烈的、无处可逃的压抑感所笼罩，跟随走投无路的家将经历从犹豫、道德挣扎到最终滑向恶的过程，感受到人性在生存本能面前的脆弱与阴暗，并被迫反思自身可能存在的同样的利己本性。",
+        "experience_introduction": "作品通过描绘一个封闭、衰败、充满死亡气息的空间场景，以及一个在生死存亡边缘徘徊的人物，为读者营造了一种高度紧张且令人窒息的沉浸环境。叙事聚焦于家将的所见、所闻与心理波动，从最初的正义感、对恶的厌恶，到在特定情境催化下急速转向自我辩护并付诸恶行，整个过程构成了读者体验的核心路径。"
+      },
+      "experience_vector": {
+        "passion": 0.02,
+        "healing": 0.0,
+        "awe": 0.05,
+        "nostalgia": 0.0,
+        "reflection": 0.92,
+        "romance": 0.0,
+        "tension": 0.88,
+        "warmth": 0.0,
+        "loneliness": 0.95,
+        "hope": 0.01
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.55,
+          "depth_of_thought": 0.9,
+          "logical_structure": 0.45,
+          "novelty": 0.75,
+          "exploration": 0.15,
+          "ambiguity": 0.75,
+          "predictability": 0.3,
+          "information_density": 0.6,
+          "learning_value": 0.82
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.15,
+          "social_scale": 0.6,
+          "civilization_scale": 0.45,
+          "cosmic_scale": 0.1,
+          "time_span": 0.08,
+          "fantasy_level": 0.02
+        },
+        "emotion": {
+          "happiness": 0.0,
+          "sadness": 0.4,
+          "loneliness": 0.95,
+          "warmth": 0.0,
+          "fear": 0.65,
+          "tension": 0.9,
+          "awe": 0.05,
+          "nostalgia": 0.0,
+          "hope": 0.0,
+          "melancholy": 0.6,
+          "anger": 0.25,
+          "peace": 0.0
+        },
+        "aesthetic": {
+          "beauty": 0.15,
+          "minimalism": 0.8,
+          "luxury": 0.0,
+          "darkness": 0.98,
+          "brightness": 0.0,
+          "dreamlike": 0.05,
+          "mystery": 0.4,
+          "experimental": 0.2,
+          "classical": 0.7,
+          "modern": 0.3
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.88,
+          "character_growth": 0.9,
+          "world_building": 0.3,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.7,
+          "action_intensity": 0.08,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.88
+        },
+        "social_relationship": {
+          "individualism": 0.95,
+          "collectivism": 0.05,
+          "family": 0.0,
+          "friendship": 0.0,
+          "love": 0.0,
+          "community": 0.02,
+          "competition": 0.2,
+          "cooperation": 0.0,
+          "power_relationship": 0.85,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.05,
+          "order": 0.1,
+          "truth": 0.6,
+          "beauty": 0.05,
+          "achievement": 0.02,
+          "justice": 0.15,
+          "sacrifice": 0.05,
+          "self_exploration": 0.9,
+          "tradition": 0.1,
+          "change": 0.15,
+          "survival": 0.98,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.1,
+          "creation": 0.02,
+          "adventure": 0.05,
+          "reflection": 0.98,
+          "competition": 0.1,
+          "social": 0.02,
+          "discipline": 0.05,
+          "risk": 0.3,
+          "calm": 0.1,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.1,
+          "sound_intensity": 0.15,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.98,
+          "immersion": 0.9
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.92,
+          "writing_style": 0.85,
+          "narrative_voice": 0.88,
+          "symbolism": 0.9,
+          "inner_monologue": 0.85,
+          "world_building_depth": 0.35
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.02,
+          "explanation": "作品基调冷峻克制，完全缺乏热烈或激昂的情感表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.0,
+          "explanation": "故事走向绝望，不存在任何抚慰或疗愈性元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "作品更多是带来压抑和恐惧，而非对宏大或崇高之物的敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.0,
+          "explanation": "描写的是一个腐朽、破败的末世景象，没有对过去的温情追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "整个故事为思想实验性质，高度促使读者反思人性与道德的本质。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "内容完全围绕生存和罪恶展开，不含任何浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.88,
+          "explanation": "主人公内心在道德与生存间持续拉锯，营造出强烈的心理紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.0,
+          "explanation": "人物关系冷漠对立，环境阴森，没有任何温暖的互动。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.95,
+          "explanation": "家将被社会抛弃，在罗生门下独自面对道德抉择，孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.01,
+          "explanation": "结局是主人公滑向邪恶，故事没有提供任何关于未来的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "罗生门、尸骸、拔头发等意象具有高度象征性，代表抽象的恶与衰败。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "故事结构简单，但心理转折的逻辑层次丰富，具有中等复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.9,
+          "explanation": "深刻挖掘了人在极限状态下的心理变化和利己主义道德哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "叙事按照线性时间推进，但人物的心理动机转变并非基于形式逻辑，而是情境驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "在其时代背景下，以极端情境解剖人性利己本质的写法具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "场景局限在罗生门一地，重点是内心世界的剖析而非外部世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "对善恶的边界进行了模糊化处理，故事结局的道德指向开放给读者评判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.3,
+          "explanation": "尽管结局是恶的滑落，但其转变的契机和方式具有冲击性，难以完全预见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.6,
+          "explanation": "短小篇幅内浓缩了丰富的环境描写、心理变化和哲学寓意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.82,
+          "explanation": "读者能获得关于人性、极端道德处境、心理防御机制等深度洞察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "叙事完全聚焦于一个个体在特定关头的内在心理世界和抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.15,
+          "explanation": "仅有的关系是家将和老太婆之间短暂、对立且非个人的接触。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.6,
+          "explanation": "背景是平安末期衰败的社会秩序，社会崩溃是驱动故事的前提。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.45,
+          "explanation": "通过一座城门的破败象征整个文明的衰退，但没有具体铺陈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "故事高度聚焦人间具体困境，缺乏对宇宙或超自然力量的引入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.08,
+          "explanation": "剧情发生在一个夜晚的短时间内，时间跨度极小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.02,
+          "explanation": "故事基于现实的人性和历史背景，没有任何幻想或超自然成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.0,
+          "explanation": "故事从头至尾没有任何快乐或喜悦的情绪出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.4,
+          "explanation": "弥漫着一种对人性堕落的悲哀，但不是以直接哭泣或悲伤的方式表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.95,
+          "explanation": "被世界遗弃的孤独感是作品极力渲染的核心情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.0,
+          "explanation": "环境寒冷肮脏，人心冷漠，完全不存在任何温暖的瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.65,
+          "explanation": "对死亡、尸体、饥饿以及他人之恶的恐惧是家将情感的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "心理的剧烈冲突和未知的结局制造了持续且强大的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "衰败的景象可能带来一丝恐惧的惊叹，而非审美上的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.0,
+          "explanation": "作品中只有对当下的挣扎，没有对往昔美好时光的任何怀恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.0,
+          "explanation": "道德的彻底沦丧使得未来毫无希望可言。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.6,
+          "explanation": "整体氛围浸染着一种对世道沉沦、人心不古的深沉忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "家将对老太婆行为有过短暂的义愤，但很快被利己主义取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.0,
+          "explanation": "冲突和内心的不平静是作品的绝对主导，没有任何平静的片段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.15,
+          "explanation": "美学风格是阴森、丑陋、破败的，缺乏传统意义上的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.8,
+          "explanation": "场景单一，人物极少，情节简单，文字精炼，具有高度极简主义风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "内容描绘的是极度贫困和生存危机，毫无奢华感可言。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.98,
+          "explanation": "从主题到环境再到人心，作品是幽暗美学的极致体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.0,
+          "explanation": "故事发生在夜晚的废墟中，色调和主题上完全没有明亮之处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "描写极具现实主义色彩和质感，没有梦幻或超现实的特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.4,
+          "explanation": "楼上的未知和初期对老太婆行为的猜测营造了一定的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "在当时以极端情境剖析人性的写法具有一定实验性，但结构相对传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.7,
+          "explanation": "选材自古典故事集，语言风格冷峻古典，具有浓厚的历史文学底蕴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.3,
+          "explanation": "对人性的剖析和对个体心理的关注具有超越其时代的现代性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "情节线单一，只是一个简单的遭遇和转变过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.88,
+          "explanation": "对家将的心理活动进行了多层次、有深度的挖掘和展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.9,
+          "explanation": "家将经历了一个从尚有良知到彻底拥抱利己主义的急剧负面‘成长’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.3,
+          "explanation": "世界构建集中在罗生门这一象征性地标，对背景社会的勾勒仅为服务主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "叙事基本是线性的，仅通过老太婆的对话补充了少许外部信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.7,
+          "explanation": "开篇用大量笔墨营造氛围，逐步将读者浸入那个阴郁的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.08,
+          "explanation": "几乎没有强烈的外部动作，核心‘动作’是主人公最终抢夺衣物的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "内部心理冲突高度激烈，并最终以外化的掠夺行为达到冲突顶点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "整个故事作为一个寓言，深刻探讨了利己主义与道德相对主义的哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.95,
+          "explanation": "故事的核心驱动力是个体为了自身生存而选择背叛一切社会道德。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "社会秩序已经瓦解，群体和集体认同在故事中几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.0,
+          "explanation": "作品中未涉及任何家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.0,
+          "explanation": "不存在任何友情的纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "完全没有描写任何形式的爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.02,
+          "explanation": "社区的概念已经彻底垮塌，存在的只有孤立又相互倾轧的个体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.2,
+          "explanation": "家将与老太婆之间为生存资源的争夺构成了一种利益竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "人物之间只有对立和伤害，没有合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.85,
+          "explanation": "家将最后通过暴力手段剥夺了老太婆，体现了绝对的强弱权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "家将的身份从‘武士的仆人’沦为‘失业者’，最终自己选择成为‘强盗’，身份转变是故事的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.05,
+          "explanation": "故事中的‘自由’是摆脱道德束缚后为非作歹的自由，不是被追求的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "故事描绘的是秩序的彻底崩坏，秩序并未作为正面价值出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "作品在努力揭示一个关于人性弱点的残酷‘真相’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "对‘美’的追求在作品中完全让位于对丑与恶的审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.02,
+          "explanation": "故事不涉及任何意义上的成就或成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "家将短暂地产生过正义感，但很快被消解，作品拷问的是没有根基的‘正义’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "故事的核心是索取而非牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "作品迫使读者随主人公一同进行深度的、充满痛苦的自我审视和探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.1,
+          "explanation": "故事素材来自传统，但主题是对传统道德的解构，而非维护。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.15,
+          "explanation": "核心描绘的是个人道德底线的崩坏式‘改变’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.98,
+          "explanation": "肉体生存是驱动一切行为的绝对首要价值，压倒所有其他道德考量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "故事通过展现无意义的世界，激发了读者对‘生存意义’的追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.1,
+          "explanation": "家将上楼的行为源于对台阶之上情况的一丝窥探欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.02,
+          "explanation": "没有任何创作或建设性行为，全是破坏和夺取。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "家将并非寻求冒险，而是被生存所迫的被动行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.98,
+          "explanation": "作品的核心就是对人性与道德进行内在的、深度的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "主要表现为生存资源（衣物）的暴力争夺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.02,
+          "explanation": "互动表现为敌对和掠夺，没有积极的社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.05,
+          "explanation": "人物的行为是本能驱动，而非纪律约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.3,
+          "explanation": "在饿死和为盗之间，选择为盗本身是孤注一掷的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "作品呈现的是混乱而非平静的内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "家将最初试图用‘饿死’的念头来逃避选择，但最终并未成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "对废墟、尸体、污秽及人物动作的描写具有强烈视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "意象色调以黑、白、灰及尸骸的暗沉色彩为主，色调单一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.15,
+          "explanation": "主要声音为雨声和蟋蟀声，用于烘托寂静与孤寂的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "叙事节奏缓慢沉重，能量低沉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.98,
+          "explanation": "氛围营造是作品最突出的成就之一，阴暗、潮湿、腐朽、压抑的气氛无处不在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.9,
+          "explanation": "强烈的氛围和深刻的心理描写让读者极易沉浸于主人公的困境中。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.92,
+          "explanation": "文本承载了高度哲学与心理深度的主题，是纯文学杰作。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.85,
+          "explanation": "芥川冷峻、精准、简练的笔法风格极为鲜明，辨识度高。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.88,
+          "explanation": "叙事者以旁观视角冷静介入人物心理，语调克制疏离。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.9,
+          "explanation": "罗生门、雨、尸体、拔头发等大量运用了象征手法。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.85,
+          "explanation": "大量篇幅直接呈现或深入刻画了家将的内心活动与心理流变。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.35,
+          "explanation": "世界构建集中在氛围和象征层面，而非庞大的架空世界或详细社会系统。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读体验是压抑而紧张的。读者被置入一个阴冷、脏污、充满死亡与绝望气息的环境里，从一开始便能感受到主人公走投无路的焦虑。随着故事推进，初期的道德感与同理心被逐渐萌生的恐惧与利己念头所撕裂，最终在主人公粗暴的抢夺行为中达到震惊与不安的顶点，留下无尽的寒意与对人性的沉重反思。",
+        "structure_description": "作品结构极为凝练，采用经典的三段式: 开场通过漫长的环境铺垫将读者彻底浸透在末世的阴湿氛围里；中场通过家将发现老太婆并倾听其辩解，完成关键的价值颠覆；结尾以主人公突然的暴力行为实现突转，利落收场，形成一个完整且有力的心理冲击闭环。",
+        "cognitive_expression": "作品强烈鼓励内省式和批判式的认知过程。读者需要理解并分析人物在极端境遇下的心理合理化过程，对文本中高度象征性的意象进行解码，并承受强烈的道德模糊性，最终在认知上被迫面对一个关于人性自身的、令人不快的假设。",
+        "behavioral_tendency_description": "故事展现并最终‘奖励’了基于生存本能的极端利己行为。它描绘了反思如何逐渐被自我保全的需求所压倒，并展现了人在跨越道德红线后获得一种阴暗的行动力。整个故事激发出读者暂停判断、进行深度自省的行为倾向，而非寻求外部解决方案或合作。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.18,
+        "Ti": 0.7,
+        "Te": 0.15,
+        "Fi": 0.78,
+        "Fe": 0.05,
+        "Si": 0.1,
+        "Se": 0.25,
+        "openness": 0.85,
+        "conscientiousness": 0.2,
+        "extraversion": 0.02,
+        "agreeableness": 0.05,
+        "neuroticism": 0.82,
+        "Assertive": 0.02,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "故事场景始终限定在罗生门这一单一、封闭的空间内。",
+        "开篇用大量笔墨描写了京都没落后遍地尸骸与腐朽的末日景象。",
+        "主人公是一个被主人解雇、无家可归且无食果腹的下级武士家将。",
+        "家将在罗生门下反复思考的是‘饿死还是当强盗’这个生存难题。",
+        "故事通过家将的视角，详细描述了他爬上满是尸体的城楼的所见。",
+        "家将看到一名老太婆在拔取女尸的头发，感到强烈的厌恶与愤怒。",
+        "老太婆为自己辩解，声称不这样做自己也会饿死，并声称死者生前也非善类。",
+        "家将听完老太婆的辩解后，心理发生急剧转变，公然承认自己为生存不惜作恶。",
+        "故事的结局是家将粗暴地剥走了老太婆的衣物，消失在夜色中。",
+        "全文的叙事语调保持冷峻克制，对人物的恶行不作直接的道德评判。",
+        "作品中反复运用雨、黑暗、蟋蟀声等意象强化阴郁孤寂的气氛。",
+        "人物之间没有情感羁绊，互动仅限于短暂的、充满敌意的对峙与掠夺。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "伯格的女儿",
+        "type": "NOVEL",
+        "countryName": "南非",
+        "year": 1979,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《伯格的女儿》以南非种族隔离时期的政治运动为背景，通过白人女性罗莎的视角，深刻展现了个人在历史洪流中面对家庭责任、政治信仰与自我身份时的复杂处境。小说以细腻的心理描写和非线性叙事，探讨了牺牲、继承与自由意志的冲突，营造出一种冷峻而内省的阅读体验，是反种族隔离文学的重要作品。",
+        "themes": [
+          "政治",
+          "家庭",
+          "身份认同",
+          "牺牲",
+          "自由",
+          "历史",
+          "责任"
+        ],
+        "keywords": [
+          "南非",
+          "种族隔离",
+          "政治运动",
+          "罗莎",
+          "父女关系",
+          "白人自由派",
+          "共产主义",
+          "监狱",
+          "流亡",
+          "道德困境"
+        ],
+        "core_experience": "作品带来一种深沉的政治与道德反思体验。读者跟随主人公的内心挣扎，在压抑的社会氛围中审视个体与历史的关系，体验到理想重负下的孤独、抉择的艰难以及对自我身份的不懈追寻。",
+        "experience_introduction": "这部小说通过冷峻而细腻的笔触，将读者置于南非种族隔离时期高压政治的现实之中。读者主要通过主人公罗莎的内省视角，感受其背负父亲政治遗产的沉重感，以及试图挣脱预设命运、寻找独立自我的漫长心路历程。作品不提供简单的答案，而是让读者在压抑、孤独的氛围中，持续进行关于责任、自由和人性的深度思考。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.10,
+        "awe": 0.45,
+        "nostalgia": 0.20,
+        "reflection": 0.90,
+        "romance": 0.05,
+        "tension": 0.70,
+        "warmth": 0.10,
+        "loneliness": 0.80,
+        "hope": 0.25
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.78,
+          "complexity": 0.82,
+          "depth_of_thought": 0.90,
+          "logical_structure": 0.60,
+          "novelty": 0.55,
+          "exploration": 0.40,
+          "ambiguity": 0.75,
+          "predictability": 0.30,
+          "information_density": 0.85,
+          "learning_value": 0.88
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.70,
+          "social_scale": 0.90,
+          "civilization_scale": 0.60,
+          "cosmic_scale": 0.15,
+          "time_span": 0.65,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.70,
+          "loneliness": 0.85,
+          "warmth": 0.15,
+          "fear": 0.25,
+          "tension": 0.72,
+          "awe": 0.50,
+          "nostalgia": 0.30,
+          "hope": 0.20,
+          "melancholy": 0.80,
+          "anger": 0.55,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.40,
+          "luxury": 0.05,
+          "darkness": 0.80,
+          "brightness": 0.08,
+          "dreamlike": 0.10,
+          "mystery": 0.45,
+          "experimental": 0.35,
+          "classical": 0.60,
+          "modern": 0.55
+        },
+        "narrative": {
+          "plot_complexity": 0.70,
+          "character_depth": 0.92,
+          "character_growth": 0.75,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.65,
+          "slow_immersion": 0.85,
+          "action_intensity": 0.10,
+          "conflict_intensity": 0.78,
+          "philosophical_depth": 0.88
+        },
+        "social_relationship": {
+          "individualism": 0.80,
+          "collectivism": 0.65,
+          "family": 0.75,
+          "friendship": 0.35,
+          "love": 0.30,
+          "community": 0.60,
+          "competition": 0.40,
+          "cooperation": 0.45,
+          "power_relationship": 0.70,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.40,
+          "truth": 0.80,
+          "beauty": 0.25,
+          "achievement": 0.35,
+          "justice": 0.75,
+          "sacrifice": 0.85,
+          "self_exploration": 0.88,
+          "tradition": 0.30,
+          "change": 0.60,
+          "survival": 0.55,
+          "meaning": 0.82
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.25,
+          "adventure": 0.15,
+          "reflection": 0.92,
+          "competition": 0.25,
+          "social": 0.40,
+          "discipline": 0.55,
+          "risk": 0.70,
+          "calm": 0.35,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.30,
+          "color_richness": 0.20,
+          "sound_intensity": 0.10,
+          "rhythm_energy": 0.25,
+          "atmosphere": 0.85,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.90,
+          "writing_style": 0.85,
+          "narrative_voice": 0.90,
+          "symbolism": 0.78,
+          "inner_monologue": 0.92,
+          "world_building_depth": 0.60
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "作品整体以冷峻内省为主，情感表达含蓄，激情并不显著。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "故事氛围沉重压抑，聚焦政治创伤与个人牺牲，几乎不提供治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "人物对信仰的坚守和历史事件的沉重感，偶尔引发读者的敬畏之情。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.20,
+          "explanation": "叙事侧重当下的政治现实与内心挣扎，对过去的温情回忆很少。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.90,
+          "explanation": "全书围绕政治责任、个人身份和道德困境展开，迫使读者进行深层反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "浪漫爱情在作品中几乎被忽略或作为背景，完全让位于政治与思想主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "种族隔离社会的监视、逮捕和死亡持续制造政治压迫感和心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "人际关系大多建立在政治联系之上，缺乏日常生活中的温暖与亲密。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.80,
+          "explanation": "主人公罗莎在思想与身份上始终孤立，被家庭阴影和社会期望隔绝。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.25,
+          "explanation": "政治前景不明，个人命运多舛，作品基调偏向绝望与幻灭，希望微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.78,
+          "explanation": "大量政治和道德议题通过象征、隐喻和内心分析进行探讨，抽象程度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.82,
+          "explanation": "历史背景、政治派系、家庭关系与个人心理交织成多层次叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.90,
+          "explanation": "作品核心关注个人与历史、继承与自由等终极问题，思想挖掘极深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.60,
+          "explanation": "叙事虽有内在逻辑，但更多由心理和情感流动驱动，非严密的逻辑论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "在反种族隔离文学中，从白人女性视角进行自我批判具有一定新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.40,
+          "explanation": "重点是内心世界的探查而非对外部世界或知识体系的广阔探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "人物的道德立场和政治选择常常模棱两可，缺乏明确的善恶判断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "剧情发展由内在心理逻辑主导，而非戏剧性反转，整体走向不易预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "文字承载了厚重的历史、政治和文化信息，情感与思想浓度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.88,
+          "explanation": "读者能深入理解南非种族隔离时期的历史复杂性以及个体的道德困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "故事几乎完全通过主人公罗莎的个人视角、记忆与心理活动展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.70,
+          "explanation": "罗莎与父亲、情人、同志等人的关系深刻影响其心理轨迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.90,
+          "explanation": "南非种族隔离社会的法律、阶层和种族冲突构成了故事的基础背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.60,
+          "explanation": "故事涉及意识形态斗争和不同文明间的压迫，但视角局限于特定政治体制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "作品严格立足于人类社会的政治和伦理，不涉及宇宙或形而上尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.65,
+          "explanation": "叙事横跨罗莎的童年至成年，并回溯父辈历史，时间跨度较大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "小说是严肃的历史现实主义题材，完全不存在任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "整个故事被政治压迫和牺牲的阴影笼罩，快乐几乎无处可寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.70,
+          "explanation": "死亡、背叛与理想的失落带来弥漫性的悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "罗莎无论是在家庭、政治团体还是爱情中，都体验到深刻的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "人际关系大多带有明确的政治目的，纯粹的情感温暖十分稀缺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.25,
+          "explanation": "虽然身处危险环境，但对恐惧的直接渲染少于对压抑和疏离的描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.72,
+          "explanation": "无处不在的秘密警察、禁令和逮捕威胁构成持续的高度紧张状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.50,
+          "explanation": "对父亲等人物甘愿为信仰牺牲一生的行为，读者会产生复杂的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "存在对童年和过往政治理想的回忆，但更多是批判性审视而非温情追忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.20,
+          "explanation": "政治变革前景渺茫，个人寻求独立之路坎坷，希望感十分微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.80,
+          "explanation": "对逝去的人与理想的哀悼，以及对自身命运的无助感构成主要的忧郁基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.55,
+          "explanation": "对种族隔离制度及其对人性的摧残存在压抑而强烈的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "从头至尾，主人公的内心和社会环境都处于动荡不安之中，毫无平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "文笔精湛，但美学追求让位于严峻的社会政治主题，"美"本身并非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.40,
+          "explanation": "叙事集中在核心矛盾上，没有多余的枝节，风格冷峻，有一定极简倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "故事展现物质贫困、政治压迫与简朴生活，与奢侈感毫无关联。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.80,
+          "explanation": "死亡、监狱、背叛和道德模糊性构成了贯穿始终的黑暗美学基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.08,
+          "explanation": "明亮的色调在全书中极其罕见，偶有闪现也迅速被现实的阴影吞噬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "叙事风格硬朗、现实，不追求梦幻或超现实的氛围营造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.45,
+          "explanation": "人物的内心世界和政治活动的隐蔽性带来一定神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.35,
+          "explanation": "采用非线性叙事和大量内心独白，在传统现实主义基础上融入现代主义手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.60,
+          "explanation": "延续了十九世纪现实主义文学对人的深刻关怀和宏大叙事传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.55,
+          "explanation": "破碎的叙事、存在主义式的叩问体现了清晰的现代主义文学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.70,
+          "explanation": "情节在时间线上跳跃，政治关系与个人情感交织，结构复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.92,
+          "explanation": "主人公罗莎的心理、动机和矛盾被刻画得极为深刻，是全书的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.75,
+          "explanation": "故事本质上就是罗莎寻求摆脱父亲阴影、确立独立身份的成长过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "真实历史背景的再现扎实，但对于虚构世界里细节的堆砌并非重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.65,
+          "explanation": "叙事频繁使用倒叙、插叙和心理时间，打破线性时间流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.85,
+          "explanation": "故事推进缓慢，注重心理细节和环境渲染，需要读者深度沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.10,
+          "explanation": "全篇几乎无外部动作场面，所有冲突都是内化的、心理的或对话中的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.78,
+          "explanation": "个人与家庭、个人与政治、个人与历史之间的冲突激烈且贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "对决定论与自由意志、个体伦理与集体责任等哲学命题的探讨非常深入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.80,
+          "explanation": "故事核心是主人公的个人觉醒与对独立身份的寻求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.65,
+          "explanation": "人物深度嵌入政治团体和社会运动，集体目标占据重要位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.75,
+          "explanation": "父亲的政治遗产和家庭背景是罗莎一切挣扎的起点和核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.35,
+          "explanation": "纯粹基于个人情感的友谊较少，关系多由共同的政治立场维系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.30,
+          "explanation": "爱情或是政治的附庸，或无法提供慰藉，并非故事的正面力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.60,
+          "explanation": "反种族隔离的“同志”社区对人物的行为和思想有重要影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.40,
+          "explanation": "存在意识形态和政治路线的斗争，但非普遍意义上的个人竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.45,
+          "explanation": "政治活动需要合作，但这种合作往往伴随着内部的紧张和分歧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.70,
+          "explanation": "国家权力对个人的压迫、以及父辈权威的阴影是核心的权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.90,
+          "explanation": "作为“伯格的女儿”，罗莎如何定义自己是谁，是全书最大的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "追求个人选择和摆脱历史宿命的自由，是主人公的终极目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.40,
+          "explanation": "虽然身处高压“秩序”下，但作品本身并非推崇或探索秩序的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.80,
+          "explanation": "罗莎不断试图穿透政治口号，寻找关于父亲、历史和自我的真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "严峻的现实压制了对美的追求，美在书中的价值体现很弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.35,
+          "explanation": "政治目标多为挫败，个人成就并非叙事关注的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.75,
+          "explanation": "反抗种族隔离的不公是所有人物的出发点，社会正义是核心母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.85,
+          "explanation": "父母一代为政治理想牺牲生命和家庭，自我牺牲是作品反复拷问的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.88,
+          "explanation": "全书就是罗莎的自我发现之旅，挖掘“我是谁”和“我想成为谁”的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.30,
+          "explanation": "故事内核是反抗既定的、被安排好的命运，对传统持批判和审视态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.60,
+          "explanation": "社会变革和个人转变都是作品关注的焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.55,
+          "explanation": "人物在残酷的政治环境中需要生存，但这并非核心哲学价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.82,
+          "explanation": "在牺牲和苦难中寻找生命的意义，是作品探讨的终极问题之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "罗莎对父亲的过去有探究欲，但更偏重内省而非对外部世界的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "人物不从事艺术或知识的创造性活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "故事是内向性的，不包含对外部世界的冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.92,
+          "explanation": "持续的自我反思和对政治事件的深入思考是主人公最主要的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.25,
+          "explanation": "情节不涉及个人间的直接竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.40,
+          "explanation": "虽然有大量社会交往，但这些交往多具明确的政治工具性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "革命者的生活需要极高的纪律性，这种自律在人物身上有明显体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.70,
+          "explanation": "参与反政府政治活动是高风险行为，随时可能面临监禁或死亡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "内心充满挣扎和冲突，外部行为偶有冷静，但并非宁静平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "罗莎试图逃离“伯格的女儿”的身份，这是一种心理上的逃离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.30,
+          "explanation": "作为小说，视觉描绘服务于主题，本身不追求强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.20,
+          "explanation": "整体色彩基调阴郁、灰暗，缺乏丰富的色彩描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.10,
+          "explanation": "听觉描写不突出，氛围主要由压抑的沉默和对话构成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.25,
+          "explanation": "叙事节奏缓慢而沉重，充满停滞感和沉思，缺乏能量感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "营造了极其成功且统一的压抑、紧张和忧郁的整体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "密集的内心独白和深刻主题能将读者牢牢吸入罗莎的内心世界。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.90,
+          "explanation": "作品获得诺贝尔文学奖，具有极高的文学价值和深度。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.85,
+          "explanation": "文笔冷峻、精确、复杂，长句和繁复的从句结构是其标志性风格。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.90,
+          "explanation": "采用高度风格化的第三人称受限视角，紧密贴合罗莎的意识和心理。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.78,
+          "explanation": "“伯格的女儿”本身即是一个政治与家庭身份的象征，书中充满隐喻。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.92,
+          "explanation": "大段的、无引号的心理独白是推动叙事和展现人物深度的核心手法。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.60,
+          "explanation": "重点在于真实再现历史背景，而非创造一个全新的虚构世界。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者被置于一种沉重而复杂的政治性沉思之中。整个阅读体验以压抑、孤独和深刻的道德反思为主调，其间穿插着对牺牲行为的敬畏和对历史洪流的无力感。作品不提供情感宣泄，而是引导读者进入一个持续进行自我拷问的深邃心理空间。",
+        "structure_description": "作品采用非线性叙事结构，通过记忆闪回和内心独白打破时间线，将个人的心理流变与宏大的政治历史并置。这种结构模仿了记忆和反思的运作方式，使得过去与现在、个人与集体不断交织，迫使读者在一个高密度的思想和情感网络中构建意义。",
+        "cognitive_expression": "作品鼓励高度内省和抽象的认知活动，要求读者在复杂的历史、家庭和政治脉络中理解人物的困境。它引导受众进行系统性思考，将个人选择与宏观社会结构联系起来，并不断权衡相互冲突的道德价值，如责任与自由、继承与反叛。",
+        "behavioral_tendency_description": "阅读这部作品会强化沉思、内省和保持怀疑的行为倾向。它并不激发外向的行动或冒险，而是引导读者像主人公一样，在行动前进行深刻的自我审视和长期观察，审视个人与外部世界的关系，并对任何被赋予的集体身份保持审慎的距离。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.30,
+        "Ti": 0.78,
+        "Te": 0.45,
+        "Fi": 0.90,
+        "Fe": 0.55,
+        "Si": 0.40,
+        "Se": 0.15,
+        "openness": 0.88,
+        "conscientiousness": 0.70,
+        "extraversion": 0.15,
+        "agreeableness": 0.30,
+        "neuroticism": 0.80,
+        "Assertive": 0.15,
+        "Turbulent": 0.88
+      },
+      "supporting_evidence": [
+        "故事背景设立在南非种族隔离时期，详细描绘了当时的政治压迫和社会矛盾。",
+        "主人公罗莎的父亲是一名因政治信仰而死在狱中的著名反种族隔离活动家。",
+        "全篇采用大量无引导句的内心独白和自由间接引语，深入展现角色的心理活动。",
+        "罗莎长期生活在父亲的政治遗产和“英雄女儿”这一社会期望的巨大阴影之下。",
+        "小说中人物之间的关系大多建立在共同的政治目标或意识形态认同之上。",
+        "罗莎试图通过照顾他人和融入集体来寻找自我价值，但最终发现自我被进一步淹没。",
+        "作品的叙事时间线在过去与现在之间频繁跳跃，非线性结构明显。",
+        "书中穿插了罗莎孩童时期的记忆，与成年后的政治现实形成尖锐对比。",
+        "罗莎与一位已婚男子的感情关系深刻地反映了她在情感和政治上的矛盾。",
+        "秘密警察的监视、告密者的存在和突如其来的逮捕构成了日常的紧张背景。",
+        "罗莎主动选择回到南非接受审判，这一行为体现了她对个人责任的复杂认知。",
+        "文本大量使用复杂的长句和精确的词汇，风格冷峻，极少出现幽默或欢快场景。",
+        "主人公的成长历程并非通过外部事件推动，而是通过一系列痛苦的内省和反思完成。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

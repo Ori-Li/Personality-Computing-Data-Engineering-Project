@@ -1,0 +1,722 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2008_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "红色高跟鞋",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2008,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.9,
+        "primaryMediaType": "MUSIC",
+        "evidenceVersion": "v1.0"
+      },
+      "semantic": {
+        "summary": "蔡健雅演唱的都市流行歌曲《红色高跟鞋》，以轻快摇摆的节奏和慵懒随性的嗓音，刻画了现代都市女性在爱情与自我之间的自信与从容。作品将高跟鞋这一具象物品升华为女性魅力、独立与吸引力的符号，在感性与理性之间保持着微妙的平衡。整体氛围既带有成熟女性的优雅，又不失俏皮与挑逗，成为华语乐坛都市情感表达的标志性作品之一。",
+        "themes": [
+          "爱情",
+          "自信",
+          "都市生活",
+          "女性魅力",
+          "自我表达",
+          "欲望",
+          "自由"
+        ],
+        "keywords": [
+          "高跟鞋",
+          "都市女性",
+          "摇摆节奏",
+          "慵懒嗓音",
+          "魅力",
+          "独立",
+          "恋爱心理",
+          "蔡健雅",
+          "华语流行",
+          "2008年"
+        ],
+        "core_experience": "在轻快的摇摆节奏和慵懒嗓音的包裹下，听众仿佛置身于都市夜晚的街道，感受到一种自信、从容又带有一丝挑逗的情绪。整首歌传达的是一种在爱情中不卑不亢、享受自我魅力的心理状态，既不过分热烈也不冷漠疏离，而是在优雅与随性之间找到自洽的平衡。",
+        "experience_introduction": "《红色高跟鞋》通过蔡健雅标志性的慵懒唱腔和轻快的摇摆编曲，构建了一种松弛而自信的听觉氛围。歌曲的叙事视角始终围绕一位都市女性在面对爱情吸引时的自我感知展开，她不急于投入也不刻意回避，而是以一种欣赏和玩味的态度审视自己的情感。这种‘享受暧昧却不沉溺’的中间状态，构成了整首歌最核心的体验。编曲上节制地使用吉他扫弦和打击乐，配合略带沙哑的人声，既避免了流行情歌常见的煽情，也拉开了与纯粹享乐的距离，使得听众在跟随节奏摇摆的同时，也能进行一定程度的自我投射和反思。"
+      },
+      "experience_vector": {
+        "passion": 0.38,
+        "healing": 0.22,
+        "awe": 0.05,
+        "nostalgia": 0.25,
+        "reflection": 0.32,
+        "romance": 0.72,
+        "tension": 0.12,
+        "warmth": 0.45,
+        "loneliness": 0.18,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.42,
+          "complexity": 0.20,
+          "depth_of_thought": 0.25,
+          "logical_structure": 0.10,
+          "novelty": 0.30,
+          "exploration": 0.15,
+          "ambiguity": 0.48,
+          "predictability": 0.68,
+          "information_density": 0.22,
+          "learning_value": 0.08
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.65,
+          "social_scale": 0.28,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.02,
+          "time_span": 0.12,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.52,
+          "sadness": 0.10,
+          "loneliness": 0.18,
+          "warmth": 0.45,
+          "fear": 0.02,
+          "tension": 0.10,
+          "awe": 0.03,
+          "nostalgia": 0.25,
+          "hope": 0.28,
+          "melancholy": 0.08,
+          "anger": 0.02,
+          "peace": 0.38
+        },
+        "aesthetic": {
+          "beauty": 0.72,
+          "minimalism": 0.65,
+          "luxury": 0.42,
+          "darkness": 0.15,
+          "brightness": 0.55,
+          "dreamlike": 0.22,
+          "mystery": 0.35,
+          "experimental": 0.12,
+          "classical": 0.40,
+          "modern": 0.78
+        },
+        "narrative": {
+          "plot_complexity": 0.08,
+          "character_depth": 0.28,
+          "character_growth": 0.10,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.20,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.15,
+          "philosophical_depth": 0.18
+        },
+        "social_relationship": {
+          "individualism": 0.82,
+          "collectivism": 0.08,
+          "family": 0.05,
+          "friendship": 0.08,
+          "love": 0.78,
+          "community": 0.05,
+          "competition": 0.25,
+          "cooperation": 0.05,
+          "power_relationship": 0.32,
+          "identity": 0.72
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.12,
+          "truth": 0.20,
+          "beauty": 0.78,
+          "achievement": 0.25,
+          "justice": 0.05,
+          "sacrifice": 0.05,
+          "self_exploration": 0.65,
+          "tradition": 0.10,
+          "change": 0.28,
+          "survival": 0.08,
+          "meaning": 0.22
+        },
+        "behavior": {
+          "curiosity": 0.22,
+          "creation": 0.12,
+          "adventure": 0.18,
+          "reflection": 0.35,
+          "competition": 0.25,
+          "social": 0.42,
+          "discipline": 0.08,
+          "risk": 0.38,
+          "calm": 0.62,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.28,
+          "color_richness": 0.52,
+          "sound_intensity": 0.35,
+          "rhythm_energy": 0.62,
+          "atmosphere": 0.68,
+          "immersion": 0.55
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "华语流行",
+          "tempo": 0.58,
+          "energy": 0.42,
+          "vocal_style": "慵懒沙哑",
+          "instrumentation": "吉他、打击乐、贝斯",
+          "production_style": "简约现代",
+          "lyrical_theme": "都市爱情与自我魅力",
+          "emotional_scene": "都市夜晚",
+          "cultural_context": "2000年代华语都市流行乐坛"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.38,
+          "explanation": "歌曲情绪热烈程度适中，态度从容多于奔放。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.22,
+          "explanation": "氛围轻松但并非以抚慰情感为主要目的。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "作品不追求宏大或震撼的听觉效果。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "编曲风格带有2000年代流行痕迹，唤起轻微年代感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.32,
+          "explanation": "歌词涉及对自我感受的审视，但深度有限。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.72,
+          "explanation": "核心主题围绕异性吸引和暧昧情感展开。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.12,
+          "explanation": "整体氛围松弛，缺乏叙事或情感上的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.45,
+          "explanation": "人声质感和旋律走向带来一定温度，但不炽热。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.18,
+          "explanation": "视角聚焦于个人体验，但不强调孤独或疏离。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "整体基调积极但不对未来做出明确乐观承诺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.42,
+          "explanation": "将高跟鞋作为抽象符号指代女性魅力与自信。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.20,
+          "explanation": "歌曲结构简单，和声和编曲层次较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.25,
+          "explanation": "立意简洁直白，不追求哲学或思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.10,
+          "explanation": "以情绪流动为主线，缺乏严密的逻辑框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.30,
+          "explanation": "在2008年华语乐坛，慵懒都市风格有一定新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "内容停留在个人情感层面，未探索新领域或思想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.48,
+          "explanation": "情感态度暧昧，不明确定义爱情关系的边界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.68,
+          "explanation": "流行歌曲的传统结构使旋律走向较易预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.22,
+          "explanation": "歌词内容简约，重复段落较多，信息量不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.08,
+          "explanation": "不旨在传递知识或系统性认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "全部聚焦于第一人称的个人情感与感官体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "核心围绕两性间吸引力与暧昧互动展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.28,
+          "explanation": "仅以都市为模糊背景，不涉及社会议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "无任何宏观文明或历史视野。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.02,
+          "explanation": "完全不存在宇宙或超验尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.12,
+          "explanation": "时间集中在当下瞬间的情感波动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "内容完全基于现实都市生活体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.52,
+          "explanation": "整体传递了愉悦和享受当下的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.10,
+          "explanation": "无明显悲伤或失落情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.18,
+          "explanation": "独立女性的姿态不必然伴随孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.45,
+          "explanation": "中低音声线与舒缓编曲带来温和包裹感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.02,
+          "explanation": "歌曲氛围毫无恐惧或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.10,
+          "explanation": "节奏轻快解压，不制造心理紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.03,
+          "explanation": "不采用宏大编曲或神圣意象以引发敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.25,
+          "explanation": "轻微的年代感音色带来些许怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.28,
+          "explanation": "自信的态度隐含对未来的积极预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.08,
+          "explanation": "整体情绪轻快，未触及深层忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.02,
+          "explanation": "没有任何愤怒或攻击性情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.38,
+          "explanation": "从容自洽的歌词与舒缓编曲带来平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.72,
+          "explanation": "旋律线条流畅，人声质感讲究，注重美的呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "编曲干净简约，依靠人声和节奏支撑层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.42,
+          "explanation": "通过‘高跟鞋’等符号暗示都市精致生活感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.15,
+          "explanation": "整体听感明亮，无明显暗黑或压抑元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "旋律和人声给人柔和轻松的光亮感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.22,
+          "explanation": "氛围真实多于虚幻，未刻意营造梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.35,
+          "explanation": "暧昧的态度和慵懒的声线制造一定神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.12,
+          "explanation": "遵循流行音乐常规框架，无明显实验成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.40,
+          "explanation": "摇摆节奏和吉他编曲带有复古流行韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.78,
+          "explanation": "表达现代都市独立女性的生活与情感态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.08,
+          "explanation": "无情节发展，仅呈现一种心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.28,
+          "explanation": "人物形象鲜明但缺乏纵向挖掘空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "未展现人物在时间维度上的变化或成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "不以构建世界或场景为核心任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.20,
+          "explanation": "歌词带有跳跃式的意象，不完全遵循线性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "舒缓的节奏和重复的旋律促使听众沉入氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "无任何动作或激烈的事件描述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.15,
+          "explanation": "情感博弈是内在的、微妙的，不构成激烈冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.18,
+          "explanation": "更侧重情绪渲染而非哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.82,
+          "explanation": "高度强调独立人格与个人魅力的重要性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.08,
+          "explanation": "以个体为中心，不涉及集体或群体利益。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "内容与家庭关系完全无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.08,
+          "explanation": "未涉及友情或伙伴关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.78,
+          "explanation": "男女性吸引力是整首歌的核心社会关系纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "不涉及任何形式的社区或社群关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.25,
+          "explanation": "自我魅力的展示隐含着两性博弈中的竞争意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.05,
+          "explanation": "未有需要协作或团结的场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.32,
+          "explanation": "通过掌握魅力主动权，微妙的权力关系得以体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.72,
+          "explanation": "明确表达和定义着‘我是谁’及‘我想成为谁’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "核心宣扬不依附、不受束缚的情感自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.12,
+          "explanation": "随性自由的态度与对规则秩序的服从相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.20,
+          "explanation": "侧重感性真实而非客观真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.78,
+          "explanation": "对美、魅力及时尚的追求贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.25,
+          "explanation": "展现个人魅力是一种隐性的个人成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "完全不涉及道德评判或公义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "歌词中以自我取悦为前提，不崇尚牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.65,
+          "explanation": "对自我感受的觉察和接纳是重要内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.10,
+          "explanation": "现代都市女性的定位与传统价值关联不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.28,
+          "explanation": "隐含对新恋情或生活变化的开放态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.08,
+          "explanation": "不涉及生存危机或资源匮乏情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.22,
+          "explanation": "对生活意义探讨较浅，多在感性体验层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.22,
+          "explanation": "对新鲜情感体验有一定好奇但不强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.12,
+          "explanation": "不直接鼓励创作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.18,
+          "explanation": "冒险不是歌曲强调的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.35,
+          "explanation": "歌词中透出对情感状态的自我审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.25,
+          "explanation": "在异性吸引力上存在隐性的竞争意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.42,
+          "explanation": "歌曲自然地涉及了社交场景下的互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.08,
+          "explanation": "随性松弛的风格不强调自律或纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.38,
+          "explanation": "主动散发魅力的行为带有情感上的轻微冒险性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.62,
+          "explanation": "从演唱到编曲，整体传递出冷静理智的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "不鼓励逃离现实，而是享受当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.28,
+          "explanation": "歌词中红色高跟鞋意象鲜明，视觉联想较强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.52,
+          "explanation": "红色主视觉贯穿语境，营造颇具冲击力的感官色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.35,
+          "explanation": "编曲轻柔，响度适中，不追求强声压。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.62,
+          "explanation": "摇摆节奏推动力强，是律动的核心来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.68,
+          "explanation": "成功营造出都市夜晚迷离松弛的独特场域感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.55,
+          "explanation": "连贯的氛围和重复的旋律容易让听众沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.58,
+          "explanation": "音乐速度中等偏快，具有摇摆感。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.42,
+          "explanation": "音乐能量温和，柔和但有律动，不激烈。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在聆听《红色高跟鞋》时，会经历一场温和而自信的情感体验。歌曲引导听众进入一种自我欣赏、轻松暧昧的心理状态，在慵懒的声线和摇摆的节奏中感受纯粹的个人魅力释放。这种体验更侧重于当下的感官享受和自我肯定，而非深刻的情感投入或剧烈的情绪起伏。整个过程流畅自然，带来的是轻松的愉悦感和从容的掌控感。",
+        "structure_description": "作品采用经典的流行歌曲曲式，以主歌-副歌的循环结构推进。编曲上采用极简主义处理，以吉他扫弦、轻快的打击乐和贝斯线条交织出稳定的摇摆节奏基底。人声作为绝对的核心引导元素，通过蔡健雅标志性的略带沙哑的慵懒唱腔，将旋律和歌词的情绪缓慢释放，使歌曲结构服务于一种氛围的蔓延而非叙事的推进。",
+        "cognitive_expression": "这首歌主要激发的是听众对自身情感体验的感性认知与自我觉察，无需进行复杂的逻辑推演或深度思考。其对‘高跟鞋’意象的符号化运用，鼓励听众进行简单的抽象联想，将具象物品与抽象魅力相关联。整体认知负荷较低，更侧重于直觉感受与情绪共鸣。",
+        "behavioral_tendency_description": "作品所鼓励的行为倾向是冷静、自信、以及对自我感受的坦诚接纳。它引导听众保持从容不迫的姿态，享受社交中的吸引力博弈，但不鼓励冒进或过度投入。这种在释放魅力的同时保有深沉内核的行为模式，是歌曲传达的核心行为导向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.62,
+        "Ne": 0.35,
+        "Ti": 0.18,
+        "Te": 0.30,
+        "Fi": 0.78,
+        "Fe": 0.42,
+        "Si": 0.55,
+        "Se": 0.72,
+        "openness": 0.48,
+        "conscientiousness": 0.20,
+        "extraversion": 0.52,
+        "agreeableness": 0.38,
+        "neuroticism": 0.22,
+        "Assertive": 0.75,
+        "Turbulent": 0.28
+      },
+      "supporting_evidence": [
+        "作品以第一人称视角展开，聚焦于演唱者对自我魅力的感知与表达。",
+        "歌词中反复出现‘高跟鞋’这一符号，用以象征成熟、自信与性吸引力。",
+        "人声演绎采用慵懒略带沙哑的唱腔，刻意营造出一种漫不经心的松弛氛围。",
+        "编曲以轻快的打击乐和吉他扫弦为基础，构建了具有摇摆感的律动结构。",
+        "整首歌曲的情感态度是暧昧且从容的，不定义关系的具体性质和未来走向。",
+        "歌词强调了自我取悦和自由选择的态度，而非对他人的依赖或迁就。",
+        "旋律线条流畅且具有较高的可记忆性，遵循了经典流行音乐的结构范式。",
+        "作品的空间背景设定在现代都市，反映了都市青年男女的情感生活片段。",
+        "歌词中对自我感受的直接描述，透露出一种对内在情绪的刻意观察和确认。",
+        "歌曲不包含任何关于社会、历史或哲学的宏大叙事，完全聚焦于个体情感体验。",
+        "音乐动态平缓，没有强烈的音量起伏或尖锐的音色处理，保持了温和的听感。",
+        "摇摆的节奏和重复的副歌段落容易引导听众产生身体上的轻微律动。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

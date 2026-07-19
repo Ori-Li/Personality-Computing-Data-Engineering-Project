@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_fra_2019_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "燃烧女子的肖像",
+        "type": "MOVIE",
+        "countryName": "法国",
+        "year": 2019,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.9,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "影片讲述18世纪末法国女画家受邀前往孤岛，为一位拒绝传统婚姻的贵族小姐绘制肖像。作画过程成为两人相互凝视、观察与情感交流的媒介，在严格的阶级与性别规训下，一段隐秘而激烈的同性之爱悄然生长。导演采用极简场景、自然光源与女性视角，将艺术创作、欲望觉醒与平等凝视融合为一曲视觉化的古典悲剧。",
+        "themes": [
+          "爱情",
+          "凝视与权力",
+          "艺术与创造",
+          "女性意识",
+          "记忆与回忆",
+          "压抑与解放",
+          "自由",
+          "身份认同"
+        ],
+        "keywords": [
+          "女画家",
+          "贵族小姐",
+          "画像",
+          "18世纪",
+          "布列塔尼孤岛",
+          "女性凝视",
+          "俄耳甫斯神话",
+          "篝火",
+          "裙摆燃烧",
+          "管弦乐",
+          "古典油画质感",
+          "女仆索菲"
+        ],
+        "core_experience": "作品让观众沉浸在一种极度克制却暗涌炽烈的情感体验中。在缓慢的凝视和交流中，观众与角色一同经历从防备、试探到彻底敞开的隐秘爱恋，感受艺术创作作为爱欲载体的张力，并在离别与追忆中体验一种被时间与规训撕裂的永恒遗憾。",
+        "experience_introduction": "影片通过几乎封闭的孤岛空间、长久的沉默凝视和极简配乐，构建出一种高度专注的感官与情感实验场。观众被邀请进入画家与被画者之间极不对等却又逐渐趋于平等的权力关系，体验观察与被观察之间的张力如何转化为亲密。艺术创作——观察、构图、落笔——成为欲望唯一的合法出口，最终，视觉记忆替代了物理相伴，使整部作品成为一场关于爱与失去的感官冥想。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.7,
+        "reflection": 0.8,
+        "romance": 0.9,
+        "tension": 0.7,
+        "warmth": 0.45,
+        "loneliness": 0.75,
+        "hope": 0.25
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.65,
+          "depth_of_thought": 0.8,
+          "logical_structure": 0.4,
+          "novelty": 0.75,
+          "exploration": 0.6,
+          "ambiguity": 0.65,
+          "predictability": 0.3,
+          "information_density": 0.55,
+          "learning_value": 0.7
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.95,
+          "social_scale": 0.65,
+          "civilization_scale": 0.3,
+          "cosmic_scale": 0.15,
+          "time_span": 0.4,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.2,
+          "sadness": 0.75,
+          "loneliness": 0.85,
+          "warmth": 0.5,
+          "fear": 0.35,
+          "tension": 0.8,
+          "awe": 0.55,
+          "nostalgia": 0.8,
+          "hope": 0.15,
+          "melancholy": 0.9,
+          "anger": 0.3,
+          "peace": 0.3
+        },
+        "aesthetic": {
+          "beauty": 0.95,
+          "minimalism": 0.85,
+          "luxury": 0.2,
+          "darkness": 0.55,
+          "brightness": 0.3,
+          "dreamlike": 0.6,
+          "mystery": 0.5,
+          "experimental": 0.4,
+          "classical": 0.85,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.35,
+          "character_depth": 0.9,
+          "character_growth": 0.8,
+          "world_building": 0.25,
+          "nonlinear_structure": 0.55,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.7,
+          "philosophical_depth": 0.7
+        },
+        "social_relationship": {
+          "individualism": 0.7,
+          "collectivism": 0.25,
+          "family": 0.25,
+          "friendship": 0.4,
+          "love": 0.95,
+          "community": 0.1,
+          "competition": 0.25,
+          "cooperation": 0.5,
+          "power_relationship": 0.8,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.2,
+          "truth": 0.75,
+          "beauty": 0.95,
+          "achievement": 0.5,
+          "justice": 0.4,
+          "sacrifice": 0.6,
+          "self_exploration": 0.9,
+          "tradition": 0.3,
+          "change": 0.7,
+          "survival": 0.35,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.85,
+          "adventure": 0.3,
+          "reflection": 0.9,
+          "competition": 0.2,
+          "social": 0.35,
+          "discipline": 0.5,
+          "risk": 0.55,
+          "calm": 0.45,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.9,
+          "color_richness": 0.7,
+          "sound_intensity": 0.2,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.95,
+          "immersion": 0.9
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.4,
+          "visual_storytelling": 0.95,
+          "soundtrack_importance": 0.3,
+          "actor_expression": 0.9,
+          "director_style": 0.95
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "作品核心是炽热却克制的禁忌情感，情感张力贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "结局带有创伤性和遗憾，心灵治愈感较弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "极致的古典主义画面美学引发赞叹，但并非宏大奇观。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.7,
+          "explanation": "影片结构本身是对过去恋情的追忆，充满怀旧感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.8,
+          "explanation": "大量留白和隐喻促使观众反思艺术、权力与性别关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.9,
+          "explanation": "极度浪漫化的凝视和肢体语言刻画了深刻的爱情。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.7,
+          "explanation": "主仆关系、性别歧视与有限的自由时间制造了持续的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.45,
+          "explanation": "互动虽亲密，但环境冷峻且氛围压抑，温暖感有限。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.75,
+          "explanation": "孤岛环境和情感的秘密性质强化了隔绝与孤单。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.25,
+          "explanation": "受制于时代限制，感情结局被预设为分离，希望渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "作品大量依赖视觉隐喻、神话指涉和留白，概念化程度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "权力与欲望的博弈、艺术创作与伦理的纠缠构成内在复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.8,
+          "explanation": "深入探讨了目光的政治、女性主体性与艺术家的道德困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "叙事跟随情感和感官流动，条理严谨的逻辑推演并非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "以纯粹的女性凝视解构传统肖像画史和男性视角，手法新颖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.6,
+          "explanation": "探索了禁忌情感与女性身体自主的内心边界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.65,
+          "explanation": "故事的动机和情感转变通常通过非语言的眼神交汇完成，具有多义性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.3,
+          "explanation": "非线性叙事和对细腻情绪流的侧重降低了情节可预测性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "场景简练，对话稀疏，情节信息密度不高，但情感符号密度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.7,
+          "explanation": "观众可习得18世纪艺术创作流程、女性社会处境及凝视理论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "故事几乎完全集中在两个人的微观互动和内心世界上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.95,
+          "explanation": "画家与模特的化学反应是绝对核心，关系动态极其细微。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.65,
+          "explanation": "通过个人命运折射了父权社会和传统婚姻制度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.3,
+          "explanation": "地理与叙事空间被限定在孤岛一隅，未触及广阔文明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "缺乏对宇宙或宏观自然的探讨，神话仅作为隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.4,
+          "explanation": "核心故事发生在极短的几天内，仅通过尾声展现多年后。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "纯粹的现实主义历史背景，无任何超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.2,
+          "explanation": "短暂的甜蜜时刻被即将分离的痛苦所笼罩，幸福感转瞬即逝。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "无法相守的结局和被抹去的存在感构成了深沉的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "孤岛隔绝、情感无处倾诉以及最终只能独自回忆充满孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.5,
+          "explanation": "篝火场景及偷情时刻具有极高温暖度，但整体基调冷峻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.35,
+          "explanation": "对世俗眼光和秘密暴露的恐惧一直潜藏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.8,
+          "explanation": "未说出口的欲望与画布上的客观审视制造了强烈的心理张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.55,
+          "explanation": "因艺术转化和禁恋殉道般的壮烈而产生敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.8,
+          "explanation": "以倒叙展开，结尾通过音乐唤起对于往日恋情极致的追忆与感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.15,
+          "explanation": "现实的阻碍无法逾越，记忆虽存但未来无望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.9,
+          "explanation": "作品整体情绪基调是哀而不伤、优美却忧郁的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.3,
+          "explanation": "对父权和旧秩序的愤怒是隐含的、内敛的，而非宣泄式的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.3,
+          "explanation": "内心波涛汹涌，平静只是表象，缺乏真正的安宁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.95,
+          "explanation": "刻意复刻古典油画般的光影、构图和色调，极富美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "台词精炼，配乐极简，场景单一，呈现出高度的克制与留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.2,
+          "explanation": "展现的是精神世界的丰饶，绝非物质堆砌的奢华。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "大量依赖室内烛光和夜景，具有浪漫主义式的暗调氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.3,
+          "explanation": "受限于剧情调性，明亮开阔感并非主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.6,
+          "explanation": "海中奔跑、篝火幻象等场景具有超现实和梦幻质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.5,
+          "explanation": "悬念主要来自人物的秘密和动机，而非外部的神秘元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.4,
+          "explanation": "具备先锋的女性凝视视角，但叙事结构本质上是稳健的古典主义叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "视觉受古典画派影响极深，平衡、对称且雅致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "女性主义思想内核和去配乐的现场环境音处理非常当代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.35,
+          "explanation": "情节极为简单，依赖情绪而非事件驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.9,
+          "explanation": "双方的心理变化、欲望与恐惧通过眼神和细节被深度挖掘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.8,
+          "explanation": "画家从完成委托到进行共情创作，小姐从抗拒到掌控凝视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.25,
+          "explanation": "无需构建虚构世界，重在营造18世纪布列塔尼的孤岛氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.55,
+          "explanation": "通过绘画课闪回展开主线，结构具有一定错位感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "大量固定长镜头和静谧环境声使人缓慢沉入角色心境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "几乎没有任何外部动作，全是内心戏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.7,
+          "explanation": "阶级、性别和伦理的冲突以无声对峙和对话为表现形式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.7,
+          "explanation": "关于‘诗人与爱人’的选择和看与被看的本质进行了哲学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.7,
+          "explanation": "强调个体意志——画家不愿署名父亲、小姐反抗安排婚姻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.25,
+          "explanation": "社会规范作为压迫的工具出现，不被视为支持性的集体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.25,
+          "explanation": "原生家庭是束缚的来源，代表男权制度的执行者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.4,
+          "explanation": "女仆与主角们存在阶级互助，但主线并非友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "绝对核心，是跨越阶级、极具毁灭性与创造力的同性之恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.1,
+          "explanation": "村民只在边缘出现，作为对立面展示，缺乏社群互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.25,
+          "explanation": "不存在常规人际竞争，但存在对个人命运掌控权的争夺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.5,
+          "explanation": "作画过程、流产等情节展现了女性间的协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.8,
+          "explanation": "审视者与被审视者的权力交替是影片的核心张力机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "关于艺术家身份、女性身份和性取向的自我确立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "对情感自由、身体自主和创作自主的渴望压倒一切。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "父权秩序被呈现为一种不公且残酷的压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.75,
+          "explanation": "追求真实的凝视，画出对方眼中的真实的她。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.95,
+          "explanation": "无论是对人体的描摹还是情感的渲染，美是最高的伦理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.5,
+          "explanation": "画家完成了一幅揭示灵魂的杰作，具有非凡的创作成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.4,
+          "explanation": "未涉及宏大的社会正义叙事，只聚焦个体苦难。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.6,
+          "explanation": "双方都为保全对方名誉而牺牲了共度余生的机会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "通过彼此的目光，她们重新发现了自己的欲望和潜能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "美学形式借鉴传统，但对传统制度本身持颠覆态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.7,
+          "explanation": "角色经历了从内敛被动到直面欲望的剧烈转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.35,
+          "explanation": "聚焦于情感与精神的高层次需求，物理生存并非主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "反复拷问创作的意义、回忆的意义以及爱的缺憾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "画家的职业本能是观察，好奇心驱动她去了解小姐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.85,
+          "explanation": "绘画不仅是职业，也是输出的爱欲和记录永恒的手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.3,
+          "explanation": "缺少探索外部世界的举动，运动范围局限于孤岛房间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品节奏以沉静思考为主，角色不断回望与审视动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.2,
+          "explanation": "面对阻碍更多是压抑承受，不存在攻击性竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "回避了社会社交，只与三个人产生深层交集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.5,
+          "explanation": "繁复且程式化的作画流程体现了艺术技艺的纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "发展隐秘的同性恋情在当时是高风险的社会禁忌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.45,
+          "explanation": "外表克制，实则内心燥热难安，是压抑下的冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "并不存在逃避现实的倾向，而是痛苦地直面并铭记。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.9,
+          "explanation": "极度考究的摄影、光影和色彩配置带来主导性的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.7,
+          "explanation": "色调虽受控但充满质感，利用有限的自然色营造丰富层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.2,
+          "explanation": "缺乏整体配乐，强调自然音效，听觉信息量不大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "极度缓慢且平稳的剪辑节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "通过风声、火焰燃烧声及视觉塑造了极为压抑但浓烈的环境场。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.9,
+          "explanation": "极简且冗长的凝视镜头迫使观众投入角色感官世界。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.4,
+          "explanation": "室内剧风格（Chamber drama），依赖独特取景框而非宏大视效规模。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.95,
+          "explanation": "几乎所有情节推进和情感表达都通过视觉语言而非台词完成。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.3,
+          "explanation": "全片仅在结尾处及少数时刻出现配乐，重要性让位于环境音。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.9,
+          "explanation": "极度依赖两位主演的面部微表情和肢体克制传递复杂情感。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.95,
+          "explanation": "席安玛强烈的女性凝视美学和极简主义个人风格贯穿全片。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众沉浸于一段极为私密且克制的禁恋之中。体验由起初的异化与试探，逐渐过渡到偷尝禁果时的甜蜜与极度刺激，最后又被绝望的分离和跨越时间的孤独深深击中。这是一种视觉上的净化，伴随着微妙的刺痛和无法弥补的缺憾。",
+        "structure_description": "影片运用倒叙结构，将过去包裹在当下的教学场景中。主体部分按照肖像画的进展节奏缓慢推进：观察、起稿、交心、完成、分离。固定的取景和长久的凝视构成了影片的呼吸节奏，剥夺了外部视觉刺激，将全部能量集中在人物关系的升温与逼近临界点的隐忍上。",
+        "cognitive_expression": "作品鼓励对凝视力学的思考，引导观众判断观察者与被观察者权力的流转。它促使人们解码视觉隐喻，例如裙摆燃烧、水中镜像和俄耳甫斯神话。同时要求极度的耐心和对沉默段落中情绪暗流的辨识能力。",
+        "behavioral_tendency_description": "影片本质上赞美了对内审视的创作行为，将沉默的观察归类为一种深度的参与。它鼓励超脱于世俗评价体系的自我确立，通过细腻的笔触（无论是作画还是触屏）去铭刻情感记忆，并让观众在痛苦中学会与遗憾共存而非逃避。"
+      },
+      "personality_affinity": {
+        "Ni": 0.8,
+        "Ne": 0.3,
+        "Ti": 0.55,
+        "Te": 0.15,
+        "Fi": 0.95,
+        "Fe": 0.50,
+        "Si": 0.70,
+        "Se": 0.85,
+        "openness": 0.85,
+        "conscientiousness": 0.45,
+        "extraversion": 0.15,
+        "agreeableness": 0.55,
+        "neuroticism": 0.80,
+        "Assertive": 0.15,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "全片几乎不使用配乐，仅依靠自然的风声、海浪声和火焰燃烧声构建听觉空间。",
+        "故事发生在布列塔尼孤岛上，通过封闭的地理环境限制角色与外界的交流。",
+        "画家最初只能依靠记忆作画，需要在无法直视对方的情况下建构肖像。",
+        "作画过程中，画家对小姐的身体细节进行了长时间细致观察和特写捕捉。",
+        "导演大量使用固定机位长镜头，强调凝视与被凝视的静态关系。",
+        "对话提及俄耳甫斯的神话，并探讨了‘诗人还是爱人’这一抉择隐喻。",
+        "燃烧的裙摆作为核心超现实意象，在夜晚篝火场景中直接出现。",
+        "影片尾声展现剧院场景，镜头长久停留在小姐听维瓦尔弟音乐时泪流满面的面部特写。",
+        "女仆索菲怀孕与堕胎的支线故事在影片中以具象方式呈现。",
+        "画作最终需要在另一幅画中通过细节（书页折角）来暗示隐秘的情感联结。",
+        "小姐抗拒被安排好的婚姻，对由男性画家绘制的肖像极度抵触。",
+        "画家隐瞒了自己的性别接受委托，未在画作下方签署自己父亲的名字。",
+        "影片采用插叙方式，通过现在的绘画课场景引出五年前的故事。",
+        "片中多次出现镜子意象，小姐通过镜面反射审视画家的观察。",
+        "小姐和画家在海边狂奔、掩埋画像的颜料等行为打破了18世纪的贵族礼仪约束。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

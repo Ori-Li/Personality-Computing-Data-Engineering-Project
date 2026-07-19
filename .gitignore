@@ -7,4 +7,7 @@ outputs/
 checkpoints/
 .idea/
 .vscode/
-
+.env
+.env.*
+!.env.example
+deepSeekAPIKey

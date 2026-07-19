@@ -1,0 +1,717 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2017_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "I'm Not the One",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2017,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-04-09",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《I'm Not the One》是歌手马伯骞于2017年发行的流行说唱单曲，融合电子节拍与饶舌元素。作品围绕自我身份认同与拒绝被定义的青年态度展开，以直白的歌词和富有攻击性的律动，构建了一种对抗外部期待、宣告个人主权的听觉叙事，整体呈现出一种摩登且带有叛逆色彩的都市潮流体验。",
+        "themes": [
+          "身份认同",
+          "叛逆",
+          "自由",
+          "自我"
+        ],
+        "keywords": [
+          "马伯骞",
+          "说唱",
+          "流行",
+          "电子",
+          "自我表达",
+          "都市",
+          "潮流",
+          "青年文化"
+        ],
+        "core_experience": "听众在强烈的节拍驱动下，体验到一种由内而外的自我确认感与对刻板印象的挣脱欲，仿佛身处霓虹闪烁的都市街头，获得短暂却强烈的精神独立时刻。",
+        "experience_introduction": "该作品通过密集的电子鼓点和直接的人声传达，将听众置于一种充满动能与自我主张的听觉场景中。作品不寻求复杂叙事，而是通过重复强化的节奏型与简短的歌词宣言，模拟了一种现代青年在嘈杂环境中反复确认自我存在感的心理状态，鼓励听众进入一种短暂、高能的自信宣泄状态。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.10,
+        "awe": 0.15,
+        "nostalgia": 0.05,
+        "reflection": 0.25,
+        "romance": 0.05,
+        "tension": 0.70,
+        "warmth": 0.10,
+        "loneliness": 0.55,
+        "hope": 0.20
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.25,
+          "complexity": 0.30,
+          "depth_of_thought": 0.20,
+          "logical_structure": 0.25,
+          "novelty": 0.35,
+          "exploration": 0.40,
+          "ambiguity": 0.25,
+          "predictability": 0.75,
+          "information_density": 0.30,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.25,
+          "social_scale": 0.55,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.30,
+          "sadness": 0.20,
+          "loneliness": 0.60,
+          "warmth": 0.10,
+          "fear": 0.15,
+          "tension": 0.70,
+          "awe": 0.10,
+          "nostalgia": 0.05,
+          "hope": 0.25,
+          "melancholy": 0.45,
+          "anger": 0.65,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.35,
+          "luxury": 0.45,
+          "darkness": 0.55,
+          "brightness": 0.55,
+          "dreamlike": 0.20,
+          "mystery": 0.25,
+          "experimental": 0.30,
+          "classical": 0.05,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.40,
+          "character_growth": 0.10,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.10,
+          "slow_immersion": 0.10,
+          "action_intensity": 0.45,
+          "conflict_intensity": 0.80,
+          "philosophical_depth": 0.15
+        },
+        "social": {
+          "individualism": 0.90,
+          "collectivism": 0.10,
+          "family": 0.05,
+          "friendship": 0.20,
+          "love": 0.15,
+          "community": 0.15,
+          "competition": 0.55,
+          "cooperation": 0.05,
+          "power_relationship": 0.50,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.10,
+          "truth": 0.45,
+          "beauty": 0.35,
+          "achievement": 0.50,
+          "justice": 0.25,
+          "sacrifice": 0.05,
+          "self_exploration": 0.80,
+          "tradition": 0.05,
+          "change": 0.65,
+          "survival": 0.40,
+          "meaning": 0.35
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.40,
+          "adventure": 0.30,
+          "reflection": 0.25,
+          "competition": 0.60,
+          "social": 0.45,
+          "discipline": 0.15,
+          "risk": 0.65,
+          "calm": 0.10,
+          "escape": 0.20
+        },
+        "sensory": {
+          "visual_intensity": 0.60,
+          "color_richness": 0.50,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.90,
+          "atmosphere": 0.60,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行说唱",
+          "tempo": 0.70,
+          "energy": 0.85,
+          "vocal_style": "说唱",
+          "instrumentation": "电子合成器",
+          "production_style": "现代数字制作",
+          "lyrical_theme": "自我认同",
+          "emotional_scene": "对抗",
+          "cultural_context": "中国新生代偶像潮流"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "高能量节拍和充满攻击性的说唱传递出强烈的情感热情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "作品基调以对抗和宣泄为主，缺乏安抚和治愈的特征。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "歌曲聚焦个人情绪宣泄，不追求宏大或令人敬畏的听感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "作品极具现代感，不以怀旧或回忆作为核心表达内容。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.25,
+          "explanation": "歌词内容多为直接宣言，留给听众进行深度反思的空间有限。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "主题围绕自我认同，不涉及浪漫情感或甜美意境的渲染。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "密集的鼓点和重复的宣言式歌词制造了持续的对抗性紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "整体听感偏向冷酷和利落，不刻意营造温暖或包容的氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.55,
+          "explanation": "强调个体独特性与不被理解的状态，透露出一种都市独处的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.20,
+          "explanation": "作品侧重于当下的自我确认与宣泄，对未来愿景或憧憬没有过多描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.25,
+          "explanation": "歌词表达非常直接、口语化，没有使用大量隐喻或抽象符号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.30,
+          "explanation": "歌曲结构为标准的流行音乐编排，在乐理和配器上追求直接有力的冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.20,
+          "explanation": "作品以情感宣泄为主，不进行深刻的哲学思辨或复杂的逻辑论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "依照主歌副歌的流行框架推进，并不强调逻辑推进和环环相扣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "在华语市场中将潮流电音与个性宣言结合，具有一定的时代新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.40,
+          "explanation": "带领听众探索一种挣脱束缚、确立自我的心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "歌曲含义明确清晰，几乎没有留给听众多重解读的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "节奏型和段落衔接在听感上非常容易被预判，保证了律动的连贯性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.30,
+          "explanation": "歌词重复性强且直白，单位时间内传递的新信息量并不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "作品作为情绪宣泄的窗口，较少承担知识或文化传递的功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "整首歌的视角完全集中在自我的内心感受和对外界的呼应上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.25,
+          "explanation": "作品中的人际关系模糊且服务于“我”与“外部世界”的对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "歌词中虽针对刻板印象和外界预期，但核心仍是个人对抗社会标签。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "没有涉及宏观的文明演进或历史层面的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全聚焦于现世的个体体验，没有宇宙观或宏大背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "聚焦于当下的瞬间情绪爆发，不做长时间跨度的演变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品根植于现实世界的自我抗争，不含幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.30,
+          "explanation": "虽包含释放的快感，但整体听感偏向冷酷和对抗而非愉悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.20,
+          "explanation": "不被理解的孤独感产生轻微悲伤，但被强烈的反抗情绪压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.60,
+          "explanation": "强调不盲从和不被同化的个体姿态，潜藏着显著的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.10,
+          "explanation": "编曲和人声质感偏向冰冷机械，拒绝温情式的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "基调是基于自信的挑衅，没有展现恐惧或退缩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.70,
+          "explanation": "不断累积的节拍和硬朗的Flow制造了持续的听觉紧绷感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.10,
+          "explanation": "没有营造史诗感或令人肃然起敬的宏大氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "音乐风格和内容极度贴合当代潮流，毫无怀旧情结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "表达了做自己的愿望，但主要情绪仍停留在打破现状的决心中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.45,
+          "explanation": "在强硬的表象下，不被外界认可的处境衍生出一种都市青年的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.65,
+          "explanation": "对待标签化社会的愤怒和不满是驱动整首歌情感的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "整首歌处在一种焦躁和对抗的不稳定状态，完全没有平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "追求酷感和冲击力而不是传统意义上的和谐美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.35,
+          "explanation": "编曲有现代简约的质感，但仍保持了丰富的电子音效层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.45,
+          "explanation": "制作精良，透露出一种属于现代都市的精致潮流气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "色调偏暗，整体氛围偏向地下和街头式的冷峻表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "高亢的副歌和电子音色带来了听觉上的刺目感和张扬的亮度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.20,
+          "explanation": "所有表达都非常实感，注重当下的触感而非虚幻的梦境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.25,
+          "explanation": "歌词过于直白，没有设置任何悬念或营造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.30,
+          "explanation": "在主流流行框架下进行了一些合成器音色上的尝试，但不算激进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "完全脱离古典美学，是现代流行工业的产物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "无论是编曲、唱腔还是主题，都具有浓郁的新生代现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "没有故事情节，仅为一种情绪和态度的静态切片式表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.40,
+          "explanation": "虽无故事，但塑造了一个有清晰内在矛盾和态度的第一人称角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "歌曲保持了贯穿始终的状态，人物没有发生成长或转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "没有具体而完整的世界观架构，仅为情感表达的舞台背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.10,
+          "explanation": "符合流行音乐的结构逻辑，没有使用非线性的叙事手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.10,
+          "explanation": "情绪在一开始就处于高位，不需要缓慢沉入的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.45,
+          "explanation": "没有具体动作描绘，但听觉上的律动和对抗感带来了中等强度的动作想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.80,
+          "explanation": "全曲的核心就是作为外来者与既定规则、他人眼光之间的强烈冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.15,
+          "explanation": "更侧重于感性的宣泄和存在宣言，没有深入理性的哲学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.90,
+          "explanation": "极度强调个体差异、不盲从与个人主权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.10,
+          "explanation": "处处表现出对集体标签和大众标准的疏离与反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.05,
+          "explanation": "没有包含任何关于亲缘关系的描写或暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.20,
+          "explanation": "稍微体现了对由共同态度聚在一起的同伴认同的映射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "主题是自我身份而非爱情，情感指向是向外界的反击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.15,
+          "explanation": "强调的是脱离社区常规制约，没有社区归属感的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.55,
+          "explanation": "存在一种与外界评价体系争夺定义权的竞争心态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.05,
+          "explanation": "纯粹是一个人的战斗和宣告，不寻求合作与双赢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.50,
+          "explanation": "全曲都在探讨谁有权定义“我”以及如何瓦解这种权力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.90,
+          "explanation": "寻找并确立自我身份是这首歌最核心的表达主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "拒绝盲从和摆脱定义是最高准则，突显了对自由的极度渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "敌视既定规则和秩序，主张打破而非遵从。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "追求坦诚面对自我，揭穿外界赋予的虚假标签。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.35,
+          "explanation": "追求潮流的酷感而非传统审美意义上的美学价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.50,
+          "explanation": "隐含了通过自我坚持在成就上证明他人错误的欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "主要关注个人层面的公平对待，非广义的社会正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "作品中人物拒绝为迎合外界而做出牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.80,
+          "explanation": "深入挖掘并展示自己的内心，是对自我探索的阶段性总结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.05,
+          "explanation": "从形式到内容都断然否定了传统的束缚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.65,
+          "explanation": "号召打破现状、活出自我，具有强烈的变革意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.40,
+          "explanation": "在抵抗外界压力的层面，带有一种在精神丛林法则下存活的意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.35,
+          "explanation": "生命的终极意义并未深入探究，主要集中在自我定义的这一层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "听众可能会对歌手“拒绝被定义”背后的故事产生好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.40,
+          "explanation": "鼓励通过创造自我风格和表达方式来进行反抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.30,
+          "explanation": "走出舒适区大胆宣告的态度带有轻微冒险色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.25,
+          "explanation": "节奏过快且态度直接，留给听众思考的时间并不多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.60,
+          "explanation": "不停用自我去冲撞既定标准，带有强烈的PK式竞争心态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.45,
+          "explanation": "歌曲本身并不鼓励社交，但可能成为同类人之间的接头暗号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "作品内容反抗约束，并不倡导严格自律或克己。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.65,
+          "explanation": "在名声压力下大胆说出真话，承担了脱离主流口碑的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "情绪是喷薄的、攻击的，没有丝毫平息或冷静的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.20,
+          "explanation": "这是一种对抗而非逃避，虽然有逃避规则的心态在，但表现为正面迎击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.60,
+          "explanation": "音乐能够激发较强的视觉联想，如霓虹灯光和快速移动的街景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.50,
+          "explanation": "音色在高对比度的基础上仍具有现代电音的层次感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "电子节拍和说唱人声占据了主要听觉感官，音量感和冲击力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.90,
+          "explanation": "鼓机节奏设计紧凑，能量值极高，带有极强的身体律动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.60,
+          "explanation": "成功渲染了一种现代都市环境下紧绷却自信的气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "高能量声场容易将听众拉入一个短暂的自我沉浸圈层。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.70,
+          "explanation": "歌曲速度属于中快板，鼓点密集，驱动感强。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.85,
+          "explanation": "从头到尾保持高强度的声音输出，几乎没有降噪的段落。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众体验到一种强烈的自我确认与反叛宣泄。音乐以高能量、高冲突的感受为主导，带来不被外界定义、突出重围的释放感。在节拍推进中夹杂着不被理解的孤独与都市青年的压抑忧郁，最终全部转化为一种充满愤怒和决心的激情爆发。",
+        "structure_description": "作品按照标准的流行音乐格式推进，主歌的压抑铺陈与副歌的高亢爆发形成鲜明对比。重复性的宣言式歌词配合递进的电子编曲，将听众从对外界期待的焦虑推向宣告自我主权的情绪高潮，整体结构服务于一种不断累积、最终爆发的心理曲线。",
+        "cognitive_expression": "作品鼓励一种较浅层但高度聚焦的认知参与，听众无需解构复杂隐喻，而是通过直接的听觉刺激快速理解“反标签”概念。它更强调感性确认而非理性推演，通过重复性记忆点强化自我主张，激起对新潮审美和青年文化的瞬时认知。",
+        "behavioral_tendency_description": "作品激励一种勇敢做自己、不惧外界眼光的行为倾向。听者倾向于进入一种自信且略带攻击性的心理状态，拒绝讨好与合群，在音乐构建的安全区内强化个人的独特价值，鼓励打破常规和承担表达风险。"
+      },
+      "personality_affinity": {
+        "Ni": 0.25,
+        "Ne": 0.40,
+        "Ti": 0.30,
+        "Te": 0.55,
+        "Fi": 0.85,
+        "Fe": 0.15,
+        "Si": 0.10,
+        "Se": 0.80,
+        "openness": 0.65,
+        "conscientiousness": 0.20,
+        "extraversion": 0.70,
+        "agreeableness": 0.15,
+        "neuroticism": 0.65,
+        "Assertive": 0.75,
+        "Turbulent": 0.55
+      },
+      "supporting_evidence": [
+        "整首歌曲使用密集的电子鼓点和合成器音色作为编曲基础。",
+        "人声以说唱为主，吐字硬朗且带有明显的对抗语气。",
+        "副歌部分不断重复核心宣言，强化自我认知的肯定。",
+        "歌词直接表达拒绝被外界刻板印象定义的态度。",
+        "全曲维持在一个较高的能量水平，没有缓慢的抒情段落。",
+        "编曲结构遵循流行音乐的主副歌交替模式，听感工整。",
+        "作品透露出一种在喧嚣环境中保持独立的个体姿态。",
+        "歌词没有使用晦涩的隐喻，语言直白且贴近青年日常用语。",
+        "大量使用第一人称视角展开情感宣泄。",
+        "节奏设计注重身体的律动感，带有强烈的舞曲和街头特征。",
+        "作品传递出的情感带有明显的愤怒和不满成分。",
+        "歌曲营造了一种冷色调、略带压抑却极具现代感的听觉空间。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

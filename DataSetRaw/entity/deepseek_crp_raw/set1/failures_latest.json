@@ -1,0 +1,20 @@
+[
+  {
+    "workId": "work_gbr_1979_001",
+    "workName": "异形",
+    "error": "ValueError: 模型输出 JSON 语法错误（第 714 行，第 16 列）；失败内容已保存到 D:\\Personality-Computing-Project\\Data Engineering\\DataSetRaw\\entity\\deepseek_crp_raw\\set1\\work_gbr_1979_001.invalid.txt",
+    "failedAt": "2026-07-19T05:30:38.260715+00:00"
+  },
+  {
+    "workId": "work_idn_2020_001",
+    "workName": "Coffee Talk",
+    "error": "ValueError: vector_facts 覆盖不完整：需要 104 条，实际 96 条，缺少 8 个维度",
+    "failedAt": "2026-07-19T06:01:55.271366+00:00"
+  },
+  {
+    "workId": "work_bra_1988_001",
+    "workName": "巴西雕塑博物馆",
+    "error": "ValueError: vector_facts 覆盖不完整：需要 102 条，实际 96 条，缺少 6 个维度",
+    "failedAt": "2026-07-19T06:04:45.524000+00:00"
+  }
+]

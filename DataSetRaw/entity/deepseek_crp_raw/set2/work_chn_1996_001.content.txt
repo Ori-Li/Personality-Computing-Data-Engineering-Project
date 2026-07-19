@@ -1,0 +1,751 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1996_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "中国象棋大师",
+        "type": "GAME",
+        "countryName": "中国",
+        "year": 1996,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-08-21",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《中国象棋大师》是一款1996年前后发行的电脑象棋游戏，由腾图电子开发。游戏以中国传统象棋为核心玩法，提供多种难度级别的人机对战，界面设计古朴典雅。作为早期国产PC端棋类游戏的代表作之一，它让玩家在计算机上体验传统棋艺的博弈乐趣，锻炼逻辑思维和策略规划能力。",
+        "themes": [
+          "智力博弈",
+          "策略对抗",
+          "传统文化",
+          "逻辑推演",
+          "技艺精进"
+        ],
+        "keywords": [
+          "中国象棋",
+          "电脑游戏",
+          "人机对战",
+          "腾图电子",
+          "棋类",
+          "难度选择",
+          "古典界面",
+          "智力竞技",
+          "DOS游戏",
+          "国产单机"
+        ],
+        "core_experience": "在古朴的棋盘界面中静坐端思，与计算机展开一场纯粹依靠智力的无声较量，通过逻辑推演和策略规划，体验传统棋类博弈带来的冷静专注与思维乐趣。",
+        "experience_introduction": "游戏通过标准的中国象棋规则和逐步提升的AI难度，为玩家营造了一个纯粹的智力竞技场。古朴的界面排除了视觉干扰，使玩家的注意力完全集中于棋局推演。从新手到大师的难度曲线，让玩家在反复的对局中经历从失误到反思再到精进的过程，体验通过纯脑力劳动攻克难关所带来的深度成就感和内心秩序感。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.15,
+        "awe": 0.1,
+        "nostalgia": 0.55,
+        "reflection": 0.8,
+        "romance": 0.0,
+        "tension": 0.6,
+        "warmth": 0.05,
+        "loneliness": 0.25,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.65,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.95,
+          "novelty": 0.1,
+          "exploration": 0.1,
+          "ambiguity": 0.15,
+          "predictability": 0.2,
+          "information_density": 0.3,
+          "learning_value": 0.4
+        },
+        "worldview": {
+          "personal_scale": 0.8,
+          "relationship_scale": 0.1,
+          "social_scale": 0.05,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.0,
+          "time_span": 0.1,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.05,
+          "loneliness": 0.25,
+          "warmth": 0.05,
+          "fear": 0.1,
+          "tension": 0.6,
+          "awe": 0.1,
+          "nostalgia": 0.55,
+          "hope": 0.2,
+          "melancholy": 0.1,
+          "anger": 0.05,
+          "peace": 0.7
+        },
+        "aesthetic": {
+          "beauty": 0.2,
+          "minimalism": 0.85,
+          "luxury": 0.0,
+          "darkness": 0.1,
+          "brightness": 0.25,
+          "dreamlike": 0.0,
+          "mystery": 0.15,
+          "experimental": 0.0,
+          "classical": 0.9,
+          "modern": 0.1
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.0,
+          "character_growth": 0.0,
+          "world_building": 0.0,
+          "nonlinear_structure": 0.0,
+          "slow_immersion": 0.0,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.3
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.05,
+          "family": 0.0,
+          "friendship": 0.0,
+          "love": 0.0,
+          "community": 0.0,
+          "competition": 0.9,
+          "cooperation": 0.0,
+          "power_relationship": 0.05,
+          "identity": 0.1
+        },
+        "value": {
+          "freedom": 0.1,
+          "order": 0.85,
+          "truth": 0.7,
+          "beauty": 0.15,
+          "achievement": 0.85,
+          "justice": 0.1,
+          "sacrifice": 0.1,
+          "self_exploration": 0.3,
+          "tradition": 0.8,
+          "change": 0.05,
+          "survival": 0.2,
+          "meaning": 0.4
+        },
+        "behavior": {
+          "curiosity": 0.15,
+          "creation": 0.05,
+          "adventure": 0.05,
+          "reflection": 0.9,
+          "competition": 0.95,
+          "social": 0.0,
+          "discipline": 0.8,
+          "risk": 0.15,
+          "calm": 0.85,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.15,
+          "color_richness": 0.1,
+          "sound_intensity": 0.1,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.55,
+          "immersion": 0.6
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.9,
+          "mechanical_skill": 0.15,
+          "player_agency": 0.7,
+          "exploration_depth": 0.05,
+          "collection_system": 0.0,
+          "progression_system": 0.25,
+          "social_interaction": 0.0,
+          "competition_intensity": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "对弈过程中存在胜负欲驱动，但整体情绪偏向冷静，缺乏高强度情感投入。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "游戏主要提供智力挑战而非情绪抚慰，治愈感极弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "游戏形式简朴，AI表现限于计算逻辑，难以产生敬畏体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "作为早期国产PC游戏且承载传统象棋文化，容易唤起对老游戏和传统的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.8,
+          "explanation": "每一步走法都需要深思熟虑，反复复盘和自我推演是游戏的核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "游戏内容不涉及任何浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.6,
+          "explanation": "棋局劣势或关键攻守转换时会产生明显的心理压力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.05,
+          "explanation": "游戏是纯粹的人机对抗，不提供温暖或共情体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.25,
+          "explanation": "单机对弈模式让玩家独自面对屏幕，但思维高度集中弱化了孤单感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "逆转棋局时会带来短暂的期待感，但并非游戏的主要情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "象棋是抽象逻辑游戏，棋盘和棋子代表高度符号化的战争推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "象棋规则虽然固定，但棋局变化极多，需要处理庞大复杂的博弈树。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "游戏要求玩家进行多步计算、局面评估和战略构思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.95,
+          "explanation": "游戏完全基于严格的象棋规则运行，逻辑是体验的核心骨架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.1,
+          "explanation": "玩法是流传千年的传统象棋，在创新性上不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.1,
+          "explanation": "游戏局限于棋盘范围，不存在对未知世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "规则清晰，胜负明确，信息对双方完全透明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.2,
+          "explanation": "游戏机制完全确定，除了对手走法外没有随机性，整体可预测性较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "游戏传递的主要是棋局信息，不包含文化知识或叙事内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.4,
+          "explanation": "通过游戏可以学习象棋规则和策略，提升逻辑思维能力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.8,
+          "explanation": "游戏完全围绕着玩家个人的思维竞技展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.1,
+          "explanation": "内容不涉及人际关系的模拟或描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.05,
+          "explanation": "游戏不反映或模拟社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "象棋本身是中国古代文明中战争与策略的微缩模型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.0,
+          "explanation": "游戏内容不涉及宇宙、世界本源等宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.1,
+          "explanation": "游戏仅关注当前棋局，无历史背景或长期时间跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "游戏完全是写实的传统棋类模拟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "获胜时带来短暂的喜悦，但游戏过程更强调冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "游戏主题不涉及悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.25,
+          "explanation": "独自面对电脑博弈的形式带有一定的孤单感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.05,
+          "explanation": "游戏内容不提供温情感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "几乎没有引起恐惧的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.6,
+          "explanation": "棋类博弈的胜负压力贯穿始终，具有明显的心理张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "游戏形式朴素，不追求宏大的艺术震撼力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "古朴的界面和传统象棋规则容易引发怀旧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "在劣势下寻找翻盘机会时会产生一些希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.1,
+          "explanation": "游戏整体氛围并不惆怅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "因失误输棋可能会有短暂懊恼，但游戏并不煽动愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.7,
+          "explanation": "静坐思考、沉浸于棋局的状态带来了极大的内心平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.2,
+          "explanation": "界面简约，色调整洁，但视觉美感不是游戏重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "游戏去除了所有与下棋无关的视觉元素，界面极度简洁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "游戏与奢华感无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "游戏氛围并不黑暗或压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.25,
+          "explanation": "界面明亮干净，偏暖色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.0,
+          "explanation": "游戏写实且理性，不具梦幻色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "对手的隐藏策略带来轻微的未知感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.0,
+          "explanation": "游戏形式传统，无实验性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.9,
+          "explanation": "不仅玩法古典，界面设计也极力模仿木质棋盘，充满古典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.1,
+          "explanation": "除了在电脑上运行这一点，游戏几乎没有现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "游戏无剧情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.0,
+          "explanation": "游戏中不存在角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "游戏中不存在角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.0,
+          "explanation": "游戏不包含世界构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.0,
+          "explanation": "游戏无叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.0,
+          "explanation": "游戏体验是逐步沉浸的，但缺乏叙事性的缓慢铺陈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "游戏完全不含动作元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "虽然没有剧情，但红黑双方的博弈本身就是一种高强度的零和冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.3,
+          "explanation": "棋如人生，象棋本身可以引发一些关于取舍、谋略的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "胜负完全依赖个人能力，强调独立思考和单打独斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "游戏不涉及团队合作或集体利益。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.0,
+          "explanation": "游戏内容与家庭无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.0,
+          "explanation": "游戏内容与友情无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "游戏内容与爱情无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.0,
+          "explanation": "游戏内容不涉及社群。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.9,
+          "explanation": "一对一的零和博弈是游戏的全部，竞争是最核心的互动关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "游戏中没有合作机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.05,
+          "explanation": "棋子本身有等级之分，但不涉及社会权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.1,
+          "explanation": "玩家扮演的是抽象的棋手，而非具有复杂身份的角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.1,
+          "explanation": "游戏在既定规则内进行，不强调自由意志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.85,
+          "explanation": "象棋规则严谨，强调子力协调和布阵的逻辑性，高度体现秩序感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.7,
+          "explanation": "每一步棋都存在绝对的最优解，追求棋理上的正确性是核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.15,
+          "explanation": "虽然古人追求棋局的美感，但游戏本身传递的美学价值不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.85,
+          "explanation": "战胜高难度AI、提升棋力是玩家追求的主要目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.1,
+          "explanation": "游戏不涉及社会公义主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "弃子战术只是策略手段，并非主题上的牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.3,
+          "explanation": "对弈过程也是认知自我思维局限和提升的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.8,
+          "explanation": "游戏直接传承了中国象棋这一非物质文化遗产。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.05,
+          "explanation": "游戏基调较为保守，不鼓励变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.2,
+          "explanation": "棋局中的防守和自保可类比为生存驱动的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.4,
+          "explanation": "玩家在钻研棋艺中可以寻找到一种建构在规则之上的意义感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.15,
+          "explanation": "驱动玩家反复开局的主要是胜负心和竞技乐趣，而非好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.05,
+          "explanation": "游戏不提供创造性的玩法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "游戏不包含冒险元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "每一步棋都需要停下来反思局面，复盘也是提升水平的关键。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.95,
+          "explanation": "对抗性是游戏的核心，一切行为都围绕着击败对手展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.0,
+          "explanation": "游戏是纯粹的单机人机对战，不具备社交功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.8,
+          "explanation": "棋类游戏极其讲究定式、规则和纪律，任何随意的走法都会导致失败。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "游戏中存在弃子抢攻的冒险行为，但总体棋风更偏向稳健。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.85,
+          "explanation": "游戏要求玩家必须保持冷静，情绪波动会严重影响判断力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "游戏需要深度思考，不适合作为放松逃避的工具。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.15,
+          "explanation": "画面是静态的棋盘，视觉冲击力极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "界面颜色单调，主要由木色、红黑组成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.1,
+          "explanation": "音效简单，通常只有落子声和提示音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "游戏节奏缓慢，由玩家完全自主控制，能量极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.55,
+          "explanation": "刻意营造的古朴风格和安静的交互勾画出一种沉静的对弈氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.6,
+          "explanation": "高难度的对局能够牢牢抓住玩家的注意力，产生心流体验。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.9,
+          "explanation": "作为纯粹的策略游戏，其深度完全取决于象棋本身的博弈深度。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.15,
+          "explanation": "操作仅限于鼠标点击移动棋子，不要求手眼协调或反应速度。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.7,
+          "explanation": "玩家拥有完全的自由选择走法，但必须遵循严格的规则。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.05,
+          "explanation": "游戏内容只有棋盘，没有可供探索的空间或世界。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.0,
+          "explanation": "游戏无收集元素。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.25,
+          "explanation": "游戏提供不同难度的AI选择，这构成了基本的进阶路径。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.0,
+          "explanation": "游戏不支持联网对战或多人模式。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.85,
+          "explanation": "零和博弈的机制决定了竞争是游戏的主要驱动力。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家在简朴的图形界面中，通过高度集中注意力的逻辑运算，与计算机进行一对一智力对抗。体验的核心是冷静的谋略交锋，夹杂着因胜负而产生的紧张感，以及攻克难关后的个人成就感。整个过程是内省的、结果导向的，要求玩家排除杂念，在规则的框架内寻求最优解，最终获得一种理智上的满足。",
+        "structure_description": "游戏结构极为纯粹，直接复现了中国象棋的完整规则与对局模式。没有剧情推进或世界探索，唯一的交互循环是观察局面、计算、点击走子、等待AI回应。这种严格的回合制结构将玩家的行为完全限定在逻辑推演领域，任何进程都由玩家的决策主导，节奏缓慢且完全可控。",
+        "cognitive_expression": "游戏强烈要求运用逻辑推演、空间计算和前瞻性规划能力。玩家需要不断进行抽象思考，识别棋局模式，评估攻防价值，并在心理上模拟对手的应对。它抑制了直觉反应和情感冲动，将认知活动集中于系统分析与深度反思。",
+        "behavioral_tendency_description": "作品鼓励极度冷静、自律且好胜的行为倾向。玩家必须通过持续的练习和复盘来提升技艺，在此过程中形成专注、耐心和强目标导向的行为模式。它奖励深思熟虑的规划和严谨的执行，惩罚冲动和短视。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.1,
+        "Ti": 0.95,
+        "Te": 0.7,
+        "Fi": 0.15,
+        "Fe": 0.05,
+        "Si": 0.6,
+        "Se": 0.15,
+        "openness": 0.25,
+        "conscientiousness": 0.9,
+        "extraversion": 0.05,
+        "agreeableness": 0.1,
+        "neuroticism": 0.3,
+        "Assertive": 0.75,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "界面模仿传统木质棋盘，设计极其简约，无多余装饰。",
+        "游戏规则完全依据中国象棋，无任何变体或原创规则。",
+        "提供从初级到大师的多个难度等级。",
+        "操作方式仅为鼠标点击移动棋子。",
+        "游戏模式为单人对抗电脑AI。",
+        "胜负判定严格依据象棋的将死、困毙规则。",
+        "没有任何剧情、角色或故事背景设定。",
+        "每一步棋都需要经过较长时间的计算和思考。",
+        "AI对手会根据难度调整计算深度和棋力。",
+        "支持对局复盘，允许玩家回顾走法。",
+        "落子声和提示音等音效简单且功能性强。",
+        "整体氛围安静，旨在营造专注思考的环境。",
+        "游戏玩法鼓励学习和掌握各类象棋定式与布局。",
+        "获胜是玩家的核心目标和唯一驱动力。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

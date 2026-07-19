@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_0508_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "职贡图",
+        "type": "PAINTING",
+        "countryName": "CHN",
+        "year": 540,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-01-31",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "《职贡图》传为南朝梁元帝萧绎所作的人物长卷，通过分段描绘各国使节的形象与服饰差异，视觉化地呈现了南北朝时期中原王朝的对外关系体系。作品以工笔设色手法细腻刻画不同民族的面貌特征与着装细节，画面兼具文献纪实性、政治象征性与早期人物画的审美趣味。核心通过人物队列的庄重排列与姿态差异，表达朝贡秩序与文明中心的整体体验，是研究古代外交史、民族志与早期绘画的珍贵图像文献。",
+        "themes": [
+          "外交关系",
+          "民族识别",
+          "政治秩序",
+          "文化中心",
+          "朝贡体系",
+          "身份差异"
+        ],
+        "keywords": [
+          "南朝梁",
+          "萧绎",
+          "使节",
+          "工笔人物",
+          "长卷",
+          "服饰差异",
+          "民族面相",
+          "朝贡",
+          "图像文献",
+          "南北朝"
+        ],
+        "core_experience": "作品通过庄重的使节队列与精细的服饰面相差异，引导观众进入一种兼具秩序感与认知好奇的体验：既感受到中原王朝作为文明中心的俯视视角，又因各地使节形象的差异而促使文化辨识与观察。整体呈现出庄重、疏离与知识性并存的审美与认知交融体验。",
+        "experience_introduction": "《职贡图》作为一幅早期工笔人物长卷，并非以叙事情节驱动，而是通过使节人物的并置与细节差异来组织视觉经验。观众在观看过程中，注意力被引向对各国服饰、面相、姿态的比较与辨认，从而在秩序感与差异感之间形成一种兼具政治象征与文化认知的双重经验。画面本身的庄重工细与色彩运用也进一步强化了这种疏离而沉浸的观察节奏。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.35,
+        "reflection": 0.6,
+        "romance": 0.0,
+        "tension": 0.15,
+        "warmth": 0.1,
+        "loneliness": 0.3,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.5,
+          "depth_of_thought": 0.45,
+          "logical_structure": 0.65,
+          "novelty": 0.3,
+          "exploration": 0.55,
+          "ambiguity": 0.25,
+          "predictability": 0.75,
+          "information_density": 0.7,
+          "learning_value": 0.75
+        },
+        "worldview": {
+          "personal_scale": 0.15,
+          "relationship_scale": 0.25,
+          "social_scale": 0.7,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.15,
+          "time_span": 0.2,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.1,
+          "loneliness": 0.25,
+          "warmth": 0.1,
+          "fear": 0.05,
+          "tension": 0.15,
+          "awe": 0.6,
+          "nostalgia": 0.3,
+          "hope": 0.1,
+          "melancholy": 0.2,
+          "anger": 0.05,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.2,
+          "luxury": 0.5,
+          "darkness": 0.1,
+          "brightness": 0.45,
+          "dreamlike": 0.05,
+          "mystery": 0.4,
+          "experimental": 0.2,
+          "classical": 0.85,
+          "modern": 0.05
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.45,
+          "character_growth": 0.0,
+          "world_building": 0.4,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.7,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.1,
+          "philosophical_depth": 0.3
+        },
+        "social_relationship": {
+          "individualism": 0.3,
+          "collectivism": 0.6,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.0,
+          "community": 0.35,
+          "competition": 0.15,
+          "cooperation": 0.25,
+          "power_relationship": 0.85,
+          "identity": 0.8
+        },
+        "value": {
+          "freedom": 0.05,
+          "order": 0.9,
+          "truth": 0.6,
+          "beauty": 0.7,
+          "achievement": 0.55,
+          "justice": 0.2,
+          "sacrifice": 0.1,
+          "self_exploration": 0.1,
+          "tradition": 0.8,
+          "change": 0.15,
+          "survival": 0.25,
+          "meaning": 0.4
+        },
+        "behavior": {
+          "curiosity": 0.6,
+          "creation": 0.4,
+          "adventure": 0.2,
+          "reflection": 0.65,
+          "competition": 0.1,
+          "social": 0.4,
+          "discipline": 0.7,
+          "risk": 0.05,
+          "calm": 0.75,
+          "escape": 0.05
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.6,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.6,
+          "immersion": 0.55
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "工笔设色人物长卷",
+          "color_expression": 0.65,
+          "composition_complexity": 0.6,
+          "symbolism": 0.7,
+          "emotional_expression": 0.35,
+          "historical_style": 0.9
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品以秩序化和克制的方式描绘使节队列，缺少强烈的情绪感染力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "画面庄重匀称，具有一定的视觉抚慰感，但并非以治愈为核心意图。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "使节队列的庄严排列和服饰细节的精细程度容易引发观众对秩序与权威的敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.35,
+          "explanation": "作为南朝遗存的历史图像文献，其古旧质感与历史语境会唤起一定的怀古情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.6,
+          "explanation": "对不同民族服饰、面相的对比与辨认，促使观众思考文化差异与政治关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品内容完全是政治纪实，不包含任何浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.15,
+          "explanation": "使节队列的庄重感带来了轻微的仪式性紧张，但没有戏剧性冲突。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "人物刻画偏重客观记录而非情感上的亲近感，整体氛围较为疏离。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.3,
+          "explanation": "使节个体独立成段，彼此之间缺乏互动，营造出一定的孤立感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "作品以记录现状为主，并未暗示未来或积极的改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "以具象人物描绘为主，抽象概念主要体现在整体秩序和权力象征层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "包含多国人物形象的细节差异，具有一定的文化信息复杂度，但结构相对清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.45,
+          "explanation": "作品隐含了华夷秩序和中原中心的政治思想，但未进行深入哲学讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.65,
+          "explanation": "使节的左右分段、并排罗列的构图形式具有清晰的分类逻辑和视觉秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.3,
+          "explanation": "在南北朝时期分卷描绘各国人物的做法具有独创性，但在当代看来是历史图像。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "观众通过观察不同人物的服饰特征，进行视觉上的文化探索与对比。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "画面表达清晰，使节身份和队列秩序直观明了，少有歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "构图规则、队列整齐、人物姿态端庄，整个视觉结构都在预期之内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.7,
+          "explanation": "服饰、发型、面相、队列顺序均承载了丰富的民族志和历史信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.75,
+          "explanation": "作为图像文献，该作是了解古代外交礼仪、民族分布与服饰史的重要参考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.15,
+          "explanation": "聚焦人物外部形象而非内心世界，个体性格被体制身份所覆盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.25,
+          "explanation": "使节之间几乎没有互动，人际关系不是表现的焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.7,
+          "explanation": "以各国朝贡团为单位，直接展现的是国与国之间的群体关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.8,
+          "explanation": "母题是中原文明与周边各国的外交秩序，视野落在文明体系的中心与边缘关系上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "不涉及宇宙生成或超越世俗的存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "画面捕捉的是一个截面性的外交时刻，缺乏明显的长时间跨度叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "完全是现实政治秩序的纪实性描绘，无任何虚构或超自然成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "画面氛围庄重严肃，没有传递出明显的快乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "人物表情大多平静，缺乏悲悯或伤感的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.25,
+          "explanation": "使节作为远方而来的藩属，在画面上是孤立单元，与中心权力形成疏离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "政治威仪优先于亲和力，工笔的精致并未营造温馨感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "虽然涉及权力，但并未表现出直接的恐惧或威胁元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.15,
+          "explanation": "队列的规整和视觉上的疏离产生一种微弱的仪式性压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "对天朝秩序与帝王权力的视觉化呈现，诱发了敬畏的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.3,
+          "explanation": "作品本身的古旧感和对已逝王朝秩序的记录引发了对往昔的怀想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "作品是对既定现状的描述，没有传达出对未来的乐观憧憬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.2,
+          "explanation": "画面凝重，朝代更迭的潜在语境可带来一丝微弱的怅然之感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "完全没有愤怒或激烈的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "人物姿态平静、结构均衡，整体传达出一种固化的和平状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "工笔线条流畅，设色典雅，人物造型优美，具有早期人物画的审美高度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.2,
+          "explanation": "画面背景留白简洁，但人物服饰纹样精细繁复，并非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.5,
+          "explanation": "描绘了各国使者进献的异域服装与配饰，显示了一定的物产丰富和礼仪排场。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "色调古雅淡泊，没有表现黑暗或阴沉的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.45,
+          "explanation": "设色清丽，但作为古绢本设色，整体明亮度并不张扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "纯属现实场景的纪实刻画，不含超现实或梦幻元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.4,
+          "explanation": "异域人物的长相和服饰对中古观众而言具有神秘感，对现代观众也有文化考据的未知性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "在图像表现上遵循了当时工笔的规范，少有显著的实验性突破。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "作为南北朝时期的传世名作，其技法、构图和主题都极具古典风范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.05,
+          "explanation": "创作背景与技巧均属古代，没有现代艺术的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "作为一幅画作，不具备传统意义上的复杂情节，仅通过队列暗示外交事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.45,
+          "explanation": "侧重于人物外貌和服饰的深度刻画，但并不深入挖掘个体的内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "画面表现的是静态的瞬间，没有角色成长的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.4,
+          "explanation": "通过汇集各国使臣，间接构建了一个以中原为中心的天下世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "长卷的阅读是线性展开的，结构清晰，不涉及时间线的跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.7,
+          "explanation": "观看需要细致审视每个人物的细节，长卷的形式鼓励沉浸式、缓慢的观赏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "画面只表现静立的人物，没有任何身体动作的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.1,
+          "explanation": "表面上是一团和气的外交场景，仅有过往冲突导致的“臣服”这一隐含背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.3,
+          "explanation": "体现了“普天之下莫非王土”的政治哲学，但未对此进行深入辩论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.3,
+          "explanation": "虽然各国人物形象独立，但他们更主要是作为国家符号存在，强调集体身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.6,
+          "explanation": "作品着重表现的是一种以宗主权为核心的集体国际秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "没有任何关于家庭内部关系的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "人物之间缺乏生动的互动，不强调个人友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "不存在爱情的内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.35,
+          "explanation": "各国使节团本身构成了各自的文化共同体，但在画面中是松散的聚合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.15,
+          "explanation": "隐含了文明与蛮荒、中心与边缘的对比，但没有直接的竞争情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.25,
+          "explanation": "朝贡本身是合作与生存的一种形式，但这个互动在画面中是被动呈现的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.85,
+          "explanation": "通篇展示的是中原帝国内部与周边藩属明确的、不平等的权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.8,
+          "explanation": "通过服饰、发型的差异强烈地标定了族群、地域和阶层的身份归属。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.05,
+          "explanation": "主题是归顺与秩序，而非个人或民族的自由意志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.9,
+          "explanation": "构图的规整、队列的划分、尊卑的体现都高度强调外交与政治秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "具有极高的史料纪实价值，力求写实地还原当时的各国外交人员形象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "创作动机中包含了对工笔人物画形式美感的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "旨在彰显帝王“怀柔远人”的政治成就与万国来朝的功绩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.2,
+          "explanation": "主要服务于政治秩序，并未探讨抽象的公平正义概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "不涉及牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.1,
+          "explanation": "描绘外部政治身份，缺乏对内在自我的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.8,
+          "explanation": "极其强调宗藩礼节、衣冠制度以及中原王朝的正统传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.15,
+          "explanation": "意图在于固化现状和记录臣服，而非接纳变革或发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.25,
+          "explanation": "朝贡行为在小国视角下关乎生存，但不是作品直接渲染的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.4,
+          "explanation": "通过展示万国来朝的图景，赋予了既存政治秩序以合法性意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.6,
+          "explanation": "鼓励观众对异域人物形象、风俗习惯进行视觉探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.4,
+          "explanation": "创作者通过精细的笔法创造了这一画作，但作品不激发观众的艺术创作冲动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.2,
+          "explanation": "仅限于观众在视觉上的异域探索，而非鼓励身体力行的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.65,
+          "explanation": "引导观众在观看时进行文化对比和历史反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "除隐含的文明优越感对比外，没有激励行为上的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.4,
+          "explanation": "主题完全是社会政治性的，但输出的是视觉产物，非社会互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.7,
+          "explanation": "无论是所描绘的对外礼仪还是绘画本身的技法，都体现了极强的规矩和法度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "不包含任何冒险或高风险的活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.75,
+          "explanation": "画面的静止状态和肃穆氛围，鼓励平静专注的接收信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.05,
+          "explanation": "这是对现实秩序的严肃记载，没有提供脱离现实的出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "作为一幅名作，其精致的工笔重彩在视觉上极具吸引力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.6,
+          "explanation": "设色典雅，具有丰富的层次感，但受限于古画材质，色调较为古朴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "作为纯粹的视觉艺术，不包含任何听觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "静态画面中，人物队列的重复出现形成了一种单一、缓慢的视觉节律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.6,
+          "explanation": "画面笼罩着一种庄重、肃静且略带疏离的历史外交氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.55,
+          "explanation": "细节的丰富性容易让观者聚焦于画面的细微之处，但内容上的疏离感会部分冲淡沉浸感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": "工笔设色人物长卷",
+          "explanation": "作品采用绢本设色，工笔线描，以长卷形式分段描绘各国人物朝贡队列。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.65,
+          "explanation": "设色典雅古朴，服饰色彩根据各国特征进行区分，体现了早期人物色谱。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.6,
+          "explanation": "构成元素为左右连续的单列人物立像，画面结构统一并有节奏感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.7,
+          "explanation": "服饰、姿态与队列位置具有强烈的政治象征性，直接反映了外交等级与怀柔远人的象征含义。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.35,
+          "explanation": "人物描绘重外形特征而略于神态的微妙刻画，情感表达内敛且克制。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.9,
+          "explanation": "作品是典型的南北朝时期工笔人物画风格，具有极高的断代史和画脉传承特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观赏《职贡图》的体验是一个从整体秩序感到细节认知差异的过渡过程。观众首先感受到的是一种带有距离感的视觉秩序，各国使节在统一的长卷中被规整排列，营造出庄严肃穆的外交氛围。接着，注意力会被引向每一个人物独特的服饰、发型和面相细节，从而产生对异域文化与历史身份的辨认与好奇。这种由宏观威仪向微观考据的视角转换，使敬畏感与知识性的好奇心相互交织，构成其独特的审美心理历程。",
+        "structure_description": "作品采用中国传统长卷式构图，以左右横向延伸的方式将不同国家的使节依次排列。这种并排罗列的结构没有时间上的先后和空间的纵深变化，而是通过视觉的连续扫描来组织观众的观看节奏。每个人物构成一个相对独立的视觉单元，而榜题或形象的差异则充当了章节分隔符，使得整个卷轴呈现出一种组织严密且有条不紊的视觉结构。",
+        "cognitive_expression": "本画作促使观众采取一种分析性的观察视角。它不依赖于叙事或情感带入，而是要求观众通过比较的方式去识别人物之间的异同，从而提取出政治与民族志信息。这是一种自下而上的辨析思维过程，观众需要通过观察具体的服饰与面容特征来理解抽象的朝贡秩序与文化分类逻辑。",
+        "behavioral_tendency_description": "画面氛围鼓励宁静、专注且带有审慎态度的观赏行为。由于作品主题关乎国体与制度，这种庄重感会引导观众保持一种仪式化的安静与沉静。同时，对异域细节的辨识需求会激发一种求知性的视觉探索行为，促使观看者反复审视并搜寻文字题记与视觉符号之间的对应关系。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.2,
+        "Ti": 0.65,
+        "Te": 0.8,
+        "Fi": 0.1,
+        "Fe": 0.3,
+        "Si": 0.75,
+        "Se": 0.55,
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.15,
+        "agreeableness": 0.35,
+        "neuroticism": 0.15,
+        "Assertive": 0.8,
+        "Turbulent": 0.15
+      },
+      "supporting_evidence": [
+        "长卷描绘了来自不同地域、身着各异民族服饰的使节队列。",
+        "画面中人物以站姿为主，姿态端庄，服饰细节刻画极为精细。",
+        "构图上没有背景，人物独立或成组排列，采用并置传统的分段结构。",
+        "作品记录了公元六世纪南北朝时期的外交礼仪与服饰制度。",
+        "人物面部特征和发式被仔细区分，以标识其所属族群。",
+        "画面辅以文字题记，注明各国名称与进贡方物。",
+        "整体用色典雅古朴，线条细腻，属于典型的早期工笔人物绘画。",
+        "描绘的主题是藩属国向中原朝廷朝贡的纪实性政治事件。",
+        "作者萧绎身兼帝王与画家身份，画作带有明确的官方视角。",
+        "画面中没有描绘战争或剧烈运动，传递出稳固的外交控制局面。",
+        "人物的眼神与表情普遍平静且克制，未表达明显的悲喜情绪。",
+        "使节姿态被描绘为谦恭顺从，以突出中原王朝的中心地位。",
+        "画卷的观看方式是从右至左横向展开，强调整体外交队列的连贯性。",
+        "该作在古代被用作展示王朝权威与万国来朝盛况的图像政治工具。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

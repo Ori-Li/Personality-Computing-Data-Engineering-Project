@@ -1,0 +1,755 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "诛仙",
+        "type": "GAME",
+        "countryName": "中国",
+        "year": 2007,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《诛仙》是一款基于同名仙侠小说改编的大型多人在线角色扮演游戏。游戏构建了一个包含青云门、天音寺、鬼王宗等门派的古典仙侠世界，玩家在正邪对抗、天地浩劫的背景下展开修真历练。作品以情缘系统、法宝养成、帮派争斗和精美场景探索为核心玩法，为玩家提供了一段沉浸式的仙侠情缘与成长体验，代表了国产仙侠MMORPG的一个高峰。",
+        "themes": [
+          "修仙",
+          "成长",
+          "爱情",
+          "正邪对抗",
+          "轮回",
+          "宿命",
+          "门派归属",
+          "探索"
+        ],
+        "keywords": [
+          "青云山",
+          "河阳城",
+          "法宝",
+          "飞剑",
+          "情缘系统",
+          "帮派战",
+          "修真",
+          "天地宝库",
+          "碧瑶",
+          "张小凡",
+          "鬼王宗",
+          "合欢派"
+        ],
+        "core_experience": "在唯美而危机四伏的仙侠世界里，经历从平凡到强者的漫长修真之路，体验与挚友并肩作战、与伴侣共历情劫的深刻情感羁绊。",
+        "experience_introduction": "《诛仙》通过高度还原的仙侠场景、庞大的技能与养成体系、以及强社交属性的情缘帮派系统，为玩家构建了一个充满探索欲、归属感和情感张力的虚拟世界。玩家在打怪升级、副本挑战的核心循环之外，被持续卷入人际关系的建立与维护中，使得游戏体验从单纯的角色数值成长升华为一段承载情感记忆的仙侠人生模拟。"
+      },
+      "experience_vector": {
+        "passion": 0.65,
+        "healing": 0.40,
+        "awe": 0.70,
+        "nostalgia": 0.20,
+        "reflection": 0.35,
+        "romance": 0.75,
+        "tension": 0.60,
+        "warmth": 0.55,
+        "loneliness": 0.30,
+        "hope": 0.50
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.25,
+          "complexity": 0.55,
+          "depth_of_thought": 0.30,
+          "logical_structure": 0.40,
+          "novelty": 0.25,
+          "exploration": 0.80,
+          "ambiguity": 0.20,
+          "predictability": 0.70,
+          "information_density": 0.45,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.60,
+          "relationship_scale": 0.85,
+          "social_scale": 0.70,
+          "civilization_scale": 0.50,
+          "cosmic_scale": 0.35,
+          "time_span": 0.40,
+          "fantasy_level": 0.90
+        },
+        "emotion": {
+          "happiness": 0.45,
+          "sadness": 0.50,
+          "loneliness": 0.30,
+          "warmth": 0.55,
+          "fear": 0.40,
+          "tension": 0.60,
+          "awe": 0.70,
+          "nostalgia": 0.20,
+          "hope": 0.50,
+          "melancholy": 0.55,
+          "anger": 0.35,
+          "peace": 0.30
+        },
+        "aesthetic": {
+          "beauty": 0.85,
+          "minimalism": 0.15,
+          "luxury": 0.60,
+          "darkness": 0.40,
+          "brightness": 0.55,
+          "dreamlike": 0.70,
+          "mystery": 0.65,
+          "experimental": 0.10,
+          "classical": 0.80,
+          "modern": 0.30
+        },
+        "narrative": {
+          "plot_complexity": 0.50,
+          "character_depth": 0.45,
+          "character_growth": 0.85,
+          "world_building": 0.80,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.70,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.25
+        },
+        "social_relationship": {
+          "individualism": 0.45,
+          "collectivism": 0.65,
+          "family": 0.30,
+          "friendship": 0.80,
+          "love": 0.85,
+          "community": 0.75,
+          "competition": 0.70,
+          "cooperation": 0.75,
+          "power_relationship": 0.55,
+          "identity": 0.60
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.35,
+          "truth": 0.25,
+          "beauty": 0.70,
+          "achievement": 0.80,
+          "justice": 0.45,
+          "sacrifice": 0.55,
+          "self_exploration": 0.30,
+          "tradition": 0.50,
+          "change": 0.40,
+          "survival": 0.60,
+          "meaning": 0.45
+        },
+        "behavior": {
+          "curiosity": 0.65,
+          "creation": 0.35,
+          "adventure": 0.80,
+          "reflection": 0.25,
+          "competition": 0.70,
+          "social": 0.90,
+          "discipline": 0.55,
+          "risk": 0.60,
+          "calm": 0.20,
+          "escape": 0.30
+        },
+        "sensory": {
+          "visual_intensity": 0.80,
+          "color_richness": 0.75,
+          "sound_intensity": 0.65,
+          "rhythm_energy": 0.60,
+          "atmosphere": 0.85,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.45,
+          "mechanical_skill": 0.55,
+          "player_agency": 0.65,
+          "exploration_depth": 0.80,
+          "collection_system": 0.70,
+          "progression_system": 0.85,
+          "social_interaction": 0.90,
+          "competition_intensity": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.65,
+          "explanation": "游戏中的帮派战、PK系统和对抗性副本持续激发玩家的斗志和竞技热情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.4,
+          "explanation": "优美的风景和休闲的社交活动提供了一定的放松感，但并非游戏核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.7,
+          "explanation": "宏伟的青云山、流光溢彩的仙家洞府和巨大神兽等设计旨在引发玩家的惊叹与敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.2,
+          "explanation": "作为一款怀旧服已上线的游戏，虽能引发回忆，但游戏内容本身并不以怀旧为主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.35,
+          "explanation": "主线剧情中的正邪思辨和轮回宿命提供了少量引发思考的瞬间，但非主要体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.75,
+          "explanation": "标志性的情缘系统贯穿始终，夫妻任务、双人坐骑和唯美场景共同营造了强烈的浪漫氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.6,
+          "explanation": "世界BOSS争夺、帮派领土战和仇人系统制造了持续的紧张感与危机感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.55,
+          "explanation": "师徒、帮派和婚姻等社交系统为玩家提供了一种充满人情味的虚拟社会归属感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.3,
+          "explanation": "部分剧情和角色背景故事带有孤独色彩，但在强社交玩法下被大大稀释。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.5,
+          "explanation": "角色从小白到大神的成长之路，以及为守护所爱而战的目标，传达出希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.25,
+          "explanation": "游戏内容核心为具象的任务、战斗和养成，抽象思考需求低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "游戏包含复杂的技能树、装备炼器、法宝合成和多线任务，系统复合度较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.3,
+          "explanation": "游戏玩法侧重于执行和成长，而非持续的深度思考和解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "游戏规则、伤害公式和任务链遵循固定的底层逻辑，要求玩家进行算计与搭配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.25,
+          "explanation": "作为一款经典老游戏，其核心玩法已被市场广泛认知，不再以新颖性见长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.8,
+          "explanation": "无缝大地图上隐藏任务、稀有采集物和未知区域强力驱动玩家进行地图探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.2,
+          "explanation": "游戏目标和系统功能指示明确，不存在过多的模糊或开放结局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.7,
+          "explanation": "打怪升级、完成任务、获取经验的主流成长路径清晰且可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.45,
+          "explanation": "相比纯文本游戏，信息密度适中偏下，感官信息多于语义信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "游戏以娱乐为主，几乎不提供现实世界的知识或技能教育价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.6,
+          "explanation": "玩家角色的“我”的个人恩怨、成长和姻缘是叙事的核心驱动力之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "游戏的社交系统极度强调玩家之间形成夫妻、兄弟、师徒等深度人际关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.7,
+          "explanation": "帮派系统、阵营对抗和服务器荣誉构成了明确的社会组织与集体行为逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.5,
+          "explanation": "游戏中存在正道、魔教等不同文明理念的碰撞，但不是游戏的最主要焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.35,
+          "explanation": "世界观虽涉及神仙、轮回，但玩家主要活动于人间界域，对宇宙宏观探讨较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.4,
+          "explanation": "故事涉及前世今生和漫长修炼，但实际游戏历程主要以当下为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.9,
+          "explanation": "游戏世界充满了仙法、神兽、法宝、飞天等高度幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.45,
+          "explanation": "升级、交友、浪漫时刻带来快乐体验，但与悲伤、紧张并存，并非纯粹欢乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.5,
+          "explanation": "主线剧情充满生离死别和悲剧性的爱情故事，为游戏定下悲情基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "玩家个人的一些任务虽然孤独，但无处不在的社交互动有效冲淡了孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.55,
+          "explanation": "通过师徒系统、帮派聊天和情缘互动，游戏制造了持续的温暖和被陪伴的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.4,
+          "explanation": "高难度副本团灭、强力敌人追逐和妖魔鬼怪场景设计能带来一定恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.6,
+          "explanation": "PVP战斗的瞬息万变、大型活动中的资源争抢制造了高度紧绷的心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.7,
+          "explanation": "巨型建筑、华丽技能特效和史诗级世界Boss战不断营造对力量和奇幻世界的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.2,
+          "explanation": "游戏背景设定在架空的古典世界，并不旨在引发对现代人过往生活的怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.5,
+          "explanation": "角色成长的无限可能和情缘的修成正果给予玩家希望，但悲情剧情又使其受到抑制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "爱别离、求不得的剧情主题和部分场景的萧瑟配乐，始终萦绕着淡淡的忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.35,
+          "explanation": "被仇人击杀或帮派受辱会激发玩家短暂的愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.3,
+          "explanation": "游戏环境整体充满战斗和竞争，极少能体会到持久的宁静与平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.85,
+          "explanation": "游戏着力打造唯美的古典仙侠视觉风格，从人物建模到场景设计都追求极致的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.15,
+          "explanation": "复杂的UI和华丽的特效充满屏幕，与极简主义美学完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.6,
+          "explanation": "顶级装备、坐骑和时装设计常使用流光、宝石和丝帛等元素，呈现出华丽奢靡感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.4,
+          "explanation": "魔教地图、地下城和部分剧情展现了阴暗、诡异的暗黑风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "主流修仙门派如青云的所在地通常风景秀丽、色彩明亮清新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.7,
+          "explanation": "云海、仙境、飞花等场景和柔光滤镜效果营造出强烈的梦幻与虚无感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.65,
+          "explanation": "蕴藏上古秘密的天地宝库、蛮荒之地等场景充满神秘色彩，激发探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "游戏采用主流的MMORPG视觉框架和美术风格，不具备实验性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.8,
+          "explanation": "无论是建筑、服饰还是背景音乐，整体风格都根植于中国古典神话与武侠美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.3,
+          "explanation": "现代元素极少，仅体现在一些便捷的系统功能或运营活动中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.5,
+          "explanation": "主线任务基于复杂原著改编，但线上任务呈线性，复杂程度在MMO中属中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.45,
+          "explanation": "核心NPC与玩家自创角色的互动虽有情愫，但玩家角色本身缺乏预设的深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "从1级新手到满级大神的修炼过程，是游戏最核心、最直接的叙事主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.8,
+          "explanation": "游戏高度还原原著世界观，包含完整的地理、历史、门派和社会生态体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "任务推进基本是单向线性的，虽可自由探索但不足以支撑非线性的故事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "MMORPG的慢节奏成长和日常任务循环，是为玩家提供长线沉浸感的关键。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.7,
+          "explanation": "战斗是核心交互方式，频繁的刷怪、PK和副本战斗使动作层面保持高强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "正邪的永恒战争、帮派对资源的抢夺和个人恩怨共同构成了激烈的冲突网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.25,
+          "explanation": "“天地不仁，以万物为刍狗”等主题虽有提及，但多见于口号，较少深入探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.45,
+          "explanation": "个人装备、等级、战力的提升是基础，但这通常是为了在集体中获得认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.65,
+          "explanation": "帮派战、城战等大规模PVP活动将集体荣誉和胜利置于个人英雄主义之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.3,
+          "explanation": "游戏中的情缘系统更多聚焦于爱情和结义，对传统家庭纽带的描述极为薄弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.8,
+          "explanation": "结拜系统、组队副本和日夜相伴的帮派生活是玩家留存的核心社交驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.85,
+          "explanation": "情缘系统是其最具标志性的系统，恋爱关系模拟和婚礼系统深刻影响玩家体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.75,
+          "explanation": "帮派、家族等玩家构成的微型社区，拥有自己的领地、活动和归属感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.7,
+          "explanation": "排行榜、竞技场、领土战和野外PK构建了全方位、多层次的PVP竞争体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.75,
+          "explanation": "高难度副本攻坚和大型团体活动强制要求玩家进行高度的战术配合与分工合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.55,
+          "explanation": "帮主、精英、普通帮众的层级划分和高战力玩家的话语权展现了明确的权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.6,
+          "explanation": "玩家通过选择门派、阵营和塑造社会地位，在虚拟世界中建立并确认自我身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.4,
+          "explanation": "玩家虽可自由探索地图，但其成长路径和终极目标大多被游戏框架所限定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "游戏世界设定了正邪秩序，但玩家行为常处在破坏与遵从秩序的混乱交织中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.25,
+          "explanation": "剧情中有对真相的追寻，但“变强”和“守护”的优先级远高于对终极真理的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "游戏的视觉和听觉呈现无处不在强调“美”的价值，时装和场景消费是重要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.8,
+          "explanation": "等级、装备评分、排名和稀有度构成了玩家的核心目标，成就感是主要的内部激励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.45,
+          "explanation": "主线剧情涉及正邪对抗的侠义精神，但游戏内玩家间互动常超越这一叙事框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.55,
+          "explanation": "原著及游戏中主要角色的牺牲精神（如碧瑶挡剑）是情绪爆发点和重要价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.3,
+          "explanation": "游戏玩法更侧重于外部成就和社交关系的构建，而非内向的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.5,
+          "explanation": "游戏中的师门传承、正统观念和古典礼仪体现了一定程度的传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "角色不断变强的过程即是“变化”，但整体世界观和权力格局变动缓慢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.6,
+          "explanation": "弱肉强食的修真世界法则和随时爆发的PK，让“生存下去并变强”成为重要信条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.45,
+          "explanation": "玩家在虚拟关系中寻找陪伴和羁绊，这构成了在游戏世界中的“意义”感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.65,
+          "explanation": "对未知地图、隐藏任务和新副本机制的好奇心是驱动玩家探索的主要行为动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "玩家可通过炼器、生产系统进行有限创造，但无法像沙盒游戏那样自由建造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.8,
+          "explanation": "单人深入蛮荒地带，挑战未知的野外BOSS，这一行为是核心玩法的重要延伸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.25,
+          "explanation": "快节奏的战斗和社交使得玩家很少有机会或驱动力进行内省和反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.7,
+          "explanation": "无论是PVP还是PVE的排行榜，游戏精心设计了鼓励玩家相互比较和竞争的机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.9,
+          "explanation": "游戏的几乎所有后期核心玩法都强制或极度鼓励社交，聊天和互动是常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "为了跟上服务器进程，玩家不得不保持规律的“上线清日常”这一高度自律的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.6,
+          "explanation": "强化装备失败、携带重金被击杀等高风险设计，使玩家经常处于风险决策中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.2,
+          "explanation": "游戏世界充满活动和战斗，很难让玩家进入一个平静、安详的行为状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.3,
+          "explanation": "游戏为玩家提供了一个逃避现实的仙侠乐园，但积极的社交和竞争使其并非纯粹的避世。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.8,
+          "explanation": "满屏的技能光效、华丽的时装翅膀和丰富的场景细节对视觉形成高强度冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.75,
+          "explanation": "不同门派、地图、装备和技能特效的色彩区分度极高，色彩饱和度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.65,
+          "explanation": "战斗音效、技能吟唱和环境音效共同构筑了密集的听觉体验，背景音乐存在感强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.6,
+          "explanation": "刷怪和PK的节奏较快，技能释放频率高，整体游戏节奏感充满能量。"
+        },
+        {
+          "imdensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "光效、建筑、天气和背景音乐高度融合，营造出独一无二的仙侠世界沉浸式氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "无缝世界、剧情深度代入和强社交纽带使玩家极易产生心流，完全浸入虚拟身份。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.45,
+          "explanation": "技能搭配、对阵策略和职业克制有一定深度，但大多战斗依赖装备碾压和站桩输出。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.55,
+          "explanation": "对技能CD管理、走位和连招的熟练度在PVP中具有决定性作用，要求一定操作。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.65,
+          "explanation": "玩家可自由选择修炼方向、社交圈子和帮派立场，对自身游戏生涯有较高自主权。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.8,
+          "explanation": "广阔的无缝大地图藏有大量非线性的探索点、跳跃点和彩蛋，探索自由度高。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.7,
+          "explanation": "法宝、时装、坐骑和宠物图鉴是一个庞大的收集系统，驱动玩家的长期收藏行为。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.85,
+          "explanation": "多线程的修为、心法、技能、装备强化和等级成长线构成了极重的养成体系。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.9,
+          "explanation": "游戏本质上是一个基于仙侠世界观的大型聊天室，社交互动是其长线运营的基石。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.7,
+          "explanation": "从单挑到千人城战，各种规模的PK和比赛使得游戏内竞争非常激烈。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家在《诛仙》中的主导体验是一场由弱变强的史诗成长之旅，伴随着强烈的仙侠美学沉浸感。情感上则在紧张刺激的战斗与浪漫温情的人际交往间来回摇摆，持续受到探索欲和成就感的双重驱动。",
+        "structure_description": "游戏体验由一条线性的主线任务贯穿，并以每日循环的日常活动和周期性的帮派战、世界BOSS构成稳定的节奏。这种“个人叙事+固定日程”的复合结构将短期爆发与长期积累结合在一起。",
+        "cognitive_expression": "游戏主要调动玩家的策略规划、社交认知和环境探索能力。玩家需要不断计算资源、优化技能搭配并识别游戏内的社会关系网络，以做出最有利于成长和获取地位的行为选择。",
+        "behavioral_tendency_description": "作品持续正向激励玩家的社交互动、合作竞争以及有规律的投入，从而塑造出高度依赖社区、勇于冒险、并为长线目标保持高度自律的行为模式。"
+      },
+      "personality_affinity": {
+        "Ni": 0.25,
+        "Ne": 0.55,
+        "Ti": 0.35,
+        "Te": 0.75,
+        "Fi": 0.50,
+        "Fe": 0.85,
+        "Si": 0.45,
+        "Se": 0.80,
+        "openness": 0.50,
+        "conscientiousness": 0.65,
+        "extraversion": 0.85,
+        "agreeableness": 0.55,
+        "neuroticism": 0.50,
+        "Assertive": 0.60,
+        "Turbulent": 0.45
+      },
+      "supporting_evidence": [
+        "游戏内存在数十张风格迥异的无缝大地图，包含隐藏任务和探索点。",
+        "情缘系统允许玩家结为夫妻，并拥有专属的交互动作、技能和任务线。",
+        "帮派系统提供独立的领地、仓库和包括帮派战在内的大型集体活动。",
+        "角色的成长体现为等级、技能、心法、装备和法宝等多条并行的养成线。",
+        "游戏世界被明确划分为青云门等正道联盟和鬼王宗等魔教势力的对立阵营。",
+        "主线剧情高度还原了原著中张小凡、碧瑶、陆雪琪等人的情感纠葛和命运悲剧。",
+        "玩家可通过采集、采矿、钓鱼等活动获取材料，并进行炼丹、锻造等生产活动。",
+        "游戏设有完善的PVP系统，包括单人决斗、野外混战和定期开放的竞技场。",
+        "华丽的装备和时装带有流光和特效，是展示玩家实力和审美的重要途径。",
+        "采用无缝大地图技术实现了视角的平滑过渡和世界的整体感。",
+        "游戏中的法宝是独立的装备系统，拥有自己的技能、外观和成长路径。",
+        "师徒系统为新手提供了引导和奖励，同时也为师徒双方建立了持续的社交纽带。",
+        "包含众多需要多人精密配合才能通关的高难度团队副本。",
+        "坐骑系统从飞剑到神兽形态各异，移动的同时兼具观赏和速度攀比作用。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

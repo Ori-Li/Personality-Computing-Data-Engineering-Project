@@ -1,0 +1,734 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1945_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "我的梦",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 0,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-03-14",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.7,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "徐芒耀的超写实主义系列油画，以高度写实的技法描绘人物与场景，但在图像中植入了时空错位等不合逻辑的超现实元素。画面呈现出如照片般精确的质感，却构建了一个悖谬的梦境空间，探讨视觉真实与心理真实的边界。",
+        "themes": [
+          "梦境",
+          "潜意识",
+          "真实",
+          "悖谬",
+          "时空"
+        ],
+        "keywords": [
+          "超写实主义",
+          "油画",
+          "徐芒耀",
+          "时空交错",
+          "心理真实",
+          "视觉真实",
+          "悖谬元素",
+          "中国油画"
+        ],
+        "core_experience": "观赏者在被高度写实的逼真感吸引后，逐渐发现画面中不合常理的悖谬细节，从而产生认知上的错愕与恍惚，最终进入一种类似做梦的、理性与非理性交织的心理体验。",
+        "experience_introduction": "该系列作品首先以超凡的写实技巧制造强烈的视觉信服感，吸引观众用理性的眼光审视画面。然而，当观众注意到画面中违反现实逻辑的细节（如时空错位）时，原有的视觉真实感被打破，思维在真实与虚构之间产生摇摆。这种渐进式的认知颠覆，模拟了从清醒逐渐滑入梦境的心理过程，使观众体验到一种宁静但强烈的不安与神秘感，并引导观众向内审视潜意识与心理现实。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.1,
+        "awe": 0.65,
+        "nostalgia": 0.2,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.7,
+        "warmth": 0.1,
+        "loneliness": 0.6,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.9,
+          "complexity": 0.8,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.4,
+          "novelty": 0.8,
+          "exploration": 0.85,
+          "ambiguity": 0.9,
+          "predictability": 0.1,
+          "information_density": 0.65,
+          "learning_value": 0.75
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.3,
+          "social_scale": 0.3,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.3,
+          "time_span": 0.5,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.2,
+          "loneliness": 0.6,
+          "warmth": 0.1,
+          "fear": 0.3,
+          "tension": 0.7,
+          "awe": 0.65,
+          "nostalgia": 0.2,
+          "hope": 0.1,
+          "melancholy": 0.5,
+          "anger": 0.05,
+          "peace": 0.4
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.3,
+          "luxury": 0.1,
+          "darkness": 0.5,
+          "brightness": 0.5,
+          "dreamlike": 0.95,
+          "mystery": 0.8,
+          "experimental": 0.7,
+          "classical": 0.6,
+          "modern": 0.4
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.7,
+          "character_growth": 0.1,
+          "world_building": 0.6,
+          "nonlinear_structure": 0.9,
+          "slow_immersion": 0.8,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.8
+        },
+        "social": {
+          "individualism": 0.8,
+          "collectivism": 0.1,
+          "family": 0.1,
+          "friendship": 0.05,
+          "love": 0.1,
+          "community": 0.05,
+          "competition": 0.05,
+          "cooperation": 0.05,
+          "power_relationship": 0.1,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.6,
+          "order": 0.2,
+          "truth": 0.85,
+          "beauty": 0.75,
+          "achievement": 0.3,
+          "justice": 0.05,
+          "sacrifice": 0.05,
+          "self_exploration": 0.9,
+          "tradition": 0.3,
+          "change": 0.4,
+          "survival": 0.1,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.85,
+          "creation": 0.7,
+          "adventure": 0.3,
+          "reflection": 0.95,
+          "competition": 0.05,
+          "social": 0.05,
+          "discipline": 0.4,
+          "risk": 0.1,
+          "calm": 0.6,
+          "escape": 0.2
+        },
+        "sensory": {
+          "visual_intensity": 0.9,
+          "color_richness": 0.65,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "超写实主义与超现实主义结合",
+          "color_expression": 0.65,
+          "composition_complexity": 0.8,
+          "symbolism": 0.9,
+          "emotional_expression": 0.7,
+          "historical_style": 0.4
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品以静态的、沉思性的观看为主，不激发强烈的情感冲动。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "悖谬与不安的核心氛围不具备抚慰或治愈性。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.65,
+          "explanation": "通过高超的写实技法与反常的悖谬细节，引发对艺术家技艺与想象力的惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.2,
+          "explanation": "主题和表现手法不指向过去或怀旧，而是营造一种普适的梦境状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "发现画面中的逻辑悖论后，观众被迫反思真实与虚幻、视觉与心理的界限。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品中几乎没有与浪漫爱情直接相关的表现。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.7,
+          "explanation": "画面上逼真与现实逻辑的断裂，持续制造一种认知层面的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "整体氛围偏冷、疏离，不传递明显的温暖感受。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.6,
+          "explanation": "梦境化的个人空间和人物的沉浸状态常传达出一种孤独的自我体验感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "作品基调偏于模糊与不确定性，不体现明确的希望或乐观情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.9,
+          "explanation": "作品将具象写实技法服务于非现实的心理与时空概念，抽象性极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.8,
+          "explanation": "画面中的真实细节与悖谬结构交织，形成了一个多层次的认知网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品的核心在于探索知觉、真实与潜意识等具有深度的哲学性主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "作品的价值恰恰在于打破常规逻辑，其内部结构是非逻辑的、跳跃的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.8,
+          "explanation": "在超写实绘画中融入超现实时空悖谬，在其创作语境下是一种前卫的艺术语言。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.85,
+          "explanation": "作品引领观众探索潜意识、梦境空间以及视觉再现的可能性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.9,
+          "explanation": "画面中的悖谬元素没有标准解释，意义是开放的、模棱两可的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.1,
+          "explanation": "画中的超现实转折难以预料，观赏过程充满惊奇与困惑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.65,
+          "explanation": "除了写实细节，还包含了指向心理状态与文化概念的隐喻，信息层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.75,
+          "explanation": "提供了关于视觉心理学、超现实主义艺术方法论和知觉本质的启发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "焦点完全在于个体人物的内心世界、梦境与潜意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.3,
+          "explanation": "画面中即使有人物关系，也常被梦境逻辑扭曲，非描绘的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.3,
+          "explanation": "几乎没有涉及社会、群体或政治层面的宏观叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "不关注文明、历史或民族等宏大主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.3,
+          "explanation": "时空错位的处理偶尔可能带来一种超越常规认知的宇宙感，但并非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.5,
+          "explanation": "通过时空悖谬，将不同时间切片并置，压缩或拉伸了时间感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "写实的外表下是完全非现实的、如梦似幻的世界构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "体验是内省的、略带不安的，不产生直接的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.2,
+          "explanation": "忧伤并非作品的主要情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.6,
+          "explanation": "人物往往沉浸于自己的梦境世界，与外部现实隔绝，孤独感突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "氛围是冷静、理智的，缺乏直接的温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.3,
+          "explanation": "虽然有不安和神秘，但非直接的恐怖或惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.7,
+          "explanation": "真实与虚幻的共存制造了一种持续的、无法消解的内心张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.65,
+          "explanation": "对超写实技法和离奇想象力的结合感到惊叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.2,
+          "explanation": "作品不依赖特定记忆或怀旧情绪引发共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "梦境氛围通常是停滞、困惑的，而非指向充满希望的未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.5,
+          "explanation": "一种淡淡的、源自潜意识深处的、因意识到真实不可靠而产生的忧郁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品中完全没有愤怒情绪的指向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.4,
+          "explanation": "尽管表象平静，但悖谬的内核破坏了真正平和的心境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "画面遵从古典写实审美，但被超现实元素赋予了不和谐的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.3,
+          "explanation": "画面细节极其丰富，属于极繁的超写实风格，而非简约。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "完全不表达与财富、华丽相关的美学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.5,
+          "explanation": "画面色调和心理基调可能偏向灰暗或阴郁，但并非纯粹的黑暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.5,
+          "explanation": "光线处理可能清晰明快，但被画面内容赋予了非现实的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.95,
+          "explanation": "这是作品的核心美学特征，所有写实技法都服务于营造梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.8,
+          "explanation": "画面中的悖谬与象征符号充满了神秘和难以解释的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.7,
+          "explanation": "将超写实与心理超现实融合是一种大胆的实验性艺术实践。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.6,
+          "explanation": "其写实技法和油画媒介根植于古典传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.4,
+          "explanation": "对心理真实、潜意识的关注具有现代性，但表现手法并不追随现代主义的形式解构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "作为系列静态画作，不依赖传统情节叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.7,
+          "explanation": "人物作为心理状态的承载者，其内在世界的深度是作品探索的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.1,
+          "explanation": "静态画面只捕捉瞬间，不表现线性的人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.6,
+          "explanation": "构建了一套独立于现实物理规律的、自洽的梦境空间逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.9,
+          "explanation": "画面的构成是非线性的，将不同时空的碎片并置，类似梦的运作机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.8,
+          "explanation": "理解作品需要长时间的凝视与沉思，以逐渐进入其悖谬的情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "静态绘画，完全没有动作和物理强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "深层冲突在于“真实”与“虚幻”两种认知的对立，是一种哲学性冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.8,
+          "explanation": "作品本质上是关于存在、知觉、真实与虚幻等哲学命题的视觉探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.8,
+          "explanation": "完全聚焦于个体独特的、私密的内心体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.1,
+          "explanation": "不涉及任何集体、组织或社会归属的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.1,
+          "explanation": "家庭关系不是作品关注的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.05,
+          "explanation": "没有关于友谊的表达与描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.1,
+          "explanation": "非爱情主题，缺乏对浪漫关系的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.05,
+          "explanation": "完全没有社区或社群层面的互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "不表达任何形式的竞争或对抗关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.05,
+          "explanation": "没有需要合作完成的任务或目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.1,
+          "explanation": "权力结构关系在此心理空间中几乎不构成议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.7,
+          "explanation": "作品通过梦境探索，本质上是对自我身份不确定性和多重性的追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.6,
+          "explanation": "梦境所代表的无拘无束、超越现实的思维状态本身即是一种精神自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "作品的魅力在于打破常规秩序，因此不表达秩序价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.85,
+          "explanation": "核心探索在于追问什么是真实，是视觉真实还是心理真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "作品通过精湛的技艺和对形式的关注，高度体现了美在艺术中的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.3,
+          "explanation": "不关注世俗意义的成就，作品的完成本身就是一种艺术成就的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及任何道德、法律或社会正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "叙事中完全没有关于牺牲的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "作品的最重要价值就是引导观众和画中人物一同探入幽深的自我和潜意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "其油画写实技法可视为对传统的继承，但精神内核是反传统的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "时空错位本身意味着一种剧烈的变化或转换，但非指社会或个人的进步。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.1,
+          "explanation": "作品不涉及生存危机、求生或死亡的直接议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "通过解构真实，强烈地激发观众去探寻个人存在与感知的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.85,
+          "explanation": "画面中的悖谬元素是激发观众好奇心和探索欲的强烈诱饵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.7,
+          "explanation": "作品的原创性思维和反常规的图像制作方式能激发观众的创造性联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.3,
+          "explanation": "作品是内在心灵的探险，而非指向外部世界的物理冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "观赏过程的核心行为就是不断对所见之物进行反思和内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "不存在任何形式的行为或策略竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.05,
+          "explanation": "体验是完全个人的、内向的，不鼓励社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.4,
+          "explanation": "观众需要一定的观看纪律和耐心，才能进入作品所需的沉思状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.1,
+          "explanation": "不提倡现实层面的风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.6,
+          "explanation": "作品鼓励一种外部静止、内部活跃的冷静观看态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.2,
+          "explanation": "虽然有遁入梦境的倾向，但作品主旨更倾向于面对和审视潜意识，而非单纯逃避现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.9,
+          "explanation": "作为视觉艺术，其超写实细节对视觉的刺激和冲击力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "色彩运用为古典写实服务，虽丰富但可能因氛围营造而受到一定抑制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "作为纯粹视觉媒介，不包含声音元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "画面构图具有视觉节奏，但整体是低沉、缓慢的，能量内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "作品的氛围感极强，一瞬间就能将观众带入一种似真似幻的特殊情境中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "通过极致的细节和奇异的世界观，能有效地使观众沉浸于所构建的绘画世界里。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.0,
+          "explanation": "非数值维度，视觉风格被定义为“超写实主义与超现实主义结合”。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.65,
+          "explanation": "色彩服务于写实造型和梦境氛围，具有一定的表现力但非核心。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.8,
+          "explanation": "需要巧妙组织写实细节与非现实的时空碎片，构图能力要求高。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.9,
+          "explanation": "画面的核心在于搭建一个充满个人化与心理学象征的符号系统。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.7,
+          "explanation": "作品并非直接宣泄情感，而是冷静地构建一个引发深层心理情绪的场景。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.4,
+          "explanation": "风格是高度个人化的，并非对某个特定历史时期艺术风格的复刻。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观赏体验始于对精湛超写实技法的赞叹与信服，随之而来的是察觉画面逻辑悖谬时的认知震颤。整个过程如同从清醒的观察逐步滑入一个清晰的梦境，充满了智性上的好奇、心理上的不安与发现谜题后的沉思。",
+        "structure_description": "作品结构不是线性的叙事，而是视觉元素的并置。高度写实的表象作为一种结构骨架，承载着非理性的、跳跃的时空碎片。这种双重结构迫使观众的思维在“识别”与“解谜”两种模式之间反复切换，构成了观画体验的核心节奏。",
+        "cognitive_expression": "作品鼓励一种分析性与内省性相结合的认知模式。观众需要动用观察力去捕捉写实细节，同时调动想象力和抽象思维去解读那些非逻辑的视觉关联，从而反思知觉形成和真实判断的心理基础。",
+        "behavioral_tendency_description": "作品引导观众进行长时间的、安静的、专注的凝视。它鼓励内省和独立思考，而非社交分享；它唤起的是对内心世界的探险行为和对既有认知的提问倾向，而非对外部世界的介入或改变。"
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 0.65,
+        "Ti": 0.75,
+        "Te": 0.15,
+        "Fi": 0.85,
+        "Fe": 0.1,
+        "Si": 0.3,
+        "Se": 0.4,
+        "openness": 0.95,
+        "conscientiousness": 0.6,
+        "extraversion": 0.1,
+        "agreeableness": 0.2,
+        "neuroticism": 0.65,
+        "Assertive": 0.35,
+        "Turbulent": 0.65
+      },
+      "supporting_evidence": [
+        "画面整体采用极为精细的写实油画技法进行描绘。",
+        "画面中存在着不合常理的时空错位与悖谬元素。",
+        "高度真实感的细节与完全虚构的情境被并置于同一画面中。",
+        "作品的核心主题围绕视觉真实与心理真实的矛盾展开。",
+        "画面不遵循线性的时空逻辑，呈现出跳跃的、非理性的结构。",
+        "人物形象往往处于一种深度的自我沉浸和疏离状态。",
+        "画面中出现的象征物没有明确的、唯一的文化或宗教解释。",
+        "对作品的理解依赖于长时间的静观和对细节的耐心审视。",
+        "艺术表达的核心在于呈现个体的内向心理体验，而非人际关系互动。",
+        "图像的构建方式与人在睡梦中将现实碎片重组的内在机制相似。",
+        "作品系列持续探讨人类知觉、潜意识和梦境等深层命题。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1992_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "只此青绿",
+        "type": "STAGE",
+        "countryName": "CHN",
+        "year": 2022,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-29",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.92,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《只此青绿》是一部以北宋《千里江山图》为灵感创作的舞蹈诗剧。作品通过“展卷、问篆、唱丝、寻石、习笔、淬墨、入画”等拟人化篇章，将传统绘画的构思、材料准备与绘制过程转化为肢体语言。舞者以刚柔并济的身韵，在舞台上重构了中国山水美学的时空意象，展现了从工匠精神到艺术升华的完整历程。",
+        "themes": [
+          "传统艺术",
+          "工匠精神",
+          "人与自然",
+          "文化传承",
+          "东方美学",
+          "艺术创作过程",
+          "物我合一"
+        ],
+        "keywords": [
+          "千里江山图",
+          "王希孟",
+          "青绿山水",
+          "舞蹈诗剧",
+          "宋代美学",
+          "孟庆旸",
+          "篆刻",
+          "制笔",
+          "织绢",
+          "淬墨",
+          "中国东方演艺集团"
+        ],
+        "core_experience": "观众在静谧而深邃的舞蹈仪式中，跟随舞者的气韵流转，沉浸式地体验一幅传世名画从无到有的完整诞生过程。感受中国传统色彩美学的视觉冲击与身体书写的诗意，经历一种跨越时空的文化归属感与审美震撼。",
+        "experience_introduction": "作品将静态的青绿山水画转化为动态的肢体诗篇。观众并非在“看”一个故事，而是在“进入”一个美学空间。通过高度风格化的舞蹈语汇、分层展开的创作叙事和极简的舞台设计，作品引导观众从感性审美逐渐走向文化哲思，体验一场关于美、创造和传承的精神仪式。"
+      },
+      "experience_vector": {
+        "passion": 0.38,
+        "healing": 0.82,
+        "awe": 0.95,
+        "nostalgia": 0.72,
+        "reflection": 0.88,
+        "romance": 0.05,
+        "tension": 0.42,
+        "warmth": 0.65,
+        "loneliness": 0.22,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.85,
+          "complexity": 0.62,
+          "depth_of_thought": 0.79,
+          "logical_structure": 0.55,
+          "novelty": 0.78,
+          "exploration": 0.60,
+          "ambiguity": 0.58,
+          "predictability": 0.30,
+          "information_density": 0.75,
+          "learning_value": 0.88
+        },
+        "worldview": {
+          "personal_scale": 0.25,
+          "relationship_scale": 0.15,
+          "social_scale": 0.35,
+          "civilization_scale": 0.88,
+          "cosmic_scale": 0.72,
+          "time_span": 0.78,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.20,
+          "sadness": 0.52,
+          "loneliness": 0.25,
+          "warmth": 0.65,
+          "fear": 0.00,
+          "tension": 0.42,
+          "awe": 0.95,
+          "nostalgia": 0.75,
+          "hope": 0.58,
+          "melancholy": 0.60,
+          "anger": 0.05,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.98,
+          "minimalism": 0.82,
+          "luxury": 0.20,
+          "darkness": 0.30,
+          "brightness": 0.55,
+          "dreamlike": 0.78,
+          "mystery": 0.70,
+          "experimental": 0.65,
+          "classical": 0.92,
+          "modern": 0.55
+        },
+        "narrative": {
+          "plot_complexity": 0.30,
+          "character_depth": 0.15,
+          "character_growth": 0.20,
+          "world_building": 0.75,
+          "nonlinear_structure": 0.60,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.10,
+          "conflict_intensity": 0.25,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.30,
+          "collectivism": 0.65,
+          "family": 0.10,
+          "friendship": 0.00,
+          "love": 0.00,
+          "community": 0.55,
+          "competition": 0.05,
+          "cooperation": 0.78,
+          "power_relationship": 0.30,
+          "identity": 0.82
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.85,
+          "truth": 0.78,
+          "beauty": 0.98,
+          "achievement": 0.75,
+          "justice": 0.20,
+          "sacrifice": 0.30,
+          "self_exploration": 0.55,
+          "tradition": 0.92,
+          "change": 0.42,
+          "survival": 0.10,
+          "meaning": 0.84
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.96,
+          "adventure": 0.10,
+          "reflection": 0.88,
+          "competition": 0.05,
+          "social": 0.15,
+          "discipline": 0.90,
+          "risk": 0.05,
+          "calm": 0.92,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.92,
+          "color_richness": 0.95,
+          "sound_intensity": 0.72,
+          "rhythm_energy": 0.45,
+          "atmosphere": 0.96,
+          "immersion": 0.88
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.92,
+          "actor_expression": 0.95,
+          "body_expression": 0.98,
+          "audience_interaction": 0.30,
+          "performance_intensity": 0.60,
+          "ritual_sense": 0.90
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.38,
+          "explanation": "作品整体氛围沉静，情绪表达内敛克制，激情非主要体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.82,
+          "explanation": "舞蹈中的山水意境与平和韵律带来心理上的舒缓与安抚。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.95,
+          "explanation": "对传世名画与宋代美学精神的极致演绎激发了观众强烈的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.72,
+          "explanation": "作品回溯宋代文化辉煌，唤起了深沉的历史怀旧与文化乡愁。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.88,
+          "explanation": "作品引导观众深入思考艺术创作的真谛与文化的传承意义。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "主题围绕文化精神与艺术创造，不涉及男女浪漫情感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.42,
+          "explanation": "创作过程存在专注与探索的张力，但整体保持和谐静谧。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.65,
+          "explanation": "通过展现工匠们的执着与合作，传递出文化传承的温度。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.22,
+          "explanation": "虽有艺术创作的个体孤独感，但作品更强调匠人群像的协作。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "画作历经千年依然璀璨，象征着文化生命力的希望与延续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.85,
+          "explanation": "作品通过肢体表达，将质感、色彩和文化理念高度抽象化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "篇章结构层次分明，但核心意象明确，理解门槛适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.79,
+          "explanation": "引发对美、时间、创造与文明等深刻议题的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "以画作成形步骤为隐线，非强逻辑叙事，而是诗性递进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.78,
+          "explanation": "将画作诞生过程拟人化为舞蹈诗剧，表现手法极具原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "带观众探索宋代的工艺世界与文人的精神山水。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.58,
+          "explanation": "舞蹈语汇诗意且抽象，留有开放解读空间但主题不失焦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "非叙事性结构打破了常规预期，审美体验充满惊喜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "浓缩了大量关于传统工艺、书画美学与宋代文化的信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.88,
+          "explanation": "深入了解《千里江山图》的创作背景和中华传统工艺知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.25,
+          "explanation": "作品焦点在于集体文明创造，而非个人情感生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.15,
+          "explanation": "不强调人际互动，而侧重人与物、人与历史的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.35,
+          "explanation": "通过工匠群像展现了支撑艺术创作的社会分工体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.88,
+          "explanation": "核心视角是中华文明中的美学坐标与宋代文化成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.72,
+          "explanation": "舞台呈现了天人合一、人与自然交融的传统宇宙观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.78,
+          "explanation": "叙事横跨画作诞生的北宋与今人回望的广阔时间维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "基于真实的历史与艺术创作背景，非奇幻设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.20,
+          "explanation": "情感基调深沉内敛，非外向的快乐喜悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.52,
+          "explanation": "对历史往事与艺术磨砺的表达带有深沉的内化伤感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.25,
+          "explanation": "虽有高山流水的清寂感，但更强调精神上的共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.65,
+          "explanation": "舞者的专注与协作等细节传递出人文温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.00,
+          "explanation": "作品美学风格温和肃穆，不存在恐怖或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.42,
+          "explanation": "创作过程的专注探索具有一定的内在紧张感，但不外露。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.95,
+          "explanation": "作品对传统美学力量的呈现让人心生崇高与敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.75,
+          "explanation": "通过对宋代文化盛景的回望与重构，抒发怀古之思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.58,
+          "explanation": "传世文化的延续给未来带来希望，但基调是回溯而非展望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.60,
+          "explanation": "整体缓慢沉静的审美风格营造出淡淡的忧思氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品内容为纯粹的艺术与传承，不涉及愤怒情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "舞蹈与音乐创造出静谧深邃的内心平和体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.98,
+          "explanation": "服装、造型、身韵和构图都极致追求中国古典视觉之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.82,
+          "explanation": "舞台设计高度极简，以少胜多，集中注意力于舞蹈本身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.20,
+          "explanation": "非俗世富贵感，而是文化材质本身的高级与厚重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.30,
+          "explanation": "舞台灯光营造出博物馆展柜般的暗调氛围，但内核是光明的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "青绿主色调在暗背景下显得格外明亮，有古典的华彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.78,
+          "explanation": "虚实之间，画中仙山与匠人劳作交织，如梦如幻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.70,
+          "explanation": "古代制作工艺和天才少年王希孟的生平充满传奇与神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.65,
+          "explanation": "跨界将静态画论和工艺转化为舞蹈诗剧，形式上具有实验性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.92,
+          "explanation": "核心美学完全植根于宋代古典艺术文化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.55,
+          "explanation": "运用了现代舞台科技与编舞理念重塑传统古典美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.30,
+          "explanation": "无强烈的戏剧冲突和复杂情节，而是以篇章式结构推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "角色主要是功能化、象征化的，如‘青绿’代表色彩和意境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.20,
+          "explanation": "个体成长不明显，展现的是集体创作过程和美学成型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.75,
+          "explanation": "成功构建了一个连接宋代工艺现场与当代精神世界的独特时空。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.60,
+          "explanation": "现代展卷人与古代工匠在不同时空并置，结构非线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "节奏极慢，引导观众沉入古典时间观里的缓慢沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.10,
+          "explanation": "以缓慢、凝练的静态舞姿为主，极少有剧烈动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.25,
+          "explanation": "无外部对抗，冲突内化为艺术创作的孤独求索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "深入探讨了‘技近乎道’、物质与精神转化等东方哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.30,
+          "explanation": "作品强调集体智慧和传承，非个人英雄主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.65,
+          "explanation": "一幅画的背后是无数工匠的通力合作，体现了集体主义精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.10,
+          "explanation": "不涉及家庭伦理与亲情叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.00,
+          "explanation": "作品中没有表现基于个体情感的友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.00,
+          "explanation": "完全不涉及任何形式的爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.55,
+          "explanation": "呈现了围绕着皇家画院的工艺匠人社区形态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "艺术创作的目标是尽善尽美，而非相互竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.78,
+          "explanation": "制色、造笔、织绢等环节紧密相扣，极度依赖分工协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.30,
+          "explanation": "存在宫廷画院制度下的身份结构，但不是聚焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.82,
+          "explanation": "深度探寻了中华文化身份、艺术与匠人的存在价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "艺术表达在规范内追求极致自由，非外在行动自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.85,
+          "explanation": "舞蹈编排与工艺制作流程都体现了极致的严谨与秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.78,
+          "explanation": "指向艺术创作的真诚与材料本身的真实质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.98,
+          "explanation": "全剧将‘美’作为一种最高追求和终极价值进行歌颂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.75,
+          "explanation": "聚焦于创作出《千里江山图》这一伟大艺术成就的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.20,
+          "explanation": "不涉及社会公平正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.30,
+          "explanation": "穷尽心血、一生等一石的工匠精神隐含着奉献。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "通过回溯传统艺术，观众也进行着文化自我认知的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.92,
+          "explanation": "全剧是对中国传统文化、艺术和工艺的崇高礼赞与传承。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.42,
+          "explanation": "展现了颜料从矿物到青绿的神奇转化过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.10,
+          "explanation": "不涉及基本的生存斗争主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.84,
+          "explanation": "深刻追问何为不朽、何为文化生命的意义所在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "激发对古代工艺和文化背景的求知欲，但非主导行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.96,
+          "explanation": "作品的核心行为线就是艺术与工艺的创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "活动范围限于画院和文房，不存在探险属性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.88,
+          "explanation": "鼓励观众在静谧中进行文化反思与审美沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "作品中无任何形式的竞争或对抗行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "虽有群体协作场面，但体验本身是内省式的个人审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.90,
+          "explanation": "极致地展现了古代工匠的严格自律和对工艺的苛求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "行为上以平缓、稳定为主，无冒险或高危动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.92,
+          "explanation": "整体舞姿舒缓沉稳，持续向观众传递平静的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "提供了一种从现代快节奏中暂时抽离，进入古典意境的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.92,
+          "explanation": "高髻、青绿曳地长裙等视觉形象极具冲击力和辨识度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.95,
+          "explanation": "青绿色调层次极其丰富，且搭配了赭石、白等绘画基色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.72,
+          "explanation": "古琴、箫等传统乐器为主，配乐旋律性强且引人入胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.45,
+          "explanation": "整体节奏平稳舒缓，契合毛笔行运和篆刻的韵律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.96,
+          "explanation": "营造了极其浓郁、纯粹的宋代文人雅致氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.88,
+          "explanation": "通过视觉、听觉与安静氛围的综合作用，让人沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.92,
+          "explanation": "舞蹈演员的身体控制力与气场带来了强烈的现场感染力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "古典内敛的神态表情与克制身韵高度合一，传达出强大的精神性。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.98,
+          "explanation": "青绿形象通过‘青绿腰’等标志性肢体动作，将山水形态身体化。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.30,
+          "explanation": "演出形式为镜框式舞台，观众以静观为主，无直接互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.60,
+          "explanation": "动作在刚柔控制中充满内在张力，而非外在的激烈强度。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.90,
+          "explanation": "整个演出如同一场对艺术和文化的朝圣祭典，仪式感极强。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众经历了一场高度美学的精神净化过程。从喧嚣中抽离，在极度凝练的视觉与听觉中，先是感受到对古代工艺的赞叹，继而沉浸于山水意境带来的宁静，最终升华至对中华文化之美的敬畏与自豪。这不是一个情节驱动的故事体验，而是一种深层的情感共鸣与文化归属感。",
+        "structure_description": "作品以‘展卷’为引，通过制笔、淬墨等工艺步骤，将画作的创作过程解构为若干个仪式化的舞段。没有线性叙事高潮，篇章之间如山水画长卷般徐徐展开，形成一种‘积累式’的情感叠加结构，引导观众的情绪由浅入深，最终在‘入画’时达到物我两忘的极致美学高峰。",
+        "cognitive_expression": "作品要求观众主动进行符号解码和意义联想。由于没有对白和明确叙事，观众需要调动自身的古典文化知识去理解制墨、寻石的象征意义，并在高度的‘留白’和暗示中进行跨时空的精神对话。这训练了一种内省和顿悟式的审美认知方式。",
+        "behavioral_tendency_description": "作品鼓励观众采取一种‘静观’和‘聚焦’的行为模式，拒绝快节奏的信息刺激。观众被引导去培养内在的秩序感、对细节的耐心以及对长期价值而非即时满足的认同，表现出对传统工艺中‘慢工出细活’和追求极致完美行为的高度肯定。"
+      },
+      "personality_affinity": {
+        "Ni": 0.92,
+        "Ne": 0.42,
+        "Ti": 0.55,
+        "Te": 0.40,
+        "Fi": 0.55,
+        "Fe": 0.30,
+        "Si": 0.88,
+        "Se": 0.25,
+        "openness": 0.88,
+        "conscientiousness": 0.90,
+        "extraversion": 0.15,
+        "agreeableness": 0.65,
+        "neuroticism": 0.32,
+        "Assertive": 0.82,
+        "Turbulent": 0.28
+      },
+      "supporting_evidence": [
+        "全剧无对白，完全依靠舞蹈动作和舞台调度推进。",
+        "舞台背景为旋转的同心圆结构，配合极简的多媒体投影。",
+        "演员服装以青绿山水画中的石青和石绿色为主调。",
+        "作品持续展示研磨矿石、制作颜料、织绢、制笔等古代文具制作工序。",
+        "孟庆旸领舞的‘青绿’形象始终保持上身挺拔、动作凝练克制的姿态。",
+        "音乐大量使用古琴、古筝、箫和竹笛等传统民族乐器。",
+        "演出开篇展现了现代故宫展卷人与宋代王希孟在舞台上的相遇。",
+        "群舞场面中，舞者多次排列组合，呈现层峦叠嶂的山峰形态。",
+        "淬墨一章中，舞者模拟锤打和搅动墨汁的刚劲有力动作。",
+        "‘寻石’篇章重点描绘了在山崖间寻找并开采珍贵矿石的情节。",
+        "演员们的手部动作精细模拟了握笔、研墨、拉伸丝线的动态。",
+        "整体舞台灯光偏暗且色调柔和，模拟博物馆和晚间的静谧感。",
+        "‘入画’片段里，所有匠人逐渐退场，将舞台留给画作本身。",
+        "全剧反复强化从物质材料到永恒艺术的精神升华过程。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

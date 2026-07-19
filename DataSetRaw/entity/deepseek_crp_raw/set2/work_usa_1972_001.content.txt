@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1972_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "教父",
+        "type": "MOVIE",
+        "countryName": "USA",
+        "year": 1972,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.97,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "影片以战后美国为背景，围绕纽约黑手党柯里昂家族展开，讲述了老教父维托·柯里昂遭遇暗杀后，原本远离家族事务的幼子迈克尔·柯里昂被迫卷入黑帮世界，并在复仇与家族存续的压力下逐步完成权力交接与自我异化的史诗故事。导演科波拉将黑帮类型片提升为关于家庭、权力、移民、资本主义与美国梦的宏大悲剧，通过古典叙事、象征性构图与极度克制的表演，营造出沉重、宿命且具有仪式感的观影体验，成为新好莱坞时代最具文化影响力的作品之一。",
+        "themes": [
+          "家庭",
+          "权力",
+          "暴力",
+          "忠诚",
+          "背叛",
+          "美国梦",
+          "移民",
+          "男性气质",
+          "命运",
+          "道德堕落",
+          "资本主义",
+          "身份认同"
+        ],
+        "keywords": [
+          "柯里昂家族",
+          "黑手党",
+          "纽约",
+          "西西里",
+          "复仇",
+          "家族生意",
+          "地下秩序",
+          "教父",
+          "迈克尔·柯里昂",
+          "维托·柯里昂",
+          "洗礼",
+          "禁酒令时代"
+        ],
+        "core_experience": "观众在缓慢而沉重的叙事节奏中，亲历一个理想主义者如何在家族、暴力与权力的逻辑中逐步丧失道德底线，最终成为自己最初所抗拒之人，体验一种充满宿命感、仪式感与悲剧性的权力图景与伦理解体。",
+        "experience_introduction": "《教父》通过将黑帮家族史嵌入美国移民叙事与资本主义逻辑之中，使观众从一开始就被拉入一个以血缘和忠诚维系的封闭世界。影片利用极其克制的暴力、高度仪式化的家族场景以及持续存在的道德张力，将对暴力的恐惧转化为对家族命运的焦虑，从而让观众在共情、不安与悲悯之间反复摇摆，最终在权力完成传承时感受到深刻的失落与空虚。这种体验并非一般黑帮片提供的快感释放，而是一种缓慢的、不可避免的道德沉沦，使观众不断反思权力、家庭与自我异化的关系。"
+      },
+      "experience_vector": {
+        "passion": 0.32,
+        "healing": 0.05,
+        "awe": 0.75,
+        "nostalgia": 0.55,
+        "reflection": 0.88,
+        "romance": 0.18,
+        "tension": 0.82,
+        "warmth": 0.28,
+        "loneliness": 0.62,
+        "hope": 0.10
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.62,
+          "complexity": 0.78,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.58,
+          "novelty": 0.40,
+          "exploration": 0.35,
+          "ambiguity": 0.55,
+          "predictability": 0.48,
+          "information_density": 0.80,
+          "learning_value": 0.72
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.58,
+          "social_scale": 0.68,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.15,
+          "time_span": 0.52,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.12,
+          "sadness": 0.68,
+          "loneliness": 0.70,
+          "warmth": 0.30,
+          "fear": 0.55,
+          "tension": 0.82,
+          "awe": 0.72,
+          "nostalgia": 0.58,
+          "hope": 0.08,
+          "melancholy": 0.65,
+          "anger": 0.42,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.65,
+          "minimalism": 0.30,
+          "luxury": 0.55,
+          "darkness": 0.82,
+          "brightness": 0.15,
+          "dreamlike": 0.12,
+          "mystery": 0.48,
+          "experimental": 0.12,
+          "classical": 0.80,
+          "modern": 0.20
+        },
+        "narrative": {
+          "plot_complexity": 0.72,
+          "character_depth": 0.92,
+          "character_growth": 0.85,
+          "world_building": 0.62,
+          "nonlinear_structure": 0.35,
+          "slow_immersion": 0.78,
+          "action_intensity": 0.42,
+          "conflict_intensity": 0.82,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.48,
+          "collectivism": 0.58,
+          "family": 0.95,
+          "friendship": 0.48,
+          "love": 0.52,
+          "community": 0.32,
+          "competition": 0.72,
+          "cooperation": 0.38,
+          "power_relationship": 0.95,
+          "identity": 0.72
+        },
+        "value": {
+          "freedom": 0.28,
+          "order": 0.55,
+          "truth": 0.45,
+          "beauty": 0.35,
+          "achievement": 0.68,
+          "justice": 0.25,
+          "sacrifice": 0.72,
+          "self_exploration": 0.55,
+          "tradition": 0.72,
+          "change": 0.60,
+          "survival": 0.82,
+          "meaning": 0.58
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.08,
+          "adventure": 0.18,
+          "reflection": 0.88,
+          "competition": 0.78,
+          "social": 0.38,
+          "discipline": 0.68,
+          "risk": 0.72,
+          "calm": 0.68,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.72,
+          "color_richness": 0.55,
+          "sound_intensity": 0.42,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.92,
+          "immersion": 0.88
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.82,
+          "visual_storytelling": 0.85,
+          "soundtrack_importance": 0.70,
+          "actor_expression": 0.95,
+          "director_style": 0.88
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.32,
+          "explanation": "全片情绪控制极为克制，极少通过快速剪辑或配乐煽动观众情绪，激情体验较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "影片主题围绕暴力、背叛与道德堕落展开，未提供任何治愈性情感出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.75,
+          "explanation": "史诗叙事、古典构图与仪式化场景共同营造出对权力结构及其悲剧性的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "影片通过光影、配乐和对战后纽约的细致重建，持续唤起对逝去时代与旧式家族的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.88,
+          "explanation": "影片追问权力与道德的边界，迫使观众反复反思家庭、忠诚与人性堕落之间的关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.18,
+          "explanation": "浪漫爱情在片中始终处于边缘和工具性位置，从未成为叙事重心或情感核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.82,
+          "explanation": "持续存在的暗杀威胁与家族内部信任危机，使影片从头至尾弥漫着高度的心理紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.28,
+          "explanation": "家庭场景提供有限温情，但始终被权力计算和暴力阴影所侵蚀，温暖感不稳固。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.62,
+          "explanation": "迈克尔在权力顶端的孤立以及角色间无法弥合的信任裂痕，构成强烈的孤独体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.10,
+          "explanation": "影片结尾以谎言和隔离收束，未为人物或观众留下真正的希望空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.62,
+          "explanation": "影片大量运用象征手法如洗礼与谋杀并置，将具体暴力提升为关于权力本质的抽象思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.78,
+          "explanation": "多条家族线索、政治关联与商业逻辑交织，构建出层次丰富的复杂叙事网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "通过迈克尔从局外人到教父的转变，深入探讨人性、道德与制度性暴力的本质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.58,
+          "explanation": "情节推进遵循清晰的因果链条，但情感与道德逻辑凌驾于严格的推理结构之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.40,
+          "explanation": "影片将黑帮类型升华为家庭史诗，虽然在当时具有创新性，但其叙事模式后来被大量模仿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "影片聚焦于封闭世界的内部规则与心理变化，而非鼓励对未知领域的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "道德立场始终模棱两可，人物动机并非善恶二分，叙事拒绝提供明确答案。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.48,
+          "explanation": "整体叙事走向在古典悲剧框架内有一定可预见性，但具体情节转折仍具冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.80,
+          "explanation": "每一场戏都承载着人物关系、权力动态与象征含义等多层信息，信息密度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.72,
+          "explanation": "观众可从中获得关于移民史、美国黑帮政治生态以及权力心理学的深层认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "叙事核心始终是个人的道德选择与心理异化，家族命运通过个人转变来呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.58,
+          "explanation": "家族内部父子、兄弟、夫妻之间复杂的关系网络构成叙事的重要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.68,
+          "explanation": "影片触及警界、政界与好莱坞等社会机构的腐败，扩展了黑帮叙事的社会维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "通过移民视角和资本逻辑，影片将家族命运嵌入美国文明进程的暗面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "影片不涉及宇宙、超自然或人类整体命运的讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.52,
+          "explanation": "故事横跨数年，涵盖维托的晚年和迈克尔的崛起，时间跨度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "影片完全基于现实世界设定，无任何超自然或科幻元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.12,
+          "explanation": "影片几乎不提供任何单纯幸福的时刻，所有欢庆场景皆被死亡或背叛打断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "家族的衰落、亲人的死亡和迈克尔的道德沦丧，构成贯穿始终的深层悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.70,
+          "explanation": "权力的孤绝和信任的缺失，使迈克尔及其他角色始终处于深层孤独之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.30,
+          "explanation": "家庭团聚和西西里回忆带来短暂温暖，但常被暴力和疏离感所压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "持续的暗杀可能性和无处不在的背叛，营造出稳定的恐惧氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.82,
+          "explanation": "影片在大部分时间内维持着极高的心理紧张感，并通过交叉剪辑强化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.72,
+          "explanation": "教父的权威形象和叙事史诗感共同唤起一种对旧式权力体系的敬畏之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.58,
+          "explanation": "温暖的摄影、旧式家族价值观和配乐共同营造出对逝去时代的怀旧与感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.08,
+          "explanation": "迈克尔彻底堕落的结局封死了所有希望，未给观众留下积极展望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.65,
+          "explanation": "对家族昔日荣光的怀念与无可挽回的失落感，使影片弥漫着沉重的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.42,
+          "explanation": "复仇动机和频繁的背叛激起一定愤怒情绪，但整体基调更多是悲悯而非义愤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "影片几乎未提供任何平静的时刻，即使在安宁场景中也潜藏着危机感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.65,
+          "explanation": "摄影师戈登·威利斯采用古典主义光影，将暴力场景本身也处理为极具形式感的画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.30,
+          "explanation": "影片美术设计精细繁复，充满细节丰富的环境，不追求极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.55,
+          "explanation": "尽管核心人物并非时刻炫耀财富，但婚礼、办公室和家族庄园皆透出一种厚重的奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.82,
+          "explanation": "影片标志性的暗调摄影和大量阴影的运用，是其黑暗美学最突出的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "西西里段落和康妮婚礼提供了短暂明亮的对比，但总体视觉基调极度阴郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.12,
+          "explanation": "叙事紧扣现实逻辑，几乎不存在如梦似幻或超现实的表现手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.48,
+          "explanation": "影片在计谋和悬疑情节上有少量神秘感，但更强调宿命的必然性而非解谜过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.12,
+          "explanation": "影片坚持古典叙事和传统摄影法则，无先锋或实验性视听尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.80,
+          "explanation": "叙事结构、摄影和配乐均深受古典悲剧和好莱坞黄金时代史诗片的影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.20,
+          "explanation": "其心理刻画和道德模糊性体现了美国新好莱坞电影的部分现代性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.72,
+          "explanation": "涉及多家族冲突、好莱坞交易、毒品生意等多条紧密交织的情节线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.92,
+          "explanation": "迈克尔的心理转变被刻画得极为深入，维托、桑尼等角色同样具有复杂的内部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "迈克尔从理想主义的战争英雄到冷酷教父的转变，是电影史上最完整的道德异化弧之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.62,
+          "explanation": "影片成功构建了具有完整规则和内部阶层的黑手党地下世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.35,
+          "explanation": "整体以线性叙事为主，仅少量闪回用于建立背景，非线性程度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.78,
+          "explanation": "影片通过延长的仪式性场景和平稳的节奏，让观众缓慢沉浸于家族内部氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.42,
+          "explanation": "暴力场面虽然震撼但爆发时间短，影片核心并非动作奇观而是心理博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.82,
+          "explanation": "家族间的血腥复仇和家族内部的权力博弈构成极端激烈的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "影片持续探讨权力腐蚀人性的过程以及制度性罪恶与个人责任的边界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.48,
+          "explanation": "迈克尔最终服从家族意志，个人选择被家族结构裹挟，个人主义不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.58,
+          "explanation": "家族利益高于个人，但强烈的内外有别区分使得这种集体主义并非普世性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.95,
+          "explanation": "家庭是整个故事的核心驱动力、最高行动准则和最终悲剧根源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.48,
+          "explanation": "关系更多基于利益交换和从属地位，平等友谊在片中极为罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.52,
+          "explanation": "迈克尔对凯的爱情和维托对子女的爱，皆在权力逻辑下扭曲或牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.32,
+          "explanation": "家族以外的人要么是工具要么是敌人，缺乏真正的社区联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.72,
+          "explanation": "家族之间为地盘和生意展开残酷竞争，血缘内部亦存在权力角力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.38,
+          "explanation": "合作仅在服从教父权威时存在，本质上是从属关系而非平等协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "权力关系渗透在每一场对话和每一次行动中，是影片观察世界的核心透镜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.72,
+          "explanation": "迈克尔在"平民"与"黑帮"、美国身份与西西里血统之间的身份挣扎构成叙事主线之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.28,
+          "explanation": "进入家族意味着被命运束缚，迈克尔多次逃离未果，自由在片中难以实现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "黑手党世界内部存在严酷规则和等级秩序，但这种秩序最终服务于暴力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "影片揭示了权力运作的部分真相，但叙事本身更关注生存而非客观真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.35,
+          "explanation": "美学高度服务于叙事和主题表达，不将美本身作为独立追求的最高价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.68,
+          "explanation": "维托建立帝国和迈克尔巩固权力的过程，体现了对世俗成就的高度重视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "影片中的"正义"实为家族复仇和利益保护，社会公正几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.72,
+          "explanation": "角色反复为家族利益牺牲个人幸福、爱情乃至灵魂，牺牲是家族存续的基本代价。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "迈克尔的转变过程也是一场被迫的、痛苦的自我认知与身份探索之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.72,
+          "explanation": "西西里传统、家族仪式和美国移民社区的价值延续，是影片世界观的重要基石。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.60,
+          "explanation": "老教父去世和毒品生意的兴起标志着旧秩序的终结，变化具有不可抗拒的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.82,
+          "explanation": "在暴力和背叛的环境中生存下来，是所有角色的首要动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.58,
+          "explanation": "影片在麦克的虚无结局中提出意义之问，家族责任曾是意义的替代品但最终瓦解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "角色探索未知的欲望极弱，所有行为都围绕既有权力结构和复仇目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.08,
+          "explanation": "影片不涉及艺术创造或建设性行为，核心行动是夺取和维护控制权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.18,
+          "explanation": "故事并非以冒险精神驱动，角色更多是被动地进入危险处境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.88,
+          "explanation": "迈克尔及其他角色不断进行审慎的策略思考和道德权衡，反思是行动的前奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.78,
+          "explanation": "几乎所有互动都包含竞争性，从商业谈判到家族火并，处处充满对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.38,
+          "explanation": "社交活动在片中多为仪式化展示权力的手段，绝非轻松的日常人际交往。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.68,
+          "explanation": "黑手党务和麦克的计划均要求高度的自我控制和情感克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.72,
+          "explanation": "暗杀、家族复仇和商业扩张都包含巨大风险，角色频繁做出高风险决策。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.68,
+          "explanation": "影片推崇冷静、不动声色的行事方式，教父形象本身便象征着一种沉着的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "迈克尔试图逃离家族命运但以失败告终，影片不鼓励逃避现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.72,
+          "explanation": "标志性的暗调摄影、精确构图和对角色的特写，创造出强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "色彩方案偏向怀旧的金棕色和黑色，饱和度不高，以营造沉重氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.42,
+          "explanation": "影片运用了大量静默，配乐克制，激烈枪战也相对写实，听觉设计偏重氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "叙事节奏缓慢庄重，剪辑极少追求速度感，能量流动是沉稳低沉的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "影片最强大的力量在于其统一的沉重、宿命且具有压迫感的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.88,
+          "explanation": "细腻的表演、逼真的时代重建和连贯的情绪流，使观众极易沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.82,
+          "explanation": "影片具备史诗格局，跨越多个城市与国家，涉及大规模家族冲突，场面壮阔。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.85,
+          "explanation": "影片通过光影、构图和演员微表情来传达信息，而非依赖对白，视觉叙事能力极强。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.70,
+          "explanation": "尼诺·罗塔的配乐成为电影不可分割的一部分，极大地强化了怀旧与悲剧基调。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "马龙·白兰度和阿尔·帕西诺的表演定义了电影的深度，表演是影片成功最核心的元素。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.88,
+          "explanation": "科波拉将通俗小说提升为古典悲剧的导演功力，赋予影片统一而强烈的作者印记。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在缓慢而沉重的节奏中，被拉入以家庭和忠诚维系的封闭世界，体验一种高度凝聚的宿命感。随着叙事深入，对暴力和背叛的震惊逐渐转变为对人物悲剧命运的共情与不适，最终在权力交接完成时感受到深刻的道德空虚与失落。这种体验并非感官刺激或情感宣泄，而是像观看一场缓慢发生的坍塌，每一次选择都让主角离深渊更近一步。",
+        "structure_description": "影片采用古典三幕史诗结构，从盛大的家族婚礼展示旧秩序，到教父遇刺引发过渡，最终在迈克尔完成复仇并成为新教父时达到顶点。叙事通过平行剪辑和仪式化场景的并置，将私人暴力与公共庆典、个人堕落与家族延续紧密结合在一起，形成一个缜密的、充满对位的悲剧结构。",
+        "cognitive_expression": "作品鼓励观众进行高度的抽象思考，将黑帮家族史视为资本主义与权力逻辑的隐喻。观众需要不断整合分散在各家族线索中的信息，分析角色言行背后的潜台词与环境因果关系，同时被引导去反思道德、正义与生存之间的灰色地带，而非被动接受简单的善恶判断。",
+        "behavioral_tendency_description": "内容反复强化一种深沉的、克制的情感反应倾向与审慎的行动模式。影片对冲动行为往往施以毁灭性惩罚，推崇冷静、忍耐和长远谋划。它鼓励观众对家庭忠诚、对权力保持警惕，并不断进行自我审视，而不是倾向于冒险、宣泄或逃避现实。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.15,
+        "Ti": 0.58,
+        "Te": 0.78,
+        "Fi": 0.65,
+        "Fe": 0.42,
+        "Si": 0.55,
+        "Se": 0.25,
+        "openness": 0.72,
+        "conscientiousness": 0.80,
+        "extraversion": 0.22,
+        "agreeableness": 0.28,
+        "neuroticism": 0.52,
+        "Assertive": 0.35,
+        "Turbulent": 0.72
+      },
+      "supporting_evidence": [
+        "婚礼场景通过繁复的家族仪式，一次性展示了几乎所有主要角色及其权力位置。",
+        "影片开场于殡仪馆老板向教父求助，奠定了以交易换取保护的核心逻辑。",
+        "老教父维托因拒绝参与毒品生意而遭枪击，直接触发后续权力交接。",
+        "迈克尔在医院独自保护父亲，是他在影片中首次主动介入家族事务。",
+        "迈克尔在意大利餐厅处决毒贩索洛佐和腐败警长，完成了不可逆的身份转变。",
+        "西西里段落展现了迈克尔短暂的流亡与纯真爱情，随后以阿波罗尼亚被炸身亡结束。",
+        "桑尼在收费站遭伏击身中数十枪而亡，成为家族过度依赖暴力的惨痛代价。",
+        "老教父与迈克尔在花园中的对话，明确传递了权力交接的宿命感与家族期望。",
+        "影片结尾，迈克尔在妹妹康妮孩子的洗礼仪式上同时安排了对五大家族首领的处决。",
+        "最后一场戏中，凯目睹手下向迈克尔吻手并称其为教父，房门在她面前缓缓关闭。",
+        "摄影师戈登·威利斯使用顶光和大量暗影拍摄人物，常将角色双眼隐入黑暗。",
+        "影片调色偏向怀旧的金棕色与琥珀色，营造出沉重、封闭的年代感。",
+        "影片叙事完全围绕柯里昂家族展开，外部视角和非意大利裔角色极少获得叙事发言权。",
+        "音乐主题在不同文化场景中反复出现，强化了悲剧感和西西里怀旧情绪。",
+        "角色极少进行直接的心理独白，情感通过沉默、眼神和肢体细节传递。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

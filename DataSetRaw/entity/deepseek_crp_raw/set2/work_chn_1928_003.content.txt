@@ -1,0 +1,753 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1928_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "涛语",
+        "type": "LITERATURE",
+        "countryName": "中国",
+        "year": 1930,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "《涛语》是五四女作家石评梅去世后出版的散文与书信集。作品以极度私密而凄美的笔触，记录了她与革命家高君宇之间受制于时代悲剧与命运捉弄的爱情故事。文字在追忆、悼亡与自剖之间切换，交织着灵魂共鸣的狂喜与永失挚爱的悲哀，展现了新旧交替时代知识女性对爱情自由、人生意义的痛苦追问与幻灭。",
+        "themes": [
+          "爱情",
+          "死亡",
+          "悼亡",
+          "命运",
+          "理想与幻灭",
+          "五四女性精神",
+          "自由意志",
+          "悲痛",
+          "思念"
+        ],
+        "keywords": [
+          "石评梅",
+          "高君宇",
+          "书信集",
+          "散文",
+          "五四文学",
+          "女性文学",
+          "革命伴侣",
+          "陶然亭",
+          "象牙戒指",
+          "生死之恋"
+        ],
+        "core_experience": "读者在阅读过程中，将沉浸于一种极致的哀婉与凄清氛围。作品带来的核心体验是一种深切的精神痛感：既有对纯真爱情逝去的无限追怀，也有对生命无常和命运残酷的孤独咀嚼，以及在黑暗时代中理想主义火种被冷雨浇灭的悲凉。",
+        "experience_introduction": "《涛语》通过书信与散文这一最为直接和坦诚的文体，将读者拉入作者内心最私密的领地。作品不仅呈现了一段刻骨铭心的爱情悲剧，更像是一篇漫长的精神独白。读者通过作者细腻而悲伤的笔触，直接触摸到了生命的脆弱、爱的执着与命运的无常，体验着知识青年在时代裂谷中精神漂泊与无处安放的情感伤痛。"
+      },
+      "experience_vector": {
+        "passion": 0.9,
+        "healing": 0.05,
+        "awe": 0.1,
+        "nostalgia": 0.8,
+        "reflection": 0.9,
+        "romance": 0.85,
+        "tension": 0.3,
+        "warmth": 0.5,
+        "loneliness": 0.95,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.45,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.3,
+          "novelty": 0.35,
+          "exploration": 0.2,
+          "ambiguity": 0.3,
+          "predictability": 0.7,
+          "information_density": 0.5,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.9,
+          "social_scale": 0.4,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.15,
+          "time_span": 0.2,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 1.0,
+          "loneliness": 0.95,
+          "warmth": 0.4,
+          "fear": 0.15,
+          "tension": 0.35,
+          "awe": 0.1,
+          "nostalgia": 0.8,
+          "hope": 0.1,
+          "melancholy": 0.9,
+          "anger": 0.25,
+          "peace": 0.1
+        },
+        "aesthetic": {
+          "beauty": 0.85,
+          "minimalism": 0.55,
+          "luxury": 0.05,
+          "darkness": 0.8,
+          "brightness": 0.1,
+          "dreamlike": 0.4,
+          "mystery": 0.3,
+          "experimental": 0.1,
+          "classical": 0.65,
+          "modern": 0.25
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.9,
+          "character_growth": 0.15,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.3,
+          "slow_immersion": 0.85,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.8,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.15,
+          "family": 0.15,
+          "friendship": 0.4,
+          "love": 1.0,
+          "community": 0.15,
+          "competition": 0.0,
+          "cooperation": 0.1,
+          "power_relationship": 0.1,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.65,
+          "order": 0.1,
+          "truth": 0.7,
+          "beauty": 0.85,
+          "achievement": 0.1,
+          "justice": 0.2,
+          "sacrifice": 0.6,
+          "self_exploration": 0.9,
+          "tradition": 0.15,
+          "change": 0.2,
+          "survival": 0.3,
+          "meaning": 0.9
+        },
+        "behavior": {
+          "curiosity": 0.15,
+          "creation": 0.35,
+          "adventure": 0.1,
+          "reflection": 1.0,
+          "competition": 0.0,
+          "social": 0.1,
+          "discipline": 0.2,
+          "risk": 0.2,
+          "calm": 0.1,
+          "escape": 0.6
+        },
+        "sensory": {
+          "visual_intensity": 0.2,
+          "color_richness": 0.3,
+          "sound_intensity": 0.15,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.85,
+          "language_artistry": 0.9,
+          "symbolism": 0.7,
+          "rhetorical_complexity": 0.55,
+          "intellectual_depth": 0.75,
+          "cultural_depth": 0.65,
+          "knowledge_density": 0.45,
+          "interpretation_openness": 0.55
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.9,
+          "explanation": "作品中流露的情感极为强烈，无论是爱还是痛都毫无保留地倾泻于笔端。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "整体基调是痛苦的追忆与幻灭，几乎没有提供任何抚慰或治愈的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "作品更聚焦于个人情感创伤，而非宏大事物引发的惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.8,
+          "explanation": "对逝去恋人和过往甜蜜片段的深切怀念贯穿全书。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "文字促使读者跟随作者一起对爱情、生死、命运进行深沉的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.85,
+          "explanation": "核心内容是一段超越世俗、刻骨铭心的爱情故事，具有强烈的浪漫主义色彩。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.3,
+          "explanation": "冲突更多是内心的挣扎和命运的压迫，而非外在情节的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.5,
+          "explanation": "回忆中有过真挚的温暖，但被死亡和哀悼的寒冷所笼罩。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.95,
+          "explanation": "生离死别后的孑然一身以及精神上的不被理解带来了极致的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "作品中更多是对绝望的书写和对理想世界破灭的哀叹，希望渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "虽然有具体的叙事和书信，但情感的抒发和意象的营造使其具有一定的抽象性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "主题深刻但表达直抒胸臆，结构并不追求复杂的精巧设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "对生命、死亡、爱情等终极问题进行了严肃且深刻的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.3,
+          "explanation": "散文和书信体的编排不以逻辑论证为框架，更多是情感和思绪的自然流动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "在五四时代具有女性自我书写的先进性，但主题本身是永恒的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.2,
+          "explanation": "聚焦于内心世界和回忆，没有向外部未知世界进行探索的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.3,
+          "explanation": "情感表达直接而激烈，指向明确，没有给读者留下太多模糊的解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.7,
+          "explanation": "书信的追忆性质使得结局早已注定，情节发展是可预见的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.5,
+          "explanation": "主要以密集的情感信息为主，事实性信息的密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "读者可借此了解五四时代知识分子的独特精神世界与情感困局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "作品的核心世界是作者个人的情感、记忆与内心独白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.9,
+          "explanation": "与高君宇的恋爱关系是构建全部内容的基础。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.4,
+          "explanation": "作品指涉了新旧时代交替的社会背景，但并非分析和建构的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "几乎不涉及对文明演进或宏大体系的讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "对生死的思考偶尔触及宇宙天地，但重心始终在个体命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "叙事时间集中在作者有限的生命和短暂的相知相恋阶段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "高度写实的自传性作品，无任何虚构或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "快乐在作品中只是短暂的回忆点缀，被巨大的痛苦所淹没。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 1.0,
+          "explanation": "悲伤是作品最主导性的核心情绪基调，无处不在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.95,
+          "explanation": "角色承受着爱人离世后深刻的孤独感与隔世之感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.4,
+          "explanation": "通过往事的回忆传递出曾经的温暖，但很快被现实的冰冷取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "作品中没有刻意营造恐怖或惊吓，更多的是对命运的畏惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.35,
+          "explanation": "内在的情绪冲突和对渴望不可得的焦虑带来了一些紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "个人抒情式的笔触并非旨在激发读者的敬畏之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.8,
+          "explanation": "对逝去年华和无缘的爱恋充满了浓厚的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "作品描写的是彻底的失去和理想的破灭，希望之光微乎其微。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.9,
+          "explanation": "一种感伤、沉思且挥之不去的忧愁感是作品的美学标签。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "偶尔会流露出对命运不公的激愤和对社会桎梏的不满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.1,
+          "explanation": "整个作品处于极度不平复的情感风暴中，离平静相去甚远。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.85,
+          "explanation": "文笔优美凄婉，有意营造一种悲剧性的、令人心碎的审美境界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "书信体的直接和散文的白描具有一定的简洁性，装饰不多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "内容与风格均与奢华、富丽堂皇毫无关联。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.8,
+          "explanation": "充斥着死亡、孤寂、长夜等黑暗意象，整体色调昏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.1,
+          "explanation": "整体情绪和氛围极度阴郁，缺乏明亮轻快的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.4,
+          "explanation": "对往事的回忆和哀悼有时带有恍若隔世的梦幻与不真实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.3,
+          "explanation": "命运本身的神秘感存在，但叙事方式是自我剖白而非制造谜团。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "属于经典的白话散文和书信写作，在形式上算不上前卫实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.65,
+          "explanation": "带有古典文学中哀而不伤的气质和传统文人的感时伤怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.25,
+          "explanation": "突破旧礼教、坦露个人情感，具有五四现代女性的精神特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "没有复杂的故事情节，主要由情绪片段和片段式回忆构成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.9,
+          "explanation": "对作者自身（叙述者）的内心世界挖掘得极其深刻和丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "人物更多地是停滞在巨大的悲痛中，而非实现成长或蜕变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "完全没有构建虚构世界，背景是简单的现实生活场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.3,
+          "explanation": "思绪在现在与回忆之间跳跃，但不构成复杂的非线性叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.85,
+          "explanation": "作品节奏缓慢，情感浓度的构建是渐进而深沉的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "全书没有任何肢体动作或外在事件的激烈碰撞。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.8,
+          "explanation": "内心情感与命运、理想与现实之间的矛盾冲突极为激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "作品大量融入对生命、死亡、自由、爱情等哲学命题的思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.6,
+          "explanation": "基于个人情感和内心世界，追求爱与自我表达的权利。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "几乎不涉及群体、集体或社会的共同目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "家庭在作品中并非核心关系，更多是作为社会背景被暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.4,
+          "explanation": "作品是写给友人或借友人编辑而成，存在知己之情，但次于爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 1.0,
+          "explanation": "爱情是全书的绝对核心，构成了所有情感表达的本源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.15,
+          "explanation": "几乎不存在对公共社群或社会团体的关注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "完全不存在任何形式的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "没有需要多方协作的目标或行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.1,
+          "explanation": "不关注权力结构，除非将命运视为一种绝对力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "作品中反复拷问‘我是谁’、‘爱人死后我该如何存在’等身份认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.65,
+          "explanation": "展现了五四一代对打破包办婚姻、追求个人情感自由的渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "内心世界因爱人的离世而失序，对传统秩序也无好感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.7,
+          "explanation": "作品以求真求诚的态度进行自我解剖，追求情感的真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "将美视为至高追求，特别是将爱情和文字本身作为美的载体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "不宣扬世俗的成功、功名或事业上的成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.2,
+          "explanation": "社会正义并非作品的主题，更多是对个人命运不公的控诉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.6,
+          "explanation": "高君宇为革命和爱情献身，石评梅为逝去的爱殉葬自己的余生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "全书就是一场漫长、痛苦且极致的自我内心探索之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "对压制人性的封建旧传统充满批判和反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.2,
+          "explanation": "作品本身记录的是‘不变’的绝境，而非拥抱变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.3,
+          "explanation": "涉及生死，但重点不是‘如何生存’，而是‘为何失去’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.9,
+          "explanation": "在爱人死后苦苦追寻生命的终极意义，是对虚无主义的一场搏斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.15,
+          "explanation": "驱使行为的内在动力是情感修复而非求知探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "写作本身是一种创造，用以承载和抒发无处安放的思念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "行为上没有任何冒险或探索外部世界的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 1.0,
+          "explanation": "内省、反思、回顾是贯穿全书的唯一也是全部的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "无任何竞争性行为的描写或导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "作品展现的是一种自我封闭和隔绝的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "生活虽自律但并非为了达成某种外部目标，更多是惯性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "不涉及风险决策或冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "全书始终处于内在情感的惊涛骇浪中，与平静稳定无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.6,
+          "explanation": "有明显的想要逃避现实、遁入回忆和死亡幻想的心理倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.2,
+          "explanation": "作为文字作品，其视觉冲击力低于对内心景象的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.3,
+          "explanation": "色调主要偏于冷色系的黑、白、灰，色彩并不丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.15,
+          "explanation": "自然界的声音如‘涛语’作为象征出现，但并非强烈的声效。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "节奏是缓慢、迟滞且忧伤的，能量向内收敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "营造了一种极具感染力的凄清、哀婉、幽邃的总体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "真挚而私密的文体极易使读者沉浸入作者的情感世界。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.85,
+          "explanation": "具有五四散文的典型特征，风格凄美、典雅且个性化。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.9,
+          "explanation": "遣词造句优美深情，通过精致的语言将悲痛升华为艺术。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.7,
+          "explanation": "运用‘涛语’、‘象牙戒指’等意象，使文字蕴含深远的象征意味。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.55,
+          "explanation": "运用比喻、排比、反复等修辞，但整体修辞手法并不艰涩奇特。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.75,
+          "explanation": "对生死问题和价值观念的探讨达到了相当的思想高度。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.65,
+          "explanation": "作品深深扎根于五四新文化运动的土壤中，具有时代文化的厚度。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.45,
+          "explanation": "不以传递系统知识为目的，知识密度适中，以情感表达为主。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.55,
+          "explanation": "作者心意明确，但生死与情感的多义性仍留有一定的解读空间。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者将经历一场深沉的悲伤之旅，感受到爱情的壮丽与生命的脆弱。核心体验是在极致的孤独中，伴着凄切优美的文字，咀嚼永失挚爱的痛苦与命运的无常，仿佛在黑暗的夜里听着微弱的涛声，绝望又清醒。",
+        "structure_description": "作品以书信和散文为载体，打破线性时间，在记忆与现实间自由穿梭。这种结构模拟了人类思念和哀悼的自然过程：断裂、重复、碎片化，情感的高潮往往寓于静谧的细节之中，而非外在事件的转折。",
+        "cognitive_expression": "作品鼓励的是深度的内心自省而非外向观察。认知活动集中在情感记忆的回放、生命意义的思辨以及自我身份的重新界定上。读者需调动高敏感度的共情能力去理解文本中隐含的，远超于文字的复杂情感结构。",
+        "behavioral_tendency_description": "文本唤起的行为倾向是向内的、反思性的。它促使读者对外部世界的喧嚣感到疏离，转而寻求独处、自省和记录内心。作品鼓励一种内敛、沉思、甚至带有一定逃避主义色彩的情感处理方式。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.1,
+        "Ti": 0.35,
+        "Te": 0.05,
+        "Fi": 0.98,
+        "Fe": 0.15,
+        "Si": 0.85,
+        "Se": 0.02,
+        "openness": 0.5,
+        "conscientiousness": 0.25,
+        "extraversion": 0.05,
+        "agreeableness": 0.4,
+        "neuroticism": 0.98,
+        "Assertive": 0.0,
+        "Turbulent": 1.0
+      },
+      "supporting_evidence": [
+        "作品收录了石评梅写给已故恋人高君宇的大量书信。",
+        "全书基调悲伤，充满了对死去爱人的深切怀念与悼亡之情。",
+        "文字多描绘寂静的深夜、空旷的陶然亭等凄清场景。",
+        "作品诞生于五四新文化运动落潮后，作者一代感到普遍的精神苦闷。",
+        "石评梅在文中反复表达了对命运无常的控诉和对生死的质疑。",
+        "散文和书信详细记录了作者内心极度的孤独感和幻灭感。",
+        "高君宇赠送的‘象牙戒指’是贯穿文本的核心情感象征物。",
+        "作品表现出对封建旧道德、旧礼教的强烈不满与反叛意识。",
+        "作者在思念爱人时时常流露出希望追随爱人于地下的倾向。",
+        "文本回忆了许多与高君宇交往的具体细节，表达了对往日温暖的留恋。",
+        "全书具有浓厚的自传色彩，是石评梅真实生活和情感的艺术结晶。",
+        "文字凄婉、冷艳，运用了丰富的意象来美化自身的悲剧。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

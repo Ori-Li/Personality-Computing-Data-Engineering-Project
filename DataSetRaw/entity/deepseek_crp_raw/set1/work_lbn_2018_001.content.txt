@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_lbn_2018_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "何以为家",
+        "type": "MOVIE",
+        "countryName": "黎巴嫩",
+        "year": 2018,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "影片以近乎纪录片的手法，讲述黎巴嫩贫民窟12岁男孩赞恩在极度贫困和家庭暴力中挣扎求生后，以“父母生下了我”为由起诉父母的故事。叙事聚焦于底层儿童的生存困境、难民身份带来的无根状态以及原生家庭中不负责任的生育对下一代造成的苦难。通过手持摄影和大量非职业演员的真实表演，营造出强烈的临场感和压迫感，深刻拷问了生育伦理、社会制度和人性的底线。",
+        "themes": [
+          "成长",
+          "家庭",
+          "社会制度",
+          "身份认同",
+          "正义",
+          "生存",
+          "童年",
+          "道德",
+          "苦难",
+          "责任"
+        ],
+        "keywords": [
+          "黎巴嫩",
+          "贫民窟",
+          "难民",
+          "儿童",
+          "起诉父母",
+          "生育",
+          "生存挣扎",
+          "纪实风格",
+          "底层社会",
+          "原生家庭"
+        ],
+        "core_experience": "观众跟随赞恩的视角，沉浸式地体验一种被剥夺了童年、爱与安全感的生存式人生。整体认知与情绪体验是持续的压抑、愤怒与无力感，其间穿插着微弱的抵抗和短暂的温情，最终化作一种道德层面的震惊与沉痛反思。",
+        "experience_introduction": "影片通过高度写实的影像和孩童纯真又绝望的视角，将观众彻底拉入黎巴嫩底层的社会现场。观众被迫直面赞恩日复一日的生存挣扎，感受他在家庭暴力、社会排斥和法律缺位中所承受的肉体和精神痛苦。这种持续累积的压抑感与偶尔闪现的人性微光，共同塑造出一种混合着愤怒、同情、绝望与微弱希望的深刻共情体验，并在结尾的法庭质问中达到道德与情感的高潮，迫使观众思考苦难的根源何在。"
+      },
+      "experience_vector": {
+        "passion": 0.68,
+        "healing": 0.08,
+        "awe": 0.15,
+        "nostalgia": 0.05,
+        "reflection": 0.92,
+        "romance": 0.0,
+        "tension": 0.88,
+        "warmth": 0.12,
+        "loneliness": 0.85,
+        "hope": 0.22
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.62,
+          "depth_of_thought": 0.88,
+          "logical_structure": 0.55,
+          "novelty": 0.72,
+          "exploration": 0.58,
+          "ambiguity": 0.15,
+          "predictability": 0.78,
+          "information_density": 0.75,
+          "learning_value": 0.85
+        },
+        "worldview": {
+          "personal_scale": 0.92,
+          "relationship_scale": 0.78,
+          "social_scale": 0.88,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.1,
+          "time_span": 0.35,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.02,
+          "sadness": 0.95,
+          "loneliness": 0.9,
+          "warmth": 0.08,
+          "fear": 0.45,
+          "tension": 0.88,
+          "awe": 0.12,
+          "nostalgia": 0.0,
+          "hope": 0.18,
+          "melancholy": 0.75,
+          "anger": 0.9,
+          "peace": 0.02
+        },
+        "aesthetic": {
+          "beauty": 0.15,
+          "minimalism": 0.85,
+          "luxury": 0.0,
+          "darkness": 0.95,
+          "brightness": 0.05,
+          "dreamlike": 0.0,
+          "mystery": 0.0,
+          "experimental": 0.15,
+          "classical": 0.3,
+          "modern": 0.72
+        },
+        "narrative": {
+          "plot_complexity": 0.42,
+          "character_depth": 0.88,
+          "character_growth": 0.78,
+          "world_building": 0.82,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.25,
+          "conflict_intensity": 0.92,
+          "philosophical_depth": 0.88
+        },
+        "social": {
+          "individualism": 0.65,
+          "collectivism": 0.42,
+          "family": 0.92,
+          "friendship": 0.25,
+          "love": 0.55,
+          "community": 0.35,
+          "competition": 0.05,
+          "cooperation": 0.12,
+          "power_relationship": 0.6,
+          "identity": 0.78
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.1,
+          "truth": 0.82,
+          "beauty": 0.05,
+          "achievement": 0.05,
+          "justice": 0.88,
+          "sacrifice": 0.75,
+          "self_exploration": 0.25,
+          "tradition": 0.08,
+          "change": 0.72,
+          "survival": 0.98,
+          "meaning": 0.82
+        },
+        "behavior": {
+          "curiosity": 0.18,
+          "creation": 0.08,
+          "adventure": 0.05,
+          "reflection": 0.92,
+          "competition": 0.05,
+          "social": 0.1,
+          "discipline": 0.08,
+          "risk": 0.65,
+          "calm": 0.02,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.82,
+          "color_richness": 0.25,
+          "sound_intensity": 0.6,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.92,
+          "immersion": 0.88
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.25,
+          "visual_storytelling": 0.9,
+          "soundtrack_importance": 0.55,
+          "actor_expression": 0.98,
+          "director_style": 0.88
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.68,
+          "explanation": "主人公强烈的求生欲和反抗精神贯穿全片，使得整体情绪基调充满压抑下的激烈挣扎。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.08,
+          "explanation": "作品几乎不存在抚慰性元素，唯一的短暂温情也被随之而来的更大苦难迅速击碎。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "影片旨在引发共情与反思，而非制造视觉或叙事上的惊奇与赞叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "故事聚焦于当下的生存危机，缺乏任何对过往美好岁月的怀念和追忆成分。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "法庭控诉的设定以及大量展现生存困境的细节，强烈地引导观众思考社会结构与道德责任的深层问题。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品中不存在任何浪漫关系或相关情节元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.88,
+          "explanation": "持续的生存威胁、暴力冲突和不确定的命运构成了一种高度紧张的观影环境。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.12,
+          "explanation": "除了赞恩对妹妹和婴儿的短暂呵护外，全片普遍缺乏情感上的温暖与舒适。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "赞恩独自面对世界的恶意与冷漠，被家庭遗弃、被社会隔绝的孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.22,
+          "explanation": "结尾虽然暗示了一丝法律层面的胜利，但整体叙事的绝望感远大于对未来的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "影片采用极度写实的手法，表意直接，几乎不依赖象征或隐喻表达，抽象程度较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "虽然情节简单，但人物所处的社会环境和道德困境交织，构成了中等偏上的认知复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.88,
+          "explanation": "故事引导观众深入探讨存在、责任、伦理与制度的合法性，具有极强的哲学思辨潜力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "叙事以线性时间为主，因果链条清晰，逻辑结构服务于情感冲击而非复杂推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.72,
+          "explanation": "以“孩童起诉父母”的独特法律视角，结合半纪录片式的拍摄手法，在主题和表达上具有创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.58,
+          "explanation": "影片带领观众深入探索一个被主流媒体忽视的黎巴嫩底层社会，具有社会与心理层面的发现感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "故事的表意和道德立场清晰而坚定，几乎没有任何模糊不清或需要多重解读的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.78,
+          "explanation": "在极端贫困环境下的生活轨迹和悲剧性后果具有较强的宿命感，但人物的韧性使细节不完全俗套。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "大量展现底层生活、社会规则和儿童心理的细节，在有限片长内传递了高密度的社会与人道信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.85,
+          "explanation": "作品提供了关于黎巴嫩社会结构、难民儿童权利和极端生存状态的深刻知识，具有很高的认知启迪价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.92,
+          "explanation": "故事几乎完全专注于主人公赞恩个人的生存体验、情感变化和道德选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.78,
+          "explanation": "家庭内部的亲子、兄妹关系以及与同样处于社会底层的个体间联结是叙事的核心驱动力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.88,
+          "explanation": "影片深刻地揭示了将赞恩困于绝境的社会结构，包括难民制度、司法系统和贫富差距。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "影片间接地触及了文明冲突和宗教议题作为背景，但并非叙事的核心焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "故事完全立足于现实社会问题，未涉及任何宇宙或超越人类文明层面的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "叙事时间跨度较短，仅聚焦于赞恩童年时期的一段短暂经历，未展开长久的历史演进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "作品是一个基于真实社会背景的写实故事，不含任何幻想、科幻或魔幻元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.02,
+          "explanation": "影片没有任何纯粹快乐的时刻，所呈现的短暂笑容背后都是更深的苦涩与无奈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.95,
+          "explanation": "主人公的悲惨遭遇、频繁的失去与无处不在的苦难，使得深沉的悲哀成为最主要的情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.9,
+          "explanation": "被原生家庭抛弃后独自在社会底层求生的经历，极大地强化了孤立无援的情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.08,
+          "explanation": "赞恩拼死保护未满一岁婴儿的情节是仅有的暖色，但此关系本身也是绝境下的产物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.45,
+          "explanation": "主要情绪是愤怒与悲伤，恐惧感更多内化为对生存压力的习惯性焦虑，而非突发惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.88,
+          "explanation": "无处不在的暴力威胁、法律风险与持续恶化的生存状态，构建了持续的压迫性心理紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.12,
+          "explanation": "影片不追求宏大场面，而是着重展现残酷现实，因此几乎不引发敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.0,
+          "explanation": "作品中没有对过去的怀念，角色被迫只关注如何活过当下，童年本身已被毁灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.18,
+          "explanation": "虽然结局有所行动，但影片整体传递的绝望和对系统失灵的无助感压倒了希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.75,
+          "explanation": "在激烈的愤怒和悲伤之下，弥漫着一种对失去的纯真和无法改变现状的深沉忧郁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.9,
+          "explanation": "赞恩对父母和世界的强烈控诉，以及叙事的批判性视角，使得愤怒成为核心情绪输出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.02,
+          "explanation": "持续的生存压力和冲突使平静与安宁成为叙事的对立面，几乎不可能存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.15,
+          "explanation": "影片刻意回避了视觉上的美化，以粗粝、肮脏、混乱的贫民窟真实景象构建审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "采用自然光、实景拍摄和简洁的叙事剪辑，剥离了所有不必要的修饰和艺术化处理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "全片场景都设定在极端贫穷的环境，与奢华、富裕的概念完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.95,
+          "explanation": "无论是视觉上的昏暗色调，还是内容上的绝望与压抑，黑暗感是其最显著的美学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "视觉和主题上都极其压抑，几乎没有明亮、积极或欢快的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.0,
+          "explanation": "影片追求极致的现实主义，与任何梦幻、超现实或风格化的表达完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.0,
+          "explanation": "故事将社会问题完全摊开，叙事清晰直接，不存在任何悬疑或神秘元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "虽然融合了纪录片手法，但其核心仍是经典的戏剧叙事结构，实验性不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.3,
+          "explanation": "并未遵循好莱坞古典叙事，而是更贴近意大利新现实主义的传统，在经典维度上属中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.72,
+          "explanation": "采用手持摄影、非职业演员和关注当下社会尖锐议题等方法，具有很强的现代主义批判精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.42,
+          "explanation": "故事线相对简单，主要通过一系列生存事件的串联来推进，无复杂的多线或嵌套结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.88,
+          "explanation": "赞恩的形象超越了简单的儿童角色，展现出与其年龄不符的世故、责任感与道德决断力，层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.78,
+          "explanation": "在绝境中，赞恩从被动忍受苦难发展到主动发起反抗与控诉，完成了从受害者到发声者的身份转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.82,
+          "explanation": "影片成功构建了黎巴嫩贫民窟的完整社会生态系统，包括其内部规则、非法经济链条和人际网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "影片以法庭场景为开端再倒叙展开，但主体叙事严格遵循线性时间进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "通过大量的日常细节和长镜头跟拍，让观众缓慢地、不可抗拒地沉浸于角色所处的窒息环境中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.25,
+          "explanation": "冲突多表现为生存挣扎和心理压迫，缺乏快节奏的、编排性的身体动作场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.92,
+          "explanation": "主人公与父母、房东、雇主乃至整个社会制度之间的对抗激烈、尖锐且不可调和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "整个故事是一份关于“生命权”的哲学起诉书，深刻探讨了生育的伦理边界和个体存在的尊严问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.65,
+          "explanation": "赞恩在绝境中主要依靠自己的力量求生存，其抗争行为本质上是个人主义的英雄主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.42,
+          "explanation": "虽有底层人群的盲目抱团，但普遍是家庭或小团体自保，缺乏有组织的集体行动和文化认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.92,
+          "explanation": "破碎、功能失调的原生家庭是其一切苦难的根源，也是叙事的绝对中心和批判对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.25,
+          "explanation": "同伴关系在片中非常薄弱，与埃塞俄比亚女工的联结更像是基于生存需要的临时同盟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.55,
+          "explanation": "赞恩对妹妹和婴儿表现出的保护欲是其人性中爱的体现，但这爱带有巨大的伤痛和牺牲性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.35,
+          "explanation": "贫民窟社群展示出一种扭曲的共生关系，缺乏真正具有凝聚力和支持性的社区关怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "影片不存在竞技或竞争的主题，角色间的冲突源自压迫和生存，而非地位或资源的直接竞赛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.12,
+          "explanation": "合作行为稀少且脆弱，多数互助关系都因外部环境的残酷而迅速瓦解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.6,
+          "explanation": "影片清晰展现了成年人对儿童、强者对弱者、有权者对无权者的系统性权力压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.78,
+          "explanation": "难民身份、家庭角色缺失与过早承担社会责任，使得赞恩的自我身份认同成为核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "赞恩的一切行为动机都是为了挣脱苦难的束缚，追求身体和意志不被奴役的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "现有法律和社会秩序对赞恩完全是失灵的，因此影片对既有秩序持强烈的否定和批判态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.82,
+          "explanation": "影片具有强烈的现实主义追求，旨在揭露社会的残酷真相，并赞扬角色对真实的勇敢面对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "作品的主题并非寻求美学享受，传统意义上的美在其中几乎不存在或被刻意回避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "故事核心是生存而非成功，传统的个人成就概念在此极端环境下毫无意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.88,
+          "explanation": "通过法律起诉的方式寻求公正，并对未遂的正义进行揭露和谴责，是影片最核心的价值表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.75,
+          "explanation": "赞恩为保护妹妹和抚养婴儿付出了巨大的个人代价，牺牲是其人性光辉的主要体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.25,
+          "explanation": "赞恩的核心任务是外在的生存抗争，而非内省的自我探索，其认知更多地固着于外部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.08,
+          "explanation": "作品对诸如童婚等传统习俗持尖锐批判立场，毫无维护或颂扬传统的意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.72,
+          "explanation": "影片本身就是通过发声来呼吁社会变革的工具，角色的行为也体现了试图改变命运的强烈意愿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.98,
+          "explanation": "在恶劣的环境中想方设法活下去，是角色所有行为的根本驱动，构成作品的终极主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.82,
+          "explanation": "故事迫使观众和角色一同追问，在毫无尊严的苦难中生存是否有意义，以及如何证明自己的存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.18,
+          "explanation": "角色的行为由生存需求驱动，几乎没有闲暇和心境去展现对未知世界的好奇与探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.08,
+          "explanation": "影片不涉及艺术、技术或思想上的创造活动，角色的行为集中于应对和解决眼前问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "角色的移动是逃亡和求生，并非寻求新奇刺激的冒险，没有兴奋感和探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.92,
+          "explanation": "观看影片的整个过程都在促使观众进行深刻的自我反思和社会批判性思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "作品中没有以竞赛、比较或超越他人为目标的行为，对抗是为了尊严和生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "描绘的是一个社交网络被恶劣环境摧毁的世界，积极的社交行为极度匮乏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.08,
+          "explanation": "赞恩有强烈的责任感，但其行为是在混乱状况下的应变，缺乏体系化的纪律训练。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.65,
+          "explanation": "赞恩不断做出高风险的求生决策，如离家出走、偷窃和贩卖违禁药物，这些行为是他唯一的选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.02,
+          "explanation": "环境高度动荡，情绪持续紧张，没有任何让角色或观众保持平静、松弛的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "赞恩的目标是逃离不幸的现状，但叙事始终逼迫他直面现实，而非提供任何形式的逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.82,
+          "explanation": "手持摄影、拥挤肮脏的场面和直接的暴力呈现，带来了强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "色彩基调以灰暗、土黄和浑浊为主，缺乏鲜明或丰富的色彩表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.6,
+          "explanation": "嘈杂的街道声、争吵声与小孩的哭喊声构成了主要的听觉环境，声音层次丰富，加强了写实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "叙事节奏随着赞恩的挣扎而起伏，在低沉的压抑中时常爆发出强烈的情感能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "环境、声音、表演与叙事完美统一，塑造出极致的压抑与绝望氛围，这是影片最强大的力量之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.88,
+          "explanation": "写实手法使得观众迅速忘记这是表演，仿佛被直接抛入赞恩的世界，代入感极强。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.25,
+          "explanation": "影片属于中小成本制作，场景集中于贫民窟狭小空间，不追求场面的宏大。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.9,
+          "explanation": "大量关键情节通过角色的眼神、动作和环境展现，而非对白，视觉叙事能力极其突出。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.55,
+          "explanation": "配乐使用克制，更多依赖环境音效，音乐仅在关键时刻作为情绪放大器介入，重要性中等偏上。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.98,
+          "explanation": "非职业演员，尤其是主角赞恩的扮演者，贡献了震撼人心的自然表演，是影片成功的决定性因素。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.88,
+          "explanation": "导演娜丁·拉巴基融合纪录片与剧情片的手法、对底层人物的深切关怀使其作者风格极为显著。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "作品提供的是一场沉浸式的、令人心碎的共情之旅。观众跟随主角的视角，亲身经历家庭背叛、社会抛弃和生存绝境，被接连不断的苦难与挫折碾压。情感体验的核心是压抑的愤怒和无力的悲伤，其间主角奋力求生的强烈意志和对弱者的保护本能，带来了短暂的、夹杂着痛苦的感动。整体而言，这是一种将观众情绪推至极点、迫使其无法逃避的道德拷问与心灵震撼。",
+        "structure_description": "影片采用倒叙结构，从法庭控诉的现实场景切入，再以线性时间回溯主角的不幸经历。这种结构使观众从一开始就带着对“为何起诉父母”的巨大疑问进入故事，为后续所有悲惨遭遇赋予了强烈的目的性和批判性。叙事节奏通过日常琐碎的苦难缓慢积累紧张感，最终在法庭上以一句平静而有力的控诉引爆所有积压的情绪，形成清晰的情感爆发和思考闭环。",
+        "cognitive_expression": "作品引导观众进行低抽象但高深度的认知处理。表面上，它是一个容易理解的生活故事，无需复杂的逻辑推理；但在深层，它不断迫使观众评估社会系统的公正性、道德的相对性以及生存与人伦的冲突。认知重点在于反思和批判，而非解构或分析，鼓励观众建立对复杂社会议题的深刻共情式理解。",
+        "behavioral_tendency_description": "影片强烈激发观众的反思行为，并间接鼓励社会责任感和正义诉求。它不提供娱乐性的逃避，而是通过情感冲击将观众拉回现实问题。体验过程中，观众被剥夺了平静，被迫采取一种道德审视者的姿态。看完后，可能会更倾向于关注弱势群体、讨论社会不公，或重新审视自身与家庭、社会的关系，而非进行消费性或社交性行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.62,
+        "Ne": 0.1,
+        "Ti": 0.58,
+        "Te": 0.72,
+        "Fi": 0.88,
+        "Fe": 0.82,
+        "Si": 0.15,
+        "Se": 0.65,
+        "openness": 0.45,
+        "conscientiousness": 0.55,
+        "extraversion": 0.35,
+        "agreeableness": 0.75,
+        "neuroticism": 0.85,
+        "Assertive": 0.88,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "影片以赞恩在法庭上起诉父母的震撼场景为开端，构成叙事的核心悬念。",
+        "故事背景设定在黎巴嫩的贫民窟，大量展现破败拥挤的居住环境和混乱的街道景象。",
+        "赞恩的扮演者赞恩·阿尔·拉菲亚本人是叙利亚难民，其表演具有极强的真实感。",
+        "赞恩被迫工作养家，身材瘦小的他在街头穿梭，照料多个年幼的弟妹。",
+        "赞恩在发现妹妹初潮后，帮她清洗内衣并教她隐藏，以防被父母卖掉。",
+        "父母将年仅11岁的妹妹萨哈强制嫁给房东阿萨德，以换取经济上的缓解。",
+        "赞恩愤怒之下离家出走，在陌生的城市角落独自寻找工作和食物。",
+        "赞恩遇到没有合法身份的埃塞俄比亚女工拉希尔，后者为他提供食宿，他则帮她照顾婴儿。",
+        "拉希尔因没有证件被捕后，赞恩独自一人想尽办法抚养她的婴儿约纳斯。",
+        "为维持生计，赞恩带着婴儿在街头贩卖违禁药品处方，从事各种非法的零工。",
+        "走投无路之下，赞恩将婴儿交给了人贩子，以换取自己偷渡的机会。",
+        "赞恩回家寻找身份证明时，发现妹妹萨哈已因非法堕胎大出血而死。",
+        "极度愤怒的赞恩拿起刀冲出门外，刺伤了妹妹的丈夫，因此被捕入狱。",
+        "赞恩在少年监狱中打电话给电视台节目，公开控诉自己的父母和整个社会的冷漠。",
+        "影片结尾，赞恩在拍摄移民局证件照时，镜头捕捉到了他全片中唯一一次微笑。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

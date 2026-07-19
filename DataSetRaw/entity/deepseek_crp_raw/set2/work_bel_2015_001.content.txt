@@ -1,0 +1,742 @@
+```json
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_bel_2015_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "桥头眺望",
+        "type": "STAGE",
+        "countryName": "比利时",
+        "year": 2015,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "阿瑟·米勒的经典话剧经伊沃·凡·霍夫重新排演，以极简舞台剥离写实元素，演员在封闭玻璃箱内完成所有表演，伴随低沉鼓声强化悲剧宿命。故事围绕意大利裔移民社区中一场关于欲望、背叛与名誉的冲突展开，最终走向毁灭性结局。",
+        "themes": [
+          "欲望",
+          "背叛",
+          "名誉",
+          "命运",
+          "移民",
+          "家庭",
+          "禁忌",
+          "暴力"
+        ],
+        "keywords": [
+          "布鲁克林",
+          "意大利移民",
+          "码头工人",
+          "长兄代父",
+          "乱伦欲望",
+          "举报",
+          "荣誉谋杀",
+          "极简舞台",
+          "玻璃箱",
+          "伊沃·凡·霍夫"
+        ],
+        "core_experience": "在近乎窒息的封闭空间中，观众被迫直面人物无处逃遁的欲望与无法挣脱的命运。持续的鼓声如心跳般压迫，将古典悲剧的宿命感转化为身体可直接感知的紧张，最终在沉默与爆发之间留下震撼与深沉的怜悯。",
+        "experience_introduction": "这部作品通过将演员封闭于玻璃箱内，剥夺一切写实布景的庇护，迫使观众将所有注意力集中于人物的身体对抗与情感裂变。低沉的鼓声犹如命运指针，在每一次冲突加剧前插入，营造出一种宗教仪式般的宿命氛围。观者在此过程中不是旁观故事，而是与人物同处一个无法逃离的封闭时空，承受欲望、嫉妒与背叛带来的连锁震荡。"
+      },
+      "experience_vector": {
+        "passion": 0.75,
+        "healing": 0.05,
+        "awe": 0.70,
+        "nostalgia": 0.10,
+        "reflection": 0.65,
+        "romance": 0.15,
+        "tension": 0.95,
+        "warmth": 0.10,
+        "loneliness": 0.80,
+        "hope": 0.10
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.45,
+          "depth_of_thought": 0.60,
+          "logical_structure": 0.50,
+          "novelty": 0.40,
+          "exploration": 0.30,
+          "ambiguity": 0.50,
+          "predictability": 0.70,
+          "information_density": 0.40,
+          "learning_value": 0.50
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.90,
+          "social_scale": 0.70,
+          "civilization_scale": 0.20,
+          "cosmic_scale": 0.15,
+          "time_span": 0.30,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.65,
+          "loneliness": 0.80,
+          "warmth": 0.10,
+          "fear": 0.60,
+          "tension": 0.95,
+          "awe": 0.70,
+          "nostalgia": 0.10,
+          "hope": 0.10,
+          "melancholy": 0.60,
+          "anger": 0.70,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.65,
+          "minimalism": 0.90,
+          "luxury": 0.00,
+          "darkness": 0.85,
+          "brightness": 0.05,
+          "dreamlike": 0.05,
+          "mystery": 0.20,
+          "experimental": 0.75,
+          "classical": 0.85,
+          "modern": 0.70
+        },
+        "narrative": {
+          "plot_complexity": 0.35,
+          "character_depth": 0.85,
+          "character_growth": 0.40,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.20,
+          "slow_immersion": 0.50,
+          "action_intensity": 0.70,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.75,
+          "collectivism": 0.50,
+          "family": 0.85,
+          "friendship": 0.20,
+          "love": 0.70,
+          "community": 0.40,
+          "competition": 0.80,
+          "cooperation": 0.10,
+          "power_relationship": 0.75,
+          "identity": 0.65
+        },
+        "value": {
+          "freedom": 0.30,
+          "order": 0.60,
+          "truth": 0.50,
+          "beauty": 0.40,
+          "achievement": 0.20,
+          "justice": 0.55,
+          "sacrifice": 0.50,
+          "self_exploration": 0.60,
+          "tradition": 0.80,
+          "change": 0.15,
+          "survival": 0.70,
+          "meaning": 0.45
+        },
+        "behavior": {
+          "curiosity": 0.15,
+          "creation": 0.10,
+          "adventure": 0.05,
+          "reflection": 0.65,
+          "competition": 0.80,
+          "social": 0.35,
+          "discipline": 0.30,
+          "risk": 0.60,
+          "calm": 0.10,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.10,
+          "sound_intensity": 0.80,
+          "rhythm_energy": 0.65,
+          "atmosphere": 0.95,
+          "immersion": 0.90
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.95,
+          "actor_expression": 0.95,
+          "body_expression": 0.90,
+          "audience_interaction": 0.30,
+          "performance_intensity": 0.95,
+          "ritual_sense": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.75,
+          "explanation": "人物间充满压抑后爆发的强烈情感，尤其是嫉妒与愤怒以身体对抗形式直接呈现。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "故事走向毁灭性结局，没有提供情感修复或抚慰空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.7,
+          "explanation": "极简舞台设计与悲剧命运的结合产生庄严震撼，古典悲剧的宿命感让人心生敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品聚焦当下冲突，未引导观众追忆过去。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.65,
+          "explanation": "悲剧引发对道德、命运和人性弱点的深度思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.15,
+          "explanation": "存在欲望与执念，但不描绘浪漫化的爱情。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.95,
+          "explanation": "从始至终保持高悬的紧张感，鼓声与封闭空间持续施加心理压力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "人际关系破裂，缺乏温情与亲密互动。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "主人公深陷无法言说的欲望，被社区排斥，陷入彻底的孤立。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "叙事结构指向不可避免的悲剧，希望被逐步扼杀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "象征性舞台设计和命运主题具有一定抽象性，但人物冲突保持写实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "情节线性推进，多条情感线索交织但不构成复杂逻辑结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.6,
+          "explanation": "挖掘人性深层欲望与道德困境，具有相当的哲学厚度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.5,
+          "explanation": "遵循古典悲剧结构，因果关系清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.4,
+          "explanation": "核心叙事为经典文本，舞台导演手法带来一定现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "故事锁定在特定家庭与社区内部，非探索性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.5,
+          "explanation": "部分道德议题留有模糊空间，但整体故事走向清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.7,
+          "explanation": "开场即暗示悲剧结局，观众感知到不可避免的宿命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.4,
+          "explanation": "文本凝练，但以情感传达为主，非知识密集型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.5,
+          "explanation": "可学习移民文化、古典悲剧结构和人性洞察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "全剧聚焦于主角内心欲望及少数几人之间的私人关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.9,
+          "explanation": "核心冲突围绕叔侄、夫妻、情人关系展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.7,
+          "explanation": "故事受移民社群的荣誉文化深刻影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "仅作为背景提及移民潮，不探讨文明层面变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "命运常被提及，但未延展至宇宙维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.3,
+          "explanation": "故事在数周至数月内发生并终结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "完全基于现实社会与人际关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "几乎无快乐场景出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.65,
+          "explanation": "结局的毁灭性与人物孤独让人产生悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.8,
+          "explanation": "主角深陷被家庭与社会孤立的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "人际关系以控制和背叛为主导，缺乏温馨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.6,
+          "explanation": "暴力对抗与名誉制裁威胁持续引起恐惧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.95,
+          "explanation": "作品全程维持高强度的心理与现实张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.7,
+          "explanation": "古典悲剧在现代演绎下产生震撼效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.1,
+          "explanation": "未引导怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "剧情进展不断压缩希望空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.6,
+          "explanation": "对无法避免的悲剧与失落的审视带来深沉忧郁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.7,
+          "explanation": "嫉妒、背叛与不公直接激起愤怒情绪的共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "全程缺乏安宁平和的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.65,
+          "explanation": "极简设计的秩序感与悲剧结构融合，呈现独特的舞台美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.9,
+          "explanation": "舞台剥离至仅剩玻璃箱与人物，是极简美学的极致体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "完全不存在奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "整体氛围压抑阴暗，灯光与主题皆体现黑暗特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "无明亮或轻松的美学表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "高度写实和紧张感排除梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.2,
+          "explanation": "剧情直指核心冲突，不设置悬疑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.75,
+          "explanation": "导演手法大胆先锋，对经典进行了高度实验性的重构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "叙事内核与剧作结构属于严谨的古典悲剧传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.7,
+          "explanation": "舞台设计理念和身体表达方式极具现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.35,
+          "explanation": "情节简洁线性，单一主线指向崩溃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "深入刻画人物矛盾心理，挖掘深层动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.4,
+          "explanation": "展示人物走向毁灭的过程，而非正面成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "无虚构世界构建，仅依赖现实社区背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.2,
+          "explanation": "叙事基本按时间线推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.5,
+          "explanation": "逐步揭示欲望，前半部分有一定程度的铺垫浸入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.7,
+          "explanation": "身体冲撞与暴力对抗场面充满激烈能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "贯穿始终的高强度冲突，从言语对峙到身体暴力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "引发对命运、法律与道德边界的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.75,
+          "explanation": "主角行为受个人欲望驱动，最终与集体决裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.5,
+          "explanation": "群落荣誉法则约束个体，但个体最终反抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.85,
+          "explanation": "建立在家庭内部的禁忌情感是叙事的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "未将友谊作为重要关系维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.7,
+          "explanation": "爱的扭曲形态贯穿全剧，包含情欲与占有欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.4,
+          "explanation": "社群是压迫个体与执行名誉规则的工具。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.8,
+          "explanation": "男性角色之间充满激烈的地位与情感竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "缺乏协作，关系以对抗为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.75,
+          "explanation": "家庭权威、经济控制与社群规范构成复杂的权力博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.65,
+          "explanation": "移民身份认同与男性名誉身份构成关键冲突驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.3,
+          "explanation": "作品展示反抗但最终走向毁灭，非自由主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.6,
+          "explanation": "强调社区法则和传统伦理秩序的约束力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.5,
+          "explanation": "告密行为引发了关于真相与背叛的复杂道德景观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.4,
+          "explanation": "美存在于舞台形式中，非内容主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.2,
+          "explanation": "非成就导向叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "个人正义与社群正义产生尖锐对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.5,
+          "explanation": "隐含为名誉与尊严做出的终极牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.6,
+          "explanation": "主角逐步直面自身无法控制的深层欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.8,
+          "explanation": "来自西西里的传统名誉观是决定人物行动的关键准则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.15,
+          "explanation": "人物抗拒改变，试图控制环境与关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.7,
+          "explanation": "在象征意义上，人物为维护社会性生存而挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.45,
+          "explanation": "虽为悲剧，但未提供积极的意义建构指引。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.15,
+          "explanation": "人物行为源于欲望而非好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "无创造性过程被表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "故事固定于室内，无冒险探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.65,
+          "explanation": "评论式台词引导观众共同省思人物境遇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.8,
+          "explanation": "人物关系被持续的竞争与对抗主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "社交实为冲突场所，非友好连接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.3,
+          "explanation": "作品展示的是被原始冲动突破的自我约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.6,
+          "explanation": "人物明知禁忌仍采取高风险行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "始终处于焦躁和爆发状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "叙事走向强调面对而非逃脱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "封闭玻璃箱内的身体碰撞构成高冲击视觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "极简暗色调舞台摒弃丰富色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.8,
+          "explanation": "铺垫与节点处的重击鼓声在听觉上极具侵略性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.65,
+          "explanation": "对话节奏和情绪推进充满强烈的控制感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "空间与音效的极简设计创造出密不透风的沉重氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.9,
+          "explanation": "封闭舞台和音效让观众产生身临其境的被围困感。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.95,
+          "explanation": "演员在玻璃箱内的裸感汗水与呼吸强化了无可替代的现场真实感。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "极度依赖面部微表情与声音控制来传达丰富情感。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.9,
+          "explanation": "肢体冲突和身体张力是核心表现手段，展现优雅与暴力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.3,
+          "explanation": "第四面墙牢固，观众仅作为凝视者存在。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.95,
+          "explanation": "无中场休息的全情投入式高强度表演状态。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.85,
+          "explanation": "鼓声和凝固的姿势赋予表演一种原始宗教祭典式的仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众经验一种被封闭、无所遁形的压迫性体验。持续的紧张伴随深切的孤寂感，在人物无法扼制的欲望和暴力爆发中感到震撼与畏惧。体验终局引发沉静的哀伤和对命运不可抗拒的无力感。",
+        "structure_description": "导演采用极简的非写实手法构建叙事空间。通过线性递进的单一情节线，配合韵律化的声音设计（鼓声）不断提升压力，结构不仅服务于故事讲述，更直接构成观众心理体验的节拍器。",
+        "cognitive_expression": "作品要求观众在强烈的感官冲击下同时进行道德与逻辑的审视。认知上倾向于整合文本、身体表演和空间象征来理解悲剧的必然性，激发对文化与人性矛盾的深层分析。",
+        "behavioral_tendency_description": "作品唤起的行为倾向是克制与压抑下的激烈爆发，而非探索或社交。主导倾向是内省和竞争性对抗，观众被引导去观察和反思人物在高压环境下的危险行为选择。"
+      },
+      "personality_affinity": {
+        "Ni": 0.65,
+        "Ne": 0.15,
+        "Ti": 0.45,
+        "Te": 0.55,
+        "Fi": 0.85,
+        "Fe": 0.45,
+        "Si": 0.3,
+        "Se": 0.8,
+        "openness": 0.55,
+        "conscientiousness": 0.4,
+        "extraversion": 0.2,
+        "agreeableness": 0.15,
+        "neuroticism": 0.85,
+        "Assertive": 0.2,
+        "Turbulent": 0.9
+      },
+      "supporting_evidence": [
+        "舞台设计仅包含一个半透明的方形玻璃箱，演员全程无法离开这一限制空间。",
+        "叙事从社区律师的客观旁观视角展开，预告了悲剧的不可避免。",
+        "主角对其侄女的监护关系中夹杂着日益失控的占有欲。",
+        "社群严格执行来自意大利南部的古老名誉准则。",
+        "激烈的身体接触和赤手空拳的搏斗取代了写实的打斗编排。",
+        "低沉的鼓声在关键情节转换点介入，如心跳般增强紧张氛围。",
+        "剧情围绕举报非法移民这一背叛行为带来的连锁毁灭展开。",
+        "主要人物之间的关系在家庭、情欲和法律等多重矛盾下不断恶化。",
+        "舞台灯光以苍白冷色调为主，排除了任何温暖视效。",
+        "最终命名以血的代价洗刷名誉的暴力场景以仪式化方式呈现。",
+        "全体演员穿着简约现代的素色服装，剥离时代与地域的具体指标。",
+        "人物之间的对峙经常以缓慢且近乎静止的凝视开始。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}
+```

@@ -1,0 +1,738 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1941_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "牡丹亭",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 1941,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.72,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "明代汤显祖的传奇剧本《牡丹亭》，又名《还魂记》，讲述杜丽娘因梦生情、因情而死、因情复生的爱情故事。此版本为俞振飞以小生应工柳梦梅的昆曲舞台演绎，以《拾画叫画》等折子戏为核心，呈现书生柳梦梅的风流儒雅与痴情不渝。作品将诗意的唱词与细腻的表演结合，展现至情超越生死的主题，是中国古典浪漫主义戏剧的巅峰之作。",
+        "themes": [
+          "爱情",
+          "生死",
+          "梦境",
+          "自由",
+          "礼教",
+          "灵性",
+          "艺术与美",
+          "命运"
+        ],
+        "keywords": [
+          "柳梦梅",
+          "杜丽娘",
+          "还魂",
+          "拾画叫画",
+          "昆曲",
+          "小生",
+          "俞振飞",
+          "梦境",
+          "牡丹亭",
+          "至情"
+        ],
+        "core_experience": "观众沉浸于一种极致唯美而深情的艺术体验中。在昆曲雅致的唱腔与表演里，体验从梦境邂逅的缠绵悱恻，到阴阳相隔的哀婉惆怅，最终到超越生死重逢的震撼与慰藉。整个过程如诗如梦，伴随着对自由爱情与生命意义的沉思。",
+        "experience_introduction": "《牡丹亭》的舞台呈现以昆曲特有的“水磨调”为核心，通过俞振飞文雅风流的小生表演，将柳梦梅的书卷气与痴情精准传达。作品不以激烈的戏剧冲突取胜，而是通过《拾画叫画》等内心戏，层层递进地展现对画中人的思念与呼唤。观众在悠长的水磨腔和诗意的唱词中获得一种沉静而深邃的审美享受，情感随着柳梦梅对杜丽娘的执着追求而起伏，最终在“情至”的力量面前获得精神上的巨大满足与共鸣。"
+      },
+      "experience_vector": {
+        "passion": 0.88,
+        "healing": 0.45,
+        "awe": 0.75,
+        "nostalgia": 0.55,
+        "reflection": 0.7,
+        "romance": 0.98,
+        "tension": 0.35,
+        "warmth": 0.6,
+        "loneliness": 0.65,
+        "hope": 0.8
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.6,
+          "depth_of_thought": 0.78,
+          "logical_structure": 0.4,
+          "novelty": 0.55,
+          "exploration": 0.3,
+          "ambiguity": 0.65,
+          "predictability": 0.55,
+          "information_density": 0.72,
+          "learning_value": 0.68
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.9,
+          "social_scale": 0.45,
+          "civilization_scale": 0.25,
+          "cosmic_scale": 0.35,
+          "time_span": 0.3,
+          "fantasy_level": 0.7
+        },
+        "emotion": {
+          "happiness": 0.35,
+          "sadness": 0.7,
+          "loneliness": 0.65,
+          "warmth": 0.6,
+          "fear": 0.2,
+          "tension": 0.35,
+          "awe": 0.75,
+          "nostalgia": 0.55,
+          "hope": 0.8,
+          "melancholy": 0.72,
+          "anger": 0.1,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.95,
+          "minimalism": 0.65,
+          "luxury": 0.6,
+          "darkness": 0.3,
+          "brightness": 0.55,
+          "dreamlike": 0.9,
+          "mystery": 0.6,
+          "experimental": 0.15,
+          "classical": 0.95,
+          "modern": 0.05
+        },
+        "narrative": {
+          "plot_complexity": 0.5,
+          "character_depth": 0.82,
+          "character_growth": 0.55,
+          "world_building": 0.4,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.88,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.45,
+          "philosophical_depth": 0.8
+        },
+        "social_relationship": {
+          "individualism": 0.7,
+          "collectivism": 0.3,
+          "family": 0.45,
+          "friendship": 0.25,
+          "love": 0.98,
+          "community": 0.2,
+          "competition": 0.1,
+          "cooperation": 0.2,
+          "power_relationship": 0.3,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.3,
+          "truth": 0.55,
+          "beauty": 0.95,
+          "achievement": 0.35,
+          "justice": 0.2,
+          "sacrifice": 0.55,
+          "self_exploration": 0.8,
+          "tradition": 0.5,
+          "change": 0.45,
+          "survival": 0.3,
+          "meaning": 0.88
+        },
+        "behavior": {
+          "curiosity": 0.4,
+          "creation": 0.5,
+          "adventure": 0.25,
+          "reflection": 0.85,
+          "competition": 0.1,
+          "social": 0.2,
+          "discipline": 0.3,
+          "risk": 0.35,
+          "calm": 0.55,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.7,
+          "color_richness": 0.65,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.9,
+          "immersion": 0.82
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.85,
+          "actor_expression": 0.9,
+          "body_expression": 0.7,
+          "audience_interaction": 0.25,
+          "performance_intensity": 0.4,
+          "ritual_sense": 0.8
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.88,
+          "explanation": "作品核心情感驱动力源于柳梦梅对杜丽娘的极致痴情与不懈追求。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.45,
+          "explanation": "虽然结局圆满，但过程充满了生死离别的痛苦与哀伤，并非典型的治愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.75,
+          "explanation": "超越生死的爱情力量以及昆曲艺术的高雅神韵给观众带来深深的震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "观众可能对古代文人的风雅生活和纯粹的爱情理想产生一定程度的追忆与向往。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.7,
+          "explanation": "作品引导观众思考爱情与生命的意义、个人情感与社会礼教的冲突。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.98,
+          "explanation": "作品的核心主题即是一段超越生死、感人至深的浪漫爱情故事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.35,
+          "explanation": "冲突主要源于礼教背景和阴阳相隔的阻碍，并非高强度的悬疑或外部压力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.6,
+          "explanation": "柳梦梅的深情与真挚，以及最终团圆结局带来了一定的温暖感受。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.65,
+          "explanation": "柳梦梅独自在客途与废墟中的思念，以及杜丽娘的孤魂状态，营造了深刻的孤独氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.8,
+          "explanation": "杜丽娘因情复生、有情人终成眷属的结局传递出强大的希望与信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "唱词和念白充满古典诗词的意象与比兴，需要观众进行大量的象征性解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.6,
+          "explanation": "作品通过梦境、幽冥、现实三界的交织来构建叙事，具有一定复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.78,
+          "explanation": "作品探讨了至情是否能超越生死这一永恒的哲学命题，引人深思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "剧情发展依赖于超自然的还魂逻辑和情感的推动，而非严密的因果逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "《牡丹亭》的“因情还魂”设定在传统戏剧中虽非首创，但具有强烈的浪漫主义色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "叙事主要围绕人物情感和关系展开，几乎不涉及对未知地理或社会领域的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.65,
+          "explanation": "梦境与现实、人与鬼的界限被有意模糊，留给观众丰富的解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "才子佳人大团圆的整体框架是可预见的，但“人鬼情”及“还魂”的具体情节具有意外性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.72,
+          "explanation": "唱词与念白中承载了丰富的古典文学典故、文化信息和角色内心活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.68,
+          "explanation": "观众可以从中获得关于中国古典文学、传统戏曲表演美学以及明代社会观念的认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "强烈的个人情感、内心独白和主体意志是推动剧情发展的核心动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.9,
+          "explanation": "作品的全部焦点皆在于柳梦梅与杜丽娘之间一对一的深度情感联结与互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.45,
+          "explanation": "社会礼教主要作为背景式的阻碍力量存在，并未深入描绘广阔的社会阶层画卷。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.25,
+          "explanation": "叙事不涉及文明兴衰、国家存亡或宏大的历史进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.35,
+          "explanation": "其“超越生死”的主题触及生命本质，但并未深入探讨宇宙规律或天道秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.3,
+          "explanation": "故事发生的时间跨度较小，主要集中于柳梦梅与杜丽娘相遇前后数载。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.7,
+          "explanation": "核心情节“因梦而亡、还魂复生”具有鲜明的超现实和浪漫主义幻想色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.35,
+          "explanation": "大部分篇幅沉浸在寻找、思念和悲悼的情绪中，纯粹的喜悦体验较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.7,
+          "explanation": "柳梦梅面对画像的追思以及杜丽娘香消玉殒的背景，营造了浓郁的悲伤基调和情绪感染力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.65,
+          "explanation": "柳梦梅独自面对杜丽娘画像的独白和对答，深刻展现了内心的孤寂与渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.6,
+          "explanation": "虽经波折，但终得团圆，且柳梦梅的痴情本身具有温暖人心的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.2,
+          "explanation": "作品并未刻意营造恐怖或令人恐惧的氛围，幽冥元素更多服务于浪漫主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.35,
+          "explanation": "紧张感多来自身份揭示和与世俗礼教的潜在冲突，并非贯穿始终的主调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.75,
+          "explanation": "观众对“情不知其所起，一往而深”的极致力量和高雅的艺术表现力产生敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "作品本身是对一个已逝时代的文人风情与美学理想的回溯，容易引发怀旧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.8,
+          "explanation": "“情至”可以战胜死亡、跨越界限的信念，是全剧最核心的希望所在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.72,
+          "explanation": "全剧弥漫着一种因美好的消逝与追寻而产生的，挥之不去的感伤与怅惘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.1,
+          "explanation": "作品不强调对外部压迫的直接反抗，愤怒情绪并非主导情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "在某些抒情唱段和最终团圆时，能达到内心的平和与安详，但过程是动荡的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.95,
+          "explanation": "从文辞、唱腔到身段、意境，无不追求极致的古典雅致与优美，是昆曲美学的典范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "传统戏曲舞台的一桌二椅，配合虚拟化表演，体现了简洁而富有意蕴的美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.6,
+          "explanation": "体现在文辞的华丽、情感的浓郁和表演的精致上，而非视觉上的金碧辉煌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.3,
+          "explanation": "虽然有幽冥情节，但整体基调是明亮的、浪漫的，暗黑感弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "作品的情感色彩和最终结局倾向于光明和希望，中和了悲情成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.9,
+          "explanation": "“游园惊梦”的梦境邂逅，以及人鬼相恋，使得整个作品笼罩在亦真亦幻的氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.6,
+          "explanation": "杜丽娘的还魂、幽冥判官等元素为作品增添了神秘主义色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "作品严格遵循了传统昆曲的艺术程式和表演范式，无实验性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.95,
+          "explanation": "作为中国古典戏剧文学的顶峰之一，其表演美学是纯粹古典的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.05,
+          "explanation": "全剧从内容到形式都深深植根于古代中国的文化土壤，无现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.5,
+          "explanation": "主线相对清晰单一，但包含梦境、幽冥、现实等层次，有一定复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "通过《拾画叫画》等独角戏，人物内心世界和情感层次被刻画得极为深入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "柳梦梅的性格前后变化不大，主要表现为情感的深化与执着程度的加强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.4,
+          "explanation": "作品不致力于构建完全独立于现实的世界观，而更多依赖于观众对古代社会的认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "叙事基本按照时间顺序推进，虽然有回忆和倒叙，但结构整体上是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.88,
+          "explanation": "昆曲缓慢的节奏、悠长的唱段和细腻的表演，要求并引导观众进入一种深度沉静的审美状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "以唱念做表为主，几乎不存在任何打斗或激烈的外部动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.45,
+          "explanation": "冲突主要为个人情感与社会规范的内部性、柔性冲突，而非激烈的外部对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.8,
+          "explanation": "全剧围绕“情”与“理”、“生”与“死”的形而上关系展开，具有深刻的哲学内涵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.7,
+          "explanation": "主人公为追求个人情感与幸福，最终超越了礼教束缚，体现了强烈的个人意志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.3,
+          "explanation": "叙事重心远离集体、国家或社会整体利益，不强调集体主义价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.45,
+          "explanation": "家庭（特别是杜丽娘的父母）作为礼教的代表出现，对情感关系形成一定阻碍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.25,
+          "explanation": "友情并非本作品探讨的主题。
+",
+          "score": 0.75,
+          "explanation": "作品全方位、深层次地展现了爱情的各种形态：痴迷、思念、追寻、奉献与超越。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.2,
+          "explanation": "故事发生在相对封闭的个人空间（庭院、书斋）中，缺少社区互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.1,
+          "explanation": "不存在明显的竞争关系，叙事驱动力是吸引与融合，而非对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.2,
+          "explanation": "柳梦梅与杜丽娘的关系是爱恋而非合作，与其他人的协作行为非常少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.3,
+          "explanation": "存在微弱的权力关系，如柳梦梅作为书生与杜宝（杜丽娘之父）作为官员的身份差异。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "柳梦梅作为文采风流的青年书生的身份，以及杜丽娘向往自由的自我认知，是重要主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "作品的核心驱动力是冲破生死与礼教束缚，追求情感和意志的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.3,
+          "explanation": "作品精神上倾向于打破既有秩序，而非维护或赞美秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "追求内心真实的情感（至情），而非客观世界的真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.95,
+          "explanation": "对美的欣赏、追求与创造（如对画像的痴迷、对佳人的向往）贯穿作品始终，是最高价值之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.35,
+          "explanation": "科举功名仅是结局的点缀和团聚的条件，并非人物的核心追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.2,
+          "explanation": "作品不围绕社会正义或复仇展开叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.55,
+          "explanation": "全剧探讨了因情而牺牲生命及无畏付出，这本身就是一种牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.8,
+          "explanation": "拾画叫画的过程是柳梦梅探索自身情感、确认内心所爱的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.5,
+          "explanation": "艺术形式是传统的，但其核心价值取向（至情至上）对当时礼教传统是一种挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.45,
+          "explanation": "作品中的“变”即是从死亡到重生，从孤寂到团圆，是故事的重要组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.3,
+          "explanation": "身体生存并非首要关切，情感与灵魂的归宿远比物理生存更重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.88,
+          "explanation": "全剧可以看作柳梦梅与杜丽娘为爱情寻找归宿、为生命赋予意义的终极旅程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.4,
+          "explanation": "柳梦梅对画像的好奇是行动的起点，但后续行为更多是情感驱动而非求知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.5,
+          "explanation": "柳梦梅的吟诗作画、与杜丽娘的和诗，以及整个艺术表演本身就是一种创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.25,
+          "explanation": "作品中很少有传统意义上的冒险行为，更多是情感和命运的历险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "作品的核心篇幅用于展现人物内心的思念、追忆、揣测和情感内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "作品中不存在争强好胜或竞争性的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.2,
+          "explanation": "《牡丹亭》不倡导外向的社交行为，更多关注个体的内心世界与情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.3,
+          "explanation": "角色的行为更多是被情感和命运引领，而非严格的自我约束或纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.35,
+          "explanation": "开棺、与鬼魂交往在当时礼教社会下是有风险的，但这并非作品的强调重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.55,
+          "explanation": "在大多数时间里，特别是《拾画叫画》的表演中，展现的是一种沉静的风雅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "沉浸在梦境、艺术和幻想中，可以看作是对现实约束的一种精神逃离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.7,
+          "explanation": "昆曲表演的身段、水袖、装饰等都提供了较高的视觉欣赏价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "虽然传统戏服的色彩有其程式，但组合后的舞台呈现是丰富而和谐的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "昆曲唱腔悠扬婉转，音量与节奏上不以激烈为追求，但存在感强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "昆曲整体节奏舒缓，水磨腔讲究“一字三叹”，给人以静态的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "作品成功地营造出了一种或雅致、或感伤、或梦幻的独特氛围，使人沉浸其中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.82,
+          "explanation": "其强烈的情感内核以及精致的艺术呈现，极易让观众代入角色并沉浸于故事之中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.85,
+          "explanation": "作为舞台艺术，演员与观众同处一个时空，表演的生命力具有现场不可替代性。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.9,
+          "explanation": "昆曲小生的唱念做表，特别是俞振飞的诠释，极度依赖演员的面部表情和眼神传达。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.7,
+          "explanation": "演员的身段、指法、水袖等程式化身体语言是塑造角色和传达情感的核心手段。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.25,
+          "explanation": "表演是单向的展示，观众不直接参与剧情，互动性很弱。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.4,
+          "explanation": "表演风格以内敛、含蓄为主，情感表达细腻但不猛烈外放。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.8,
+          "explanation": "昆曲的唱腔格律、表演程式、服装道具都充满了强烈的仪式感和传统规范。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众的体验是一趟深情的灵魂之旅。它始于对昆曲优雅古韵的欣赏，迅速被柳梦梅寻梦、拾画时的孤独与痴情所感染，进而沉浸在对“至情”的感动与向往中。整个过程以深沉的思念和感伤为基调，但在绝境中始终蕴含着一线希望，最终随着杜丽娘的复生与团圆，情感得到极大的释放与升华，获得一种超越生死的精神满足与慰藉。",
+        "structure_description": "此版本的舞台呈现以折子戏《拾画叫画》为情感核心，结构上高度聚焦于柳梦梅的独角内心戏。表演遵循昆曲严格的曲牌联套结构，通过悠长的唱段和细腻的身段，层层递进地展示人物从无意拾画、猜疑、到最终确认并深情呼唤的情感发展历程，形成一种缓慢而有力的情感蓄积与爆发。",
+        "cognitive_expression": "作品高度依赖象征性和隐喻性的表达，激发观众的联想力与审美解读能力。观众需要理解古典诗词的意象、戏曲程式的符号含义，并深入人物的内心世界进行共情。它鼓励一种内向的、反思性的认知模式，去品味语言之美、情感之深和意境之远，而非进行快节奏的逻辑推演。",
+        "behavioral_tendency_description": "作品鼓励静观、内省与情感沉浸的行为模式。它引导观众沉静下来，细细品味每一个唱腔和身段背后的情绪，从而引发对自身情感与生命意义的反思。作品赋予痴情、执着和想象力以极高价值，而非鼓励行动、探索或社交。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.45,
+        "Ti": 0.35,
+        "Te": 0.15,
+        "Fi": 0.88,
+        "Fe": 0.4,
+        "Si": 0.7,
+        "Se": 0.25,
+        "openness": 0.85,
+        "conscientiousness": 0.3,
+        "extraversion": 0.2,
+        "agreeableness": 0.55,
+        "neuroticism": 0.7,
+        "Assertive": 0.3,
+        "Turbulent": 0.8
+      },
+      "supporting_evidence": [
+        "全剧以男女主角之间超越生死的爱情作为唯一主线。",
+        "《拾画叫画》一折以大量独角戏形式深入刻画人物内心。",
+        "柳梦梅的行为动机始终是对杜丽娘画像及亡魂的痴迷与追寻。",
+        "唱词频繁使用古典诗词中的意象和典故进行抒情。",
+        "舞台呈现严格遵循昆曲“水磨调”的格律与程式。",
+        "叙事中现实世界与幽冥世界相互交织，界限模糊。",
+        "俞振飞的小生表演强调儒雅、风流与内在深情。",
+        "主要冲突来自人物追求自由情感的欲望与外部礼教环境的张力。",
+        "作品的艺术价值高度依赖于演员的唱腔功力和表演细节。",
+        "全剧在缓慢的节奏中逐步展现人物情感由浅入深的过程。",
+        "杜丽娘的“还魂”设定根植于中国传统的灵异想象。",
+        "故事后半段为柳梦梅安排科举中状元的情节作为结局铺垫。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

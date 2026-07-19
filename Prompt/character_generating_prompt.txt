@@ -61,7 +61,7 @@
   ],
   "introduction": "中文事实性简介",
   "ownWork": [
-    {"workId": "work_country_year_index", "relationType": 2}
+    {"workChineseName" : "作品中文名" , "workOriginalName": "作品原文名", "workId": "work_country_year_index", "relationType": 2}
   ]
 }
 ```

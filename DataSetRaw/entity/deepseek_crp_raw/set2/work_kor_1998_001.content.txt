@@ -1,0 +1,758 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_kor_1998_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "天堂",
+        "type": "GAME",
+        "countryName": "韩国",
+        "year": 1998,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《天堂》是一款由NCsoft开发的中世纪奇幻题材大型多人在线角色扮演游戏。玩家在亚丁王国中创建角色，通过狩猎、任务和探索提升等级，核心玩法围绕资源争夺、血盟建设和大规模攻城战展开。游戏构建了开放且充满竞争的社会体系，服务器内的政治格局、联盟关系和经济系统主要由玩家驱动，形成了自发生长的虚拟社会。作为韩国国民级网游，它确立了以血盟和攻城战为核心的玩法范式，深刻影响了亚洲网络游戏产业的发展轨迹。",
+        "themes": [
+          "权力争夺",
+          "社群归属",
+          "战争",
+          "忠诚",
+          "成长",
+          "奇幻世界",
+          "社会制度",
+          "生存竞争"
+        ],
+        "keywords": [
+          "血盟",
+          "攻城战",
+          "亚丁王国",
+          "中世纪奇幻",
+          "PVP",
+          "角色成长",
+          "资源垄断",
+          "公会政治",
+          "王子/公主",
+          "骑士",
+          "法师",
+          "精灵",
+          "变身",
+          "装备强化"
+        ],
+        "core_experience": "置身于一个由玩家主导竞争与合作的虚拟中世纪社会，体验从个人成长到投入集体归属、参与大规模群体对抗的完整历程。持续的资源争夺和领地控制带来了紧张与兴奋并存的心理体验，而血盟内部的社交关系则提供了强烈的社群归属感与身份认同。",
+        "experience_introduction": "《天堂》通过无规则的野外PVP、有限的首领资源和以周为单位的领地争夺战，系统性地构建了一个稀缺与冲突并存的虚拟世界。玩家始终处于争夺或防御的状态，这种持续的社会压力促使玩家加入或组建血盟以寻求安全感与归属感。游戏的核心体验便是在个人成长、团队协作与大规模战争之间的反复摆荡。长时间的练级与准备对应着短暂而激烈的攻城爆发，失败后的挫败感与胜利后的集体荣誉形成了强烈的情感对比，驱动着玩家进行长期的投入与社交绑定。"
+      },
+      "experience_vector": {
+        "passion": 0.75,
+        "healing": 0.10,
+        "awe": 0.15,
+        "nostalgia": 0.20,
+        "reflection": 0.15,
+        "romance": 0.05,
+        "tension": 0.85,
+        "warmth": 0.30,
+        "loneliness": 0.15,
+        "hope": 0.40
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.70,
+          "depth_of_thought": 0.20,
+          "logical_structure": 0.55,
+          "novelty": 0.30,
+          "exploration": 0.60,
+          "ambiguity": 0.25,
+          "predictability": 0.45,
+          "information_density": 0.50,
+          "learning_value": 0.20
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.85,
+          "social_scale": 0.95,
+          "civilization_scale": 0.45,
+          "cosmic_scale": 0.10,
+          "time_span": 0.15,
+          "fantasy_level": 0.65
+        },
+        "emotion": {
+          "happiness": 0.35,
+          "sadness": 0.15,
+          "loneliness": 0.25,
+          "warmth": 0.35,
+          "fear": 0.55,
+          "tension": 0.90,
+          "awe": 0.10,
+          "nostalgia": 0.10,
+          "hope": 0.25,
+          "melancholy": 0.15,
+          "anger": 0.60,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.40,
+          "minimalism": 0.20,
+          "luxury": 0.10,
+          "darkness": 0.50,
+          "brightness": 0.20,
+          "dreamlike": 0.15,
+          "mystery": 0.30,
+          "experimental": 0.10,
+          "classical": 0.75,
+          "modern": 0.20
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.15,
+          "character_growth": 0.65,
+          "world_building": 0.70,
+          "nonlinear_structure": 0.05,
+          "slow_immersion": 0.90,
+          "action_intensity": 0.75,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.05
+        },
+        "social_relationship": {
+          "individualism": 0.45,
+          "collectivism": 0.90,
+          "family": 0.05,
+          "friendship": 0.75,
+          "love": 0.05,
+          "community": 0.95,
+          "competition": 0.98,
+          "cooperation": 0.85,
+          "power_relationship": 0.95,
+          "identity": 0.70
+        },
+        "value": {
+          "freedom": 0.25,
+          "order": 0.20,
+          "truth": 0.05,
+          "beauty": 0.10,
+          "achievement": 0.85,
+          "justice": 0.15,
+          "sacrifice": 0.55,
+          "self_exploration": 0.20,
+          "tradition": 0.15,
+          "change": 0.10,
+          "survival": 0.80,
+          "meaning": 0.15
+        },
+        "behavior": {
+          "curiosity": 0.30,
+          "creation": 0.10,
+          "adventure": 0.40,
+          "reflection": 0.10,
+          "competition": 0.98,
+          "social": 0.85,
+          "discipline": 0.55,
+          "risk": 0.70,
+          "calm": 0.10,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.40,
+          "color_richness": 0.35,
+          "sound_intensity": 0.45,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.65,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.75,
+          "mechanical_skill": 0.55,
+          "player_agency": 0.85,
+          "exploration_depth": 0.50,
+          "collection_system": 0.65,
+          "progression_system": 0.85,
+          "social_interaction": 0.98,
+          "competition_intensity": 0.98
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.75,
+          "explanation": "攻城战期间的集体情绪高涨，失败后的复仇欲望也持续驱动玩家的参与热情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "游戏环境充满威胁与竞争，几乎没有提供非竞争性的治愈空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "游戏系统本身不重点营造宏大叙事带来的敬畏感，更多是面对强大对手时的压迫感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.20,
+          "explanation": "游戏并非以追忆过去为主题，但对于老玩家而言，游戏本身可能成为怀旧的对象。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.15,
+          "explanation": "玩法侧重于即时反应和社交谈判，而不是鼓励对内在自我或伦理选择的深层反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "游戏内缺乏系统性的恋爱机制，情感核心集中在兄弟情义而非爱情。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.85,
+          "explanation": "野外随处可发生的PVP和攻城战的非对称信息，使得玩家经常处于高度焦虑和警惕中。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.30,
+          "explanation": "血盟内部成员之间通过共同行动可能会产生一定程度的战友情谊。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "一旦失去血盟庇护，单打独斗的个体可能会感到孤立，但游戏主流体验鼓励集体行动。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.40,
+          "explanation": "成功击杀竞争对手或获取稀有掉落物时，会带来短暂的胜利喜悦和对未来发展的期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "游戏规则具体且目标导向明确，主要是资源和领土的实体化争夺，而非抽象理念层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.70,
+          "explanation": "血盟外交、多线战场、资源调度和间谍活动共同构成了远超游戏本身机制的高度复杂社会系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.20,
+          "explanation": "游戏体验浮于战斗和社交，不要求玩家对哲学或社会模型本身进行深度的理论性思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "技能释放顺序、职业配比和攻城策略需要一定的前置规划和逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.30,
+          "explanation": "在其诞生的年代具有开创性，但时过境迁，其核心玩法模式已被广泛沿用，失去部分新鲜感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "地城狩猎和未探索区域的资源点不断吸引玩家进入未知环境冒险以获取先发优势。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "伤害计算规则和掉落机制相对透明且可预测，叙事和任务指引都是明确不含糊的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.45,
+          "explanation": "怪物机制和系统规则是可预测的，但由玩家行为构成的社会动态和PK意外性降低了整体稳定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "玩家需要处理的信息主要来自战场指令、聊天联盟频道的财务数据和竞争对手动态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.20,
+          "explanation": "更多传递的是游戏内特定的规则知识，对现实世界的人文或哲学知识提升有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "角色的属性、技能和等级高低是参与社会竞争的基础，个人实力的提升至关重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "血盟系统极度依赖玩家之间的协调、结盟、背叛和对抗，联盟层面的动态是主要交互形式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "单个服务器的政治生态、联盟调整和税收分配形成了极具统治力的完整社会框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.45,
+          "explanation": "仅限于服务器内的怪物与人类阵营对抗，尚未上升到整个文明的宏大叙事层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "游戏背景中不存在宇宙或神级力量体系深刻介入玩家日常争斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "游戏内除了日夜更替和攻城周期外，缺乏长期的历史演化记录或跨世代叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.65,
+          "explanation": "包含龙族、精灵、魔法等典型中世纪奇幻元素，这些元素是游戏核心战斗支撑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.35,
+          "explanation": "游戏氛围更多是凝重和对抗性，纯粹的快乐往往来自于阶段性的胜利或偶然的收获。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.15,
+          "explanation": "战斗失败或失去资源会带来沮丧，但游戏节奏不允许长期停留在悲伤的情绪氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.25,
+          "explanation": "被隔离在血盟核心圈外或独自狩猎时的孤独感会被强对抗环境所放大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "核心成员之间的物资支援和共同抗敌的亲密协作会提供一定程度的温暖感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "随时可能遭受上层玩家攻击和掉落装备的恐惧感是野外练级的基本心理层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.90,
+          "explanation": "这是游戏最显著的体验，从攻城倒计时到野外的突然袭击，始终处于紧绷的竞争状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.10,
+          "explanation": "以2D画面为主的复古感，很少产生由场景带来的惊叹，更多是对对手实力的忌惮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.10,
+          "explanation": "游戏叙事和背景设定中并不刻意强调和引发过去的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "对掉宝的期待，但因爆率极低和强大的竞争者存在，希望感经常被压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.15,
+          "explanation": "游戏氛围倾向于现实的权力对抗，而不是带有浪漫色彩的伤感或静思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.60,
+          "explanation": "被PK杀死、装备被别人捡走或盟区被侵犯等事件很容易激发出强烈的愤怒和报复情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "PvP开放规则和怪物密度使得游戏里几乎不存在绝对安全的平和区域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.40,
+          "explanation": "画质虽受限于时代，但带有一种经典的古典像素或手绘风格美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "界面元素繁杂，需要同时处理大量信息，体验重心不是简约和留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "游戏视觉基调荒凉和严酷，并非以华丽宝石或亮闪闪的宝物为核心美化特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.50,
+          "explanation": "地牢的昏暗环境与野外沉重的政治氛围，以及关于背叛和阴谋的敌我关系基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.20,
+          "explanation": "主色调是厚重甚至压抑的，缺少明亮开朗的风景基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "游戏强调硬碰硬的物理碰撞和即时计算，氛围更偏向现实主义而非幻境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.30,
+          "explanation": "虽然背景是奇幻，但大量机制被玩家摸透，神秘感仅存于部分高阶首领和传说中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "系统设计非常经典且固化，是传统MMORPG的定型者而非激进实验者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "其美术风格、用户界面和底层规则为时代定义了经典网游范式，具有强烈的怀旧古典感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.20,
+          "explanation": "无论技术还是UI，在今天看来已属于过时状态，缺乏现代性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "仅有基础的任务线引导，几乎没有由系统引导的复杂剧情主线故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "NPC和角色的背景故事相对贫瘠，玩家角色也没有内置的心理设定和深度背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.65,
+          "explanation": "角色的升级构造、装备的替换以及从新人到核心骨干的身份变迁是核心驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.70,
+          "explanation": "通过亚丁王国各个城镇、地牢和神话传说构建了一个稳固且可长期运营的奇幻世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.05,
+          "explanation": "游戏的社交叙事虽是非线性的，但底层游戏进程限制玩家必须遵循线性的升级流程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.90,
+          "explanation": "拥有极高的时间成本，练级和获取装备的缓慢进度迫使玩家进行极长周期的沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.75,
+          "explanation": "攻城战动辄数百人对阵，激烈的法术释放和多人近距离肉搏场面出现频次高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "冲突是游戏存在的根基，涉及玩家个人恩怨、血盟面子以及主城领地的所有权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.05,
+          "explanation": "任务设计不存在对体制或人性本质的系统性哲学追问和反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.45,
+          "explanation": "个人英雄主义存在空间，如单挑PK高手，但难以对抗成建制的集体力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.90,
+          "explanation": "个人的产出严重依赖于血盟带来的稳定环境和盟友的组织能力，脱离集体寸步难行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "游戏内缺乏传统家庭链路，仅仅存在以血盟为架构的模拟帮派亲属称谓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.75,
+          "explanation": "长期一起抗敌、守城和练级构建了深厚的战友情谊，盟友间的肩并肩作战是主要联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "游戏缺乏伴侣机制，交往往往仅是基于资源和互利的利益婚姻或感情点缀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.95,
+          "explanation": "整个服务器构成了具有相同文化共识的玩家社区，社区舆论和归属感影响了每个人的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.98,
+          "explanation": "从争夺练级地点到领主资格，过度竞争是游戏生命力的表现和一切行为的核心机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.85,
+          "explanation": "合作是对外的首要刚需，没有团队配合无法进行任何高级的狩猎活动和城战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "血盟的阶级制度、攻城战的王权交替和强盟对弱盟的资源剥削充斥着权力话语。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.70,
+          "explanation": "血盟名称、头顶的称号和职业定位构成了角色在服务器中非常重要的社交身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.25,
+          "explanation": "虽然号称高自由，但底层规则和集体压力下个体真正可自由选择的范围相对有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "服务器的局面经常由强势盟的独裁来维护，而不是靠公正第三方秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.05,
+          "explanation": "游戏并不致力于探究真理，阵营敌我的宣传更多是关于利益分配的口水战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.10,
+          "explanation": "玩家关注点永远在于武器装备的数值，审美价值往往是次要的附带品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.85,
+          "explanation": "登上全服等级第一、拿到攻城城池、获得稀有魔法均被视为炫耀的主要实绩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "游戏玩法常常因为不公而产生争执，但世界观并不普遍推崇司法公正体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.55,
+          "explanation": "攻城战中成员需要服从命令进行车轮式送死冲锋以消耗城堡守备，这象征了为集体的阵亡奉献。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.20,
+          "explanation": "缺乏帮助个体进行自我了解和内心察觉的机制，其本质是向内关注非常匮乏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "游戏内不断更替的霸主打碎了持续的传统，很少有人固守在传统的守旧习惯中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.10,
+          "explanation": "社会阶级的调整是极其稳定的，一个版本的天花板职业很难被推翻和下克上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.80,
+          "explanation": "野外PvP要求玩家必须优先保证自身生命和资产（掉落风险），存续是行动底线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.15,
+          "explanation": "行为意义被直接的工具化所取代，深层次的形而上学意义探索在游戏里不是重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.30,
+          "explanation": "对未涉足的高阶区域和怪物机制会有少许好奇，但受限于惩罚机制，弱者不敢轻易去试探。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.10,
+          "explanation": "系统不支持个性化房屋、DIY或生活技能输出创造性成果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.40,
+          "explanation": "第一次闯入某个危险迷宫时带有强烈的冒险属性，但固化的定点练级减弱了体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.10,
+          "explanation": "游戏节奏建立在连续的刷怪与战斗里，几乎没有时间提供回顾性的沉思空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.98,
+          "explanation": "一切的收益和进步都是基于零和博弈，超过了他人的数值和占有就是唯一的出路。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.85,
+          "explanation": "强制社交关系大大高于单机游戏，任何行为都必须通过对讲机和朋友密谋以求一箭双雕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "血盟约束下的攻城集合和统一的纪律动作都需要玩家高度自制和服从。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.70,
+          "explanation": "挑战高阶Boss或者孤身深入敌后骚扰会涉及极高风险，但收益往往带来巨额加成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "稍有不慎就会被突发冲突打断，环境刺激水平极高，始终保持镇静非常困难。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "游戏的任务和领地制鼓励正面较量，逃避往往导致个人资源和地位的消退。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.40,
+          "explanation": "大量单位同屏的法术特效会产生视觉混乱，但毕竟是2D局限，色彩刺激有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.35,
+          "explanation": "整体偏暗的色调使得《天堂》不像卡通游戏那样丰富绚丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.45,
+          "explanation": "标志性的音效在PK和施法中起重要作用，但缺少极具压迫感的复杂环境声场。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "练级节奏规律但战斗爆发时节奏感极快，攻城冲锋号令使得心率和操作频率陡增。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.65,
+          "explanation": "经典的阴暗森林和雾蒙蒙的地监有着浓厚的中世纪邪典氛围和寒意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "极高的死亡惩罚和社交责任要求玩家始终高度专注于屏幕上的每一寸动向。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.75,
+          "explanation": "攻城时的职业搭配、包场时的阵型展开以及间谍战的部署都有很深厚的博弈思维。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.55,
+          "explanation": "极度考验走位、卡药水和瞬间的判断力，操作差距是双方面对面交锋胜负的致命分界线。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.85,
+          "explanation": "血盟格局和城主权归属全由玩家制定，系统极少干预玩家的自决和野心。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.50,
+          "explanation": "尽管地图体量大，更多为定点传送刷怪，并未像解谜游戏那样鼓励复杂路径探索。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.65,
+          "explanation": "如集齐变身魔杖和稀有法术是一个长线目标，有着完备的积攒和装备收集激励。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.85,
+          "explanation": "数值和级别的爬坡曲线较陡，变强的长期刺激让玩家的肝度不断加码。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.98,
+          "explanation": "个人内线联系、外交谈判碰面和分赃社交几乎覆盖了百分之九十的上线时间。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.98,
+          "explanation": "攻城和野外均为零和限制的硬核PVP，没有妥协或僵持的随机平局结算。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家所经历的核心是一种渗透到虚拟生活每个角落的紧张与对抗。持续的资源匮乏和环境威胁使得每一次野外狩猎都犹如行走在钢丝上，而在攻城战中，这种长期积攒的压力被瞬间引爆为集体的狂热、愤怒与殊死搏斗。成功的喜悦多来自于击败宿敌和获得领土，失败的沮丧则无比沉重，整个心理体验在高度警觉和短暂的胜利狂喜之间剧烈摆荡。",
+        "structure_description": "游戏通过毫无限制的野外PVP规则和以周为单位的攻城战周期，为这种体验构建了稳固的社会学结构。漫长的练级与准备期对应着低强度但持续的警惕感，而攻城战爆发时则进入极高强度的集体情绪释放期。血盟的阶级分工和战利品分配系统进一步通过制度化手段，结构化了玩家之间的合作、牺牲与激烈竞争。",
+        "cognitive_expression": "作品极度强调务实的社会策略思维和风险计算能力。玩家需要不断评估野外威胁指数、谈判双方筹码以及多线战场的兵力分配，大脑始终处于处理敌对势力和资源调度的逻辑运算中。其认知需求并非对抽象艺术的无为欣赏，而是对复杂社会系统和即时战术动态的敏锐应对。",
+        "behavioral_tendency_description": "游戏强烈鼓励主动竞争和结盟行为，寻求稳定庇护的倾向导致了极其稳固的集体主义结构，而内部严格的组织纪律则是个人生存的前提。同时，高风险操作如独闯龙潭试图在战场上拿走稀缺掉落物又被高回报所强化。回避冲突和疏于社交往往意味着被边缘化和面临随时被淘汰的危险。"
+      },
+      "personality_affinity": {
+        "Ni": 0.30,
+        "Ne": 0.15,
+        "Ti": 0.60,
+        "Te": 0.90,
+        "Fi": 0.15,
+        "Fe": 0.70,
+        "Si": 0.45,
+        "Se": 0.55,
+        "openness": 0.30,
+        "conscientiousness": 0.70,
+        "extraversion": 0.65,
+        "agreeableness": 0.35,
+        "neuroticism": 0.60,
+        "Assertive": 0.75,
+        "Turbulent": 0.50
+      },
+      "supporting_evidence": [
+        "血盟是玩家在服务器中最核心的社会归属单位，个人发展严重依赖于血盟提供的集体保护与资源分配体系。",
+        "攻城战系统允许玩家联盟对特定城堡发动周期性的争夺，胜者可以占领城堡并调整该区域的商业税率。",
+        "野外区域普遍允许自由PVP，玩家死亡后有几率掉落持有的道具和装备，被杀方会承受实质性损失。",
+        "魔法书和稀有变身卷轴等核心道具分散在特定高阶头目掉落中，这加剧了血盟之间对垄断狩猎区的激烈冲突。",
+        "等级经验值获取极度缓慢且具有惩罚机制，高等级角色一旦死亡会损失大量经验，导致升级过程极为艰辛。",
+        "血盟内部存在明确的阶级划分，盟主、副盟主及普通成员在权力和资源获取优先级上存在明显差异。",
+        "服务器的政治格局完全由玩家决定，强弱血盟之间通过频繁的外交谈判、结盟和背叛来维持动态平衡。",
+        "打怪和刷图往往需要长时间机械性的重复操作，特定等级的提升可能需要数月甚至更久的规律性在线时间。",
+        "战斗极度依赖消耗品补给，熟练地计算并携带药水和回城卷轴是生存的关键，任何一个微小的补给出错都可能致命。",
+        "王族职业是唯一可以创建血盟并参与攻城宣告统治权的职业，其核心玩法圈定了以血盟为单位的游戏逻辑。",
+        "攻城战的成功与否非常依赖于众多盟友按梯队进退的有序配合，参与攻城的玩家必须严格遵守指挥的命令。",
+        "抢夺特定头目或破解敌方部署常依赖于在敌对血盟中安插隐姓埋名的‘间谍’账号来获取内部情报。",
+        "由于存在极品变身的设定，集齐整套稀有变身成为了玩家炫耀财力和强大经验条的主要直接目标。",
+        "游戏内经济严重受到几个大血盟操控，核心刷钱点和资源地往往由数一数二的势力派出打手进行清场封锁。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

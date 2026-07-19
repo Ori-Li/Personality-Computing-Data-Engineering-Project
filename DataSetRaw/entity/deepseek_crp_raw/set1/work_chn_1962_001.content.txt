@@ -1,0 +1,724 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1962_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "让世界充满爱",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 1986,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《让世界充满爱》是郭峰于1986年创作的大型公益歌曲，由百名歌手在首都体育馆共同演唱。作品旋律温婉流畅，采用三部分结构层层递进，从个人关怀延伸到人类大爱。歌词以真诚平实的语言呼唤和平、友爱与理解，抛弃了当时常见的空洞口号式表达。作为中国流行音乐史上第一首大型群星公益歌曲，它不仅标志着内地流行音乐创作的成熟，更开创了音乐参与社会公益的新模式，为后来《明天会更好》等作品提供了范式。整部作品带给听众温暖、希望与集体情感共鸣的体验。",
+        "themes": [
+          "和平",
+          "友爱",
+          "希望",
+          "人类共同体",
+          "公益",
+          "集体情感",
+          "理解",
+          "温暖"
+        ],
+        "keywords": [
+          "郭峰",
+          "百名歌手",
+          "首都体育馆",
+          "1986年",
+          "公益歌曲",
+          "大合唱",
+          "群星",
+          "中国流行音乐",
+          "改革开放",
+          "人道主义",
+          "博爱"
+        ],
+        "core_experience": "在温婉大气的旋律与真诚平实的歌词中，听众被带入一种温暖的集体情感场域。百人合唱的声浪层层叠加，从个人的感动逐渐扩展为对人类共同命运的关怀，最终抵达一种平和而坚定的希望感。",
+        "experience_introduction": "《让世界充满爱》通过温婉流畅的旋律和真诚平实的歌词，将听众从个人情感关怀逐步引入对全人类共同命运的关注。百名歌手的集体演唱创造出一种宏大的声场，使个体听众感受到被包容的温暖和集体力量的支持。歌曲的三段式结构从温和的抚慰开始，经过希望的升华，最终在坚定的信念中收束，整个过程引导听众经历从内心柔软到精神振奋的情感旅程，是中国改革开放时期集体情感记忆的典型表达。"
+      },
+      "experience_vector": {
+        "passion": 0.55,
+        "healing": 0.85,
+        "awe": 0.60,
+        "nostalgia": 0.50,
+        "reflection": 0.45,
+        "romance": 0.20,
+        "tension": 0.10,
+        "warmth": 0.90,
+        "loneliness": 0.15,
+        "hope": 0.88
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.25,
+          "depth_of_thought": 0.40,
+          "logical_structure": 0.30,
+          "novelty": 0.65,
+          "exploration": 0.35,
+          "ambiguity": 0.20,
+          "predictability": 0.75,
+          "information_density": 0.30,
+          "learning_value": 0.50
+        },
+        "worldview": {
+          "personal_scale": 0.40,
+          "relationship_scale": 0.55,
+          "social_scale": 0.75,
+          "civilization_scale": 0.70,
+          "cosmic_scale": 0.30,
+          "time_span": 0.25,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.40,
+          "sadness": 0.25,
+          "loneliness": 0.15,
+          "warmth": 0.90,
+          "fear": 0.05,
+          "tension": 0.10,
+          "awe": 0.60,
+          "nostalgia": 0.35,
+          "hope": 0.88,
+          "melancholy": 0.20,
+          "anger": 0.05,
+          "peace": 0.80
+        },
+        "aesthetic": {
+          "beauty": 0.80,
+          "minimalism": 0.55,
+          "luxury": 0.30,
+          "darkness": 0.05,
+          "brightness": 0.85,
+          "dreamlike": 0.25,
+          "mystery": 0.10,
+          "experimental": 0.30,
+          "classical": 0.65,
+          "modern": 0.50
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.20,
+          "character_growth": 0.25,
+          "world_building": 0.20,
+          "nonlinear_structure": 0.10,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.10,
+          "conflict_intensity": 0.15,
+          "philosophical_depth": 0.45
+        },
+        "social": {
+          "individualism": 0.25,
+          "collectivism": 0.85,
+          "family": 0.40,
+          "friendship": 0.60,
+          "love": 0.70,
+          "community": 0.80,
+          "competition": 0.05,
+          "cooperation": 0.90,
+          "power_relationship": 0.10,
+          "identity": 0.30
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.35,
+          "truth": 0.40,
+          "beauty": 0.75,
+          "achievement": 0.30,
+          "justice": 0.50,
+          "sacrifice": 0.40,
+          "self_exploration": 0.25,
+          "tradition": 0.35,
+          "change": 0.60,
+          "survival": 0.20,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.35,
+          "adventure": 0.15,
+          "reflection": 0.50,
+          "competition": 0.05,
+          "social": 0.75,
+          "discipline": 0.30,
+          "risk": 0.10,
+          "calm": 0.65,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.30,
+          "color_richness": 0.40,
+          "sound_intensity": 0.60,
+          "rhythm_energy": 0.35,
+          "atmosphere": 0.80,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行",
+          "tempo": 0.35,
+          "energy": 0.50,
+          "vocal_style": "合唱",
+          "instrumentation": "管弦乐与钢琴为主",
+          "production_style": "八十年代模拟录音",
+          "lyrical_theme": "和平与友爱",
+          "emotional_scene": "大型公益演出",
+          "cultural_context": "中国改革开放时期"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.55,
+          "explanation": "合唱部分的声浪推进带来一定的情感热度，但整体表达仍然克制温和。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.85,
+          "explanation": "旋律温婉流畅，歌词如抚慰般直接呼唤理解与关怀，带来强烈的情绪安抚效果。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.60,
+          "explanation": "百人合唱的集体声场和宏大编曲带来一定的震撼感，但并非压倒性。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.50,
+          "explanation": "作品承载八十年代的时代记忆，但本身以面向未来的希望为主调。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.45,
+          "explanation": "歌词唤起对人类关系的思考，但表达直白，不强调深度思辨。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.20,
+          "explanation": "关注点是人类大爱而非个体浪漫情感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.10,
+          "explanation": "全曲氛围平和温暖，几乎不存在紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.90,
+          "explanation": "整首歌曲以温暖为核心基调，旋律与歌词共同营造强烈的被关怀感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "百人合唱的形式本身就消解了个体孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.88,
+          "explanation": "歌词反复呼唤明天与理解，最终落在坚定的希望之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "博爱、和平等概念具有一定抽象性，但歌词表达直白易懂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.25,
+          "explanation": "歌曲结构简单清晰，旋律线条流畅，不设复杂的和声或节奏变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.40,
+          "explanation": "主题涉及人类共同体，但表达偏重情感而非深入分析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "三段式结构明显，但更依赖情感递进而非逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.65,
+          "explanation": "作为中国第一首大型公益群星合唱歌曲，在当时具有开创性意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "主题鼓励对人类共同命运的关怀，但未深入未知领域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.20,
+          "explanation": "歌词表达极为明确，无歧义空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "旋律走向和情感发展符合大众期待，可预测性强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.30,
+          "explanation": "歌词简洁，不负载大量信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.50,
+          "explanation": "可了解八十年代中国音乐社会运动模式及公益文化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.40,
+          "explanation": "歌词从'我'出发，但迅速转向集体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.55,
+          "explanation": "强调人与人之间的理解与友爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.75,
+          "explanation": "作品本身是一场社会公益活动，关注社会集体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.70,
+          "explanation": "呼唤世界和平，触及人类文明层面的共同关切。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.30,
+          "explanation": "关注点在地球人类，未涉及宇宙或超越维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "关注当下和未来的希望，无历史纵深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "完全基于现实世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.40,
+          "explanation": "有喜悦的底色，但并非强烈欢快。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.25,
+          "explanation": "隐含对苦难的抚慰，略带感伤但不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.15,
+          "explanation": "集体合唱的形式与内容均消解孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.90,
+          "explanation": "整体氛围温暖如拥抱，是核心情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "全曲无恐惧元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.10,
+          "explanation": "旋律舒缓，冲突感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.60,
+          "explanation": "宏大编曲和百人合唱带来敬意与感动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.35,
+          "explanation": "对部分听众唤起时代记忆，但歌曲本身面向未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.88,
+          "explanation": "始终贯穿乐观与对未来的坚定信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.20,
+          "explanation": "在抚慰中有轻微感伤，但不构成主要情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "全曲无愤怒表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.80,
+          "explanation": "通过集体合唱的和谐与歌词的宽慰，传达出深层的平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.80,
+          "explanation": "旋律优美流畅，合唱编排和谐，符合大众审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "编曲不复杂，依赖主体旋律和合唱的纯粹性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.30,
+          "explanation": "公益主题与质朴表达，无奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.05,
+          "explanation": "调性与氛围明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.85,
+          "explanation": "充满光明与希望的审美基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "表达真诚踏实，非虚幻梦境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.10,
+          "explanation": "无神秘元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.30,
+          "explanation": "群星合唱模式在当时具有实验性，但音乐本身传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.65,
+          "explanation": "管弦乐编曲和合唱形式继承古典音乐传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.50,
+          "explanation": "在八十年代属于现代流行音乐范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "无剧情叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.20,
+          "explanation": "无人物塑造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.25,
+          "explanation": "无人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.20,
+          "explanation": "无世界观设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.10,
+          "explanation": "结构线性递进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "温婉的旋律引导听众逐渐沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.10,
+          "explanation": "无动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.15,
+          "explanation": "内容呼唤和平，消解冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.45,
+          "explanation": "触及人类大爱的哲学命题，但表达通俗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.25,
+          "explanation": "强调集体而非个人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.85,
+          "explanation": "百人合唱与人类共同体主题强烈体现集体主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.40,
+          "explanation": "未直接涉及家庭，但爱可以延伸为家庭情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.60,
+          "explanation": "友爱是主题之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.70,
+          "explanation": "核心是博爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.80,
+          "explanation": "直接表现世界大家庭的社区感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "完全回避竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.90,
+          "explanation": "百名歌手合作即是对合作精神的最高体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.10,
+          "explanation": "强调平等与爱，无权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.30,
+          "explanation": "不太关注个体身份认同，而是人类共同身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "和平是自由的前提，但未直接强调自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "合唱本身有秩序感，但非主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.40,
+          "explanation": "歌词真诚，但未探讨真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "旋律与情感之美是核心体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "不强调成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.50,
+          "explanation": "爱中隐含对不公的抚慰，但未直接主张正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.40,
+          "explanation": "公益行为本身有奉献意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.25,
+          "explanation": "向外关注他人，而非向内探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.35,
+          "explanation": "歌曲本身是新事物，但合唱形式有传统根基。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.60,
+          "explanation": "呼唤世界改变，迎来爱与和平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.20,
+          "explanation": "不涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "追寻爱与和平赋予生命意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "不激发探索未知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "公益歌曲鼓励创造更美好的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "无冒险元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.50,
+          "explanation": "引导反思人际关系与世界现状。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "完全反竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.75,
+          "explanation": "鼓励积极参与社会，共建和谐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "无严格要求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "无风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.65,
+          "explanation": "歌曲氛围引导内心平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "不提供逃避，而是面对和改善。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.30,
+          "explanation": "主要是听觉体验，视觉非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.40,
+          "explanation": "音乐色彩明亮柔和，但不复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.60,
+          "explanation": "百人合唱有较强声压，但旋律柔和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.35,
+          "explanation": "节奏舒缓平稳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "氛围感极强，温暖包容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "合唱的包围感容易让人沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.35,
+          "explanation": "中慢板，速度平缓。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.50,
+          "explanation": "情感充沛但不激烈。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在温婉大气的旋律中感受到被包容的温暖，百人合唱的声浪从个体关怀逐渐推升至对人类共同命运的关怀，最终在坚定的希望中获得心灵的慰藉。整个过程如被一双温暖的手轻轻托起，从柔软的感动走向明亮而平和的信念。",
+        "structure_description": "歌曲采用三段式结构，从温和的抚慰开始，经过希望的升华，在坚定的信念中收束。管弦乐与钢琴的编曲配合合唱的层层叠加，形成了从平静到振奋的流畅情感弧线，结构简洁而有效。",
+        "cognitive_expression": "作品引导听众进行关于人类关系与社会共同体的温和思考，不设知识门槛，表达直白。听众无需深度逻辑分析，主要通过情感共鸣理解博爱、和平等抽象概念，认知参与度适中。",
+        "behavioral_tendency_description": "歌曲鼓励听众走出孤立自我，以友善、合作的态度参与社会连接。它消解竞争与对抗倾向，代之以关怀、分享与集体责任感的温和召唤，让人倾向于在平和氛围中主动传递温暖。"
+      },
+      "personality_affinity": {
+        "Ni": 0.45,
+        "Ne": 0.40,
+        "Ti": 0.20,
+        "Te": 0.35,
+        "Fi": 0.55,
+        "Fe": 0.88,
+        "Si": 0.50,
+        "Se": 0.25,
+        "openness": 0.50,
+        "conscientiousness": 0.55,
+        "extraversion": 0.65,
+        "agreeableness": 0.90,
+        "neuroticism": 0.35,
+        "Assertive": 0.70,
+        "Turbulent": 0.30
+      },
+      "supporting_evidence": [
+        "旋律温婉流畅，以中慢板节奏营造平和氛围。",
+        "歌词直接呼唤'让世界充满爱'，表达直白真诚。",
+        "百名歌手共同演唱，创造出宏大的集体声场。",
+        "编曲以管弦乐和钢琴为主，音色明亮柔和。",
+        "歌曲采用三段式结构逐步推进情感层次。",
+        "主题围绕和平、理解与人类共同命运展开。",
+        "整首歌曲以温暖和希望为核心情感基调。",
+        "歌词从'我'出发，快速扩展至'我们'和'世界'。",
+        "创作与演出的直接目的是公益和传递爱心。",
+        "作品完全回避冲突、对立和负面情绪表达。",
+        "合唱形式本身就具有强烈的包容性和归属感。",
+        "在二十世纪八十年代中国社会转型期起到情感凝聚作用。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

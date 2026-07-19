@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1987_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "东京月光曲",
+        "type": "STAGE",
+        "countryName": "日本",
+        "year": 0,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-05-21",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《东京月光曲》是由根本宗子编剧并导演的日本小剧场舞台剧，由月刊根本宗子剧团演出。作品以东京都市为背景，通过节奏明快且极具锐度的台词，刻画当代青年男女在表面社交下的深度孤独、人际疏离与对亲密关系的渴望。舞台以简约布景聚焦演员的身体与对话，融合幽默与刺痛感，呈现都市生活中真实而微妙的心理图景。作为日本当代小剧场代表，作品挑战传统叙事结构，强调当代青年无处安放的情感与自我寻求。",
+        "themes": [
+          "都市孤独",
+          "人际疏离",
+          "现代爱情",
+          "自我认同",
+          "青年焦虑",
+          "沟通困境"
+        ],
+        "keywords": [
+          "东京",
+          "月光",
+          "都市青年",
+          "根本宗子",
+          "小剧场",
+          "月刊根本宗子",
+          "对白剧",
+          "幽默悲喜剧",
+          "寂寞",
+          "渴望"
+        ],
+        "core_experience": "在轻松诙谐的对白与突然切入的沉默中，体验当代都市青年在拥挤人群中无法填补的孤独感，以及他们对真挚情感连接的本能渴望与反复失落的矛盾心理。",
+        "experience_introduction": "观众入场即被置于冷峻的都市月光隐喻中，简洁舞台将全部焦点推向演员的台词和肢体。作品前半段以高密度幽默冲击观众的社交面具，让人在笑声中逐渐意识到角色们台词之下深藏的孤独与自我怀疑。随着情节推进，幽默表层被逐渐剥离，代之以赤裸的沉默与情绪爆发点，迫使观众直面自己可能同样经历的沟通挫败和对温暖的诉求。全剧未提供明确解答，最终将一种琐碎而持久的都市哀伤悬留在空间里，让每位观众重新审视自己与世界的关系。"
+      },
+      "experience_vector": {
+        "passion": 0.38,
+        "healing": 0.15,
+        "awe": 0.05,
+        "nostalgia": 0.22,
+        "reflection": 0.84,
+        "romance": 0.25,
+        "tension": 0.72,
+        "warmth": 0.28,
+        "loneliness": 0.91,
+        "hope": 0.14
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.68,
+          "complexity": 0.55,
+          "depth_of_thought": 0.79,
+          "logical_structure": 0.20,
+          "novelty": 0.42,
+          "exploration": 0.30,
+          "ambiguity": 0.73,
+          "predictability": 0.22,
+          "information_density": 0.60,
+          "learning_value": 0.35
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.90,
+          "social_scale": 0.55,
+          "civilization_scale": 0.10,
+          "cosmic_scale": 0.02,
+          "time_span": 0.08,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.08,
+          "sadness": 0.65,
+          "loneliness": 0.96,
+          "warmth": 0.18,
+          "fear": 0.22,
+          "tension": 0.68,
+          "awe": 0.03,
+          "nostalgia": 0.15,
+          "hope": 0.10,
+          "melancholy": 0.88,
+          "anger": 0.12,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.92,
+          "luxury": 0.02,
+          "darkness": 0.58,
+          "brightness": 0.20,
+          "dreamlike": 0.25,
+          "mystery": 0.15,
+          "experimental": 0.78,
+          "classical": 0.05,
+          "modern": 0.95
+        },
+        "narrative": {
+          "plot_complexity": 0.25,
+          "character_depth": 0.88,
+          "character_growth": 0.30,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.55,
+          "slow_immersion": 0.42,
+          "action_intensity": 0.04,
+          "conflict_intensity": 0.75,
+          "philosophical_depth": 0.60
+        },
+        "social_relationship": {
+          "individualism": 0.82,
+          "collectivism": 0.15,
+          "family": 0.08,
+          "friendship": 0.35,
+          "love": 0.62,
+          "community": 0.18,
+          "competition": 0.22,
+          "cooperation": 0.12,
+          "power_relationship": 0.28,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.08,
+          "truth": 0.70,
+          "beauty": 0.25,
+          "achievement": 0.10,
+          "justice": 0.05,
+          "sacrifice": 0.12,
+          "self_exploration": 0.93,
+          "tradition": 0.02,
+          "change": 0.35,
+          "survival": 0.30,
+          "meaning": 0.88
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.15,
+          "adventure": 0.05,
+          "reflection": 0.95,
+          "competition": 0.18,
+          "social": 0.72,
+          "discipline": 0.06,
+          "risk": 0.10,
+          "calm": 0.22,
+          "escape": 0.42
+        },
+        "sensory": {
+          "visual_intensity": 0.25,
+          "color_richness": 0.10,
+          "sound_intensity": 0.35,
+          "rhythm_energy": 0.62,
+          "atmosphere": 0.88,
+          "immersion": 0.68
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.95,
+          "actor_expression": 0.89,
+          "body_expression": 0.62,
+          "audience_interaction": 0.54,
+          "performance_intensity": 0.78,
+          "ritual_sense": 0.20
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.38,
+          "explanation": "作品的情感能量集中在心理斗室内的暗涌，而非炽热外放的情绪，因此激情得分偏低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "叙事不提供抚慰或和解，反而持续凸显人际疏离的刺痛感，疗愈感极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "舞台奇观与宏大叙事几乎完全缺失，作品也不意在引发敬畏，仅在极少瞬间产生一丝超然感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.22,
+          "explanation": "作品虽以当下都市为背景，但月光象征赋予一层微弱的时间流逝感，怀旧仅作为隐含情绪出现。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.84,
+          "explanation": "密集的对白和情绪中断持续迫使观众审视自身人际模式，内省感是整部剧的核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.25,
+          "explanation": "虽有关于爱情关系的讨论，但以审视、剖析为主，浪漫化表达极克制，未被当作情绪主体渲染。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.72,
+          "explanation": "角色间的社交尴尬、未说破的情绪碰撞制造出持续的心理紧绷感，现场感加重了这一体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.28,
+          "explanation": "偶尔出现的片段式理解与关怀瞬间带来一丝温度，但整体情绪的冷调叙事大幅压缩了温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.91,
+          "explanation": "寂寞是贯穿全剧的基调，每个角色都在各自的语言牢笼内渴望连接却无法触及彼此。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.14,
+          "explanation": "结局倾向于悬置而非给出光明出路，对未来的乐观几乎被持续的情绪低气压完全覆盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.68,
+          "explanation": "大量对白依赖象征性表达和潜台词，未直接点明的心理状态需要观众自行抽象翻译。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "角色关系和内在动机以层层剥离方式呈现，虽剧情事件不多，但情绪层次具有一定复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.79,
+          "explanation": "作品刻意挖掘都市人际疏离、身份矛盾等深层议题，对白经常触及存在感与自我认知的边界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.20,
+          "explanation": "叙事结构更接近情绪片段组合，非因果推理驱动，理性逻辑推演并非作品重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.42,
+          "explanation": "在当代小剧场语境中，以尖锐台词剖析寂寞并非主题独创，但本土化都市语感仍具一定新颖度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "地点固定于都市室内外场景，探索仅指向心灵暗角而非外部世界，未提供未知系统的发现感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.73,
+          "explanation": "角色动机、关系发展及结局均留白较多，拒绝清晰解释，开放式表达赋予高模糊度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.22,
+          "explanation": "传统戏剧冲突被淡化，剧情推进依赖情绪跳跃而非线性铺陈，因此可预测性较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.60,
+          "explanation": "由于布景极简，全部信息由台词和细节微表情承载，单位时间内语义交付量较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.35,
+          "explanation": "观众可深化对当代都市孤独文化理解，但无意传授系统性知识，学习价值更多偏向情绪敏感度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "全剧完全聚焦个人内心世界和亲密交往，历史、社会制度等宏观背景被刻意弱化至极低水平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.90,
+          "explanation": "所有情节均由一对或多对人际关系驱动，人际互动是唯一现实尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "虽不直接批判社会，但群像台词和背景氛围不断暗示现代都市社会对个体的无形压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.10,
+          "explanation": "故事仅涉及当代东京日常，无历史纵深及文明层面议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.02,
+          "explanation": "月光意象仅用于情绪烘托，未展开宇宙或形而上学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.08,
+          "explanation": "事件集中于短时期，可能为几个夜晚，缺乏长时间跨度的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.00,
+          "explanation": "作品完全构建于当代现实主义基础上，不含任何超自然或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.08,
+          "explanation": "仅有极少量幽默台词带来的瞬间轻松，整体情绪几乎与快乐绝缘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.65,
+          "explanation": "持续的失联和挫败感在全剧中培养出一种不浓烈却绵长的哀伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.96,
+          "explanation": "寂寞不仅是背景氛围，更直接作为核心主题贯穿每位角色全部行为与对白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.18,
+          "explanation": "偶有的共鸣瞬间极端脆弱并迅速被冷默替换，温暖难成稳定情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.22,
+          "explanation": "恐惧表现为对情感暴露和被看透的社交焦虑，而非外部威胁造成的惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.68,
+          "explanation": "角色之间未爆发的冲突和始终未满足的期待制造出持续存在的紧绷氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.03,
+          "explanation": "整体回避任何可能引发崇敬或惊奇的经验，仅为有限空间内的微观情感观察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.15,
+          "explanation": "怀旧仅以微弱的失去感存在，并非驱动叙事的重要情感力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.10,
+          "explanation": "几乎没有朝向未来的乐观提示，大量悬置的结局削弱了可能的希望表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.88,
+          "explanation": "由寂寞与失望调和出的哀愁弥漫全剧，是其核心情绪标识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.12,
+          "explanation": "虽存在不满情绪，但多以压抑的讽刺口吻表达，较少直接宣泄愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "平静时刻匮乏，角色的内心和角色间关系始终处于不安定状态，无法提供平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "美感不是作品追求目标，舞台设计趋于朴素，仅偶尔在月光意象下制造一丝诗意的视觉瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.92,
+          "explanation": "极简布景、少道具、零多媒体，高度强调文本和演员身体，极简主义美学贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.02,
+          "explanation": "整个美学取向与奢华完全背道而驰，可以说是去物质化的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.58,
+          "explanation": "灯光和氛围偏向都市夜晚的沉郁与私密，但未走向极端沉重或压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.20,
+          "explanation": "明亮仅在少数尴尬或幽默场景中以冷光形式出现，整体调性显著黯淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "月光与某些静默时刻带有一丝梦境般的疏离感，但核心表达仍牢固扎根于现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "未解之谜不是叙事手段，作品用留白制造暧昧而非谜题，神秘感有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.78,
+          "explanation": "非传统的叙事结构、自由的台词节奏、对小剧场空间的实验性使用，标榜其先锋姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "完全拒绝古典美学范式，背离传统戏剧经典比例与结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.95,
+          "explanation": "从题材、议题到视觉语言与表演风格，全是高度当代性的都市文化产物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.25,
+          "explanation": "事件线索故意简化，情节并非叙事核心，复杂度极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.88,
+          "explanation": "角色虽然外部行为有限，但其内在层次、欲言又止的情感被挖掘得相当透彻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.30,
+          "explanation": "角色更多是在循环受挫而非阶梯式成长，内心改变并不显著或非正面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "无架空世界观，完全依赖现实东京，无需额外构筑系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.55,
+          "explanation": "剧情编排并不严格顺时，情绪片段拼接方式具有一定非线性特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.42,
+          "explanation": "全剧依赖观众逐渐浸入角色沉默和对白节奏，沉浸速度偏慢但并非极端延宕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.04,
+          "explanation": "无任何形体冲突或高强度动作戏，仅有日常性肢体动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.75,
+          "explanation": "冲突多以心理性、言语性搏斗展开，虽无物理暴力但情绪对抗强度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.60,
+          "explanation": "触碰存在主义式孤独、沟通不可及性等哲学命题，但以感性而非论证式展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.82,
+          "explanation": "角色各自封闭于个人叙事，一再体现自我中心式的孤独，集体联结十分薄弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "集体意识几乎缺失，社会纽带在剧中频频断裂而非加强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.08,
+          "explanation": "家庭纽带或以背景提及或以缺席形式出现，不是当前行动的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.35,
+          "explanation": "友谊更多表现为都市生存中的松散同盟，彼此给予的支持相当有限且易碎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.62,
+          "explanation": "爱情追求是驱动多数角色行为的内在引擎，但往往以失败、误解或情感消耗告终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.18,
+          "explanation": "社区意识淡薄，仅有都市陌生人之间即逝的交汇，缺乏社群凝聚力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.22,
+          "explanation": "偶有都市社会的隐性比较，但竞争并非核心冲突形态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.12,
+          "explanation": "合作场景极少，角色习惯于单打独斗式的情绪处理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.28,
+          "explanation": "权力主要体现为情感控制与自我暴露程度上的不对等，而非制度或阶层权力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.90,
+          "explanation": "角色持续追问自己是谁、对他人有何意义，身份迷航构成叙事核心矛盾之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "有逃离孤独的冲动，但并非对宏观自由的追求，更多是渴望摆脱内心束缚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.08,
+          "explanation": "故事体现的是失序而非秩序价值，亦未将维护规则作为重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.70,
+          "explanation": "角色不断试图看透他者和自我，揭露心理真实成为舞台行动的重要推力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "作品并不颂扬形式之美，仅偶尔在语言诗意度上触及审美价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.10,
+          "explanation": "世俗成就叙事完全缺席，角色无目标导向驱动，更多是随波逐流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "正义与否非关注点，不具备公共伦理评判功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.12,
+          "explanation": "仅有微弱的情感让步，缺少戏剧性牺牲行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.93,
+          "explanation": "整部作品即一场对都市自我无止境的追问和审视，自我探索是其核心价值主轴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.02,
+          "explanation": "几乎不相信任何传统价值，叙事完全立足当代文化瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.35,
+          "explanation": "有改变的渴望但缺乏实质变化，这反而加剧了角色的无力感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.30,
+          "explanation": "都市生存更多表现为情绪上不堪重负，非物理性的生存挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.88,
+          "explanation": "对无意义的焦虑弥漫全剧，角色不断在碎片化对话中搜寻意义却又屡屡失败。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "观众并非被引导去探索未知，而是被限制在已确定的封闭情感循环内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "创造活动几乎不出现，文本内向且自反，非生产性倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "完全没有冒险或探险行为，所有行动受限于日常场所。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "沉思是作品呼唤的唯一主导行为，整个舞台设置就是为了让观众不断反刍所见所闻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.18,
+          "explanation": "社会比较虽隐约存在，但外显竞争并非驱动行为的动因。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.72,
+          "explanation": "社交既是主题也是持续动作，但呈现出的是失败的、消耗性的社交尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.06,
+          "explanation": "生活缺乏结构和纪律，角色多呈现放任自流状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "虽有情感坦诚的微小风险，但无重大冒险举动，整体行为偏向规避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.22,
+          "explanation": "冷静常被内心焦虑颠覆，表面平静无法持久。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.42,
+          "explanation": "部分角色呈现出遁入独处或逃避深层交流的倾向，构成反复出现的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.25,
+          "explanation": "视觉元素被刻意压低，缺少壮观场面与高强度视觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.10,
+          "explanation": "配色通常趋于单色系，舞台光影对比有限，色彩丰富度极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.35,
+          "explanation": "若有配乐也属氛围性，强调人声和停顿而非声量或音效冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.62,
+          "explanation": "台词节奏快速、切分跳跃，呈现出紧张的呼吸感，对话节奏携带相当能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.88,
+          "explanation": "月色、冷光、静默的交替塑造出极为一致且充满沉浸感的氛围，是作品最强大的感官特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.68,
+          "explanation": "氛围的连贯性和心理真实感推动观众进入角色内心，但间离技法会不时打破彻底沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.95,
+          "explanation": "小剧场近距离观演关系和现场即兴细节极大增强鲜活的临场感。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.89,
+          "explanation": "作品高度依赖演员面部微表情和台词控制传递复杂内在情绪，演技权重极高。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.62,
+          "explanation": "虽无舞蹈化肢体动作，但静止、姿态变化和紧张的形体语言常透露出角色真实状态。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.54,
+          "explanation": "依靠空间共享和直接对白，但观众并非参与者，互动局限在情绪传染和凝视层面。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.78,
+          "explanation": "角色的情感投入度和台词的爆发力相当高，能量集中且稠密。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.20,
+          "explanation": "虽有小剧场固有仪式性，但内容极度日常化，意在消解而非强化仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在这部作品中经历的是一场逐步剥开的都市情感审视。起初，快节奏的幽默台词让人产生轻微愉悦与窥探快感，但很快笑声下隐藏的疏离感浮现出来，迫使观众在每一个笨拙的停顿中感到不安与共情。整体情绪轨迹呈缓降曲线：从轻松进入，逐步沉入沉重而清晰的孤独，最后滞留于一种无言释然的哀愁。",
+        "structure_description": "作品采用高度碎片化的对白结构来组织体验，章段间的情绪断裂有意模仿当代沟通的不连贯。极简舞台将所有中介剥离，叙事不追求因果推进而选择重复性日常对话叠加，最终在累积的情感重量中引出静默时刻，由演员的呼吸和观众的静观共同完成收束。",
+        "cognitive_expression": "本剧不断引导观众在台词的明示与潜在意涵之间切换注意力，要求观众对细微的语气转变、停顿和肢体信号保持高度敏感。抽象和模糊的对话迫使观众进行持续解释和推论，而非被动接收。整个认知过程更偏向自我参照式审视，即不断将角色处境映射到自身经验进行意义重构。",
+        "behavioral_tendency_description": "作品显著激发内省行为，观看后可能的自然反应是独处沉思或与少数人进行深入对话，而非集体讨论。它并不奖励行动或冒险，反而为观望、感受和放缓社交节奏提供心理空间。社交层面的回避与重新寻求连接的矛盾行为贯穿叙事，并可能影响观众类似的矛盾体验。"
+      },
+      "personality_affinity": {
+        "Ni": 0.80,
+        "Ne": 0.28,
+        "Ti": 0.50,
+        "Te": 0.12,
+        "Fi": 0.88,
+        "Fe": 0.45,
+        "Si": 0.25,
+        "Se": 0.08,
+        "openness": 0.78,
+        "conscientiousness": 0.10,
+        "extraversion": 0.40,
+        "agreeableness": 0.38,
+        "neuroticism": 0.82,
+        "Assertive": 0.10,
+        "Turbulent": 0.92
+      },
+      "supporting_evidence": [
+        "作品以东京夜晚为固定背景，月光反复作为疏离和观照的隐喻出现。",
+        "剧中对白高度锐利且频繁切换话题，呈现当代青年跳跃而防御性的沟通模式。",
+        "多个场景中角色在表达真实情感前会使用笑声或讽刺进行缓冲。",
+        "舞台仅用极少量道具，将视觉注意力完全集中在演员的面部表情与身体姿态上。",
+        "角色A和角色B的长时间对话常以尴尬的沉默中断，暴露出语言无法弥合的距离感。",
+        "全剧未提供传统的情节高潮或明确转折，取而代之的是情绪强度的波纹式变化。",
+        "剧中反复出现喝酒的场景，酒精成为都市青年试探亲密却又保持防御的社交工具。",
+        "某角色承认自己在人群中依然感到极度孤独，直指现代都市情感的核心困境。",
+        "剧本多次运用内心独白与对话交织，模糊了对外沟通与自我对话的界限。",
+        "结尾处角色各怀心事地散场，没有和解或告别仪式，模仿了都市日常关系的淡漠解消。",
+        "演员的身体在静止时仍传递焦虑，细微颤抖或调整衣角等动作暴露心理不安。",
+        "根本宗子的导演风格倾向于用快速、非写实的节奏中断来打破观众情感投入后又再次重建。",
+        "作品中从未出现家庭场景，所有关系都在咖啡厅、酒吧等半公共空间内发生。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

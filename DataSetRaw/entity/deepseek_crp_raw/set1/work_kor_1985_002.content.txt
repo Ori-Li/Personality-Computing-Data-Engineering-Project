@@ -1,0 +1,726 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "行路",
+        "type": "MUSIC",
+        "countryName": "KOR",
+        "year": 1985,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "韩国摇滚乐队野菊花于1985年发行的首张专辑《行路》，以蓝调摇滚为基调，沙哑嗓音与沉重吉他交织，直接吟唱社会底层青年的迷茫、愤怒与坚持。专辑将西方摇滚形式与韩国本土情感深度融合，为压抑的时代提供了宣泄出口，被誉为韩国摇滚史上的里程碑式作品。",
+        "themes": [
+          "社会现实",
+          "青春迷茫",
+          "人生困顿",
+          "自由渴望",
+          "抗争",
+          "希望",
+          "集体共鸣"
+        ],
+        "keywords": [
+          "野菊花",
+          "全仁权",
+          "蓝调摇滚",
+          "韩国摇滚",
+          "底层青年",
+          "社会批判",
+          "沙哑嗓音",
+          "1980年代",
+          "时代精神",
+          "街头",
+          "夜",
+          "离别"
+        ],
+        "core_experience": "沙哑沧桑的嗓音裹挟着沉重吉他扑面而来，听众被卷入一种集体性的无奈与挣扎中，却又在晦暗的基调里感受到不屈的生命力与共鸣的温暖。",
+        "experience_introduction": "《行路》这张专辑通过直接、粗粝的蓝调摇滚声响，将上世纪八十年代韩国社会底层的压抑与生存焦虑具象化为一种可以被感知的听觉经验。全仁权撕裂般的演唱不追求精致，而是以近乎呐喊的方式剖白内心，使听众不只是旁观者，而是成为情感共振的一部分，在沉重的节奏中获得宣泄与精神认同。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.10,
+        "awe": 0.35,
+        "nostalgia": 0.60,
+        "reflection": 0.80,
+        "romance": 0.05,
+        "tension": 0.68,
+        "warmth": 0.15,
+        "loneliness": 0.82,
+        "hope": 0.40
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.25,
+          "complexity": 0.35,
+          "depth_of_thought": 0.68,
+          "logical_structure": 0.30,
+          "novelty": 0.55,
+          "exploration": 0.20,
+          "ambiguity": 0.30,
+          "predictability": 0.55,
+          "information_density": 0.60,
+          "learning_value": 0.50
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.45,
+          "social_scale": 0.80,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.10,
+          "time_span": 0.25,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.75,
+          "loneliness": 0.85,
+          "warmth": 0.20,
+          "fear": 0.30,
+          "tension": 0.65,
+          "awe": 0.25,
+          "nostalgia": 0.55,
+          "hope": 0.35,
+          "melancholy": 0.78,
+          "anger": 0.55,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.20,
+          "minimalism": 0.45,
+          "luxury": 0.05,
+          "darkness": 0.70,
+          "brightness": 0.15,
+          "dreamlike": 0.10,
+          "mystery": 0.30,
+          "experimental": 0.25,
+          "classical": 0.60,
+          "modern": 0.40
+        },
+        "narrative": {
+          "plot_complexity": 0.20,
+          "character_depth": 0.85,
+          "character_growth": 0.30,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.20,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.35,
+          "conflict_intensity": 0.70,
+          "philosophical_depth": 0.68
+        },
+        "social": {
+          "individualism": 0.65,
+          "collectivism": 0.55,
+          "family": 0.40,
+          "friendship": 0.50,
+          "love": 0.25,
+          "community": 0.60,
+          "competition": 0.20,
+          "cooperation": 0.35,
+          "power_relationship": 0.55,
+          "identity": 0.80
+        },
+        "values": {
+          "freedom": 0.82,
+          "order": 0.10,
+          "truth": 0.70,
+          "beauty": 0.25,
+          "achievement": 0.30,
+          "justice": 0.50,
+          "sacrifice": 0.40,
+          "self_exploration": 0.78,
+          "tradition": 0.40,
+          "change": 0.60,
+          "survival": 0.68,
+          "meaning": 0.72
+        },
+        "behavior": {
+          "curiosity": 0.30,
+          "creation": 0.60,
+          "adventure": 0.25,
+          "reflection": 0.85,
+          "competition": 0.18,
+          "social": 0.50,
+          "discipline": 0.35,
+          "risk": 0.45,
+          "calm": 0.12,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.20,
+          "color_richness": 0.15,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.65,
+          "atmosphere": 0.82,
+          "immersion": 0.78
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "蓝调摇滚",
+          "tempo": 0.45,
+          "energy": 0.70,
+          "vocal_style": "沙哑、呐喊、感性",
+          "instrumentation": "电吉他、贝斯、鼓、口琴",
+          "production_style": "粗粝、现场感、不修饰",
+          "lyrical_theme": "社会现实、人生困顿、青春迷茫",
+          "emotional_scene": "深夜街头、酒后独白、集体宣泄",
+          "cultural_context": "韩国军政府时期底层青年文化"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "全仁权充满力度的沙哑嗓音和乐队紧凑的蓝调摇滚编曲，使整张专辑持续释放出强烈的内心火热情感与不屈的生命力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "专辑情感基调沉重灰暗，核心聚焦于挣扎与迷茫而非慰藉，因此提供的情绪安抚效果极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "作品主要指向社会现实与个人困境，较少展现令人敬畏的宏大或超凡体验，敬畏感不明显。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.60,
+          "explanation": "专辑作为韩国摇滚史上的里程碑，其经典的蓝调摇滚声响和对特定时代底层心声的刻画，在后世聆听时会唤起对过去岁月的怀旧感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.80,
+          "explanation": "歌词直面社会矛盾与人生困苦，强有力地推动听众对个体命运、时代背景及生活意义进行深度反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "专辑主题围绕社会现实与生存挣扎展开，几乎不涉及任何浪漫爱情的内容或情感表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.68,
+          "explanation": "歌词中的社会批判与个人困境结合沉重且充满力量的乐器演奏，产生了持续的心理紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "整体氛围压抑沉重，虽然集体共鸣带来一丝共情，但总体缺乏令人感到温暖或舒适的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.82,
+          "explanation": "歌词中大量的独白式叙述与对个人困境的深刻描绘，传递出浓厚的孤独感和个体在社会中的孤立感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.40,
+          "explanation": "尽管以沉重和挣扎为主，但音乐内在的力量感和歌词中对自由、坚持的表达仍保留了微弱的希望之光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.25,
+          "explanation": "歌词多为对社会现实和个人情感的直接描述，使用具象的意象如'路'、'夜'、'酒'等，抽象程度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "作品的音乐结构和歌词主题相对直接，侧重于情感冲击力而非复杂的结构或概念构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.68,
+          "explanation": "歌词对社会压迫、个体尊严和生存价值等命题的探讨超越了简单的情感宣泄，具有一定的哲学思辨色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "作为一张摇滚专辑，情感流动优先于逻辑推演，内在结构由情感而非严密的逻辑框架驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "在1985年的韩国，将西方蓝调摇滚与韩国底层社会现实如此桀骜不驯地结合，具有开创性和时代前瞻性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "作品的核心在于内部世界的深度挖掘而非向外探索未知，因此探索性较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.30,
+          "explanation": "作品情感虽然复杂，但表达方式直接，主题清晰，较少存在模棱两可或高度开放的解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "音乐结构基于传统的蓝调摇滚风格，具有一定的可预见性，但其强烈的情感冲击常常超出预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.60,
+          "explanation": "在有限的歌词和音乐段落中，浓缩了深刻的社会观察、个人情感和历史信息，单位时间内传递的信息量较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.50,
+          "explanation": "通过这张专辑，听众可以学习到关于韩国特定历史时期的社会文化、底层青年的精神状态以及摇滚乐的本土化表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "整张专辑的核心视角是极度个人化的，聚焦于'我'的内心挣扎、困惑与呐喊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.45,
+          "explanation": "提及到友情或同在感受，但核心仍旧是对个体内心世界的剖析，人际关系并非主要焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.80,
+          "explanation": "个人的痛苦与挣扎被明确地置于社会现实的背景下，社会体制、时代氛围是不可或缺的叙事背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "作品关注的是当下具体的韩国社会，极少触及更宏大的文明进程或历史规律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "歌词和音乐完全没有涉及宇宙、存在等宏大尺度的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "叙事集中于当下的困顿和即时的情绪，时间跨度较短，缺乏对过往或未来的长时间线描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品是彻底的现实主义表达，完全没有任何幻想、超自然或架空世界的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "专辑基调沉重灰暗，几乎无法从中体验到快乐的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "对生活困境和社会不公的描绘弥漫着强烈的悲伤情绪，是贯穿专辑的核心情感之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "被世界抛弃或独自面对困境的孤独感是歌词和演唱中反复强化的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.20,
+          "explanation": "尽管有群体共鸣的瞬间，但整体情感体验偏冷峻、粗糙，温暖感非常微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.30,
+          "explanation": "面对强大的社会现实，偶尔流露的是一种压抑和不安，而非直接的强烈恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.65,
+          "explanation": "压抑的社会环境与个体寻求自由之间的对抗，配以紧张的吉他riff，产生了持久的心理张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.25,
+          "explanation": "作品更注重情感共鸣而非制造惊奇或敬畏，其力量源自真实而非宏大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "作为特定时代的文化烙印，其音乐风格和表达内容本身成为后来者怀旧的载体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.35,
+          "explanation": "在无尽的挣扎中，只有'在路上'这一行为和音乐的爆发力本身寄托着一丝不易察觉的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.78,
+          "explanation": "悲伤、孤独和对逝去时光或无法企及的自由的愁绪混合在一起，形成了浓郁的忧愁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.55,
+          "explanation": "音乐中的力量感和演唱的嘶吼，传递出对不公现实和被安排命运的强烈愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "作品充满焦灼、不安和抗争，与平和、宁静的体验相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.20,
+          "explanation": "专辑的美学核心是'真实'与'力量'而非优美，粗犷的质感取代了传统意义上的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.45,
+          "explanation": "器乐编排以传统蓝调摇滚三大件为主，相对简洁直接，没有过度的华丽修饰，具有一定的极简色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "无论是题材内容还是音乐制作，都与'奢华'、'精致'等概念完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.70,
+          "explanation": "阴郁的吉他音色、低沉的贝斯线条和充满困境的歌词，共同构筑了一个晦暗的美学空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "整张专辑的情绪和音色都偏向沉重、黑暗，明亮、轻快的元素几乎没有。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "作品深深扎根于残酷的现实，是一种清醒的痛苦，完全不具有虚无缥缈的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.30,
+          "explanation": "情感和主题表达直接坦率，没有刻意营造神秘莫测的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.25,
+          "explanation": "虽然在当时韩国是开创性的，但在音乐形式上更多是本土化应用而非前卫的实验性探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.60,
+          "explanation": "根植于传统的蓝调摇滚，其风格和结构具有一种经典的、超越时间的摇滚乐气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.40,
+          "explanation": "作为现代韩国流行音乐史的一部分，它在一定程度上定义了本土摇滚的现代性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.20,
+          "explanation": "作为音乐专辑，无具体情节，叙事依靠每首歌曲独立的情感或场景片段构成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "专辑构建了一个完整而立体的'叙事者'形象：一个迷茫、愤怒、挣扎却又敏感的底层青年，内心刻画深刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.30,
+          "explanation": "整张专辑呈现的是某种停滞的、循环的状态和情绪，更侧重于现状的描绘而非人物的成长轨迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "作品高度依赖听众对韩国1980年代社会现实的了解，并没有在其内部构建一个详尽的虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.20,
+          "explanation": "专辑结构遵循了传统的歌曲排列模式，叙事上虽有碎片化感但并无复杂的非线性编排。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "专辑的整体氛围和情感深度适合听众静下心来沉浸式体验，需要时间慢慢融入其情感世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.35,
+          "explanation": "动态感主要来自音乐本身的节奏和能量，而非描绘外部动作或事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.70,
+          "explanation": "个体与社会、理想与现实、坚持与放弃之间的强烈内心冲突贯穿始终，冲突强度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.68,
+          "explanation": "持续追问关于自由、生存意义、个人价值等接近存在主义的话题，具有一定的哲学思辨深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.65,
+          "explanation": "作品极度强调'我'的感受、'我'的困境和'我'的呐喊，个人主义色彩浓厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.55,
+          "explanation": "叙述者的痛苦很大程度上源于与一个压抑的'集体'的对立，同时也在寻求来自同类的理解和'我们'的共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.40,
+          "explanation": "家庭并非核心主题，但可能会作为背景羁绊或压力的来源被间接提及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.50,
+          "explanation": "歌词中可能涉及'朋友'或'同行者'，作为一种对抗孤独的精神支撑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.25,
+          "explanation": "浪漫爱情并非专辑的关注点，比起两性之爱，作品更关注更广泛的人类联结或个体孤单。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.60,
+          "explanation": "作品本身是为一个特定社会群体（底层青年）发声，并因此形成了一个精神共同体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.20,
+          "explanation": "作品描述的是生存压力而非竞争关系，更多是对不公结构的控诉而非零和博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.35,
+          "explanation": "集体的'同在'感是存在的，但未强调具体的协作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.55,
+          "explanation": "通过底层个人视角批判社会权力结构带来的压迫，明确地呈现了权力关系中的弱势方体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.80,
+          "explanation": "几乎整张专辑都在回答'我是谁'、'我为何如此痛苦'、'我属于哪里'等身份认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.freedom",
+          "score": 0.82,
+          "explanation": "对摆脱现实束缚、精神自由的渴望是专辑最核心的价值诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.order",
+          "score": 0.10,
+          "explanation": "专辑表达的正是对专制、僵化的社会秩序的反抗，不推崇秩序价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.truth",
+          "score": 0.70,
+          "explanation": "勇于直面并揭露社会与个人内心的残酷真实，是其艺术力量的根源，体现了对'真'的价值追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.beauty",
+          "score": 0.25,
+          "explanation": "'美'在其语境中是以'真实'和'力量'的形式出现的，而非传统意义上的优美或华丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.achievement",
+          "score": 0.30,
+          "explanation": "作品描绘的更多是失败和无力感，而非对征服、成功的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.justice",
+          "score": 0.50,
+          "explanation": "对社会不公的控诉本身隐含着对正义的渴望，但并未正面描绘如何实现正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.sacrifice",
+          "score": 0.40,
+          "explanation": "为了自由或坚持自我可能需要付出代价，隐含着牺牲的价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.self_exploration",
+          "score": 0.78,
+          "explanation": "整张专辑就是一场深刻的自我探索之旅，不断地向内挖掘自己的痛苦、欲望和存在意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.tradition",
+          "score": 0.40,
+          "explanation": "音乐形式借鉴了传统蓝调摇滚，但内容上更多是对守旧社会传统的反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.change",
+          "score": 0.60,
+          "explanation": "无论是对个人处境的改善还是社会变革的呼唤，'改变现状'是隐含的核心动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.survival",
+          "score": 0.68,
+          "explanation": "在重压下如何继续活下去、如何保持精神的独立，是直接摆在听者面前的生存命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.meaning",
+          "score": 0.72,
+          "explanation": "当基础生存都面临威胁时，对更高层次生命意义的追问显得尤为迫切，全专都在努力寻找意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.30,
+          "explanation": "专辑情感内向，焦点在于自我感受而非引发对新奇事物的求知欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.60,
+          "explanation": "将痛苦的经历转化为艺术本身就是一种强烈的创造行为，并激励着听众用自身方式进行表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.25,
+          "explanation": "身体和物理上的冒险并非主题，“在路上”更多是一种精神状态的隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "作品是深刻的自我反思产物，也强有力地引导听众进行对自身和社会现实的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.18,
+          "explanation": "专辑氛围与竞争、对抗格格不入，更多地是抒发无力感而非鼓励竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.50,
+          "explanation": "作品本身具有强烈的社交属性，旨在连接所有感同身受的孤独个体，形成精神社群。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.35,
+          "explanation": "专辑表达的是对刻板规则和纪律的反抗，摇滚乐精神本身也反对僵化的纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.45,
+          "explanation": "在当时的社会环境下，发表这样一张直面现实的专辑本身就是一种冒风险的叛逆行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.12,
+          "explanation": "整张专辑情绪激昂、充满张力与挣扎，极少有让人感到平静的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "作品的核心是面对现实而不是逃避现实，虽然痛苦，但选择的是直面而非躲藏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.20,
+          "explanation": "作为一张纯音乐专辑，对视觉的直接刺激有限，主要依靠听众的听觉和想象构建画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.15,
+          "explanation": "专辑的情感色调单一而浓烈，以暗色系为主，缺乏丰富的色彩变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "电吉他失真音色、强劲的鼓点和全仁权嘶吼般的演唱，共同构成了极具冲击力的高强度听觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.65,
+          "explanation": "蓝调摇滚的中慢板节奏提供了稳定而充满力量的律动，能量感十足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.82,
+          "explanation": "专辑创造了独一无二的整体氛围：压抑、沉重却又充满共鸣的深夜街头感，极具沉浸力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.78,
+          "explanation": "强烈的氛围、真挚的情感以及不间断的听觉张力，使听者极易沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.45,
+          "explanation": "以中慢板蓝调摇滚节奏为主，速度不疾不徐，为沉重情感的表达提供了合适的容器。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.70,
+          "explanation": "音乐中蕴含饱满的情绪爆发力和抗争的生命力，能量水平很高。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众进入一段由沙哑人声和沉重吉他编织的听觉旅程，体验的核心是一种混合着愤怒、悲伤与孤独的集体性宣泄。作品直接而未经修饰地呈现生活的粗砺感，迫使听众面对一个真实的、压抑的精神世界。",
+        "structure_description": "专辑通过一系列主题统一、情绪递进的歌曲编排，构建起一个完整的情感弧线。每首歌作为一个独立的叙事片段，共同勾勒出一个底层青年的内心图景，从个人困境逐渐扩展至对整个社会时代的控诉。",
+        "cognitive_expression": "作品鼓励一种内省和批判性的认知模式。听众需要结合时代背景理解歌词中的隐喻，反思社会结构与个人命运的关系，这种认知过程侧重于情感逻辑和价值判断，而非纯粹的逻辑推理。",
+        "behavioral_tendency_description": "音乐体验能够激发听者进行深入的自我反思，并可能产生一种通过艺术或倾诉来宣泄情感的冲动。它更能让听者产生寻求同类精神共鸣的社交倾向，而非追求竞争或实际行动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.50,
+        "Ne": 0.25,
+        "Ti": 0.35,
+        "Te": 0.20,
+        "Fi": 0.90,
+        "Fe": 0.65,
+        "Si": 0.55,
+        "Se": 0.30,
+        "openness": 0.70,
+        "conscientiousness": 0.25,
+        "extraversion": 0.40,
+        "agreeableness": 0.35,
+        "neuroticism": 0.85,
+        "Assertive": 0.15,
+        "Turbulent": 0.88
+      },
+      "supporting_evidence": [
+        "主唱的嗓音沙哑粗粝，刻意避免任何圆滑或美化的演唱技巧。",
+        "歌词反复使用'路'、'夜'、'酒'等意象，描绘社会边缘人的生存状态。",
+        "整张专辑以蓝调摇滚为基础，器乐编排保持传统吉他、贝斯、鼓的三大件结构。",
+        "音乐中吉他音色沉重且充满失真，营造出灰暗压抑的听觉氛围。",
+        "专辑发表的年代正值韩国社会高度压抑的军政府统治时期。",
+        "歌词内容直接表达了对现实社会不公和制度压迫的控诉与不满。",
+        "歌曲主题高度统一，几乎全部聚焦于底层青年的迷茫、痛苦与挣扎。",
+        "专辑中多次出现个人独白式的歌词，如倾诉般直接展现内心冲突。",
+        "尽管基调沉重，但音乐节奏和演唱方式却持续传递出一种不屈的力量感。",
+        "整张专辑的制作风格偏向粗粝和现场感，没有过度的后期修饰，追求真实质感。",
+        "作品成为了当时韩国无数感到幻灭的年轻人共同的精神寄托和发声渠道。",
+        "歌曲中流露出强烈的对个体自由和自主命运的渴望。",
+        "专辑的演奏和演唱饱含真挚而强烈的情感，其情感张力超越了对音乐技巧的展示。",
+        "整体的情感流动是从个人化的悲鸣逐渐扩展到带有社会共性的时代悲歌。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

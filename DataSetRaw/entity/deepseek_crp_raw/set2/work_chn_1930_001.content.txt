@@ -1,0 +1,726 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "北京旧城排水系统",
+        "type": "OTHER",
+        "countryName": "中国",
+        "year": 1930,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.8,
+        "primaryMediaType": "OTHER"
+      },
+      "semantic": {
+        "summary": "北京旧城排水系统是民国时期华南圭主持设计的市政基础设施工程。该项目运用现代城市工程理念，对北京传统胡同区域的雨污排放进行系统性改造，构建了地下管网体系以替代原有的明沟排泄方式。工程直接应对老城区的公共卫生挑战，通过科学规划改善城市居住环境，是中国近现代城市规划与建设史上的早期典范。",
+        "themes": [
+          "文明",
+          "社会制度",
+          "科技",
+          "公共卫生",
+          "城市发展"
+        ],
+        "keywords": [
+          "北京旧城",
+          "排水系统",
+          "市政工程",
+          "华南圭",
+          "民国时期",
+          "公共卫生",
+          "城市基础设施",
+          "胡同区",
+          "雨污排放",
+          "现代化改造"
+        ],
+        "core_experience": "在理性秩序与历史脉络的张力中，体验一种面向实际问题的系统性思维所带来的秩序感与建设性平静。",
+        "experience_introduction": "这部作品并非传统意义上的观赏对象，而是一种系统性的功能存在。受众通过对其结构逻辑和规划意图的理解，体验到一种由科学理性带来的秩序感。面对老城肌理与公共卫生需求之间的冲突，作品展现的不是感官刺激，而是一种深入的社会洞察力和解决问题的建设性冷静。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.1,
+        "awe": 0.3,
+        "nostalgia": 0.4,
+        "reflection": 0.8,
+        "romance": 0.0,
+        "tension": 0.2,
+        "warmth": 0.1,
+        "loneliness": 0.1,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.45,
+          "complexity": 0.65,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.85,
+          "novelty": 0.6,
+          "exploration": 0.4,
+          "ambiguity": 0.15,
+          "predictability": 0.8,
+          "information_density": 0.7,
+          "learning_value": 0.75
+        },
+        "worldview": {
+          "personal_scale": 0.2,
+          "relationship_scale": 0.1,
+          "social_scale": 0.8,
+          "civilization_scale": 0.7,
+          "cosmic_scale": 0.05,
+          "time_span": 0.6,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.1,
+          "loneliness": 0.05,
+          "warmth": 0.1,
+          "fear": 0.0,
+          "tension": 0.25,
+          "awe": 0.35,
+          "nostalgia": 0.3,
+          "hope": 0.6,
+          "melancholy": 0.1,
+          "anger": 0.05,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.25,
+          "minimalism": 0.65,
+          "luxury": 0.0,
+          "darkness": 0.1,
+          "brightness": 0.4,
+          "dreamlike": 0.0,
+          "mystery": 0.0,
+          "experimental": 0.55,
+          "classical": 0.6,
+          "modern": 0.7
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.05,
+          "character_growth": 0.0,
+          "world_building": 0.3,
+          "nonlinear_structure": 0.2,
+          "slow_immersion": 0.8,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.4,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.3,
+          "collectivism": 0.85,
+          "family": 0.1,
+          "friendship": 0.0,
+          "love": 0.0,
+          "community": 0.7,
+          "competition": 0.1,
+          "cooperation": 0.85,
+          "power_relationship": 0.6,
+          "identity": 0.3
+        },
+        "value": {
+          "freedom": 0.2,
+          "order": 0.9,
+          "truth": 0.65,
+          "beauty": 0.2,
+          "achievement": 0.8,
+          "justice": 0.1,
+          "sacrifice": 0.15,
+          "self_exploration": 0.1,
+          "tradition": 0.5,
+          "change": 0.7,
+          "survival": 0.3,
+          "meaning": 0.5
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.7,
+          "adventure": 0.1,
+          "reflection": 0.8,
+          "competition": 0.05,
+          "social": 0.5,
+          "discipline": 0.85,
+          "risk": 0.2,
+          "calm": 0.7,
+          "escape": 0.0
+        },
+        "sensory": {
+          "visual_intensity": 0.2,
+          "color_richness": 0.1,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.3,
+          "immersion": 0.35
+        }
+      },
+      "media_vector": {
+        "other_vector": {
+          "generic_expression": 0.6,
+          "cultural_expression": 0.9,
+          "functional_focus": 0.95,
+          "knowledge_density": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品核心是解决实际卫生问题，不强调个人热情或激情的表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "虽是改善民生之举，但设计本身以功能为导向，不刻意营造疗愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.3,
+          "explanation": "其系统性与超前规划令人产生适度的钦佩感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.4,
+          "explanation": "涉及旧城改造，可能引发对老北京历史风貌的记忆与联想。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.8,
+          "explanation": "强烈引发对城市规划、文明演进与制度性建设的理性思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "完全聚焦城市功能，无浪漫相关的表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.2,
+          "explanation": "现代化改造与旧城格局的冲突带来轻微的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "不直接传递温暖的感觉，而是理性的冷静。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.1,
+          "explanation": "作为基础设施工程，未直接表达孤独的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "工程本身蕴含着改善未来生活环境与公共健康的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.45,
+          "explanation": "包含现代工程理念的应用，但核心是具体的物理改造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "需要综合考虑地质、城市规划、人口密度与水文条件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "涉及城市发展的深层逻辑与公共利益的权衡规划。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.85,
+          "explanation": "本质上是严密的科学逻辑在物理空间中的构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "在当时的中国社会背景下，引入现代排水体系具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.4,
+          "explanation": "探索的并非未知世界，而是如何将已知技术应用于特定环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "工程设计追求明确的结果，不存在多义或模糊的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.8,
+          "explanation": "工程设计的实施与结果基于科学原理，是可预测的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.7,
+          "explanation": "蕴含了丰富的地理、社会、工程与历史信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.75,
+          "explanation": "了解近现代市政工程如何与历史城市肌理结合，具有深刻的学习价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.2,
+          "explanation": "不以个体为中心，而是面向整个城市群体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.1,
+          "explanation": "不涉及私人或人际关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.8,
+          "explanation": "旨在系统性地解决社会面的公共卫生问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.7,
+          "explanation": "是文明演进过程中城市现代化改造的一个缩影。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "不涉及宇宙或自然法则的宏大探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.6,
+          "explanation": "既是当时的改造，也对后续的市政规划产生了长期影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "基于严格现实的工程项目，缺乏幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "不旨在提供娱乐或快乐，而是提供秩序与安全。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "不刻意传达悲伤的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.05,
+          "explanation": "作为城市公共系统，与孤独感无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "不直接产生温暖感，但有隐性的人文关怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.0,
+          "explanation": "不包含任何引发恐惧的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.25,
+          "explanation": "在解决旧城顽疾的过程中存在一种轻微的理性紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "对于系统性的规划和大规模改造产生适度的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.3,
+          "explanation": "作品实施的背景地点容易勾起对旧时北京城的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.6,
+          "explanation": "基础设施建设本身就寄托了社会进步与生活改善的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.1,
+          "explanation": "并无明显的忧伤表达，多为理性的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "不表达愤怒或引发愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "解决问题的过程和无形的运作带来一种有序的平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.25,
+          "explanation": "以功能为美，非传统艺术意义上的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "地下隐蔽工程和功能至上的设计体现了减法美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "无关奢华，是纯粹的公共必需品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "不需要营造暗黑或沉重的气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.4,
+          "explanation": "作为改善环境的工程，其隐含的光明感较为中性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.0,
+          "explanation": "完全是现实主义的产物，缺乏梦幻色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.0,
+          "explanation": "所有设计都要求清晰可见与可管理，不制造神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.55,
+          "explanation": "在当时的中国社会，引入这样的系统地改造古城是试验性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.6,
+          "explanation": "作品根植于古典的旧城空间，并对其做出回应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.7,
+          "explanation": "理念和技术都是现代性的直接体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "不存在传统的故事情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "不涉及人物描写或角色发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "没有角色成长的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.3,
+          "explanation": "不是在虚构世界构建，而是在现实世界中重建局部。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.2,
+          "explanation": "设计与实施略有先后交织，但整体是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.8,
+          "explanation": "这类工程的理解需要深入地了解背景与规划，属于缓慢地沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "是静态与运作的基础设施，无动作性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.4,
+          "explanation": "存在传统与现代、旧环境与新技术的矛盾冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "引发关于文明演进、公共福祉和城市命运的哲思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.3,
+          "explanation": "虽由个人主导设计，但表达的是集体主义精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.85,
+          "explanation": "是典型的为公共利益服务的集体主义工程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.1,
+          "explanation": "不直接涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.0,
+          "explanation": "不涉及友谊的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "不涉及爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.7,
+          "explanation": "其根本目的是为了胡同社区居民的健康与福祉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.1,
+          "explanation": "不存在竞争关系，而是共同建设。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.85,
+          "explanation": "需要市政、工程、社区等多方面的协作才能完成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.6,
+          "explanation": "体现了专家系统与公共权力的关系，以及政府对城市的治理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.3,
+          "explanation": "体现了近现代中国知识分子在城市转型期的身份认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "并非为探索个人自由，而是为建设公共秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.9,
+          "explanation": "其核心价值是建立并维持城市的卫生秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.65,
+          "explanation": "基于科学原理与工程技术，追求客观真实的效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.2,
+          "explanation": "实用主义主导，美学价值不作为追求目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.8,
+          "explanation": "完成这项工程本身是一种巨大的社会成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.1,
+          "explanation": "不直接关联法律或社会正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "可能牺牲了部分旧有风貌，隐含微弱的牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.1,
+          "explanation": "重点在于改造外部世界，而非内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.5,
+          "explanation": "改造的对象是传统环境，作品本身在传统与现代之间取得平衡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.7,
+          "explanation": "核心是推动积极的改变与进步。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.3,
+          "explanation": "非直接关乎个体生死，而是关乎群体的生存环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.5,
+          "explanation": "探讨了技术与社会发展的深层意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "鼓励探究其背后的工程原理和历史背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.7,
+          "explanation": "体现了在旧有基础上进行创造性设计与构建的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "不鼓励冒险，强调稳健与可靠。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.8,
+          "explanation": "强烈激发对城市、历史与社会的深刻反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "不涉及竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.5,
+          "explanation": "其本身就是社会性产品，理解它需要社会视野。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.85,
+          "explanation": "极大的体现了科学规划与系统执行的精密与纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "工程追求稳定，规避风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.7,
+          "explanation": "作品浸透着用理性平静应对问题的态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.0,
+          "explanation": "直面真实问题，不提供逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.2,
+          "explanation": "作为隐形工程，视觉观赏性不是其重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "色彩对工程本身而言不重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "无声运作的基础设施，不涉及听觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "水流有其内在的工程节奏，但非感官刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.3,
+          "explanation": "更多是功能氛围，而非强烈的感官氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.35,
+          "explanation": "难以产生直接的感官沉浸，更多是思维沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.other_vector.generic_expression",
+          "score": 0.6,
+          "explanation": "作为基础设施，其表达形式是通用且功能性的。"
+        },
+        {
+          "dimensionPath": "media_vector.other_vector.cultural_expression",
+          "score": 0.9,
+          "explanation": "深深植根于北京旧城的特定文化历史环境之中。"
+        },
+        {
+          "dimensionPath": "media_vector.other_vector.functional_focus",
+          "score": 0.95,
+          "explanation": "功能性是其存在的唯一首要原因。"
+        },
+        {
+          "dimensionPath": "media_vector.other_vector.knowledge_density",
+          "score": 0.85,
+          "explanation": "高度浓缩了工程学、城市规划与社会学的专业知识。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "受众的核心体验是一场在理性主导下的认知活动。面对北京旧城复杂的现实问题，作品所引发的不是激烈的情绪波动，而是一种深沉的建设性思考。体验过程伴随着对传统城市肌理被现代技术重塑的观察，其中既有对旧日风貌的淡淡感怀，更主要是对未来卫生状况与公共秩序得到改善的希望与平静。整个体验是冷静、客观且充满逻辑感的。",
+        "structure_description": "作品的结构并非叙事性的，而是由城市空间布局、地质水文条件和工程逻辑共同组成的系统性结构。体验这一结构需要理解点、线、面的管网系统与旧城平面的嵌合关系。这种非线性的、基于问题解决的结构，引导受众以一种类似解构与重组的方式去理解其存在。",
+        "cognitive_expression": "作品极大地激发了系统性、逻辑性和批判性的认知模式。理解它需要调动复杂问题分析、系统工程思维和历史情景理解。受众被引导去思考技术应用与社会结构的互动，去评估一项公共政策在具体空间中的执行与影响。这是一种高密度、重分析的认知过程。",
+        "behavioral_tendency_description": "作品鼓励的不是感官探索或冒险，而是深度的反思、有纪律的规划和协作性的创造。它倾向于引导受众思考如何通过合作与科学决策来解决集体面临的挑战，体现出一种面向公共福祉、强调秩序与建设的行动倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.3,
+        "Ti": 0.85,
+        "Te": 0.85,
+        "Fi": 0.15,
+        "Fe": 0.65,
+        "Si": 0.55,
+        "Se": 0.1,
+        "openness": 0.65,
+        "conscientiousness": 0.9,
+        "extraversion": 0.3,
+        "agreeableness": 0.45,
+        "neuroticism": 0.15,
+        "Assertive": 0.8,
+        "Turbulent": 0.15
+      },
+      "supporting_evidence": [
+        "华北圭将现代城市工程理念应用于北京胡同区改造。",
+        "项目系统性地规划了雨污的排放路径与地下管网。",
+        "工程旨在改善老城区长期存在的环境卫生问题。",
+        "排水系统的建设取代了原有简陋的明沟排泄方式。",
+        "设计需要精确测绘旧城的街道走向与地形高差。",
+        "这是民国时期市政现代化的重要实践案例。",
+        "项目将公共卫生概念通过实体工程在城市中落实。",
+        "这项规划体现了功能至上的实用性设计原则。",
+        "改造过程涉及新旧城市场所肌理之间的权衡。",
+        "系统设计需考虑城市人口密度与未来扩展需求。",
+        "完工后极大提升了胡同居民的生活环境质量。",
+        "项目是西方工程学在中国本土化应用的代表。",
+        "决策与实施过程体现了专家与政府合作的模式。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "完美世界",
+        "type": "GAME",
+        "countryName": "中国",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《完美世界》是一款以东方奇幻为背景的大型3D MMORPG。游戏构建了一个人、神、魔并存的宏大世界，玩家通过修炼、战斗、飞行和城战不断成长。其核心体验在于高自由度的探索、大规模多人对抗以及在当时极为创新的无缝地图与自由飞行系统，代表了国产自研网游的黄金时代。",
+        "themes": [
+          "成长",
+          "战争",
+          "探索",
+          "幻想",
+          "江湖",
+          "竞争",
+          "合作"
+        ],
+        "keywords": [
+          "东方奇幻",
+          "修真",
+          "飞行",
+          "帮派",
+          "城战",
+          "无缝地图",
+          "3D",
+          "多人",
+          "坐骑",
+          "时装"
+        ],
+        "core_experience": "在广阔的东方奇幻世界中自由飞行探索，通过修炼与战斗不断变强，并与他人结成帮派，在激烈的领地和资源争夺中体验集体的荣耀与对抗的刺激。",
+        "experience_introduction": "玩家进入一个人神魔共存的东方奇幻世界，从零开始修炼成长。游戏通过无缝地图和飞行系统提供了极高的探索自由度，个人成长与帮派集体的社会竞争相辅相成。城战不仅考验团队策略，也带来了强烈的集体荣誉感和归属感，整体体验兼具开放世界的好奇心满足与多人对抗的紧张刺激。"
+      },
+      "experience_vector": {
+        "passion": 0.75,
+        "healing": 0.2,
+        "awe": 0.6,
+        "nostalgia": 0.3,
+        "reflection": 0.15,
+        "romance": 0.1,
+        "tension": 0.7,
+        "warmth": 0.35,
+        "loneliness": 0.2,
+        "hope": 0.5
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.2,
+          "complexity": 0.5,
+          "depth_of_thought": 0.2,
+          "logical_structure": 0.4,
+          "novelty": 0.7,
+          "exploration": 0.85,
+          "ambiguity": 0.2,
+          "predictability": 0.4,
+          "information_density": 0.3,
+          "learning_value": 0.2
+        },
+        "worldview": {
+          "personal_scale": 0.6,
+          "relationship_scale": 0.5,
+          "social_scale": 0.8,
+          "civilization_scale": 0.6,
+          "cosmic_scale": 0.4,
+          "time_span": 0.3,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.5,
+          "sadness": 0.1,
+          "loneliness": 0.2,
+          "warmth": 0.35,
+          "fear": 0.1,
+          "tension": 0.7,
+          "awe": 0.6,
+          "nostalgia": 0.3,
+          "hope": 0.5,
+          "melancholy": 0.1,
+          "anger": 0.3,
+          "peace": 0.25
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.15,
+          "luxury": 0.65,
+          "darkness": 0.3,
+          "brightness": 0.6,
+          "dreamlike": 0.55,
+          "mystery": 0.5,
+          "experimental": 0.3,
+          "classical": 0.5,
+          "modern": 0.4
+        },
+        "narrative": {
+          "plot_complexity": 0.25,
+          "character_depth": 0.2,
+          "character_growth": 0.85,
+          "world_building": 0.75,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.1,
+          "action_intensity": 0.7,
+          "conflict_intensity": 0.75,
+          "philosophical_depth": 0.15
+        },
+        "social_relationship": {
+          "individualism": 0.5,
+          "collectivism": 0.8,
+          "family": 0.1,
+          "friendship": 0.5,
+          "love": 0.2,
+          "community": 0.7,
+          "competition": 0.85,
+          "cooperation": 0.8,
+          "power_relationship": 0.7,
+          "identity": 0.4
+        },
+        "value": {
+          "freedom": 0.75,
+          "order": 0.4,
+          "truth": 0.1,
+          "beauty": 0.6,
+          "achievement": 0.85,
+          "justice": 0.3,
+          "sacrifice": 0.2,
+          "self_exploration": 0.35,
+          "tradition": 0.3,
+          "change": 0.5,
+          "survival": 0.6,
+          "meaning": 0.2
+        },
+        "behavior": {
+          "curiosity": 0.7,
+          "creation": 0.4,
+          "adventure": 0.8,
+          "reflection": 0.15,
+          "competition": 0.9,
+          "social": 0.8,
+          "discipline": 0.5,
+          "risk": 0.7,
+          "calm": 0.1,
+          "escape": 0.2
+        },
+        "sensory": {
+          "visual_intensity": 0.7,
+          "color_richness": 0.65,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.7,
+          "atmosphere": 0.7,
+          "immersion": 0.8
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.55,
+          "mechanical_skill": 0.7,
+          "player_agency": 0.85,
+          "exploration_depth": 0.9,
+          "collection_system": 0.6,
+          "progression_system": 0.8,
+          "social_interaction": 0.85,
+          "competition_intensity": 0.9
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.75,
+          "explanation": "PVP战斗和城战的胜负体验直接激发高度的兴奋感与投入感。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.2,
+          "explanation": "游戏核心聚焦于竞争与战斗，治愈和慢节奏的放松体验并非主要内容。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.6,
+          "explanation": "自由飞行和无缝大地图让玩家初次体验时感受到宏大的视觉奇观。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.3,
+          "explanation": "主要体验是即时的，怀旧情绪通常只在老玩家回顾时产生。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.15,
+          "explanation": "游戏以即时行动和社交为主，很少引导玩家进行深刻的自我反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.1,
+          "explanation": "游戏系统几乎不涉及任何深入的爱情叙事或浪漫体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.7,
+          "explanation": "帮派城战和高强度的PVP活动需要高度集中注意力，带来持续的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.35,
+          "explanation": "帮派活动和朋友组队带来一定归属感，但竞争氛围削弱了纯粹的温馨感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.2,
+          "explanation": "游戏鼓励组队和帮派互动，单打独斗并非设计的核心导向。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.5,
+          "explanation": "角色成长感和升级带来的新技能、新装备给予玩家正向的未来激励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.2,
+          "explanation": "游戏机制直接易懂，不要求用户进行深层的抽象隐喻或符号解析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "职业技能搭配和帮战策略需要一定的思考，但整体复杂度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.2,
+          "explanation": "游戏内容侧重于即时反应和社交，不涉及哲学或理论性的深思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "技能天赋系统具备内在的逻辑结构，玩家需要理解并构建战斗循环。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.7,
+          "explanation": "在推出年代，自由飞行和无缝地图在当时的网游中是巨大的创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.85,
+          "explanation": "游戏的核心卖点是探索广阔的无缝地图，鼓励玩家去四处游历发现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.2,
+          "explanation": "游戏的任务指引和目标设定非常明确，缺少开放性和模糊性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.4,
+          "explanation": "角色养成路线固定，但玩家间的对抗带来了不可预测性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "核心玩法在于动作和社交，单位时间内传递的文化和知识信息较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.2,
+          "explanation": "游戏主要提供娱乐和竞技技巧，历史文化或理论知识的学习价值较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.6,
+          "explanation": "玩家通过修炼、变强、更换外观来实现个人成长和个性化表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.5,
+          "explanation": "小队副本和交易系统构成了基本的玩家间人际关系网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.8,
+          "explanation": "帮派系统和城战构成了游戏内完整的模拟社会组织与冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.6,
+          "explanation": "游戏中存在不同种族和地域，展现了东方奇幻文明的背景设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.4,
+          "explanation": "背景涉及天地初开、人神魔，带有一丝宇宙观的想象色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.3,
+          "explanation": "游戏体验集中在当下的竞争与成长，对历史的追溯和未来推演较浅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "世界充满飞行、修仙、神魔、奇幻生物等高度幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.5,
+          "explanation": "战胜敌人、获得新装备和与朋友互动会带来喜悦和满足感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "游戏在叙事和体验上几乎不刻意营造悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.2,
+          "explanation": "游戏机制支持玩家互动，日常设计不会令人产生孤立无援的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "帮派归属感带来适度的温情时刻，但在竞争大环境下并非主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "游戏美学和机制偏明亮和战斗快感，不包含恐怖或惊吓设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.7,
+          "explanation": "对抗性极强的城战和PVP活动持续调动玩家的紧张和应激状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "飞行俯瞰大地和宏大建筑让玩家持续感受到视觉上的震撼与敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.3,
+          "explanation": "游戏机制环境设定较为直接，不常通过内容触发怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.5,
+          "explanation": "持续可见的等级与装备提升路径给玩家提供了明确的努力希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.1,
+          "explanation": "游戏整体氛围积极热血，忧郁和感伤的情绪不是表达重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.3,
+          "explanation": "PK和城战失败时容易受挫，但游戏本身不颂扬或煽动愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.25,
+          "explanation": "只有在大地图游历看风景时才能感受到片刻的宁静，但非常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "游戏的场景、角色和技能特效在当时具备极高的审美和视觉吸引力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.15,
+          "explanation": "游戏界面和美术风格偏向华丽复杂，而非简洁留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.65,
+          "explanation": "高级装备和时装通常带有闪光特效和华丽设计，彰显奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.3,
+          "explanation": "虽有魔界等场景，但整体色调和氛围明亮，并非黑暗风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.6,
+          "explanation": "游戏世界大量采用高饱和度色彩，总体呈现明亮欢快的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.55,
+          "explanation": "仙侠主题和飞行系统让场景带有一定如梦似幻的超现实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.5,
+          "explanation": "未被探索的地图和隐藏任务带来了一定的神秘未知感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "虽然当时技术领先，但艺术风格在东方奇幻框架内，不算前卫实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.5,
+          "explanation": "建筑和服装设计大量参考中国古典审美，具有传统韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.4,
+          "explanation": "3D图形技术和用户界面体现了2005年代的现代数码设计感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.25,
+          "explanation": "游戏依赖任务线推进，故事情节较为线性，无复杂反转。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.2,
+          "explanation": "由玩家驱动的角色缺乏预设的丰富背景故事，情感深度不足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "核心玩法是角色从弱小到强大的属性、装备和技能成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.75,
+          "explanation": "不同种族、地域和奇幻背景共同构建了完整且自洽的幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "玩家只能按照顺序完成任务线，几乎没有非线性叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.1,
+          "explanation": "游戏节奏明快，鼓励战斗和社交，不适合慢节奏的沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.7,
+          "explanation": "战斗操作、走位和PK对实时反应要求高，动作频率密集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.75,
+          "explanation": "城战、领土争夺和资源竞争构成高度对抗的群体冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.15,
+          "explanation": "游戏系统几乎不探讨哲学、道德或深刻的意识形态问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.5,
+          "explanation": "角色养成和个性化装扮强调个体的独特性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.8,
+          "explanation": "城战和帮派活动高度依赖集体力量，强调团队利益大于个人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.1,
+          "explanation": "游戏中没有预制的家庭关系或相关玩法系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.5,
+          "explanation": "固定队和结义系统促进了玩家之间的友情羁绊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.2,
+          "explanation": "有婚姻系统存在，但大多作为社交功能，缺乏深度的情感叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.7,
+          "explanation": "帮派提供了紧密的社交社区，成员具有共同的目标和归属感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.85,
+          "explanation": "帮战、排行榜和PVP构成了游戏主要驱动力，竞争无处不在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.8,
+          "explanation": "需要高度协作完成副本和城战，合作是通往胜利的必备条件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.7,
+          "explanation": "帮主、管理层和普通成员之间存在清晰的社会层级和权力分配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.4,
+          "explanation": "玩家身份主要由职业和帮派界定，但深层自我探索的内容较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.75,
+          "explanation": "自由飞行、开放探索和无职业限制让玩家感到行动自由度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.4,
+          "explanation": "游戏规则明确，但玩家社会内部的秩序由帮派自行维持，不稳定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.1,
+          "explanation": "游戏基本不涉及对真理的探讨或知识体系的构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.6,
+          "explanation": "华丽的时装和壮丽的风景是游戏重要卖点，玩家乐于追求审美体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.85,
+          "explanation": "等级、排名、装备和领土等硬指标是衡量角色价值的核心标准。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.3,
+          "explanation": "PVP和利益争夺往往以实力说话，正义和道义的讨论相对边缘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "团队合作需要个人付出，但不需要个人做出深度的利益牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.35,
+          "explanation": "玩家通过尝试不同职业和玩法来了解自己的偏好，但仅限于游戏内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "游戏世界设定基于东方奇幻古典美学，但对传统的保守并非主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.5,
+          "explanation": "版本的更新和帮派势力的更迭，体现了游戏世界动态变化的一面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.6,
+          "explanation": "野外PK和资源点争夺激发了玩家的生存本能和自保意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.2,
+          "explanation": "对人生的意义和宏大哲学命题的探讨在游戏中几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.7,
+          "explanation": "飞行和探索系统激励用户去发现新地点，满足对新地图的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.4,
+          "explanation": "装备打造系统提供了有限的创造空间，但不是沙盒建造模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.8,
+          "explanation": "探索整个无缝大陆被视为一次宏大的冒险，充满未知与挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.15,
+          "explanation": "游戏的即时战斗和反应机制几乎不给玩家留下长时间反思的空隙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.9,
+          "explanation": "无论是PVP还是PVE,竞争的排名机制驱动着玩家的大部分行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.8,
+          "explanation": "参与帮派活动、组队和交易是游戏内容的核心组成，社交不可或缺。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.5,
+          "explanation": "为了变强需要每日完成常规任务和活动，要求一定的游戏纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.7,
+          "explanation": "野外PK和城战都属于高风险活动，参与者可能掉落装备或被击败。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "游戏整体节奏紧张刺激，几乎没有机制鼓励玩家采取平静稳重的策略。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.2,
+          "explanation": "虽然能暂时逃离现实，但游戏内的强社交绑定使其并非完全封闭的避风港。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.7,
+          "explanation": "绚丽的技能特效和精致的人物场景让画面视觉信息非常丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "不同地域和装备体系采用了丰富的色彩体系，视觉辨识度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "战斗音效和背景音乐较为饱满，尤其是在城战等大型活动中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.7,
+          "explanation": "连招和走位让战斗节律紧凑，伴随音乐，保持高能量节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.7,
+          "explanation": "场景设计成功营造了东方奇幻的氛围，如仙境、魔都和密林。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.8,
+          "explanation": "无缝地图、自由视角和实时战斗让玩家能全身心投入虚拟世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.55,
+          "explanation": "帮战配置和技能加点需要策略安排，但个人操作往往能弥补一定差距。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.7,
+          "explanation": "PK极度依赖操作熟练度，包括走位、连招释放和时机判断。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.85,
+          "explanation": "玩家可以凭意愿自由选择是否飞行探索、PK或参与社会经济活动。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.9,
+          "explanation": "无缝地图和飞行系统让发现未知区域和隐藏内容成为核心乐趣之一。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.6,
+          "explanation": "时装、坐骑和稀有材料等收集要素丰富，驱动玩家进行积累。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.8,
+          "explanation": "等级、技能、装备强化等养成线结构清晰，指引明确。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.85,
+          "explanation": "游戏以帮派为核心，交流和多人合作是所有高阶玩法的基础。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.9,
+          "explanation": "领土资源和荣誉构成强对抗环境，竞争的激烈程度非常高。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家的旅程充满了激动人心的战斗和高度自由的奇幻探索。飞行系统的引入打破了过去网游的空间限制，带来了前所未有的视觉敬畏和掌控感。在从新手到强者的过程中，成就感和对自身变强的期待是主要驱动力，但同时也伴随着激烈的社会竞争带来的紧张感。",
+        "structure_description": "游戏结构以角色数值化和装备驱动的成长体系为骨架，结合无缝地图的开放探索与帮派占据领地的社会框架。日常养成、团队副本和限时帮战构成了循环结构，让体验在个人提升和集体协作之间不断切换。",
+        "cognitive_expression": "游戏鼓励即时反馈导向的注意力和反应能力，对纯粹的逻辑深度和抽象思维要求较低。探索的过程中需要空间认知和快速决策，而面对复杂的帮派人际关系时，则需要一定的社交博弈和权谋判断。",
+        "behavioral_tendency_description": "它极大地激发了冒险、竞争和社交的冲动。为了变强和获取稀有资源，玩家会展现出高度的合作性和组织纪律性。为了获胜而敢于承担PVP风险，是游戏全程都在强化的行为倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.15,
+        "Ne": 0.55,
+        "Ti": 0.25,
+        "Te": 0.8,
+        "Fi": 0.2,
+        "Fe": 0.85,
+        "Si": 0.3,
+        "Se": 0.9,
+        "openness": 0.65,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.5,
+        "neuroticism": 0.55,
+        "Assertive": 0.7,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "玩家可以在无缝连接的大地图上自由飞行，探索不同风格的地域。",
+        "游戏核心玩法涉及个人修炼升级和装备强化，角色成长路径清晰可见。",
+        "存在完整的帮派系统，包含帮派等级、职务分配和资源管理机制。",
+        "大型帮派城战需要上百名玩家同时参与，并进行战术分工和集中指挥。",
+        "非安全区域允许自由PK，玩家之间的遭遇战随时可能发生，存在掉落装备的风险。",
+        "游戏内有丰富的时装、坐骑和翅膀系统，提供大量外观上的个性化选择。",
+        "多人团队副本要求不同职业配合完成，对团队分工和执行力要求较高。",
+        "游戏的世界观建立在人、神、魔并存的东方奇幻背景之上，种族设定分明。",
+        "强大的社交系统支持玩家结义、结婚和师徒关系，形成了复杂的社交网络。",
+        "等级、装备评分和竞技场排名等硬性指标是衡量角色实力的主要标准。",
+        "游戏地图中分布着大量非必要的隐藏地点和彩蛋，鼓励玩家四处游历。",
+        "战斗中的技能特效华丽且动作连贯，对玩家的实时操作和反应有要求。",
+        "资源点和BOSS的争夺往往引发不同帮派间的群体性冲突和外交博弈。",
+        "游戏采用全3D画面，在当时国产网游中画质出众，视觉效果具有冲击力。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

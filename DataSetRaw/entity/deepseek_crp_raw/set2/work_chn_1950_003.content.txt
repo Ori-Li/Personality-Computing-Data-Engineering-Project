@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1950_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "花鸟画系列",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 0,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "方楚雄的花鸟画系列将岭南画派写生传统与工笔技法融合，以生动精确的造型和明丽温润的墨彩，表现花鸟走兽的自然生机与生命情趣。作品在保持写实观察的同时注入文人画的雅致与人间温情，形成工写结合、刚柔相济的个人风格，在当代中国画坛具有重要影响。",
+        "themes": [
+          "自然",
+          "生命",
+          "和谐",
+          "生机",
+          "温情",
+          "传统",
+          "雅致"
+        ],
+        "keywords": [
+          "岭南画派",
+          "工笔",
+          "写生",
+          "花鸟",
+          "走兽",
+          "墨彩",
+          "方楚雄",
+          "当代国画",
+          "工写结合",
+          "自然情趣"
+        ],
+        "core_experience": "观者在欣赏作品时，沉浸在一种对自然生命细致入微的观察与温润雅致的审美享受中，感受到自然界的蓬勃生机与人间的恬淡温情，体验一种宁静、和谐、充满生命韵律的视觉愉悦。",
+        "experience_introduction": "方楚雄的花鸟画系列通过将严谨的写生观察与工笔的精细描绘相结合，使画面中的动植物形态精准而富有生意。明丽温润的墨彩运用营造出一种既鲜活又典雅的视觉氛围。观者在画面前，首先被栩栩如生的动物神态和舒展的花草姿态所吸引，进而感受到一种返璞归真的自然气息和细腻的人情温度，整个观赏过程如同进行一次与自然亲密对话的心灵漫步。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.78,
+        "awe": 0.22,
+        "nostalgia": 0.45,
+        "reflection": 0.42,
+        "romance": 0.20,
+        "tension": 0.08,
+        "warmth": 0.81,
+        "loneliness": 0.15,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.38,
+          "depth_of_thought": 0.40,
+          "logical_structure": 0.25,
+          "novelty": 0.42,
+          "exploration": 0.22,
+          "ambiguity": 0.18,
+          "predictability": 0.55,
+          "information_density": 0.50,
+          "learning_value": 0.45
+        },
+        "worldview": {
+          "personal_scale": 0.62,
+          "relationship_scale": 0.28,
+          "social_scale": 0.15,
+          "civilization_scale": 0.20,
+          "cosmic_scale": 0.10,
+          "time_span": 0.25,
+          "fantasy_level": 0.12
+        },
+        "emotion": {
+          "happiness": 0.52,
+          "sadness": 0.15,
+          "loneliness": 0.12,
+          "warmth": 0.82,
+          "fear": 0.05,
+          "tension": 0.10,
+          "awe": 0.20,
+          "nostalgia": 0.48,
+          "hope": 0.55,
+          "melancholy": 0.22,
+          "anger": 0.02,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.88,
+          "minimalism": 0.38,
+          "luxury": 0.25,
+          "darkness": 0.05,
+          "brightness": 0.75,
+          "dreamlike": 0.30,
+          "mystery": 0.22,
+          "experimental": 0.28,
+          "classical": 0.72,
+          "modern": 0.40
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.28,
+          "character_growth": 0.15,
+          "world_building": 0.18,
+          "nonlinear_structure": 0.08,
+          "slow_immersion": 0.62,
+          "action_intensity": 0.12,
+          "conflict_intensity": 0.05,
+          "philosophical_depth": 0.38
+        },
+        "social_relationship": {
+          "individualism": 0.42,
+          "collectivism": 0.38,
+          "family": 0.32,
+          "friendship": 0.25,
+          "love": 0.18,
+          "community": 0.20,
+          "competition": 0.05,
+          "cooperation": 0.28,
+          "power_relationship": 0.08,
+          "identity": 0.30
+        },
+        "value": {
+          "freedom": 0.42,
+          "order": 0.55,
+          "truth": 0.60,
+          "beauty": 0.90,
+          "achievement": 0.38,
+          "justice": 0.08,
+          "sacrifice": 0.10,
+          "self_exploration": 0.35,
+          "tradition": 0.68,
+          "change": 0.32,
+          "survival": 0.30,
+          "meaning": 0.48
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.65,
+          "adventure": 0.15,
+          "reflection": 0.52,
+          "competition": 0.05,
+          "social": 0.22,
+          "discipline": 0.55,
+          "risk": 0.08,
+          "calm": 0.82,
+          "escape": 0.12
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.82,
+          "sound_intensity": 0.02,
+          "rhythm_energy": 0.38,
+          "atmosphere": 0.78,
+          "immersion": 0.55
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "工写结合",
+          "color_expression": 0.82,
+          "composition_complexity": 0.45,
+          "symbolism": 0.38,
+          "emotional_expression": 0.78,
+          "historical_style": 0.65
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "作品以宁静雅致为主调，热烈的情感表达较为克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.78,
+          "explanation": "温润的墨彩和生动的自然题材带来显著的抚慰与治愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.22,
+          "explanation": "作品侧重亲近感与温情，较少追求宏大震撼的敬畏体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "对传统文人花鸟题材的现代演绎唤起适度的怀旧与文化记忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.42,
+          "explanation": "观者在品味笔墨趣味与自然生趣时会产生一定的内省与思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.20,
+          "explanation": "作品主要传达的是自然温情而非浪漫情爱。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.08,
+          "explanation": "和谐的画面几乎没有制造紧张或冲突的意图。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.81,
+          "explanation": "画面中流露出的生命温度与人间温情是作品的核心体验之一。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "虽然花鸟题材为个体存在，但画面充盈的生机驱散了孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "明媚的设色与茁壮的生物形态传递出积极向上的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "对自然物象的精准写生是基础，抽象和变形的程度较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.38,
+          "explanation": "工写结合的技法与构图有内在层次，但整体认知负荷适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.40,
+          "explanation": "作品在表现自然情趣背后隐含着对生命状态的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "视觉艺术主要以审美逻辑和空间安排为主，非形式逻辑结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.42,
+          "explanation": "在工笔与写生融合、刚柔相济方面具有个人面貌的创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.22,
+          "explanation": "关注点在于深入观察与表现熟悉题材，而非探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.18,
+          "explanation": "形象清晰明确，表达内容直指自然生机与雅致，歧义性很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "和谐的构图与常规的花鸟主题使画面流转具有较高的可预期性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "精湛的笔墨细节和写生造型富含视觉信息，但非知识概念信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.45,
+          "explanation": "观者可从中学习到中国画技法、自然观察以及传统文化审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.62,
+          "explanation": "画面聚焦于个体生命的形态与神韵，多在近景或特写尺度表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.28,
+          "explanation": "仅通过花鸟之间的呼应关系暗示轻微的关系互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.15,
+          "explanation": "作为花鸟画，完全不涉及人类社会及其组织结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.20,
+          "explanation": "画面元素不含对文明进程或历史文化的直接描绘与宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "题材和表现手法均不涉及宇宙尺度的思考或呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "多为瞬间生机的捕捉，时间凝固在当下的静态美感之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.12,
+          "explanation": "基于真实的写生观察，几乎不含任何超自然或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.52,
+          "explanation": "明丽的色彩和生动的物象带来适度的愉悦感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.15,
+          "explanation": "作品整体基调积极向上，几乎不传达悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.12,
+          "explanation": "鸟儿多成双或栖息于繁茂花间，营造出的氛围是不孤独的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.82,
+          "explanation": "温润的墨色与饱满的造型使温暖的体验贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "画面毫无恐怖或令人畏惧的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.10,
+          "explanation": "和谐统一的画面不制造任何紧张或不安的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.20,
+          "explanation": "对自然生命的刻画更多带来的是亲近感而非崇高敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.48,
+          "explanation": "传统的花鸟题材和笔墨韵味会引发对古典文化的怀旧之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "萌芽、花开、鸟鸣等物象象征着生命力的延续与未来的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.22,
+          "explanation": "雅致富丽的氛围中偶尔流露出对自然生命短暂的淡淡怅惘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.02,
+          "explanation": "作品完全不传递愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "宁静与和平是观赏这一系列作品时最核心、最持续的情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.88,
+          "explanation": "作为花鸟画经典题材，对美的追求和表现是作品最核心的目标之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.38,
+          "explanation": "工笔技法决定了画面细节丰富，部分折枝构图的留白有极简意蕴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.25,
+          "explanation": "设色明丽但非富丽堂皇，更多是文人雅致而非奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.05,
+          "explanation": "调子基本以明亮为主，极少甚至没有黑暗沉重的视觉表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.75,
+          "explanation": "明丽的色彩和通透的墨韵使画面具有很高的明亮度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.30,
+          "explanation": "在写实之外，温润的墨彩略微营造了如诗如梦的意境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.22,
+          "explanation": "画面内容通俗易懂，不制造悬念或神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.28,
+          "explanation": "在传统笔墨基础上进行工写结合的技法探索，具有一定实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.72,
+          "explanation": "根植于宋元以来的花鸟画传统，古典韵味浓厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.40,
+          "explanation": "在写生观念和构图上融入现代视觉经验，具有时代气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "作为绘画，主要依赖视觉表现而非复杂的叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.28,
+          "explanation": "对动植物形神的刻画有一定深度，但对非角色性格的刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "静态的画面一般不表现角色的成长演进过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.18,
+          "explanation": "呈现的是一个优雅和谐的自然切片，非一个自足的庞大世界体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.08,
+          "explanation": "画面观赏通常遵循线性构图引导，没有非线性的时空跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.62,
+          "explanation": "观赏传统工笔画非常需要慢下来细细品察，是典型的慢沉浸过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.12,
+          "explanation": "画面捕捉的均为静态或动态极微的瞬间，动作强度极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.05,
+          "explanation": "不存在任何形式的冲突表现或暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.38,
+          "explanation": "通过对自然万物的观照隐约体悟到天人合一、生生不息的生命哲思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.42,
+          "explanation": "对单个生命个体神态的强化表现流露出对个体价值的关注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.38,
+          "explanation": "万物和谐共生、并行不悖的画面也传达出某种集体和谐的秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.32,
+          "explanation": "个别作品通过大鸟哺育雏鸟等题材表现亲情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.25,
+          "explanation": "双栖双飞的禽鸟可被隐喻性地理解为一种陪伴与友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.18,
+          "explanation": "偶有表现鸳鸯等象征爱情的主题，但并非主要情感传达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.20,
+          "explanation": "对自然生态圈的表现有微弱的生物社群感，但不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "画面构建的是绝对和谐共处的世界，无竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.28,
+          "explanation": "万物和谐相处本身即是一种无言的合作状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.08,
+          "explanation": "完全不涉及对权力关系、阶层的探讨与呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.30,
+          "explanation": "通过对物种独有形态习性的描绘，强调了各自的生命身份特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.42,
+          "explanation": "鸟儿自由飞翔、花朵自由绽放的画面象征着一种自然天成的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "大自然四季荣枯、稳定的生态圈层体现了一种井然的秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.60,
+          "explanation": "对物象形态的严谨写生追求体现出对物理真实和艺术真实的尊重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.90,
+          "explanation": "创造与传递视觉及精神上的高度美感是作品最核心的价值追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.38,
+          "explanation": "作者在传统与现代融合上的自我超越含有一定的成就取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.08,
+          "explanation": "自然界的优胜劣汰法则被弱化，不涉及社会正义概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.10,
+          "explanation": "作品主题不包含牺牲或奉献精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.35,
+          "explanation": "通过对自然的观照反观内心，是一种间接的自我探索方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.68,
+          "explanation": "对中国画笔墨传统、岭南画派法脉的继承是作品显著的基石。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.32,
+          "explanation": "在传承中求新求变，体现了顺应时代发展的变革精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.30,
+          "explanation": "繁杂而有序的自然场景从根本上展示了万物勃勃的生存状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.48,
+          "explanation": "作品通过对生命的歌颂引发观者对生命意义的思考与体悟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "能激起观者对自然奥妙的些许好奇，但非主要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.65,
+          "explanation": "笔墨技巧与艺术境界的达成，极大地鼓励了审美创造的心向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "不涉及任何冒险或打破常规的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.52,
+          "explanation": "静观一幅工笔画的过程本身即是一种鼓励沉思与内省的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "和平共处的自然世界不鼓励竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.22,
+          "explanation": "观赏更多是个人化的行为，不直接指向社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "精湛的程式化笔墨语言和严谨的造型锤炼，映射出对法度的遵循。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.08,
+          "explanation": "作品本身毫无风险偏好。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.82,
+          "explanation": "作品引导观者远离焦虑，进入极为平静、安详的心绪与行为状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.12,
+          "explanation": "提供了一种从喧嚣中抽离的心理空间，但非消极避世。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "鲜艳而不燥的设色及精细的线描构成了强烈的视觉丰富性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.82,
+          "explanation": "墨色温润且与多种色彩融合，营造出极高的色彩丰富度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.02,
+          "explanation": "作为静态视觉艺术，不包含任何直接的声音体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.38,
+          "explanation": "枝叶的走向、鸟的动势构成一种舒缓而富有韵律的视觉节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "画面成功营造出一种清新、温润、典雅且生机盎然的整体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.55,
+          "explanation": "通过细节刻画吸引人进入画面空间，产生中度沉浸感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.85,
+          "explanation": "视觉风格明确表现为'工写结合'，即工笔与写意手法的融合。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.82,
+          "explanation": "设色明丽温润，色彩在画面上起到了主要的情感与氛围烘托作用。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.45,
+          "explanation": "多取折枝或较为简约的构图，空间层次分明但不至于非常复杂。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.38,
+          "explanation": "花鸟自带传统吉祥寓意，但未做过度深奥的当代象征化处理。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.78,
+          "explanation": "通过动植物的拟人化神态与氛围，传递出的情感饱满且温润。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.65,
+          "explanation": "技法与气韵上承袭了从宋代院体到岭南画派的深厚历史渊源。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "该系列作品为观众提供了一种宁静、温暖且充满生机的审美体验。观者首先被作品明丽典雅的色彩和栩栩如生的花鸟走兽形态所吸引，进而沉浸在一种与自然亲密无间的和谐氛围中。整个体验过程伴随着温润的情感流动，治愈感强，情绪平和，能有效驱散焦虑与孤独。",
+        "structure_description": "作品以经典的折枝式或小景式构图为基本框架，视觉引导清晰而舒缓。工笔的精细勾勒与没骨的温润渲染相结合，形成一种'收放有度'的视觉节奏。观赏的结构不是由激烈的情节驱动，而是由笔墨细节、色彩变化和物象之间的空间呼应逐步展开，引导观者进入慢沉浸的品读状态。",
+        "cognitive_expression": "作品要求并训练观者进行细致入微的观察，认知上侧重于对自然形态、生命细节与传统笔墨程式的辨识与欣赏。观者需调动视觉记忆与文化知识理解花鸟的象征意涵，但整体认知负荷适中，不构成高强度的智识挑战，更多是引导一种体验性、感受性的认知活动。",
+        "behavioral_tendency_description": "该系列作品引导观众趋向一种安静、沉思和专注的行为模式。面对画面，观者的行为倾向是放慢节奏，细细品读，内心趋于平静。它鼓励一种独处式的深度审美活动，同时启发观者在现实生活中更加关注自然与日常细节，追求一种从容、有序且富有美感的生活方式。"
+      },
+      "personality_affinity": {
+        "Ni": 0.38,
+        "Ne": 0.40,
+        "Ti": 0.48,
+        "Te": 0.20,
+        "Fi": 0.68,
+        "Fe": 0.65,
+        "Si": 0.78,
+        "Se": 0.30,
+        "openness": 0.58,
+        "conscientiousness": 0.62,
+        "extraversion": 0.22,
+        "agreeableness": 0.75,
+        "neuroticism": 0.18,
+        "Assertive": 0.82,
+        "Turbulent": 0.25
+      },
+      "supporting_evidence": [
+        "作品主要描绘自然界中的花、鸟、走兽等具体物象。",
+        "画家运用工笔技法对动物翎毛、花叶脉络进行了极其细致的勾勒。",
+        "画面中大量使用明丽而温润的墨与彩进行渲染。",
+        "作品融合了岭南画派注重实地写生的传统。",
+        "画面构图多采用折枝法，背景留白以突出主体。",
+        "通过雏鸟待哺、双禽相依等题材表现了动物之间的温情。",
+        "作品中的花卉往往处于盛开状态，枝叶舒展茂密。",
+        "色彩运用不追求强烈的视觉冲击，而是营造视觉舒适感。",
+        "笔墨之间讲究书法用笔的顿挫与节奏感。",
+        "整体视觉风格和谐统一，没有突兀或不协调的元素。",
+        "物象的造型在写实基础上保留了文人的笔墨意趣。",
+        "画面捕捉动植物的一个静态或微动的瞬间神态。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "workId": "work_chn_1941_004",
+    "workName": "牡丹亭",
+    "error": "ValueError: 模型输出 JSON 语法错误（第 490 行，第 40 列）；失败内容已保存到 D:\\Personality-Computing-Project\\Data Engineering\\DataSetRaw\\entity\\deepseek_crp_raw\\set2\\work_chn_1941_004.invalid.txt",
+    "failedAt": "2026-07-19T05:09:28.356087+00:00"
+  }
+]

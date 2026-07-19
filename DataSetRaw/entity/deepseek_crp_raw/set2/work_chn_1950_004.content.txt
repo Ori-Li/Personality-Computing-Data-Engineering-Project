@@ -1,0 +1,745 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "铁弓缘",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 1950,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-15",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.88,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "京剧经典剧目《铁弓缘》讲述明代少女陈秀英与武将匡忠因一把铁弓结缘的爱情故事。二人历经权贵迫害、生离死别等磨难，最终凭借智勇与侠义精神终结连理。全剧融合花旦、武旦、小生、武生等多行当表演，尤其以“大靠出手”等高难度武打技艺著称，文武戏份并重。作品在传统才子佳人框架中注入巾帼不让须眉的侠情，体现京剧艺术刚柔相济的审美追求。",
+        "themes": [
+          "爱情",
+          "侠义",
+          "反抗",
+          "勇气",
+          "命运",
+          "磨难",
+          "正义",
+          "传统姻缘"
+        ],
+        "keywords": [
+          "陈秀英",
+          "匡忠",
+          "铁弓",
+          "明代",
+          "江湖",
+          "武旦",
+          "靠功",
+          "武打戏",
+          "关肃霜",
+          "京剧",
+          "侠女",
+          "大靠出手"
+        ],
+        "core_experience": "观众在文武交替的表演中感受巾帼英雄的刚健之气与女性柔情，经历由姻缘天定到历经磨难终成眷属的戏剧张力，获得酣畅淋漓的观赏快感与对侠义精神的认同。",
+        "experience_introduction": "《铁弓缘》通过武打技艺、唱念做打与情感表达的多重交织，为观众创造出一种刚柔相济的舞台体验。强烈的动作节奏与婉转的情感倾诉交替出现，使观众既能从高难度武戏中获得视觉震撼与感官刺激，又能在情缘纠葛中体验情感的细腻波动。观看过程宛如经历一场从闺阁到江湖的冒险旅程，最终在侠义与圆满的结尾中获得情感的释放与满足。"
+      },
+      "experience_vector": {
+        "passion": 0.78,
+        "healing": 0.32,
+        "awe": 0.55,
+        "nostalgia": 0.45,
+        "reflection": 0.35,
+        "romance": 0.72,
+        "tension": 0.68,
+        "warmth": 0.48,
+        "loneliness": 0.25,
+        "hope": 0.65
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.22,
+          "complexity": 0.45,
+          "depth_of_thought": 0.30,
+          "logical_structure": 0.40,
+          "novelty": 0.25,
+          "exploration": 0.38,
+          "ambiguity": 0.18,
+          "predictability": 0.72,
+          "information_density": 0.42,
+          "learning_value": 0.35
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.72,
+          "social_scale": 0.48,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.08,
+          "time_span": 0.35,
+          "fantasy_level": 0.12
+        },
+        "emotion": {
+          "happiness": 0.72,
+          "sadness": 0.42,
+          "loneliness": 0.30,
+          "warmth": 0.52,
+          "fear": 0.22,
+          "tension": 0.68,
+          "awe": 0.55,
+          "nostalgia": 0.40,
+          "hope": 0.65,
+          "melancholy": 0.32,
+          "anger": 0.42,
+          "peace": 0.28
+        },
+        "aesthetic": {
+          "beauty": 0.70,
+          "minimalism": 0.38,
+          "luxury": 0.35,
+          "darkness": 0.22,
+          "brightness": 0.65,
+          "dreamlike": 0.28,
+          "mystery": 0.25,
+          "experimental": 0.15,
+          "classical": 0.88,
+          "modern": 0.12
+        },
+        "narrative": {
+          "plot_complexity": 0.48,
+          "character_depth": 0.45,
+          "character_growth": 0.52,
+          "world_building": 0.25,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.30,
+          "action_intensity": 0.82,
+          "conflict_intensity": 0.72,
+          "philosophical_depth": 0.20
+        },
+        "social_relationship": {
+          "individualism": 0.62,
+          "collectivism": 0.35,
+          "family": 0.55,
+          "friendship": 0.42,
+          "love": 0.85,
+          "community": 0.35,
+          "competition": 0.38,
+          "cooperation": 0.52,
+          "power_relationship": 0.55,
+          "identity": 0.48
+        },
+        "value": {
+          "freedom": 0.58,
+          "order": 0.35,
+          "truth": 0.28,
+          "beauty": 0.68,
+          "achievement": 0.55,
+          "justice": 0.62,
+          "sacrifice": 0.48,
+          "self_exploration": 0.38,
+          "tradition": 0.55,
+          "change": 0.42,
+          "survival": 0.50,
+          "meaning": 0.32
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.28,
+          "adventure": 0.62,
+          "reflection": 0.32,
+          "competition": 0.38,
+          "social": 0.48,
+          "discipline": 0.55,
+          "risk": 0.55,
+          "calm": 0.28,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.78,
+          "color_richness": 0.65,
+          "sound_intensity": 0.72,
+          "rhythm_energy": 0.75,
+          "atmosphere": 0.60,
+          "immersion": 0.70
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.85,
+          "actor_expression": 0.82,
+          "body_expression": 0.88,
+          "audience_interaction": 0.55,
+          "performance_intensity": 0.85,
+          "ritual_sense": 0.60
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.78,
+          "explanation": "剧中爱情主线贯穿始终，陈秀英与匡忠的情感热烈直白，舞台表演充满激情感染。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.32,
+          "explanation": "作品以冲突和磨难为叙事核心，整体基调偏于激烈，疗愈感并非主要体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "关肃霜的“大靠出手”等武旦绝技带来强烈的技艺震撼与惊叹感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "作为经典传统剧目，其程式化表演和古典审美会引发对传统戏剧文化的怀旧。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.35,
+          "explanation": "作品侧重情节推进和技艺展示，留给观众进行深度哲理反思的空间不多。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.72,
+          "explanation": "“铁弓定情”及之后的坚守与团圆，提供了浓厚而圆满的爱情浪漫体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.68,
+          "explanation": "武打冲突、权贵迫害和命运磨难持续制造戏剧张力与紧张情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.48,
+          "explanation": "亲人、爱人之间的忠贞守护带来一定暖意，但被强烈的戏剧冲突所冲淡。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.25,
+          "explanation": "主人公虽经历磨难，但常有关怀和支持者相伴，孤独感并非主要体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.65,
+          "explanation": "终成眷属的结局和主人公的抗争精神传递出正义必胜、爱情圆满的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.22,
+          "explanation": "剧情和表演方式直白易懂，依赖程式化和具体行为来传递信息，抽象隐喻较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "情节转折较多，人物关系相对丰富，但整体逻辑清晰，不构成高复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.30,
+          "explanation": "主题聚焦于爱情、侠义善恶等清晰的传统价值，不追求深层的哲理思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.40,
+          "explanation": "采用传统的线性叙事和因果逻辑，起承转合规整，符合经典戏剧结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.25,
+          "explanation": "在1950年代其表演技艺具有创造性，但故事母题和叙事框架具有历史传承性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.38,
+          "explanation": "从闺阁到江湖的场景转换带来了空间探索，但主题和思想探索深度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.18,
+          "explanation": "善恶对立、人物立场、价值判断均十分明确，缺乏模糊性和多重解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.72,
+          "explanation": "剧情遵循传统才子佳人与善恶有报的规律，有情人终成眷属的结局高度可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.42,
+          "explanation": "包含武打、唱腔、表演程式等多重艺术信息，但叙事和思想信息密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.35,
+          "explanation": "有助于了解京剧艺术程式和传统侠义文化，但不以传递系统知识为主要目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "故事紧密围绕陈秀英和匡忠的个体命运和情感抉择展开，个人视角占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.72,
+          "explanation": "爱情、亲情和人际关系是驱动情节发展的核心张力，情感纽带至关重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.48,
+          "explanation": "涉及权贵压迫的社会问题，但仅作为情节障碍，未对社会结构进行深入探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "视角局限在个人命运和特定江湖侠义圈，未上升到文明或历史格局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.08,
+          "explanation": "叙事完全基于人伦和现实世界，不涉及宇宙规律或超验议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "故事时间跨度不长，集中于从相遇到团聚的一段生命历程，非史诗性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.12,
+          "explanation": "故事发生在写实的明代背景下，人物能力和事件均基于现实逻辑，无超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.72,
+          "explanation": "团圆结局和幽默的丑角穿插带来明确的喜悦与满足感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.42,
+          "explanation": "被迫分离和遭受迫害的情节引发短暂的悲伤，但非主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.30,
+          "explanation": "主人公的孤独时刻较少且短暂，多被反抗和重逢的情节迅速中断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.52,
+          "explanation": "恋人、亲人间的守护与谅解持续释放人间温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.22,
+          "explanation": "反派迫害产生的威胁感有限，主角的武艺高强和能力安全感削弱了恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.68,
+          "explanation": "武打场面和身份冲突、权贵压迫共同构成了贯穿全剧的紧张情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.55,
+          "explanation": "高难度的武旦技艺和“大靠出手”为作品带来了显著的惊奇和敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.40,
+          "explanation": "传统戏曲程式和古代背景带来的历史文化距离感，产生温和的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.65,
+          "explanation": "主角不畏强权、坚守爱情的行动，以及大团圆结局，共同传达了希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.32,
+          "explanation": "苦难经历带来短暂的忧伤，但作品整体基调是积极抗争的，不沉溺于忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.42,
+          "explanation": "对权贵压迫和不公的反抗情绪是驱动人物行动的重要因素之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.28,
+          "explanation": "剧情节奏明快，冲突激烈，平静安宁的心境并非作品试图营造的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.70,
+          "explanation": "京剧服饰、妆容和程式化身段，尤其是武旦的刚健婀娜之美是核心审美追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.38,
+          "explanation": "戏曲舞台美术有写意留白的特点，但服装和表演本身丰富华丽，并非极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.35,
+          "explanation": "戏服刺绣和头面装饰体现了传统工艺的精致，但非全剧追求的核心审美质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.22,
+          "explanation": "虽有奸人迫害的阴暗情节，但整体氛围偏向明快，黑暗感不强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.65,
+          "explanation": "喜剧元素、艳丽戏服和圆满结局共同营造了鲜明亮丽的舞台基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.28,
+          "explanation": "故事和表演均立足于现实逻辑和物理技艺，梦境或飘渺感并非其审美追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.25,
+          "explanation": "情节发展清晰，冲突双方一目了然，不支持悬疑或神秘的审美体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "关肃霜的表演在技术上有所创新，但整体艺术形式仍严格遵循京剧传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.88,
+          "explanation": "从表演程式、音乐唱腔到故事价值，处处透露出强烈且纯粹的古典美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.12,
+          "explanation": "审美理念、叙事方式和表现形式基本属于传统范畴，现代感明显不足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.48,
+          "explanation": "情节包含多次冲突和转折，但多属线性推进，结构相对简单。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.45,
+          "explanation": "人物性格鲜明，陈秀英文武双全的形象立体，但心理挖掘层次不深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.52,
+          "explanation": "陈秀英从闺阁少女成长为能抗敌御辱的巾帼英雄，经历显著的成熟转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.25,
+          "explanation": "舞台世界依赖传统戏曲写意手法，世界观的完整性和独创性建构并非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "采用严格顺时叙事，结构清晰易懂，没有倒叙、插叙等非线性手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.30,
+          "explanation": "开场较快进入核心冲突，重视节奏感而非慢热的气氛渲染。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.82,
+          "explanation": "高难度的武打戏份密集且占据重要篇幅，是全剧的主要观赏点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.72,
+          "explanation": "人与人的冲突、与权贵的对立及命运的对抗贯穿始终，矛盾持续且激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.20,
+          "explanation": "作品不旨在传达或探讨宏大复杂的哲学理念，侧重点在于技艺与情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.62,
+          "explanation": "女主角凭借个人意志和武艺反抗命运，强调个体能动性和独立精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.35,
+          "explanation": "行为动机多源于个人情感和家族荣辱，对集体或社会的责任感不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.55,
+          "explanation": "家族的名誉和母亲的支持是女主角的重要羁绊和动力来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.42,
+          "explanation": "有协同抗敌的伙伴关系，但其深度和刻画程度远不及爱情主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.85,
+          "explanation": "因弓结缘、历劫不渝的爱情是全剧最核心、最强烈的人际关系纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.35,
+          "explanation": "故事背景脱离了稳定的社群关系，带有江湖漂泊感，社区集体感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.38,
+          "explanation": "冲突以敌我对抗的形式呈现，非广义上的平等竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.52,
+          "explanation": "最终的胜利和团圆依赖于主角与支持者之间的信任与合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.55,
+          "explanation": "权贵对平民的压迫与主角的反抗是重要的冲突来源，体现了不平等的权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.48,
+          "explanation": "陈秀英的闺秀身份与侠女行为的统一，涉及女性社会身份的再定义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.58,
+          "explanation": "反抗强权压迫、自主选择爱情和命运，对自由的追求是重要的行为动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "作品对现有秩序持批判态度，寻求打破而非维护旧有的社会秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.28,
+          "explanation": "追求事实真相或形而上真理并非故事主题，冲突更多围绕伦理和情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.68,
+          "explanation": "作为以表演为核心的京剧艺术，程式化之美和技艺之美是其核心价值之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "主角通过习武和智谋克服困难、实现目标，体现了个人成就导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.62,
+          "explanation": "善恶有报、伸张正义的结局是作品传递的核心价值，善终将战胜恶。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.48,
+          "explanation": "为守护爱情和保护亲人，人物愿意冒险和付出代价，牺牲精神时有体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.38,
+          "explanation": "陈秀英的成长伴随着从闺秀到侠女的身份转变，但不是内向性的自我剖析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.55,
+          "explanation": "“铁弓联姻”本身就是一种传统的姻缘模式，且叙事和表演遵循传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.42,
+          "explanation": "人物命运的扭转和反抗旧秩序的行动力，体现了对变化的接纳和推动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.50,
+          "explanation": "在权贵迫害的生死危机下，求生和自我保护是人物行动的基本驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.32,
+          "explanation": "作品不深究生命的目的或存在的意义，意义感蕴藏在具体的爱与被爱行为中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "情节推动力源于冲突和情感，而非对未知事物或现象的好奇探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.28,
+          "explanation": "几乎没有涉及发明、构建或创造新事物的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.62,
+          "explanation": "离乡远行、涉险相救等情节充满行动和冒险精神，江湖历险感较强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.32,
+          "explanation": "剧情节奏较快，强调外部行动而非长时间的内心反思和内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.38,
+          "explanation": "主要表现为正邪对抗的武装斗争，而非平等的、规则化的竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.48,
+          "explanation": "人物通过结亲、结拜等方式建立和维系关系，表现出社交性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "主角高超的武艺直接源于严格的武术训练，体现了纪律和苦练的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "女主角敢于挑战权贵、深入险境，主动承担高风险行为的倾向明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.28,
+          "explanation": "作品强调在危机中的爆发力和强烈行动，而非冷静筹划和被动应对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "人物几乎从不以逃避或退出冲突作为解决问题的手段，总是正面应对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.78,
+          "explanation": "繁复的武打动作、色彩鲜艳的戏服与靠旗翻飞构成强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "京剧行头、脸谱和舞台布景提供了丰富且具有象征意义的色彩体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.72,
+          "explanation": "京剧锣鼓的节奏感和唱腔的穿透力共同创造了高强度的听觉环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.75,
+          "explanation": "武戏的快节奏与文戏的舒缓形成鲜明对比，但整体动态和能量感很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.60,
+          "explanation": "通过配乐、身段表演和灯光共同营造出时而紧张、时而缠绵的剧场气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.70,
+          "explanation": "精彩的武打和强烈的情感冲突能够有效吸引观众注意力，使其沉浸于舞台情境中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.85,
+          "explanation": "关肃霜的表演以现场震撼力见长，舞台上的“大靠出手”具有不可替代的临场效果。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.82,
+          "explanation": "演员通过唱腔和面部表情，生动传达陈秀英从羞涩到悲愤再到喜悦的情绪转变。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.88,
+          "explanation": "武旦的身段、靠功和出手绝技是塑造人物和推动情节最核心的肢体表达方式。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.55,
+          "explanation": "京剧存在叫好文化，精彩武戏时会引发观众及时反馈，但非打破第四面墙的现代互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.85,
+          "explanation": "整体表演文武并重，武打部分尤其要求高度的体能、技巧和瞬间爆发力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.60,
+          "explanation": "京剧舞台严格的程式规范和锣鼓经的使用，赋予了演出一种庄重的仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观赏《铁弓缘》的过程是一场从闺阁到江湖的畅快旅程。观众在紧凑的节奏中，先是为陈秀英与匡忠因弓结缘的浪漫所吸引，旋即被卷入权贵压迫的愤怒与紧张的武斗中，最终在技惊四座的武打与苦尽甘来的团圆结局里获得极大的情感释放与满足。整个体验在浪漫、紧张与惊叹之间快速切换，刚柔相济，酣畅淋漓。",
+        "structure_description": "作品采用经典的线性戏剧结构，以铁弓为符号串联全篇。情节的起承转合规整，文戏与武戏交替出现，形成清晰的节奏对比。大量的高难度武打动作既是人物情绪的外化，也是结构上的视觉高潮。表演遵循京剧程式，通过固定的板式、身段和调度来组织感官体验，使观众注意力始终集中在演员的技艺与人物命运之上。",
+        "cognitive_expression": "作品鼓励一种直接的、外部的认知模式。观众无需进行复杂的逻辑推演或解读抽象隐喻，其认知愉悦主要来源于对武打技艺的赏析、对程式美学的辨认以及对因果报应叙事逻辑的认同。它考验的是观众对动作节奏的感知和对传统戏剧符号的识别能力，而非深度思考和内省。",
+        "behavioral_tendency_description": "作品唤起的是一种积极的、外倾的观赏行为。观众的情绪随着剧中人物的行动而跌宕起伏，倾向于在武戏的精彩处通过喝彩来即时表达惊叹与赞赏，在情节的转折处为人物的命运而揪心。它鼓励一种对侠义、勇气和坚贞爱情的积极认同与参与感。"
+      },
+      "personality_affinity": {
+        "Ni": 0.22,
+        "Ne": 0.30,
+        "Ti": 0.25,
+        "Te": 0.55,
+        "Fi": 0.68,
+        "Fe": 0.52,
+        "Si": 0.60,
+        "Se": 0.82,
+        "openness": 0.40,
+        "conscientiousness": 0.55,
+        "extraversion": 0.75,
+        "agreeableness": 0.48,
+        "neuroticism": 0.40,
+        "Assertive": 0.75,
+        "Turbulent": 0.38
+      },
+      "supporting_evidence": [
+        "故事围绕陈秀英与匡忠因铁弓结缘、历尽磨难终成眷属展开。",
+        "全剧文武并重，包含大量花旦、武旦的表演和程式化动作。",
+        "关肃霜在剧中首创并运用了“大靠出手”的高难度武旦技艺。",
+        "陈秀英的人物设定是一位文武双全、机智勇敢的明朝少女。",
+        "主要冲突源于权贵之子对陈秀英的觊觎和对匡忠的陷害。",
+        "情节中包含拷打、逼婚、蒙冤、出逃、相救等强烈的戏剧行动。",
+        "陈秀英被迫与母亲离家，乔装改扮踏上寻夫之路。",
+        "武打场面节奏快速且密集，是推进剧情和表达人物抗争的重要手段。",
+        "陈秀英最终凭借高强武艺和忠贞意志战胜反派，达成团圆。",
+        "全剧使用响亮的京胡、锣鼓等伴奏，音乐具有强烈节奏感。",
+        "服装和妆容遵循京剧传统，如华丽的女靠、鲜明的脸谱。",
+        "舞台美术风格写意，时空转换通过演员的表演程式来完成。",
+        "剧中有不少丑角和插科打诨的桥段，调节紧张气氛。",
+        "陈秀英的家传铁弓是贯穿剧情、定情与试艺的核心道具。",
+        "作品宣扬了敢于反抗强权、善恶有报的传统侠义价值观。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

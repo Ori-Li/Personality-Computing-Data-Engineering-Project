@@ -1,0 +1,732 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_are_2006_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Freej",
+        "type": "ANIME",
+        "countryName": "阿联酋",
+        "year": 2006,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-09-15",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.88,
+        "primaryMediaType": "ANIME"
+      },
+      "semantic": {
+        "summary": "《Freej》是中东首部三维动画系列，讲述四位身着传统黑袍的老年妇女在现代迪拜城市生活中经历的日常冒险与幽默故事。作品通过传统生活方式与高速城市化之间的碰撞制造喜剧效果，同时温和地探讨代际沟通、社区纽带与文化遗产保护等主题。其视觉风格融合阿拉伯传统美学与现代3D技术，成为阿拉伯地区重要的文化符号和身份认同表达。",
+        "themes": [
+          "传统与现代",
+          "社区",
+          "代际关系",
+          "身份认同",
+          "城市生活",
+          "友情",
+          "文化遗产"
+        ],
+        "keywords": [
+          "迪拜",
+          "老奶奶",
+          "黑袍",
+          "三维动画",
+          "阿拉伯文化",
+          "都市化",
+          "社区纽带",
+          "幽默喜剧",
+          "传统价值观"
+        ],
+        "core_experience": "观众在轻松幽默的氛围中体验阿拉伯传统文化与现代都市生活的有趣碰撞。作品通过四位老奶奶的视角，提供一种温暖、亲切且充满智慧的情感体验，同时引发对快速社会变迁中文化传承与身份保持的思考。",
+        "experience_introduction": "这部三维动画系列通过四位身着传统黑袍的老奶奶在现代迪拜的日常生活，创造出一种独特的文化喜剧体验。作品利用传统生活方式与超现代化城市环境之间的鲜明反差作为喜剧来源，同时通过角色之间深厚的友谊和社区互动传递温暖。观众在连续观看短篇故事的过程中，既能享受轻松幽默，又能感受到阿拉伯文化在全球化浪潮中寻求自我定位的情感张力。"
+      },
+      "experience_vector": {
+        "passion": 0.25,
+        "healing": 0.52,
+        "awe": 0.08,
+        "nostalgia": 0.65,
+        "reflection": 0.48,
+        "romance": 0.02,
+        "tension": 0.15,
+        "warmth": 0.78,
+        "loneliness": 0.18,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.22,
+          "complexity": 0.35,
+          "depth_of_thought": 0.42,
+          "logical_structure": 0.28,
+          "novelty": 0.70,
+          "exploration": 0.38,
+          "ambiguity": 0.15,
+          "predictability": 0.72,
+          "information_density": 0.45,
+          "learning_value": 0.58
+        },
+        "worldview": {
+          "personal_scale": 0.82,
+          "relationship_scale": 0.75,
+          "social_scale": 0.55,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.02,
+          "time_span": 0.18,
+          "fantasy_level": 0.15
+        },
+        "emotion": {
+          "happiness": 0.68,
+          "sadness": 0.12,
+          "loneliness": 0.18,
+          "warmth": 0.82,
+          "fear": 0.03,
+          "tension": 0.15,
+          "awe": 0.08,
+          "nostalgia": 0.65,
+          "hope": 0.55,
+          "melancholy": 0.20,
+          "anger": 0.05,
+          "peace": 0.42
+        },
+        "aesthetic": {
+          "beauty": 0.45,
+          "minimalism": 0.30,
+          "luxury": 0.22,
+          "darkness": 0.05,
+          "brightness": 0.70,
+          "dreamlike": 0.12,
+          "mystery": 0.08,
+          "experimental": 0.38,
+          "classical": 0.65,
+          "modern": 0.72
+        },
+        "narrative": {
+          "plot_complexity": 0.25,
+          "character_depth": 0.52,
+          "character_growth": 0.22,
+          "world_building": 0.40,
+          "nonlinear_structure": 0.08,
+          "slow_immersion": 0.32,
+          "action_intensity": 0.12,
+          "conflict_intensity": 0.28,
+          "philosophical_depth": 0.38
+        },
+        "social": {
+          "individualism": 0.28,
+          "collectivism": 0.68,
+          "family": 0.62,
+          "friendship": 0.78,
+          "love": 0.15,
+          "community": 0.85,
+          "competition": 0.10,
+          "cooperation": 0.72,
+          "power_relationship": 0.15,
+          "identity": 0.68
+        },
+        "value": {
+          "freedom": 0.22,
+          "order": 0.48,
+          "truth": 0.30,
+          "beauty": 0.38,
+          "achievement": 0.15,
+          "justice": 0.25,
+          "sacrifice": 0.22,
+          "self_exploration": 0.32,
+          "tradition": 0.82,
+          "change": 0.48,
+          "survival": 0.18,
+          "meaning": 0.42
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.22,
+          "adventure": 0.25,
+          "reflection": 0.48,
+          "competition": 0.08,
+          "social": 0.72,
+          "discipline": 0.30,
+          "risk": 0.12,
+          "calm": 0.45,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.62,
+          "sound_intensity": 0.38,
+          "rhythm_energy": 0.42,
+          "atmosphere": 0.58,
+          "immersion": 0.45
+        }
+      },
+      "media_vector": {
+        "anime_vector": {
+          "animation_quality": 0.52,
+          "character_design": 0.68,
+          "visual_style": 0.72,
+          "symbolic_expression": 0.45,
+          "emotional_expression": 0.58
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.25,
+          "explanation": "作品以轻松日常喜剧为主，情感表达温和而非强烈激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.52,
+          "explanation": "角色间的温馨互动和对生活智慧的展现具有一定的治愈效果。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.08,
+          "explanation": "场景和情节以日常为主，几乎不营造令人敬畏的宏大感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.65,
+          "explanation": "作品通过传统生活方式与记忆片段唤起对过去时光的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.48,
+          "explanation": "传统与现代的碰撞自然地引发观众对文化变迁的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.02,
+          "explanation": "主线聚焦老年社区生活，几乎不涉及浪漫爱情元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.15,
+          "explanation": "冲突多为温和的日常误会，整体基调轻松，紧张感持续较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.78,
+          "explanation": "四位主角之间深厚的友谊和邻里关怀带来了强烈的温暖体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.18,
+          "explanation": "社群互动密集，孤独感很少成为主要情感体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "通过角色积极面对生活变化传递出温和且持续的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.22,
+          "explanation": "叙事直接易懂，较少依赖抽象概念或象征手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "情节结构简单，围绕日常生活展开，认知复杂度较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.42,
+          "explanation": "在喜剧表面下涉及文化认同和代际理解等中等深度的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.28,
+          "explanation": "短片形式不依赖复杂的逻辑推理，叙事以情景驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.70,
+          "explanation": "作为中东首部三维动画，以老年女性为主角聚焦传统文化，创新性显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.38,
+          "explanation": "作品鼓励观众探索阿拉伯文化如何在现代都市中适应和延续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "情节和主题表达清晰直白，很少留下开放式解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.72,
+          "explanation": "遵循喜剧短片惯例，情节发展较容易预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.45,
+          "explanation": "包含阿拉伯文化细节和社会观察，但整体信息密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.58,
+          "explanation": "观众可以了解阿联酋社会变迁、阿拉伯传统和代际关系方面的知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.82,
+          "explanation": "叙事围绕四位主角的个人视角和日常生活展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.75,
+          "explanation": "朋友、家庭和社区之间的关系是情节的主要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "通过社区视角展现城市化对阿拉伯社会的整体影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "偶尔触及阿拉伯文明与现代全球文明的对话，但非主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.02,
+          "explanation": "完全聚焦于现实人类社会，不涉及宇宙或宏大存在命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.18,
+          "explanation": "情节发生在当代，时间跨度小，几乎不进行历史回溯。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.15,
+          "explanation": "故事建立在现实基础上，偶尔带有夸张的喜剧幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.68,
+          "explanation": "喜剧基调使轻松愉快的情绪贯穿大部分情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.12,
+          "explanation": "整体乐观，悲伤情绪很少被唤起。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.18,
+          "explanation": "角色始终处于社群中，孤独感仅短暂出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.82,
+          "explanation": "通过角色间的关怀和社区支持，温暖感是最核心的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.03,
+          "explanation": "几乎不存在恐怖或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.15,
+          "explanation": "情节中的微小矛盾很快被化解，紧张感持续很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.08,
+          "explanation": "不追求视觉奇观或精神震撼，敬畏体验极少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.65,
+          "explanation": "对传统生活方式的描绘和对旧时光的回忆引发明显的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "角色积极面对现代生活挑战的态度传递希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.20,
+          "explanation": "传统文化逝去带来的淡淡忧伤偶尔浮现，但被喜剧调性冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "几乎不引发愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.42,
+          "explanation": "社区生活和日常节奏带来一定程度的平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.45,
+          "explanation": "视觉呈现融合阿拉伯装饰艺术与现代三维设计，具有特定风格美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.30,
+          "explanation": "画面和情节不追求极简，保留必要的文化和生活细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.22,
+          "explanation": "虽以迪拜为背景，但聚焦于朴素社区生活，非奢华风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.05,
+          "explanation": "色调和主题都以明亮、积极为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.70,
+          "explanation": "阳光、沙漠色调和轻松氛围营造出明亮的视觉感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.12,
+          "explanation": "叙事风格以写实喜剧为基础，非梦幻氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.08,
+          "explanation": "情节毫无悬疑或神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.38,
+          "explanation": "将传统黑袍妇女塑造为三维动画主角属于该地区的先锋尝试，具有一定实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.65,
+          "explanation": "传统文化元素和旧式社区生活方式营造出古典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.72,
+          "explanation": "迪拜的现代建筑、科技元素和三维动画媒介营造强烈的现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.25,
+          "explanation": "采用简单的情景喜剧模式，情节线单一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.52,
+          "explanation": "四位主角通过性格对比和文化代表获得了一定的刻画深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.22,
+          "explanation": "系列剧集中角色性格相对固定，成长弧线不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.40,
+          "explanation": "展现了传统社区与现代迪拜共存的世界，构建了独特的文化环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.08,
+          "explanation": "叙事严格按照线性时间顺序推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.32,
+          "explanation": "节奏明快，依赖对话和事件而非缓慢的气氛沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.12,
+          "explanation": "几乎没有追逐、战斗等高强度动作场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.28,
+          "explanation": "冲突多为观念差异和生活琐事，解决过程温和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.38,
+          "explanation": "隐含对传统与现代关系的哲学思辨，但通过喜剧形式轻量化表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.28,
+          "explanation": "角色在集体中存在鲜明个性，但集体主义文化背景限制了个体化表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.68,
+          "explanation": "集体决策、社区互助和家庭利益优先是显著的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.62,
+          "explanation": "跨代家庭关系是故事的核心组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.78,
+          "explanation": "四位老奶奶之间的深厚友谊是推动所有事件的核心情感纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "浪漫爱情并非该剧关注的社会关系主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.85,
+          "explanation": "整个社区的参与和互动是最主要的社会关系框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.10,
+          "explanation": "角色间极少发生竞争，更强调互助共赢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.72,
+          "explanation": "面对问题时的合作是角色互动的基本模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.15,
+          "explanation": "不涉及权力斗争或等级压迫，角色关系平等亲和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.68,
+          "explanation": "现代都市中的阿拉伯传统文化身份认同是核心表达主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.22,
+          "explanation": "更多表现对传统的尊重而非冲破束缚的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.48,
+          "explanation": "社区秩序和传统规律在情节中得到一定体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.30,
+          "explanation": "有时通过幽默揭示生活真相，但非核心追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.38,
+          "explanation": "对艺术美和形式美的追求处于次要地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "主角是退休老人，不追求事业或社会成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "是非对错不占据主要叙事焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.22,
+          "explanation": "部分情节涉及为家人或社区付出的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.32,
+          "explanation": "角色偶尔思考自身在现代社会的位置，但非主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.82,
+          "explanation": "保护、展示和思考传统文化是作品最核心的价值表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.48,
+          "explanation": "城市化和社会变迁是重要的时代背景，角色学习适应变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.18,
+          "explanation": "不涉及生存危机或严苛的生存挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.42,
+          "explanation": "在传统与现代的碰撞中探讨生活的意义和价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "角色对新技术的态度体现了适度好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.22,
+          "explanation": "创作和建造行为在情节中不占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.25,
+          "explanation": "日常生活中的小冒险而非宏大冒险旅程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.48,
+          "explanation": "老年人视角自然带有对过往和现状的反思倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.08,
+          "explanation": "情节几乎不激励竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.72,
+          "explanation": "大量故事情节依靠聚会、聊天、邻里互动等社交行为驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "宗教和传统习俗展现了一定的纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.12,
+          "explanation": "角色行为偏向稳健，较少涉及冒险尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.45,
+          "explanation": "老年人角色在面对混乱时通常表现出稳重和从容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "情节几乎不涉及逃避现实的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "迪拜的现代景观与活泼的角色设计带来中等的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.62,
+          "explanation": "沙漠色调与城市霓虹结合，色彩丰富度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.38,
+          "explanation": "对白和阿拉伯传统音乐占据主导，声音刺激温和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.42,
+          "explanation": "剪辑和叙事节奏明快，能量适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.58,
+          "explanation": "炎热沙漠、社区氛围和现代都市成功融合出独特的气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.45,
+          "explanation": "日常故事和文化环境为观众提供适中的代入感。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.animation_quality",
+          "score": 0.52,
+          "explanation": "作为早期三维动画，技术质量在当时地区领先，但与顶级商业动画仍有差距。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.character_design",
+          "score": 0.68,
+          "explanation": "黑袍和丰富面部表情的设计具有极高的文化辨识度和亲和力。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.visual_style",
+          "score": 0.72,
+          "explanation": "将传统阿拉伯几何图案与现代三维渲染融合，风格独特且明确。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.symbolic_expression",
+          "score": 0.45,
+          "explanation": "角色服饰和环境元素蕴含文化象征，场景设置隐喻新旧交替。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.emotional_expression",
+          "score": 0.58,
+          "explanation": "面部动画和动作设计较好地传达了角色的温和情感与幽默感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众主要的体验是一段温暖、幽默且具有文化深度的情感旅程。作品通过四位老奶奶的日常生活和社区互动创造出强烈的亲切感和共鸣。怀旧与现代感交织，让观众在欢笑中感受到传统价值观的温暖以及社会变迁带来的淡淡思索。整体体验偏向轻松治愈，辅以对社会现象温和的观察与反思。",
+        "structure_description": "作品采用单元剧式情景喜剧结构，每集围绕一个生活小矛盾或趣事展开，叙事节奏明快。视觉上通过传统图案与现代三维技术的结合，音频上通过阿拉伯方言对白和传统旋律，构建出一个既熟悉又新奇的体验世界。叙事完全依赖角色个性和人际关系驱动，而非复杂情节。",
+        "cognitive_expression": "作品主要鼓励具象思维和文化观察，认知负担较低。观众无需进行复杂逻辑推演，而是侧重于感知文化差异、识别幽默反差以及理解代际沟通问题。它引发的是对社会变迁中个体定位的反思性认知，而非分析性认知。作为该地区首创的动画形式，对观众的视觉认知有一定程度的刷新。",
+        "behavioral_tendency_description": "作品强化社区联结和代际交流的行为倾向，鼓励观众关注身边的老年群体和传统文化。角色通过集体合作和幽默感解决问题的模式，倾向于激发观众在社会生活中采取更温和、包容的合作行为。观看后的行为倾向更多指向怀旧、社交分享以及对不同代际和文化背景的理解。"
+      },
+      "personality_affinity": {
+        "Ni": 0.42,
+        "Ne": 0.38,
+        "Ti": 0.22,
+        "Te": 0.18,
+        "Fi": 0.48,
+        "Fe": 0.82,
+        "Si": 0.78,
+        "Se": 0.30,
+        "openness": 0.62,
+        "conscientiousness": 0.38,
+        "extraversion": 0.72,
+        "agreeableness": 0.85,
+        "neuroticism": 0.18,
+        "Assertive": 0.75,
+        "Turbulent": 0.25
+      },
+      "supporting_evidence": [
+        "四位主要角色均为穿着传统黑袍的年长女性。",
+        "故事背景设定在当代快速都市化的迪拜。",
+        "作品大量展现传统社区邻里之间的日常互动。",
+        "情节经常利用老式生活智慧与现代科技之间的差异制造笑料。",
+        "角色经常在社区内部通过集体讨论解决问题。",
+        "视觉呈现融合了阿拉伯传统装饰图案与现代三维动画技术。",
+        "叙事结构为单元剧模式，每集聚焦一个简单的生活情节。",
+        "代际关系是反复出现的核心主题，经常展示祖孙互动。",
+        "作品整体色调以明亮的沙漠色系和现代都市色彩为主。",
+        "角色对阿拉伯传统文化和习俗表现出强烈的尊重和坚守。",
+        "对白使用当地方言，融入了大量阿拉伯文化特有的幽默表达。",
+        "情节中频繁出现聚会、喝茶、拜访等强调社交联结的场景。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

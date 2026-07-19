@@ -424,11 +424,15 @@ Structure:
 
 "media_vector":{},
 
+"vector_facts":[],
+
+"experience_vector_summary":{},
+
 "personality_affinity":{},
 
 "supporting_evidence":[],
 
-"dimension_evidence":[]
+"quality_control":{}
 
 }
 
@@ -1541,6 +1545,60 @@ All values:
 0.0 - 1.0
 
 
+--------------------------------------------------
+
+# Personality Affinity Anti-Averaging Rule
+
+Do NOT compress Personality Affinity scores toward 0.5.
+
+Do NOT treat a work as neutral merely because it is popular, mainstream, accessible,
+commercial, cross-audience, or stylistically familiar.
+
+Popularity and broad audience reach provide no evidence that all personality preferences
+should be moderate. A mainstream work may still have a sharply defined cognitive,
+emotional, sensory, or value profile.
+
+The Personality Affinity vector must preserve the work's real contrasts:
+
+- strongly supported affinity should receive a genuinely high score;
+- clearly unsupported or opposing affinity should receive a genuinely low score;
+- only genuinely mixed, balanced, weak, or uncertain affinity should remain near 0.5.
+
+Use the following calibration as guidance, not as a quota:
+
+- 0.00–0.20: strongly incompatible or almost absent;
+- 0.21–0.39: clearly low;
+- 0.40–0.60: genuinely mixed, balanced, weak, or uncertain;
+- 0.61–0.79: clearly high;
+- 0.80–1.00: strongly and repeatedly supported.
+
+For each trait, actively evaluate both supporting and opposing CPR evidence before scoring.
+Do not assign 0.45–0.55 by default when evidence is incomplete. Use confidence to represent
+annotation uncertainty; do not hide uncertainty by flattening the affinity vector.
+
+Across Ni, Ne, Ti, Te, Fi, Fe, Si, and Se, preserve dominant and weak preferences whenever
+the CPR supports them. The vector should normally contain meaningful spread for a work with
+a distinctive experience. However, never manufacture extreme values merely to increase spread.
+
+Assertive and Turbulent must likewise reflect the actual emotional experience. Do not place
+both near 0.5 as a safe default, and do not infer emotional neutrality from mass appeal.
+
+Before finalizing, perform this anti-collapse check:
+
+1. If most Personality Affinity values fall between 0.40 and 0.60, verify that the work is
+   truly balanced on most traits.
+2. If that balance is not directly supported by the CPR, recalibrate the dominant traits upward
+   and weak or opposing traits downward.
+3. Confirm that every high and low value can be traced to the generated CPR and evidence chain.
+
+Forbidden rationale:
+
+- "the work is popular, therefore it suits all personality types equally";
+- "the style is mainstream, therefore every affinity is around 0.5";
+- "insufficient certainty, therefore use 0.5 for every trait";
+- mechanically clustering all traits within a narrow numerical band.
+
+
 
 Format:
 
@@ -1561,6 +1619,17 @@ Format:
 "Si":0.0,
 
 "Se":0.0,
+
+
+"openness":0.0,
+
+"conscientiousness":0.0,
+
+"extraversion":0.0,
+
+"agreeableness":0.0,
+
+"neuroticism":0.0,
 
 
 "Assertive":0.0,
@@ -2199,31 +2268,120 @@ Preserve complete factual semantics whenever possible.
 
 --------------------------------------------------
 
-# Dimension Evidence Mapping
+# Evidence Output Compatibility Rule
 
-`supporting_evidence` stores observable factual statements. `dimension_evidence` explicitly maps those facts to every numerical CPR dimension generated for the work.
+This dataset uses the existing `workcrpset` schema.
 
-Do not assign evidence by array rotation, random selection, hash, position, or media-wide default rules. The selected evidence must semantically support the named dimension and its score direction.
+Do NOT output `dimension_evidence`, `evidenceIndexes`, `dimensionCode`,
+`relationType`, or `evidenceWeight`.
 
-Format:
+Dimension-level explanations belong in the existing `vector_facts` array.
+Each `vector_facts` item must use the established structure:
 
 {
-  "dimensionCode":"psychology.cognitive.abstractness",
-  "evidenceIndexes":[0,3],
-  "relationType":1,
-  "evidenceWeight":0.82,
-  "explanation":"作品反复使用象征意象和非直述结构，因此支持较高的抽象程度。"
+  "dimensionPath":"psychology_vector.cognitive.abstractness",
+  "score":0.82,
+  "explanation":"作品反复使用象征意象和非直述结构，因此抽象程度较高。"
+}
+
+All fifteen established affinity fields are mandatory. The Big Five fields must not be omitted:
+`openness`, `conscientiousness`, `extraversion`, `agreeableness`, and `neuroticism`.
+
+The output item must preserve the established top-level fields and field names:
+
+- `basic`
+- `semantic`
+- `experience_vector`
+- `psychology_vector`
+- `media_vector`
+- `vector_facts`
+- `experience_vector_summary`
+- `personality_affinity`
+- `supporting_evidence`
+- `quality_control`
+
+Do not introduce a newer or alternative evidence-mapping schema.
+
+`semantic` must contain all five established fields:
+
+{
+  "summary":"",
+  "themes":[],
+  "keywords":[],
+  "core_experience":"",
+  "experience_introduction":""
+}
+
+`experience_introduction` must be a non-empty Simplified Chinese introduction explaining how
+the work's observable content produces its overall audience experience. It is distinct from the
+short factual `summary` and must not be omitted.
+
+`vector_facts` must contain exactly one item for every numerical leaf field in:
+
+- `experience_vector`;
+- every group of `psychology_vector`;
+- the selected work-specific `media_vector`.
+
+Do not include `personality_affinity` in `vector_facts`. Each `dimensionPath` must use the exact
+existing path and its `score` must equal the corresponding vector value. Selective coverage of
+only dominant dimensions is forbidden. For a typical work this produces roughly 100 facts;
+completeness has priority over brevity, while each explanation should remain concise and specific.
+
+--------------------------------------------------
+
+# Experience Vector Summary
+
+`experience_vector_summary` must never be empty and must contain exactly these four non-empty
+Simplified Chinese string fields:
+
+{
+  "experience_description":"",
+  "structure_description":"",
+  "cognitive_expression":"",
+  "behavioral_tendency_description":""
+}
+
+Requirements:
+
+- `experience_description`: summarize the audience's dominant emotional and experiential journey;
+- `structure_description`: explain how narrative, composition, rhythm, form, or media structure organizes that experience;
+- `cognitive_expression`: explain what kinds of attention, interpretation, abstraction, reasoning, or information processing the work encourages;
+- `behavioral_tendency_description`: explain what behavioral orientations the work evokes or rewards, without diagnosing the audience or creator;
+- each field should normally contain 2–5 information-dense sentences grounded in the generated vectors and observable evidence;
+- do not replace the four fields with a generic `summary` field;
+- do not leave any field empty, null, omitted, or as a placeholder.
+
+--------------------------------------------------
+
+# Quality Control Output
+
+`quality_control` must never be an empty object.
+
+It must use exactly this structure:
+
+{
+  "trainingStatus":"TRAINABLE",
+  "evidenceSufficiency":"SUFFICIENT",
+  "cleanlinessPassed":true,
+  "schemaPassed":true,
+  "vectorCoveragePassed":true,
+  "rejectionReasons":[]
 }
 
 Rules:
 
-- every numerical field in `experience_vector`, `psychology_vector`, and the selected numeric `media_vector` must have exactly one mapping object;
-- `dimensionCode` uses the full stable path, such as `experience.awe`, `psychology.value.freedom`, or `media.movie_vector.visual_storytelling`;
-- `evidenceIndexes` references zero-based indexes in the same item's `supporting_evidence` array and must never be empty;
-- relationType: `1` supports, `2` limits, `3` contradicts, `4` supports absence or a low score;
-- `explanation` must explain why the cited observable facts support the specific dimension and score direction;
-- the same evidence may support multiple dimensions only when the semantic relationship is genuine;
-- never create a mapping merely to satisfy coverage; if evidence is insufficient, regenerate stronger factual evidence or lower confidence before completing the item.
+- `trainingStatus` is `TRAINABLE` only when the item is structurally complete, evidence is sufficient,
+  all required vectors are covered, and no unsupported or contaminated content is present;
+- otherwise use `REJECTED` and provide concrete Chinese reasons in `rejectionReasons`;
+- `evidenceSufficiency` is `SUFFICIENT` only when the observable evidence adequately supports the
+  annotation; otherwise use `INSUFFICIENT`;
+- `cleanlinessPassed` confirms that the item contains no Markdown, commentary, creator-personality
+  inference, popularity-based scoring, or unrelated fields;
+- `schemaPassed` confirms exact compatibility with the established `workcrpset` schema;
+- `vectorCoveragePassed` confirms complete required experience, psychology, media, affinity, and
+  `vector_facts` coverage;
+- never leave any quality-control field null, omitted, or empty except that `rejectionReasons` must
+  be an empty array when the item is `TRAINABLE`.
 
 --------------------------------------------------
 

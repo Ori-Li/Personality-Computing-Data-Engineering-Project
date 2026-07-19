@@ -1,0 +1,756 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "羞辱",
+        "type": "GAME",
+        "countryName": "法国",
+        "year": 2012,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《羞辱》是一款以蒸汽朋克城市顿沃为背景的第一人称动作冒险游戏。玩家扮演被诬陷谋杀女皇的前皇家护卫科尔沃，在鼠疫肆虐、政治腐败的末世都市中，通过潜行、战斗以及界外魔赋予的超自然能力，逐步揭露真相并完成复仇。游戏以高度自由的关卡设计、沉浸式环境叙事和多结局系统，探讨复仇、秩序、混乱与道德的灰色地带。",
+        "themes": [
+          "复仇",
+          "混乱",
+          "秩序",
+          "权力",
+          "瘟疫",
+          "蒸汽朋克",
+          "阴谋",
+          "救赎",
+          "道德选择",
+          "阶级分化"
+        ],
+        "keywords": [
+          "科尔沃",
+          "界外魔",
+          "鼠疫",
+          "顿沃城",
+          "超能力",
+          "潜行",
+          "蒸汽朋克",
+          "面具",
+          "鲸油科技",
+          "帝国政权"
+        ],
+        "core_experience": "在充满压迫感的末世都市中，玩家不断在正义复仇与残忍屠杀、潜行隐匿与正面冲突之间做出选择，体验由混乱值决定的世界反馈，获得沉浸式的道德困境与权力掌控体验。",
+        "experience_introduction": "玩家进入《羞辱》的世界，首先感受到的是鼠疫席卷下顿沃城的压抑与破败。极其自由的关卡设计允许玩家以多种方式完成任务，而“混乱值”系统则直接反馈玩家的行为后果。这种高度的自主权与即时的后果呈现，共同营造出一种身负冤屈并掌握超自然力量后，在秩序与混乱间艰难平衡的沉浸式心理体验。"
+      },
+      "experience_vector": {
+        "passion": 0.25,
+        "healing": 0.05,
+        "awe": 0.75,
+        "nostalgia": 0.15,
+        "reflection": 0.70,
+        "romance": 0.0,
+        "tension": 0.90,
+        "warmth": 0.10,
+        "loneliness": 0.80,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.80,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.75,
+          "novelty": 0.85,
+          "exploration": 0.90,
+          "ambiguity": 0.75,
+          "predictability": 0.30,
+          "information_density": 0.80,
+          "learning_value": 0.40
+        },
+        "worldview": {
+          "personal_scale": 0.80,
+          "relationship_scale": 0.60,
+          "social_scale": 0.85,
+          "civilization_scale": 0.70,
+          "cosmic_scale": 0.50,
+          "time_span": 0.40,
+          "fantasy_level": 0.75
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.60,
+          "loneliness": 0.75,
+          "warmth": 0.10,
+          "fear": 0.65,
+          "tension": 0.85,
+          "awe": 0.70,
+          "nostalgia": 0.15,
+          "hope": 0.25,
+          "melancholy": 0.70,
+          "anger": 0.50,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.15,
+          "luxury": 0.20,
+          "darkness": 0.95,
+          "brightness": 0.10,
+          "dreamlike": 0.40,
+          "mystery": 0.85,
+          "experimental": 0.35,
+          "classical": 0.45,
+          "modern": 0.60
+        },
+        "narrative": {
+          "plot_complexity": 0.75,
+          "character_depth": 0.50,
+          "character_growth": 0.55,
+          "world_building": 0.95,
+          "nonlinear_structure": 0.80,
+          "slow_immersion": 0.35,
+          "action_intensity": 0.65,
+          "conflict_intensity": 0.80,
+          "philosophical_depth": 0.70
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.20,
+          "family": 0.15,
+          "friendship": 0.20,
+          "love": 0.10,
+          "community": 0.25,
+          "competition": 0.75,
+          "cooperation": 0.30,
+          "power_relationship": 0.90,
+          "identity": 0.60
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.65,
+          "truth": 0.70,
+          "beauty": 0.35,
+          "achievement": 0.55,
+          "justice": 0.80,
+          "sacrifice": 0.45,
+          "self_exploration": 0.50,
+          "tradition": 0.15,
+          "change": 0.75,
+          "survival": 0.85,
+          "meaning": 0.60
+        },
+        "behavior": {
+          "curiosity": 0.70,
+          "creation": 0.25,
+          "adventure": 0.75,
+          "reflection": 0.60,
+          "competition": 0.80,
+          "social": 0.15,
+          "discipline": 0.55,
+          "risk": 0.65,
+          "calm": 0.35,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.85,
+          "color_richness": 0.65,
+          "sound_intensity": 0.75,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.95,
+          "immersion": 0.90
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.75,
+          "mechanical_skill": 0.55,
+          "player_agency": 0.95,
+          "exploration_depth": 0.90,
+          "collection_system": 0.55,
+          "progression_system": 0.65,
+          "social_interaction": 0.10,
+          "competition_intensity": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.25,
+          "explanation": "游戏基调冷峻压抑，缺乏激情澎湃的叙事或强烈的情感宣泄。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "末世鼠疫背景和复仇主题几乎不提供抚慰或治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.75,
+          "explanation": "超自然能力与宏伟僵化的城市景观带来强烈的惊奇和震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.15,
+          "explanation": "故事聚焦当下生存与复仇，不刻意营造怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.70,
+          "explanation": "混乱度系统不断促使玩家反思自身暴力行为的后果。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "游戏主线没有浪漫情节。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.90,
+          "explanation": "潜行玩法、鼠群威胁和阴谋氛围共同营造出持续高度紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "NPC多处于戒备或敌对状态，温暖互动极少。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.80,
+          "explanation": "主角孤身执行任务，被排斥为社会边缘人，孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "低混乱结局保留一丝希望，但整体氛围偏向绝望与压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "界外魔和虚空之境代表抽象神秘力量，但核心冲突非常具体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.80,
+          "explanation": "任务目标可通过复杂突现系统实现，且政治阴谋层级丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "游戏促使玩家思考复仇、权力滥用和道德选择的深层问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.75,
+          "explanation": "关卡系统遵循严密的逻辑规则，不同超能力可组合产生合理因果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.85,
+          "explanation": "瞬移与附身等能力组合在当时属于高度创新，蒸汽朋克世界观也极具个性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.90,
+          "explanation": "半开放关卡充满支线任务、隐藏路径和可阅读文本，鼓励深度探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "界外魔的动机和许多配角立场模糊，好坏难分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "混乱系统的反馈属于长期结果，突发遭遇难以预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.80,
+          "explanation": "环境中的信件、符文、NPC对话承载了极高密度的世界观信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.40,
+          "explanation": "游戏重在体验道德困境，而非传授历史或科学知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.80,
+          "explanation": "复仇和洗清冤屈是极其个人化的动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.60,
+          "explanation": "与舰船上的忠诚派和主要反派存在较深的人际线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "核心矛盾在于阶级差距、贵族腐败和底层鼠疫蔓延。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.70,
+          "explanation": "整个帝国体制和鲸油科技文明面临崩溃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.50,
+          "explanation": "虚空之境代表宇宙之外的混沌，但非核心舞台。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.40,
+          "explanation": "游戏主体事件发生在一个相对紧凑的时间段内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.75,
+          "explanation": "瞬移、时间静止、鼠群召唤等超自然能力与现实交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "几乎没有纯粹的快乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.60,
+          "explanation": "女皇之死、城市衰败带来持续的哀伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "主角作为通缉犯，长时间独自穿行于危险地带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.10,
+          "explanation": "世界冰冷残酷，人际温暖极为罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.65,
+          "explanation": "高脚兵、恸哭者和鼠群带来强烈的生存恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.85,
+          "explanation": "潜行与刺杀玩法产生强烈的神经紧绷感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.70,
+          "explanation": "面对界外魔或宏伟建筑时产生敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.15,
+          "explanation": "沉溺于旧日辉煌的角色很少，缺乏怀旧氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "低混乱度路线下黑暗结局中透出一丝光明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.70,
+          "explanation": "鼠疫背景和角色命运带有浓重的忧郁色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.50,
+          "explanation": "主角怀有强烈的复仇怒火，但克制玩法可抑制愤怒表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "游戏缺乏安宁，虚空则是空虚而非平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "美术风格具有工业复古美感，但被破败环境压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.15,
+          "explanation": "界面干净但场景细节繁复，非极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.20,
+          "explanation": "贵族场景体现奢华，但占比低且多处于荒废状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.95,
+          "explanation": "美术主基调为阴暗、压抑，充满死亡与毁灭意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.10,
+          "explanation": "非必要场景光线极暗，明亮色彩很少使用。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.40,
+          "explanation": "虚空之境段落具有超现实的模糊特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.85,
+          "explanation": "界外魔的本质等未解之谜贯穿全篇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.35,
+          "explanation": "叙事结构传统，玩法虽自由但核心机制成熟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.45,
+          "explanation": "帝国建筑和服饰具有古典主义风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.60,
+          "explanation": "蒸汽朋克科技展示了与现实错位的现代性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.75,
+          "explanation": "推翻摄政王的计划涉及多次反转和各方博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.50,
+          "explanation": "作为沉默主角，科尔沃人格由玩家投射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "主角从护卫变为刺客的转变明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.95,
+          "explanation": "通过物品、文本构建了极其详尽的帝国历史与宗教体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.80,
+          "explanation": "同一目标可由数种完全不同的路径和方法达成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.35,
+          "explanation": "快节奏刺杀鼓励行动，慢节奏主要体现在潜行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.65,
+          "explanation": "正面战斗与追逐戏份激烈，但非持续不断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.80,
+          "explanation": "阶级矛盾、政治斗争和超自然势力交织成尖锐冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.70,
+          "explanation": "探讨了混乱与秩序、复仇与正义的道德相对性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "主角是单打独斗的复仇者，乱世中人人自危。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.20,
+          "explanation": "保皇派团体虽有合作，但结构松散且内部有分歧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "皇室被灭，家庭关系非主线重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.20,
+          "explanation": "支持者更偏向忠诚的从属关系而非友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.10,
+          "explanation": "作为核心驱动力的父女情在大部分叙事中属于背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.25,
+          "explanation": "鼠疫下的社区关联脆弱且充满猜忌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.75,
+          "explanation": "主角面临存活挑战、敌人围杀和资源匮乏的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.30,
+          "explanation": "为推进计划需与保皇派进行有限的战术合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.90,
+          "explanation": "游戏主题围绕权力的篡夺、使用和毁灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.60,
+          "explanation": "主角从皇家护卫变为刺客和反叛者，身份认知存在裂痕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "为摆脱摄政王暴政和个人自由而战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.65,
+          "explanation": "玩家可以选择恢复律法秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.70,
+          "explanation": "揭露背后的阴谋和真相是主要任务目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.35,
+          "explanation": "残酷环境下美学价值被生存需求压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "解锁技能和完成任务提供成长反馈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.80,
+          "explanation": "关于何为正义以及是否能不择手段地实现正义是核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.45,
+          "explanation": "大众在鼠疫中的死亡常被视为统计数字而非个体牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.50,
+          "explanation": "玩家的行为决定了科尔沃是守护者还是杀戮者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "传统秩序已被腐败和无能摧毁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.75,
+          "explanation": "推翻现有混乱政府重塑格局是新目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "鼠疫、阴谋和敌人围剿令生存成为核心要务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.60,
+          "explanation": "寻求复仇的意义以及个人行为对世界的影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.70,
+          "explanation": "地理和环境叙事极大激发玩家的探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "能力和工具用于解谜或战斗，而非创造物体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.75,
+          "explanation": "深入未知区域搜集情报和武器具有强冒险属性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.60,
+          "explanation": "混乱度系统鼓励玩家审视行动后果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.80,
+          "explanation": "玩家需要运用智谋和能力压制数量众多且强大的敌人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "几乎不需要社交，主角大部分时间是孤狼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "极低混乱度的潜行玩法需要极高耐心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.65,
+          "explanation": "探索未知区域和直接战斗充满风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "高混乱状态和意外冲突打破稳定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "闪避和瞬移是战术手段，但不意味着故事倾向逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.85,
+          "explanation": "超能力特效、光影对比和工业建筑构成强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "在压抑的灰暗色调中，点缀着流光溢彩的油光和血迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.75,
+          "explanation": "工业和环境音效以及敌人寻找主角时的低语强化了听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "节奏由玩家主导，潜行缓慢，冲突激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "绝望、哀伤和压抑的氛围极强且渲染力十足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.90,
+          "explanation": "第一人称视角和无UI选项提供了极端的沉浸感。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.75,
+          "explanation": "突现玩法要求玩家制定详尽的潜入或战斗计划。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.55,
+          "explanation": "目标锁定和动作操作占次要地位。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.95,
+          "explanation": "几乎允许用任何方式达成目标，赋予玩家极高自主权。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.90,
+          "explanation": "高信息密度和隐藏要素使深入探索极其有益。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.55,
+          "explanation": "寻找符文和骨符等资源驱动探索。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.65,
+          "explanation": "符文兑换超能力的成长路径线性但效果多样。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.10,
+          "explanation": "几乎没有与AI或玩家的社交系统。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.70,
+          "explanation": "与AI敌人的冲突和高混乱度下的难度飙升极具竞争性。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家在《羞辱》中获得的核心体验是压抑与释放的交错。在遭受背叛和鼠疫肆虐的孤立环境下，玩家通过掌握超自然能力获得力量，但同时也承受着世界因黑暗行为而更加腐朽的心理压力。游戏在持续的紧张恐惧与执行精妙潜行后的冷静之间摇摆。",
+        "structure_description": "游戏叙事围绕线性章节展开，但每个大型关卡都构建了一个高度自由的沉浸式模拟空间。由可收集的符文驱动的成长系统和由击杀数与行为决定的混乱值构成了双轴反馈结构。这种设计让玩家的行为直接映射叙事终局，从而使关卡结构服务于核心体验。",
+        "cognitive_expression": "游戏高度鼓励系统性思考、逻辑推演和高密度信息吸收。玩家需要解码NPC的层级关系，通过笔记拼凑世界观，并预先构建潜入或战斗策略。而界外魔与虚空则营造了一种相对非理性的神秘认知空间。",
+        "behavioral_tendency_description": "游戏提供两条主要行动轴线：有序的潜行或残暴的屠杀。这导向了谨慎、自律的精密行动风格，或激进、高风险的对抗风格。环境鼓励探索与观察，但社交退缩倾向明显。"
+      },
+      "personality_affinity": {
+        "Ni": 0.80,
+        "Ne": 0.35,
+        "Ti": 0.80,
+        "Te": 0.70,
+        "Fi": 0.35,
+        "Fe": 0.15,
+        "Si": 0.25,
+        "Se": 0.85,
+        "openness": 0.85,
+        "conscientiousness": 0.60,
+        "extraversion": 0.15,
+        "agreeableness": 0.20,
+        "neuroticism": 0.75,
+        "Assertive": 0.60,
+        "Turbulent": 0.40
+      },
+      "supporting_evidence": [
+        "玩家拥有极高的行动自主权，可以通过多种不同方法达成同一个目标。",
+        "关卡结构属于开放的沙盒式空间，而非单一路径的线性走廊。",
+        "游戏内置了混乱值系统，直接根据玩家的暴力程度改变后续叙事和难度。",
+        "主角被赋予心灵传输和扭曲时间等改写物理规则的超自然能力。",
+        "游戏利用环境里的尸体、废弃公寓和涂鸦等静态元素来扩充背景故事。",
+        "鼠疫是设定中无法回避的底层生存威胁。",
+        "故事情节主要由主角对谋杀陷害事件的复仇欲望驱动。",
+        "界外魔作为赋予力量的源泉，其行为和动机始终保持模糊。",
+        "游戏美术描绘了一个以鲸油为动力基础的工业朋克社会。",
+        "阶级高墙使富人躲在安全区，穷人则被迫在疫区中等死。",
+        "界面提供了关闭所有辅助提示的选项，以增强代入感。",
+        "潜行过程中有着多样化的即时战斗和非致命终结技。",
+        "玩家做出的道德选择会导向三种截然不同的大结局。",
+        "故事中存在诸多不可靠的盟友和暗中将主角当棋子的势力。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_2000_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "樱花",
+        "type": "PHOTOGRAPHY",
+        "countryName": "日本",
+        "year": 2000,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.7,
+        "primaryMediaType": "PHOTOGRAPHY"
+      },
+      "semantic": {
+        "summary": "日本摄影师铃木理策的摄影集《樱花》，通过长时间、多地点拍摄日本各地的樱花，摒弃了常见的繁花似锦的绚烂表现，转而以细腻的黑白或低饱和度影调捕捉樱花从含苞到凋零的完整生命周期。作品聚焦于花瓣的纹理、飘落的轨迹以及在自然环境中的孤寂状态，呈现出一种超越表面美丽的、关于时间流逝与生命无常的深刻沉思，充满了日式“物哀”与禅宗美学的寂静感。",
+        "themes": [
+          "物哀",
+          "无常",
+          "禅意",
+          "时间",
+          "寂静",
+          "自然",
+          "生命",
+          "审美"
+        ],
+        "keywords": [
+          "樱花",
+          "樱花季",
+          "凋零",
+          "物哀",
+          "黑白摄影",
+          "禅宗",
+          "铃木理策",
+          "影调",
+          "日本美学",
+          "自然观",
+          "细微",
+          "静谧",
+          "时间流逝"
+        ],
+        "core_experience": "在长时间的凝视与静谧观看中，感受到一种剥离了世俗喧嚣的沉静。观者被带入对极细微之美的观察中，同时直面繁华转瞬即逝的寂寥，体验到一种混合着美感与淡淡哀伤、最终归于平静的禅意思考。",
+        "experience_introduction": "《樱花》摄影集通过长时间、持续性的拍摄，将樱花这一常见题材从壮丽的节日景观中抽离出来。它引导观众放慢视觉节奏，专注于花瓣在空气中的姿态、光线下微妙的影调变化，以及花落之后枝头的空寂。这种观看方式本身即是一种冥想，让观众的情感体验从对盛开的赞叹转向对凋零的接纳，最终在日式的“物哀”美学中，体会到一种寂静而深邃的心灵触动。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.5,
+        "awe": 0.3,
+        "nostalgia": 0.6,
+        "reflection": 0.9,
+        "romance": 0.2,
+        "tension": 0.1,
+        "warmth": 0.2,
+        "loneliness": 0.8,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.3,
+          "depth_of_thought": 0.8,
+          "logical_structure": 0.1,
+          "novelty": 0.4,
+          "exploration": 0.6,
+          "ambiguity": 0.8,
+          "predictability": 0.2,
+          "information_density": 0.5,
+          "learning_value": 0.6
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.1,
+          "social_scale": 0.1,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.6,
+          "time_span": 0.8,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.5,
+          "loneliness": 0.9,
+          "warmth": 0.2,
+          "fear": 0.1,
+          "tension": 0.1,
+          "awe": 0.4,
+          "nostalgia": 0.7,
+          "hope": 0.1,
+          "melancholy": 0.9,
+          "anger": 0.0,
+          "peace": 0.8
+        },
+        "aesthetic": {
+          "beauty": 0.9,
+          "minimalism": 0.9,
+          "luxury": 0.1,
+          "darkness": 0.4,
+          "brightness": 0.3,
+          "dreamlike": 0.7,
+          "mystery": 0.6,
+          "experimental": 0.3,
+          "classical": 0.8,
+          "modern": 0.5
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.0,
+          "character_growth": 0.0,
+          "world_building": 0.0,
+          "nonlinear_structure": 0.2,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.1,
+          "philosophical_depth": 0.8
+        },
+        "social_relationship": {
+          "individualism": 0.8,
+          "collectivism": 0.1,
+          "family": 0.1,
+          "friendship": 0.1,
+          "love": 0.1,
+          "community": 0.1,
+          "competition": 0.0,
+          "cooperation": 0.0,
+          "power_relationship": 0.0,
+          "identity": 0.5
+        },
+        "value": {
+          "freedom": 0.1,
+          "order": 0.3,
+          "truth": 0.6,
+          "beauty": 0.9,
+          "achievement": 0.0,
+          "justice": 0.0,
+          "sacrifice": 0.1,
+          "self_exploration": 0.7,
+          "tradition": 0.7,
+          "change": 0.6,
+          "survival": 0.2,
+          "meaning": 0.8
+        },
+        "behavior": {
+          "curiosity": 0.5,
+          "creation": 0.1,
+          "adventure": 0.0,
+          "reflection": 0.9,
+          "competition": 0.0,
+          "social": 0.0,
+          "discipline": 0.2,
+          "risk": 0.0,
+          "calm": 0.9,
+          "escape": 0.3
+        },
+        "sensory": {
+          "visual_intensity": 0.4,
+          "color_richness": 0.2,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.9,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "photography_vector": {
+          "reality_capture": 0.8,
+          "human_focus": 0.1,
+          "visual_composition": 0.9,
+          "documentary_value": 0.6,
+          "artistic_expression": 0.9,
+          "moment_sensitivity": 0.9
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品以寂静和沉思为主，几乎没有表达强烈外放的热情或激动情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.5,
+          "explanation": "静谧的观看过程带来平静感，但作品深层关于生命无常的思考也带来淡淡的忧伤。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.3,
+          "explanation": "侧重于内在的沉思与对细微之美的观察，而非宏大壮丽带来的惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.6,
+          "explanation": "对落花与时间流逝的捕捉，明显唤起了一种对逝去之美的怀念之情。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "这是作品的核心体验，完全引导观众进入对生命、时间、死亡的哲学性沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.2,
+          "explanation": "几乎不涉及人际间的浪漫关系，情感基调更偏向自然与孤寂。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.1,
+          "explanation": "整体节奏缓慢，氛围平和，没有制造紧张或悬疑感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.2,
+          "explanation": "整体影调偏冷，意境寂寥，缺乏温暖、柔和的情感氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "孤独感极其突出，画面主体常常是独立的、即将消逝的自然元素，强化了寂寥感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "基调是接受消逝，而非展望未来或新生，缺乏希望的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "通过具象的樱花探讨无常与禅宗等抽象概念，隐喻性强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.3,
+          "explanation": "作品结构并不复杂，而是追求极致的简化与单一主题的深度挖掘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.8,
+          "explanation": "深刻探讨了生命、死亡、时间与美的哲学内涵，引人深思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.1,
+          "explanation": "不依赖逻辑推理或系统论述，而是通过视觉和情感体验产生共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.4,
+          "explanation": "摒弃俗套的樱花盛景拍摄，以“物哀”视角切入，在同题材中具有一定新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.6,
+          "explanation": "长时间、多地点拍摄本身就是一种探索行为，引导观众探索樱花生命的各个阶段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.8,
+          "explanation": "影调和意境充满朦胧感，美学思想不直白陈述，留下大量解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.2,
+          "explanation": "不追求叙事或情节，观看体验是冥想式的，不被预期性所驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.5,
+          "explanation": "虽然元素极简，但每一处细节和影调都承载着深厚的文化与哲学信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.6,
+          "explanation": "观众可以从中深度理解日本的“物哀”美学和禅宗哲学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "聚焦于私人、内在的观看和感受，是完全的个人化精神体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.1,
+          "explanation": "几乎不涉及人际关系，是个体与自然的直接对话。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.1,
+          "explanation": "完全脱离社会环境，无社会背景、无人群活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "虽然有部分文化背景，但核心是自然而非文明进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.6,
+          "explanation": "对时间流逝和生命规律的探讨，将个体生命置于宇宙法则之下进行审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.8,
+          "explanation": "主题本身包含了生命的周期和岁月的流逝，时间感极其强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "是高度写实的摄影创作，基于现实世界的观察，无任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "情感基调是感伤与寂静，与快乐相去甚远。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.5,
+          "explanation": "存在淡淡的忧伤，但更多是接受无常后的平和，并非极度的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.9,
+          "explanation": "极致的孤独感贯穿始终，画面元素孤立，空间留白巨大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.2,
+          "explanation": "影调和主题偏冷冽、寂寥，几乎没有温暖的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "不追求恐怖或惊吓，是对消逝的平和接纳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.1,
+          "explanation": "氛围是松弛的、冥想的，没有紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.4,
+          "explanation": "对生命无常的法则抱有敬畏，但并非视觉震撼带来的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.7,
+          "explanation": "对逝去之美的记录本身，天然地唤起浓郁的怀旧和追忆之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "关注点在于凋零和结束，几乎没有孕育希望的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.9,
+          "explanation": "这是核心情感，混合了美丽与悲伤的“物哀”式忧郁弥漫在整个影集中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全不存在愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.8,
+          "explanation": "尽管带有忧郁，但整体最终导向内心深处极致的静谧与平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.9,
+          "explanation": "作品的核心追求之一，捕捉了樱花在细微光影和形态下的极致之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.9,
+          "explanation": "构图极度简洁，元素稀少，大量留白，体现了极简主义的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "无关财富与奢华，追求的是朴素的精神性之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.4,
+          "explanation": "影调偏暗，存在象征性黑暗，但并非恐怖或邪恶的黑暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.3,
+          "explanation": "不追求明媚、鲜艳的亮丽，而是追求柔和的、朦胧的中间调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.7,
+          "explanation": "通过柔焦、浅景深和细腻影调，营造出强烈的梦幻感和非现实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.6,
+          "explanation": "静谧、朦胧的画面引发了关于生命与时间的不可知和神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "在樱花摄影的传统题材中有所创新，但并非激进的艺术实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.8,
+          "explanation": "代表了日本从古至今的古典美学传统，如“物哀”与禅宗美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.5,
+          "explanation": "其媒介（摄影）和部分表现手法是现代的，但内核非常传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "作为摄影集，没有常规的情节叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.0,
+          "explanation": "没有人物角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "没有人物角色发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.0,
+          "explanation": "不涉及虚构世界的构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.2,
+          "explanation": "图片的编辑顺序可能打破时间线性，但总体围绕一个主题展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "体验结构的核心：强迫观众放慢节奏，长时间凝视，慢慢沉浸其中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "完全没有动作，是绝对静止的画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.1,
+          "explanation": "不存在外在冲突，只有观察对象（樱花）自身生命周期的内在矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.8,
+          "explanation": "作品的表达结构完全服务于对生命无常的哲学沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.8,
+          "explanation": "体验是完全私密、个人化的，强调个体的内心世界与感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.1,
+          "explanation": "不涉及集体、社会或群体的互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.1,
+          "explanation": "与家庭关系无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "不涉及友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "不描绘爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.1,
+          "explanation": "无社区或群体描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "不存在任何形式的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "不存在协作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不涉及权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.5,
+          "explanation": "间接地引导观者进行自我身份和存在状态的反思，而非探讨社会身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.1,
+          "explanation": "表达的是接受自然规律，而非抗争或追求自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.3,
+          "explanation": "存在一种自然秩序（生与死），但并未强调人为的秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "揭示了生命必将衰败的终极真实，不美化、不逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.9,
+          "explanation": "这是作品最重要的价值，致力于挖掘和呈现独特、深沉的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.0,
+          "explanation": "不歌颂成就，反而是对所有“成就”终将消逝的默然注视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "无关社会正义或道德评判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "樱花的凋零可能被解读为一种自然的牺牲，但非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.7,
+          "explanation": "作品提供了镜像，强烈鼓励观者通过观照外在之物的消亡来内省自身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.7,
+          "explanation": "内核高度服从并弘扬了日本的“物哀”和“禅宗”传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.6,
+          "explanation": "“变化”是核心主题，聚焦于从生到死、从有到无的转变过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.2,
+          "explanation": "不直接聚焦于生存挣扎，而是生存之后的消逝。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.8,
+          "explanation": "作品的根本价值在于引导观众寻找和体会在无常生命背后的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.5,
+          "explanation": "激发观众对每一朵花独特形态与生命阶段的好奇，但这种好奇是宁静的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "本身是创作的结果，但观者的行为更偏向感受与沉思，而非主动创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.0,
+          "explanation": "无冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "这是作品鼓励的最核心行为：深度、长时间的自我反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "无关竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.0,
+          "explanation": "体验是私人的，非社交性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "长时间的专注观看需要一定的内在纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.0,
+          "explanation": "无风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.9,
+          "explanation": "作品引导和激发的最主要行为状态是极致的平静与安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.3,
+          "explanation": "提供了从尘世喧嚣中短暂抽离的体验，但不是逃避现实，而是静观现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.4,
+          "explanation": "视觉冲击力不强，但视觉效果精致细腻，引人凝视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.2,
+          "explanation": "以黑白或低饱和度色彩为主，刻意去除了色彩的丰富性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "摄影集本身不涉及听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "视觉节奏非常缓慢、平稳，能量极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "氛围感是作品的绝对核心，通过影调和构图营造出极致的寂静与哀愁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "一旦进入观看节奏，很容易全身心沉浸于其营造的独特视觉世界。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.reality_capture",
+          "score": 0.8,
+          "explanation": "作为摄影集，精确捕捉了现实中樱花的形态和细节。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.human_focus",
+          "score": 0.1,
+          "explanation": "完全聚焦于自然景物，没有人物出现。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.visual_composition",
+          "score": 0.9,
+          "explanation": "视觉构图极其讲究，体现了极简主义的美学和强大的形式感。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.documentary_value",
+          "score": 0.6,
+          "explanation": "记录了多地的樱花和其生命周期，具有一定的纪实性和文献价值。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.artistic_expression",
+          "score": 0.9,
+          "explanation": "远超机械记录，通过影调、构图传达了强烈的个人艺术风格和哲学思想。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.moment_sensitivity",
+          "score": 0.9,
+          "explanation": "核心在于捕捉花朵飘落等转瞬即逝的瞬间，对时机的敏感度要求极高。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众从翻开影集开始，便被引导进入一种缓慢、宁静的观看节奏。体验的核心是面对极致美的同时，感受到其必然消逝的淡淡哀伤。这种体验融合了视觉的审美享受和心灵的哲学触动，最终达到一种接受万物无常后的内心平和。",
+        "structure_description": "作品的结构是一种主题性的视觉散文。它不依赖故事线，而是通过一系列在影调、构图上高度统一又各异的画面，对“樱花与无常”这一核心命题进行多角度、长跨度的反复吟咏和呈现。这个结构迫使观众放慢节奏，进行对比和冥想。",
+        "cognitive_expression": "作品强有力地激发了内向性的直觉思考和抽象关联。它将具体的樱花形象导向对“物哀”、“禅”等抽象概念的认知，这个过程不依赖逻辑分析，而是依赖沉浸式的感受和隐喻性联想来达成深层理解。",
+        "behavioral_tendency_description": "这部作品明确地鼓励并奖励安静、自省、专注的行为。它反对快速浏览，其所有的美学和思想价值只有在缓慢、长时间的独自凝视与内心反思中才能充分展现，从而引导观众暂时脱离社交性的、追求效率的外部世界。"
+      },
+      "personality_affinity": {
+        "Ni": 0.95,
+        "Ne": 0.3,
+        "Ti": 0.3,
+        "Te": 0.05,
+        "Fi": 0.9,
+        "Fe": 0.1,
+        "Si": 0.85,
+        "Se": 0.3,
+        "openness": 0.9,
+        "conscientiousness": 0.1,
+        "extraversion": 0.05,
+        "agreeableness": 0.1,
+        "neuroticism": 0.6,
+        "Assertive": 0.1,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "摄影集以日本各地的樱花作为唯一的拍摄对象。",
+        "画面刻意避开了樱花季人流如织的繁华景象。",
+        "长时间拍摄记录了樱花从盛放到凋零的完整生命周期。",
+        "影调以黑白或低饱和度为主，摒弃了樱花的鲜艳色彩。",
+        "构图极度简约，常使用浅景深和大量留白来突出单一主体。",
+        "照片捕捉了花瓣飘落、枯萎等转瞬即逝的形态。",
+        "画面中没有出现任何人物，强调了孤寂和独立的自然观。",
+        "整本影集的视觉节奏缓慢，引导观众进行长时间凝视。",
+        "作品通过视觉语言探讨了“物哀”这一日本传统美学概念。",
+        "对凋零之美的关注，体现了对生命无常这一哲理的思考。",
+        "画面质感细腻，充满朦胧感，营造出静谧而梦幻的氛围。",
+        "摄影师铃木理策采用了一种持续、沉浸式的拍摄方法。",
+        "作品将樱花从文化符号还原为纯粹的自然生命体进行观察。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

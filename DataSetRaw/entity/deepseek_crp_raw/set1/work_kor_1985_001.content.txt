@@ -1,0 +1,738 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_kor_1985_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Live",
+        "type": "TV",
+        "countryName": "韩国",
+        "year": 2018,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-12-23",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "TV"
+      },
+      "semantic": {
+        "summary": "《Live》以韩国基层派出所为背景，讲述一群普通警察在日常值勤中面对的各类案件与生活困境。作品采用高度写实的手法，描绘警察在维护治安、处理纠纷时的艰辛与坚持，同时深入展现他们的个人情感、家庭压力与同僚关系。在应对犯罪与意外事件的过程中，角色们逐渐理解职业的意义与自身的局限。作品整体呈现出现实社会的复杂纹理，以及普通人在重压下依然坚守职责的温暖与韧性。",
+        "themes": [
+          "职业精神",
+          "成长",
+          "社会现实",
+          "同僚情谊",
+          "家庭",
+          "正义",
+          "生存",
+          "身份认同"
+        ],
+        "keywords": [
+          "派出所",
+          "警察",
+          "基层",
+          "现实",
+          "案件",
+          "日常",
+          "同事",
+          "压力",
+          "坚持",
+          "人情",
+          "李光洙"
+        ],
+        "core_experience": "伴随底层执法者的视角，体验在琐碎与沉重之间反复拉扯的艰辛日常，感受平凡人在制度缝隙中守护尊严、寻找意义的复杂情绪。作品带来的体验既充满现实的重压，也在细微的人际互动中透出温暖的慰藉。",
+        "experience_introduction": "《Live》通过密集的案件串联与人物群像的交替铺陈，将观众持续置于一种紧张、疲惫但又不乏温情的体验中。剧集不依赖戏剧化的英雄主义，而是将日常出警的琐碎、危险与无奈如实呈现，使观众在跟随角色处理一件件民事纠纷、刑事案件的进程中，持续感受到外部压力和内部消耗。与此同时，角色之间通过共患难建立的深厚信赖，又在压抑的氛围中反复提供心理支撑，最终让观众体验到在沉重现实下依然延续的希望和人与人之间的朴素温暖。"
+      },
+      "experience_vector": {
+        "passion": 0.55,
+        "healing": 0.35,
+        "awe": 0.1,
+        "nostalgia": 0.25,
+        "reflection": 0.82,
+        "romance": 0.38,
+        "tension": 0.85,
+        "warmth": 0.72,
+        "loneliness": 0.78,
+        "hope": 0.68
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.18,
+          "complexity": 0.65,
+          "depth_of_thought": 0.68,
+          "logical_structure": 0.42,
+          "novelty": 0.2,
+          "exploration": 0.35,
+          "ambiguity": 0.25,
+          "predictability": 0.55,
+          "information_density": 0.6,
+          "learning_value": 0.72
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.85,
+          "social_scale": 0.8,
+          "civilization_scale": 0.28,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.02
+        },
+        "emotion": {
+          "happiness": 0.2,
+          "sadness": 0.68,
+          "loneliness": 0.75,
+          "warmth": 0.7,
+          "fear": 0.55,
+          "tension": 0.82,
+          "awe": 0.08,
+          "nostalgia": 0.22,
+          "hope": 0.62,
+          "melancholy": 0.58,
+          "anger": 0.72,
+          "peace": 0.18
+        },
+        "aesthetic": {
+          "beauty": 0.2,
+          "minimalism": 0.7,
+          "luxury": 0.05,
+          "darkness": 0.55,
+          "brightness": 0.28,
+          "dreamlike": 0.02,
+          "mystery": 0.15,
+          "experimental": 0.08,
+          "classical": 0.35,
+          "modern": 0.65
+        },
+        "narrative": {
+          "plot_complexity": 0.72,
+          "character_depth": 0.85,
+          "character_growth": 0.88,
+          "world_building": 0.62,
+          "nonlinear_structure": 0.12,
+          "slow_immersion": 0.78,
+          "action_intensity": 0.35,
+          "conflict_intensity": 0.78,
+          "philosophical_depth": 0.48
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.82,
+          "family": 0.75,
+          "friendship": 0.85,
+          "love": 0.55,
+          "community": 0.78,
+          "competition": 0.58,
+          "cooperation": 0.88,
+          "power_relationship": 0.72,
+          "identity": 0.82
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.72,
+          "truth": 0.45,
+          "beauty": 0.12,
+          "achievement": 0.55,
+          "justice": 0.78,
+          "sacrifice": 0.68,
+          "self_exploration": 0.65,
+          "tradition": 0.42,
+          "change": 0.55,
+          "survival": 0.82,
+          "meaning": 0.75
+        },
+        "behavior": {
+          "curiosity": 0.28,
+          "creation": 0.1,
+          "adventure": 0.15,
+          "reflection": 0.78,
+          "competition": 0.52,
+          "social": 0.72,
+          "discipline": 0.68,
+          "risk": 0.62,
+          "calm": 0.35,
+          "escape": 0.4
+        },
+        "sensory": {
+          "visual_intensity": 0.42,
+          "color_richness": 0.25,
+          "sound_intensity": 0.38,
+          "rhythm_energy": 0.45,
+          "atmosphere": 0.78,
+          "immersion": 0.72
+        }
+      },
+      "media_vector": {
+        "tv_series_vector": {
+          "episode_dependency": 0.68,
+          "long_term_character_growth": 0.88,
+          "relationship_complexity": 0.82,
+          "world_expansion": 0.45,
+          "season_progression": 0.2
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.55,
+          "explanation": "角色对警察职业怀有内在热情，但这种热情持续被现实疲惫、失败和制度性障碍消磨，呈现克制状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.35,
+          "explanation": "同事间的支持和个别案件的成功解决带来有限的情感抚慰，但整体氛围并不以疗愈为导向。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "作品采用写实风格，回避宏大场面和崇高叙事，极少营造令人敬畏的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "偶尔通过角色的回忆触及过往，但怀旧并非作品主要情感基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.82,
+          "explanation": "作品反复呈现执法困境、道德两难和社会结构性问题，强制引导观众思考正义、制度与人性的关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.38,
+          "explanation": "存在感情线，但被职业压力和日常生活严重冲淡，并非核心体验来源。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.85,
+          "explanation": "出警过程中的突发危险、案件调查的不确定性和内部考核压力持续制造强烈紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.72,
+          "explanation": "同僚情谊、师徒关系、家人支持和陌生人之间的善意在压抑环境中反复提供温暖体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.78,
+          "explanation": "角色在面对制度冷漠、市民误解和个人创伤时频繁陷入无力排遣的孤独状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.68,
+          "explanation": "尽管现实沉重，角色通过互相扶持和对职业意义的重新确认，持续从中汲取微弱的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.18,
+          "explanation": "叙事高度依赖具体案件和日常细节，几乎不涉及抽象符号或隐喻结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "多条人物线索交错，案件与社会议题多层次交织，需要观众维持对关系网络和背景信息的整合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.68,
+          "explanation": "作品深入探讨职业伦理、制度缺陷、阶级差别等议题，而非停留在案件表面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.42,
+          "explanation": "以日常出警和案件调查的线性推进为主，偶尔穿插插叙，因果链条清晰但结构并不高度逻辑化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.2,
+          "explanation": "基层警察题材在韩国电视剧中已有先例，叙事方式和表现手法整体遵循写实传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "观众主要跟随角色深入了解警察系统的细节，较少涉及新奇环境或未知领域的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "情节发展和角色立场大多明确直白，道德判断很少故意留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "日常出警结果和角色走向在某些部分可预见，但具体案件细节和人际冲突仍保留一定意外性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.6,
+          "explanation": "每集涉及多个案件和社会信息点，但叙述节奏被平实的日常描写调和，密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.72,
+          "explanation": "作品系统地展示韩国基层执法体系、社会矛盾和法律程序，提供丰富的制度与文化认知素材。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "叙事重心始终落在个体警察的内在体验、生活困境和情感挣扎上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "同事、师徒、恋人、家人等亲密关系构成推动情节和情感演变的核心力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.8,
+          "explanation": "通过案件辐射广泛的社会阶层和制度性问题，涉及性别歧视、职场霸凌、贫富差距等社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.28,
+          "explanation": "偶尔触及历史遗留问题和地域文化，但几乎不涉及文明层面的宏观审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全聚焦现实社会，不涉及宇宙或超越性尺度的设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "故事时间跨度较短，集中在角色职业生涯的某一阶段，缺乏世代延续感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.02,
+          "explanation": "完全遵循现实世界的物理和社会规则，几乎不存在幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.2,
+          "explanation": "欢乐时刻极为有限且短暂，经常被随后的事件打断或掩盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "案件中的受害者遭遇、角色的个人损失和职业挫败感持续传递悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "角色在面对创伤后应激、职场孤立和家庭疏离时频繁陷入深刻的孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.7,
+          "explanation": "搭档之间的无条件支持、亲情和解以及市民的感谢不断植入温暖瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "面对暴力犯罪、持刀歹徒和不可预知的危险，角色和观众共同经历显著的恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.82,
+          "explanation": "全剧以高频的紧急呼叫、冲突升级和内部审查构建持续的压迫性紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.08,
+          "explanation": "作品回避壮丽和震撼的表现，氛围始终贴近地面，不制造敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.22,
+          "explanation": "偶尔通过角色对早年理想和逝去时光的追忆唤起淡淡的怀旧，但分量很轻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.62,
+          "explanation": "即使在极端疲惫和挫败中，角色仍然寻找并传递继续前行的理由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.58,
+          "explanation": "对无法改变的体制、消逝的理想和注定的遗憾保有持续的低回落寞。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.72,
+          "explanation": "面对不公正的制度、无理的市民申诉和同事遭遇的不幸，角色反复表露强烈的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.18,
+          "explanation": "平静的场景极少，通常只是暴风雨前的短暂间歇，缺乏持续的平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.2,
+          "explanation": "视觉上偏向纪实风格，不追求精致的画面美或装饰性的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.7,
+          "explanation": "场景、服装和运镜均采用简洁的写实风格，减少不必要的修饰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "全剧场景集中在派出所、简陋公寓和普通街道，几乎不出现奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "大量夜景、阴冷色调和压抑的室内空间共同营造灰暗的视觉基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.28,
+          "explanation": "明亮场景主要出现在少数温情时刻和日常白天场景中，并非常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.02,
+          "explanation": "叙事严格遵循写实逻辑，不使用梦境或超现实表现手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "部分案件在初始阶段带有未知感，但叙事的重心在过程和结果而非悬疑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.08,
+          "explanation": "镜头语言和结构均采用传统电视剧手法，没有显著的实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "部分价值观和人际关系处理方式带有传统色彩，但整体基调仍是当代的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.65,
+          "explanation": "聚焦当代都市生活、职场文化和实时社会问题，整体呈现现代质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.72,
+          "explanation": "案件与人际冲突多线并行，不同角色的叙事线索频繁交织影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "主要角色均拥有详尽的背景故事、内心矛盾和成长弧光，塑造层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.88,
+          "explanation": "角色从生涩到熟练、从理想到幻灭再到重新定义使命，经历显著的道德和心理转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.62,
+          "explanation": "对派出所运作流程、组织文化和法规体系进行了细致的系统性描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.12,
+          "explanation": "叙述基本按时间顺序推进，仅偶尔使用简短闪回交代前史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.78,
+          "explanation": "节奏沉稳，通过大量日常细节和情绪铺垫将观众缓慢纳入角色的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.35,
+          "explanation": "偶有追逐和搏斗，但动作场面克制，更强调心理对抗而非视觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.78,
+          "explanation": "角色之间、角色与制度之间、角色与市民之间的冲突频繁且激烈，很少缓和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.48,
+          "explanation": "通过具体情境带出对正义、生存伦理的讨论，但不展开系统性的哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.6,
+          "explanation": "角色经常需要独自面对职业选择和道德决断，个人意志在关键时刻凸显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.82,
+          "explanation": "团队协作、组织归属感和集体责任是角色行动的核心驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.75,
+          "explanation": "家庭成员的支持、误解与和解持续影响角色的职业状态和精神面貌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.85,
+          "explanation": "同僚之间的友谊在共患难中不断深化，成为支撑人物的重要情感纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.55,
+          "explanation": "爱情线作为现实压力下的调剂和冲突来源而存在，但不占据叙事主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.78,
+          "explanation": "警察与社区居民的互动频繁，展现了警民关系的复杂与依存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.58,
+          "explanation": "晋升、考核和部门间资源争夺常引发竞争，但合作最终往往压倒对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.88,
+          "explanation": "面对危险和复杂案件，角色几乎必须依靠紧密配合才能完成任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.72,
+          "explanation": "内部等级制度、上下级命令与服从、以及警民之间的权力不对等被反复展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.82,
+          "explanation": "角色持续在‘警察’这一身份与个人真实自我之间进行痛苦的调适与认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "角色普遍受限于制度、财务和责任，个人自由并非作品强调的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.72,
+          "explanation": "维护法律和公共秩序是角色的天职，反复在行动中得以强调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "追求案件真相是常态任务，但叙事更侧重过程和代价而非真理本身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.12,
+          "explanation": "写实风格和沉重题材几乎不涉及对形式美的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "职业晋升和案件侦破构成角色的动力，但作品同时强调成功的沉重代价。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.78,
+          "explanation": "对正义的渴望和不完美的正义实现，贯穿几乎每一个案件和角色选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.68,
+          "explanation": "角色常为保护他人、履行职责而牺牲健康、家庭时间和个人安全。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.65,
+          "explanation": "在高压环境下，角色被迫反复审视自己的动机、能力和道德边界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.42,
+          "explanation": "组织内部的等级文化和师徒传承带有传统色彩，但并非核心强调的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "角色渴望改变自身处境和不合理的制度，但改变的实际进程缓慢而艰难。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.82,
+          "explanation": "角色在生理危险、心理崩溃和职场淘汰的夹缝中，始终围绕生存而挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.75,
+          "explanation": "在日复一日的损耗中寻找并确认职业与人生的意义，构成作品的思想主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.28,
+          "explanation": "角色更多是被动应对接踵而来的事件，主动探索未知的倾向较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "叙事不围绕创造、构建或艺术生产展开，缺乏相应的行为表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "偶有危险任务但整体属于职责范围内的行动，缺乏自由探索的冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.78,
+          "explanation": "角色在事后和日常中频繁进行自我审视和道德反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.52,
+          "explanation": "职场考核和晋升带来人际竞争，但竞争并非作品倡导的主要行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.72,
+          "explanation": "角色需要持续与市民、同事和上级互动沟通，社交行为贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.68,
+          "explanation": "警察的日常工作严格依赖纪律、体能训练和规程遵循。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.62,
+          "explanation": "出警和处理暴力事件要求角色承担显著的物理与法律风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "高压环境使冷静难以持久，情绪爆发和焦虑反应频繁出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.4,
+          "explanation": "部分角色在重压下出现辞职、酗酒等逃避倾向，但整体仍以面对为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.42,
+          "explanation": "画面以平实的中景和近景为主，偶尔出现的动作场面有一定的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "色调整体偏灰蓝和暗沉，饱和度被有意压低以贴合现实氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.38,
+          "explanation": "背景音效和对白占据主导，偶尔使用紧张的配乐，整体音强并不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.45,
+          "explanation": "出警和冲突段节奏较快，但叙述日常和情感段落时明显放慢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "统一且浓烈的压抑写实氛围，从视觉到情节都严密服务于整体基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.72,
+          "explanation": "扎实的细节和密集的情绪铺陈使观众易于代入角色处境。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.episode_dependency",
+          "score": 0.68,
+          "explanation": "案件和人物关系逐集累积发展，跳集观看会明显影响情感和理解连贯。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.long_term_character_growth",
+          "score": 0.88,
+          "explanation": "角色的职业素养、心理状态和价值观在整季中发生持续而深刻的演变。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.relationship_complexity",
+          "score": 0.82,
+          "explanation": "多对搭档、上下级和家庭关系网交织，且随着事件不断重新配置。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.world_expansion",
+          "score": 0.45,
+          "explanation": "故事世界主要围绕派出所和周边社区，未显著扩展至更广阔的地理或叙事空间。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.season_progression",
+          "score": 0.2,
+          "explanation": "作为单季剧集，故事拥有明确的整体弧线，不依赖跨季延伸。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在跟随基层警察处理繁重且频繁危急的案件过程中，持续承受高度的紧张、悲伤与愤怒，同时又在角色间的信任与关怀中不断获得温暖和微弱的希望。这一体验夹在冰冷的制度现实和炙热的人际纽带之间，始终带着沉重的孤独感，却又引发对正义和生存意义的反复反思。",
+        "structure_description": "全剧以多条人物线索和密集的案件串联，形成一种日常出警与个人生活交替推进的复调结构。案件发展和情感节奏被精心交错，在紧张的行动段落与迟缓的内省段落之间往复，通过缓慢积累细节和情绪将观众进一步拉入角色的内心世界。",
+        "cognitive_expression": "作品引导观众持续进行社会性反思和情境分析，而非高度抽象的逻辑推演。观众被要求同时追踪不同人物的行为和动机，在面对道德与法律、个人与制度之间的矛盾时，不断评估情境并推导潜在的因果链条。",
+        "behavioral_tendency_description": "作品鼓励坚韧承担、协同合作和深度自我审视的倾向，弱化冒险和创造性突破。角色以纪律和责任感回应高压，观众则被牵引向对责任、牺牲以及人际支持的重视，并偶尔产生对逃避或自我疗愈的共情。"
+      },
+      "personality_affinity": {
+        "Ni": 0.38,
+        "Ne": 0.22,
+        "Ti": 0.4,
+        "Te": 0.72,
+        "Fi": 0.78,
+        "Fe": 0.82,
+        "Si": 0.68,
+        "Se": 0.35,
+        "openness": 0.35,
+        "conscientiousness": 0.75,
+        "extraversion": 0.68,
+        "agreeableness": 0.72,
+        "neuroticism": 0.82,
+        "Assertive": 0.3,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "剧情围绕派出所日常勤务展开，反复出现接警、出警、处理纠纷的完整流程。",
+        "多名主要角色在入职初期和职业中期面临不同的适应困境与身份危机。",
+        "案件类型覆盖家庭暴力、盗窃、醉酒闹事和自杀干预等常见社会问题。",
+        "同事之间在长时间共同执勤和处理危险事件中建立深厚的信任与默契。",
+        "上级与下级的命令服从关系以及考核制度对角色行为产生持续压力。",
+        "多位警察因目睹恶性案件或遭遇袭击后出现明显的心理创伤症状。",
+        "恋人关系因职业的高强度和不规律作息而多次面临破裂风险。",
+        "剧中展现警察在维护法律与面对人情之间的反复权衡。",
+        "部分市民对警察表现出不信任、辱骂或投诉，直接引发角色强烈的情绪反应。",
+        "角色在连续加班和缺乏睡眠的状态下依然坚持完成任务。",
+        "资深警察向新人传授实际执法经验并分享个人职业挫败史。",
+        "家庭成员对角色从事高危职业抱有担忧、抱怨或不理解。",
+        "警察在应对经济困境和家庭责任时显露出显著的生活焦虑。",
+        "案件处理结果并非总是被视为公正，部分恶行未能受到应有惩罚。",
+        "角色在经历重大失败或同僚伤亡后，反复思考是否应该继续从事警察职业。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

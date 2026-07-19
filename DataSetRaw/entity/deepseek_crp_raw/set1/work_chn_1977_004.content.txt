@@ -1,0 +1,758 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1977_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "时间都去哪儿了",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2014,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.91,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "歌曲《时间都去哪儿了》以朴实深情的词曲，通过子女视角回望父母一生，追问时光流逝与亲情珍贵。舒缓的旋律与内敛的演唱强化了岁月的沉重感和对家庭温暖的眷恋。作品在春晚舞台上广泛传播，成为当代中国反思亲情、代际关系与生命短暂的代表性文化符号，引发听众对家庭记忆与自我成长的集体共鸣。",
+        "themes": [
+          "亲情",
+          "时间",
+          "成长",
+          "家庭",
+          "生命",
+          "回忆",
+          "感恩",
+          "遗憾"
+        ],
+        "keywords": [
+          "父母",
+          "岁月",
+          "春晚",
+          "抒情歌曲",
+          "家庭情感",
+          "记忆",
+          "陪伴",
+          "成长",
+          "流行音乐",
+          "中国当代"
+        ],
+        "core_experience": "在缓慢流淌的旋律中逐渐唤醒关于家庭与成长的私人记忆，伴随歌词对亲情细节的勾勒，体验一种温暖与感伤交织的心理沉浸，最终导向对亲情和生命意义的深切反思。",
+        "experience_introduction": "作品以独唱搭配钢琴与弦乐铺陈，通过低声区的平稳叙述和副歌旋律的轻微上扬，将听众的注意力从外部环境导向内在的家庭记忆。歌词以子女的视角不断追问时间流向，在与父母变老的真实画面交织后，逐步构建出由亲切怀旧到情感释放的完整听觉与心理历程，使听众在与作品共振的过程中经历从个体回忆到普遍亲情认同的深层情感流动。"
+      },
+      "experience_vector": {
+        "passion": 0.52,
+        "healing": 0.63,
+        "awe": 0.18,
+        "nostalgia": 0.91,
+        "reflection": 0.87,
+        "romance": 0.12,
+        "tension": 0.38,
+        "warmth": 0.85,
+        "loneliness": 0.48,
+        "hope": 0.31
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.48,
+          "complexity": 0.21,
+          "depth_of_thought": 0.73,
+          "logical_structure": 0.18,
+          "novelty": 0.14,
+          "exploration": 0.22,
+          "ambiguity": 0.28,
+          "predictability": 0.82,
+          "information_density": 0.35,
+          "learning_value": 0.42
+        },
+        "worldview": {
+          "personal_scale": 0.94,
+          "relationship_scale": 0.88,
+          "social_scale": 0.56,
+          "civilization_scale": 0.08,
+          "cosmic_scale": 0.05,
+          "time_span": 0.85,
+          "fantasy_level": 0.02
+        },
+        "emotion": {
+          "happiness": 0.25,
+          "sadness": 0.72,
+          "loneliness": 0.48,
+          "warmth": 0.85,
+          "fear": 0.11,
+          "tension": 0.38,
+          "awe": 0.18,
+          "nostalgia": 0.91,
+          "hope": 0.31,
+          "melancholy": 0.76,
+          "anger": 0.03,
+          "peace": 0.42
+        },
+        "aesthetic": {
+          "beauty": 0.68,
+          "minimalism": 0.74,
+          "luxury": 0.05,
+          "darkness": 0.22,
+          "brightness": 0.38,
+          "dreamlike": 0.15,
+          "mystery": 0.08,
+          "experimental": 0.06,
+          "classical": 0.55,
+          "modern": 0.42
+        },
+        "narrative": {
+          "plot_complexity": 0.08,
+          "character_depth": 0.65,
+          "character_growth": 0.82,
+          "world_building": 0.12,
+          "nonlinear_structure": 0.45,
+          "slow_immersion": 0.88,
+          "action_intensity": 0.04,
+          "conflict_intensity": 0.31,
+          "philosophical_depth": 0.72
+        },
+        "social_relationship": {
+          "individualism": 0.38,
+          "collectivism": 0.46,
+          "family": 0.95,
+          "friendship": 0.18,
+          "love": 0.42,
+          "community": 0.31,
+          "competition": 0.05,
+          "cooperation": 0.15,
+          "power_relationship": 0.08,
+          "identity": 0.52
+        },
+        "value": {
+          "freedom": 0.18,
+          "order": 0.22,
+          "truth": 0.35,
+          "beauty": 0.48,
+          "achievement": 0.15,
+          "justice": 0.08,
+          "sacrifice": 0.62,
+          "self_exploration": 0.58,
+          "tradition": 0.72,
+          "change": 0.31,
+          "survival": 0.14,
+          "meaning": 0.78
+        },
+        "behavior": {
+          "curiosity": 0.12,
+          "creation": 0.15,
+          "adventure": 0.08,
+          "reflection": 0.89,
+          "competition": 0.03,
+          "social": 0.35,
+          "discipline": 0.14,
+          "risk": 0.06,
+          "calm": 0.52,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.48,
+          "color_richness": 0.28,
+          "sound_intensity": 0.62,
+          "rhythm_energy": 0.31,
+          "atmosphere": 0.82,
+          "immersion": 0.79
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行抒情",
+          "tempo": 0.22,
+          "energy": 0.28,
+          "vocal_style": "内敛叙事",
+          "instrumentation": "钢琴与弦乐为主的编配",
+          "production_style": "简洁古典向",
+          "lyrical_theme": "亲情与岁月追忆",
+          "emotional_scene": "春晚舞台的温情独唱",
+          "cultural_context": "当代中国代际亲情共鸣"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.52,
+          "explanation": "演唱者在副歌部分通过轻微力度增强传递内在情感，使作品保留适度的情感烈度。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.63,
+          "explanation": "歌词后半段转入对陪伴的确认与珍惜，为听众提供情感抚慰与心理释放。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.18,
+          "explanation": "乐曲整体采用平实叙述方式，不追求宏大或超验体验，敬畏感较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.91,
+          "explanation": "歌词从家庭记忆与父母变老细节切入，持续触发听众对过往时光的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.87,
+          "explanation": "不断重复的时间追问引导听众进行关于亲情与生命意义的自我回顾和审视。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.12,
+          "explanation": "情感表达完全围绕父母与子女关系展开，浪漫爱情元素几乎没有出现。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.38,
+          "explanation": "弦乐铺陈和缓慢节奏在低声区制造出轻微的压抑与情感张力，但整体控制克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.85,
+          "explanation": "歌曲以温情口吻描摹家庭守护与陪伴，整体氛围持续散发亲切与关怀。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.48,
+          "explanation": "独唱形式与内省歌词暗示个体面对岁月流逝的孤单感，但情感连接始终在场。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.31,
+          "explanation": "结尾段落流露出对珍惜当下的隐约期许，但整体并未强调明亮未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.48,
+          "explanation": "以普适性问题形式展开思考，但意象始终依附于家庭生活具体细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.21,
+          "explanation": "词曲结构简单直白，未设置多层嵌套或复杂概念，认知负担很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.73,
+          "explanation": "持续追问时间和生命意义，引导对亲情与人生有限性的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.18,
+          "explanation": "作品情感流动主导表达，未呈现出严密的逻辑推理或论证过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.14,
+          "explanation": "亲情与时间流逝是流行音乐常见主题，歌曲在该语境下未引入明显新概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.22,
+          "explanation": "作品集中于个体家庭记忆的内省，而非对外部世界的认知探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.28,
+          "explanation": "歌词和情绪指向明确，留下较少的解读空间，多义性不显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.82,
+          "explanation": "传统流行歌曲结构清晰，情绪走向容易预期，旋律进行具有高度可预测性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.35,
+          "explanation": "歌词以简短问题与重复强调为主，单位时间内传递的知识或概念信息有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.42,
+          "explanation": "作品促使听众重新审视家庭与成长，但以情感触发为主，知识传递为辅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.94,
+          "explanation": "整首歌曲的叙事视角牢固锁定在个体与父母的私人关系世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.88,
+          "explanation": "核心内容围绕两代人之间的情感纽带展开，亲密关系是最重要的表达场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.56,
+          "explanation": "春晚演出背景和集体记忆使其具备一定社会共鸣性，但歌词本身未直接描写社会议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.08,
+          "explanation": "作品几乎没有涉及民族、国家或文明层面的讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "情感空间始终停留在人际与日常生活范围，未向宇宙或宏大存在尺度延伸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.85,
+          "explanation": "歌词以人生从青春到暮年的全过程为框架，强调代际时间流逝的漫长跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.02,
+          "explanation": "歌曲始终扎根于现实生活，未出现非现实元素或虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.25,
+          "explanation": "歌曲以感伤和怀旧为主，单纯的快乐体验较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.72,
+          "explanation": "父母老去与时间流逝的现实持续营造出一种深沉的哀伤氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.48,
+          "explanation": "子女视角下对分离和独立的隐约意识带来了轻度孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.85,
+          "explanation": "感恩与家庭陪伴的意象赋予作品持续而强烈的亲切温暖色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.11,
+          "explanation": "作品并未通过恐惧或威胁性意象来驱动听众情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.38,
+          "explanation": "缓慢推进的弦乐与反复追问制造出轻微心理张力，但保持在抒情范围之内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.18,
+          "explanation": "作品以日常亲情为表达对象，未刻意营造令人敬畏的审美体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.91,
+          "explanation": "从童年记忆到父母白发等一系列具体意象，持续强化对过往岁月的怀念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.31,
+          "explanation": "结尾虽隐含珍惜当下的暗示，但仍以对已逝时光的感叹为主要基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.76,
+          "explanation": "整部作品弥漫着一种安静而绵长的忧伤与遗憾情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.03,
+          "explanation": "作品情感内核倾向于感恩与感伤，愤怒或不满几乎完全被排除。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.42,
+          "explanation": "虽然整体氛围安详，但内心因追问而产生的不安稍有降低纯粹的平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.68,
+          "explanation": "旋律与编曲追求传统意义上的优美与和谐，听觉美感较为明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.74,
+          "explanation": "编曲以钢琴和弦乐为主，歌词简洁直接，整体审美偏向克制与简约。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "作品中不涉及华丽、富贵或过度装饰的视觉或听觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.22,
+          "explanation": "虽然情绪偏向感伤，但整体色调仍保持温暖，暗黑质感并不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.38,
+          "explanation": "音乐和歌词在低沉中略带光亮，但明亮度整体仍受制于怀旧氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "表达方式写实而直白，未刻意追求迷离或梦幻般的质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.08,
+          "explanation": "作品致力于呈现清晰明确的情感，未加入悬疑或不可知元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.06,
+          "explanation": "音乐形态和歌词结构遵循传统抒情歌曲模式，未展现实验性探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.55,
+          "explanation": "钢琴主导的编曲风格和庄重的旋律线条融入了较明显的古典音乐影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.42,
+          "explanation": "在传统编曲基础上融入了当代流行音乐的演唱与制作方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.08,
+          "explanation": "短篇幅歌曲通过反复咏叹表达单一主题，未发展出复杂的情节线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.65,
+          "explanation": "虽然篇幅有限，但通过回忆片段勾勒出父母从年轻到年迈的多层形象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.82,
+          "explanation": "歌曲以子女视角见证了父母人生阶段的变化，同时暗示子女自身的认知成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.12,
+          "explanation": "故事背景完全依赖听众对现实家庭生活的既有经验，未构建虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.45,
+          "explanation": "歌词在当下与童年记忆之间穿插，使时间流动呈现出非线性的回忆结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.88,
+          "explanation": "缓慢的节奏和重复动机让听众逐步沉入内省和怀旧的情绪空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.04,
+          "explanation": "作品始终维持静态抒情风格，没有任何动作或冲突描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.31,
+          "explanation": "冲突主要体现为时间流逝与亲情渴望之间的内在拉扯，未演化为外部对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.72,
+          "explanation": "作品将个人经历上升为对时间本质与人生意义的普遍反思，具有哲学启示性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.38,
+          "explanation": "歌词以个人内心独白的方式展开，但情感核心始终指向家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.46,
+          "explanation": "家庭集体记忆的共鸣在歌曲中占据重要地位，但未扩展到更广泛的社会集体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.95,
+          "explanation": "全部叙事、情感与价值判断都围绕父母与子女的家庭纽带展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.18,
+          "explanation": "作品中未出现明显的友谊线索或同伴关系描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.42,
+          "explanation": "爱体现为亲情的无私奉献与关怀，而非浪漫爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.31,
+          "explanation": "春晚演出赋予了作品一定的集体情感连接，但歌词本身并未描绘社区生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "作品整体氛围温和内省，竞争性或对立关系基本不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "歌曲通过家庭守护暗示了亲人之间的相互扶持，但未强调合作行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.08,
+          "explanation": "父母与子女的关系基于情感而非权力结构，权力议题几乎未出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.52,
+          "explanation": "子女在对父母岁月的追忆中重新审视自己的成长与身份定位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.18,
+          "explanation": "作品强调责任与陪伴，未将个人自由作为核心表达价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.22,
+          "explanation": "家庭日常的稳定与规律隐含在亲情叙事中，但未成为明确提倡的价值观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.35,
+          "explanation": "作品追求对时间与生命真相的朴素追问，情感真挚但不以客观真理为焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.48,
+          "explanation": "音乐和歌词的美感被用来承载情感，但审美本身并非独立追求的目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "作品更关注情感的归依，而非功绩或社会性成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.08,
+          "explanation": "歌词中没有涉及公平、正义或道德审判的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.62,
+          "explanation": "父母的养育与奉献贯穿全篇，成为歌曲情感力量的主要来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.58,
+          "explanation": "反复追问时间去向的过程本身促使听众重新审视自我与人生轨迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.72,
+          "explanation": "作品高度强调家庭传承与孝道，体现了传统文化中重视亲缘的价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.31,
+          "explanation": "岁月变迁是歌曲的底色，但作品整体情感倾向于接受而非推动改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.14,
+          "explanation": "歌词并不涉及生存威胁或求生主题，情感重心在感恩与怀念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.78,
+          "explanation": "整首歌曲构成对生命意义的一次追问与确认，使亲情成为意义的承载之所。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.12,
+          "explanation": "歌曲的认知驱动力来自内省而非对外在世界的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "作品本身不鼓励创作行为，也不以创造性活动为表达对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.08,
+          "explanation": "静态的家庭回望与冒险探索的精神完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.89,
+          "explanation": "歌曲从首句开始即引导听众进行深度的自我反思与情感回顾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.03,
+          "explanation": "温和的家庭叙事中不包含任何竞争性行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "歌曲主要通过私密的家庭关系而非广泛社会交往来建立情感连接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.14,
+          "explanation": "作品并未探讨自律、规则遵守或纪律对人生的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.06,
+          "explanation": "表达始终温和稳妥，明显回避不确定性或风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.52,
+          "explanation": "音乐速度和力度始终平稳，营造出一种安静内敛的行为姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "内省和怀旧提供了一定程度的心灵庇护，但并非真正意义上的逃离现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.48,
+          "explanation": "音乐本身不包含视觉元素，但其歌词中画面感较强，可引发听众的视觉想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.28,
+          "explanation": "听觉色调以温暖柔和为主，色彩层次较为单一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.62,
+          "explanation": "虽然编曲简约，但人声和弦乐在副歌部分释放出相对饱满的听觉能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.31,
+          "explanation": "节拍极其平缓，几乎不产生任何律动驱动身体反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.82,
+          "explanation": "钢琴与弦乐共同编织出高度统一的深沉且温暖的听觉气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.79,
+          "explanation": "缓慢推进的情感流使听众很容易被裹挟进音乐营造的怀旧空间。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 0.9,
+          "explanation": "作品具备流行抒情歌曲的所有典型特征，符合这一分类标准。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.22,
+          "explanation": "整体速度极为缓慢，以营造沉思与感伤效果为主。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.28,
+          "explanation": "演唱和编曲始终保持克制，未追求高能量释放。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 0.85,
+          "explanation": "演唱者以轻声叙述开始，逐步铺陈情感，呈现出典型的叙事性声乐处理。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 0.78,
+          "explanation": "编曲以钢琴为基底，弦乐层层加入，器乐配置简洁而富有层次。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 0.72,
+          "explanation": "制作上保留了自然的动态，未添加过量电子元素，偏向古典式的纯净质感。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 0.95,
+          "explanation": "歌词毫无偏离地围绕亲情与岁月追忆展开，主题高度统一。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 0.88,
+          "explanation": "春晚舞台的孤身演出强化了私人情感在大型公共空间中的共鸣效果。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 0.85,
+          "explanation": "歌曲的社会影响力直接根植于中国当代家庭观和代际情感的文化背景。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在缓慢旋律中经历从轻微感伤到深切怀念的情感旅程。最初由关于时间流逝的提问引出隐约的不安与自省，随着父母人生画面的依次浮现，不安逐渐转化为浓郁的怀旧与思念。副歌部分释放出被压抑的亲情感受，形成一股温暖而略带苦涩的听觉洪流。结尾处情感沉入平静的接受状态，使听众在音乐结束后仍然保有对家庭的深切感激与一丝感伤余韵。",
+        "structure_description": "歌曲以主歌-副歌的反复结构组织体验，主歌的低声叙述对应个体的内省与观察，副歌的略微升高和重复则象征情感需求的逐步释放。歌词从当前对时间的发问切入，再回溯过往记忆，形成现在与过去交替的纵向叙事。伴奏由稀疏的钢琴引入，逐层叠加弦乐，在保持整体控制的前提下缓慢累积情绪，指导听众的注意力在私密感与公共共鸣之间反复调整。",
+        "cognitive_expression": "作品鼓励以回忆驱动的反思型认知模式。听众被引导将注意力从外部环境转向内部，把高度个人化的家庭记忆与普适的时间追问连接在一起。歌词中的疑问句式持续激活元认知，使听众不断评估自己与亲人之间的关系以及对生命阶段的认知，最终形成一种将具体情感经验抽象为人生意义的思维取向。",
+        "behavioral_tendency_description": "作品高度触发内省性独处行为，使听众倾向于在安静环境中独自或与亲近之人共同聆听。情感释放后，往往引发与家人联系、表达感恩的实际行动倾向。歌曲带来的不是外向冒险或社交的冲动，而是一种沉静状态下的情感回归和关系修补意愿。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.18,
+        "Ti": 0.21,
+        "Te": 0.12,
+        "Fi": 0.82,
+        "Fe": 0.78,
+        "Si": 0.86,
+        "Se": 0.15,
+        "openness": 0.32,
+        "conscientiousness": 0.28,
+        "extraversion": 0.22,
+        "agreeableness": 0.68,
+        "neuroticism": 0.72,
+        "Assertive": 0.35,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "歌词从子女视角反复向父母追问时间流向，将亲情作为全部叙事线索。",
+        "歌曲在2014年央视春晚舞台以独唱形式首次面向全国观众演绎。",
+        "钢琴为主奏乐器，弦乐层层铺入，编曲始终维持在较低的音响动态范围。",
+        "全曲速度缓慢，节拍稳定，很少出现节奏或力度的突然变化。",
+        "歌词提及“还没好好感受年轻就老了”的具体人生阶段过渡。",
+        "多次出现的“时间都去哪儿了”构成统一的情感追问和结构回旋。",
+        "歌曲通过“生儿养女一辈子”等陈述强调父母牺牲与奉献的主题。",
+        "演唱者以逐步增强的气息支撑从主歌的低沉叙述过渡到副歌的情感表达。",
+        "歌词将父母白发和背影等细节作为岁月流逝的具体视觉象征。",
+        "作品播出后迅速引发社会对亲情和养老议题的广泛讨论与自发性传播。",
+        "副歌旋律仅在较小音域内渐进展开，避免了大跳音程或炫技性处理。",
+        "整首作品未引入明显的社会冲突、角色对抗或外在剧情转折。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

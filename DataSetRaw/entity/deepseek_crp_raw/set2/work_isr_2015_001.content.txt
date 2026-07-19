@@ -1,0 +1,744 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_isr_2015_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "OCD Love",
+        "type": "STAGE",
+        "countryName": "ISR",
+        "year": 2015,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《OCD Love》是以色列编舞家莎伦·艾亚尔与Gai Behar合作的现代舞作品，由L-E-V舞团演出。作品以电子脉冲般的节拍为背景，通过极度精确、反复痉挛的肢体动作，展现强迫症般的情感状态与对爱的执念。舞蹈充满黑暗、迷离、紧张的气质，探讨亲密关系中的控制、重复与痛苦。",
+        "themes": [
+          "爱",
+          "强迫症",
+          "控制",
+          "痛苦",
+          "身体",
+          "亲密关系",
+          "黑暗",
+          "节奏",
+          "电子音乐",
+          "现代舞"
+        ],
+        "keywords": [
+          "莎伦·艾亚尔",
+          "Gai Behar",
+          "L-E-V舞团",
+          "以色列",
+          "现代舞",
+          "电子音乐",
+          "痉挛",
+          "精确",
+          "重复",
+          "迷幻",
+          "黑暗美学"
+        ],
+        "core_experience": "舞者以痉挛般的精确动作与电子脉冲节拍同步，营造出一种无法摆脱的强迫性紧张感。观众被卷入一个黑暗迷离、充满控制与重复的爱欲空间，体验到焦虑、痛苦与沉溺交织的审美震撼。",
+        "experience_introduction": "《OCD Love》通过舞者痉挛而精确的肢体语言，将爱的执念外化为一种强迫性身体状态。电子脉冲节拍如同不可抵抗的神经指令，推动舞者不断重复扭曲的动作，营造出黑暗迷幻的沉浸感。观众在视觉与听觉的同步压迫下，体验到一种介于迷恋与崩溃之间的紧张情绪，作品将亲密关系中的控制与痛苦提炼为高度风格化的身体仪式。"
+      },
+      "experience_vector": {
+        "passion": 0.65,
+        "healing": 0.05,
+        "awe": 0.55,
+        "nostalgia": 0.05,
+        "reflection": 0.40,
+        "romance": 0.15,
+        "tension": 0.95,
+        "warmth": 0.05,
+        "loneliness": 0.70,
+        "hope": 0.05
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.78,
+          "complexity": 0.75,
+          "depth_of_thought": 0.72,
+          "logical_structure": 0.30,
+          "novelty": 0.80,
+          "exploration": 0.20,
+          "ambiguity": 0.85,
+          "predictability": 0.10,
+          "information_density": 0.50,
+          "learning_value": 0.35
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.80,
+          "social_scale": 0.20,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.20
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.50,
+          "loneliness": 0.75,
+          "warmth": 0.05,
+          "fear": 0.40,
+          "tension": 0.95,
+          "awe": 0.55,
+          "nostalgia": 0.05,
+          "hope": 0.05,
+          "melancholy": 0.60,
+          "anger": 0.30,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.65,
+          "luxury": 0.15,
+          "darkness": 0.90,
+          "brightness": 0.05,
+          "dreamlike": 0.60,
+          "mystery": 0.70,
+          "experimental": 0.90,
+          "classical": 0.10,
+          "modern": 0.90
+        },
+        "narrative": {
+          "plot_complexity": 0.20,
+          "character_depth": 0.45,
+          "character_growth": 0.10,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.60,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.80,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.50
+        },
+        "social_relationship": {
+          "individualism": 0.75,
+          "collectivism": 0.10,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.80,
+          "community": 0.05,
+          "competition": 0.20,
+          "cooperation": 0.15,
+          "power_relationship": 0.60,
+          "identity": 0.55
+        },
+        "value": {
+          "freedom": 0.30,
+          "order": 0.50,
+          "truth": 0.40,
+          "beauty": 0.55,
+          "achievement": 0.15,
+          "justice": 0.05,
+          "sacrifice": 0.25,
+          "self_exploration": 0.75,
+          "tradition": 0.05,
+          "change": 0.25,
+          "survival": 0.35,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.60,
+          "adventure": 0.15,
+          "reflection": 0.50,
+          "competition": 0.20,
+          "social": 0.10,
+          "discipline": 0.55,
+          "risk": 0.35,
+          "calm": 0.05,
+          "escape": 0.20
+        },
+        "sensory": {
+          "visual_intensity": 0.85,
+          "color_richness": 0.20,
+          "sound_intensity": 0.90,
+          "rhythm_energy": 0.95,
+          "atmosphere": 0.90,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.90,
+          "actor_expression": 0.95,
+          "body_expression": 1.00,
+          "audience_interaction": 0.15,
+          "performance_intensity": 0.95,
+          "ritual_sense": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.65,
+          "explanation": "舞蹈以强烈的身体投入表现对爱的执念与消耗，传递出内在的激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品整体氛围紧张压抑，几乎不提供舒缓或治愈的情感出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "精确到痉挛的肢体控制与黑暗迷幻的风格形成一种令人敬畏的艺术表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "作品聚焦于当下的强迫性体验，不唤起怀旧或记忆相关的情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.40,
+          "explanation": "抽象的身体语言促使观众对亲密关系中的控制与痛苦进行一定程度的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.15,
+          "explanation": "虽然主题涉及爱，但表达方式黑暗扭曲，缺乏传统浪漫的温馨感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.95,
+          "explanation": "痉挛的重复动作与电子脉冲节拍持续营造出高强度的心理和生理紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.05,
+          "explanation": "整体黑暗迷离的气质与扭曲的身体表达几乎不传递温暖或舒适感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.70,
+          "explanation": "舞者虽在互动中，但强迫性的重复动作突显了一种孤立无援的内在孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.05,
+          "explanation": "作品未提供情感释放或希望指向，始终沉浸在强迫与痛苦的循环中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.78,
+          "explanation": "肢体动作高度风格化和象征化，不叙事实事件，传达抽象的心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.75,
+          "explanation": "动作与电子节拍的精密咬合、多层次的身体控制构成复杂的审美结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.72,
+          "explanation": "作品深入探讨强迫性情感的心理机制，引导对爱与控制的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "舞蹈结构更多依赖情绪和身体节奏推进，而非清晰的逻辑叙事因果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.80,
+          "explanation": "将强迫症的病理特征转化为舞蹈语汇，在身体表达上具有显著独创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "作品深入探索特定心理状态，但并不引导探索外部世界或未知领域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.85,
+          "explanation": "非叙事的抽象肢体表达使作品含义高度开放，允许观众进行多重解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.10,
+          "explanation": "痉挛的重复动作和节奏变化难以预测，打破传统舞蹈的流畅预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "在有限时长内，通过身体与声音传递了集中的心理和审美信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.35,
+          "explanation": "提供了关于强迫症情感与身体关系的艺术视角，但实用知识获取有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "全部表达聚焦于个体内在的心理冲突与身体体验，尺度极度私人化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.80,
+          "explanation": "核心冲突来自舞者之间的执念、控制和痛苦，亲密关系是主要场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.20,
+          "explanation": "作品几乎不涉及社会制度、群体或文化背景，社会维度极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "无涉及文明、历史或宏大叙事的内容，完全排除在个人心理之外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "不探讨宇宙、自然或哲学上的终极命题，范围极度内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "舞蹈呈现的是即时、循环的心理状态，几乎不暗示时间的线性流动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.20,
+          "explanation": "扭曲的身体表达形成一种心理幻象感，但基于真实存在的强迫性情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "黑暗紧张的氛围排除了快乐的表达，整体情绪基调沉重压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.50,
+          "explanation": "通过对痛苦的反复刻画传递出一种沉静的悲伤感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "舞者的痉挛动作突显内在隔离感，孤独是贯穿始终的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.05,
+          "explanation": "无任何温暖的肢体互动或情感暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.40,
+          "explanation": "扭曲的身体形态和黑暗迷幻的气氛带来一定程度的恐惧与不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.95,
+          "explanation": "这是作品最主要的情绪体验，由动作和声音共同维持高张力状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.55,
+          "explanation": "对舞者身体控制能力的惊叹与对黑暗美学的折服交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "不唤起任何怀旧或过往美好记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "作品没有提供任何希望或光明的出口，沉浸于痛苦循环。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.60,
+          "explanation": "对爱的执念与痛苦体验营造出一种持久的忧郁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.30,
+          "explanation": "在痉挛和对抗性的身体接触中能感受到压抑的愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "持续的紧张与痉挛动作完全不提供平静与安宁的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "在黑暗扭曲的审美中依然存在舞蹈编排的秩序与雕塑般的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "舞台设计、灯光与身体动作趋向极简，以身体本身为表现核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.15,
+          "explanation": "无华丽装饰或奢华元素，完全依靠舞者的身体和音乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.90,
+          "explanation": "黑暗迷幻的气质是作品的核心审美特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "整体灯光与氛围昏暗，不追求明亮愉悦的视觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.60,
+          "explanation": "迷离的电子音乐与扭曲的肢体营造出一种非现实的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.70,
+          "explanation": "抽象的身体语言和未知的心理动因充满神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.90,
+          "explanation": "在编舞、音乐与身体表达上极度前卫和实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.10,
+          "explanation": "完全脱离古典芭蕾的美学规范，无传统舞蹈的影子。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.90,
+          "explanation": "具有鲜明的当代艺术特征，电子音乐与现代舞的结合充满现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.20,
+          "explanation": "缺乏传统叙事情节，依靠情绪和身体状态组织结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.45,
+          "explanation": "虽无具体角色塑造，但强迫性心理状态本身具有一定的深度表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "未展现人物弧光或心理成长，更多的是状态的循环与重复。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "仅构建了一个黑暗的心理氛围空间，无完整的世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.60,
+          "explanation": "舞蹈由重复、变奏与断裂的动作组成，整体结构非线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "通过重复的节奏渗透，让观众缓慢沉入黑暗的心理氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.80,
+          "explanation": "舞者的痉挛动作极耗体力，肢体动作具有高强度的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "内在的强迫冲突、舞者间的控制与反抗构成本质上的高强度冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.50,
+          "explanation": "引发对爱、执念与自我控制边界的存在主义思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.75,
+          "explanation": "极度关注个体的内在痛苦与身体表达，突显个人主义倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.10,
+          "explanation": "不表现群体协作或集体意识，叙事空间完全个人化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "无家庭关系或亲情元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "无友谊或同伴情谊的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.80,
+          "explanation": "主题虽为爱，但表现为一种扭曲的执念与控制，爱的变体是表达重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "不涉及社群或集体认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.20,
+          "explanation": "舞者间的控制与僵硬互动带有微弱的对抗性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "偶尔出现同步与互动，但更多的是强迫性协调而非自愿协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.60,
+          "explanation": "舞者间的支配与服从关系构成了肢体表达的潜在结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.55,
+          "explanation": "通过身体探索自我在强迫性爱恋中的身份迷失与扭曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.30,
+          "explanation": "表达了对强迫状态束缚的挣扎，但自由并非主题核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.50,
+          "explanation": "强迫性的重复动作本身即是对秩序的病态追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.40,
+          "explanation": "试图揭示某种关于爱与控制的真实心理状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.55,
+          "explanation": "在痛苦与扭曲中寻求一种黑暗的、异化的美学价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "不涉及目标达成或外在成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "无道德评判或正义相关的讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.25,
+          "explanation": "极度消耗自身身体的表达隐含着一种对爱的献祭感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.75,
+          "explanation": "作品是内在心理冲突的外化，高度体现自我探索的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.05,
+          "explanation": "极度反传统，拒绝古典舞蹈的一切范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.25,
+          "explanation": "肢体在痉挛中转变，但心理上陷入重复，变化的意味暧昧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.35,
+          "explanation": "强迫状态下的挣扎带有心理层面的生存搏斗感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "通过痛苦的身体探寻爱的本质与存在的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "引导对特殊心理状态的探究，但好奇心并非主要动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.60,
+          "explanation": "在身体表达和编舞上具有高度的艺术创造性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "不涉及冒险精神，空间与心理局限在内在牢笼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.50,
+          "explanation": "促使观众对爱与执念进行心理层面的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.20,
+          "explanation": "控制性的互动带有微弱的支配竞争意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.10,
+          "explanation": "不鼓励社交互动，舞蹈氛围极度封闭和内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "极致的身体控制体现了严苛的训练和纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.35,
+          "explanation": "实验性的艺术表达和身体的极限使用包含一定的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "整体审美与节奏完全不倾向冷静或舒缓的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.20,
+          "explanation": "沉浸于痛苦循环中，没有提供逃避现实的出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.85,
+          "explanation": "高度风格化的肢体痉挛和灯光设计带来强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.20,
+          "explanation": "舞台色彩偏向黑暗单一，拒绝丰富的色彩表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.90,
+          "explanation": "电子脉冲节拍成为舞蹈的驱动核心，声音存在感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.95,
+          "explanation": "节奏具有强烈的驱动力，直接塑造观众的生理感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.90,
+          "explanation": "黑暗迷幻的整体氛围极具包裹感和辨识度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "视听信息的同步压迫使观众极易沉浸在作品的情绪空间里。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.90,
+          "explanation": "极致的身体消耗呈现强烈的现场生命力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "舞者通过扭曲的肢体和面部表情传递深层的心理情绪。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 1.00,
+          "explanation": "痉挛与精确的肢体语言是作品最核心、最彻底的表达方式。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.15,
+          "explanation": "表演高度封闭，专注于内在体验，几乎不与观众进行常规互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.95,
+          "explanation": "整场演出的身体投入和情感浓度保持在高位，没有松懈。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.70,
+          "explanation": "重复的痉挛动作形成一种带有痛苦色彩的强迫性仪式。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众被卷入一个由精确痉挛和电子脉冲构成的黑暗空间，持续体验高强度紧张、孤独与审美震撼。作品不提供情感释放，而是让人沉浸在一种迷幻的痛苦循环中，感受强迫性爱恋带来的心理压迫与身体迷狂。",
+        "structure_description": "作品通过重复、变奏和断裂的动作结构组织情绪流，没有传统叙事线索。电子节拍作为不可抗拒的驱动力，推动舞者在黑暗极简的舞台上完成痉挛般的身体仪式，整体结构非线性且循环往复。",
+        "cognitive_expression": "作品高度抽象，非叙事性的肢体语言要求观众进行象征性解读。它并非依赖逻辑组织信息，而是通过节奏、身体与氛围激发直觉性的理解，促使观众探索强迫性心理与亲密关系中的控制机制。",
+        "behavioral_tendency_description": "作品不鼓励轻松愉悦的娱乐行为，而是倾向于吸引能够承受极高感官和心理张力的观众。它呼唤的是深度的自我探索、对非传统审美的包容，以及愿意反思爱与痛苦之间隐秘联系的内省倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.55,
+        "Ti": 0.55,
+        "Te": 0.20,
+        "Fi": 0.88,
+        "Fe": 0.15,
+        "Si": 0.10,
+        "Se": 0.70,
+        "openness": 0.92,
+        "conscientiousness": 0.45,
+        "extraversion": 0.15,
+        "agreeableness": 0.15,
+        "neuroticism": 0.85,
+        "Assertive": 0.10,
+        "Turbulent": 0.90
+      },
+      "supporting_evidence": [
+        "舞者的动作表现出痉挛般的精确性和强迫性的重复。",
+        "电子脉冲节拍作为舞蹈的核心驱动力贯穿全场。",
+        "整体灯光和舞台氛围偏向黑暗，营造迷离的视觉效果。",
+        "舞蹈语汇高度抽象，不依赖具体的叙事情节。",
+        "舞者通过扭曲的身体形态表现亲密关系的痛苦与控制。",
+        "编舞回避了传统芭蕾的流畅线条和古典美学。",
+        "音乐节奏具有强烈的冲击力，直接塑造观众的紧张感。",
+        "舞蹈结构呈现非线性的重复与变奏。",
+        "表演者之间的互动带有明显的支配与服从的意味。",
+        "作品主题聚焦于个人心理层面的强迫性情感体验。",
+        "舞者在表演中持续进行高强度的身体输出。",
+        "舞台设计极简，将观众的视觉焦点完全集中在身体上。",
+        "作品属于先锋现代舞，具有高度的实验性。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

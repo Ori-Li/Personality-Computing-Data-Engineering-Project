@@ -1,0 +1,1262 @@
+[
+  {
+    "workId": "work_chn_-145_001",
+    "workName": "史记",
+    "originalName": "史记",
+    "genre": 10,
+    "subcategory": 10012,
+    "subcategories": [10012],
+    "year": -91,
+    "countryCode": "CHN",
+    "introduction": "《史记》是西汉司马迁撰写的中国第一部纪传体通史，记载了从黄帝至汉武帝约三千年的历史。全书一百三十篇，以本纪、表、书、世家、列传五体结构，开创了中国正史体例，文笔雄深雅健，被鲁迅赞为“史家之绝唱，无韵之离骚”。",
+    "primaryAuthorId": "realCharacter_chn_-145_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_-145_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1911_001",
+    "workName": "我们仨",
+    "originalName": "我们仨",
+    "genre": 10,
+    "subcategory": 10002,
+    "subcategories": [10002],
+    "year": 2003,
+    "countryCode": "CHN",
+    "introduction": "《我们仨》是杨绛创作的散文集，以一个“万里长梦”拉开序幕，回忆了与丈夫钱锺书、女儿钱瑗一家三口的风雨人生。文字淡雅而情感绵长，在至痛中见至爱，是现代散文的典范之作。",
+    "primaryAuthorId": "realCharacter_chn_1911_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1911_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1946_001",
+    "workName": "巩乃斯的马",
+    "originalName": "巩乃斯的马",
+    "genre": 10,
+    "subcategory": 10002,
+    "subcategories": [10002],
+    "year": 1993,
+    "countryCode": "CHN",
+    "introduction": "《巩乃斯的马》是周涛的散文名篇，以新疆巩乃斯草原上奔腾的骏马为抒写对象，在暴风雨与马群的激荡中，展现了雄浑的生命力和西部精神的壮美。",
+    "primaryAuthorId": "realCharacter_chn_1946_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1946_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1260_001",
+    "workName": "倩女离魂",
+    "originalName": "倩女离魂",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": 1290,
+    "countryCode": "CHN",
+    "introduction": "《倩女离魂》是郑光祖创作的元杂剧，全名《迷青琐倩女离魂》。取材唐传奇，写张倩女灵魂脱离肉体追随爱人王文举的故事，以奇幻构思歌颂爱情的力量，曲辞华美，是元曲四大爱情剧之一。",
+    "primaryAuthorId": "realCharacter_chn_1260_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1260_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1964_001",
+    "workName": "面朝大海，春暖花开",
+    "originalName": "面朝大海，春暖花开",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1989,
+    "countryCode": "CHN",
+    "introduction": "《面朝大海，春暖花开》是海子最广为人知的抒情短诗，以朴素明快的语言描绘了喂马、劈柴、周游世界的尘世幸福，却在结尾透出诗人即将告别人间的纯粹祈愿。",
+    "primaryAuthorId": "realCharacter_chn_1964_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1964_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1901_001",
+    "workName": "少年漂泊者",
+    "originalName": "少年漂泊者",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1926,
+    "countryCode": "CHN",
+    "introduction": "《少年漂泊者》是蒋光慈的中篇小说，以书信体讲述佃农之子汪中在漂泊中觉醒并走向革命的历程。小说充满炽热的革命激情与浪漫色彩，是早期左翼文学的代表作之一。",
+    "primaryAuthorId": "realCharacter_chn_1901_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1901_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1982_001",
+    "workName": "巾帼枭雄之义海豪情",
+    "originalName": "巾幗梟雄之義海豪情",
+    "genre": 5,
+    "subcategory": 5001,
+    "subcategories": [5001, 5006],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《巾帼枭雄之义海豪情》是TVB民初剧，陈法拉在剧中饰演刘晴。该剧以1930年代广州为背景，讲述九姑娘与刘醒在乱世中的家国大义与深厚情谊，是港剧经典之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1982_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1958_001",
+    "workName": "那山那人那狗",
+    "originalName": "那山那人那狗",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 1999,
+    "countryCode": "CHN",
+    "introduction": "《那山那人那狗》是霍建起执导的电影，讲述了湘西大山中即将退休的乡邮员父亲带着儿子走最后一趟邮路的故事。影片以如田园诗般的画面和朴素情感，在日本引起极大轰动。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1958_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1922_001",
+    "workName": "乌鸦与麻雀",
+    "originalName": "烏鴉與麻雀",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 1949,
+    "countryCode": "CHN",
+    "introduction": "《乌鸦与麻雀》是郑君里执导的讽刺喜剧，孙景璐饰演其中一位房客。影片通过上海一栋弄堂房子里的房客群像，辛辣讽刺了国民党统治末期的社会黑暗，是中国电影史上的经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1922_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1977_001",
+    "workName": "庆余年",
+    "originalName": "庆余年",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5001],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《庆余年》是改编自猫腻同名小说的古装剧，田雨饰演王启年一角。这位爱财怕老婆却忠心耿耿的小人物，以其幽默生动的表演成为剧中亮点，是现象级古装权谋剧。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1977_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1963_001",
+    "workName": "叶问",
+    "originalName": "葉問",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4013],
+    "year": 2008,
+    "countryCode": "CHN",
+    "introduction": "《叶问》是叶伟信执导的功夫片，甄子丹主演。影片以咏春大师叶问在佛山的生活及抗日期间的遭遇为线索，武打设计讲究，塑造了一代宗师的儒雅与民族气节。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1963_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1975_001",
+    "workName": "槟榔",
+    "originalName": "槟榔",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《槟榔》是杨恒执导的独立电影，以湘西小镇两个无事游荡的少年为主角，用长镜头和极少对白的方式，呈现了底层青年的无聊、彷徨与微妙的友情。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1975_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1978_001",
+    "workName": "老九门",
+    "originalName": "老九门",
+    "genre": 5,
+    "subcategory": 5002,
+    "subcategories": [5002, 5006],
+    "year": 2016,
+    "countryCode": "CHN",
+    "introduction": "《老九门》是白一骢担任制片人的网剧，改编自南派三叔同名小说，是《盗墓笔记》前传。讲述了民国时期长沙九门盗墓家族的起源与恩怨，服化精美，开启了网剧精品化浪潮。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1978_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1950_001",
+    "workName": "少林寺",
+    "originalName": "少林寺",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003],
+    "year": 1982,
+    "countryCode": "CHN",
+    "introduction": "《少林寺》是中原电影公司制作、银都机构出品的功夫电影，李连杰主演。以少林十三棍僧救唐王的故事为蓝本，真功夫和实景拍摄轰动全球，掀起武术电影热潮。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1950_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1992_001",
+    "workName": "倚天屠龙记",
+    "originalName": "倚天屠龙记",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5005],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "2019版《倚天屠龙记》是金庸小说改编电视剧，陈钰琪饰演赵敏。该版以年轻演员和老戏骨搭配，再现了张无忌与赵敏、周芷若的爱恨纠缠，陈钰琪的赵敏英气十足。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1992_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1950_002",
+    "workName": "爱在深秋",
+    "originalName": "愛在深秋",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "《爱在深秋》是谭咏麟演唱的粤语金曲，收录于专辑《爱的根源》。以深情的旋律和离愁别绪的歌词，成为1980年代香港流行音乐的标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1950_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1994_001",
+    "workName": "周生如故",
+    "originalName": "周生如故",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5009],
+    "year": 2021,
+    "countryCode": "CHN",
+    "introduction": "《周生如故》是2021年播出的古装剧，白鹿饰演漼时宜。讲述小南辰王周生辰与太子妃漼时宜之间隐忍而深刻的悲剧爱情，以细致情感和美学画面收获好评。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1994_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1934_001",
+    "workName": "三个和尚",
+    "originalName": "三个和尚",
+    "genre": 2,
+    "subcategory": 2004,
+    "subcategories": [2004],
+    "year": 1981,
+    "countryCode": "CHN",
+    "introduction": "《三个和尚》是徐景达执导的动画短片，改编自中国民间谚语“一个和尚挑水吃，两个和尚抬水吃，三个和尚没水吃”。以简练的线条漫画风格和幽默节奏，获柏林银熊奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1934_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1973_001",
+    "workName": "甄嬛传",
+    "originalName": "甄嬛传",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5001],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《甄嬛传》是郑晓龙执导的清装宫斗剧，蔡少芬饰演皇后乌拉那拉·宜修。她将皇后的伪善、深沉和狠毒演绎得入木三分，“臣妾做不到啊”成为经典台词。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1973_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1921_001",
+    "workName": "等着你回来",
+    "originalName": "等著你回來",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1948,
+    "countryCode": "CHN",
+    "introduction": "《等着你回来》是白光演唱的时代曲，也是她主演的电影《血染海棠红》插曲。以慵懒低沉、略带挑逗的嗓音，将等待情人的焦虑与妩媚演绎得淋漓尽致，成为旧上海标志性声音。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1921_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1911_002",
+    "workName": "长征交响曲",
+    "originalName": "长征交响曲",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": 1962,
+    "countryCode": "CHN",
+    "introduction": "《长征交响曲》是丁善德创作的大型管弦乐作品，以红军长征为主题，五个乐章分别描绘了告别、突破封锁线、遵义会议、雪山草地和胜利会师，是中国交响乐民族化的重要实践。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1911_002", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1966_001",
+    "workName": "黄土高坡",
+    "originalName": "黄土高坡",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1988,
+    "countryCode": "CHN",
+    "introduction": "《黄土高坡》是杭天琪演唱的代表作，也是1980年代末中国流行乐坛“西北风”运动的标志性歌曲。粗犷豪迈的旋律和歌词，唱出了西北高原的苍凉与生命力。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1966_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1972_001",
+    "workName": "灵魂出窍",
+    "originalName": "灵魂出窍",
+    "genre": 7,
+    "subcategory": 7003,
+    "subcategories": [7003, 7008],
+    "year": 2001,
+    "countryCode": "CHN",
+    "introduction": "《灵魂出窍》是张浅潜的专辑，以神经质般的嗓音和吉他噪音，在民谣与实验摇滚之间撕裂感官，狂野而自我，是中国另类女声的开创性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1972_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1990_001",
+    "workName": "冠世一战",
+    "originalName": "冠世一战",
+    "genre": 7,
+    "subcategory": 7014,
+    "subcategories": [7014],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《冠世一战》是KBShinya演唱的哔哩哔哩2019拜年祭单品，以金庸武侠人物群像为歌词，融合古风戏腔与燃向编曲，成为二次元古风圈的年度热门歌曲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1990_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1958_002",
+    "workName": "把悲伤留给自己",
+    "originalName": "把悲傷留給自己",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1991,
+    "countryCode": "CHN",
+    "introduction": "《把悲伤留给自己》是陈升创作并演唱的歌曲，以朴素的口琴和木吉他，唱出对分手的宽容与不舍，简单的编曲和深情的演唱使其成为华语情歌经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1958_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1998_001",
+    "workName": "卡路里",
+    "originalName": "卡路里",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "《卡路里》是火箭少女101演唱的歌曲，赖美云参与其中。以减肥为主题，魔性洗脑的旋律和直白歌词，成为年度广场舞神曲，也是偶像团体国民度的代表作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1998_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1970_001",
+    "workName": "恋人未满",
+    "originalName": "戀人未滿",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2001,
+    "countryCode": "CHN",
+    "introduction": "《恋人未满》是S.H.E的出道单曲，施人诚作词。描写了友达以上、恋人未满的暧昧心动，三个少女的和声清新甜美，一举捧红了这个女子组合。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1970_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1992_002",
+    "workName": "皇帝的新装",
+    "originalName": "皇帝的新装",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《皇帝的新装》是AR刘夫阳的说唱单曲，以安徒生童话为喻，用高密度押韵和犀利Flow，批判说唱圈的浮躁现象，展示了技术流说唱的锋芒。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1992_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1983_001",
+    "workName": "芒果8号",
+    "originalName": "芒果8号",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 2007,
+    "countryCode": "CHN",
+    "introduction": "《芒果8号》是姚政在《快乐男声》比赛期间演唱的原创摇滚歌曲，以芒果台的谐音梗和呐喊式唱腔，表达了年轻音乐人的热血与不羁，成为其代表作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1983_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2003_001",
+    "workName": "坐在巷口的那对男女",
+    "originalName": "坐在巷口的那對男女",
+    "genre": 7,
+    "subcategory": 7008,
+    "subcategories": [7008],
+    "year": 2004,
+    "countryCode": "CHN",
+    "introduction": "《坐在巷口的那对男女》是自然卷乐团的歌曲，以口哨前奏和俏皮的男女对唱，描绘了邻家情侣的日常互动，清新可爱的Cute Pop风格成为台湾独立乐坛的经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2003_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1973_002",
+    "workName": "柔软时光",
+    "originalName": "柔软时光",
+    "genre": 7,
+    "subcategory": 7006,
+    "subcategories": [7006],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《柔软时光》是窦颖的爵士专辑，以慵懒松弛的声线和即兴感，翻唱经典并收录原创，营造出都市夜晚的闲适与感性，展示了她作为爵士女歌手的独特魅力。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1973_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1935_001",
+    "workName": "原野",
+    "originalName": "原野",
+    "genre": 8,
+    "subcategory": 8003,
+    "subcategories": [8003],
+    "year": 1987,
+    "countryCode": "CHN",
+    "introduction": "歌剧《原野》由金湘作曲，改编自曹禺同名话剧。以充满张力的交响和民族元素的咏叹，讲述仇虎复仇与金子奔逃的悲剧，是中国歌剧走向世界的里程碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1935_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1911_003",
+    "workName": "巷战歌",
+    "originalName": "巷战歌",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": 1937,
+    "countryCode": "CHN",
+    "introduction": "《巷战歌》是陈田鹤创作的抗战艺术歌曲，以进行曲的节奏和悲壮的旋律，歌颂了淞沪会战中将士们寸土必争的巷战精神，是早期中国艺术歌曲的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1911_003", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1946_002",
+    "workName": "苗岭的早晨",
+    "originalName": "苗岭的早晨",
+    "genre": 7,
+    "subcategory": 7014,
+    "subcategories": [7014],
+    "year": 1975,
+    "countryCode": "CHN",
+    "introduction": "《苗岭的早晨》是俞逊发根据苗族民歌改编的口笛曲，以清脆明亮的音色模仿鸟鸣和山野晨光，生动描绘了苗寨清晨万物苏醒的画卷，是口笛艺术的经典曲目。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1946_002", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1990_002",
+    "workName": "少女前线",
+    "originalName": "少女前线",
+    "genre": 1,
+    "subcategory": 1005,
+    "subcategories": [1005, 1003],
+    "year": 2016,
+    "countryCode": "CHN",
+    "introduction": "《少女前线》是散爆网络（羽中创立）开发的二次元策略养成手游，玩家扮演指挥官率领枪械拟人化的战术少女战斗，以硬核战棋玩法和丰富剧情在国内外获得成功。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1990_002", "relationType": 6, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1912_001",
+    "workName": "鲁迅像",
+    "originalName": "鲁迅像",
+    "genre": 9,
+    "subcategory": 9005,
+    "subcategories": [9005],
+    "year": 1936,
+    "countryCode": "CHN",
+    "introduction": "《鲁迅像》是力群在鲁迅逝世当年创作的黑白木刻，以粗犷而坚实的刀法刻画了鲁迅冷峻而深邃的面容，成为鲁迅精神在艺术中最具标志性的图像之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1912_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_0967_001",
+    "workName": "溪山楼观图",
+    "originalName": "溪山楼观图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1000,
+    "countryCode": "CHN",
+    "introduction": "《溪山楼观图》是北宋燕文贵的山水画，以高远的全景构图描绘崇山峻岭间楼阁掩映的奇景，融合了北方山水画派的雄壮与燕家景致的精细。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_0967_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1932_001",
+    "workName": "垛草的妇女",
+    "originalName": "垛草的妇女",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "《垛草的妇女》是妥木斯的油画代表作，描绘了蒙古族妇女在草原上劳作垛草的日常场景。画面以沉稳的色调和厚实的笔触，表现出劳动的诗意和草原牧民的淳朴美。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1932_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1921_002",
+    "workName": "路思义教堂",
+    "originalName": "路思义教堂",
+    "genre": 12,
+    "subcategory": 12009,
+    "subcategories": [12009, 12005],
+    "year": 1963,
+    "countryCode": "CHN",
+    "introduction": "路思义教堂是东海大学的标志性建筑，由陈其宽与贝聿铭合作设计。四片曲面双曲薄壳构成独特的帐篷式造型，将现代结构力学与中国传统美学完美融合。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1921_002", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1547_001",
+    "workName": "释迦牟尼图",
+    "originalName": "释迦牟尼图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1600,
+    "countryCode": "CHN",
+    "introduction": "《释迦牟尼图》是明代丁云鹏的佛像画，以精细的白描和淡彩，描绘释迦牟尼说法时的庄严妙相，衣纹飘逸，神态安详，是其佛教人物画的精品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1547_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1835_001",
+    "workName": "花鸟四屏",
+    "originalName": "花鸟四屏",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1870,
+    "countryCode": "CHN",
+    "introduction": "《花鸟四屏》是任薰创作的四条屏花鸟画，以刚健的钉头鼠尾描和艳雅的没骨设色，描绘四季花鸟，构图奇巧，展现了海派早期绘画的清新与骨力。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1835_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1901_002",
+    "workName": "五四运动浮雕",
+    "originalName": "五四运动浮雕",
+    "genre": 11,
+    "subcategory": 11004,
+    "subcategories": [11004],
+    "year": 1958,
+    "countryCode": "CHN",
+    "introduction": "人民英雄纪念碑《五四运动》浮雕由滑田友创作，以汉白玉雕刻了1919年青年学生集会演讲、散发传单的历史瞬间，人物群像充满动势与爱国激情，是新中国雕塑的杰作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1901_002", "relationType": 23, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1956_001",
+    "workName": "鹿野苑石刻博物馆",
+    "originalName": "鹿野苑石刻博物馆",
+    "genre": 12,
+    "subcategory": 12010,
+    "subcategories": [12010, 12005],
+    "year": 2002,
+    "countryCode": "CHN",
+    "introduction": "鹿野苑石刻博物馆是刘家琨设计的私立博物馆，位于成都郫县。以清水混凝土、竹林和幽暗天光营造出静谧内敛的展陈空间，是中国当代地域建筑的经典之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1956_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1891_001",
+    "workName": "扬鞭集",
+    "originalName": "扬鞭集",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1926,
+    "countryCode": "CHN",
+    "introduction": "《扬鞭集》是刘半农的白话新诗集，收录了《教我如何不想她》等名作。诗中运用大量民间口语和拟民歌体，实践了“我手写我口”的新诗理念。",
+    "primaryAuthorId": "realCharacter_chn_1891_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1891_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1958_003",
+    "workName": "一米，我身后的风景",
+    "originalName": "一米，我身后的风景",
+    "genre": 14,
+    "subcategory": 14007,
+    "subcategories": [14007],
+    "year": 1988,
+    "countryCode": "CHN",
+    "introduction": "《一米，我身后的风景》是莫毅的行为摄影系列，他将相机绑在竹竿末端伸到身后一米处，无取景拍摄了自己在城市中行走的背影，反传统纪实，诘问人与城市的关系。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1958_003", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2018_001",
+    "workName": "雾山五行",
+    "originalName": "雾山五行",
+    "genre": 2,
+    "subcategory": 2001,
+    "subcategories": [2001, 2004],
+    "year": 2020,
+    "countryCode": "CHN",
+    "introduction": "《雾山五行》是六道无鱼动画工作室制作的水墨风格网络动画。以惊艳的打斗作画和浓郁的中国风，讲述五行使者与妖兽的千年恩怨，引爆国漫口碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2018_001", "relationType": 16, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1956_002",
+    "workName": "生死场",
+    "originalName": "生死场",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1999,
+    "countryCode": "CHN",
+    "introduction": "话剧《生死场》由中央实验话剧院出品，田沁鑫导演，改编自萧红同名小说。以粗粝的舞台造型和充满生命野性的表演，展现了东北农民在生死边缘的挣扎与觉醒。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1956_002", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1955_001",
+    "workName": "三个人儿两盏灯",
+    "originalName": "三個人兒兩盞燈",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《三个人儿两盏灯》是王安祈为台湾国光剧团编写的京剧，以唐代宫女为题材，描写深宫女性的孤寂情谊与历史浮沉，文学性浓厚，是新编戏曲的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1955_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1949_001",
+    "workName": "桃花扇",
+    "originalName": "桃花扇",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "昆曲《桃花扇》是石小梅的代表剧目之一，她以清润儒雅的唱腔，将侯方域的多情与气节，以及国破家亡下的爱情悲剧演绎得凄婉动人。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1949_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1980_001",
+    "workName": "八女投江",
+    "originalName": "八女投江",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "舞剧《八女投江》由辽宁芭蕾舞团创排，以芭蕾语汇演绎东北抗联八位女战士为掩护主力投江殉国的真实故事。将民族舞蹈元素与脚尖艺术结合，悲壮而唯美。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1980_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1913_001",
+    "workName": "巫女图",
+    "originalName": "무녀도",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1936,
+    "countryCode": "KOR",
+    "introduction": "《巫女图》是金东里的短篇小说，描绘了一个巫女家庭中母子冲突与信仰崩塌的悲剧，将韩国传统巫俗文化与现代人性冲突交融。",
+    "primaryAuthorId": "realCharacter_kor_1913_001",
+    "creators": [
+      { "characterId": "realCharacter_kor_1913_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1969_001",
+    "workName": "殡之森",
+    "originalName": "殯の森",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2007,
+    "countryCode": "JPN",
+    "introduction": "《殡之森》是河濑直美执导的电影，讲述一位丧子后的老妇人与护工在奈良森林中寻找亡魂的旅程。手持摄影和自然光交织，诗意地探讨了悲伤与治愈。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1969_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_2012_001",
+    "workName": "200%",
+    "originalName": "200%",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2014,
+    "countryCode": "KOR",
+    "introduction": "《200%》是乐童音乐家的出道单曲，以吉他扫弦和兄妹二人清新的嗓音，俏皮地唱出对喜欢的人抑制不住的百分两百好感，展现了他们天马行空的创作灵气。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_2012_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1961_001",
+    "workName": "街头霸王II",
+    "originalName": "ストリートファイターII",
+    "genre": 1,
+    "subcategory": 1001,
+    "subcategories": [1001],
+    "year": 1991,
+    "countryCode": "JPN",
+    "introduction": "《街头霸王II》是卡普空的对战格斗游戏，船水纪孝参与开发。确立了必杀技、连招等对战标准，风靡全球街机厅，是格斗游戏时代的里程碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1961_001", "relationType": 6, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1971_001",
+    "workName": "被操纵的城市",
+    "originalName": "조작된 도시",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4005],
+    "year": 2017,
+    "countryCode": "KOR",
+    "introduction": "《被操纵的城市》是李东勋执导的犯罪动作片，讲述游戏高手被冤枉入狱后，与网络队友一起破解巨型阴谋的故事，CG和动作设计炫目。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1971_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1999_001",
+    "workName": "Hangame游戏平台",
+    "originalName": "한게임",
+    "genre": 1,
+    "subcategory": 1007,
+    "subcategories": [1007],
+    "year": 1999,
+    "countryCode": "KOR",
+    "introduction": "Hangame是韩国NHN公司于1999年推出的综合性游戏平台，提供休闲、棋牌、射击等多种游戏服务，是韩国国民级的在线游戏门户。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1999_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1941_001",
+    "workName": "仙台媒体中心",
+    "originalName": "せんだいメディアテーク",
+    "genre": 12,
+    "subcategory": 12010,
+    "subcategories": [12010, 12005],
+    "year": 2001,
+    "countryCode": "JPN",
+    "introduction": "仙台媒体中心是伊东丰雄设计的公共文化设施，以十三根管状柱支撑通透的玻璃方盒，营造出流动而自由的空间，是21世纪建筑的代表作之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1941_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1975_001",
+    "workName": "卵を立てることから",
+    "originalName": "卵を立てることから",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 1986,
+    "countryCode": "JPN",
+    "introduction": "《卵を立てることから》是山海塾的舞踏作品，以白妆裸体、缓慢如雕塑的肢体和极简音乐，在生与死、重力与漂浮之间探寻生命本源，是暗黑舞踏的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1975_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_grc_-620_001",
+    "workName": "伊索寓言",
+    "originalName": "Aesop's Fables",
+    "genre": 10,
+    "subcategory": 10006,
+    "subcategories": [10006],
+    "year": -600,
+    "countryCode": "GRC",
+    "introduction": "《伊索寓言》是古希腊流传的寓言故事集，相传由伊索创作。通过动物和自然物的拟人化短故事，揭示朴素而深刻的道德教训，如《龟兔赛跑》《狐狸和葡萄》等，对世界文学影响深远。",
+    "primaryAuthorId": "realCharacter_grc_-620_001",
+    "creators": [
+      { "characterId": "realCharacter_grc_-620_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1926_001",
+    "workName": "法国中尉的女人",
+    "originalName": "The French Lieutenant's Woman",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1969,
+    "countryCode": "GBR",
+    "introduction": "《法国中尉的女人》是约翰·福尔斯的后现代小说，以维多利亚时代为背景，提供了多个结局，将传统叙事与元小说技巧融合，探讨自由与禁锢。",
+    "primaryAuthorId": "realCharacter_gbr_1926_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1926_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1926_001",
+    "workName": "杀死一只知更鸟",
+    "originalName": "To Kill a Mockingbird",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1960,
+    "countryCode": "USA",
+    "introduction": "《杀死一只知更鸟》是哈珀·李的小说，以小女孩斯科特的视角，讲述其父亲——律师阿提克斯为一名被诬告的黑人辩护的故事，深刻探讨了美国南方的种族偏见与良知。",
+    "primaryAuthorId": "realCharacter_usa_1926_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1926_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1792_001",
+    "workName": "西风颂",
+    "originalName": "Ode to the West Wind",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1820,
+    "countryCode": "GBR",
+    "introduction": "《西风颂》是雪莱的抒情诗，以狂野的秋日为背景，呼唤西风扫除腐朽、催生新生，结尾“如果冬天来了，春天还会远吗”成为希望与革命的永恒预言。",
+    "primaryAuthorId": "realCharacter_gbr_1792_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1792_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1962_001",
+    "workName": "恶棍来访",
+    "originalName": "A Visit from the Goon Squad",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 2010,
+    "countryCode": "USA",
+    "introduction": "《恶棍来访》是詹妮弗·伊根的小说，以十三个独立又关联的章节，从1970年代到未来，围绕一位摇滚制作人和他的助理，拼贴出一代人的时间与记忆，获普利策奖。",
+    "primaryAuthorId": "realCharacter_usa_1962_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1962_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_deu_1967_001",
+    "workName": "Go, Went, Gone",
+    "originalName": "Gehen, ging, gegangen",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 2015,
+    "countryCode": "DEU",
+    "introduction": "《Go, Went, Gone》是燕妮·埃尔彭贝克的小说，以一位退休的东德古典学者与柏林难民接触的经历，冷静审视了欧洲难民危机下的人道与边界。",
+    "primaryAuthorId": "realCharacter_deu_1967_001",
+    "creators": [
+      { "characterId": "realCharacter_deu_1967_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1907_001",
+    "workName": "悼念叶芝",
+    "originalName": "In Memory of W. B. Yeats",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1940,
+    "countryCode": "GBR",
+    "introduction": "《悼念叶芝》是W.H.奥登为爱尔兰诗人叶芝所作的悼亡诗，在“他消失在冬天的诗人里”的咏叹中，反思了诗歌在历史暴力面前的位置与力量。",
+    "primaryAuthorId": "realCharacter_gbr_1907_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1907_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1971_001",
+    "workName": "佛罗里达乐园",
+    "originalName": "The Florida Project",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2017,
+    "countryCode": "USA",
+    "introduction": "《佛罗里达乐园》是肖恩·贝克执导的电影，以奥兰多迪士尼乐园旁的一家廉价汽车旅馆为背景，透过小女孩的纯真视角，描绘了底层边缘人的艰难与快乐。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1971_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1970_001",
+    "workName": "Bohemian Rhapsody",
+    "originalName": "Bohemian Rhapsody",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 1975,
+    "countryCode": "GBR",
+    "introduction": "《Bohemian Rhapsody》是皇后乐队的经典单曲，将摇滚、歌剧、民谣融为一体，以弗雷迪·默丘里的华丽嗓音与多声部和声，成为流行音乐史上最具实验性和影响力的作品之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1970_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1985_001",
+    "workName": "盗贼之海",
+    "originalName": "Sea of Thieves",
+    "genre": 1,
+    "subcategory": 1004,
+    "subcategories": [1004, 1001],
+    "year": 2018,
+    "countryCode": "GBR",
+    "introduction": "《盗贼之海》是Rare工作室开发的多人航海冒险游戏，玩家扮演海盗在开放海域中寻宝、战斗和航行，以共享世界的沙盒体验和卡通画风著称。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1985_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1922_001",
+    "workName": "沉睡的救济金管理员",
+    "originalName": "Benefits Supervisor Sleeping",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001],
+    "year": 1995,
+    "countryCode": "GBR",
+    "introduction": "《沉睡的救济金管理员》是卢西安·弗洛伊德的油画，以厚厚的颜料堆砌出一个肥胖的裸体女人斜躺在破旧沙发上的画面，毫不掩饰地呈现真实与脆弱。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1922_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_rou_1876_001",
+    "workName": "无尽之柱",
+    "originalName": "Coloana fără sfârșit",
+    "genre": 11,
+    "subcategory": 11003,
+    "subcategories": [11003, 11004],
+    "year": 1938,
+    "countryCode": "ROU",
+    "introduction": "《无尽之柱》是布朗库西的雕塑作品，位于罗马尼亚特尔古日乌。以菱形模块堆叠重复向上延伸，象征精神的无尽超越，是现代雕塑的经典之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_rou_1876_001", "relationType": 23, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_fra_1955_001",
+    "workName": "拉达匹住宅",
+    "originalName": "Maison Latapie",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [12005],
+    "year": 1993,
+    "countryCode": "FRA",
+    "introduction": "拉达匹住宅是安妮·拉卡顿与让-菲利普·瓦萨尔合作设计的低成本住宅，以透明波纹板和温室结构最大化采光与空间，用极少预算创造宽敞温暖的日常生活。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_fra_1955_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1975_001",
+    "workName": "乐高大电影",
+    "originalName": "The Lego Movie",
+    "genre": 4,
+    "subcategory": 4016,
+    "subcategories": [4016, 4007],
+    "year": 2014,
+    "countryCode": "USA",
+    "introduction": "《乐高大电影》是克里斯·米勒与菲尔·罗德执导的3D动画，以乐高积木为元素讲述一个平凡小人物拯救世界的故事，幽默节奏飞快，主题曲Everything is Awesome洗脑全球。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1975_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_che_1962_001",
+    "workName": "狗，夜晚，和铁锤",
+    "originalName": "Hund, Nacht und Schuh",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 2010,
+    "countryCode": "CHE",
+    "introduction": "《狗，夜晚，和铁锤》是西碧尔·贝尔格的剧作，以荒诞的黑色幽默和碎片化叙事，描绘了几个边缘人在城市深夜的暴力、孤独与虚幻渴望。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_che_1962_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_irl_1971_001",
+    "workName": "来自孤岛的信",
+    "originalName": "The Weir",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1997,
+    "countryCode": "IRL",
+    "introduction": "《来自孤岛的信》是康纳·麦克弗森的剧作，爱尔兰乡村小酒吧内，几个男人为一个从都柏林来的女人讲述各自经历的鬼故事，在酒精与风声中将超自然与孤独交织。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_irl_1971_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_rus_1890_001",
+    "workName": "牧神午后",
+    "originalName": "L'Après-midi d'un faune",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 1912,
+    "countryCode": "RUS",
+    "introduction": "《牧神午后》是尼金斯基编舞的芭蕾舞剧，以德彪西同名音乐为背景。尼金斯基以平面化、反芭蕾的姿态和最后的自渎暗示，引发巨大争议，开启了现代芭蕾的序幕。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_rus_1890_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_rus_1938_001",
+    "workName": "天鹅湖",
+    "originalName": "Лебединое озеро",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": null,
+    "countryCode": "RUS",
+    "introduction": "《天鹅湖》是柴可夫斯基作曲的芭蕾舞剧经典，鲁道夫·努里耶夫主演并编舞的版本以其狂野的技术和戏剧张力著称，赋予王子更多表现空间，成为芭蕾史上的里程碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_rus_1938_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_tur_1959_001",
+    "workName": "冬眠",
+    "originalName": "Kış Uykusu",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2014,
+    "countryCode": "TUR",
+    "introduction": "《冬眠》是努里·比格·锡兰执导的电影，讲述一位过气演员在安纳托利亚高原旅馆中与妻子、妹妹的漫长对话，深刻剖析了知识分子的自恋与无力，获戛纳金棕榈奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_tur_1959_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_cub_1946_001",
+    "workName": "Ojalá",
+    "originalName": "Ojalá",
+    "genre": 7,
+    "subcategory": 7009,
+    "subcategories": [7009],
+    "year": 1978,
+    "countryCode": "CUB",
+    "introduction": "《Ojalá》是西尔维奥·罗德里格斯的歌曲，以诗意的木吉他伴奏和深情的歌词，表达了希望与失落交织的情感，是拉丁美洲新歌运动最经典的曲目之一。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_cub_1946_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_mys_2015_001",
+    "workName": "The Company Man",
+    "originalName": "The Company Man",
+    "genre": 1,
+    "subcategory": 1001,
+    "subcategories": [1001, 1003],
+    "year": 2021,
+    "countryCode": "MYS",
+    "introduction": "《The Company Man》是Kaigan Games开发的2D横版动作游戏，玩家扮演一名入职“好公司”的新人，用键盘攻击办公室敌人，以讽刺职场文化的滑稽风格受到欢迎。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_mys_2015_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ind_1925_001",
+    "workName": "对角线",
+    "originalName": "Diagonal",
+    "genre": 9,
+    "subcategory": 9006,
+    "subcategories": [9006],
+    "year": 1969,
+    "countryCode": "IND",
+    "introduction": "《对角线》系列是泰伯·梅塔的油画作品，以粗重的线条和割裂的色块表现挣扎的人体，融合印度神话与存在主义痛苦，是印度现代艺术的标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_ind_1925_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chl_2008_001",
+    "workName": "熊的故事",
+    "originalName": "Historia de un oso",
+    "genre": 2,
+    "subcategory": 2012,
+    "subcategories": [2012],
+    "year": 2014,
+    "countryCode": "CHL",
+    "introduction": "《熊的故事》是Punkrobot Studio制作的动画短片，通过一个机械熊玩具的街头表演，回溯了一头熊被捕捉后在马戏团反抗、逃回家乡的寓言，获奥斯卡最佳动画短片。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chl_2008_001", "relationType": 16, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ind_300_001",
+    "workName": "惊梦记",
+    "originalName": "स्वप्नवासवदत्ता",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 300,
+    "countryCode": "IND",
+    "introduction": "《惊梦记》是古印度剧作家跋娑的梵语戏剧，讲述国王与失忆的妻子之间经历波折终得重逢的爱情故事，情节曲折，为古典梵剧的成熟奠基。",
+    "primaryAuthorId": "realCharacter_ind_300_001",
+    "creators": [
+      { "characterId": "realCharacter_ind_300_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_aus_1969_001",
+    "workName": "The 7 Stages of Grieving",
+    "originalName": "The 7 Stages of Grieving",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1995,
+    "countryCode": "AUS",
+    "introduction": "《The 7 Stages of Grieving》是韦斯利·伊诺克与Deborah Mailman共同创作的独白剧，通过一位原住民女性的个人故事，回溯了澳大利亚原住民遭受的历史创伤与悲伤的七个阶段。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_aus_1969_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_tur_1962_001",
+    "workName": "伊斯坦布尔",
+    "originalName": "İstanbul",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 2002,
+    "countryCode": "TUR",
+    "introduction": "《伊斯坦布尔》是厄森·尤拉的剧作，以几个角色在伊斯坦布尔这座横跨欧亚的城市中的流离与相遇，探讨了身份、故乡与全球化下的文化错位。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_tur_1962_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  }
+]

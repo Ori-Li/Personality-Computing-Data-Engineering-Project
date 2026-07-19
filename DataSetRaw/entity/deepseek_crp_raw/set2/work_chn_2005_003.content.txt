@@ -1,0 +1,759 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2005_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "即兴噪音",
+        "type": "MUSIC",
+        "countryName": "CHN",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《即兴噪音》是李剑鸿持续耕耘的实验音乐系列，以电吉他为核心声源，大量运用失真、反馈与激进即兴手法。作品摒弃传统旋律与和声结构，构建出混沌、迷幻且具有压迫感的音墙，展现声音的原始物质性。其核心在于对声音本身的深度探索、即时情绪宣泄与不可预测的声响碰撞，是中国地下噪音场景的里程碑式创作。",
+        "themes": [
+          "混沌",
+          "释放",
+          "能量",
+          "自由",
+          "声音物质性",
+          "反结构",
+          "潜意识",
+          "城市压抑"
+        ],
+        "keywords": [
+          "电吉他回授",
+          "失真",
+          "音墙",
+          "即兴演奏",
+          "无调性",
+          "噪音音乐",
+          "地下音乐",
+          "实验声音",
+          "迷幻",
+          "李剑鸿",
+          "中国地下音乐"
+        ],
+        "core_experience": "听众被置于由巨大、破碎、具侵略性的声音构筑的混沌场域中。体验的核心是放弃对旋律的追逐，转而感受声音的物理质感和即时能量冲击，引发一种宣泄性的、甚至是冥想式的感官解构。",
+        "experience_introduction": "《即兴噪音》通过摒弃传统音乐的结构美，将听众从被动欣赏者转化为声音现场的承受者与参与者。电吉他的高增益失真如同密集的风暴，反馈啸叫则像不可控的赛博格哀鸣，整体音效织体沉重且具有包裹性。这种体验迫使听觉神经高度紧张，随后在持续的声响轰击下进入一种麻木或出神的状态，最终实现情绪的暴力净化与感官的重新校准。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.05,
+        "awe": 0.55,
+        "nostalgia": 0.0,
+        "reflection": 0.45,
+        "romance": 0.0,
+        "tension": 0.9,
+        "warmth": 0.0,
+        "loneliness": 0.7,
+        "hope": 0.05
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.85,
+          "complexity": 0.75,
+          "depth_of_thought": 0.6,
+          "logical_structure": 0.1,
+          "novelty": 0.8,
+          "exploration": 0.65,
+          "ambiguity": 0.95,
+          "predictability": 0.05,
+          "information_density": 0.25,
+          "learning_value": 0.3
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.05,
+          "social_scale": 0.1,
+          "civilization_scale": 0.0,
+          "cosmic_scale": 0.1,
+          "time_span": 0.05,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.0,
+          "sadness": 0.1,
+          "loneliness": 0.8,
+          "warmth": 0.0,
+          "fear": 0.35,
+          "tension": 0.95,
+          "awe": 0.6,
+          "nostalgia": 0.0,
+          "hope": 0.05,
+          "melancholy": 0.2,
+          "anger": 0.45,
+          "peace": 0.0
+        },
+        "aesthetic": {
+          "beauty": 0.05,
+          "minimalism": 0.25,
+          "luxury": 0.0,
+          "darkness": 0.85,
+          "brightness": 0.0,
+          "dreamlike": 0.15,
+          "mystery": 0.2,
+          "experimental": 1.0,
+          "classical": 0.0,
+          "modern": 0.9
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.0,
+          "character_growth": 0.0,
+          "world_building": 0.0,
+          "nonlinear_structure": 0.95,
+          "slow_immersion": 0.3,
+          "action_intensity": 0.9,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.4
+        },
+        "social_relationship": {
+          "individualism": 0.95,
+          "collectivism": 0.05,
+          "family": 0.0,
+          "friendship": 0.0,
+          "love": 0.0,
+          "community": 0.05,
+          "competition": 0.0,
+          "cooperation": 0.0,
+          "power_relationship": 0.0,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.95,
+          "order": 0.0,
+          "truth": 0.5,
+          "beauty": 0.05,
+          "achievement": 0.15,
+          "justice": 0.0,
+          "sacrifice": 0.0,
+          "self_exploration": 0.85,
+          "tradition": 0.0,
+          "change": 0.7,
+          "survival": 0.15,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.65,
+          "creation": 0.9,
+          "adventure": 0.6,
+          "reflection": 0.5,
+          "competition": 0.0,
+          "social": 0.0,
+          "discipline": 0.1,
+          "risk": 0.8,
+          "calm": 0.0,
+          "escape": 0.55
+        },
+        "sensory": {
+          "visual_intensity": 0.1,
+          "color_richness": 0.05,
+          "sound_intensity": 1.0,
+          "rhythm_energy": 0.75,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "噪音/实验/即兴",
+          "tempo": 0.7,
+          "energy": 1.0,
+          "vocal_style": "极少或无",
+          "instrumentation": "电吉他、效果器、回授",
+          "production_style": "低保真/地下",
+          "lyrical_theme": "无",
+          "emotional_scene": "压抑、宣泄、混沌、迷幻",
+          "cultural_context": "中国地下音乐、声音艺术"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品以纯粹的声响实验和情绪宣泄为主，极少传达热情或鼓舞人心之感。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "尖锐刺耳的噪音墙并不具备抚慰或治愈的效果，基本不存在疗愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "巨大且不断变化的音墙会让人对声音的物理能量和控制力产生惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.0,
+          "explanation": "作为先锋实验声音，它切断了一切与过去记忆和怀旧情感的联系。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.45,
+          "explanation": "音乐通过解构声音促使听众反思音乐的本质、秩序与混乱的边界。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品包含的是攻击性的失真和噪音，完全剥离了任何浪漫的表达元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.9,
+          "explanation": "高增益的不和谐声响和不可预测性始终维持着极高的心理紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.0,
+          "explanation": "冰冷的电子音色和生硬的音质拒绝了任何温暖、柔和的听觉体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.7,
+          "explanation": "单人的即兴发声如同孤独的自我搏斗，营造出强烈的疏离感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.05,
+          "explanation": "整体压抑混沌的声响世界里几乎找不到任何积极或指向希望的出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.85,
+          "explanation": "作品抛弃了可辨识的旋律与和声，完全转向抽象的声音质感和结构探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.75,
+          "explanation": "多层次的噪音叠加与复杂的回授控制生成了难以解析的高复杂度声音织体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.6,
+          "explanation": "它迫使听众穿透噪音表层去思考声音的哲学意义和即兴创作的潜意识动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.1,
+          "explanation": "基于完全即兴的创作原则，它拒绝任何形式的逻辑性或预置段落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.8,
+          "explanation": "在当时的中国乐坛，此种极端的纯噪音探索具有颠覆性的创新意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.65,
+          "explanation": "通过演奏进行实时的声音实验，探索各种不可预测的声响可能性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.95,
+          "explanation": "完全不提供明确的音乐信息，含义极度模糊，完全交由听者解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.05,
+          "explanation": "自由即兴决定了它的发展路径无法预判，每一秒都可能发生突变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.25,
+          "explanation": "虽声音音量较大，但传达的传统语义信息量较低，主要是物理听觉信号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.3,
+          "explanation": "提供了关于地下音乐场景和声音艺术可能性方面的知识，但并非系统化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "完全是创作者个人内心世界的即时投射和内在情绪的强烈外化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.05,
+          "explanation": "仅涉及乐手与声音的单一关系，基本不体现人际互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.1,
+          "explanation": "作品本身不直接描绘社会，但其反叛姿态是对社会的一种潜在回应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.0,
+          "explanation": "摒弃了人文叙事和宏大背景，完全聚焦于原始的声音物质层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "偶尔的宏大低频可能唤起对混沌宇宙的联想，但不是核心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.05,
+          "explanation": "只存在于即兴发生的“当下”，与过去和未来完全割裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "所有的声响都是设备实时发出的物理声音，不构建任何虚拟的幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.0,
+          "explanation": "混沌和充满紧张感的音墙与快乐的积极情绪是完全对立的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "更多是愤怒和压抑，而非哀伤；它缺乏优美旋律来承载悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.8,
+          "explanation": "独自面对乐器发出的巨大声响，传达出强烈的隔绝感和孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.0,
+          "explanation": "刺耳和失真的音色是反温暖、非人性化的，不具备任何亲和力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.35,
+          "explanation": "突然飙升的啸叫和压迫性的音墙会带来一定程度的不安和恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.95,
+          "explanation": "持续的大音量、无调性噪音将听觉和心理的紧张感维持在极限水平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "对人造出的极端声响及其潜在能量会产生惊叹或敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.0,
+          "explanation": "纯抽象的现代噪音完全切断了指向任何具体回忆或个人经历的线索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "黑暗且封闭的声响景象中，几乎不存在任何对未来的期许。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.2,
+          "explanation": "虽然有低落的情绪，但更多的是宣泄而非忧伤的沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.45,
+          "explanation": "粗粝的失真即兴构成了被压抑的愤怒的直接表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.0,
+          "explanation": "与宁静完全对立，它以一种暴力式的声响破坏一切平和的听觉环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.05,
+          "explanation": "它挑战了传统的“优美”定义，追求的是声音的怪物性和丑陋之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.25,
+          "explanation": "主要依靠单一乐器和少量设备，但生成的声音本身却是极度密集的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "源于地下场景，充满低保真的原始感，与任何奢华精致都无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "整体音色阴暗、沉重，听觉色彩完全是黑色的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.0,
+          "explanation": "没有明亮、干净的音色，完全沉浸在浑浊失真的声音泥浆中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "持续的高音量可能导致出神，但更多是噩梦般的扭曲而不是空灵的梦幻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.2,
+          "explanation": "声音的来源和生成方式对不熟悉噪音的人来说是神秘的，但非核心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 1.0,
+          "explanation": "该作品本身就是一场声音实验，其美学基础完全建立在实验性之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.0,
+          "explanation": "它是反古典、反学院派的，从根本上拒绝传统音乐的一切标准。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.9,
+          "explanation": "体现了现代音乐对传统调性、结构和表现手法的彻底解构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "作为非叙事类音乐，它没有任何情节或故事线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.0,
+          "explanation": "无人物角色，不存在任何关于角色刻画的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "非叙事性决定了没有角色发展或成长的弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.0,
+          "explanation": "不构建任何虚构世界或场景，其声音即是其全部的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.95,
+          "explanation": "声音事件的序列完全是非线性、无因果的，由即兴冲动支配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.3,
+          "explanation": "长时间的噪音持续可能会形成沉浸感，但其过程通常是剧烈而非缓慢的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.9,
+          "explanation": "在音乐层面，它通过高能量、快节奏的音符倾泻达到了极高的动作强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "表现了声音内部的激烈冲突以及创作者内心的强烈斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.4,
+          "explanation": "引出了关于音乐本质、反艺术、声音自由的有限哲学探讨范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.95,
+          "explanation": "它是极致个人主义的，将个人表达凌驾于任何集体协作或规范之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "作品诞生的地下场景虽是一个集体，但创作本身是独立、排他的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.0,
+          "explanation": "与家庭主题完全无关，声音世界里没有任何关于亲情的指涉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.0,
+          "explanation": "没有任何音乐元素试图表达友谊或同伴情谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "声音充满了侵略性，是解构传统爱情主题表达的典型反例。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "实体作品几乎没有社区感，尽管现场表演会形成临时的音乐社群。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "不包含任何形式的竞争结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "是独立完成的个人创作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不构建任何权力支配关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "这种极端化的音乐身份是其自我身份认同和艺术家辨识度的核心来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.95,
+          "explanation": "即兴和噪音的根本精神就是不受任何规矩束缚的绝对自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.0,
+          "explanation": "其存在目的就是打破和颠覆一切预定的音乐秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.5,
+          "explanation": "通过剥离修饰，试图逼近声音的“真相”和内在情绪的真实状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "其价值体系完全基于对传统“美”的定义的否决和重构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "不以商业或主流技术成就衡量，而在其文化意义上有着重要定位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "没有关于公平正义的叙事元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.0,
+          "explanation": "不表达奉献或牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "每一次即兴都是一次深度的、非理性的自我挖掘和内心景观描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.0,
+          "explanation": "用反叛的姿态彻底与传统决裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.7,
+          "explanation": "声音在每一时刻都在持续变化，其核心就是生成性和流动性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.15,
+          "explanation": "暗示了在主流文化夹缝中的边缘存在状态，但不直接描写生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "追问音乐的本质意义，以及声音本身是否能成为独立的哲学载体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.65,
+          "explanation": "驱动创作者进行未知声音领域的探索，并可能引发听者的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.9,
+          "explanation": "行为本身就是一种实时的、从无到有的声音创造过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.6,
+          "explanation": "即兴演奏本质上是踏入未知声音领域的冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.5,
+          "explanation": "噪音可能迫使听众和乐手反思声音与存在的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "不具有竞技性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.0,
+          "explanation": "现场表演有社交性，但录音作品本身倾向于隔绝性的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "有对设备控制的训练，但追求的是打破规则而不是遵守规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.8,
+          "explanation": "在公众面前进行无法预测结果的即兴，是一种文化上和艺术上的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.0,
+          "explanation": "它产生的效果是刺激性和颠覆性的，追求宁静显然不是其动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.55,
+          "explanation": "创造纯粹噪音世界，某种程度上是对现实秩序和旋律规则的逃逸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.1,
+          "explanation": "作为纯听觉艺术，其视觉表现依赖现场，唱片仅作辅助。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.05,
+          "explanation": "没有直接的颜色运用，仅可能在联觉层面唤起黑白灰或暗色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 1.0,
+          "explanation": "声音是绝对的核心，其强度、密度和攻击性被推至极致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.75,
+          "explanation": "虽然没有规整节拍，但快速的即兴段落和噪音爆发具有巨大的动能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "成功构建了一种压迫性的、具有强烈包裹感的黑暗声音场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "巨大的音墙带来的物理和感官上的沉浸感是其重要的表现维度。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": null,
+          "explanation": "作品具有噪音、实验和自由即兴的明确风格归属。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.7,
+          "explanation": "即兴部分快速密集，常伴随突然的变化和停顿。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 1.0,
+          "explanation": "高增益、大失真的演奏方式赋予了作品极高的声音能量。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": null,
+          "explanation": "基本不使用人声，即使是嘶吼也混在噪音之中成为整体音效。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": null,
+          "explanation": "以电吉他、效果器链条和音箱的物理反馈作为核心的“乐器组”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": null,
+          "explanation": "偏重原生的、低保真的地下室质感，不追求高保真录音工业制作。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": null,
+          "explanation": "几乎完全取消文本维度，这意味着不存在常规的歌词主题。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": null,
+          "explanation": "描述的是城市边缘、心理压抑区、混乱以及个人宣泄的听觉截面。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": null,
+          "explanation": "植根于中国地下/实验音乐文化圈。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众的主要体验是一场由极高声压和失真音墙构成的、带有攻击性的感官洗礼。过程充满紧张、压抑与陌生的惊奇感，最终在混沌的声音流动中导向一种情绪宣泄式的释放，其间伴随着强烈的个人孤独感。",
+        "structure_description": "作品的结构完全摒弃了传统的曲式，采用非线性、无预设的即兴组织方式。声音事件以不可预测的方式连续生成，依赖音量、频率和音色的尖锐对比来构建动态，形成一种流动的、反结构的听觉组织。",
+        "cognitive_expression": "作品迫使认知从理解旋律和节奏的惯性中退出，转向对抽象声音质感的分析、对声音物质形态的探索。它激发的是对音乐定义的重新思考，以及对混乱背后潜意识逻辑的模糊感知与哲学层面的反思。",
+        "behavioral_tendency_description": "作品召唤着一种敢于接受挑战、拥抱未知和不确定性的探索行为。它排斥社交与协作，鼓励深刻的向内挖掘和自我表达，呈现出一种在遵循既定规则框架之外进行独立创造和冒险的强烈倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.7,
+        "Ne": 0.65,
+        "Ti": 0.6,
+        "Te": 0.05,
+        "Fi": 0.9,
+        "Fe": 0.05,
+        "Si": 0.1,
+        "Se": 0.85,
+        "openness": 0.95,
+        "conscientiousness": 0.05,
+        "extraversion": 0.15,
+        "agreeableness": 0.05,
+        "neuroticism": 0.8,
+        "Assertive": 0.6,
+        "Turbulent": 0.7
+      },
+      "supporting_evidence": [
+        "作品主要通过高增益的电吉他即兴演奏产生持续不断的噪音墙。",
+        "声音的构成不依赖任何传统旋律、和声或节拍结构。",
+        "演奏中大量使用音箱回授产生不可预测的高频声音。",
+        "失真效果器被设置到极限状态，制造粗糙、刺耳的音色。",
+        "作品是一系列持续的、看似无主题的声音片段和密集音符的组合。",
+        "音乐情绪一直处于高度紧张和压抑的氛围之下。",
+        "创作过程是单人独立完成的，不依赖乐队或合作。",
+        "声音的走向完全由乐手当下的即时反应和冲动决定。",
+        "作品在文化上归属于地下、地下的实验音乐和声音艺术。",
+        "它通过纯声音的手段表现了被压抑的和愤怒的情绪。",
+        "唱片录制不追求高保真音质，保留了原始的现场感和糙粒感。",
+        "作为一种声音尝试，它探索了乐器非传统演奏法的极限。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

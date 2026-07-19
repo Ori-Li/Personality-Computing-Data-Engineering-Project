@@ -1,0 +1,738 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2012_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "甄嬛传",
+        "type": "TV",
+        "countryName": "中国",
+        "year": 2012,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.95,
+        "primaryMediaType": "TV"
+      },
+      "semantic": {
+        "summary": "该剧以雍正后宫为舞台，通过秀女甄嬛的视角展现封建皇权下女性的生存困境与蜕变。从一个祈愿“愿得一人心”的怀春少女，到最终登上太后之位的铁腕女性，甄嬛在无数次陷害、反击、盟友背叛与情感幻灭中，深刻演绎了权力对人性的扭曲。剧集制作极为考究，融合严谨的历史细节与戏剧化的叙事，塑造了后宫群像中每一个鲜活的命运。",
+        "themes": [
+          "权力",
+          "女性生存",
+          "身份认同",
+          "复仇",
+          "爱情幻灭",
+          "宫廷政治",
+          "人性异化",
+          "成长蜕变"
+        ],
+        "keywords": [
+          "雍正",
+          "后宫",
+          "选秀",
+          "宫斗",
+          "华妃",
+          "皇后",
+          "果郡王",
+          "胧月",
+          "甘露寺",
+          "麝香",
+          "满汉文化",
+          "紫禁城"
+        ],
+        "core_experience": "观众沉浸于波谲云诡的后宫棋局，体验步步为营的紧张感与智识博弈的爽感，同时伴随对真挚情感在权力碾压下逐渐消逝的哀伤与沉重反思。",
+        "experience_introduction": "《甄嬛传》带来的核心体验是一种深陷极致约束环境中的共情与心理博弈。观众跟随着甄嬛的视角，从最初的压抑与提防，逐渐体会到后宫规则的无情与人心的幽暗，最终在主人公的权谋升级中获得宣泄，但又被其无法回头的悲剧性深深刺痛。"
+      },
+      "experience_vector": {
+        "passion": 0.5,
+        "healing": 0.1,
+        "awe": 0.65,
+        "nostalgia": 0.3,
+        "reflection": 0.85,
+        "romance": 0.4,
+        "tension": 0.9,
+        "warmth": 0.15,
+        "loneliness": 0.7,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.6,
+          "complexity": 0.9,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.8,
+          "novelty": 0.5,
+          "exploration": 0.3,
+          "ambiguity": 0.7,
+          "predictability": 0.3,
+          "information_density": 0.85,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.8,
+          "relationship_scale": 0.95,
+          "social_scale": 0.9,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.1,
+          "time_span": 0.6,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.85,
+          "loneliness": 0.75,
+          "warmth": 0.15,
+          "fear": 0.7,
+          "tension": 0.9,
+          "awe": 0.4,
+          "nostalgia": 0.2,
+          "hope": 0.2,
+          "melancholy": 0.8,
+          "anger": 0.7,
+          "peace": 0.1
+        },
+        "aesthetic": {
+          "beauty": 0.8,
+          "minimalism": 0.2,
+          "luxury": 0.85,
+          "darkness": 0.75,
+          "brightness": 0.15,
+          "dreamlike": 0.1,
+          "mystery": 0.4,
+          "experimental": 0.1,
+          "classical": 0.85,
+          "modern": 0.1
+        },
+        "narrative": {
+          "plot_complexity": 0.9,
+          "character_depth": 0.95,
+          "character_growth": 1.0,
+          "world_building": 0.8,
+          "nonlinear_structure": 0.2,
+          "slow_immersion": 0.75,
+          "action_intensity": 0.3,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.5,
+          "collectivism": 0.55,
+          "family": 0.5,
+          "friendship": 0.4,
+          "love": 0.7,
+          "community": 0.2,
+          "competition": 0.95,
+          "cooperation": 0.4,
+          "power_relationship": 1.0,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.3,
+          "order": 0.8,
+          "truth": 0.4,
+          "beauty": 0.7,
+          "achievement": 0.7,
+          "justice": 0.3,
+          "sacrifice": 0.75,
+          "self_exploration": 0.65,
+          "tradition": 0.8,
+          "change": 0.7,
+          "survival": 0.9,
+          "meaning": 0.6
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.15,
+          "adventure": 0.1,
+          "reflection": 0.85,
+          "competition": 0.8,
+          "social": 0.6,
+          "discipline": 0.7,
+          "risk": 0.55,
+          "calm": 0.25,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.8,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.4,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "tv_series_vector": {
+          "episode_dependency": 0.9,
+          "long_term_character_growth": 1.0,
+          "relationship_complexity": 0.95,
+          "world_expansion": 0.7,
+          "season_progression": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.5,
+          "explanation": "剧中存在强烈的情感波动，但大多被压抑的宫规与策略掩盖，导致激情并非主导基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "剧情充满背叛与牺牲，极少出现抚慰人心的治愈时刻。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.65,
+          "explanation": "精良的服化道和宏大的宫廷礼仪场面给观众带来视觉与仪式上的震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.3,
+          "explanation": "虽然有怀旧元素，但并非作品的核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "剧情持续引发对人性、权力和女性命运的深刻思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.4,
+          "explanation": "爱情线索存在，但多作为服务于权力斗争的牺牲品出现。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.9,
+          "explanation": "后宫无处不在的猜忌与算计构成了持续的高压紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "真挚的温情场景非常稀少，且通常短暂即被摧残。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.7,
+          "explanation": "高处不胜寒的孤立感贯穿了主要角色的命运。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "正面希望极其渺茫，每一个微小的曙光最终都会破灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.6,
+          "explanation": "剧中存在大量潜台词和象征性意象，但叙事依然是具象化的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.9,
+          "explanation": "庞大的人物网络和多线交织的权谋布局，构成极高的认知复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "台词富有深意，事件背后的动机层层嵌套，发人深省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.8,
+          "explanation": "宫斗计谋环环相扣，因果关系清晰，逻辑极其严密。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.5,
+          "explanation": "在当时是宫斗题材的革新，但未脱离历史剧情框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "场景几乎完全局限在后宫之内，探索未知世界的元素较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.7,
+          "explanation": "人物的好坏善恶难以简单界定，话语和意图常有多重解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.3,
+          "explanation": "剧情反转极多，结局路径难以预料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "台词富含文言古韵与历史典故，单位时间内传递的信息量极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "观众能了解大量清朝宫廷制度、文化习俗和历史知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.8,
+          "explanation": "极度聚焦于角色的内心世界和个人命运挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.95,
+          "explanation": "核心焦点完全是人际关系的合纵连横与同盟背叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.9,
+          "explanation": "后宫是封建社会的缩影，映射了家族门楣和社会阶层。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "讨论了特定历史背景下的文明礼教，但不涉及文明进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "几乎没有涉及宇宙、哲学本体论维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.6,
+          "explanation": "故事跨度涵盖了甄嬛长达十数年的后宫生涯。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "虽然有戏剧化夸张，但背景为真实历史，无幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "真正的快乐时光在剧中凤毛麟角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.85,
+          "explanation": "这部作品的基调充满了失去挚爱、朋友和纯真后的悲痛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "这种情感弥漫在后宫的每一个人身上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "温暖时刻极为稀少且往往隐藏着危机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.7,
+          "explanation": "随时可能被陷害和处死的恐惧笼罩着角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "无休止的争斗构成了持续的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.4,
+          "explanation": "充满仪式感的场景和皇权威仪带来了敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.2,
+          "explanation": "甄嬛偶尔怀念入宫前的时光，但非主线情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "随着剧情发展，所有人几乎都陷入绝望与妥协。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.8,
+          "explanation": "整体基调充满了一种无力回天的忧郁和哀愁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.7,
+          "explanation": "角色的愤怒常被内化成复仇的动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.1,
+          "explanation": "在惊涛骇浪的后宫，不存在心灵的宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.8,
+          "explanation": "从服饰、妆容到画面构图都极为考究，充满古典美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.2,
+          "explanation": "美学风格是华丽繁复的，并非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.85,
+          "explanation": "体现皇家气派的奢华陈设与珠宝首饰无处不在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.75,
+          "explanation": "大量场景发生在黑夜或幽闭的室内，氛围沉重压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "明亮的场景通常预示着灾难或短暂的美好。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.1,
+          "explanation": "作品风格趋于写实，梦境感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.4,
+          "explanation": "悬疑元素主要集中在探查阴谋，而非荒诞神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "采用的是极其成熟的主流叙事表达，不具实验色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "展现了浓烈的中国传统古典美学和叙事风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.1,
+          "explanation": "除了一些现代的戏剧审美外，几乎无现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.9,
+          "explanation": "情节线索千头万绪，谋略环环相扣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.95,
+          "explanation": "对人物的心理刻画非常深入，即使是反派也极其立体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 1.0,
+          "explanation": "核心看点就是甄嬛从天真到狠绝的完整心理蜕变过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.8,
+          "explanation": "对清宫内的等级、礼仪、生活细节构建得细致入微。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.2,
+          "explanation": "叙事基本是严谨的线性时间顺序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.75,
+          "explanation": "节奏偏缓，通过大量细节和平静的对话悄然推进阴谋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.3,
+          "explanation": "冲突主要是心理层面的博弈，肢体动作戏份极少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "几乎每集都充满生死攸关的激烈人际冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "深刻探讨了存在、命运、人性异化等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.5,
+          "explanation": "人物基础动机是个人生存，体现了个体无奈的自保。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.55,
+          "explanation": "深受家族荣辱和集体规训束缚，介于两者之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.5,
+          "explanation": "家族是初始的原因和背叛的根源，并非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.4,
+          "explanation": "脆弱的友谊常态下不是盟友的背叛，就是反目的前奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.7,
+          "explanation": "深刻的爱情是支撑角色信念或导致崩溃的重要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.2,
+          "explanation": "后宫不存在真正意义上的社群和集体温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.95,
+          "explanation": "所有的关系都可归结为零和博弈的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.4,
+          "explanation": "合作往往基于共同的利益或敌人，且极其脆弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 1.0,
+          "explanation": "权力是绝对的核心驱动力，支配并摧毁着每一段关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "在女儿、妻子、谋臣等多重身份中挣扎与迷失是主要议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.3,
+          "explanation": "作品展现的是一种强烈的绝望，即在这个体系内自由是不可能的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.8,
+          "explanation": "整个故事都是对严苛封建等级秩序的遵循与颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.4,
+          "explanation": "事实和真诚往往被利用，对真相的追求在宫中是危险的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "对美的极致追求体现在服饰、仪态和环境的各方面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.7,
+          "explanation": "获得更高位份和皇帝的宠爱是极为重要的价值体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.3,
+          "explanation": "宫中有法则但无真正的正义，复仇替代了公义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.75,
+          "explanation": "几乎每个关键转折点都由重大的个人牺牲推动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.65,
+          "explanation": "甄嬛的成长伴随着对自我本性和欲望的内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.8,
+          "explanation": "封建礼教和祖宗家法是人物行为无法逾越的框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.7,
+          "explanation": "展现了巨大的变革，但往往是被黑暗环境扭曲的蜕变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.9,
+          "explanation": "生存是第一要务，也是绝大多数行为的最终解释。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.6,
+          "explanation": "在深渊中不断追问活着的意义和情感的归宿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "好奇心在此环境中往往是致命的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "少有创造性的、建设性的行为，多为破坏性和防御性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "非探险类作品，几乎没有冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "要求观众与角色共同进行密集的反思与解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.8,
+          "explanation": "一切行为都导向你死我活的后宫竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.6,
+          "explanation": "虽然社会互动极其频繁，但都属于高压社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.7,
+          "explanation": "角色需要极高的自律和隐忍才能在宫中立足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "每一次出击都是生死赌注，存在高风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.25,
+          "explanation": "表面的平静下暗流涌动，与真正的平和无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "曾经试图通过出家逃避，但最终仍被拉回斗争核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "虽然不追求视觉奇观，但画面极具冲击力和质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.8,
+          "explanation": "服装及配饰色彩搭配极其丰富、艳丽而考究。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "配乐以烘托气氛为主，不甚喧宾夺主，但恰到好处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.4,
+          "explanation": "叙事节奏缓慢绵密而非高能强劲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "幽暗压抑、紧张华丽的独特氛围是其鲜明的标志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "精美的细节和跌宕的剧情，使观众极易沉浸其中无法自拔。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.episode_dependency",
+          "score": 0.9,
+          "explanation": "剧情连续性极强，错过一集可能导致理解断裂。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.long_term_character_growth",
+          "score": 1.0,
+          "explanation": "电视剧的篇幅完美服务于角色多年跨度的深度转变。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.relationship_complexity",
+          "score": 0.95,
+          "explanation": "长剧集有充裕时间构建极其错综复杂的人际网络。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.world_expansion",
+          "score": 0.7,
+          "explanation": "通过引入前朝、其他家族来扩展世界观。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.season_progression",
+          "score": 0.85,
+          "explanation": "分阶段的空间转移（宫廷-寺庙-宫廷回宫）清晰划分了成长阶段。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众经历了一场由弱者成为王者的心理嬗变共情。在密集的智识交锋中，体验到谋略升级、成功复仇的爽快感，同时又被深沉悲剧的重压紧紧攥住。随着美好之物一件件破碎，一种寒意彻骨的清醒与无力感油然而生。",
+        "structure_description": "通过极其严谨的时间线性结构展开，人物命运的起伏紧扣着等级森严的后宫生态。每个模块如同精密齿轮，推动着一个又一个连环计，节奏缓急交替，在高潮与沉淀的循环中耗尽角色的天真，展示命运的无可逆转。",
+        "cognitive_expression": "作品鼓励高强度的社会智性分析，观众必须时刻解读台词中的潜台词、评估人际关系中的博弈均衡。这种高度复杂的智力挑战要求观众不断进行因果回溯和逻辑推理。",
+        "behavioral_tendency_description": "它强化了一种战略性生存导向的行为取向，同时对真诚的情感表达抱有悲观预期。观众被激发出谨慎、多疑且具有高度竞争意识的防御性心理。"
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 0.2,
+        "Ti": 0.85,
+        "Te": 0.8,
+        "Fi": 0.85,
+        "Fe": 0.25,
+        "Si": 0.55,
+        "Se": 0.3,
+        "openness": 0.6,
+        "conscientiousness": 0.85,
+        "extraversion": 0.15,
+        "agreeableness": 0.1,
+        "neuroticism": 0.9,
+        "Assertive": 0.3,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "少女甄嬛在选秀入宫后接连目睹后宫残酷斗争，逐渐从被动避宠转向主动布局。",
+        "后宫嫔妃的升迁或失宠往往与家族在前朝的势力起伏密切相关。",
+        "华妃因其兄年羹尧的战功而在宫中骄横跋扈，最终随着年家的倒台而覆灭。",
+        "皇后宜修表面贤良淑德，实则通过操控各嫔妃之间的矛盾来维持自己的地位。",
+        "安陵容从甄嬛的密友转变为敌人，其背叛背后充满了嫉妒、自卑与对社会地位的贪求。",
+        "主人公在经历了流产、失宠和家族流放等重大打击后，性格与手段发生根本性转变。",
+        "甘露寺修行期间，甄嬛与果郡王发生了一段违背宫规的深刻私情。",
+        "甄嬛回宫主要动机是为了保全腹中孩子、查明爱人死因以及挽救流放中的家族。",
+        "剧中大量使用麝香、舒痕胶等隐蔽手段作为导致嫔妃流产或绝育的工具。",
+        "敬妃为争夺胧月的抚养权，一度向皇后告发槿汐与苏培盛的对食之事。",
+        "皇帝在临终前得知静和公主非自己亲身骨肉，在极度愤恨与震惊中气绝身亡。",
+        "叙事中包含着对诗词典故、历史掌故和中药药理的密集使用。",
+        "统治后宫的核心规则是严格的封建等级礼仪和皇帝的个人意志。",
+        "敦亲王福晋等少数几个角色展现了在权力核心之外相对真挚的情感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

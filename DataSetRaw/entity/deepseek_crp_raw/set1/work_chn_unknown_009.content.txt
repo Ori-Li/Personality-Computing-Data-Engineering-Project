@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_unknown_009",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "花鸟图",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 0,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.72,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "明代画家周之冕创作的《花鸟图》，采用其独创的“勾花点叶”法，以精细线条勾勒花朵轮廓，用墨彩点簇表现枝叶，设色明丽。作品融合了工笔的细腻与写意的生动，捕捉了花鸟的自然姿态，体现了晚明文人画对生命意趣和自然美学的追求。",
+        "themes": [
+          "自然",
+          "生命",
+          "和谐",
+          "美学",
+          "文人雅趣"
+        ],
+        "keywords": [
+          "明代",
+          "周之冕",
+          "勾花点叶",
+          "花鸟画",
+          "工笔",
+          "写意",
+          "自然",
+          "设色",
+          "水墨",
+          "文人画"
+        ],
+        "core_experience": "通过细腻的线条与灵动的墨彩，感受自然界花鸟的生机与韵律，在工致与洒脱之间获得一种和谐平静的审美愉悦。",
+        "experience_introduction": "《花鸟图》通过独创的“勾花点叶”技法，为观众提供了一种介于精微观察与潇洒意趣之间的体验。画面中，花卉以工细线条勾勒，呈现出严谨的结构美感；枝叶则以率性的墨彩点成，充满生机。这种技法上的对比与融合，引导观众在静观中体会晚明文人画家对自然生机的敏锐捕捉和对艺术形式的平衡把握，整体传递出一种淡雅平和、充满生命意趣的审美心境。"
+      },
+      "experience_vector": {
+        "passion": 0.18,
+        "healing": 0.65,
+        "awe": 0.35,
+        "nostalgia": 0.52,
+        "reflection": 0.68,
+        "romance": 0.05,
+        "tension": 0.0,
+        "warmth": 0.42,
+        "loneliness": 0.22,
+        "hope": 0.4
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.22,
+          "complexity": 0.35,
+          "depth_of_thought": 0.48,
+          "logical_structure": 0.15,
+          "novelty": 0.72,
+          "exploration": 0.1,
+          "ambiguity": 0.3,
+          "predictability": 0.68,
+          "information_density": 0.3,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.82,
+          "relationship_scale": 0.08,
+          "social_scale": 0.05,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.15,
+          "time_span": 0.35,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.45,
+          "sadness": 0.1,
+          "loneliness": 0.22,
+          "warmth": 0.42,
+          "fear": 0.0,
+          "tension": 0.0,
+          "awe": 0.28,
+          "nostalgia": 0.52,
+          "hope": 0.4,
+          "melancholy": 0.18,
+          "anger": 0.0,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.9,
+          "minimalism": 0.48,
+          "luxury": 0.12,
+          "darkness": 0.0,
+          "brightness": 0.55,
+          "dreamlike": 0.25,
+          "mystery": 0.15,
+          "experimental": 0.42,
+          "classical": 0.88,
+          "modern": 0.08
+        },
+        "narrative": {
+          "plot_complexity": 0.05,
+          "character_depth": 0.15,
+          "character_growth": 0.02,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.72,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.0,
+          "philosophical_depth": 0.25
+        },
+        "social_relationship": {
+          "individualism": 0.68,
+          "collectivism": 0.1,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.05,
+          "community": 0.05,
+          "competition": 0.0,
+          "cooperation": 0.02,
+          "power_relationship": 0.0,
+          "identity": 0.25
+        },
+        "value": {
+          "freedom": 0.55,
+          "order": 0.65,
+          "truth": 0.6,
+          "beauty": 0.92,
+          "achievement": 0.15,
+          "justice": 0.0,
+          "sacrifice": 0.0,
+          "self_exploration": 0.42,
+          "tradition": 0.78,
+          "change": 0.1,
+          "survival": 0.1,
+          "meaning": 0.5
+        },
+        "behavior": {
+          "curiosity": 0.28,
+          "creation": 0.82,
+          "adventure": 0.05,
+          "reflection": 0.68,
+          "competition": 0.0,
+          "social": 0.05,
+          "discipline": 0.62,
+          "risk": 0.15,
+          "calm": 0.9,
+          "escape": 0.22
+        },
+        "sensory": {
+          "visual_intensity": 0.62,
+          "color_richness": 0.68,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.6,
+          "immersion": 0.48
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "工笔写意融合",
+          "color_expression": 0.78,
+          "composition_complexity": 0.35,
+          "symbolism": 0.42,
+          "emotional_expression": 0.55,
+          "historical_style": 0.9
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.18,
+          "explanation": "作品以平静观察为主，不追求强烈的激情表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.65,
+          "explanation": "花鸟的自然意趣与柔和色调带来心灵抚慰感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "精细的技法引发对自然和艺术的敬意。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.52,
+          "explanation": "传统文人画的古典气息唤起对历史文化的怀旧。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.68,
+          "explanation": "作品引导静观与对自然美学和生命意趣的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "不涉及浪漫或爱情主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.0,
+          "explanation": "无任何戏剧性冲突或紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.42,
+          "explanation": "自然生机与和谐画面传递出温和的感受。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.22,
+          "explanation": "独立的花鸟形象带有轻微的孤芳自赏意味。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.4,
+          "explanation": "自然生命的绽放带来含蓄的积极期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.22,
+          "explanation": "作品具象描绘自然花鸟，抽象概念少，易于直接理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "元素构成相对简单，但技法融合带来一定复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.48,
+          "explanation": "作品引发对自然、生命和艺术形式的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "画面结构依托自然生长形态，不强调逻辑推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.72,
+          "explanation": "独创的勾花点叶法是技法上的重要创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.1,
+          "explanation": "主题传统固定，不鼓励探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.3,
+          "explanation": "形象明确，但在意象表达上留有少量解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.68,
+          "explanation": "符合传统花鸟画范式，内容与形式高度可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "包含技法、审美和自然知识，但信息总量不复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "可学习明代绘画技法和文人审美趣味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.82,
+          "explanation": "聚焦个体创作者对自然的个人化观察与表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.08,
+          "explanation": "花鸟之间互动简单，不强调复杂社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及人类社会群体或组织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "作为文化产物，间接体现文人阶层的文明特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "通过自然一角，仅能微弱地暗示宇宙法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "捕捉自然瞬间，但作品本身具有历史传承的时间感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "描绘现实自然对象，无任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.45,
+          "explanation": "明丽色彩与自然生机引发适度愉悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "基本不包含悲伤情绪，画面氛围平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.22,
+          "explanation": "独立花鸟形象带有些许安静孤立的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.42,
+          "explanation": "技法与色彩传递温和、亲近的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.0,
+          "explanation": "完全不存在恐惧或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.0,
+          "explanation": "构图和谐，无任何对立产生的紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.28,
+          "explanation": "对自然生机和精湛技法轻微敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.52,
+          "explanation": "古画特有的历史感和传统题材唤起怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.4,
+          "explanation": "盛开的花朵和生动小鸟隐含生命延续的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.18,
+          "explanation": "文人对自然易逝之美的观照带有一丝淡淡惆怅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "内容平和，不包含愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "整体画面高度和谐，是内心宁静的核心来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.9,
+          "explanation": "作品的核心追求与主要呈现效果就是视觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.48,
+          "explanation": "构图简练，用墨用色概括，但保留工笔细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.12,
+          "explanation": "设色妍丽但不华丽奢侈，体现文人雅致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.0,
+          "explanation": "色调明亮，无晦暗或压抑元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "整体色调明快，但非极度鲜艳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "写意性带来轻微的朦胧和理想化美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "自然物象的描绘并不追求神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.42,
+          "explanation": "勾花点叶法在当时是对工笔和写意的实验性结合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.88,
+          "explanation": "完全遵循并体现古典文人画的审美范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.08,
+          "explanation": "属于典型古代作品，无现代艺术特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.05,
+          "explanation": "静态画作无情节发展过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "花鸟无拟人性格，但姿态富有性格化表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.02,
+          "explanation": "无叙事性的人物成长过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "仅呈现一个特定的自然片段，不构建完整世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "视觉元素的散点布局可被非线性解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.72,
+          "explanation": "需要静观细品，才能逐渐进入作品的审美意境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "完全静态画面，无任何动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.0,
+          "explanation": "无冲突，画面元素和谐共生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.25,
+          "explanation": "蕴含天人合一等传统哲学思想，但非显性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.68,
+          "explanation": "体现创作者个人独特的艺术观察与表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.1,
+          "explanation": "主题属于文人群体共享的文化符号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "不涉及友谊主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "不涉及爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "与外部社区关联极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "无任何竞争性元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.02,
+          "explanation": "花与鸟在自然生态中的共生关系极其轻微。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "无权力关系表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.25,
+          "explanation": "作品作为文人身份和审美趣味的标志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.55,
+          "explanation": "写意笔墨和自然主题体现精神自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.65,
+          "explanation": "工细线条和自然生长结构体现内在秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "追求对自然生机的真实捕捉和表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.92,
+          "explanation": "艺术创作的核心价值导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "不强调外在成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "不涉及社会正义主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.0,
+          "explanation": "无牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.42,
+          "explanation": "通过描绘自然物象实现创作者内心的观照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.78,
+          "explanation": "高度遵循并体现文人画传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.1,
+          "explanation": "捕捉瞬间，但不强调变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.1,
+          "explanation": "自然状态描绘，不直接表现生存挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.5,
+          "explanation": "作品传递了生命与艺术的深层意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.28,
+          "explanation": "引发对自然细节和技法处理的探究欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.82,
+          "explanation": "核心行为是艺术创造，并激发观者对创造的欣赏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "完全不鼓励冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.68,
+          "explanation": "作品适合并鼓励静观与沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "无竞争性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.05,
+          "explanation": "个人审美体验为主，社交性低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.62,
+          "explanation": "工笔勾线要求极高的艺术自律，作品也体现这一精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "技法创新在当时有轻微打破常规的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.9,
+          "explanation": "作品整体氛围和观画体验都导向内心的平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.22,
+          "explanation": "欣赏自然主题可作为暂时的精神休憩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.62,
+          "explanation": "视觉是唯一感官通道，妍丽色彩和形态引人注目。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.68,
+          "explanation": "设色妍丽，色彩运用生动通透，层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "静态视觉作品，无任何声音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "点簇的叶枝和花朵布局形成低程度的视觉节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.6,
+          "explanation": "营造出和谐宁静、自然生动的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.48,
+          "explanation": "静态二维画面提供中等程度的审美沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0,
+          "explanation": "核心风格为工笔与写意的融合。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.78,
+          "explanation": "设色妍丽，是作品重要的表现力来源。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.35,
+          "explanation": "构图简练，主次分明，不追求复杂构成。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.42,
+          "explanation": "花鸟具有传统吉祥寓意和文人品格象征。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.55,
+          "explanation": "通过自然景象间接地、含蓄地表达情感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.9,
+          "explanation": "是典型的晚明花鸟画风格代表作。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在观赏《花鸟图》时，首先被其明丽和谐的色调与生动的自然形态所吸引，体验到一种直接的感官愉悦。随着视线在精细的勾线与洒脱的点簇之间游走，观赏过程逐渐变得沉静，心灵在细腻与豪放交织的韵律中获得抚慰。整体情绪体验以高度的平静为核心，辅以对自然美的怀旧感和对生命力的轻微敬畏，最终达成一种淡雅而满足的审美心境。",
+        "structure_description": "作品的结构体验来源于独创的“勾花点叶”法，它决定了视觉的阅读顺序：视线首先被线条工细的花朵所牵引，感受到严谨、静态的美；随后移向以墨彩点簇而成的枝叶，体验到动态、自由的意趣。这种技法上的对比并非冲突，而是建立了一种微妙的和谐关系，如同音乐中的对位，共同构建了一个完整且富有层次的视觉结构，引导观众在动静之间完成审美探索。",
+        "cognitive_expression": "作品首先要求观众运用细致的观察力去分辨花卉的轮廓与枝叶的墨韵，这是一种偏向具象的视觉信息处理。随后，认知活动转向对两种技法结合之美的理解，需要调动一定的抽象审美思维，去领会形式背后的意涵。这种从物象观察到艺术法则反思的过程，结合了对自然规律和艺术传统的双重认知，最终提升为对文人生活哲学和自然观的内省式思考。",
+        "behavioral_tendency_description": "《花鸟图》所唤起的行为倾向是高度沉静的，它不鼓励任何外向性的行动，而是将行为导向内敛与反思。观众在画前更倾向于放慢节奏、仔细观察、深度品味。作品强调的是对艺术创造的欣赏与对自然观察的专注，推崇一种自律而平和的精神状态，行为上表现为静观、沉思，以及对传统技法的学习与揣摩欲望。"
+      },
+      "personality_affinity": {
+        "Ni": 0.5,
+        "Ne": 0.38,
+        "Ti": 0.35,
+        "Te": 0.15,
+        "Fi": 0.72,
+        "Fe": 0.2,
+        "Si": 0.82,
+        "Se": 0.65,
+        "openness": 0.65,
+        "conscientiousness": 0.62,
+        "extraversion": 0.15,
+        "agreeableness": 0.55,
+        "neuroticism": 0.2,
+        "Assertive": 0.82,
+        "Turbulent": 0.25
+      },
+      "supporting_evidence": [
+        "作品采用周之冕独创的勾花点叶技法完成。",
+        "花朵部分以精细线条钩勒轮廓，展现工笔技巧。",
+        "叶枝使用墨彩点簇绘制，体现写意笔墨趣味。",
+        "画面设色妍丽，色彩搭配追求自然生动的效果。",
+        "构图风格完美融合了工笔的细腻与写意的洒脱。",
+        "属于明代晚期典型的文人花鸟画题材。",
+        "描绘对象为自然界常见的花卉与禽鸟。",
+        "整体审美追求生动自然，反对刻板僵化。",
+        "表达了文人对于自然生命意趣的观察与欣赏。",
+        "技法上在继承传统之外，做出了明确的创新尝试。",
+        "画面未表现任何人类社会的情节或矛盾冲突。",
+        "作品所呈现的是一个和谐、平静的自然片段。",
+        "需要观众静心细观，才能体会其线条与墨韵的妙处。",
+        "花与鸟的姿态和布局遵循自然形态，充满生机。",
+        "作为传世画作，承载了晚明时期的特定文化信息。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

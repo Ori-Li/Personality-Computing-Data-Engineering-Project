@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2015_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "京剧猫",
+        "type": "ANIME",
+        "countryName": "中国",
+        "year": 2015,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "TV_SERIES"
+      },
+      "semantic": {
+        "summary": "《京剧猫》是一部融合京剧国粹元素与奇幻冒险的国产动画长篇。作品构建了以“韵力”为核心的猫土世界，讲述少年猫白糖与伙伴们组成星罗班，对抗邪恶势力“黯”以求净化混沌的热血成长故事。动画通过戏曲打斗、脸谱设定和唱念做打的表现形式，传递勇气、信念与责任的主题，展现了浓郁的东方美学风格。",
+        "themes": [
+          "成长",
+          "冒险",
+          "传统文化",
+          "正义",
+          "友情",
+          "信念",
+          "责任",
+          "传承",
+          "善恶对抗",
+          "自我突破"
+        ],
+        "keywords": [
+          "京剧",
+          "韵力",
+          "猫土",
+          "星罗班",
+          "白糖",
+          "黯",
+          "十二宗",
+          "混沌",
+          "唱念做打",
+          "武打动作",
+          "脸谱",
+          "东方奇幻",
+          "热血",
+          "儿童向",
+          "中国文化"
+        ],
+        "core_experience": "在充满东方奇幻色彩的戏曲世界中，体验少年英雄与同伴携手对抗邪恶的热血冒险。观众在欣赏京剧武打与传统文化魅力的同时，感受角色从稚嫩到成熟的坚定成长，以及正义信念带来的振奋与感动。",
+        "experience_introduction": "《京剧猫》通过将中国传统京剧艺术与少儿向热血冒险动画深度融合，为观众提供了一场独特的文化审美与情感体验。作品以猫土世界的十二宗宗门体系为奇幻舞台，借助京剧的程式化打斗和鲜明的脸谱角色塑造，持续呈现正义与邪恶的宏大冲突。观众在跟随主角白糖历练成长的过程中，既能感受到轻松诙谐的伙伴互动，也能在关键时刻体验到临危受命的紧张与使命感，整体体验兼具文化启蒙性与情感感染力。"
+      },
+      "experience_vector": {
+        "passion": 0.78,
+        "healing": 0.55,
+        "awe": 0.58,
+        "nostalgia": 0.45,
+        "reflection": 0.35,
+        "romance": 0.08,
+        "tension": 0.62,
+        "warmth": 0.52,
+        "loneliness": 0.28,
+        "hope": 0.72
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.42,
+          "depth_of_thought": 0.30,
+          "logical_structure": 0.48,
+          "novelty": 0.68,
+          "exploration": 0.58,
+          "ambiguity": 0.25,
+          "predictability": 0.72,
+          "information_density": 0.50,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.45,
+          "relationship_scale": 0.62,
+          "social_scale": 0.55,
+          "civilization_scale": 0.65,
+          "cosmic_scale": 0.20,
+          "time_span": 0.32,
+          "fantasy_level": 0.80
+        },
+        "emotion": {
+          "happiness": 0.68,
+          "sadness": 0.42,
+          "loneliness": 0.28,
+          "warmth": 0.52,
+          "fear": 0.35,
+          "tension": 0.62,
+          "awe": 0.58,
+          "nostalgia": 0.45,
+          "hope": 0.72,
+          "melancholy": 0.25,
+          "anger": 0.30,
+          "peace": 0.40
+        },
+        "aesthetic": {
+          "beauty": 0.72,
+          "minimalism": 0.25,
+          "luxury": 0.30,
+          "darkness": 0.38,
+          "brightness": 0.78,
+          "dreamlike": 0.55,
+          "mystery": 0.48,
+          "experimental": 0.22,
+          "classical": 0.75,
+          "modern": 0.42
+        },
+        "narrative": {
+          "plot_complexity": 0.48,
+          "character_depth": 0.52,
+          "character_growth": 0.82,
+          "world_building": 0.72,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.35,
+          "action_intensity": 0.68,
+          "conflict_intensity": 0.72,
+          "philosophical_depth": 0.35
+        },
+        "social_relationship": {
+          "individualism": 0.45,
+          "collectivism": 0.68,
+          "family": 0.35,
+          "friendship": 0.82,
+          "love": 0.15,
+          "community": 0.65,
+          "competition": 0.55,
+          "cooperation": 0.72,
+          "power_relationship": 0.50,
+          "identity": 0.62
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.58,
+          "truth": 0.40,
+          "beauty": 0.70,
+          "achievement": 0.68,
+          "justice": 0.75,
+          "sacrifice": 0.62,
+          "self_exploration": 0.48,
+          "tradition": 0.72,
+          "change": 0.55,
+          "survival": 0.52,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.58,
+          "creation": 0.35,
+          "adventure": 0.78,
+          "reflection": 0.30,
+          "competition": 0.55,
+          "social": 0.62,
+          "discipline": 0.65,
+          "risk": 0.62,
+          "calm": 0.28,
+          "escape": 0.18
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.78,
+          "sound_intensity": 0.70,
+          "rhythm_energy": 0.72,
+          "atmosphere": 0.68,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "tv_series_vector": {
+          "episode_dependency": 0.55,
+          "long_term_character_growth": 0.85,
+          "relationship_complexity": 0.58,
+          "world_expansion": 0.72,
+          "season_progression": 0.68
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.78,
+          "explanation": "作品充满热血励志的战斗场景和角色奋发向上的精神，整体情绪感染力强。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.55,
+          "explanation": "角色间的友情与信任在战斗中不断加深，偶尔提供温和的治愈时刻，但非作品主调。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.58,
+          "explanation": "京剧韵力与各种宗派绝技的华丽展现，以及东方奇幻世界的构建，常令观众感到赞叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "对京剧艺术形式的卡通化呈现可能唤起部分观众对传统文化的怀旧，但并非核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.35,
+          "explanation": "故事核心是冒险和成长，留给观众进行深度哲学反思的空间有限。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.08,
+          "explanation": "几乎没有涉及爱情主题，作品完全专注于友情和团队羁绊。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.62,
+          "explanation": "正邪对抗的主线矛盾贯穿始终，战斗场面和伙伴陷入危机的时刻常制造出紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.52,
+          "explanation": "星罗班成员间互相扶持、共同进退的友情关系传递出温暖的人际氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.28,
+          "explanation": "虽有角色面临个人困境，但故事强调团队协作，孤独感不强。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.72,
+          "explanation": "无论在何种逆境中，主角团都坚信能够击败黑暗、净化混沌，传递强烈的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "世界观设定虽具幻想性，但核心情节和角色动机直接明确，整体风格具象化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.42,
+          "explanation": "故事线清晰，多线交织主要为了丰富冒险过程，整体复杂度适中，适合少儿观众。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.30,
+          "explanation": "作品重行动和情感表达，较少设置深奥的哲学困境或需要复杂推理的智斗情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.48,
+          "explanation": "以收集韵力和对抗混沌为清晰主线，各宗派和冒险地点有明确的挑战规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.68,
+          "explanation": "将京剧元素系统性地融入猫类奇幻冒险动画，这一创意在国产动画系列中具有显著新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.58,
+          "explanation": "主角团为执行任务和获得成长，持续前往猫土上的不同宗派领域进行冒险探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "正反派立场划分清晰，核心冲突的解决方案明确，几乎没有模棱两可的结局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.72,
+          "explanation": "故事遵循典型的热血少年漫成长模式，主角通过练级提升变强并最终战胜反派的路径较为常规。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "在推进剧情的同时，持续融入京剧专业知识、宗门文化和角色技能体系等信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "观众可以在娱乐中获取关于京剧艺术形式、中国文化及传统美学的启蒙性知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.45,
+          "explanation": "作品聚焦于主角白糖个人的成长轨迹，但他的私人维度常常让位于更大规模的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.62,
+          "explanation": "星罗班成员之间以及与其他角色的友情羁绊是推动故事前进的重要动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "故事中展示了十二宗及其管辖下各具特色的城镇或群体，描绘了猫土社会的基本结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.65,
+          "explanation": "故事背景设定为猫土世界，有着完整的十二宗宗门体系和对抗“黯”的跨地域文明冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.20,
+          "explanation": "冲突限于猫土世界内部，未曾涉及宇宙起源或其他星球层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.32,
+          "explanation": "主线叙事发生在较短的时间内，虽有少量回忆片段涉及过去，但时间跨度不大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.80,
+          "explanation": "构建了以“韵力”作为核心超自然能力、完全架空的奇幻猫类世界，幻想程度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.68,
+          "explanation": "角色间的幽默互动、取得阶段性胜利以及轻松明快的画风，常传递出喜悦的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.42,
+          "explanation": "部分角色的背景故事带有感伤色彩，或面临牺牲时刻，但仍以积极情绪为主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.28,
+          "explanation": "作品核心主轴是团队作战，成员间羁绊很深，隔离或孤独感很少出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.52,
+          "explanation": "伙伴间的相互信任和支持是贯穿始终的暖色调，中和了激烈冲突带来的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.35,
+          "explanation": "反派的压迫感或混沌力量的侵蚀会制造出恐惧氛围，但通常很快被主角的勇气化解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.62,
+          "explanation": "高频的战斗场面和任务的时间紧迫性，持续制造出令人屏息的紧张情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.58,
+          "explanation": "独特的京剧化打斗编排与“韵力”的视觉特效，给观众带来强烈的视觉审美和惊叹感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "作品对传统戏曲元素的现代化包装，可能会让熟悉京剧的观众产生一定的怀旧反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.72,
+          "explanation": "净化混沌、重振猫土的终极目标为整个故事定下了充满希望的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.25,
+          "explanation": "作品整体情绪昂扬向上，纵有低谷也服务于角色的爆发式成长，鲜少沉溺于忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.30,
+          "explanation": "角色对邪恶势力的愤慨是战斗的驱动力之一，但愤怒本身并非被过度渲染的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.40,
+          "explanation": "仅在任务间隙或描绘未被侵蚀的地域时，才会呈现片刻的安宁与平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.72,
+          "explanation": "动画色彩鲜艳，角色设计融合京剧服饰与脸谱，场景设计具有东方式的装饰美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.25,
+          "explanation": "无论是角色造型的复杂头饰与袍服，还是幻想场景的构建，都倾向于丰富而非极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.30,
+          "explanation": "审美倾向于古典华丽与戏曲精致感，而非现代物质意义上的奢华。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.38,
+          "explanation": "混沌及其控制的领地呈现出阴暗诡异的视觉风格，但大多数场景都以明亮色彩为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.78,
+          "explanation": "角色热血活泼的性格，以及大部分场景的高饱和度用色，共同奠定了明亮的视觉基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.55,
+          "explanation": "奇幻的猫土世界和京剧化的表现主义手法，带来一定的非现实梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.48,
+          "explanation": "有关韵力的顶级奥义、反派的背景秘密以及猫土历史传闻，营造了适度的神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.22,
+          "explanation": "艺术风格在商业动画框架内稳定统一，融合戏曲元素的手法并非前卫实验性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "京剧的音乐、念白、打斗程式是作品的核心美学标签，赋予其强烈的古典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.42,
+          "explanation": "虽然载体是现代动画，但核心美学深受传统戏曲影响，现代感更多体现在叙事节奏上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.48,
+          "explanation": "主要采用线性叙事推进收集与成长的旅程，构成单元故事与主线交织的适中复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.52,
+          "explanation": "主要角色具有独特的身世、性格缺陷与成长动机，但其深度服务于少年向动画的清晰定位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.82,
+          "explanation": "主角白糖从菜鸟成长为真正的英雄，无论在韵力掌控还是心智成熟度上都有极为明显的成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.72,
+          "explanation": "作品详细设定了十二宗、韵力、混沌等猫土世界的基本规则、历史与地域文化体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "叙事严格按照时间顺序推进，极少使用倒叙或闪回，更不会出现多时间线并行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.35,
+          "explanation": "叙事节奏偏快，强调事件驱动和战斗场面，以吸引注意力而非让观众缓慢沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.68,
+          "explanation": "京剧式武打作为核心卖点之一，几乎每集都会设计高强度的动作戏和技能对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.72,
+          "explanation": "正邪对立的冲突非常明确且激烈，从身体对抗到精神意志层面的较量呈现高强度的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.35,
+          "explanation": "偶尔探讨信念与传承的意义，但核心仍是热血冒险，避免进行深奥的哲学论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.45,
+          "explanation": "重视个人能力提升和独特天赋的开发，但个人英雄主义被团队精神所约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.68,
+          "explanation": "星罗班作为一个集体行动单元，不断强调为了团队荣誉和共同目标而战的理念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.35,
+          "explanation": "部分角色的身世涉及家庭背景，但原生家庭关系不是故事的核心纽带，师徒关系更为突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.82,
+          "explanation": "伙伴间的坚定友情是贯穿作品的最强情感纽带，也是角色们克服困难的力量源泉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.15,
+          "explanation": "故事完全不涉及浪漫爱情，所有情感关系全部集中在友情与师门情谊上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.65,
+          "explanation": "主角团经常为了解救被混沌控制的城镇或宗门而战，与隶属的群体有紧密的社会互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.55,
+          "explanation": "存在不同宗派间的切磋比试，以及角色为变强而不断挑战强敌的竞争机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.72,
+          "explanation": "战斗极度依赖不同角色能力的配合与战术协作，强调团队合作远胜于单打独斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.50,
+          "explanation": "师徒传承、宗派等级和正邪势力压制，构成了一套明确的力量与权力互动关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.62,
+          "explanation": "主角白糖对自己京剧猫身份的认同，以及寻找自身独特之处的旅程是重要的角色内在驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "主角的主要目标是保护现存秩序而非反抗束缚，自由不是作品主要争夺的价值观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.58,
+          "explanation": "恢复被混沌破坏的猫土秩序，维护十二宗所代表的平衡是主角团行动的根本目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.40,
+          "explanation": "剧情中存在对反派阴谋的揭露，但追寻真相并非推动主角前进的核心动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.70,
+          "explanation": "京剧艺术的形体美、服饰美和音乐美是作品极力展现和推崇的核心价值之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.68,
+          "explanation": "习得新韵力、击败强敌、提升在宗派中的地位等外在成就激励着角色不断成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.75,
+          "explanation": "故事的主旋律即是为正义而战，拯救被邪恶侵蚀的无辜生灵，正义感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.62,
+          "explanation": "前辈角色或伙伴为保护他人而甘愿牺牲的情节反复出现，展现了牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.48,
+          "explanation": "角色在冒险中认识自己的优缺点并建立自信，但其驱动更多是任务导向而非内向探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.72,
+          "explanation": "对京剧艺术的传承与尊敬，以及对十二宗悠久历史的展现，凸显了传统的崇高地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "角色通过自身努力改变被混沌侵袭的世界，并在此过程中实现自我的变革与进步。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.52,
+          "explanation": "在残酷的战斗和混沌的侵蚀威胁下，守护猫土与星罗班成员的生存是进行一切行动的基础。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "通过与伙伴共同为崇高目标奋斗，角色找到了超越个人的生命意义，即守护与传承。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.58,
+          "explanation": "主角白糖天然带有强烈的好奇心，驱动团队探索未知的猫土区域和新的韵力法门。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "角色主要是既有能力的学习者和使用者，较少进行从无到有的创造发明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.78,
+          "explanation": "离开安逸环境到未知区域执行危险任务、挑战强敌，构成了角色的主要行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.30,
+          "explanation": "角色在犯错后会进行简单总结，但行为风格整体偏向冲动和行动优先。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.55,
+          "explanation": "不断与同期学员比武切磋，以及与敌方势力的对抗，构成了充满竞争性的环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.62,
+          "explanation": "结交新朋友、融入新的宗派团体、寻求盟友帮助是完成任务和成长的关键社交行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.65,
+          "explanation": "京剧韵力的修炼要求严格的功法练习和身体协调，映射出高度纪律性的行为要求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.62,
+          "explanation": "面对实力远超自己的敌人或深入未知险境时，主角往往选择正面迎击，承担极高风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.28,
+          "explanation": "热血系的战斗风格与主角白糖张扬的个性，决定了冷静克制的行为不是核心表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.18,
+          "explanation": "故事始终歌颂迎难而上，几乎没有角色会选择从自身责任或战斗中长久逃离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "打斗特效华丽，戏曲动作大开大合且色彩饱满，给观众带来强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.78,
+          "explanation": "角色脸谱与戏曲服装使用高纯度、多样化的色彩搭配，形成了极为丰富的色彩体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.70,
+          "explanation": "融合京剧锣鼓点作为打斗节奏，配合主题曲和激昂配乐，听觉表现力强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.72,
+          "explanation": "战斗节奏紧凑，剪辑速度快，配乐与动作高度合拍，提供了极高的动能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.68,
+          "explanation": "戏曲元素的加入成功地将传统的剧场仪式感与紧张激烈的冒险氛围融合在一起。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "宏大的世界观与独特的美学体系能有效将观众拉入一个自成一体的猫土武侠幻境。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.episode_dependency",
+          "score": 0.55,
+          "explanation": "单元剧和主线并存的模式，使单独一集的故事有一定独立性，但整体依赖连续收看。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.long_term_character_growth",
+          "score": 0.85,
+          "explanation": "作为长篇电视动画，角色在数百集的跨度中，从外貌、能力到心境都有极为细致和持续的演变。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.relationship_complexity",
+          "score": 0.58,
+          "explanation": "固定的主角团队与新加入角色之间，形成了多重的竞争、师徒与友情关系网。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.world_expansion",
+          "score": 0.72,
+          "explanation": "随着季数的推进，地图和十二宗设定不断被发掘，猫土世界的全貌被分层级地展开。"
+        },
+        {
+          "dimensionPath": "media_vector.tv_series_vector.season_progression",
+          "score": 0.68,
+          "explanation": "剧集具备明确的季播概念，每一季都有清晰的阶段性Boss与任务，并串联成完整的成长阶梯。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "《京剧猫》为观众提供了一种兼具传统文化认同感与热血冒险刺激的复合体验。核心体验源于见证一个看似弱小但信念坚定的主角，在同伴的协助下不断克服远超自身极限的挑战。观赏过程中，观众的情绪跟随高频率的京剧化战斗而起伏，感受正义必胜的爽快感，并享受伙伴间纯粹信任关系带来的温暖。",
+        "structure_description": "作品采用经典的长篇电视动画连载结构，主线通过收集韵力、净化混沌的阶段性任务紧密串联。每一季作为一个成长阶梯，单元冒险中穿插世界观的扩展和角色的新技能习得。叙事结构高度依赖京剧的程式化节奏来编排武戏，使得打斗本身具有观赏的韵律与章法。",
+        "cognitive_expression": "作品鼓励观众进行适度的系统化认知，去记忆和理解十二宗体系、韵力属性克制关系以及角色技能树。同时，作品富含大量京剧文化符号，引导观众进行联想式学习，将传统戏剧元素与动画表现关联起来。故事强烈依赖因果链条，观众被鼓励跟随主角的视角去推理如何击败强敌和破解危局。",
+        "behavioral_tendency_description": "作品强烈地激励外向的行动导向，角色几乎总是通过主动出击、刻苦训练和勇于担当来解决问题，这容易引起观众对积极进取的共鸣。社交合作的倾向被置于个人表现之上，角色通过融入集体来获取力量，这也映射出协作行为的重要性。此外，面对强权和困境时选择坚持不退缩的韧性，是作品一以贯之的行为召唤。"
+      },
+      "personality_affinity": {
+        "Ni": 0.38,
+        "Ne": 0.58,
+        "Ti": 0.40,
+        "Te": 0.65,
+        "Fi": 0.52,
+        "Fe": 0.72,
+        "Si": 0.48,
+        "Se": 0.78,
+        "openness": 0.70,
+        "conscientiousness": 0.68,
+        "extraversion": 0.75,
+        "agreeableness": 0.62,
+        "neuroticism": 0.35,
+        "Assertive": 0.72,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "故事以十二宗体系为核心设定，形成了一个完整的猫土宗派世界。",
+        "主角白糖所属的星罗班由四个背景各异的成员组成。",
+        "韵力是角色进行战斗、凝练功法的核心超自然能量。",
+        "反派“黯”通过在世界散播混沌来侵蚀和占领猫土的各个地域。",
+        "主角的造型与施法动作结合了京剧武生与小生的程式化表演。",
+        "打斗配合锣鼓点进行节奏编排，并伴以“呛呛切”的戏曲拟声词。",
+        "角色的脸谱颜色直接反映了其宗门属性与性格特征。",
+        "团队执行任务时，经常需要依靠不同宗派韵力的配合。",
+        "作品涉及大量宗门历史、身法口诀等传统技艺的传承。",
+        "白糖从最初基础薄弱的新手，成长为能独当一面的团队核心。",
+        "在执行任务的漫长旅途中，角色通过密集战斗进行修炼与突破。",
+        "混沌掌控下的区域常呈现深紫色调与崩坏的建筑景观。",
+        "伙伴间的信任与默契是激发韵力潜能、跨越生死危机的钥匙。",
+        "守护猫土免受黑暗侵蚀是贯穿始终的崇高集体使命。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

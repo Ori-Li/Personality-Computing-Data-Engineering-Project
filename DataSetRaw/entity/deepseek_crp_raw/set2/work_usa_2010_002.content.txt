@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_2010_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "克莱伯恩公园",
+        "type": "STAGE",
+        "countryName": "美国",
+        "year": 2010,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《克莱伯恩公园》是布鲁斯·诺里斯的普利策奖获奖话剧，通过同一栋房子在1959年和2009年两次易主的结构，将两个时代的社区种族冲突并置。第一幕围绕白人家庭搬离黑人迁入的社区展开争议，第二幕则是白人家庭试图搬入已变为黑人社区的同一街区所引发的矛盾。作品以犀利对话揭示美国社会根深蒂固的种族偏见、社区隔离和言语禁忌，通过跨时空对应呈现历史变迁与结构性问题依然存在的现实。",
+        "themes": [
+          "种族",
+          "社区",
+          "偏见",
+          "历史变迁",
+          "身份认同",
+          "家庭",
+          "社会制度"
+        ],
+        "keywords": [
+          "芝加哥",
+          "房地产",
+          "种族隔离",
+          "中产阶级",
+          "白人迁移",
+          "绅士化",
+          "邻里关系",
+          "普利策奖",
+          "托尼奖",
+          "跨时空结构",
+          "黑色喜剧"
+        ],
+        "core_experience": "观众在犀利而紧张的对话中见证种族偏见与社交尴尬的反复碰撞，通过两幕跨时空的对称结构感受历史进步表象之下结构性问题仍在延续的沉重与讽刺，在笑声与不安交替中被迫反思自身对种族和社区的态度。",
+        "experience_introduction": "《克莱伯恩公园》将观众置于两个时代的同一物理空间，第一幕以1959年白人社区的集体焦虑和委婉的种族话语构建压抑氛围，第二幕以2009年表面开明但言语间充满禁忌和伪善的对话打破这种压抑。两幕之间形成精确的结构对称，人物身份互换、话题轮回，使观众在黑色幽默中逐渐意识到偏见并未消失而只是转移了形式。剧场现场感强化了这种社交紧张和集体尴尬，让每位观众都成为这个社区争吵的在场者。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.10,
+        "awe": 0.15,
+        "nostalgia": 0.65,
+        "reflection": 0.92,
+        "romance": 0.05,
+        "tension": 0.88,
+        "warmth": 0.20,
+        "loneliness": 0.55,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.70,
+          "complexity": 0.78,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.82,
+          "novelty": 0.72,
+          "exploration": 0.45,
+          "ambiguity": 0.65,
+          "predictability": 0.25,
+          "information_density": 0.68,
+          "learning_value": 0.88
+        },
+        "worldview": {
+          "personal_scale": 0.40,
+          "relationship_scale": 0.72,
+          "social_scale": 0.90,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.05,
+          "time_span": 0.70,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.55,
+          "loneliness": 0.55,
+          "warmth": 0.20,
+          "fear": 0.40,
+          "tension": 0.88,
+          "awe": 0.15,
+          "nostalgia": 0.65,
+          "hope": 0.30,
+          "melancholy": 0.60,
+          "anger": 0.50,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.25,
+          "minimalism": 0.78,
+          "luxury": 0.05,
+          "darkness": 0.60,
+          "brightness": 0.15,
+          "dreamlike": 0.05,
+          "mystery": 0.30,
+          "experimental": 0.50,
+          "classical": 0.55,
+          "modern": 0.65
+        },
+        "narrative": {
+          "plot_complexity": 0.80,
+          "character_depth": 0.82,
+          "character_growth": 0.35,
+          "world_building": 0.40,
+          "nonlinear_structure": 0.85,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.20,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.65,
+          "collectivism": 0.55,
+          "family": 0.60,
+          "friendship": 0.35,
+          "love": 0.30,
+          "community": 0.85,
+          "competition": 0.60,
+          "cooperation": 0.35,
+          "power_relationship": 0.78,
+          "identity": 0.88
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.55,
+          "truth": 0.80,
+          "beauty": 0.15,
+          "achievement": 0.30,
+          "justice": 0.75,
+          "sacrifice": 0.35,
+          "self_exploration": 0.55,
+          "tradition": 0.55,
+          "change": 0.70,
+          "survival": 0.40,
+          "meaning": 0.72
+        },
+        "behavior": {
+          "curiosity": 0.40,
+          "creation": 0.15,
+          "adventure": 0.10,
+          "reflection": 0.92,
+          "competition": 0.60,
+          "social": 0.55,
+          "discipline": 0.30,
+          "risk": 0.35,
+          "calm": 0.12,
+          "escape": 0.20
+        },
+        "sensory": {
+          "visual_intensity": 0.50,
+          "color_richness": 0.35,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.70,
+          "atmosphere": 0.85,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.88,
+          "actor_expression": 0.82,
+          "body_expression": 0.45,
+          "audience_interaction": 0.75,
+          "performance_intensity": 0.78,
+          "ritual_sense": 0.50
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "对话驱动的结构强调理性辩论与社会观察，情感烈度集中于紧张而非激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "作品持续暴露偏见与冲突，结局并未提供和解或治愈的叙事出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "以室内对话为主，缺少视觉奇观或宏大场景来引发敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.65,
+          "explanation": "第一幕完全还原1959年的时代氛围和话语方式，第二幕对照当下变迁产生怀旧对照。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "全剧核心即迫使观众反思种族偏见与社会结构，对话本身构成持续的思辨触发。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "剧情围绕房产交易与社区冲突展开，几乎不涉及浪漫情感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.88,
+          "explanation": "两幕均以社交禁忌与潜在冲突构建持续紧张氛围，尴尬和愤怒交替升级。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.20,
+          "explanation": "角色关系以对抗和分歧为主，温暖时刻非常有限且常被打破。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.55,
+          "explanation": "角色在社区变动中普遍流露孤立感和被误解的感受，尤其在身份转换关头。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "跨时空对应暗示变化微小，结局的开放性中包含含蓄希望但整体以讽刺为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.70,
+          "explanation": "两幕结构本身是抽象的社会隐喻，对话中的种族话题多以委婉、暗示和潜台词传递。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.78,
+          "explanation": "角色关系、历史语境、话语禁忌与跨时空对应构成多层意义网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品直指种族偏见的结构性根源和代际传递，要求观众进行深层社会反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.82,
+          "explanation": "两幕之间人物、对话和情境形成高度对称的对应结构，逻辑框架严谨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.72,
+          "explanation": "以同一空间跨时空并置揭示种族问题延续性的结构在当代戏剧中具有鲜明独创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.45,
+          "explanation": "场景集中于一栋房子的室内空间，探索主要体现在社会心理层面而非地理或概念拓展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.65,
+          "explanation": "角色动机和立场常含矛盾，观众持续面对道德灰色地带而非明确是非。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "跨时空对称结构的设计使后半段有一定预见性，但具体对话的爆发点仍出乎意料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.68,
+          "explanation": "对话承载大量社会历史信息和潜台词，但舞台空间的简练限制了信息密度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.88,
+          "explanation": "作品提供美国种族关系史、社区变迁和话语政治的直接素材，具有高度认知教育价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.40,
+          "explanation": "虽然角色各有私人困境，但重心始终在群体和社会层面而非个体内在世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.72,
+          "explanation": "邻里、夫妻、代际关系是冲突的直接载体，对话始终围绕人际关系展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.90,
+          "explanation": "整个冲突即美国社会种族和阶级结构的缩影，社会层面是贯穿始终的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "涉及美国历史和制度性偏见，但始终锚定在特定社区而非全球或文明层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "全剧限定在现实社会冲突内，不涉及宇宙或存在层面的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.70,
+          "explanation": "两幕相隔五十年，结构上将历史与当下直接并置，形成中长期的时间跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.00,
+          "explanation": "作品严格以现实主义为基础，不含任何超自然或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "黑色喜剧带来的笑声伴随苦涩，缺乏真正轻松愉悦的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "跨时空对比揭示希望落空与偏见延续，整体弥漫一种无力与悲哀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.55,
+          "explanation": "角色多次表达被社区排斥或无法被理解的孤独，尤其在身份夹缝中更为突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.20,
+          "explanation": "角色间敌意和防御占主导，温暖只偶尔闪现且迅速被紧张气氛覆盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.40,
+          "explanation": "社区变动引发角色对未来和陌生他者的恐惧，以防御性言辞表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.88,
+          "explanation": "从对话节奏到主题本身，紧张是统领全剧的主要情绪体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.15,
+          "explanation": "舞台形式简明，不以奇观或震撼场面制造敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.65,
+          "explanation": "第一幕的1950年代细节和第二幕对过去的指涉持续唤起怀旧与失落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.30,
+          "explanation": "结局留有微弱希望但整体被讽刺和历史重复的沉重压倒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.60,
+          "explanation": "两个时代都笼罩在失去和变动带来的忧郁中，角色对过往社区怀有怅惘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.50,
+          "explanation": "角色在压抑中积累愤怒，在冲突高潮处爆发，但整体以紧张而非宣泄性愤怒为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "全剧几乎不提供平静时刻，对话始终处于冲突或潜在冲突状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.25,
+          "explanation": "舞台美学偏向现实主义与功能性，不求装饰性美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.78,
+          "explanation": "场景集中于单一室内空间，道具和布景简洁，依赖对话和表演支撑戏剧效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "中产阶级家庭室内为背景，整体远离奢华美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.60,
+          "explanation": "主题的沉重和对话中的冲突赋予作品显著的暗色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "虽有喜剧元素但整体情绪和主题偏暗，不追求明快感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "严格遵循现实主义逻辑，无梦境或幻觉场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.30,
+          "explanation": "部分角色动机和社区历史有未言明之处，但非悬疑类型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.50,
+          "explanation": "跨时空对称结构和同一演员饰演两幕对应角色具有实验性，但仍保留传统叙事框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.55,
+          "explanation": "第一幕遵循经典客厅剧传统，整体叙事结构具有古典对称美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.65,
+          "explanation": "第二幕的语言、话题和跨时空结构明显偏现代戏剧美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.80,
+          "explanation": "两幕之间的人物对应、话题呼应和象征重复构成复杂的叙事织体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "角色在对话中逐渐暴露多层动机、偏见和脆弱，具有丰富内在层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.35,
+          "explanation": "角色在一幕内的认识有所变化，但跨时空结构暗示本质态度难以根本转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.40,
+          "explanation": "世界建构限于通过对话暗示社区历史，未展开完整的虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.85,
+          "explanation": "两幕相隔五十年构成非线性时间跳跃，第二幕映射和回响第一幕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "第一幕开场以日常对话铺垫社区紧张，需要观众耐心进入情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.20,
+          "explanation": "全剧几乎无身体动作冲突，冲突全部通过对话实现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "两幕均围绕激烈的社会冲突展开，对话充满攻击、防御和对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "作品通过具体房产交易探讨种族正义、历史责任和言语权力等深层哲学议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.65,
+          "explanation": "角色普遍从个人利益和家庭立场出发行动，个人权利主张占突出位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.55,
+          "explanation": "社区身份和群体归属贯穿始终，但常以对抗形式出现，集体认同感脆弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.60,
+          "explanation": "两幕均以家庭为基本单元展示立场分歧，家庭关系是冲突的微观载体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.35,
+          "explanation": "邻里关系更多体现为利益共同体或对抗体，真正友谊描写有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.30,
+          "explanation": "夫妻关系存在但处于从属地位，非全剧焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.85,
+          "explanation": "社区是核心议题，买卖房屋触及整个社区的身份和权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.60,
+          "explanation": "角色围绕房产、社区控制权和话语权展开持续竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.35,
+          "explanation": "联盟多为临时性利益结盟，缺乏真诚合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.78,
+          "explanation": "种族、产权和话语权构成多重权力关系，对话即权力博弈的场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.88,
+          "explanation": "种族身份和社区身份是贯穿全剧的核心冲突来源，角色持续界定自我与他者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "个人选择权受社区压力限制是隐含议题，但非核心价值主张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "角色普遍渴望社区稳定和规则明确，但秩序本身隐含排斥功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.80,
+          "explanation": "作品致力于暴露话语禁忌和伪善之下的真相，迫使角色和观众面对真实偏见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.15,
+          "explanation": "美学追求次要，核心价值在于社会批判和真相揭示而非形式之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "角色偶有事业提及但非主题核心，社会认可和成功的追求不占主要位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.75,
+          "explanation": "社区公平、种族正义和资源分配正义是贯穿两幕的核心争议。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.35,
+          "explanation": "角色付出代价的描写存在，但多出于被动而非主动牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "角色在冲突中被迫审视自身立场和偏见，自我认识是暗线之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.55,
+          "explanation": "社区传统和既有秩序是第一幕的核心维护对象，第二幕则涉及传统社区的变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.70,
+          "explanation": "社区变迁和人口流动是驱动两幕情节的根本动力，变革的抵抗与接受并置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.40,
+          "explanation": "角色维护的是社会地位和生活方式而非生理生存，生存感隐喻存在但不显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.72,
+          "explanation": "作品追问社区的意义、身份的意义和历史的走向，意义探索是深层驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.40,
+          "explanation": "角色对邻居他者更多是防御而非好奇，但观众被推动保持智力好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "未涉及艺术或创造相关行为，角色行动以社会互动为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "场景固定于室内，缺乏探索或冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.92,
+          "explanation": "整个观看体验即持续反思，角色争论推动观众不断审视自身立场。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.60,
+          "explanation": "角色在房产和话语权上展开竞争，行为模式以竞争性辩论为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.55,
+          "explanation": "全剧围绕社交互动展开，但社交更多体现为对抗而非联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "无明显的纪律或自我约束主题，行为表达较自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.35,
+          "explanation": "角色在表达真实想法时承担社交风险，但非核心行为驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.12,
+          "explanation": "场景几乎始终处于情绪激荡或紧张状态，平静罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.20,
+          "explanation": "角色更多是面对而非逃避冲突，逃避行为非主要表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.50,
+          "explanation": "舞台视觉集中于室内布景和演员表演，视觉刺激中等偏克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.35,
+          "explanation": "现实主义舞美通常色调自然克制，不为视觉冲击而设计丰富色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "对话节奏密集且情绪激烈，声音层面的强度主要来自语言而非音效。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.70,
+          "explanation": "两幕均有明显的节奏推进，对话交锋形成持续的戏剧节奏和能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "封闭室内空间和持续的社交紧张构建了高度统一的压抑氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "现场表演和紧凑对话使观众沉浸于社区冲突情境，但间离性的幽默保持一定距离。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.88,
+          "explanation": "演员的即时表演和观众在同一空间的集体体验是作品力量的核心，现场感极强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.82,
+          "explanation": "台词密度高且情感层次丰富，演员的面部表情和语调节奏是传达冲突的关键。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.45,
+          "explanation": "以对话和面部表演为主，非肢体剧场，身体动作服务于日常行为而非表现核心。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.75,
+          "explanation": "紧张的对话和种族话题频繁打破第四面墙的心理界限，观众被迫成为沉默的参与者。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.78,
+          "explanation": "两幕均包含争辩、爆笑和情绪爆发时刻，表演强度保持在高位。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.50,
+          "explanation": "两幕对称结构具有仪式化特征，但表演风格偏向自然主义，仪式感中等。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在紧张而讽刺的对话中体验社交禁忌不断被冒犯的集体尴尬，两个时代的并置强化了历史重复的荒诞感。笑声与不安交替出现，迫使观众在苦涩的黑色幽默中面对种族话语的演变与僵化。整体体验以持续的认知紧张和社会反思为主，缺乏轻松或宣泄的出口。",
+        "structure_description": "两幕结构以同一栋房子相隔五十年的两次易主形成严格对称，第一幕的每个元素都在第二幕中找到变形后的对应。这种并置创造了历史的回响效果，让观众自行发现偏见形式的转移而非消失。时序跳跃和人物对应构成作品的基本叙事骨架。",
+        "cognitive_expression": "作品鼓励观众进行抽象社会分析，将具体对话事件解读为结构性问题的表征。多层潜台词、暗示和禁忌话语要求持续推理和语境解读，观众需要同时处理角色心理动机、社会历史背景和戏剧结构本身的多重信息。",
+        "behavioral_tendency_description": "观看过程强化社会反思和批判性审视的倾向，鼓励在舒适区之外面对不愉快的真相。观众被引导采取主动解读的立场而非被动接受，在笑声中警惕自身的隐性偏见。作品最终导向持续的社会自省而非行动号召或情绪宣泄。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.35,
+        "Ti": 0.78,
+        "Te": 0.50,
+        "Fi": 0.55,
+        "Fe": 0.65,
+        "Si": 0.60,
+        "Se": 0.30,
+        "openness": 0.85,
+        "conscientiousness": 0.50,
+        "extraversion": 0.40,
+        "agreeableness": 0.45,
+        "neuroticism": 0.70,
+        "Assertive": 0.30,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "第一幕故事设定在1959年，围绕一户白人家庭搬离即将有黑人家庭迁入的社区展开争议。",
+        "第二幕跳跃至2009年，同一栋房子成为白人家庭试图搬入黑人社区的争议焦点。",
+        "两幕发生在同一栋房子的客厅内，舞台空间不变但时间跨越五十年。",
+        "两幕中角色数量和关系结构高度对应，同一演员在两幕中分饰不同角色。",
+        "对话中频繁出现种族相关的委婉语、潜台词和社交禁忌表达。",
+        "角色在1959年的讨论中普遍回避直接使用种族词汇而采用暗示性表述。",
+        "2009年场景中角色表面上使用更进步的语言，但在压力下暴露偏见。",
+        "两幕均以房产买卖为导火索，逐步升级为关于社区和身份的全面对峙。",
+        "角色在激烈的群体争吵中轮番主导话语权，权力关系随对话动态变化。",
+        "对话中包含大量关于社区边界、房产价值和邻里资格的讨论。",
+        "第二幕开场时角色正在讨论第一幕中发生的事件，形成历史回响。",
+        "作品通过角色之口呈现多个历史时期芝加哥社区种族变迁的具体信息。",
+        "黑色喜剧元素穿插于严肃冲突之中，通过尴尬情境引发不安的笑声。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

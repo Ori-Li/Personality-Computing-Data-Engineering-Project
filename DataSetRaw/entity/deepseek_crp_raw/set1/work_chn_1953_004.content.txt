@@ -1,0 +1,719 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1953_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "甜蜜蜜",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 1979,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.95,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "歌曲以印尼民谣旋律为基底，庄奴填词，邓丽君柔美演唱，描绘与恋人相遇时涌现的甜蜜幸福感。结构简洁，旋律流畅易记，通过重复的‘甜蜜蜜’句式强化愉悦氛围，成为华语流行音乐的经典爱情颂歌，跨越时代和地域广泛传唱。",
+        "themes": [
+          "爱情",
+          "幸福",
+          "甜蜜",
+          "怀旧",
+          "美好"
+        ],
+        "keywords": [
+          "邓丽君",
+          "民谣旋律",
+          "庄奴",
+          "甜蜜蜜",
+          "微笑",
+          "春风",
+          "爱情意象",
+          "华语流行",
+          "经典金曲"
+        ],
+        "core_experience": "轻柔甜美的旋律和歌词唤起纯粹的恋爱喜悦，如同置身温暖春风中，感到安心的甜蜜与幸福。",
+        "experience_introduction": "《甜蜜蜜》以简朴的民谣旋律和温柔唱腔，营造出恋人相遇时毫无保留的甜蜜氛围。听众在聆听时，情绪被柔和的声线包裹，记忆与想象交织，生发出对美好爱情的向往与宁静的满足感，几乎不携带任何冲突或复杂性，是一种纯粹的情感抚慰。"
+      },
+      "experience_vector": {
+        "passion": 0.6,
+        "healing": 0.8,
+        "awe": 0.1,
+        "nostalgia": 0.9,
+        "reflection": 0.2,
+        "romance": 0.95,
+        "tension": 0.05,
+        "warmth": 0.9,
+        "loneliness": 0.1,
+        "hope": 0.7
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.2,
+          "complexity": 0.15,
+          "depth_of_thought": 0.15,
+          "logical_structure": 0.15,
+          "novelty": 0.3,
+          "exploration": 0.1,
+          "ambiguity": 0.1,
+          "predictability": 0.9,
+          "information_density": 0.2,
+          "learning_value": 0.4
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.9,
+          "social_scale": 0.1,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.0,
+          "time_span": 0.1,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.95,
+          "sadness": 0.1,
+          "loneliness": 0.1,
+          "warmth": 0.9,
+          "fear": 0.0,
+          "tension": 0.0,
+          "awe": 0.15,
+          "nostalgia": 0.9,
+          "hope": 0.7,
+          "melancholy": 0.1,
+          "anger": 0.0,
+          "peace": 0.65
+        },
+        "aesthetic": {
+          "beauty": 0.85,
+          "minimalism": 0.75,
+          "luxury": 0.1,
+          "darkness": 0.0,
+          "brightness": 0.9,
+          "dreamlike": 0.3,
+          "mystery": 0.05,
+          "experimental": 0.1,
+          "classical": 0.55,
+          "modern": 0.4
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.0,
+          "character_growth": 0.0,
+          "world_building": 0.0,
+          "nonlinear_structure": 0.0,
+          "slow_immersion": 0.5,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.0,
+          "philosophical_depth": 0.1
+        },
+        "social_relationship": {
+          "individualism": 0.25,
+          "collectivism": 0.3,
+          "family": 0.15,
+          "friendship": 0.2,
+          "love": 0.95,
+          "community": 0.2,
+          "competition": 0.0,
+          "cooperation": 0.1,
+          "power_relationship": 0.0,
+          "identity": 0.3
+        },
+        "value": {
+          "freedom": 0.2,
+          "order": 0.15,
+          "truth": 0.2,
+          "beauty": 0.85,
+          "achievement": 0.05,
+          "justice": 0.0,
+          "sacrifice": 0.1,
+          "self_exploration": 0.2,
+          "tradition": 0.35,
+          "change": 0.1,
+          "survival": 0.05,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.1,
+          "creation": 0.1,
+          "adventure": 0.05,
+          "reflection": 0.2,
+          "competition": 0.0,
+          "social": 0.35,
+          "discipline": 0.1,
+          "risk": 0.0,
+          "calm": 0.7,
+          "escape": 0.3
+        },
+        "sensory": {
+          "visual_intensity": 0.25,
+          "color_richness": 0.2,
+          "sound_intensity": 0.45,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.85,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行/民谣",
+          "tempo": 0.35,
+          "energy": 0.3,
+          "vocal_style": "柔美婉转",
+          "instrumentation": "钢琴、弦乐、吉他等轻伴奏",
+          "production_style": "1970年代华语流行制作，温暖模拟录音质感",
+          "lyrical_theme": "爱情甜蜜",
+          "emotional_scene": "宁静、幸福",
+          "cultural_context": "1970年代末华语流行乐坛，东南亚民谣融合"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.6,
+          "explanation": "歌曲表现出对恋爱的热忱与向往，但表达方式温和而非激烈。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.8,
+          "explanation": "柔和的旋律与甜美的声线具有明显的情绪安抚作用。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "整体氛围亲切日常，缺乏宏大或令人敬畏的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.9,
+          "explanation": "作为华语经典老歌，极易唤起时代记忆与怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.2,
+          "explanation": "内容浅显直接，不引导深度思考或自我审视。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.95,
+          "explanation": "全曲聚焦于爱情初遇的甜美，浪漫温暖是核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.05,
+          "explanation": "歌词与编曲均无冲突、对立或悬念。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.9,
+          "explanation": "温柔唱腔与明亮旋律持续传递亲密温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.1,
+          "explanation": "歌曲始终处于‘相遇’的甜蜜中，几乎没有孤独色彩。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.7,
+          "explanation": "歌词与旋律共同传递出对美好爱情的积极期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.2,
+          "explanation": "歌词与主题十分具象，直接描绘甜蜜感受，无需抽象理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.15,
+          "explanation": "和声与结构简单，无复杂转调或多层含义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.15,
+          "explanation": "不涉及哲学、社会或深层心理议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "结构为常见的AABA曲式，没有精细的逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.3,
+          "explanation": "在当时融合印尼民谣较有新意，但整体形式传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.1,
+          "explanation": "歌曲不提供对未知世界或新观点的认知探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.1,
+          "explanation": "情感表达清晰明了，几乎不存在多元解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.9,
+          "explanation": "旋律与歌词走向高度可预期，听感舒适流畅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.2,
+          "explanation": "每句歌词信息量较低，以情感重复为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.4,
+          "explanation": "可了解邓丽君演唱风格和时代流行文化，但知识承载有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "完全是个人情感世界的投射，聚焦恋人之间的甜蜜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.9,
+          "explanation": "核心围绕亲密关系展开，几乎不涉及更广社会层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.1,
+          "explanation": "画面封闭于私人时刻，社会背景完全隐去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "无对文明、历史或文化脉络的指涉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.0,
+          "explanation": "没有任何宇宙或超验维度的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.1,
+          "explanation": "仿佛凝固在相遇的瞬间，时间跨度极短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "写实的情境描写，不存在幻想或超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.95,
+          "explanation": "全曲弥漫着几乎不掺杂质的喜悦与满足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "旋律与唱腔全然温暖，没有悲伤的触发点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.1,
+          "explanation": "‘在一起’的情绪占主导，孤独感几乎为零。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.9,
+          "explanation": "声音与编曲持续释放亲近、包容的暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.0,
+          "explanation": "没有任何恐怖、紧张或不安的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.0,
+          "explanation": "音乐和歌词均未营造悬疑或压力情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.15,
+          "explanation": "亲切感远胜于宏大震撼感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.9,
+          "explanation": "复古音色和时代印记强烈唤起怀旧之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.7,
+          "explanation": "对爱情的憧憬与乐观让歌曲充满希望色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.1,
+          "explanation": "歌曲基调明亮，几乎没有忧郁气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全不存在愤懑或对抗性情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.65,
+          "explanation": "虽充满喜悦，但整体平静安宁，无躁动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.85,
+          "explanation": "人声与旋律高度和谐，传递出纯粹的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.75,
+          "explanation": "编曲简洁，突出人声与主旋律，不堆砌元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "制作朴实温馨，不追求华丽或奢华质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.0,
+          "explanation": "明快的曲风和歌词毫无黑暗或沉重色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.9,
+          "explanation": "整体音色与情感都如同阳光般明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.3,
+          "explanation": "虽有理想化爱情倾向，但场景仍具现实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "意境直白清晰，毫无神秘或悬疑色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "保守的传统情歌结构，无实验性尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.55,
+          "explanation": "保留民谣和传统抒情曲的古典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.4,
+          "explanation": "配器融入当时的流行元素，但骨子里并不前卫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "歌曲没有情节推进，仅描绘一个情绪片段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.0,
+          "explanation": "不刻画具体人物个性或内在矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "不存在角色成长或变化过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.0,
+          "explanation": "没有构建世界观的意图或表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.0,
+          "explanation": "线性重复的段式结构，无跳跃或倒叙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.5,
+          "explanation": "温柔缓慢的节奏使听者逐渐浸入甜蜜氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "没有任何动作或外在事件发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.0,
+          "explanation": "完全回避冲突，呈现完美和谐的情感世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.1,
+          "explanation": "不提供哲思或形而上的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.25,
+          "explanation": "体验仍属个人情感，未强调个体独立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.3,
+          "explanation": "描绘的是两人之间的‘小集体’，非社会集体主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "歌词未涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "侧重爱情而非友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "浪漫爱情是全曲唯一且绝对的核心关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.2,
+          "explanation": "不展现社区或群体互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "没有任何竞争或对抗性关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "描述的是和谐互动，但无明确合作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不存在权力支配或等级关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.3,
+          "explanation": "身份表达仅限于‘恋人’，没有深层身份探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "没有追求自由或解放的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "不探讨规则或秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.2,
+          "explanation": "情感真挚，但无对真知的探寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "以音乐之美和情感之美为最高追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "不涉及事业、成就或竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "毫无道德评判或社会正义诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "没有牺牲或奉献的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.2,
+          "explanation": "以表达爱意为主，并非自我剖析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.35,
+          "explanation": "旋律源自民谣，歌词形式传统，具有一定传统韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.1,
+          "explanation": "没有表现变革、成长或发展主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.05,
+          "explanation": "不讨论生存挣扎或基本需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "爱情被赋予人生意义，但表达简易直率。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.1,
+          "explanation": "不激发对未知的好奇或探究。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "没有创作、建造或生成的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "氛围安逸，缺乏冒险冲动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.2,
+          "explanation": "偶尔引导回忆美好，但非深刻反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "完全与竞争精神无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "适合分享和共情，但本身体验偏个人化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "不涉及自律、训练或坚持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.0,
+          "explanation": "毫无风险或冒险行为的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.7,
+          "explanation": "音乐引导内心平静，安宁从容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.3,
+          "explanation": "提供短暂脱离现实的甜蜜遐想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.25,
+          "explanation": "音乐本身不包含视觉刺激，但歌词激发简单甜蜜画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.2,
+          "explanation": "想象色彩以暖黄、浅粉为主，不丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.45,
+          "explanation": "音量柔和，唱腔轻盈，没有强烈音响冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "中慢速节拍，平稳舒缓，缺乏驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "氛围感极强，温柔甜蜜的气场贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "容易让听者沉浸在幸福情绪中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.35,
+          "explanation": "实际速度为舒缓的中慢板。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.3,
+          "explanation": "力度轻柔，缺乏动感或爆发力。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众首先被熟悉的民谣旋律吸引，随后邓丽君温柔甜美的声线包裹住情绪，唤起对美好爱情的向往和记忆。整个过程如同被暖风轻拂，内心逐渐充满甜蜜、安宁和轻微的怀旧感，几乎没有任何负面情绪干扰，是一种纯粹而持久的幸福体验。",
+        "structure_description": "歌曲采用简洁的AABA曲式，主旋律反复出现，配合重复的‘甜蜜蜜’歌词，形成记忆锚点。速度平稳，配器以钢琴和弦乐烘托，没有激烈的动态变化，结构上的重复性和可预见性共同塑造了安稳舒适的听觉旅程。",
+        "cognitive_expression": "作品几乎不要求分析性或抽象思维，听者无需解读隐喻或复杂结构，只需被动感受旋律和声音带来的情绪。认知负荷极低，大脑在识别熟悉的模式后进入放松状态，注意力集中在情感共鸣和怀旧联想上。",
+        "behavioral_tendency_description": "这首歌鼓励听众停下来、安静聆听，可能伴随微笑或轻声哼唱。它不激发行动、探索或竞争，而是引导人进入一种内在的平静和满足，适合独处放松、回忆往事或与亲密者共享温情时光。"
+      },
+      "personality_affinity": {
+        "Ni": 0.2,
+        "Ne": 0.15,
+        "Ti": 0.1,
+        "Te": 0.1,
+        "Fi": 0.85,
+        "Fe": 0.7,
+        "Si": 0.9,
+        "Se": 0.3,
+        "openness": 0.25,
+        "conscientiousness": 0.35,
+        "extraversion": 0.45,
+        "agreeableness": 0.85,
+        "neuroticism": 0.25,
+        "Assertive": 0.85,
+        "Turbulent": 0.2
+      },
+      "supporting_evidence": [
+        "歌曲旋律取自印度尼西亚民谣，由庄奴重新填词。",
+        "歌词多次重复‘甜蜜蜜’一词，直接点明幸福主题。",
+        "邓丽君使用轻柔的气声和婉转的尾音演绎。",
+        "编曲以钢琴和温暖的弦乐为主要伴奏。",
+        "发行于1979年，是邓丽君的代表作之一。",
+        "歌曲曾被多部电影和电视剧选为主题曲或插曲。",
+        "歌词描写‘你的笑容这样熟悉’等温馨细节。",
+        "整体结构为传统AABA曲式，旋律易于记忆。",
+        "邓丽君的演唱风格亲切自然，没有炫技。",
+        "唱片录音带有温暖的模拟质感。",
+        "歌曲在亚洲多个地区长期保持传唱度。",
+        "展现的爱情观是单纯、无忧无虑的甜蜜。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

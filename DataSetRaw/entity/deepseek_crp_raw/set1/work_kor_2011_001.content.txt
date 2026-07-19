@@ -1,0 +1,750 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_kor_2011_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "命运之子",
+        "type": "GAME",
+        "countryName": "KOR",
+        "year": 2016,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《命运之子》是一款以魔王候补争霸为核心的卡牌角色扮演游戏。玩家扮演继承魔王之位的候选人，召唤并驱使被称为“Child”的使魔进行战斗。游戏以精细的Live2D美术、具有吸引力的角色设计和快节奏的半自动战斗为核心体验，围绕角色收集、养成和华丽技能演出构建玩法循环。",
+        "themes": [
+          "魔王争霸",
+          "角色收集",
+          "养成",
+          "力量对抗",
+          "命运"
+        ],
+        "keywords": [
+          "魔王候补",
+          "Child使魔",
+          "Live2D",
+          "卡牌收集",
+          "实时战斗",
+          "角色养成",
+          "恶魔",
+          "契约",
+          "幻想世界"
+        ],
+        "core_experience": "通过收集和养成众多具有独特美术风格的Live2D角色，在快节奏的战斗中体验华丽视觉效果和数值成长的爽快感，同时沉浸在轻度幻想叙事中。",
+        "experience_introduction": "玩家通过抽卡和资源管理组建队伍，在视觉观赏性较强的自动战斗中见证角色的华丽技能演出，并持续通过养成系统提升角色实力。其核心吸引力来源于精美的角色插画、流畅的Live2D动态表现以及角色收集与成长的循环驱动，整体营造出一种轻松、视觉导向且具有轻微策略性的幻想冒险体验。"
+      },
+      "experience_vector": {
+        "passion": 0.45,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.05,
+        "reflection": 0.10,
+        "romance": 0.25,
+        "tension": 0.30,
+        "warmth": 0.20,
+        "loneliness": 0.10,
+        "hope": 0.25
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.35,
+          "depth_of_thought": 0.20,
+          "logical_structure": 0.45,
+          "novelty": 0.30,
+          "exploration": 0.25,
+          "ambiguity": 0.15,
+          "predictability": 0.80,
+          "information_density": 0.35,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.70,
+          "relationship_scale": 0.50,
+          "social_scale": 0.35,
+          "civilization_scale": 0.40,
+          "cosmic_scale": 0.30,
+          "time_span": 0.25,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.40,
+          "sadness": 0.15,
+          "loneliness": 0.10,
+          "warmth": 0.15,
+          "fear": 0.20,
+          "tension": 0.35,
+          "awe": 0.50,
+          "nostalgia": 0.05,
+          "hope": 0.25,
+          "melancholy": 0.10,
+          "anger": 0.15,
+          "peace": 0.20
+        },
+        "aesthetic": {
+          "beauty": 0.90,
+          "minimalism": 0.10,
+          "luxury": 0.55,
+          "darkness": 0.50,
+          "brightness": 0.60,
+          "dreamlike": 0.35,
+          "mystery": 0.40,
+          "experimental": 0.15,
+          "classical": 0.20,
+          "modern": 0.80
+        },
+        "narrative": {
+          "plot_complexity": 0.30,
+          "character_depth": 0.45,
+          "character_growth": 0.60,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.10,
+          "slow_immersion": 0.15,
+          "action_intensity": 0.65,
+          "conflict_intensity": 0.55,
+          "philosophical_depth": 0.10
+        },
+        "social_relationship": {
+          "individualism": 0.55,
+          "collectivism": 0.50,
+          "family": 0.15,
+          "friendship": 0.35,
+          "love": 0.30,
+          "community": 0.25,
+          "competition": 0.70,
+          "cooperation": 0.40,
+          "power_relationship": 0.65,
+          "identity": 0.55
+        },
+        "value": {
+          "freedom": 0.30,
+          "order": 0.35,
+          "truth": 0.15,
+          "beauty": 0.75,
+          "achievement": 0.70,
+          "justice": 0.25,
+          "sacrifice": 0.20,
+          "self_exploration": 0.20,
+          "tradition": 0.15,
+          "change": 0.45,
+          "survival": 0.40,
+          "meaning": 0.25
+        },
+        "behavior": {
+          "curiosity": 0.30,
+          "creation": 0.20,
+          "adventure": 0.40,
+          "reflection": 0.15,
+          "competition": 0.80,
+          "social": 0.25,
+          "discipline": 0.35,
+          "risk": 0.35,
+          "calm": 0.25,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.90,
+          "color_richness": 0.85,
+          "sound_intensity": 0.60,
+          "rhythm_energy": 0.70,
+          "atmosphere": 0.55,
+          "immersion": 0.60
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.40,
+          "mechanical_skill": 0.25,
+          "player_agency": 0.35,
+          "exploration_depth": 0.20,
+          "collection_system": 0.95,
+          "progression_system": 0.90,
+          "social_interaction": 0.20,
+          "competition_intensity": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.45,
+          "explanation": "战斗和收集过程能带来一定的兴奋感，但缺乏深度投入的激情驱动。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "核心玩法以竞争和战斗为主，几乎不提供治愈或安抚体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "高质量Live2D和技能特效在视觉上时常带来惊叹感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "游戏内容不具备怀旧元素，完全面向当下体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.10,
+          "explanation": "快节奏和视觉导向的设计几乎不鼓励深思或自省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.25,
+          "explanation": "存在角色互动和轻度暧昧情节，但非核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.30,
+          "explanation": "竞技排名和高难度关卡带来一定程度的心理紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.20,
+          "explanation": "角色故事中有少量温情时刻，但并非整体基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.10,
+          "explanation": "以收集和展示角色为主，很少营造孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.25,
+          "explanation": "剧情走向和角色成长包含对未来的期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "剧情和设定多为通俗易懂的善恶对抗，少有抽象思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "阵容搭配和属性克制存在轻度策略，但系统复杂度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.20,
+          "explanation": "不要求玩家进行深层次思考，更偏向直观体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "战斗数值和养成路径遵循清晰的加减逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.30,
+          "explanation": "核心玩法为同类卡牌游戏的成熟模式，创新程度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.25,
+          "explanation": "地图和世界观探索范围较窄，以线性推图为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.15,
+          "explanation": "剧情信息明确直白，几乎没有模糊解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.80,
+          "explanation": "养成结果和战斗胜负在数值压制下高度可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.35,
+          "explanation": "界面信息较多但深度有限，多为重复性养成数据。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "几乎不提供现实世界或深层知识的学习价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.70,
+          "explanation": "叙事围绕作为候补者的主人公展开，视角集中于个人命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.50,
+          "explanation": "玩家与使魔之间存在羁绊和契约关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.35,
+          "explanation": "有简单的组织和阵营设定，但社会结构刻画较浅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.40,
+          "explanation": "剧情涉及魔王统治和文明背景，但非描绘重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.30,
+          "explanation": "架空世界观不涉及宇宙尺度或终极真理的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "剧情时间跨度主要集中在当下争霸时期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "高度架空的奇幻世界，充满魔法、恶魔和超现实战斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.40,
+          "explanation": "获得新角色和胜利时触发短暂的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.15,
+          "explanation": "剧情较少刻意营造悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.10,
+          "explanation": "多人编队和角色互动冲淡了孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "整体氛围偏向冷酷的战斗和视觉炫耀，温情很少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.20,
+          "explanation": "存在恶魔题材元素，但美术风格减弱了恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.35,
+          "explanation": "竞技场和Boss战存在中等程度的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.50,
+          "explanation": "大招技能动画和角色立绘频繁激发赞叹情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "游戏机制和风格完全面向现代流行口味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "主角变强和逆袭的故事线蕴含一定的希望情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.10,
+          "explanation": "快节奏体验没有留出沉浸于忧郁情绪的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.15,
+          "explanation": "存在对抗性的敌人设定，但主要激发征服欲而非愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.20,
+          "explanation": "主要在主界面背景音乐和立绘浏览时有少许平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.90,
+          "explanation": "Live2D角色原画、UI设计和特效均追求极致唯美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.10,
+          "explanation": "界面元素丰富华丽，极简设计比例极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.55,
+          "explanation": "稀有角色和皮肤具有明显的豪华感和金银光效。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.50,
+          "explanation": "部分魔界场景和恶魔角色呈现黑暗华丽风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.60,
+          "explanation": "整体美术色彩饱和度较高，明亮鲜艳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.35,
+          "explanation": "部分皮肤和背景拥有梦幻滤镜和发光特效。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.40,
+          "explanation": "世界观背景中有未解之谜和隐藏设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "美术和玩法仍然属于商业手游成熟范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.20,
+          "explanation": "缺乏经典艺术风格影响，偏向现代数字艺术。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.80,
+          "explanation": "扁平化UI、动态立绘和霓虹特效彰显现代审美潮流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.30,
+          "explanation": "剧情为服务抽卡和战斗而设计，多为单元剧模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.45,
+          "explanation": "每个角色拥有独立的人设背景和支线剧情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.60,
+          "explanation": "角色通过升级、突破和觉醒产生视觉和数值上的明显进化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "拥有包含魔界、契约和势力对立的完整架空世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.10,
+          "explanation": "主线关卡和剧情推进高度线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.15,
+          "explanation": "战斗节奏很快，不鼓励慢节奏的沉浸式叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.65,
+          "explanation": "连续战斗、大招技能动画和华丽的打击效果维持高动作烈度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.55,
+          "explanation": "以王座争夺和势力冲突为核心驱动，存在中等强度的对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.10,
+          "explanation": "故事不讨论深度哲学问题，核心是力量与征服。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.55,
+          "explanation": "主角作为独特候补者，强调个人实力的登顶。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.50,
+          "explanation": "主角需编队作战，强调团队配合与羁绊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "极少涉及传统的家庭伦理关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.35,
+          "explanation": "与部分使魔存在友情向的互动情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.30,
+          "explanation": "包含轻度的角色恋爱剧情线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.25,
+          "explanation": "公会系统和世界Boss包含少量社区合作要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.70,
+          "explanation": "魔王候补争霸、竞技场排名和排行榜构成核心驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.40,
+          "explanation": "存在公会战和Raid副本等合作战斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.65,
+          "explanation": "核心剧情围绕魔王继承权的权力斗争展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.55,
+          "explanation": "主角作为魔王继承者，不断确认自身身份和使命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.30,
+          "explanation": "反抗既定命运是剧情暗线，但不作为核心价值宣扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "游戏本质上依赖严格的数值规则和排序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.15,
+          "explanation": "不涉及对真理或知识的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "角色设计和美术呈现是游戏最核心的卖点之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.70,
+          "explanation": "排名提升、通关高难本和收集全图鉴提供极强的成就感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "主角方行为带有一定的正当性，但非核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.20,
+          "explanation": "部分剧情涉及牺牲，但并非主要价值导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.20,
+          "explanation": "外部收集和养成很少引导内心自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "游戏机制和世界观设定都是高度刷新、面向未来的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.45,
+          "explanation": "角色觉醒和版本更新不断带来内容变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.40,
+          "explanation": "在残酷的魔王争霸中生存是底层逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.25,
+          "explanation": "主角变强的目的大于对生命意义的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.30,
+          "explanation": "对新角色和活动有短暂的好奇心驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.20,
+          "explanation": "游戏不支持建筑或UGC内容，创造空间有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.40,
+          "explanation": "剧情模式带领玩家体验一场奇幻冒险旅程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.15,
+          "explanation": "机械化的日常和快节奏战斗几乎不留反思时间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.80,
+          "explanation": "各类排行榜和PVP模式极度鼓励竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "缺乏强社交玩法，玩家间多为间接竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.35,
+          "explanation": "每日任务和资源积累需长期自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.35,
+          "explanation": "抽取角色具有博彩性质的风险快感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.25,
+          "explanation": "高强度战斗和华丽特效占主导，平静时刻较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "提供轻度娱乐放松，但并非深度避世空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.90,
+          "explanation": "密集的技能特效和Live2D动作提供强烈视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.85,
+          "explanation": "色彩配备华丽饱满，不同属性角色配色明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.60,
+          "explanation": "战斗音效和角色配音丰富，但在背景中运行时常被静音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.70,
+          "explanation": "快节奏的半自动战斗配合电子乐，动感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.55,
+          "explanation": "结合华丽美术与战斗音效，营造魔幻刺激的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.60,
+          "explanation": "虽然主要在移动端运行，但高清全屏动画能吸引短时沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.40,
+          "explanation": "阵容搭配有属性克制和技能组合考量，但数值碾压成分较重。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.25,
+          "explanation": "战斗偏向自动化，手操空间和操作精度要求低。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.35,
+          "explanation": "玩家可选择培养方向和战斗目标，但线性流程限制较多。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.20,
+          "explanation": "地图设计为线性推图模式，探索自由度低。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.95,
+          "explanation": "收集使魔和皮肤是核心玩法，图鉴和收集率达到极高标准。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.90,
+          "explanation": "非常深度的等级、突破、装备和觉醒养成线。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.20,
+          "explanation": "社交模块较轻，以榜单向他人展示为主，实时互动弱。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.70,
+          "explanation": "PVP竞技场和无尽之塔等模式竞争程度较高。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家主要获得一种视觉高度饱和、带有轻微策略性的收集与战斗快感。体验循环围绕获取新角色、观看华丽的技能演出以及看到战力数值增长展开。情绪状态以兴奋、惊叹和满足为主，伴有因竞技竞争产生的轻微紧张，但整体压力较低。这种体验更偏向轻松娱乐，而非深度沉浸或情感触动。",
+        "structure_description": "游戏通过每日任务、线性关卡和周期性的活动与卡池更替来组织体验节奏。战斗为半自动化推进，玩家主要决策在于队伍编成和技能释放时机，而高昂的收集和养成深度则作为长期驱动力。这种结构确保了碎片化时间的快节奏娱乐需求，且符合免费游玩的服务型游戏模式。",
+        "cognitive_expression": "作品主要调用直观感知和模式识别，如快速评估角色强度、属性优势和阵容搭配。认知负荷较低，不要求复杂的逻辑推理或深度思考，更侧重于视觉处理和对奖励反馈机制的即时反应。策略规划主要体现在资源分配，而非谜题解决或系统解析。",
+        "behavioral_tendency_description": "游戏强烈奖励竞争行为和收藏行为，驱动玩家不断寻求排名提升和图鉴达成。同时培养了一种轻度的日常劳作习惯，即通过每日签到和重复刷素材以换取长期成长收益。挑战欲和展示欲被充分激发，而协作、创造和探索倾向则相对沉寂。"
+      },
+      "personality_affinity": {
+        "Ni": 0.22,
+        "Ne": 0.25,
+        "Ti": 0.28,
+        "Te": 0.75,
+        "Fi": 0.30,
+        "Fe": 0.20,
+        "Si": 0.38,
+        "Se": 0.92,
+        "openness": 0.40,
+        "conscientiousness": 0.68,
+        "extraversion": 0.25,
+        "agreeableness": 0.15,
+        "neuroticism": 0.55,
+        "Assertive": 0.78,
+        "Turbulent": 0.30
+      },
+      "supporting_evidence": [
+        "游戏的终极目标是争夺魔王之位，强调权力和排名的竞争。",
+        "玩家通过抽卡系统随机获取被称为Child的使魔角色。",
+        "角色设计采用精致的Live2D技术，具有流畅的动态表现。",
+        "战斗系统为半自动回合制，角色会根据指令自动攻击和释放技能。",
+        "游戏中设有属性克制关系，鼓励玩家搭配不同定位的角色。",
+        "角色养成包含升级、突破、觉醒和装备等多种数值强化路线。",
+        "游戏内设有每日任务和定期举办的活动副本。",
+        "剧情围绕作为候补人的主角与众多使魔的契约展开。",
+        "游戏拥有全球服和韩服等多个运营版本，走国际路线。",
+        "竞技场模式按积分排名，给予高排位者丰厚奖励。",
+        "每名角色拥有独立的支线剧情和配音。",
+        "高级皮肤和稀有角色多具有浮夸的粒子特效和华丽边框。",
+        "界面色彩鲜艳，UI设计注重现代感与科技感。",
+        "战斗节奏较快，大招动画可跳过但观赏性强。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

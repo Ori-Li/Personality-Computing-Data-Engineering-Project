@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_idn_2020_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Coffee Talk",
+        "type": "GAME",
+        "countryName": "印度尼西亚",
+        "year": 2020,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-24",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《Coffee Talk》是一款以现代都市奇幻世界为背景的视觉小说游戏。玩家扮演一家深夜咖啡馆的老板，通过为形形色色的顾客（如精灵、魅魔、狼人等）冲泡饮品来倾听他们的烦恼与故事。游戏以舒缓的节奏、Lo-fi音乐和冷色调像素画风，营造出一种避风港式的交流空间，探讨了种族偏见、身份认同、代际冲突和现代人的情感孤独。核心玩法是简单的饮品调制，服务于温暖治愈的叙事，让玩家在倾听与共情中获得心灵抚慰。",
+        "themes": [
+          "沟通与理解",
+          "种族共存与社会偏见",
+          "都市情感孤独",
+          "代际冲突",
+          "身份认同",
+          "友情与信任",
+          "疗愈与自我和解",
+          "平凡生活的意义"
+        ],
+        "keywords": [
+          "深夜咖啡馆",
+          "奇幻种族顾客",
+          "饮品调制",
+          "视觉小说",
+          "像素画风",
+          "Lo-fi音乐",
+          "倾听者",
+          "情感困扰",
+          "雅加达都市生活",
+          "剧情驱动",
+          "多线叙事"
+        ],
+        "core_experience": "体验在深夜咖啡馆中扮演一名安静的倾听者，感受舒缓的音乐和温暖的饮品拉近人与人之间的距离。在倾听各色人物生活片段的过程中，体会到一种被信任的亲密感、淡淡的治愈感以及对现代都市生活中多元文化和复杂人际关系的深刻反思。",
+        "experience_introduction": "玩家在《Coffee Talk》中通过简单的饮品冲调互动，进入到一个充当树洞的咖啡馆店主角色。游戏的核心体验在于阅读和共情而非操作挑战。像素画风和低保真音乐将玩家包裹在一个舒适安全的环境中，进而引导玩家静下心来，倾听一个又一个关于亲情、爱情、梦想与种族隔阂的私密故事，最终产生对他人命运的关切与对现实社会的对照性思考。"
+      },
+      "experience_vector": {
+        "passion": 0.25,
+        "healing": 0.92,
+        "awe": 0.05,
+        "nostalgia": 0.45,
+        "reflection": 0.78,
+        "romance": 0.40,
+        "tension": 0.20,
+        "warmth": 0.90,
+        "loneliness": 0.55,
+        "hope": 0.65
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.40,
+          "depth_of_thought": 0.65,
+          "logical_structure": 0.20,
+          "novelty": 0.55,
+          "exploration": 0.15,
+          "ambiguity": 0.25,
+          "predictability": 0.60,
+          "information_density": 0.50,
+          "learning_value": 0.45
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.90,
+          "social_scale": 0.60,
+          "civilization_scale": 0.25,
+          "cosmic_scale": 0.05,
+          "time_span": 0.35,
+          "fantasy_level": 0.40
+        },
+        "emotion": {
+          "happiness": 0.30,
+          "sadness": 0.50,
+          "loneliness": 0.60,
+          "warmth": 0.90,
+          "fear": 0.10,
+          "tension": 0.20,
+          "awe": 0.05,
+          "nostalgia": 0.40,
+          "hope": 0.65,
+          "melancholy": 0.70,
+          "anger": 0.10,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.80,
+          "luxury": 0.05,
+          "darkness": 0.20,
+          "brightness": 0.30,
+          "dreamlike": 0.25,
+          "mystery": 0.15,
+          "experimental": 0.10,
+          "classical": 0.15,
+          "modern": 0.70
+        },
+        "narrative": {
+          "plot_complexity": 0.30,
+          "character_depth": 0.75,
+          "character_growth": 0.60,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.40,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.30,
+          "philosophical_depth": 0.55
+        },
+        "social_relationship": {
+          "individualism": 0.60,
+          "collectivism": 0.35,
+          "family": 0.65,
+          "friendship": 0.80,
+          "love": 0.55,
+          "community": 0.70,
+          "competition": 0.10,
+          "cooperation": 0.40,
+          "power_relationship": 0.15,
+          "identity": 0.75
+        },
+        "value": {
+          "freedom": 0.50,
+          "order": 0.20,
+          "truth": 0.45,
+          "beauty": 0.55,
+          "achievement": 0.20,
+          "justice": 0.30,
+          "sacrifice": 0.35,
+          "self_exploration": 0.80,
+          "tradition": 0.40,
+          "change": 0.55,
+          "survival": 0.25,
+          "meaning": 0.70
+        },
+        "behavior": {
+          "curiosity": 0.40,
+          "creation": 0.30,
+          "adventure": 0.15,
+          "reflection": 0.85,
+          "competition": 0.05,
+          "social": 0.75,
+          "discipline": 0.10,
+          "risk": 0.05,
+          "calm": 0.90,
+          "escape": 0.50
+        },
+        "sensory": {
+          "visual_intensity": 0.35,
+          "color_richness": 0.40,
+          "sound_intensity": 0.55,
+          "rhythm_energy": 0.20,
+          "atmosphere": 0.95,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.05,
+          "mechanical_skill": 0.10,
+          "player_agency": 0.20,
+          "exploration_depth": 0.15,
+          "collection_system": 0.05,
+          "progression_system": 0.25,
+          "social_interaction": 0.85,
+          "competition_intensity": 0.00
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.25,
+          "explanation": "游戏氛围以安静闲适为主，虽然角色对生活充满热情，但玩家的情绪体验受限于文本阅读和舒缓的节奏，表现的更多是平静而非强烈的激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.92,
+          "explanation": "核心玩法是通过热饮帮助顾客解决情感困扰，伴随着轻柔的音乐和温暖的对话，游戏全程都旨在提供一种放松和抚慰心灵的治愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "游戏展现的是贴近生活的日常烦恼，而非宏大或令人敬畏的场面，视觉和剧情上都没有刻意营造具有冲击力的惊叹感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "Lo-fi音乐和像素画风营造了一种怀旧的质感，对话中偶尔提及过去的经历，但游戏的核心指向当下的烦忧与未来的和解，并非完全陷入过去。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.78,
+          "explanation": "玩家大部分时间在阅读对话和思考顾客面临的困境，如种族歧视、家庭矛盾等，游戏机制要求移情与反思而非快速反应。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.40,
+          "explanation": "游戏包含部分爱情故事线（如尼尔与米亚的跨种族恋情），但并非核心议题，更多是作为情感连接和社会讨论的一个分支呈现。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.20,
+          "explanation": "由于缺乏战斗和严苛的失败惩罚，游戏内的戏剧冲突多是围绕言语矛盾和内心挣扎展开，带有一定程度的紧张感，但远低于激烈的对抗标准。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.90,
+          "explanation": "深夜营业的咖啡馆本身就是一个避风港，店主递上的一杯热饮加上顾客坦诚相待的分享，构建了极为温馨友善的人际场域。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.55,
+          "explanation": "孤独是许多登门顾客的共同特征，深夜寻求慰藉的行为本身即是孤独的体现，但游戏通过具有仪式感的社交互动在对抗这种孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.65,
+          "explanation": "倾听和沟通最终往往带来比翼双飞的好转或和解。虽然问题可能无法彻底解决，但作品抱有对情感愈合和明天会更好的确信。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "剧情通过具体的对话和具体的人物关系展开，是非主要运用抽象符号或隐喻思考，而是围绕具体的生活场景和人际矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.40,
+          "explanation": "多条人物故事线并行推进且有交织，但不涉及复杂的政治格局或艰深的硬科幻逻辑，属于人物关系层面的中等繁杂程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.65,
+          "explanation": "对现代都市人的疏离感、种族偏见的内化、代际价值观的冲突等议题进行了非全盘否定的深入探讨，诱发了关于身份和共情的持久思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.20,
+          "explanation": "内核是感性驱动的叙事，依靠情感共鸣而非逻辑推演推进。剧情中没有复杂的逻辑谜题或者强因果的推理链条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "将印尼本土文化（如混合饮料和都市背景）与经典奇幻种族结合，创造出了一种具有在地化特色的现代都市奇幻叙事风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "游戏场景固定单一，缺乏物理空间的探索。玩家主要是在反复的对话中逐步探索人物的内心世界和背景故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "故事线索和人物动机表达得相当直白，冲突通常都会在交谈中被摊开，较少使用模棱两可的叙事诡计或留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.60,
+          "explanation": "整体趋向于一个温暖治愈的结局，角色的成长轨迹较为清晰，虽然中间有波折，但大体符合玩家对治愈系游戏的预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "文本量虽大，但多为口语化的从容交谈，在提供情感信息的同时穿插了奇幻世界观下的生活细节，密度处于适中状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.45,
+          "explanation": "揭示了亲子隔阂、社会融入等共性问题，鼓励换位思考。玩家可以从中获得关于沟通技巧和跨族群共情的具体借鉴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "叙事完全围绕个体的喜怒哀乐、职业困惑和自我价值寻找，宏观世界的波澜被隔绝在咖啡馆的百叶窗之外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.90,
+          "explanation": "专注于角色之间的互动，如父女羁绊、异性情侣的无形壁垒、外来者与原住民的信任建立等，社交关系是推进剧情的唯一驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.60,
+          "explanation": "通过种族矛盾间接映射现实社会的歧视链和移民政策，但这种社会议题始终通过咖啡馆这个小窗口来折射，未进行全景式描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.25,
+          "explanation": "世界观虽然存在不同的奇幻种族，但并未深入阐述其漫长的历史渊源或复杂的文明演变，只是作为一个当代都市背景板。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "不涉及宇宙、星球或宏观时空理论，场景完全限定在具有烟火气的地球当代都市小店。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "游戏的时间跨度较短，集中在某个特定的季节，通过对话追忆过去，但主体体验是近乎同步的当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.40,
+          "explanation": "在现代都市背景下引入了精灵、狼人、魅魔等概念，但这些超自然种族完全内化为有着普通烦恼的现代市民，避开了宏大魔法的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.30,
+          "explanation": "基调更多偏向宁静与释然，只有冲突平息或感情双向奔赴的瞬间会有略微上扬的喜悦，整体情绪保持沉稳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.50,
+          "explanation": "角色们各有各自的隐痛，关于不被理解的委屈、失去的亲人等，故事总体带有一种轻度的、持续的悲伤感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.60,
+          "explanation": "游戏内的主要顾客状态便是深夜无处可去的孤独，即便处于人群中，那种源于出身或秘密的不可说也加剧了孤单感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.90,
+          "explanation": "作为夜间社交的交汇点，咖啡馆提供的无条件的接纳和倾听构成了抵御外界冷漠的温暖环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.10,
+          "explanation": "没有恐怖场景或惊惧的叙事，少量对未来的担忧也不足以构成主观上的恐惧感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.20,
+          "explanation": "社交冲突带来了一些轻微的不安，如在偏见面前的言语摩擦，但饮品与场景设定有效地分解了潜在的激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "如前所述，游戏的格局极为内敛和日常，缺少足以唤起崇拜或惊叹的壮观超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.40,
+          "explanation": "怀旧源自音乐风格和像素画面带来的时代滤镜，而不仅仅来自剧情本身，本土饮食文化的介入也带有些许记忆色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.65,
+          "explanation": "对于角色是否能冲破社会束缚、勇敢追梦或达成和解，叙事通常持肯定态度，给予了玩家正向的情感投资回报。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.70,
+          "explanation": "在夜深人静的咖啡馆里，在循环的细雨音效下，倾诉和倾听之间弥漫着挥之不去的、带有审美意义的忧郁情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.10,
+          "explanation": "虽然内含对社会不公的批判，但叙事口吻克制，不通过大喊大叫或剧烈冲突来展现愤怒，更多是无奈的苦笑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "游戏流程没有任何紧迫的压力，以其慢节奏的循环和安抚性质的互动构建出一个让玩家感到恬静安全的电子空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "像素美术精细且注重光影氛围，利用暗紫色与暖黄色调的对比勾勒出深夜咖啡厅特有的安静美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.80,
+          "explanation": "极其克制的UI设计，仅有的玩法机制就是饮料调配，场景和人物动作量极简化，所有的侧重点都在于文字本身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "风格朴素接地气，完全不符合奢华定义。是关于普通工作的平凡艺术，不展示奢靡的美学取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.20,
+          "explanation": "虽是深夜发生，但这是静谧风格的底色，而非压抑的黑暗。窗外有霓虹余光和幽寂的深蓝，绝无阴郁恐怖的设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.30,
+          "explanation": "作为深夜主题，整体环境光偏暗，形成聚光灯式的局部暖光包围人物的效果，不明亮但却有着视觉上的高度集中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "虚构的族群设定从逻辑逻辑上带有些许非现实感，但因为故事质感和口语太接近真实生活，缺乏朦胧虚无的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "剧本中没有未解的谜团，人物的秘密通常也会随着剧情的展开而大方地揭开，不存在悬疑手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "游戏结构、叙述方式和美术风格都坚持非常传统稳定的视觉小说模板，除了题材外并没有先锋表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.15,
+          "explanation": "气质具有复古热饮店和小酒馆的常年陪伴感，但无论是音乐还是叙事议题，指向的都是当下的生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.70,
+          "explanation": "游戏不仅时间背景设定在现代都市，其表达的核心痛点（社交媒体疲劳、种族隐形歧视等）完全属于当下时代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.30,
+          "explanation": "剧情主要依靠人物轮流进入店内展开，属于多线交织的单元剧形态，没有涉及权谋或推理的复杂翻转或悬念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.75,
+          "explanation": "极深，每个角色的外在身份与内心真实脆弱有着鲜明反差，通过大量自白和回忆展示了多层面的性格与动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.60,
+          "explanation": "大多数角色经历了从逃避、恐惧到面对自己家庭、种族问题或接纳自我的情感成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "围绕异种族融入现代人类社会的规则和摩擦点有详尽的日常化解释，建立了一套自洽且无违和感的共存逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.40,
+          "explanation": "随着天数推进，揭示各角色过去的内容经常采用插叙回忆，但并不具备分层复杂或跳跃破碎的非线性拼图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "游戏故意无限放慢了节奏，刻意让玩家经历泡咖啡的全套缓慢过程，逐步积淀情感，极高地强调慢节奏沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "除了点击冲泡选项外没有任何肢体冲突或高对抗场景，完全依赖词语间的刀光剑影和背后拥抱来体现行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.30,
+          "explanation": "存在着基于种族和家庭的深刻冲突，但游戏主要以相对平和或充满理解的沟通去转化张力，而非加剧冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "借由人物的日常选择探讨了关于归属感、存在意义以及对他者保持开放的伦理学话题，颇有启发深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.60,
+          "explanation": "许多冲突的根源在于个人梦想与社会身份或家庭期许的对立，并且被鼓励先去实现自我定义的成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.35,
+          "explanation": "在少数族类的群体互助中能见到集体意识，但非主旋律，并没有大规模强调为了集体务必妥协个体的观点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.65,
+          "explanation": "父女、母女关系的刻画占据很大篇幅，代际间的保守与开放的争斗是极其重要的叙事推动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.80,
+          "explanation": "咖啡馆充当了没有血缘关系的家族，顾客与店主间、顾客彼此间都从陌生建立了信任度极高的友谊联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.55,
+          "explanation": "有关于跨种族恋情以及对网络情感的羞涩向往，爱情是个值得一提的支线，但多数时间退居在友情之后。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.70,
+          "explanation": "本作中的社区感是个强力符号，咖啡馆就是作为容纳法外之人与边缘人群的微型社区来设计的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.10,
+          "explanation": "除了少量关于职场位置的轻微抱怨，各个角色之间几乎没有竞争关系，更多的是相互倾诉的扶持环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.40,
+          "explanation": "解决问题的方法往往是大家一起商量，但从机制上来讲还是单人个体倾诉，缺少实际共同完成任务的合作描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.15,
+          "explanation": "店主与顾客是完全平等的视角，没有上下级权力指示。社会结构压迫的现实被当做话题，而非控制手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.75,
+          "explanation": "不同种族和职业背景的人寻找自我身份是核心母题，例如土著传统与新生活的割裂以及跨种族后代的位置困惑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.50,
+          "explanation": "探讨了摆脱刻板印象追求个人自由的渴望，但也涉及了为了维系切实情感而主动接纳束缚的兼容观点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "并没有强调社会稳定或是习俗法规的必须执行，反而对现实世界死板的规则抱有轻微的反思与批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "经常有角色因为隐瞒身份或不愿陈述实际状况而煎熬，之后的坦诚布公是关系回温的节点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.55,
+          "explanation": "不仅局限于像素艺术，游戏倡导欣赏日常的美、生活的情趣以及深夜雨水的诗意，有着安然向美的价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.20,
+          "explanation": "不以生意的成功、社会地位的攀升为目标，最大的成就就是冲好一杯咖啡且让他人的眉头舒展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.30,
+          "explanation": "虽然没有法庭上的公正，但有着针对歧视现象朴素的道德指正，通过平和的方式要求对他者保持基本的文明尊重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.35,
+          "explanation": "有部分老一辈移民为了后代自我牺牲的叙述，但在这些背景得以揭示时已经削弱了孤立的崇高感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.80,
+          "explanation": "绝大部分对话的内容就是角色主动向外梳理内心，通过整理对话和反思做出遵从内心的艰难抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.40,
+          "explanation": "现代背景下部落族裔仍然无法完全舍弃原生传统，新旧观念的对撞是主要矛盾，但传统被赋予了缓冲改良的属性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "角色们往往处于极度渴望做出改变或者被动迎接人生骤变的时间点上，这也是叙事的情感核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.25,
+          "explanation": "不存在物资匮乏或危及生命的绝境，探讨的是情感高需求层面的精神生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.70,
+          "explanation": "深夜不归人的交谈实质是在借由他人重构自己过往人生的意义，并赋予琐碎日常新的解释。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.40,
+          "explanation": "驱动力来源于想知道下一杯咖啡背后的故事，类似于倾听八方八卦的外向观察欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.30,
+          "explanation": "将创造局限在冲调创意饮品上，非广义的内容产出，更像是在规定范式里进行规律性搭配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "场景完全锁定在咖啡馆中，是一种内向的精神按摩，和向外部领域扩张的趋势相背。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "游戏的核心行为就是识别他人话里的情绪并反思所处的偏见预设，促使内省行为反复发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "零排名的非竞争导向设计，没有分数榜或联机对抗，数值上与这种状态完全割裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.75,
+          "explanation": "模仿了现实中人与人深度交流的社交行为模型，持续维持并加深着聊天的频率。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.10,
+          "explanation": "游戏里无需繁琐练习或者自我约束，玩法上采用即来即走的高度自由设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "在极其安稳的环境下推进，没有赌注性质的机会或危险，极度规避不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.90,
+          "explanation": "通过放松的合成器和雨声烘托，要求玩家以店主那份不以物喜的姿态，平静地接纳各种负面情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.50,
+          "explanation": "这个空间成为了逃脱白天压力的精神庇护所，但这个出口是积极的、有建设性的逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.35,
+          "explanation": "动画使用较为凝滞的人物立绘和缓慢的环境特效，视觉亢奋度很低，仿佛是在看稍带动态的书页。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.40,
+          "explanation": "颜色搭配以霓虹色块和大地色为主，不追求色彩的丰富饱和，而是为了辅助深夜特定的光线错觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.55,
+          "explanation": "音乐占据极高的分量并依靠重复的节奏动机占据主导位置，是感性氛围的兜底结构，但音量柔和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.20,
+          "explanation": "低重拍缓和的处理方式将节奏能量限制在极其低沉慵懒的区间，几乎没有给人打拍子的冲动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "围绕雨夜、吧台反光、有限的陌生人安全距离，听觉和视觉配合出极高浓度，独一无二的封闭环境气氛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "机制辅助叙事、对话主导节奏，让关心琐事的人彻底掉进设计好的心理共鸣井里。"
+        },
+        {
+          "dimensionPath": "media_vector.strategy_depth",
+          "score": 0.05,
+          "explanation": "调配饮品近乎唯一的机制不存在资源规划或兵棋推演般的深度，配方的改变影响微乎其微。"
+        },
+        {
+          "dimensionPath": "media_vector.mechanical_skill",
+          "score": 0.10,
+          "explanation": "没有连招或精确瞄准等要求，仅有基础的选中食材并点击，上手门槛为零。"
+        },
+        {
+          "dimensionPath": "media_vector.player_agency",
+          "score": 0.20,
+          "explanation": "虽然有分支对话和调配不同咖啡，但主线剧情走向具有强引导，在不经意间确定了固定的起承转合。"
+        },
+        {
+          "dimensionPath": "media_vector.exploration_depth",
+          "score": 0.15,
+          "explanation": "并不具备开放地图或者箱庭设计，限于三个菜单间的跳转，没有提供任何可自主漫游的领域。"
+        },
+        {
+          "dimensionPath": "media_vector.collection_system",
+          "score": 0.05,
+          "explanation": "对饮料配方的解锁严格跟随主线，既不是核心玩法也不存在扑克牌或图鉴类的收集驱动。"
+        },
+        {
+          "dimensionPath": "media_vector.progression_system",
+          "score": 0.25,
+          "explanation": "故事分场次推进有明确的天数积累，但仅是叙事上的阶段展示。"
+        },
+        {
+          "dimensionPath": "media_vector.social_interaction",
+          "score": 0.85,
+          "explanation": "植根于与NPC的社交互动模型，虚拟社交的逻辑完全围绕提供情感慰藉展开的言谈应对。"
+        },
+        {
+          "dimensionPath": "media_vector.competition_intensity",
+          "score": 0.00,
+          "explanation": "完全单机，纯粹叙事，没有哪怕内植的高分系统，切断了任何人与人比较的可能。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家在《Coffee Talk》中的情感体验宛如在都市雨夜找到了一间亮着暖黄色灯光的安全屋。伴随着极简的Lo-fi音乐节拍，体验的重点从始至终是内心情绪的感知而非外在刺激。游戏通过极具同理心的文本将玩家代入一个无条件的倾听者角色，让一次次温热的交付具有了卸下防备的魔力。这种体验介乎于温暖和轻微的忧愁之间，最终指向的是内省、平静和相信沟通可以带来愈合的期许。",
+        "structure_description": "作品采用高度规律的分章节复合穿插叙事结构。围绕固定的深夜咖啡馆这一场景展开，依靠每日的交替和顾客的自然到访来推动剧情。这种重复循环的过程（听取点单、冲调、倾听、道别）通过游戏机制牢固地构建出一种安全的秩序感，而当这种感官熟悉度与游戏内的不定期降雨环境音效配合，便形成了产生极高沉溺感的叙事容器。通过减缓肢体反馈和只保留最精简的互动，结构本身即为慢节奏心理按摩服务。",
+        "cognitive_expression": "因为去掉了挑战性的操作，玩家的认知资源可以完全集中在文字含义、语气和角色本人的内在逻辑上。游戏提倡的并非逻辑推理和快速决策，而是一种既接纳又有一点疏离的全息聆听。它持续激活关于现代都市精神危机、原生家庭及族群隔阂的长久反思，诱导了一种感性上的推己及人的推理模型：试图理解为什么对方会在那种困境中做出那样的选择。",
+        "behavioral_tendency_description": "作品所鼓励的外化行为是‘按兵不动的内在慈悲’。它不鼓励玩家去战斗、建设或征服，而是奖励那些在孤立的深夜安静守护他人的举动。在体验过程中，玩家会意识到表达的边界和沟通的治愈力，并倾向于在自己被电子产品淹没的现实中，寻求建立类似的深度聆听与无偏见接纳的情感连接。"
+      },
+      "personality_affinity": {
+        "Ni": 0.38,
+        "Ne": 0.30,
+        "Ti": 0.20,
+        "Te": 0.10,
+        "Fi": 0.88,
+        "Fe": 0.85,
+        "Si": 0.55,
+        "Se": 0.15,
+        "openness": 0.60,
+        "conscientiousness": 0.40,
+        "extraversion": 0.25,
+        "agreeableness": 0.88,
+        "neuroticism": 0.65,
+        "Assertive": 0.65,
+        "Turbulent": 0.60
+      },
+      "supporting_evidence": [
+        "玩家在游戏中的核心操作是为疲惫的顾客调制咖啡或其他热饮。",
+        "采用了雨夜像素画风和Lo-fi低保真循环音乐来烘托静谧气氛。",
+        "场景自始至终限定在一间名为Coffee Talk的深夜咖啡馆内。",
+        "游戏里的顾客包含了精灵、狼人、魅魔等融入现代都市的奇幻种族。",
+        "多条人物故事线围绕亲子代际矛盾、跨种族恋情和职业困惑展开。",
+        "叙事节奏极度缓慢，大量时间用于白描角色间的细腻交谈。",
+        "剧情触及了外来务工人员在城市中的身份认同和社会融入难题。",
+        "游戏内嵌的社交媒体界面充当了快速切换故事背景和人物关系的工具。",
+        "店主的台词普遍带有安抚、接纳和中立客观的色彩。",
+        "提供了试错调酒机制，特定饮品会引导角色敞开心扉说更多细节。",
+        "故事围绕夜晚几个小时的固定时间段展开，强化了隐秘避风港的设定。",
+        "结局大多展现了人物关系解冻或者内心枷锁的部分脱落。",
+        "视觉风格使用冷紫色的霓虹灯与深褐色的吧台来构建冷暖对比。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

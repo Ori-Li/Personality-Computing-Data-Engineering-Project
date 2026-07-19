@@ -1,0 +1,736 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "角斗士",
+        "type": "MOVIE",
+        "countryName": "英国",
+        "year": 2000,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-20",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 1.0,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "《角斗士》讲述了罗马帝国时期，战功赫赫的将军麦希穆斯因拒绝效忠篡位的暴君康茂德而惨遭灭门，自身沦为奴隶。他被迫成为角斗士，在罗马斗兽场中凭借卓越的军事才能和顽强的求生意志浴血拼杀，最终在万众瞩目下完成复仇并恢复共和理想。影片通过宏大的战争场面、残酷的竞技场搏杀以及深刻的政治阴谋，塑造了一段关于荣耀、背叛与救赎的史诗悲剧。这部作品不仅复兴了消失已久的历史史诗片类型，更以其充满男性气概的悲壮叙事和震撼的视听语言，成为21世纪初最具文化影响力的电影之一。",
+        "themes": [
+          "复仇",
+          "暴政与共和",
+          "荣耀与尊严",
+          "生死本能",
+          "奴隶与自由",
+          "权力腐蚀",
+          "民众与政治"
+        ],
+        "keywords": [
+          "罗马帝国",
+          "斗兽场",
+          "角斗士",
+          "麦希穆斯",
+          "康茂德",
+          "马可·奥勒留",
+          "日耳曼尼亚战役",
+          "北非奴隶市场",
+          "赞帕提亚",
+          "斯多葛哲学",
+          "罗马军团",
+          "竞技场搏杀"
+        ],
+        "core_experience": "观众在宏大的视听冲击下，经历一场跌宕起伏的悲壮史诗之旅。从荣耀之巅坠落至尘埃，再于绝境中凭血肉之躯杀出一条通往正义与平静的归途，体验强烈的力量感、悲愤感以及最终牺牲带来的崇高与释然。",
+        "experience_introduction": "《角斗士》通过将个人复仇故事嵌入宏大的历史政治变革背景中，创造出一种极具感染力的史诗体验。影片开场即以残酷的冷兵器战争将观众投入混乱与荣耀并存的战场，迅速建立主角坚毅忠诚的形象。随后剧情急转直下，主角遭遇背叛、家破人亡，这种从极盛到极衰的巨大落差构成了强烈的情感冲击。在竞技场的段落中，影片通过精心设计的搏杀场面和不断升级的对手，主导观众的紧张、宣泄与崇拜感，将暴力的残酷转化为美学化的观赏体验。同时，古罗马辉煌的建筑与腐败的宫廷政治形成鲜明对比，引导观众在感官刺激之外，对权力、死亡与荣誉进行深层次思考。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.15,
+        "awe": 0.90,
+        "nostalgia": 0.25,
+        "reflection": 0.70,
+        "romance": 0.20,
+        "tension": 0.80,
+        "warmth": 0.10,
+        "loneliness": 0.70,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.35,
+          "complexity": 0.60,
+          "depth_of_thought": 0.65,
+          "logical_structure": 0.55,
+          "novelty": 0.40,
+          "exploration": 0.30,
+          "ambiguity": 0.20,
+          "predictability": 0.60,
+          "information_density": 0.55,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.60,
+          "social_scale": 0.85,
+          "civilization_scale": 0.85,
+          "cosmic_scale": 0.50,
+          "time_span": 0.45,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.75,
+          "loneliness": 0.70,
+          "warmth": 0.15,
+          "fear": 0.40,
+          "tension": 0.80,
+          "awe": 0.80,
+          "nostalgia": 0.30,
+          "hope": 0.30,
+          "melancholy": 0.65,
+          "anger": 0.85,
+          "peace": 0.20
+        },
+        "aesthetic": {
+          "beauty": 0.65,
+          "minimalism": 0.10,
+          "luxury": 0.70,
+          "darkness": 0.75,
+          "brightness": 0.25,
+          "dreamlike": 0.30,
+          "mystery": 0.20,
+          "experimental": 0.10,
+          "classical": 0.85,
+          "modern": 0.35
+        },
+        "narrative": {
+          "plot_complexity": 0.55,
+          "character_depth": 0.75,
+          "character_growth": 0.45,
+          "world_building": 0.60,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.30,
+          "action_intensity": 0.90,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.60
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.40,
+          "family": 0.65,
+          "friendship": 0.50,
+          "love": 0.40,
+          "community": 0.50,
+          "competition": 0.90,
+          "cooperation": 0.55,
+          "power_relationship": 0.95,
+          "identity": 0.70
+        },
+        "value": {
+          "freedom": 0.80,
+          "order": 0.55,
+          "truth": 0.45,
+          "beauty": 0.40,
+          "achievement": 0.75,
+          "justice": 0.80,
+          "sacrifice": 0.85,
+          "self_exploration": 0.40,
+          "tradition": 0.60,
+          "change": 0.55,
+          "survival": 0.85,
+          "meaning": 0.70
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.10,
+          "adventure": 0.45,
+          "reflection": 0.50,
+          "competition": 0.95,
+          "social": 0.30,
+          "discipline": 0.80,
+          "risk": 0.80,
+          "calm": 0.35,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.90,
+          "color_richness": 0.55,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.70,
+          "atmosphere": 0.80,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.95,
+          "visual_storytelling": 0.80,
+          "soundtrack_importance": 0.90,
+          "actor_expression": 0.80,
+          "director_style": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "主人公贯穿全片的强烈复仇意志与对家国的忠诚，营造了极具感染力的激情体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "叙事核心聚焦于复仇、丧失与残酷搏杀，几乎没有留给治愈或安抚情绪的空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.90,
+          "explanation": "通过宏大的古罗马场景、万人齐呼的角斗场面，持续制造令人敬畏的视听冲击。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "主角反复闪回金色麦田与妻儿的温馨片段，构成了对过往平静生活的强烈怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.70,
+          "explanation": "剧情不断触碰权力的腐化、生死的意义与共和理想，引导观众进行深层思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.20,
+          "explanation": "男女感情线微乎其微，主要集中在主角对亡妻的怀念和露西拉的政治同盟上。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.80,
+          "explanation": "竞技场中的生死搏杀和宫廷里的阴谋诡计，始终制造着强烈的神经紧绷感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "除了极少数与落难同伴的互动，整体氛围被残酷、阴谋和复仇的冰冷基调支配。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.70,
+          "explanation": "主角失去家人且身份暴露后，作为孤胆英雄独自承担着巨大的痛苦与压力。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "故事整体偏向悲观，即便最终完成复仇，也是以主角的死亡为代价，希望感相对微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.35,
+          "explanation": "叙事直接明了，复仇主线清晰，但通过罗马政治隐喻和死亡象征注入了少许象征性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.60,
+          "explanation": "在简单的复仇主线之上，融合了政治权谋、军队叛乱与多层人物关系网。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.65,
+          "explanation": "持续探讨统治的合法性、斯多葛主义的生死观以及民众与权贵的关系等深层命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "剧情遵循严格的因果链条，主角的每一步行动都直接遵循其复仇与翻盘的内在逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.40,
+          "explanation": "虽为经典的三幕式复仇史诗，但在道具、动作设计与拍摄技法上对现代史诗片有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "故事线笔直向前推进，主线为刺杀暴君，缺乏对未知区域或哲学的广泛探索性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.20,
+          "explanation": "善恶黑白分明，叙事基调直截了当，基本没有模棱两可的含混表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.60,
+          "explanation": "作为复仇类型片，结局具有极强的可预见性，但在细节和情感转折上仍有张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "每一帧都包含了丰富的历史细节与角色表情，提供了适中的文化及环境信息浓度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.60,
+          "explanation": "影片为了解罗马帝国时期的政治体制、军事战术以及角斗士文化提供了生动的指引。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "将宏大的历史洪流聚焦于主角的个人命运和内心痛苦，视角高度个人化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.60,
+          "explanation": "重点展现了君臣之间的猜忌、战友间的信任以及复仇者对仇人的复杂情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "深入描绘了罗马的社会阶层、元老院与皇权的博弈及民众的狂热。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.85,
+          "explanation": "核心主题就是关于文明的走向，即究竟是回到共和国还是走向独裁帝国。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.50,
+          "explanation": "通过主角的信仰和生死观念，少许触及了灵魂归宿与超越尘世的永恒宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.45,
+          "explanation": "通过老皇帝的回忆和闪回，连接了过去，但叙事主体集中的时间跨度不长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "基于真实历史架构改编，完全遵循现实物理和人类社会规律，无奇幻设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "除了极短暂的胜利欢呼，叙事几乎完全被悲伤、愤怒与压抑的基调所主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "家人惨死的阴影和沦为奴隶的屈辱构成了角色挥之不去的深切悲痛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.70,
+          "explanation": "主角作为高贵的“野蛮人”，在罗马世界内心极度孤独且与环境格格不入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "仅在主角对家人的回忆以及与黑人角斗士的友谊中略有暖意流露。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.40,
+          "explanation": "竞技场中的猛兽和强敌带来了短暂的恐惧，但主角的勇敢迅速盖过了这种情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.80,
+          "explanation": "从暗杀未遂到竞技场决战，始终充满了生死一线间的紧绷感与不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.80,
+          "explanation": "罗马城的复刻和竞技场的宏伟，频繁地在视觉和气势上引发观众的震撼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "回家与妻儿团聚的美好幻想与残酷现实形成对比，产生了对过往的眷恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.30,
+          "explanation": "尽管结局是悲剧性的牺牲，但主角确实完成了对共和理想的微弱救赎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.65,
+          "explanation": "贯穿全片的是对荣耀已逝、英雄末路和美好被毁灭的浓重哀伤与忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.85,
+          "explanation": "愤怒是驱动主角生存和反抗的核心动力，尤其是对暴君康茂德的切齿愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.20,
+          "explanation": "仅在主角濒死时那个回归麦田的超现实镜头中，才体验到片刻的永恒宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.65,
+          "explanation": "影片在展现暴力与残酷的同时，巧妙地运用构图、光影呈现了悲壮的史诗美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.10,
+          "explanation": "无论是场景还是配乐都倾向于浓墨重彩的史诗感，与极简风格完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.70,
+          "explanation": "古罗马宫廷的金碧辉煌与角斗士的华美铠甲，处处透露出一种奢侈与精致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.75,
+          "explanation": "大量的暗调场景、奴隶制的地牢及阴郁的色调，支撑起黑暗沉重的视觉风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.25,
+          "explanation": "除了回忆中阳光明媚的金色麦田，现实世界的光线普遍偏冷且晦暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.30,
+          "explanation": "慢动作打斗以及通往冥界的麦田幻觉，为残酷现实增添了少许朦胧超现实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "故事完全以直白的正邪对立为主，几乎没有涉及未知的或悬疑性的神秘元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "影片采取了极为正统经典的史诗叙事和拍摄手法，毫无现代主义实验色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "叙事、配乐和运镜完全致敬好莱坞黄金时代的古典史诗片，古典气息浓厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.35,
+          "explanation": "利用了现代特效和快速剪辑，重新包装了老式史诗的节奏感与视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.55,
+          "explanation": "虽然主线是纯粹的复仇，但夹杂了多条政治和军事支线，稍微打破了简单性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.75,
+          "explanation": "无论是主角的矛盾与坚守，还是反派的缺爱与嫉妒，人物刻画都栩栩如生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.45,
+          "explanation": "主角从一开始就拥有完美的性格，更多是身份与环境骤变，而非性格成长弧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.60,
+          "explanation": "重现了令人信服的公元2世纪罗马世界，从北非集市到帝国都城均细节丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "除了少数闪回外，时间线严格遵循从陷害到复仇的线性进展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.30,
+          "explanation": "影片开场即是大规模战争，大部分节奏都由精炼的对白和贴身搏杀驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.90,
+          "explanation": "充满血浆、断肢的近身械斗和战争场面，是主导观众视觉的核心看点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "主角与皇帝之间的仇恨贯穿始终，这种对立紧张且不可调和，直至死亡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.60,
+          "explanation": "通过台词与行动，深度探讨了斯多葛哲学、死亡的尊严以及权力带来空虚等议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "主角以一己之力对抗整个罗马腐败的皇权体系，是典型的个人英雄主义叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.40,
+          "explanation": "角斗士们在竞技场上有过短暂的团结，但主角的最终目标完全是个人的复仇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.65,
+          "explanation": "虽然家人早早死去，但对家庭的眷恋和遗愿是支撑主角活下去的最大动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.50,
+          "explanation": "与角斗士同伴哈根的生死情谊感人，但并非叙事重点，更多服务于生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.40,
+          "explanation": "主要是对亡妻的追思，与露西拉的关系更偏向一种基于过往的政治同情与互助。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.50,
+          "explanation": "体现了罗马平民对“角斗士英雄”的狂热崇拜以及他们作为政治力量的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.90,
+          "explanation": "角斗竞技本身就是最残酷的生存竞争，政治舞台上也充满了你死我活的对决。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.55,
+          "explanation": "在竞技场中，主角多次与同伴打出战术配合，展示了团队协作的必要性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "整部影片的核心就是权力动态：皇帝对奴隶、将军对士兵、元老院对民众。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.70,
+          "explanation": "主角面临从将军到奴隶再到挑战者身份的转变，并始终坚守自己为“士兵”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.80,
+          "explanation": "主角渴望挣脱奴籍、儿子获得自由以及罗马人民摆脱暴政的愿望贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "主角试图恢复共和秩序，而暴君则代表混乱，影片辩证地看待了秩序的建立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "政治充满了谎言与面具，更多时候是立场与权术的博弈，对真相的追求并不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.40,
+          "explanation": "虽然影片制作精良，但故事内核并不以追求纯粹的美或审美价值为主要要义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.75,
+          "explanation": "无论是最强将军、不败角斗士还是推翻暴君，作品颂扬了个人的非凡成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.80,
+          "explanation": "复仇即为正义的表征，影片始终在拷问并试图解决“谁值得统治罗马”的命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.85,
+          "explanation": "主角为了复仇和罗马的未来，付出了家人和生命的代价，尽显牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.40,
+          "explanation": "主角动机明确且纯粹，较少看到他对自我内心进行痛苦且迷茫的深层挖掘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.60,
+          "explanation": "极度推崇罗马共和国的传统与老皇帝马可·奥勒留的美德，视其为正统基石。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "体现了由专制回归共和的政权更迭，但本质上是一种“复古”而非激进的变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "从战场到奴隶市场再到竞技场，主角始终面临着最原始且血腥的生存挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.70,
+          "explanation": "影片超越了简单的复仇，最终将个人的牺牲升华为在政治和历史上的深远意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "影片并未鼓励对未知产生好奇，而是专注于完成已知且沉重的复仇任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.10,
+          "explanation": "叙事基调是毁灭与破坏，无论肉体上还是政治上，几乎没有创造性行为出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.45,
+          "explanation": "主角的旅途跨越了欧非大陆，但被动逃生成分远大于主动冒险探索的成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.50,
+          "explanation": "主角在绝境中时常展现出对人生、死亡与政治的深度自省和沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.95,
+          "explanation": "驱动整部影片的核心行为，就是个体在战场上、在政坛上残酷的零和博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.30,
+          "explanation": "作为政治对手和复仇者，主角往往在社交场合中保持孤傲寡言的疏离感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.80,
+          "explanation": "主角作为军人，表现出了极高的自律性和对原则的绝对坚守，行事冷静果断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.80,
+          "explanation": "从拒绝效忠暴君到竞技场揭露身份，主角持续做出赌上性命的高风险决策。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "虽然角色本身稳重，但影片大量依靠激烈的动作场景和阴谋来驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "主角从未有过逃避现实的心理倾向，始终直面比自身强大百倍的对手。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.90,
+          "explanation": "从血腥的大战到宏伟的全景，影片无时无刻不在提供高强度的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "虽然色调偏向冷峻，但在服装、布景和斗兽场装饰上色彩层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "宏大的管弦配乐、兵戈相交的金属声及万人呐喊铺就了强大的听觉压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.70,
+          "explanation": "节奏张弛有度，但整体偏向于战鼓轰鸣式的强劲脉搏与动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "极其厚重、悲壮的史诗氛围笼罩全片，让观众仿佛置身于尘土飞扬的竞技场。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "通过连贯的叙事、宏大的声场与真实的场景，带来极强的大银幕卷入感。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.95,
+          "explanation": "作为标准的银幕史诗大片，其场景、群演和航拍均旨在呈现雄伟的电影化视野。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.80,
+          "explanation": "在少量台词的情况下，通过画面展现恢弘场面及角色的微妙情感变化。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.90,
+          "explanation": "汉斯·季默的配乐是影片的灵魂之一，极大地增强了悲壮与胜利的情绪渲染。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.80,
+          "explanation": "罗素·克劳与华金·菲尼克斯等人的精湛面部表演极富感染力，撑起了情感内核。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.85,
+          "explanation": "雷德利·斯科特标志性的宏大叙事、粗粝写实与光影运用在影片中体现得淋漓尽致。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "体验是一场从荣耀顶端跌落深渊，再由血肉搏杀重获尊严的悲壮历险。观众被置于惊天阴谋和残酷厮杀之中，感受失去一切的切肤之痛与英雄复仇的快意。宏大的场面激起由衷的敬畏，而死神常伴的紧张感贯穿始终，最终在牺牲与解脱中获得一种怅然的宣泄。",
+        "structure_description": "影片采用经典的三幕式史诗结构。开篇以战争建立人物伟业，随后急转直下展开背叛与受难，漫长且递进的第二幕聚焦于竞技场中的求存与崛起，最终汇入与暴君在斗兽场的宿命对决。线性叙事穿插些许温暖闪回，形成情感对比。",
+        "cognitive_expression": "作品在清晰的线性复仇叙事中嵌入了对政治哲学与斯多葛主义的探讨。观众需在欣赏高强度动作的同时，解码权力腐败、民众狂热及生死尊严等概念。其叙事逻辑严谨且因果紧密，不需要深度解构，但鼓励观众在视听震撼之外产生历史的思辨。",
+        "behavioral_tendency_description": "影片极大地颂扬了直面挑战、严守纪律以及为崇高理想牺牲的强硬行为模式。它激发的是竞争求胜、不畏生死的战斗欲望，以及凭借一己之力力挽狂澜的孤胆英雄气概，激励观众寻求自我原则的坚守与对不公的反抗。"
+      },
+      "personality_affinity": {
+        "Ni": 0.55,
+        "Ne": 0.25,
+        "Ti": 0.30,
+        "Te": 0.90,
+        "Fi": 0.80,
+        "Fe": 0.40,
+        "Si": 0.50,
+        "Se": 0.85,
+        "openness": 0.40,
+        "conscientiousness": 0.85,
+        "extraversion": 0.70,
+        "agreeableness": 0.25,
+        "neuroticism": 0.75,
+        "Assertive": 0.80,
+        "Turbulent": 0.65
+      },
+      "supporting_evidence": [
+        "开场即展示了冷兵器时代军团整齐划一、极具破坏力的战争场面。",
+        "年老皇帝希望将权力交还给元老院，恢复共和制而非世袭。",
+        "主角因拒绝效忠新皇帝而导致妻儿被残忍杀害。",
+        "主角在受伤疲惫的状态下被奴隶贩子捕获并贩卖到偏远行省。",
+        "主角利用卓越的军事指挥才能，带领角斗士小队在重演战役中反败为胜。",
+        "反派皇帝与主角在竞技场阴暗的地下室有多次心理博弈戏份。",
+        "主角在罗马斗兽场中直面并杀死了身经百战的退役角斗冠军。",
+        "影片反复展现主角用地面抓沙的动作，作为战斗前的固定仪式。",
+        "反派皇帝对姐姐露西拉有着极端的控制欲和病态的迷恋。",
+        "主角在众目睽睽之下摘下面具，向皇帝宣告“我是麦希穆斯”以宣战。",
+        "元老院的共和派成员暗中协助主角，试图利用军队推翻暴君。",
+        "反派皇帝在决战前用匕首刺伤了主角的后背，通过不光彩手段削弱对手。",
+        "主角最终在竞技场杀死皇帝后，下令释放囚犯并恢复共和。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

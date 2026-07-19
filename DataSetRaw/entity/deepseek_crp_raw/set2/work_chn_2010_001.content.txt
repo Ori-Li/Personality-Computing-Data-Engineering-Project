@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2010_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "1956年，我在北京",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 2010,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "《1956年，我在北京》是中国当代艺术家陈可创作的油画作品。画作以细腻的写实手法描绘了一位温柔而略带忧伤的女孩形象，她所处的背景包含了与1950年代北京相关的视觉元素。作品并非历史纪实，而是艺术家对父辈青春岁月的想象性重构，融合了个人记忆、集体历史与身份追问，呈现出一种沉静而富有诗意的怀旧氛围。",
+        "themes": [
+          "怀旧",
+          "身份认同",
+          "代际记忆",
+          "个体与历史",
+          "青春",
+          "想象与重构"
+        ],
+        "keywords": [
+          "女孩肖像",
+          "1950年代",
+          "北京",
+          "父辈青春",
+          "自我探求",
+          "写实油画",
+          "陈可",
+          "怀旧叙事",
+          "忧伤",
+          "温柔"
+        ],
+        "core_experience": "观赏这幅画作时，观众被带入一种静谧而略带疏离的怀旧情境。细腻的笔触和人物忧伤的神情共同营造出一种时间凝固的感觉，引发对消逝时代的想象与对个人身份根源的沉思，整体体验温柔、内省且带着一丝淡淡的哀愁。",
+        "experience_introduction": "这幅油画通过描绘一个1950年代北京的女孩形象，引导观众进入一种内省式的视觉体验。画面中细腻的写实细节与人物温柔忧伤的气质相结合，使观众在观看过程中，从对具体形象的感知逐渐过渡到对父辈历史与自我身份的联想与思考，最终获得一种带有距离感的怀旧与沉思。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.4,
+        "awe": 0.1,
+        "nostalgia": 0.9,
+        "reflection": 0.8,
+        "romance": 0.2,
+        "tension": 0.1,
+        "warmth": 0.3,
+        "loneliness": 0.5,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.6,
+          "complexity": 0.3,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.1,
+          "novelty": 0.3,
+          "exploration": 0.5,
+          "ambiguity": 0.4,
+          "predictability": 0.5,
+          "information_density": 0.3,
+          "learning_value": 0.4
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.5,
+          "social_scale": 0.4,
+          "civilization_scale": 0.3,
+          "cosmic_scale": 0.1,
+          "time_span": 0.6,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.6,
+          "loneliness": 0.5,
+          "warmth": 0.3,
+          "fear": 0.1,
+          "tension": 0.1,
+          "awe": 0.1,
+          "nostalgia": 0.9,
+          "hope": 0.2,
+          "melancholy": 0.7,
+          "anger": 0.0,
+          "peace": 0.6
+        },
+        "aesthetic": {
+          "beauty": 0.8,
+          "minimalism": 0.5,
+          "luxury": 0.0,
+          "darkness": 0.1,
+          "brightness": 0.2,
+          "dreamlike": 0.4,
+          "mystery": 0.3,
+          "experimental": 0.2,
+          "classical": 0.7,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.8,
+          "character_growth": 0.1,
+          "world_building": 0.5,
+          "nonlinear_structure": 0.2,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.1,
+          "philosophical_depth": 0.7
+        },
+        "social_relationship": {
+          "individualism": 0.7,
+          "collectivism": 0.2,
+          "family": 0.8,
+          "friendship": 0.2,
+          "love": 0.1,
+          "community": 0.3,
+          "competition": 0.0,
+          "cooperation": 0.1,
+          "power_relationship": 0.0,
+          "identity": 0.9
+        },
+        "value": {
+          "freedom": 0.2,
+          "order": 0.2,
+          "truth": 0.6,
+          "beauty": 0.8,
+          "achievement": 0.0,
+          "justice": 0.1,
+          "sacrifice": 0.2,
+          "self_exploration": 0.9,
+          "tradition": 0.5,
+          "change": 0.4,
+          "survival": 0.1,
+          "meaning": 0.8
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.2,
+          "adventure": 0.2,
+          "reflection": 0.9,
+          "competition": 0.0,
+          "social": 0.1,
+          "discipline": 0.2,
+          "risk": 0.0,
+          "calm": 0.8,
+          "escape": 0.2
+        },
+        "sensory": {
+          "visual_intensity": 0.8,
+          "color_richness": 0.5,
+          "sound_intensity": 0.1,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.9,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "写实主义结合现代怀旧叙事",
+          "color_expression": 0.5,
+          "composition_complexity": 0.3,
+          "symbolism": 0.8,
+          "emotional_expression": 0.9,
+          "historical_style": 0.8
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品的基调是静默沉思而非热烈奔放。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.4,
+          "explanation": "温柔的笔触带来一定程度的抚慰，但忧伤情绪中和了疗愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "作品尺度亲近个体，不追求宏大的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.9,
+          "explanation": "作品核心直接指向对父辈时代的历史想象与追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.8,
+          "explanation": "画作引发关于个人身份与历史关系的深刻反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.2,
+          "explanation": "极少涉及浪漫爱情主题，聚焦于个体身份。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.1,
+          "explanation": "画面氛围静谧，几乎不存在紧张或冲突。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.3,
+          "explanation": "氛围更偏向疏离的忧伤，而非直接的温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.5,
+          "explanation": "画中女孩独处，神情忧伤，传递出明显的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "整体情绪偏向忧郁与内省，希望感不占据主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.6,
+          "explanation": "对父辈青春的想象性重构需要一定的抽象思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.3,
+          "explanation": "画作结构相对简单，信息以直接的情感传达为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "引发关于历史、真实与自我身份的深刻哲学追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.1,
+          "explanation": "不涉及逻辑推理或系统构建，重感性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.3,
+          "explanation": "将个人怀旧叙事融入写实油画是其风格特点，但在当代艺术中非绝对首创。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.5,
+          "explanation": "引导观众探索一个想象中的历史时空和身份状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.4,
+          "explanation": "将个人身份与历史想象交织，但情感指向清晰，不追求语义模糊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.5,
+          "explanation": "情感走向（怀旧、忧伤）在观看初期即可感知，但深层含义需要解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "主要信息是情感与氛围，历史和背景信息被高度浓缩在象征符号中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.4,
+          "explanation": "提供对特定历史时期个人视角的想象性了解，但非史实教育。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "完全聚焦于单一个体（画中女孩）的内心世界与情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.5,
+          "explanation": "隐含了与父辈、时代的代际关系，但未直接描绘多人互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.4,
+          "explanation": "通过个人折射出特定时代（50年代北京）的社会背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.3,
+          "explanation": "仅轻微触及当代中国历史发展的片段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "完全没有涉及宇宙或宏观世界的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.6,
+          "explanation": "将2010年的视线投射回1956年，体现了跨时代的时间跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "基于现实历史的想象性重构，非奇幻题材。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "人物表情忧伤，氛围沉静，快乐感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.6,
+          "explanation": "女孩的忧伤是作品最直接的视觉传达情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.5,
+          "explanation": "人物独自出现于画面中，强化了孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.3,
+          "explanation": "笔触虽有温柔之处，但整体氛围清冷，非温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "不带有任何恐惧或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.1,
+          "explanation": "画面静止，没有动态的紧张感或冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "尺度亲密，不追求震撼或敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.9,
+          "explanation": "这是作品最核心的主导情绪，对消逝时代的追忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "情绪基调是回顾与感伤，而非面向未来的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.7,
+          "explanation": "忧伤与怀旧结合，构成了强烈的忧郁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全没有表达愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.6,
+          "explanation": "尽管忧伤，画面的静止和内省带来了内心的平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.8,
+          "explanation": "作品通过细腻写实手法和人物塑造，呈现出显著的视觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.5,
+          "explanation": "构图并不繁杂，但写实细节丰富，介于极简与复杂之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "完全与奢华、富贵感无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "非暗黑题材，整体情绪是忧伤而非黑暗恐怖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.2,
+          "explanation": "色调偏向柔和、低饱和度，并非明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.4,
+          "explanation": "对历史场景的想象性重构带来一定的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.3,
+          "explanation": "人物关系和时间感带有一些神秘，但不强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "属于具象绘画范畴，形式上不追求激进实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.7,
+          "explanation": "写实手法和对传统主题（肖像）的运用，具有古典审美倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "对个人身份和历史的解构性思考，属于典型的现代命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "无情节发展，仅是一个瞬时凝固的画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.8,
+          "explanation": "虽然静态，但人物的内心世界被深刻暗示，可解读性强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.1,
+          "explanation": "单幅画作无法展现人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.5,
+          "explanation": "通过人物和细节营造了1956年北京这一特定时空情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.2,
+          "explanation": "不存在叙事结构，但观看本身就是一次非线性的时间跳跃（从现在看过去）。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "作品邀请观众长时间凝视，沉浸于其营造的氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "完全静态，无任何动作描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.1,
+          "explanation": "潜在的情感张力（现实与想象的冲突）是内在的、微弱的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.7,
+          "explanation": "深刻探讨了存在、身份与时间流逝的哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.7,
+          "explanation": "聚焦于个体的内心体验和自我存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.2,
+          "explanation": "更关注个人命运在时代中的位置，而非集体叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.8,
+          "explanation": "核心动机是对“父辈青春”的想象，代际关系是核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "未展示友谊关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "未表现爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.3,
+          "explanation": "个体在时代（社会共同体）背景下的存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "完全没有竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "未描绘合作关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不涉及权力结构或政治关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.9,
+          "explanation": "对自我身份的探求是作品最核心的主题之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "主题上不直接强调自由，更偏向于对过去的沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "非主题重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "艺术家在探索一种个人和情感上的真实，而非客观史实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.8,
+          "explanation": "作品的视觉呈现本身就是对美的追求和表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.0,
+          "explanation": "完全无关个人成就或成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.1,
+          "explanation": "不涉及社会正义或道德评判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "可能隐含了父辈的付出，但非直接表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "作品是艺术家进行自我探索和身份确认的媒介，引导观众进行同样的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.5,
+          "explanation": "连接过去与传统，但目的不是弘扬而是审视与想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "描绘了个人与时代变迁的主题，但重心在于观照而非推动改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.1,
+          "explanation": "不探讨生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.8,
+          "explanation": "关于生命、时间和身份的意义追问贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "激起对陌生年代的好奇，但作品本身更强调沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.2,
+          "explanation": "欣赏过程不直接刺激观者的创造欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "体验是内省的精神之旅，而非外向的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品最核心的行为指向就是引发观者长时间的自我反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "完全不涉及竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "体验是个人化的、内省的，非社交导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "艺术创作需要高度自律，但观者体验不强调此点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.0,
+          "explanation": "与冒险或寻求刺激完全无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.8,
+          "explanation": "整个观赏和思考的过程是在一种极其平静的状态下完成的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.2,
+          "explanation": "虽有短暂沉浸于过去历史，但更像是一种面对而非逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.8,
+          "explanation": "作为视觉艺术，其表达完全依赖视觉，通过写实技法达到高强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.5,
+          "explanation": "色调柔和统一，追求氛围而非色彩的丰富绚烂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.1,
+          "explanation": "画面本身是寂静的，不引起强烈的听觉联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "静态画面，无节奏可言，能量感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "作品的氛围是其核心力量所在，通过色调、笔触和人物神态成功营造了独特的时空感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "强烈的氛围感和细节能有效地将观者拉入其所构建的世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0,
+          "explanation": "将写实主义技巧与现代个人怀旧叙事内容相结合。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.5,
+          "explanation": "色彩服务于整体情绪，不过度张扬，表现力中等。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.3,
+          "explanation": "以居中人物肖像为主体的简单构图。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.8,
+          "explanation": "时代服饰、环境细节和人物本身都是连接历史、身份与记忆的象征符号。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.9,
+          "explanation": "人物的忧伤和画面的怀旧感是作品最重要的表达内容。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.8,
+          "explanation": "对1950年代北京这一特定历史时期和风貌进行了集中描绘。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在面对这幅画时，主要经历了一场内省式的、充满怀旧与淡淡忧伤的审美体验。视觉首先被画中女孩温柔而忧愁的形象所吸引，随后进入对她所处时代与身份的联想。整个过程是静默、缓慢且深刻的，情感的流动多于信息的接收。",
+        "structure_description": "作品采用传统的具象写实手法与中心式人像构图，通过细腻的笔触、柔和的色调和人物神态来构建视觉焦点，以此组织并引导观众的观看路径和情感沉浸过程。",
+        "cognitive_expression": "作品鼓励一种联想式和共情式的认知方式。观众需要调动个人对历史的感知和对父辈的想象，去解读画面背后关于身份与时间的信息，而非进行逻辑推理或问题解决。",
+        "behavioral_tendency_description": "这一体验会引导观众进入一种平静、不急于评判的鉴赏状态，强化独处、内省和意义性思考的行为倾向，而非激发交流、行动或改变的欲望。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.45,
+        "Ti": 0.28,
+        "Te": 0.12,
+        "Fi": 0.85,
+        "Fe": 0.42,
+        "Si": 0.82,
+        "Se": 0.55,
+        "openness": 0.72,
+        "conscientiousness": 0.35,
+        "extraversion": 0.18,
+        "agreeableness": 0.58,
+        "neuroticism": 0.55,
+        "Assertive": 0.65,
+        "Turbulent": 0.58
+      },
+      "supporting_evidence": [
+        "画面描绘了一位年轻女孩的肖像，她衣着具有1950年代的典型特征。",
+        "作品标题明确指向了1956年这一具体的历史年份和北京这一特定城市。",
+        "艺术家采用高度写实的油画技法，细腻地刻画了人物的肌肤、衣物质感和光影。",
+        "画中女孩的面部表情呈现出一种温柔却夹杂着忧伤的复杂神态。",
+        "背景中的环境细节暗示了过去时代的生活场景，但被有意地模糊或虚化处理。",
+        "整体色调偏向于低饱和度，营造出类似老照片的陈旧感和氛围。",
+        "这是艺术家陈可通过绘画形式对自身未曾经历的父辈青春时代进行的想象性回溯。",
+        "艺术家的创作动机与探寻家庭历史及个人身份的起源密切相关。",
+        "作品不包含任何动态情节或事件冲突，完全依赖一个静态瞬间来表达情感。",
+        "画面中仅有女孩一人，未出现其他互动人物，强化了个体的孤立感。",
+        "人物的视线和姿态是内敛的，引导观众关注其内心世界而非外部行动。",
+        "这件作品被归类为陈可“怀旧叙事”风格系列的代表作之一。",
+        "作品将个体微叙事与更广阔的社会历史背景进行连接与对照。",
+        "观赏这幅作品时，观看行为本身需要观众在画框前保持长时间的静默与凝视。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

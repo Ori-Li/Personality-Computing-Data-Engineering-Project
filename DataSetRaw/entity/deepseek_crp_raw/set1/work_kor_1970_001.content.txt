@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_kor_1970_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "奇迹MU",
+        "type": "GAME",
+        "countryName": "韩国",
+        "year": 2001,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-04-09",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "《奇迹MU》是韩国Webzen公司开发的3D大型多人在线角色扮演游戏，以华丽的画面、流畅的战斗和标志性的翅膀系统闻名。游戏提供战士、法师、弓箭手等经典职业，让玩家在广阔世界中打怪升级、获取装备并参与PvP对抗。核心循环围绕角色养成、资源争夺与社交合作展开，通过绚丽的技能特效、宝石镶嵌系统和公会玩法，为玩家带来持续的成长成就和视觉满足感。",
+        "themes": [
+          "成长",
+          "力量",
+          "荣耀",
+          "合作",
+          "竞争",
+          "幻想冒险"
+        ],
+        "keywords": [
+          "MMORPG",
+          "翅膀系统",
+          "奇迹大陆",
+          "装备强化",
+          "宝石镶嵌",
+          "公会战",
+          "血色城堡",
+          "恶魔广场",
+          "转职",
+          "全3D视角"
+        ],
+        "core_experience": "持续追求角色力量提升与华丽外观变化带来的高频率成就感，伴随大规模战斗和资源争夺的紧张刺激，以及公会社交合作产生的集体认同感。",
+        "experience_introduction": "在《奇迹MU》中，玩家通过不间断地猎杀怪物获得经验值与装备，进行反复的属性点分配与技能升级，使角色逐渐变强。游戏以高频率的掉落反馈和视觉特效丰富的战斗来强化即时的感官满足，同时通过翅膀、装备外观等视觉符号直接展现玩家的成长等级与社交地位。大规模多人混战与公会系统则加强了玩家间的合作与竞争关系，整个体验围绕长期追求成长与短期获取奖励的循环展开。"
+      },
+      "experience_vector": {
+        "passion": 0.8,
+        "healing": 0.15,
+        "awe": 0.7,
+        "nostalgia": 0.3,
+        "reflection": 0.1,
+        "romance": 0.05,
+        "tension": 0.6,
+        "warmth": 0.2,
+        "loneliness": 0.2,
+        "hope": 0.4
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.15,
+          "complexity": 0.4,
+          "depth_of_thought": 0.1,
+          "logical_structure": 0.45,
+          "novelty": 0.35,
+          "exploration": 0.55,
+          "ambiguity": 0.1,
+          "predictability": 0.75,
+          "information_density": 0.3,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.2,
+          "relationship_scale": 0.5,
+          "social_scale": 0.65,
+          "civilization_scale": 0.35,
+          "cosmic_scale": 0.2,
+          "time_span": 0.2,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.5,
+          "sadness": 0.05,
+          "loneliness": 0.2,
+          "warmth": 0.2,
+          "fear": 0.15,
+          "tension": 0.6,
+          "awe": 0.7,
+          "nostalgia": 0.3,
+          "hope": 0.4,
+          "melancholy": 0.05,
+          "anger": 0.1,
+          "peace": 0.1
+        },
+        "aesthetic": {
+          "beauty": 0.75,
+          "minimalism": 0.1,
+          "luxury": 0.8,
+          "darkness": 0.5,
+          "brightness": 0.6,
+          "dreamlike": 0.2,
+          "mystery": 0.15,
+          "experimental": 0.2,
+          "classical": 0.35,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.15,
+          "character_growth": 0.85,
+          "world_building": 0.5,
+          "nonlinear_structure": 0.05,
+          "slow_immersion": 0.2,
+          "action_intensity": 0.9,
+          "conflict_intensity": 0.7,
+          "philosophical_depth": 0.05
+        },
+        "social_relationship": {
+          "individualism": 0.7,
+          "collectivism": 0.45,
+          "family": 0.05,
+          "friendship": 0.5,
+          "love": 0.05,
+          "community": 0.55,
+          "competition": 0.85,
+          "cooperation": 0.5,
+          "power_relationship": 0.8,
+          "identity": 0.55
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.35,
+          "truth": 0.1,
+          "beauty": 0.7,
+          "achievement": 0.9,
+          "justice": 0.15,
+          "sacrifice": 0.1,
+          "self_exploration": 0.15,
+          "tradition": 0.2,
+          "change": 0.3,
+          "survival": 0.6,
+          "meaning": 0.15
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.15,
+          "adventure": 0.5,
+          "reflection": 0.1,
+          "competition": 0.9,
+          "social": 0.55,
+          "discipline": 0.65,
+          "risk": 0.45,
+          "calm": 0.15,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.9,
+          "color_richness": 0.85,
+          "sound_intensity": 0.6,
+          "rhythm_energy": 0.7,
+          "atmosphere": 0.55,
+          "immersion": 0.8
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.4,
+          "mechanical_skill": 0.3,
+          "player_agency": 0.65,
+          "exploration_depth": 0.5,
+          "collection_system": 0.55,
+          "progression_system": 0.9,
+          "social_interaction": 0.6,
+          "competition_intensity": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.8,
+          "explanation": "战斗节奏快速，技能特效华丽，升级和获得新装备能高频触发感官兴奋与行动热忱。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品整体强调成长压力与竞争对抗，缺乏持续舒缓和平的治愈基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.7,
+          "explanation": "华丽的翅膀系统、大型技能特效和不死军团级战斗规模给予玩家强烈的视觉震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.3,
+          "explanation": "作为旧时代网游，并非游戏本身以怀旧为主题，但部分固定场景和重复怪物易形成印象。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.1,
+          "explanation": "游戏设计以即时反馈为主，极少引导玩家进行自省或深度思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品无核心情感或恋爱情节，社交关系多建立在利益合作之上。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.6,
+          "explanation": "野外PvP、资源点争夺和Boss对战带来持续的警觉感和威胁压迫。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.2,
+          "explanation": "公会活动中有集体氛围，但主要社交指向战斗，非情感支持。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.2,
+          "explanation": "单人练级阶段存在孤独时刻，但不是作品主要刻画的情感定位。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.4,
+          "explanation": "成长路径明确，新装备和转职带来一定未来期许感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.15,
+          "explanation": "游戏元素高度具象化，为直观系统，缺乏抽象概念与隐喻表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.4,
+          "explanation": "属性加点、技能树、镶嵌等多系统叠加有中等复杂度，但理念直观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.1,
+          "explanation": "作品追求即时感官反馈，缺少哲学或有深度的思想探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "数值成长系统相互关联，属性绑定有稳定的逻辑与规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "翅膀系统和暴击特效当时具有开创性，现今相较常规且可预知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "地图区域、怪物分布和Boss机制提供一定新域探索动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.1,
+          "explanation": "游戏目标明确，缺乏剧情开放性或多值解释空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.75,
+          "explanation": "掉落和成长路径有高度重复性，玩家能预判事件结果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "信息以战斗数字和界面数值为主，缺乏文化或社会知识注入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "不提供现实知识或深度见解，侧重游戏内机制认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.2,
+          "explanation": "叙事以集体任务展开，很少关注个体内心或私人生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.5,
+          "explanation": "公会协作与交易构成主要人际生态，以目标导向建立关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.65,
+          "explanation": "公会、服务器纷争和玩家生态构建了宏观社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.35,
+          "explanation": "有背景世界观框架，但未深度影响进程或文明叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.2,
+          "explanation": "故事存在神话元素，但从未上升到宇宙或命运层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "游戏时间无显著历史跨度，叙事重点在当下成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "满布魔幻种族、魔法与神器，完全脱离现实法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.5,
+          "explanation": "掉落闪光和强化成功带来即时快乐，但情绪由奖励驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "游戏体验中几乎无悲伤或哀恸情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.2,
+          "explanation": "独处练级偶有孤立感，但不是作品强调的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.2,
+          "explanation": "公会集体战斗中的合作时刻带来微弱的情感温度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "高伤害Boss和PVP存在短时紧张，但无真正恐惧酝酿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.6,
+          "explanation": "近身PvP、资源竞争等情景频繁引发紧张状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.7,
+          "explanation": "炫酷翅膀、全屏技能与大场景战斗产生崇高震撼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.3,
+          "explanation": "经典音乐与固定场景可能唤起老玩家自身怀旧，非作品意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.4,
+          "explanation": "不断变强的成长系统提供了正向期待感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.05,
+          "explanation": "作品几乎不含伤感或感伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.1,
+          "explanation": "PK失利可能激发短暂愤怒，但不是常驻情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.1,
+          "explanation": "动作频率过高，缺乏宁静舒缓的空间与氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.75,
+          "explanation": "装备外观、翅膀、技能特效追求视觉华丽与角色美化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.1,
+          "explanation": "界面与特效堆叠丰富，与极简主义审美相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.8,
+          "explanation": "闪亮铠甲、发光翅膀与宝石彰显华丽财富感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.5,
+          "explanation": "部分地下城场景黑暗沉重，但整体偏明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.6,
+          "explanation": "多数场景阳光明亮，技能光效增强了通透感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.2,
+          "explanation": "设计追求恢宏写实感，而非迷幻朦胧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "世界观和任务指引直接明晰，神秘性低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "遵循传统MMO公式，无实验性手法传达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "中世纪剑与魔法框架部分延续古典型奇幻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "2001年使用全3D图形，光影和用户界面在当时偏现代化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "无清晰主线叙事，以任务网驱动，缺乏复杂情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "角色无背景故事及人格刻画，仅为玩家化身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "属性、装备、外观、转职等明确呈现了完整的成长路径。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.5,
+          "explanation": "拥有命名地图、怪物生态和基本世界观，体系较完备。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.05,
+          "explanation": "无叙事结构，进程几乎为线性练级。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.2,
+          "explanation": "游戏节奏紧凑，鲜少留出缓慢沉浸时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.9,
+          "explanation": "技能连击、PVP和Boss战带来频繁的高强度行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.7,
+          "explanation": "个人PK与公会战使得玩家对立冲突密集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.05,
+          "explanation": "世界观中无哲学思辨或伦理悖论深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.7,
+          "explanation": "角色养成、装备榜单等设计高度鼓励个人变强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "公会内有团队行为，但多数进展仍基于个人实力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "无任何与家庭关系相关的机制或叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.5,
+          "explanation": "固定组队能催生虚拟友情，但机制未特别促进深度社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "无情感或浪漫互动机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.55,
+          "explanation": "公会和服务器社区形成集体身份与氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.85,
+          "explanation": "等级排名、PvP战场、装备展示构成核心竞争驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.5,
+          "explanation": "Boss战及公会战需要配合，但合作以功利目标为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.8,
+          "explanation": "装备差距和公会势力形成明显的力量层级和压制关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.55,
+          "explanation": "职业、公会和外观构成了玩家在游戏中的社会身份定位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "玩家可自由加点与选择练级路线，但世界观强约束，自由感有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "系统借助PK规则维持一定秩序，但也充斥野性竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.1,
+          "explanation": "几乎不涉及真理探究或真相追寻主旋律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "外观收集、翅膀和装备造型是玩家的核心驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.9,
+          "explanation": "等级、装备和声望等成就系统是体验的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "无明显正义冲突或道德抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "少有甘愿牺牲或利他情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.15,
+          "explanation": "角色的目标由系统定义，不含自我认知探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.2,
+          "explanation": "未突出传统价值，主要为非常规幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "转职等带来短时状态变化，但世界环境是静态的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.6,
+          "explanation": "怪物威胁和PvP侵入持续要求资源与生存应对。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.15,
+          "explanation": "作品未就存在或生命意义展开深度叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "地图探索驱动一些好奇心，但目标明确，不要求大量试探。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "几乎不提供建造或独创内容，仅有合成与强化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.5,
+          "explanation": "野外练级与洞穴探险带来典型冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.1,
+          "explanation": "快节奏行动与战斗链不鼓励停顿反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.9,
+          "explanation": "PvP与被资源抢夺驱动的竞争行为贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.55,
+          "explanation": "组队和公会鼓励社交，但多数交流由需求触发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.65,
+          "explanation": "重复刷怪与固定日常任务需要高度纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.45,
+          "explanation": "强化装备可能碎裂，PK爆装等设计督促风险决策。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "游戏步调快捷，极少倡导冷静审视或慢节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "幻想世界可作为现实逃避，但作品本身未强调此主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.9,
+          "explanation": "技能光效、场景纹理和动态动作异常密集，极具视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.85,
+          "explanation": "高饱合色调和丰富的色彩变化是其显著特色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.6,
+          "explanation": "战斗音效和背景音乐持续，具备一定刺激强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.7,
+          "explanation": "战斗频率快，移动与施法形成持续高能节拍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.55,
+          "explanation": "场景为突出华丽与力量，并不追求厚重或真实氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.8,
+          "explanation": "第三人称全3D即时反馈易于将玩家带入战斗身临其境。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.4,
+          "explanation": "加点排序和装备搭配有策略空间，但直观性高于深度布局。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.3,
+          "explanation": "操作主要依靠点击和快捷键衔接，无需高操作技巧。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.65,
+          "explanation": "自由加点、装备选择与野外走向使玩家有一定自主感。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.5,
+          "explanation": "野外地图和地牢有分层设计，但较线性。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.55,
+          "explanation": "宝石、装备外观等形成鼓励收集的图鉴式动机。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.9,
+          "explanation": "职业转职、属性、技能、装备等多层成长是其最核心系统。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.6,
+          "explanation": "公会、组队与交易构成了MMO典型社交场景。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.85,
+          "explanation": "PvP、排行榜与争抢资源形成了强烈竞争生态。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家从弱小角色开始，不断重复刷怪、收集装备、升级属性，体验稳定而频繁的成长快感。华丽翅膀和眩目技能在视觉与情感上激发出强烈的力量感和敬畏，野外PK和公会战的气氛紧张刺激。游戏通过持续的正向反馈循环，使玩家沉浸于追求更高战斗力的旅途。",
+        "structure_description": "游戏围绕角色的数值成长构建核心循环：打怪获取经验、掉落装备、强化属性，进入更高级区域重复。PVP与公会系统这一横向竞争层提供压力调适与外显目标。翼翅等象征身份的视觉组件则提供阶段性的里程碑反馈，使成长既有内涵积累又有外在展示。",
+        "cognitive_expression": "作品几乎不要求抽象推理或深层解读，认知活动集中在即时信息处理与数值管理上。玩家的注意资源用于判断怪物威胁、优化技能循环和评估装备价值，属于目标导向的归纳与路线规划，少有反思或元认知调用。",
+        "behavioral_tendency_description": "游戏通过即时奖励强化高频率行动与持续投入，培养玩家固定刷怪和不断追求更强装备的习惯。合作行为因共同战斗而生，竞争行为因排名与资源稀缺而被激发，整体行为形态偏向外向竞争与高纪律性重复操作。"
+      },
+      "personality_affinity": {
+        "Ni": 0.1,
+        "Ne": 0.25,
+        "Ti": 0.3,
+        "Te": 0.85,
+        "Fi": 0.1,
+        "Fe": 0.35,
+        "Si": 0.35,
+        "Se": 0.9,
+
+        "openness": 0.35,
+        "conscientiousness": 0.8,
+        "extraversion": 0.6,
+        "agreeableness": 0.3,
+        "neuroticism": 0.45,
+
+        "Assertive": 0.55,
+        "Turbulent": 0.5
+      },
+      "supporting_evidence": [
+        "玩家通过击杀野外怪物累积经验值并拾取随机属性装备。",
+        "角色可分配力量、敏捷、智力等属性点以决定成长方向。",
+        "翅膀不仅提升属性，同时也显著改变角色外观。",
+        "宝石可镶嵌至装备凹槽，以强化攻击或防御数值。",
+        "满足等级条件后可进行职业转职以获得新能力。",
+        "装备强化存在失败率，高级强化可能导致物品损坏。",
+        "野外地图普遍允许玩家间自由攻击，引发持续冲突。",
+        "击倒Boss后有概率掉落稀有卓越装备。",
+        "公会战以争夺特定领土为目标，需多人协同推进。",
+        "角色面板显示战力数值，鼓励玩家间横向比较。",
+        "通过消耗金币与宝石可合成更高级道具。",
+        "战斗时技能特效充满屏幕，强调视觉冲击。",
+        "设定专属每日任务要求重复击杀指定怪物。",
+        "交易系统支持玩家间以虚拟货币交换装备。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

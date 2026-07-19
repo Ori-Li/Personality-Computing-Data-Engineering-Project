@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "听雪楼",
+        "type": "NOVEL",
+        "countryName": "中国",
+        "year": 2004,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-07-12",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《听雪楼》是沧月创作的系列奇幻武侠小说，以听雪楼楼主萧忆情与血魔之女舒靖容的宿命纠葛为主线，在瑰丽苍凉的江湖背景下铺展一段凄美绝恋。作品将传统武侠与奇幻设定结合，通过冷艳伤感的笔调刻画人物在仇恨、责任与爱情之间的挣扎，氛围阴郁唯美，宿命感贯穿始终，是新世纪大陆新武侠的代表作之一。",
+        "themes": [
+          "武侠",
+          "奇幻",
+          "爱情",
+          "宿命",
+          "悲剧",
+          "仇恨",
+          "责任",
+          "身份认同",
+          "人性",
+          "牺牲"
+        ],
+        "keywords": [
+          "听雪楼",
+          "萧忆情",
+          "舒靖容",
+          "血魔",
+          "宿命纠葛",
+          "江湖恩怨",
+          "凄美文风",
+          "奇幻武侠",
+          "悲剧恋情",
+          "听雪楼系列"
+        ],
+        "core_experience": "在凄美冷艳的文字中沉浸于一段被宿命牵引的悲剧爱情，体验角色在仇恨与温情间的极致拉扯，感受如雪般华美而冰冷的命运哀伤。",
+        "experience_introduction": "作品通过极具氛围感的文笔和强烈的情感冲突，将读者带入一个充满诗意和痛楚的武侠幻想世界。在宿命论的叙事框架下，读者不断被人物内心的复杂情感所裹挟，经历爱与恨、生与死的反复冲击，从而获得一种沉郁而绵长的审美体验。"
+      },
+      "experience_vector": {
+        "passion": 0.88,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.25,
+        "reflection": 0.72,
+        "romance": 0.90,
+        "tension": 0.82,
+        "warmth": 0.30,
+        "loneliness": 0.85,
+        "hope": 0.20
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.58,
+          "complexity": 0.62,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.55,
+          "novelty": 0.68,
+          "exploration": 0.50,
+          "ambiguity": 0.60,
+          "predictability": 0.38,
+          "information_density": 0.54,
+          "learning_value": 0.30
+        },
+        "worldview": {
+          "personal_scale": 0.92,
+          "relationship_scale": 0.85,
+          "social_scale": 0.70,
+          "civilization_scale": 0.45,
+          "cosmic_scale": 0.20,
+          "time_span": 0.60,
+          "fantasy_level": 0.72
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.95,
+          "loneliness": 0.90,
+          "warmth": 0.25,
+          "fear": 0.50,
+          "tension": 0.82,
+          "awe": 0.55,
+          "nostalgia": 0.25,
+          "hope": 0.20,
+          "melancholy": 0.88,
+          "anger": 0.62,
+          "peace": 0.18
+        },
+        "aesthetic": {
+          "beauty": 0.92,
+          "minimalism": 0.22,
+          "luxury": 0.40,
+          "darkness": 0.85,
+          "brightness": 0.15,
+          "dreamlike": 0.60,
+          "mystery": 0.55,
+          "experimental": 0.25,
+          "classical": 0.70,
+          "modern": 0.45
+        },
+        "narrative": {
+          "plot_complexity": 0.66,
+          "character_depth": 0.92,
+          "character_growth": 0.78,
+          "world_building": 0.68,
+          "nonlinear_structure": 0.35,
+          "slow_immersion": 0.72,
+          "action_intensity": 0.48,
+          "conflict_intensity": 0.88,
+          "philosophical_depth": 0.68
+        },
+        "social_relationship": {
+          "individualism": 0.78,
+          "collectivism": 0.45,
+          "family": 0.30,
+          "friendship": 0.55,
+          "love": 0.95,
+          "community": 0.50,
+          "competition": 0.72,
+          "cooperation": 0.42,
+          "power_relationship": 0.80,
+          "identity": 0.88
+        },
+        "value": {
+          "freedom": 0.42,
+          "order": 0.55,
+          "truth": 0.58,
+          "beauty": 0.92,
+          "achievement": 0.25,
+          "justice": 0.65,
+          "sacrifice": 0.85,
+          "self_exploration": 0.72,
+          "tradition": 0.60,
+          "change": 0.30,
+          "survival": 0.70,
+          "meaning": 0.68
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.20,
+          "adventure": 0.48,
+          "reflection": 0.82,
+          "competition": 0.72,
+          "social": 0.42,
+          "discipline": 0.50,
+          "risk": 0.65,
+          "calm": 0.30,
+          "escape": 0.55
+        },
+        "sensory": {
+          "visual_intensity": 0.62,
+          "color_richness": 0.48,
+          "sound_intensity": 0.25,
+          "rhythm_energy": 0.38,
+          "atmosphere": 0.92,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.88,
+          "writing_style": 0.90,
+          "narrative_voice": 0.85,
+          "symbolism": 0.72,
+          "inner_monologue": 0.92,
+          "world_building_depth": 0.68
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.88,
+          "explanation": "故事中的爱情与仇恨皆以浓烈乃至极端的方式呈现，情感张力持续占据主导。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "整体命运悲剧的基调使温暖和解的时刻极少，无法提供治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "奇幻武侠设定和宿命感的宏大框架能唤起一定的敬畏，但因聚焦个人悲剧而有所削弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "作品并未以怀旧为核心体验，回忆多用于揭示创伤而非营造温馨过往。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.72,
+          "explanation": "人物在命运安排下不断内省，对爱与恨、生与死进行哲学性追问，促使读者思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.90,
+          "explanation": "整体系列以一段刻骨铭心的悲剧爱情贯穿，浪漫元素是核心吸引力之一。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.82,
+          "explanation": "宿命对立、势力冲突与情感纠葛持续制造高压氛围，悬念和不安感强烈。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.30,
+          "explanation": "零星出现的人物羁绊和短暂温情被整体凄冷语境所压制，内心暖意有限。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "两位主角因身份、仇恨和宿命始终处于深层孤立状态，孤独感贯穿全文。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.20,
+          "explanation": "情节发展不断强化“宿命不可违”的绝望感，对未来的希望被反复碾碎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.58,
+          "explanation": "宿命、诅咒等抽象概念构成内核，但叙事仍以具象的人物关系和事件为依托。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "人物立场与势力关系交织成多层网络，但主线清晰，复杂度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "大量心理描写探讨了命运、自由意志、牺牲等严肃命题，促使读者深入思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "江湖规则和武学体系有内在逻辑，但叙事以情感驱动，逻辑结构并非最突出特点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.68,
+          "explanation": "将奇幻元素融入武侠，并以悲剧美学重塑侠义精神，在当时大陆新武侠中具有新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.50,
+          "explanation": "虽有新奇设定，但重点在于人物内心世界和情感纠葛，外在的新领域探索并非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.60,
+          "explanation": "善恶与动机时常模糊，人物行为具有多义性，但整体宿命轮廓仍较明确。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.38,
+          "explanation": "情节发展常以出人意料的悲剧转折展开，宿命结局虽隐约可感但细节难以预料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.54,
+          "explanation": "文笔精炼，每段承载的情感与隐喻信息较丰富，但相对通俗文学密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.30,
+          "explanation": "并未系统性地传递知识或技能，主要价值在于审美与情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.92,
+          "explanation": "叙事几乎完全围绕男女主角的内心世界与个人命运展开，是典型个人化视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "人物之间的爱恨、忠诚与背叛是推进故事的主要动力，关系网络极为紧密。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.70,
+          "explanation": "各门派、听雪楼等构成一个微型社会，权力格局和社会规则影响人物命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.45,
+          "explanation": "虽有江湖历史背景，但焦点不在文明的演进或更替上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.20,
+          "explanation": "宿命虽带有超然意味，但并未上升到宇宙法则的宏观层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.60,
+          "explanation": "故事横跨数年，追溯前史，展现人物成长与世代恩怨，时间跨度较长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.72,
+          "explanation": "引入了血魔、诅咒等超自然设定，使传统江湖增添了浓郁的奇幻色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "全文弥漫悲剧调性，真正的快乐时刻极为罕见，且常是为后续悲伤铺垫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.95,
+          "explanation": "悲伤是作品的主导情感基调，失去、错过与无法挽回的遗憾几乎覆盖每个章节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.90,
+          "explanation": "主角因独特命运和自我隔绝而深陷孤独，即便在人群中依然格格不入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.25,
+          "explanation": "仅有极个别瞬间在残酷中闪过一丝暖意，但旋即被更大的黑暗吞没。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.50,
+          "explanation": "对未知宿命、死亡和仇敌的恐惧是人物决策的推力之一，但并未占据主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.82,
+          "explanation": "持续的敌对状态和情感角力营造出紧绷氛围，让读者始终处于高度不安之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.55,
+          "explanation": "英雄人物的决绝、牺牲和神秘力量的存在能唤起一定的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.25,
+          "explanation": "叙事不依赖对美好往昔的追忆，反而更多呈现不堪回首的痛苦往事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.20,
+          "explanation": "试图逃离宿命的努力屡屡失败，结局指向无可挽回的毁灭，希望被彻底消解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.88,
+          "explanation": "一种挥之不去的忧伤和命定感贯穿全文，构成作品特有的唯美气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.62,
+          "explanation": "仇恨和愤怒是驱动人物行动的重要情感，复仇情节占据显著篇幅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.18,
+          "explanation": "故事几乎不提供心灵安宁的时刻，内部与外部冲突持续不断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.92,
+          "explanation": "文笔追求极致的画面感和诗性，将暴力与凋零都表现为一种哀艳的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.22,
+          "explanation": "描写繁复华丽，注重感官铺陈，与简洁克制的风格相去甚远。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.40,
+          "explanation": "偶有对华美场面的渲染，但整体氛围清冷，并非以富贵奢华见长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "整体色调阴暗，背景充满阴谋、杀戮与绝望，黑暗美学特征显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "作品中明亮的时刻十分稀少，且短暂得如同错觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.60,
+          "explanation": "回忆、幻觉与宿命的缠绕营造出迷离虚幻的意境，部分场景带有不真实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "身世秘密和超自然力量设置了一些悬念，但大部分谜团随剧情揭示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.25,
+          "explanation": "叙事形式上遵循传统通俗小说的套路，未进行激进的实验手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.70,
+          "explanation": "继承了中国古典文学对意境和哀婉之美的追求，充满古典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.45,
+          "explanation": "在情感表达和人设上融入现代审美，但整体仍偏向古典风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.66,
+          "explanation": "多线并进、前史穿插，但整体围绕核心宿命展开，复杂度中上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.92,
+          "explanation": "人物心理刻画尤为深刻，内心矛盾、成长轨迹和人格裂变是叙事的重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.78,
+          "explanation": "主角在一次次打击和抉择中发生深刻的性格转变与价值观重塑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.68,
+          "explanation": "构造了包含门派体系、独特法则的幻想江湖，但世界描绘服务于人物命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.35,
+          "explanation": "主要以线性叙述为主，穿插少量回忆倒叙，非线性程度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.72,
+          "explanation": "节奏偏缓，通过大量心理描写和氛围渲染使读者慢慢沉入情感漩涡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.48,
+          "explanation": "武打场面为情感服务，并非完全以动作为卖点，激烈程度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.88,
+          "explanation": "爱恨交织、正邪对立、自我挣扎等多重冲突极为尖锐，几乎不给角色喘息空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.68,
+          "explanation": "通过人物对话和独白探讨生死、宿命、牺牲等命题，具备一定的思辨性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.78,
+          "explanation": "主角的决策几乎皆源自个人意志与情感，时常一意孤行，凸显个人选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "门派与组织的集体利益虽有体现，但总体上个人情感优先于集体意志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.30,
+          "explanation": "血缘关系大多以破碎或对立的形态出现，传统的家庭温情被极淡化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.55,
+          "explanation": "偶有可信赖的伙伴关系，但在惨烈斗争中大多显得脆弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "爱情关系是全书最核心的人际纽带，其毁灭性的美感统治着整个叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.50,
+          "explanation": "听雪楼作为一个组织具有一定的归属性，但内部暗流涌动，归属感不稳固。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.72,
+          "explanation": "权力、地位和情感上的竞争无处不在，推动江湖格局和个人命运的变动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.42,
+          "explanation": "被迫的合作时有发生，但缺乏信任基础，并非核心互动模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.80,
+          "explanation": "听雪楼内部森严的等级、江湖间的势力博弈构成主要的外部压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.88,
+          "explanation": "主角对自己的身份（血魔之女、听雪楼主）充满挣扎，身份认同是核心冲突之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.42,
+          "explanation": "人物渴望挣脱宿命和身份束缚，但往往以失败告终，自由的表达受压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "听雪楼试图建立自己的秩序，江湖也有既定规则，秩序感中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.58,
+          "explanation": "追查身世真相等设定引发对真相的渴求，但并非纯然客观真理的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.92,
+          "explanation": "作品本身即是对悲剧之美的极致追求，文字和情境的美学价值被推到最高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.25,
+          "explanation": "征服与功业非叙事重点，主角的成就需求远不如情感需求强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.65,
+          "explanation": "复仇具有朴素正义色彩，并试图清算罪孽，但道德灰色地带使正义感复杂化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.85,
+          "explanation": "为爱、为保护、为信念的自我牺牲反复出现，是人物最重要的高贵品质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.72,
+          "explanation": "角色持续面对自我，拷问内心真实情感，寻找自我的精神归属。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.60,
+          "explanation": "江湖传统、师门规矩等仍是人物行为的参考系，具有一定的约束力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.30,
+          "explanation": "故事推进中人物处境愈发绝望，真正积极的变革非常有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.70,
+          "explanation": "在刀光剑影和阴谋中求生是每条故事线的基础，生命力坚韧是显著特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.68,
+          "explanation": "人物不断追问为何而战、为何而活，使作品带有浓厚的存在主义色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "人物对秘密的探求推动部分情节，但情绪驱动远多于智识好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.20,
+          "explanation": "几乎没有创造、建设类行为，人物侧重处理冲突和生存问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.48,
+          "explanation": "尽管有江湖闯荡的要素，但叙事的重心是情感与内心挣扎，冒险感不强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.82,
+          "explanation": "大量的心理独白和内省场景鼓励沉思和向内看的阅读行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.72,
+          "explanation": "人物多数时间处于或明或暗的对决中，竞争性和攻击性行为突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.42,
+          "explanation": "人际互动虽多，但多基于利害和算计，轻松的社交行为极为少见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.50,
+          "explanation": "武林人士的训练和门规约束要求一定纪律，但情感爆发常打破克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.65,
+          "explanation": "不顾后果的决斗、孤注一掷的选择贯穿始终，高风险行为频繁出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.30,
+          "explanation": "冷酷表象下的情感风暴和剧情连贯的悲剧冲击使平静难以维持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.55,
+          "explanation": "部分角色试图回避宿命、远遁避世，逃避心理时有出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.62,
+          "explanation": "文字善于塑造强烈的画面感，对场景和动作的视觉描绘丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.48,
+          "explanation": "色彩运用偏向黑白红等对比强烈的冷调，整体色调较为单一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.25,
+          "explanation": "文本对声音着墨不多，渲染主要通过视觉和氛围，听觉感受不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.38,
+          "explanation": "叙事节奏总体沉缓，充满停顿与回眸，较少激烈高速的节奏波动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "通过意象、对话和心理描写营造出浓得化不开的愁云惨雾的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "强烈的共情设计和情景渲染使读者极易沉浸在这个凄美世界中难以抽离。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.88,
+          "explanation": "语言的美感和思想的深度均达到较高文学水准，追求雅致文风。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.90,
+          "explanation": "极具辨识度的冷艳、华美又带刺骨寒意的文字风格，风格化程度很高。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.85,
+          "explanation": "叙事声音充满诗意和宿命感，常有悲悯的全知视角介入。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.72,
+          "explanation": "“听雪”、“血薇”等意象重复出现，被赋予浓厚的象征意义。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.92,
+          "explanation": "人物心理活动通过大量内心独白和意识流片段展现，是塑造人物的主要手段。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.68,
+          "explanation": "幻想江湖的设定细致且自成体系，但并非百科全书式的搭建，重在气氛和情感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者将沉浸在一段冰冷而绚烂的悲剧爱情中。宿命论的沉重感与人物情感的极致表达共同形成一种沉郁的美学体验。阅读过程如同凝视一朵在风雪中凋零的花，情感在悲伤、孤独和短暂的悸动间反复拉扯，最终沉入一种无望而释然的忧伤。",
+        "structure_description": "作品采用线性时序辅以插叙，以男女主角的双线内心叙事交织推进，在一次次危机和抉择中深化人物关系。章节的节奏张弛有度，往往在紧张的事件后接入缓慢的心理剖析，形成情感累积的波浪型结构，引导读者逐步跌入宿命的深渊。",
+        "cognitive_expression": "文本鼓励深层解读和共情式思考，读者需通过大量的心理独白和象征意象来理解人物复杂的内心世界。命运与自由意志的冲突不断引发对因果、善恶的思辨，促使人跳脱表面情节去探求主题隐喻和人性底色。",
+        "behavioral_tendency_description": "阅读行为偏向内省和沉思，受众被引导去审视极端情感下的人类反应。作品偶尔激发对“如果我是他/她”的代入假设，但整体不导向外向的行动或模仿，而是加深了对悲剧之美的静观和对宿命的无力感。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.45,
+        "Ti": 0.52,
+        "Te": 0.30,
+        "Fi": 0.92,
+        "Fe": 0.50,
+        "Si": 0.42,
+        "Se": 0.25,
+        "openness": 0.75,
+        "conscientiousness": 0.48,
+        "extraversion": 0.20,
+        "agreeableness": 0.45,
+        "neuroticism": 0.88,
+        "Assertive": 0.18,
+        "Turbulent": 0.90
+      },
+      "supporting_evidence": [
+        "故事以听雪楼楼主和血魔之女的宿命纠葛为核心主线。",
+        "持续穿插人物大段的内心独白和回忆，展现深层的心理矛盾。",
+        "文辞刻意营造寒冷、凋零的意象，整体色调暗沉。",
+        "男主身患绝症，女主背负血海深仇，两人从一开始就被置于绝境。",
+        "爱情在相互猜忌和身份隔阂中艰难生长，甜蜜时刻极为稀少。",
+        "人物多次在重大关头做出宁为玉碎的牺牲性选择。",
+        "江湖各派系间的权力斗争作为背景不断侵蚀主角的情感空间。",
+        "宿命和诅咒被设定为几乎不可对抗的叙事法则。",
+        "多次出现“血薇”、“听雪”等作为人物命运和关系的隐喻符号。",
+        "坏人并非单纯邪恶，经常展现出悲剧性的过往和动机。",
+        "主角的成长轨迹并非获得，而是不断失去和看透。",
+        "对话富含哲理语句，频频探讨生死与意义。",
+        "感情线占据绝对主导，武打场面多是为了服务情感冲突。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

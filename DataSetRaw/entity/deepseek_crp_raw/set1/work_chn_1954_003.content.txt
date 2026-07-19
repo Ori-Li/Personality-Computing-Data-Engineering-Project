@@ -1,0 +1,738 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1954_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "夜夜夜麻",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 1997,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-26",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.9,
+        "evidenceVersion": "v1.0",
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "话剧《夜夜夜麻》以四个中年男人在深夜打麻将的单一场景展开。牌桌成为他们掩藏自我、发泄不满与相互试探的封闭空间。随着夜色加深与酒精作用，表面的粗俗玩笑与戏谑逐渐剥落，暴露出每个人内心深处的失意、婚姻危机、职业挫败与理想幻灭。作品以尖刻的黑色幽默和大量本土俚语，拼贴出一代人的精神废墟，对90年代台湾社会风气与中产阶级男性心态进行了辛辣的讽刺与解剖。",
+        "themes": [
+          "中年危机",
+          "友谊",
+          "逃避",
+          "身份认同",
+          "社会讽刺",
+          "孤独",
+          "幻灭"
+        ],
+        "keywords": [
+          "麻将",
+          "深夜",
+          "酒精",
+          "封闭空间",
+          "黑色幽默",
+          "本土俚语",
+          "男性情谊",
+          "社会转型",
+          "内心独白"
+        ],
+        "core_experience": "在密闭压抑的牌桌氛围中，观众透过琐碎、粗俗又充满机智的对话，体验到一种混杂着焦躁、厌倦与感伤的情绪。笑声背后是不安与凄凉，戏谑之下是无力改变现状的绝望，整体带来一种冷静审视自我与他人精神困境的认知体验。",
+        "experience_introduction": "《夜夜夜麻》通过将四个男人禁锢在午夜牌桌这一极度限制的虚构空间中，迫使角色的内心世界在重复的牌局与插科打诨中泄露出来。作品不存在线性推进的情节，而是依靠密集的对话交锋逐步建立心理张力。观众获得的不是情节悬念，而是一种持续的认知参与，需要不断解读台词背后的潜文本与情感信息，从而在幽默与压抑并存的氛围里，完成一次对失意人生的冷峻旁观与共情。"
+      },
+      "experience_vector": {
+        "passion": 0.2,
+        "healing": 0.1,
+        "awe": 0.05,
+        "nostalgia": 0.55,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.6,
+        "warmth": 0.15,
+        "loneliness": 0.8,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.6,
+          "complexity": 0.55,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.2,
+          "novelty": 0.65,
+          "exploration": 0.3,
+          "ambiguity": 0.7,
+          "predictability": 0.25,
+          "information_density": 0.75,
+          "learning_value": 0.6
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.8,
+          "social_scale": 0.6,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.05,
+          "time_span": 0.2,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.7,
+          "loneliness": 0.85,
+          "warmth": 0.15,
+          "fear": 0.25,
+          "tension": 0.5,
+          "awe": 0.05,
+          "nostalgia": 0.55,
+          "hope": 0.05,
+          "melancholy": 0.8,
+          "anger": 0.4,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.1,
+          "minimalism": 0.85,
+          "luxury": 0.05,
+          "darkness": 0.8,
+          "brightness": 0.05,
+          "dreamlike": 0.1,
+          "mystery": 0.15,
+          "experimental": 0.3,
+          "classical": 0.2,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.85,
+          "character_growth": 0.1,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.7,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.55,
+          "philosophical_depth": 0.65
+        },
+        "social_relationship": {
+          "individualism": 0.8,
+          "collectivism": 0.15,
+          "family": 0.4,
+          "friendship": 0.75,
+          "love": 0.2,
+          "community": 0.1,
+          "competition": 0.6,
+          "cooperation": 0.1,
+          "power_relationship": 0.3,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.2,
+          "order": 0.1,
+          "truth": 0.6,
+          "beauty": 0.05,
+          "achievement": 0.2,
+          "justice": 0.05,
+          "sacrifice": 0.1,
+          "self_exploration": 0.8,
+          "tradition": 0.15,
+          "change": 0.1,
+          "survival": 0.55,
+          "meaning": 0.7
+        },
+        "behavior": {
+          "curiosity": 0.2,
+          "creation": 0.1,
+          "adventure": 0.05,
+          "reflection": 0.9,
+          "competition": 0.45,
+          "social": 0.4,
+          "discipline": 0.05,
+          "risk": 0.15,
+          "calm": 0.1,
+          "escape": 0.85
+        },
+        "sensory": {
+          "visual_intensity": 0.2,
+          "color_richness": 0.1,
+          "sound_intensity": 0.3,
+          "rhythm_energy": 0.25,
+          "atmosphere": 0.85,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.9,
+          "actor_expression": 0.85,
+          "body_expression": 0.35,
+          "audience_interaction": 0.1,
+          "performance_intensity": 0.65,
+          "ritual_sense": 0.55
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.2,
+          "explanation": "全剧以冷嘲热讽为主调，角色之间缺乏真诚热忱，情感表达多为消极发泄，因此激情程度较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "作品着重揭露精神创伤且未提供和解或抚慰，整体氛围压抑，极少有治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "场景设定完全日常化，专注于小人物琐碎生活，没有任何宏大场面或超越性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "角色反复回忆过去的理想与青春，对现状的不满常与消逝的时光做对比，引发怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "通过对白逐步揭示角色内心困境，强烈引导观众反思人生意义与社会现实，是全剧核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "剧中仅将婚姻作为虚伪的讽刺素材，不存在浪漫情节或正面情感描绘。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.6,
+          "explanation": "密闭空间内的人际冲突、言语交锋与酒精作用，持续累积心理压迫感与戏剧张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "角色关系充满疏离与冷嘲，彼此之间极少表现出真诚的关怀或温情。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "每个角色本质上都是孤立的，即使在群体中仍无法相互理解，深刻传递出生存的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "结局没有提供解决问题的出口，角色继续沉沦于现实困境，希望感极为稀薄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.6,
+          "explanation": "大量对话使用隐喻、反讽和潜台词，需要观众解读抽象意义，但仍扎根于具体生活场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "人物心理状态多层交织，语言包含丰富的社会与文化背景指涉，具有一定认知复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "作品旨在探讨存在困境与生存意义，迫使观众进行深层的哲学与社会学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.2,
+          "explanation": "叙事完全依赖散漫的对话和心理流动，拒绝遵循严密的因果逻辑或情节结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.65,
+          "explanation": "在1990年代的华语剧场中，以麻将桌为单一场景并运用大量低俗俚语解构中产男性气质，具有较高原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "空间与事件高度受限，探索主要体现在对人物内心世界的纵向挖掘，而非外部世界的扩展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.7,
+          "explanation": "人物的真实动机与叙事因果大量留白，结局开放，留有大量不确定性与解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "没有明显的戏剧高潮或情节转折，走向主要由人物情绪驱动，缺乏套路的可预测性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "每句台词普遍承载了社会背景、文化符号与人物潜在线索，单位时间内传递的语义信息极为密集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.6,
+          "explanation": "可作为观察特定时期台湾社会转型与中产阶级男性精神危机的文化样本，具备社会学认知价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "所有冲突与表达均严格聚焦于四个个体的内心挣扎、记忆与挫败感，几乎不涉及外部宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.8,
+          "explanation": "核心张力源于男性友情间的虚伪、相互攀比与情感勒索，人际关系是主要探讨范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.6,
+          "explanation": "透过个人对话间接映射了1990年代台湾拜金、社会阶层固化等结构性现象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "视野完全局限于当代都市夜生活一角，无跨文明、跨地域的历史纵深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "缺乏对人类整体命运或宇宙尺度的观照，局限于私密的世俗场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "情节时间跨度仅为深夜几小时，虽有回忆穿插，但现实时间轴被极度压缩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "全剧根植于高度写实的当代都市生活，无任何超自然设定或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "幽默多为黑色讽刺，缺乏纯粹的喜悦表达，笑声背后充满苦涩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.7,
+          "explanation": "角色的失意人生和对理想的背叛构成了贯穿始终的悲伤底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "各角色的内心世界完全隔绝，表现出极深的沟通障碍与生存性的孤立无援。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "牌桌上的社交充满功利性与防御性，几乎消解了所有可能出现的温暖瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.25,
+          "explanation": "恐惧主要体现在对衰老、社会地位丧失与身份崩塌的潜在焦虑上，而非显性惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.5,
+          "explanation": "语言挑衅和气氛僵持不断累积，形成虽不激烈但极为压抑持续的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "场景极其日常琐碎，旨在祛魅而非营造崇高感或惊叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "多处独白回溯不被现实污染的青春时代，流露出对逝去时光的失落感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "人物被牢牢困在生活泥潭中且无突破迹象，整体调性绝望颓废。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.8,
+          "explanation": "整部作品氛围笼罩在一种对命运无奈接受、消沉寂寥的忧伤感之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.4,
+          "explanation": "愤怒多为以脏话和互怼形式呈现的隐性愤世嫉俗，并非持续的高强度爆发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "人物内心充满焦虑与不甘，直到剧终仍未获得安宁或解脱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.1,
+          "explanation": "美学上主动追求粗粝与丑陋感以还原真实生活，不提供传统意义上的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "单一场次、单一场景、无换景，剥离多余元素，呈现极简有力的舞台效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "场景即为普通民居，陈设简单随意，刻意避开精致或奢华的美学风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.8,
+          "explanation": "夜戏设定、阴暗压抑的内心剖析以及消极的文化隐喻构成了强烈暗黑美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "作品总体旨在揭示阴暗角落，无明亮或开朗的情绪调性支撑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.1,
+          "explanation": "所有情节均在清醒状态下展开，完全依托现实逻辑，无梦幻或超现实色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "虽有留白与潜台词，但叙事不追求悬疑氛围或制造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "在语言尺度与戏剧结构上有先锋尝试，但整体仍维持可辨识的写实戏剧框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.2,
+          "explanation": "戏剧形式继承古希腊悲剧的约束倾向，但精神内核与语言完全当代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "主题切入飞速变迁的现代社会，台词使用大量时代词汇与流行文化符号，极具当代质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "作品几乎没有推进的情节，戏剧性均由对话支撑，无多线叙事或复杂情节编织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "全剧专注于人物灵魂的层层剥露，带有极强的心理纵深与复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.1,
+          "explanation": "角色在剧中未实现任何精神状态或处境的真正正向转变，呈现的是一潭死水般的停滞。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "虚构世界的建构被彻底弱化，完全服务于展示人物内心的封闭空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "除了偶尔的回忆片段外，主体叙事线按时间自然流淌，无复杂的闪回嵌套结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.7,
+          "explanation": "利用密集琐碎的对话磨合产生的韵律，逐步将观众拖入人物的精神世界，节奏缓慢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "全剧仅有坐着打牌与交谈的静态表演，无任何肢体冲突或外在戏剧动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.55,
+          "explanation": "冲突主要为言语攻击与内心郁结，虽有交锋但保持了一定的克制与社会伪装。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.65,
+          "explanation": "对存在的虚无、人际的疏离与社会规范的伪善进行了系统性的形而上探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.8,
+          "explanation": "角色普遍秉持极端的个人中心主义，即使在牌桌上也只关心自身的挫败与诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "牌友会仅为形式上的脆弱集合，缺乏共同的目标或集体责任意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.4,
+          "explanation": "家庭被描述为束缚和压力的来源，通过人物控诉间接占据一定比重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.75,
+          "explanation": "作品深入解构男性友情中的虚伪、嫉妒与依赖，这是维系戏剧发展的核心关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.2,
+          "explanation": "爱情在角色口中仅作为变质或失败的神话存在，缺乏正面的情感互动描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.1,
+          "explanation": "舞台之外的更大社群几乎全被屏蔽，只留下极私密的逃逸小团体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.6,
+          "explanation": "牌桌输赢与社会地位攀比贯穿始终，言语间的明争暗斗构成了主要互动模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "体系内缺乏真正的团队合作，人物交往更似共谋的相互沉沦，缺乏协作精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.3,
+          "explanation": "虽有身份高低与优越感的互相倾轧，但无严酷的权力结构出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "面对自身定位的边缘化、雄风不再的焦虑，身份追寻与认同的困境是作品最核心的主题之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "角色虽表达对自由的向往，但作品更多呈现的是无法挣脱束缚的无力感与局限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "剧中秩序已被击碎，人物生活在混沌的价值观体系中，不赞成任何形式的规训。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "剧中不断撕破角色的社会伪装，强迫观众面对残酷的生活真相与内心真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "作品旨在瓦解表面和谐，不歌颂也不展现美的价值，关注丑与真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.2,
+          "explanation": "展示的恰恰是追求世俗成就的失败与虚无，弱化了事业成功本身的重要意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及善恶有报或天理公义的社会法则探讨，基调为无体系的混沌不公。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "人物普遍缺乏牺牲精神，所有交流均建立在欲望博弈及自保之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.8,
+          "explanation": "酗酒和漫聊成为了角色严厉剖析自我的手段，作品的核心价值在于向内挖掘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "传统的父权结构被严重嘲弄，仅有麻将这一形式作为残余的传统符号存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.1,
+          "explanation": "作品极力描绘了渴望改变又无力改变的僵局，变化本身在剧中未发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.55,
+          "explanation": "揭示了精神上的苟延残喘，人物处于如何维持仅存自尊的生存挣扎中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.7,
+          "explanation": "探索失序生活中人生意义的有无是剧本深层驱动力，对意义的拷问贯穿全篇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.2,
+          "explanation": "角色沉溺于自身的衰退与抱怨，对外部世界及新鲜事物完全缺乏探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "氛围凝聚在破坏性自嘲和毁灭倾向，毫无建设或创造性行为的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "人物心态衰老，惧怕风险且排斥改变，彻底背离冒险主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品全程驱动观众与角色一起在停顿和独白中进行高强度反思，这是最突出的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.45,
+          "explanation": "牌技和口舌之争频繁出现，但竞争行为常带有自暴自弃的消极色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.4,
+          "explanation": "强制性的社交正在进行，但双方的隔绝使得社交流于表面，内心是退缩的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.05,
+          "explanation": "通宵滥饮和满口脏话表现的是自律的崩坏，与严格约束的行为完全相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "人物在精神上已承受不住风险，全剧回避重大决策与有害的高危行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "情绪多为躁动不安与苦闷，行为完全受失控的情绪牵引，缺乏沉着镇定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.85,
+          "explanation": "打麻将和喝大酒是这类人逃避现实、麻痹自我、逃离家庭责任的核心呈现方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.2,
+          "explanation": "舞美简陋黯淡，缺乏恢宏或绚丽的视觉刺激，强调写实与单调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "整体视觉色调极其晦暗阴冷，极少使用高饱和度和多色彩搭配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.3,
+          "explanation": "以人声对白为主，偶有麻将碰撞声与环境音，缺乏激烈或震撼的声响效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.25,
+          "explanation": "戏剧节奏完全取决于对话的停顿与爆发，总体能级低迷，呈现出黏着迟滞的质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "密闭、颓废、酒精和烟雾构织出的粘稠重量感是该剧最入骨的感官特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "通过高度写实的表演与共时性极强的话轮，将观众逐步卷入仿若真实的压抑集体中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.9,
+          "explanation": "话剧完全依赖演员在当下的真实反应与能量碰撞，四名角色的动态互动具有极强的临场魅力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.85,
+          "explanation": "大量使用停顿、语气转换与微相表情来传递复杂心理信息，对演技提出了极高要求。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.35,
+          "explanation": "由于角色一直坐在牌桌前，受到物理条件极大制约，肢体动作主要限于小范围手势。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.1,
+          "explanation": "完全采用第四堵墙式演出，经典镜框式写实，不设直接的观演互动机制。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.65,
+          "explanation": "演员需在不间断的单调场景中持续释放精准的情绪起伏，耗费的精力与密集的强度很高。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.55,
+          "explanation": "深夜机械化的反复洗牌、砌牌和起手动作形成了一种冰冷颓丧的现代仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众将经历一场高密度的认知消耗，体验过程混杂着审视、共情与压抑。表面上是被粗俗俚语激发的间歇性发笑，但笑过之后对生存困境的反思与悲凉感愈发浓重，最终留下一种挥之不去的沉重与无力感。",
+        "structure_description": "作品不依靠传统情节结构，完全依托于深夜牌桌这一束缚性极强的时空统一体。通过麻将局次的间隔和酒精上头的层次来推进心理节奏，没有高潮与结局，只有不断下坠的情绪曲线和对峙的循环。",
+        "cognitive_expression": "观众的注意力被强制集中在台词的潜文本与人物关系的裂隙上，需要不断进行解码与归纳。它鼓励批判性思维和对生活意义的抽象思索，而非形式逻辑或推理解谜。",
+        "behavioral_tendency_description": "作品极大地激发逃避现实和深刻反思这两种看似矛盾的行为倾向，将深夜狂欢定义为一种消极抵抗。它不鼓励任何外部行动或社交，而是让观众产生静坐与内省的冲动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.7,
+        "Ne": 0.15,
+        "Ti": 0.65,
+        "Te": 0.1,
+        "Fi": 0.85,
+        "Fe": 0.3,
+        "Si": 0.4,
+        "Se": 0.1,
+        "openness": 0.8,
+        "conscientiousness": 0.1,
+        "extraversion": 0.1,
+        "agreeableness": 0.2,
+        "neuroticism": 0.9,
+        "Assertive": 0.05,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "全剧场景自始至终封闭在一间深夜的普通民居内，角色从未离开牌桌。",
+        "四个角色均为四十几岁的中年男性，各自处于不同形式的婚姻破裂或职业瓶颈中。",
+        "大量对白充斥着闽南语脏话、粗俗俚语和性相关的笑话，形成特殊的语言风格。",
+        "角色之间通过持续不断的赌局输赢与口头嘲讽来维系脆弱的男性友谊。",
+        "角色在饮酒后逐渐卸下伪装，原本的插科打诨转为严苛的自我剖析与指控。",
+        "关于校园时代理想与现状狼狈的对比回忆贯穿了整晚的长谈。",
+        "剧本没有任何外来的突发事件或真正的闯入者，张力完全由人物关系发酵而成。",
+        "人物频繁表现出对家庭责任的强烈抵触与玩世不恭的消极抵抗。",
+        "舞台陈设极其质朴，灯光音效均服务于压抑与阴郁的氛围，无任何炫技。",
+        "牌桌上的语言交流常常是自说自话，人物的孤独感并未因共处一室而消除。",
+        "作品拒绝高尚化的说教，仅以极端刻薄的黑色幽默来影射当时的社会溃烂。",
+        "角色在漫长的深夜里没有采取任何实质性的行动去改变生活，只是逃避。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

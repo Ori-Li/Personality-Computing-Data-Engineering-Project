@@ -1,0 +1,729 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 1,
+    "total": 1,
+    "currentWorkId": "work_chn_unknown_003",
+    "nextWorkId": null,
+    "isCompleted": false
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "谋杀",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 0,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《谋杀》是地下说唱歌手幼稚园杀手的一首硬核说唱作品，以高速饶舌和密集押韵为载体，通过阴暗的隐喻和内心独白式的歌词，深入描绘社会底层的人性扭曲、暴力与压抑。作品并非讲述具体谋杀事件，而是将‘谋杀’作为一种象征，探讨现实对纯真、道德与希望的扼杀，营造出强烈的愤怒、紧张和批判性的听觉体验。",
+        "themes": [
+          "人性阴暗面",
+          "社会批判",
+          "暴力",
+          "压抑",
+          "身份认同",
+          "生存",
+          "异化"
+        ],
+        "keywords": [
+          "地下说唱",
+          "硬核嘻哈",
+          "幼稚园杀手",
+          "内心独白",
+          "隐喻",
+          "社会底层",
+          "高速饶舌",
+          "押韵技巧",
+          "愤怒",
+          "批判"
+        ],
+        "core_experience": "听众在疾速节奏与尖锐词句中，感受到一种来自社会底层的压抑、愤怒与紧张感，并持续面对人性阴暗面的冲击与存在反思。",
+        "experience_introduction": "《谋杀》通过高速硬核说唱与尖锐歌词，将听众抛入一个充满压抑、暴力和社会批判的阴暗世界。幼稚园杀手以高密度押韵和隐喻，将‘谋杀’升华为人性在现实重压下消亡的符号，使听众在急促节奏中持续经历紧张、愤怒与存在反思。整首歌曲不提供抚慰与释放，而是以强烈的感官冲击和思想对峙营造一种沉重、内省且批判性的听觉体验。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.05,
+        "awe": 0.20,
+        "nostalgia": 0.05,
+        "reflection": 0.70,
+        "romance": 0.00,
+        "tension": 0.90,
+        "warmth": 0.00,
+        "loneliness": 0.60,
+        "hope": 0.05
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.80,
+          "depth_of_thought": 0.75,
+          "logical_structure": 0.60,
+          "novelty": 0.60,
+          "exploration": 0.40,
+          "ambiguity": 0.70,
+          "predictability": 0.25,
+          "information_density": 0.85,
+          "learning_value": 0.40
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.30,
+          "social_scale": 0.80,
+          "civilization_scale": 0.20,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.20
+        },
+        "emotion": {
+          "happiness": 0.00,
+          "sadness": 0.50,
+          "loneliness": 0.60,
+          "warmth": 0.00,
+          "fear": 0.70,
+          "tension": 0.90,
+          "awe": 0.20,
+          "nostalgia": 0.05,
+          "hope": 0.05,
+          "melancholy": 0.55,
+          "anger": 0.85,
+          "peace": 0.00
+        },
+        "aesthetic": {
+          "beauty": 0.10,
+          "minimalism": 0.40,
+          "luxury": 0.05,
+          "darkness": 0.90,
+          "brightness": 0.00,
+          "dreamlike": 0.15,
+          "mystery": 0.30,
+          "experimental": 0.60,
+          "classical": 0.10,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.40,
+          "character_depth": 0.85,
+          "character_growth": 0.15,
+          "world_building": 0.20,
+          "nonlinear_structure": 0.55,
+          "slow_immersion": 0.10,
+          "action_intensity": 0.80,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.70
+        },
+        "social_relationship": {
+          "individualism": 0.80,
+          "collectivism": 0.20,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.00,
+          "community": 0.15,
+          "competition": 0.75,
+          "cooperation": 0.10,
+          "power_relationship": 0.80,
+          "identity": 0.75
+        },
+        "value": {
+          "freedom": 0.50,
+          "order": 0.05,
+          "truth": 0.80,
+          "beauty": 0.10,
+          "achievement": 0.50,
+          "justice": 0.40,
+          "sacrifice": 0.30,
+          "self_exploration": 0.70,
+          "tradition": 0.05,
+          "change": 0.35,
+          "survival": 0.85,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.30,
+          "creation": 0.55,
+          "adventure": 0.20,
+          "reflection": 0.75,
+          "competition": 0.80,
+          "social": 0.15,
+          "discipline": 0.60,
+          "risk": 0.60,
+          "calm": 0.05,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.30,
+          "color_richness": 0.25,
+          "sound_intensity": 0.95,
+          "rhythm_energy": 0.95,
+          "atmosphere": 0.85,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "硬核说唱",
+          "tempo": 0.90,
+          "energy": 0.95,
+          "vocal_style": "高速饶舌",
+          "instrumentation": "硬核节拍",
+          "production_style": "地下制作",
+          "lyrical_theme": "社会批判与人性阴暗",
+          "emotional_scene": "敌对与压抑",
+          "cultural_context": "中国地下嘻哈圈"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "整首歌充满高强度情绪表达，尤其是愤怒和批判，激情高涨。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "内容聚焦暴力与社会阴暗，几乎没有提供安慰或治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.20,
+          "explanation": "高超的押韵技巧可能引发惊叹，但核心情绪并非敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "内容直面现实阴暗面，与怀旧情绪完全相反。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.70,
+          "explanation": "歌词通过隐喻和内心独白引导听众进行社会与人性反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.00,
+          "explanation": "主题和内容与浪漫完全无关。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.90,
+          "explanation": "急促的节奏、尖锐的歌词和阴暗的隐喻共同营造出持续的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.00,
+          "explanation": "作品氛围冷酷，没有任何温暖的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.60,
+          "explanation": "内心独白式的叙述和对社会底层的描绘带有强烈的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.05,
+          "explanation": "批判性的内容几乎没有提供明确希望或出路。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "大量使用隐喻，‘谋杀’本身就是一个需要解读的抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.80,
+          "explanation": "歌词信息量极大，押韵结构和节奏变化多，理解门槛高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.75,
+          "explanation": "对人性异化、社会压迫等主题进行了深入且尖锐的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.60,
+          "explanation": "内心独白的结构带有非线性和跳跃性，但仍围绕核心主题展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.60,
+          "explanation": "在早期中文说唱中，如此直白且系统地用隐喻批判社会底层的方式具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.40,
+          "explanation": "作品引导听众探索人性阴暗面和社会问题，但非探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.70,
+          "explanation": "大量隐喻和内心独白使歌词有多重解读空间，意图并非直白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "歌词走向和情绪爆发点常常出人意料，节奏变化也难以预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "快速的语速、密集的押韵和大量的隐喻使得单位时间内传递的信息极其丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.40,
+          "explanation": "提供了对社会阴暗面的另一种视角，但并非知识性或教育性作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "叙事完全围绕个人内心体验、挣扎与观察展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.30,
+          "explanation": "提及部分权力关系，但不聚焦亲密或合作性人际互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.80,
+          "explanation": "批判的核心指向社会不公、底层生态等宏观社会问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.20,
+          "explanation": "偶有指向更广泛的文明扭曲，但主要聚焦当下社会现象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "几乎不涉及宇宙、存在或超越尘世的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "叙事聚焦于当下或某个压迫性的瞬间，时间跨度极小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.20,
+          "explanation": "通过隐喻构建了类似噩梦或扭曲现实的场景，但扎根于现实批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.00,
+          "explanation": "全曲与快乐的情绪绝缘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.50,
+          "explanation": "在愤怒的表象之下，存在对个体命运的悲悯。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.60,
+          "explanation": "作为异化的个体对世界发声，这种独白强化了隔绝感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.00,
+          "explanation": "冰冷、残酷的基调贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.70,
+          "explanation": "描绘的暴力、监控、压迫等意象激发强烈不安与恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.90,
+          "explanation": "从头至尾保持高度紧绷状态，无论是节奏、Flow还是情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.20,
+          "explanation": "听众可能敬畏其技艺，但歌曲本身不营造壮丽与崇敬感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "与怀旧感相反，指向一种无处可逃的现状。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "描绘的场景几乎没有出口，希望微弱到近乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "对逝去的纯真或美好人性被扼杀抱有深深的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.85,
+          "explanation": "对不公和扭曲现实的愤怒是驱动全曲情绪的核心动力之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.00,
+          "explanation": "没有任何平和、安宁的感受元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.10,
+          "explanation": "视听风格拒绝传统美感，追求的是粗粝和冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.40,
+          "explanation": "制作可能较为地下和原始，不追求华丽编曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "文本和音色都反对奢华，描述的是底层与匮乏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.90,
+          "explanation": "黑暗美学是其最突出的特征，映射人性的罪恶与社会的阴暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.00,
+          "explanation": "完全没有明亮、积极的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "虽然有高度抽象的隐喻，但不是梦幻，而是像一场无法醒来的噩梦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.30,
+          "explanation": "更多是残酷的直白和愤怒的爆发，而不是悬疑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.60,
+          "explanation": "在歌词表达、Flow编排和氛围营造上，在早期中文说唱中具有实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.10,
+          "explanation": "与古典美学完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "直面现代都市社会的病症，形式上也是典型的现代嘻哈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.40,
+          "explanation": "并非线性故事，更像一份思想切片，没有复杂的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "作为内心独白，对主角内心世界的挖掘非常深入、复杂且充满矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "角色深陷愤怒与痛苦，更像一个恒定状态而非成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.20,
+          "explanation": "描绘的社会底层面貌是碎片化、隐喻式的，而非系统性构建世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.55,
+          "explanation": "意识流和内心独白的结构具有非线性特征，主题反复缠绕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.10,
+          "explanation": "一开场就以高强度冲击听众，几乎没有缓慢铺垫的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.80,
+          "explanation": "歌词描绘了大量暴力、冲突等具有冲击力的‘行动’，听觉能量极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "内外冲突都极其尖锐：个体对抗系统，人性对抗暴力，理想对抗现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.70,
+          "explanation": "对人性善恶、存在意义、社会公平等哲学命题有深刻的批判性思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.80,
+          "explanation": "强调个体的异化、个人愤怒和个人视角，是与外部世界对抗的自我。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.20,
+          "explanation": "对集体和社会持批判态度，不强调团结和集体归属。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "不涉及温暖的友情，世界是敌对的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.00,
+          "explanation": "没有任何形式的爱情表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.15,
+          "explanation": "描绘的社群是压迫性的或冷漠的，而非提供支持的社群。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.75,
+          "explanation": "描绘了一个达尔文式的底层世界，充满了资源与生存空间的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "合作在这个世界几乎不存在，强调的是孤军奋战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.80,
+          "explanation": "‘谋杀’本身常代表权力上位者对下位者的碾压，权力关系是核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.75,
+          "explanation": "‘我是谁？’‘我成了什么？’是重要的追问，身份的异化是核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.50,
+          "explanation": "通过表达压抑，间接体现出对自由的渴望，但自身被牢牢束缚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.05,
+          "explanation": "呈现的秩序是压迫性的，作品本身也拥抱混沌与混乱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.80,
+          "explanation": "有强烈揭露真相、撕破伪装、直面血淋淋现实的动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.10,
+          "explanation": "反对传统美学，追求真实与力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.50,
+          "explanation": "艺人展示了高超的技巧，这是一种个人成就的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.40,
+          "explanation": "存在对不公的愤怒，但并未清晰描绘出正义的图景，更多是绝望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.30,
+          "explanation": "‘纯真’被‘谋杀’可以视为一种牺牲，但非主动的英雄主义牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.70,
+          "explanation": "整首歌就是一次对自我内心阴暗面和痛苦根源的深度探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.05,
+          "explanation": "以反叛和颠覆传统为姿态，不维护任何传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.35,
+          "explanation": "作品本身是对‘不变现实’的愤怒控诉，暗示需要变革但未指明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "在恶劣环境下求生的意志和挣扎是底层叙述的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "通过控诉无意义的世界，反向叩问生命的意义与价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.30,
+          "explanation": "引导的更多是反思而非对未知的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "作品本身就是一件充满创造力的艺术品，尤其在语言使用上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.20,
+          "explanation": "不鼓励外向的冒险，而是进行内在的危险探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.75,
+          "explanation": "硬核的声音迫使听众面对残酷现实，驱动深刻反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.80,
+          "explanation": "无论在音乐技巧的展示还是叙事内容上，都体现了强烈的对抗与竞争性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "描绘的社交是冷漠和对立的，不鼓励亲社会的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.60,
+          "explanation": "高难度的押韵和节奏控制间接体现了创作者高度的技巧和自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.60,
+          "explanation": "内容本身在挑战审查和主流审美，带有高风险性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "整首歌处于情绪风暴中，与沉着冷静相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "没有提供逃避的出口，而是让人直面问题，但幻想破灭本身也是一种进入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.30,
+          "explanation": "作为音乐，其视觉性体现在歌词塑造的强烈意象上，但非直接视觉艺术。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "描绘的色调以黑、灰、血红色等单色或压抑色调为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.95,
+          "explanation": "高速且有力的硬核节拍与尖锐人声产生极强的听觉冲击和压迫感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.95,
+          "explanation": "能量极高，节奏密集，驱动听众情绪持续亢奋与紧绷。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "成功营造出一个压抑、危险、充满敌意和绝望的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "高强度的听觉和情感输出使听众极易沉浸于其创造的黑暗世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.90,
+          "explanation": "节奏速度极快，属于高速说唱范畴。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.95,
+          "explanation": "歌曲从头到尾保持了极高的能量水平。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": null,
+          "explanation": "通过‘敌对与压抑’这个定性描述概括了整体的情感场景。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众被快速、锋利的节奏与暴烈的歌词拉入一个黑暗、压抑的社会底层世界。体验过程充斥着愤怒、紧张和不安，几乎不存在温暖的喘息空间，情感浓度和冲击力被推至顶点。这场聆听不仅仅是感官上的震撼，更是一场思想上的拷问，迫使听众直面人性的扭曲与生存的残酷。",
+        "structure_description": "作品采用内心独白式的非线性结构，以高速硬核的Flow和密集的韵脚为骨架。情绪和主题如浪潮般一波接一波地袭来，并非从容展开，而是通过持续加压的方式，让压抑感层层堆叠，最终形成一种无处可逃的压迫性结构。",
+        "cognitive_expression": "歌曲通过大量隐喻和符号化的表达（如将‘谋杀’作为核心概念），不断激发听众的解读、联想和抽象思考。高信息密度的歌词要求听众在高速节奏中同步处理复杂的语义和情感，从而驱动一种分析性与批判性并存的认知模式。",
+        "behavioral_tendency_description": "作品鼓励一种内省式的对抗姿态。它不倡导合作、和解或逃避，而是引导听众将注意力转向对社会黑暗的批判、对自我身份的反省，并在心理层面产生一种严阵以待、对矛盾和压力高度警觉的行为倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.80,
+        "Ne": 0.35,
+        "Ti": 0.75,
+        "Te": 0.55,
+        "Fi": 0.80,
+        "Fe": 0.15,
+        "Si": 0.15,
+        "Se": 0.55,
+        "openness": 0.85,
+        "conscientiousness": 0.55,
+        "extraversion": 0.25,
+        "agreeableness": 0.10,
+        "neuroticism": 0.80,
+        "Assertive": 0.20,
+        "Turbulent": 0.80
+      },
+      "supporting_evidence": [
+        "歌曲通篇以隐喻方式构建叙事，核心意象‘谋杀’并不指代真实的凶案。",
+        "歌词以第一人称展开，运用了大量的内心独白技巧。",
+        "整首歌的节奏极快，在单位时间内输出非常密集的词汇和韵脚。",
+        "歌词描绘了多个充满暴力与破碎感的底层生活场景。",
+        "作品反复表达对外部世界不公和人性扭曲的尖锐批判。",
+        "快速且紧张的节拍与阴沉的编曲相配合，营造出压迫性的氛围。",
+        "演唱者在表达上使用了尖锐、具有攻击性的声线和语调。",
+        "作品聚焦于个体内心与外部环境之间的剧烈冲突和撕裂感。",
+        "歌词探讨了身份异化的主题，个体在残酷现实中迷失了自我。",
+        "对抗、压迫和挣扎等主题在歌词中高频出现，构成作品的基调。",
+        "作品在中国早期地下嘻哈音乐中以其独特的硬核风格和高技术门槛著称。",
+        "歌词内容审视了在极端生存压力下人性的崩溃与道德失效。",
+        "叙事不提供任何简单的答案或安慰，始终保持一种冷峻和绝望的视角。",
+        "编曲风格简洁粗粝，剔除了一切商业化的讨好元素，服务于愤怒的表达。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

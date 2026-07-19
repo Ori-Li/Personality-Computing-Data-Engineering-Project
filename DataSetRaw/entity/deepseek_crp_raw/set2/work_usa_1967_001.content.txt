@@ -1,0 +1,741 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1967_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "What a Wonderful World",
+        "type": "MUSIC",
+        "countryName": "美国",
+        "year": 1967,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "confidence": 0.95,
+        "primaryMediaType": "MUSIC",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN"
+      },
+      "semantic": {
+        "summary": "路易斯·阿姆斯特朗在1960年代末社会动荡时期演唱的一首爵士歌曲。作品以极简的歌词列举蓝天、绿树、彩虹与人间温情，用孩童般纯真的视角观察世界。沙哑醇厚的小号与人声交织，放弃炫技而回归本真，在混乱时代为听众提供片刻的心灵栖息。歌曲超越了种族与政治分歧，成为跨越时空的人类共同文化遗产。",
+        "themes": [
+          "自然之美",
+          "人类情感",
+          "和平",
+          "感恩",
+          "纯真",
+          "希望",
+          "普世之爱"
+        ],
+        "keywords": [
+          "路易斯·阿姆斯特朗",
+          "爵士",
+          "蓝天",
+          "绿树",
+          "彩虹",
+          "朋友",
+          "婴儿",
+          "小号",
+          "乐观主义",
+          "反战"
+        ],
+        "core_experience": "在粗粝嗓音与温暖旋律的对比中，听众被带入一种放下防备、重新发现世界美好的心境。歌曲不提供复杂的思辨，而是通过持续的肯定性陈述，让听者从疲惫与焦虑中短暂抽离，体验一种朴素而包容的安宁。",
+        "experience_introduction": "作品以极简的歌词和舒缓的摇摆节奏构建听觉空间。路易斯·阿姆斯特朗未经修饰的嗓音本身就承载着岁月的沧桑感，但他唱出的内容却是对世界最原始、最纯粹的赞美。这种形式与内容之间的张力创造了独特的聆听体验：听众既感受到现实世界的不完美，又被引导去关注那些常被忽略的美好事物。歌曲不长，但重复的肯定句式具有类似冥想或祈祷的效果，使情绪从低落逐渐转向平静与感动。"
+      },
+      "experience_vector": {
+        "passion": 0.48,
+        "healing": 0.87,
+        "awe": 0.62,
+        "nostalgia": 0.71,
+        "reflection": 0.55,
+        "romance": 0.28,
+        "tension": 0.05,
+        "warmth": 0.92,
+        "loneliness": 0.15,
+        "hope": 0.88
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.22,
+          "complexity": 0.12,
+          "depth_of_thought": 0.35,
+          "logical_structure": 0.08,
+          "novelty": 0.18,
+          "exploration": 0.20,
+          "ambiguity": 0.10,
+          "predictability": 0.85,
+          "information_density": 0.15,
+          "learning_value": 0.25
+        },
+        "worldview": {
+          "personal_scale": 0.78,
+          "relationship_scale": 0.65,
+          "social_scale": 0.25,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.42,
+          "time_span": 0.28,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.82,
+          "sadness": 0.22,
+          "loneliness": 0.10,
+          "warmth": 0.90,
+          "fear": 0.02,
+          "tension": 0.04,
+          "awe": 0.58,
+          "nostalgia": 0.68,
+          "hope": 0.85,
+          "melancholy": 0.30,
+          "anger": 0.01,
+          "peace": 0.88
+        },
+        "aesthetic": {
+          "beauty": 0.84,
+          "minimalism": 0.76,
+          "luxury": 0.08,
+          "darkness": 0.03,
+          "brightness": 0.88,
+          "dreamlike": 0.42,
+          "mystery": 0.15,
+          "experimental": 0.10,
+          "classical": 0.72,
+          "modern": 0.20
+        },
+        "narrative": {
+          "plot_complexity": 0.05,
+          "character_depth": 0.20,
+          "character_growth": 0.05,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.02,
+          "slow_immersion": 0.78,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.03,
+          "philosophical_depth": 0.38
+        },
+        "social": {
+          "individualism": 0.35,
+          "collectivism": 0.60,
+          "family": 0.52,
+          "friendship": 0.68,
+          "love": 0.75,
+          "community": 0.55,
+          "competition": 0.02,
+          "cooperation": 0.28,
+          "power_relationship": 0.03,
+          "identity": 0.25
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.30,
+          "truth": 0.58,
+          "beauty": 0.85,
+          "achievement": 0.10,
+          "justice": 0.18,
+          "sacrifice": 0.12,
+          "self_exploration": 0.28,
+          "tradition": 0.42,
+          "change": 0.18,
+          "survival": 0.08,
+          "meaning": 0.62
+        },
+        "behavior": {
+          "curiosity": 0.32,
+          "creation": 0.22,
+          "adventure": 0.18,
+          "reflection": 0.55,
+          "competition": 0.02,
+          "social": 0.48,
+          "discipline": 0.15,
+          "risk": 0.05,
+          "calm": 0.82,
+          "escape": 0.42
+        },
+        "sensory": {
+          "visual_intensity": 0.18,
+          "color_richness": 0.22,
+          "sound_intensity": 0.35,
+          "rhythm_energy": 0.28,
+          "atmosphere": 0.88,
+          "immersion": 0.72
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "爵士",
+          "tempo": 0.25,
+          "energy": 0.28,
+          "vocal_style": "沙哑温厚的男声",
+          "instrumentation": "小号、弦乐、钢琴",
+          "production_style": "1960年代模拟录音",
+          "lyrical_theme": "自然之美与人间温情",
+          "emotional_scene": "宁静的清晨或黄昏独处时光",
+          "cultural_context": "1960年代美国社会动荡与反战运动"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.48,
+          "explanation": "歌曲情绪温暖但节奏舒缓，激情表现受制于内敛的演唱风格而非缺失。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.87,
+          "explanation": "歌词持续列举世间美好事物，配合安抚性旋律，产生显著的疗愈效果。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.62,
+          "explanation": "对自然景观和生命奇迹的赞美引发适度的敬畏感，但不强调宏大或不可知。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.71,
+          "explanation": "演唱者的沧桑嗓音和经典编曲唤起对往昔时光的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "歌曲引导听众重新审视日常生活中的美好，但不要求深度思辨。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.28,
+          "explanation": "爱在此表现为普世之爱而非特定的浪漫爱情。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.05,
+          "explanation": "全曲无任何冲突或紧张元素，极力营造安宁氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.92,
+          "explanation": "演唱者的音色、旋律和歌词高度统一地传递出温暖与包容。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "虽为独唱，但主题聚焦于人与世界的联结，不表达孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.88,
+          "explanation": "在动荡年代发行，歌词始终指向光明与期待，充满希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.22,
+          "explanation": "歌词以具体意象呈现，如蓝天、绿树，极少使用抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.12,
+          "explanation": "结构简单，乐器编排精简，无需多线程思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.35,
+          "explanation": "在简约外表下暗含对战争与动荡的反思，但表达直接不晦涩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.08,
+          "explanation": "歌曲采用反复吟唱和简单段落，几乎无逻辑推演需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.18,
+          "explanation": "在同时代作品中，其反潮流的乐观主题具有一定独特性，但手法传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "未构建未知世界或新概念，而是引导重新发现熟悉环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.10,
+          "explanation": "主题和情感表达极为清晰，不存在歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.85,
+          "explanation": "旋律和声进行符合经典爵士乐预期，歌词递进可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.15,
+          "explanation": "歌词简短重复，单位时间内传递的新信息量较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.25,
+          "explanation": "听众可了解1960年代的反文化背景，但歌曲本身不侧重知识传授。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.78,
+          "explanation": "从第一人称视角出发，关注个体所见所感的美好。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "强调朋友之间的握手和关爱，重视人际温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.25,
+          "explanation": "虽暗含社会背景，但不直接描写或分析社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "提及彩虹、天空等全人类共享景象，具有普世关怀但非文明主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.42,
+          "explanation": "通过天空和自然景观暗示世界之广阔，但不涉及宇宙论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.28,
+          "explanation": "聚焦当下瞬间的美好，时间跨度短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "完全基于现实世界的自然与人文景观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.82,
+          "explanation": "整首歌曲洋溢着满足与感恩的幸福情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.22,
+          "explanation": "沧桑嗓音带来一丝淡淡哀愁，但非主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.10,
+          "explanation": "强调人与人之间的联结，几乎不存在孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.90,
+          "explanation": "人声与弦乐创造了极致的温暖听觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.02,
+          "explanation": "无恐怖或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.04,
+          "explanation": "节奏稳定舒缓，完全消除紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.58,
+          "explanation": "对于世界之美的赞叹产生适度的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.68,
+          "explanation": "经典的爵士乐风格和年代感带来明显的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.85,
+          "explanation": "歌曲的核心信息即是对未来的乐观信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.30,
+          "explanation": "在美好的表面下有一层对世事艰难的含蓄认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.01,
+          "explanation": "完全没有愤怒的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.88,
+          "explanation": "歌曲带来的最终状态是内心深处的平静与安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.84,
+          "explanation": "旋律线和人声都具有古典和声之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.76,
+          "explanation": "编曲和歌词极为精炼，以少胜多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.08,
+          "explanation": "不追求华丽或奢华的听感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.03,
+          "explanation": "整体色调明亮，无黑暗元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.88,
+          "explanation": "明亮的调性和积极的歌词构成了非常明亮的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.42,
+          "explanation": "舒缓的氛围具有一定的梦幻感，但歌词非常写实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "表达直白，不刻意营造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "采用非常传统的爵士乐结构和编曲方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.72,
+          "explanation": "符合传统流行爵士的美学标准，具有经典气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.20,
+          "explanation": "在其发行年代属于主流风格，以当今标准看偏向传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.05,
+          "explanation": "无情节设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.20,
+          "explanation": "演唱者作为一个观察者和赞美者的形象出现，形象单纯。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "没有人物弧光或成长过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "没有虚构世界的构建，只描绘真实世界片段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.02,
+          "explanation": "结构为简单的段落循环。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.78,
+          "explanation": "通过舒缓的节奏和重复的旋律让听众沉浸其中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "无动态冲突或动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.03,
+          "explanation": "歌曲内部不包含任何形式的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.38,
+          "explanation": "提出了关于如何在糟糕时代保持感恩的生活哲学，但不展开论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.35,
+          "explanation": "由个人视角发出感叹，但并非宣扬个人主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.60,
+          "explanation": "强调人们的友好与相互关爱，暗合集体和谐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.52,
+          "explanation": "未直接描写家庭，但描绘的亲密关系具有类家庭的温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.68,
+          "explanation": "明确提到朋友见面握手，突出友谊的可贵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.75,
+          "explanation": "表达的是人类之间广泛的爱与善意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.55,
+          "explanation": "隐含了人类命运共同体的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.02,
+          "explanation": "不存在竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.28,
+          "explanation": "未涉及合作任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.03,
+          "explanation": "毫无权力结构描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.25,
+          "explanation": "不涉及身份探索或认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "未着重探讨自由主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.30,
+          "explanation": "自然的循环更替体现了某种秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.58,
+          "explanation": "试图揭示剥离偏见后的真实世界之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "美是这首歌曲最核心的追求和表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.10,
+          "explanation": "不鼓励世俗成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.18,
+          "explanation": "未直接讨论正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.12,
+          "explanation": "无牺牲情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.28,
+          "explanation": "引导听众内观，但不深刻剖析自我。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.42,
+          "explanation": "音乐形式高度传统，价值观偏向保守的善与美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.18,
+          "explanation": "歌曲更强调不变的美好。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.08,
+          "explanation": "不涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.62,
+          "explanation": "鼓励在简单事物中寻找生命意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.32,
+          "explanation": "激发听众重新观察熟悉事物的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.22,
+          "explanation": "不直接激发创作欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.18,
+          "explanation": "不鼓励冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.55,
+          "explanation": "促使听众反思自己对世界的态度与感知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "与竞争完全对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.48,
+          "explanation": "温和地唤起对他人的善意与交往渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "不强调纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "无风险因素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.82,
+          "explanation": "整首歌曲是冷静与平和的代名词，促使听众平静下来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.42,
+          "explanation": "在动荡年代为听众提供短暂的心灵避难所。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.18,
+          "explanation": "作为音乐作品，视觉刺激主要依赖于听众的联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.22,
+          "explanation": "歌词中提到的色彩仅蓝天和绿树，色彩语义较单一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.35,
+          "explanation": "动态范围适中，不使用大音量或强烈打击乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.28,
+          "explanation": "缓慢的摇摆节奏，能量极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.88,
+          "explanation": "器乐的铺垫和人声共同营造了非常浓郁的安宁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.72,
+          "explanation": "连贯的弦乐和人声容易让听众进入沉浸状态。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.25,
+          "explanation": "歌曲速度明显慢于一般流行音乐。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.28,
+          "explanation": "演绎方式内敛，整体听感能量偏低。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.visual_style",
+          "score": 0.18,
+          "explanation": "无视觉元素。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.symbolism",
+          "score": 0.32,
+          "explanation": "自然景象象征世界本该有的样子。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_expression",
+          "score": 0.90,
+          "explanation": "情感表达直接且浓烈。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.historical_style",
+          "score": 0.78,
+          "explanation": "具有鲜明的1960年代爵士乐特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众的体验从一种略带感伤的低落情绪开始，随着歌词对自然美景与人类温情的逐一列举，情绪逐渐被安抚和提升，最终达到一种对世界充满感恩与希望的内心宁静。整个过程没有剧烈的起伏，而是像一场缓慢的冥想。",
+        "structure_description": "歌曲采用传统的主歌-副歌结构，通过不断重复核心主题句强化肯定性信念，弦乐的铺垫与阿姆斯特朗的独唱相互映衬，结构上的极简设计确保了情感传递的直接与纯粹。",
+        "cognitive_expression": "作品鼓励一种去复杂化的认知方式，不要求分析和批判，而是引导听众暂时放下社会现实带来的偏见与焦虑，启动直观的感受力，重新发现日常事物的价值与魅力。",
+        "behavioral_tendency_description": "这首歌曲倾向于唤起静观、内省和温和的社交倾向。它抑制攻击性和竞争欲，而是鼓励听众以更友善、更平静的态度对待自己和他人，并在聆听后对周围环境产生更多包容之情。"
+      },
+      "personality_affinity": {
+        "Ni": 0.35,
+        "Ne": 0.28,
+        "Ti": 0.08,
+        "Te": 0.05,
+        "Fi": 0.82,
+        "Fe": 0.88,
+        "Si": 0.72,
+        "Se": 0.48,
+        "openness": 0.45,
+        "conscientiousness": 0.25,
+        "extraversion": 0.38,
+        "agreeableness": 0.92,
+        "neuroticism": 0.15,
+        "Assertive": 0.88,
+        "Turbulent": 0.22
+      },
+      "supporting_evidence": [
+        "歌词直接呼唤听众关注“蓝天”和“白云”等日常自然景象。",
+        "歌曲反复强调“多棒的世界”这一肯定性句式。",
+        "演唱者的声音沙哑但充满情感，没有进行任何声乐炫技。",
+        "弦乐编曲烘托出一种温暖而包容的音响环境。",
+        "歌词提到“朋友们握手问好”，暗示人际关系中的友善。",
+        "歌曲的节奏采用缓慢的摇摆律动，传递出从容不迫的感受。",
+        "创作于越南战争时期，但作品回避了直接的政治批评。",
+        "结尾处重复核心乐句，强化了对未来光明与希望的坚信。",
+        "歌词通过描述“婴儿的哭声”来强调生命延续带来的感动。",
+        "旋律线条简单流畅，易于记忆和传唱。",
+        "整首歌不包含任何节奏上的突然变化或动态的强烈对比。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

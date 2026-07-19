@@ -1,0 +1,748 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1981_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "海岸线",
+        "type": "PHOTOGRAPHY",
+        "countryName": "中国",
+        "year": 2012,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "PHOTOGRAPHY"
+      },
+      "semantic": {
+        "summary": "《海岸线》是摄影师张晓自2009年起历时三年拍摄的系列作品。作品以冷静客观的彩色摄影镜头，系统性地记录了中国漫长海岸线地带在城市化与旅游开发进程中的社会景观。画面捕捉了海边人造设施、临时建筑、游乐场景与休闲人群，呈现出快速现代化进程中自然、人造物与人之间荒诞而又诗意的并置关系，探讨了发展主义背景下地域文化的变迁与身份焦虑。",
+        "themes": [
+          "城市化",
+          "现代化",
+          "人与自然",
+          "身份认同",
+          "变迁",
+          "发展主义",
+          "荒诞",
+          "诗意",
+          "消费文化",
+          "乡愁"
+        ],
+        "keywords": [
+          "海岸线",
+          "纪实摄影",
+          "彩色摄影",
+          "社会景观",
+          "人造设施",
+          "旅游开发",
+          "沙滩",
+          "游乐场",
+          "城市化进程",
+          "荒诞感",
+          "张晓",
+          "新地形摄影",
+          "客观凝视"
+        ],
+        "core_experience": "在冷静而客观的影像记录中，观众体验到一种因熟悉场景被抽离、异化而产生的疏离感与荒诞感。人造物与自然景观的不协调并置，带来一种轻微的压抑与幽默交织的复杂情绪，迫使观众重新审视那些被视为理所当然的发展与变迁，引发对故土消逝的沉静反思与淡淡的乡愁。",
+        "experience_introduction": "观众在观看《海岸线》系列时，首先会被一种高度秩序的视觉构图所吸引，但很快会察觉到画面中自然与人造物之间的冲突。这种冲突并非通过戏剧化的事件呈现，而是通过一种沉静、客观的凝视展现出来。观众仿佛一个沉默的旁观者，目睹着熟悉的海岸被塑料游乐设施、粗糙的混凝土和消费主义符号所覆盖。这种体验催生了一种复杂的情绪：既是对超现实荒诞景观的惊异，也是对现代化进程中某种本真性丧失的感伤，最终形成一种冷静而持久的反思状态。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.05,
+        "awe": 0.35,
+        "nostalgia": 0.7,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.55,
+        "warmth": 0.1,
+        "loneliness": 0.8,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.5,
+          "depth_of_thought": 0.75,
+          "logical_structure": 0.6,
+          "novelty": 0.65,
+          "exploration": 0.8,
+          "ambiguity": 0.75,
+          "predictability": 0.2,
+          "information_density": 0.65,
+          "learning_value": 0.7
+        },
+        "worldview": {
+          "personal_scale": 0.4,
+          "relationship_scale": 0.2,
+          "social_scale": 0.85,
+          "civilization_scale": 0.75,
+          "cosmic_scale": 0.35,
+          "time_span": 0.55,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.65,
+          "loneliness": 0.8,
+          "warmth": 0.1,
+          "fear": 0.1,
+          "tension": 0.55,
+          "awe": 0.35,
+          "nostalgia": 0.7,
+          "hope": 0.15,
+          "melancholy": 0.8,
+          "anger": 0.25,
+          "peace": 0.25
+        },
+        "aesthetic": {
+          "beauty": 0.4,
+          "minimalism": 0.3,
+          "luxury": 0.1,
+          "darkness": 0.6,
+          "brightness": 0.4,
+          "dreamlike": 0.45,
+          "mystery": 0.5,
+          "experimental": 0.55,
+          "classical": 0.25,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.35,
+          "character_growth": 0.15,
+          "world_building": 0.7,
+          "nonlinear_structure": 0.4,
+          "slow_immersion": 0.85,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.6,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.75,
+          "family": 0.2,
+          "friendship": 0.15,
+          "love": 0.05,
+          "community": 0.5,
+          "competition": 0.4,
+          "cooperation": 0.1,
+          "power_relationship": 0.65,
+          "identity": 0.8
+        },
+        "value": {
+          "freedom": 0.3,
+          "order": 0.5,
+          "truth": 0.75,
+          "beauty": 0.45,
+          "achievement": 0.2,
+          "justice": 0.35,
+          "sacrifice": 0.2,
+          "self_exploration": 0.5,
+          "tradition": 0.7,
+          "change": 0.85,
+          "survival": 0.35,
+          "meaning": 0.75
+        },
+        "behavior": {
+          "curiosity": 0.8,
+          "creation": 0.25,
+          "adventure": 0.35,
+          "reflection": 0.9,
+          "competition": 0.3,
+          "social": 0.25,
+          "discipline": 0.55,
+          "risk": 0.2,
+          "calm": 0.7,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.7,
+          "color_richness": 0.6,
+          "sound_intensity": 0.05,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.8,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "photography_vector": {
+          "reality_capture": 0.9,
+          "human_focus": 0.75,
+          "visual_composition": 0.85,
+          "documentary_value": 0.9,
+          "artistic_expression": 0.8,
+          "moment_sensitivity": 0.7
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品采用冷静客观的纪实风格，刻意避免情绪渲染，几乎不传递任何激情或兴奋感。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "画面呈现的是社会变迁中的荒诞与冲突，没有提供任何明显的抚慰或治愈元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "画面中自然尺度与人造物的奇异并置产生一定的视觉惊异感，但非壮丽或崇高的敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.7,
+          "explanation": "记录场景是正在消失或被改造的传统海岸生活，极易唤起观众对故土和旧日时光的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "作品的核心目的之一是引发对社会发展模式的思考，视觉上的矛盾引导观众进行深度反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "整体基调和主题围绕社会批判与景观变迁，与浪漫情感几乎毫无关联。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.55,
+          "explanation": "自然与人造物、传统与现代消费主义符号的冲突在画面中形成一种潜在的视觉与心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "作品的视觉处理和主题都偏向冷峻、客观，几乎不存在让人感到温暖或亲切的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "尽管画面中有人物，但他们多被置于广阔、异化的人造环境中，个体呈现出强烈的疏离与孤单感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "作品关注的是城市化造成的破坏与荒诞，整体调性偏于悲观，很少给予关于未来的积极暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "影像通过具象的场景组合来表达关于发展、身份和社会的抽象概念，要求观众进行符号化解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "单幅作品信息直接，但系列整体需要观众整合多个场景，理解其宏观社会观察的复杂性适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.75,
+          "explanation": "作品不止于记录，更深入探讨了现代化进程中的文化断裂、身份认同和存在主义式的荒诞感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.6,
+          "explanation": "系列摄影的内在逻辑基于地理和社会学线索，结构清晰，但不如文字或科学作品严谨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.65,
+          "explanation": "在中国当代摄影语境中，以新地形学式的客观凝视来系统记录海岸开发，视角相对新颖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.8,
+          "explanation": "作品带领观众探索中国海岸线上鲜少被主流叙事关注的边缘景观和被忽视的社会现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "画面不提供明确的价值判断，荒诞与诗意的混合让含义变得开放而模糊，需要观众自行解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.2,
+          "explanation": "人造物与自然的各种奇异组合方式常常超出日常经验，观众难以预测下一幅画面的内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.65,
+          "explanation": "每个画面都包含丰富的关于社会变迁、建筑、消费文化及个体状态的视觉信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.7,
+          "explanation": "观众通过影像学到关于中国城市化特定阶段的社会景观、发展模式及其产生的独特文化现象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.4,
+          "explanation": "虽然捕捉个体状态，但人物常被当作景观的一部分，对其内心世界的直接探索并不多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.2,
+          "explanation": "画面中很少突出描绘人与人之间亲密的互动关系，个体更多是孤立存在的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "作品的核心视野是社会性的，关注宏观政策、发展主义和经济力量如何塑造公共空间与集体行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.75,
+          "explanation": "影像是对一个特定文明阶段——中国高速现代化的记录，探讨了改造自然、消费文明等宏大议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.35,
+          "explanation": "虽有大海作为背景，但镜头焦点始终是陆地众生相，很少触及宇宙或存在论的宏大尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.55,
+          "explanation": "项目拍摄跨度三年，记录了景观的变迁过程，同时连接着海岸过去的历史与未来的发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品是完全基于现实世界的纪实摄影，追求客观再现，完全没有虚构或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "现场本是娱乐场所，但影像剥离了欢乐气氛，展现出一种空洞和异化的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.65,
+          "explanation": "面对传统生活方式的消逝和环境的粗犷改造，影像传递出一种沉静的忧伤和失落感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.8,
+          "explanation": "无论是空旷的设施还是处于其中的人，都散发着一种与环境和他人疏离的强烈孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "影像色调和主题都偏向冷峻，避免了任何温情脉脉的叙事，情感上是疏离的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "冷静客观的视角压制了直接的恐惧感，更多是荒诞和不适，而非惊吓或恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.55,
+          "explanation": "画面中的视觉冲突——例如塑料假树放在真沙滩上——制造了持续的低度紧张和不协和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "作品有引发惊叹的时刻，但这来自于人类行为的奇异性，而非对自然或宏大之美的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.7,
+          "explanation": "作为对急剧变迁的记录，作品本身就构成了一个关于“失去”的档案，充满对过去的怀恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.15,
+          "explanation": "影像更多呈现了发展中的错误和荒谬，缺乏明确的、预示光明未来的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.8,
+          "explanation": "全系列贯穿着一种对无法挽回的变迁、对文化身份模糊的持续性忧郁和感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "作品态度是讽刺和反思，虽然带有批判性，但情绪表达上克制，非直接的愤怒宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.25,
+          "explanation": "荒诞和不协和的画面占主导，视觉上不和谐，难以让人感到内心的平静与安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.4,
+          "explanation": "作品追求的是真实和冲击力，而非传统意义上的赏心悦目，其美感更多来自构图与色彩的秩序感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.3,
+          "explanation": "画面常常元素纷杂，充满各种信息量大的细节，不符合极简主义的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "拍摄对象通常是粗糙、廉价、临时的人造物和普通民众的休闲场景，与奢华完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.6,
+          "explanation": "在看似明亮的色彩下，主题是沉重的，整体氛围因讽刺和对发展的质疑而偏于阴暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.4,
+          "explanation": "影像是在日光下拍摄的彩色照片，物理上明亮，但情感和主题上的“亮度”被中和了。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.45,
+          "explanation": "现实场景的荒诞组合产生了一种超现实的梦境感，但坚硬的视觉质感又将其拉回现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.5,
+          "explanation": "画面引发关于“为何如此”的疑问，具有一定的神秘性，但并非灵异或不可知的神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.55,
+          "explanation": "在传统纪实的基础上，融入了强烈的主观观看和类型学拍摄手法，具有一定的实验性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.25,
+          "explanation": "主题和表现形式都是高度当代的，与社会现实紧密相关，远离古典主义的美学原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "作品在观念、手法和主题上都是现代主义和后现代主义摄影的集中体现，关注当下社会议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "作为静态摄影系列，没有故事情节，只有主题串联和视觉上的类型学逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.35,
+          "explanation": "人物多作为某种类型的代表出现，而非具有深度背景的个体，其复杂性由社会景观赋予。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "作品缺乏时间线上的叙事，因此不存在人物的成长弧光，展现的是切片式的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.7,
+          "explanation": "作品成功地通过一系列影像构建了一个独属于中国现代化进程中的、完整的、异化的海岸世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.4,
+          "explanation": "作为系列摄影，其编排顺序有逻辑但非线性的故事线，以并列和对比的结构为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.85,
+          "explanation": "观众需要花时间逐一审视画面中的细节和冲突，视觉和心理上的沉浸是缓慢而逐渐加深的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "几乎所有的拍摄对象都处于相对静止的状态或日常活动中，没有高强度的动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.6,
+          "explanation": "核心冲突——人与自然的被改造、传统与现代的冲突——作为背景无处不在，表达克制但有力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "影像引导观众思考发展主义、真实与虚假、存在状态等哲学层面的问题，思想深度显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.6,
+          "explanation": "画面中的个体常常是孤立于人群的，甚至与背景中的“集体休闲”格格不入，凸显个体状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.75,
+          "explanation": "作品记录了大量集体性行为，如集体旅游和城市化运动，揭示了集体洪流遮对个体的裹挟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.2,
+          "explanation": "作品中很少出现以家庭为单位的亲密互动，人物关系多不明确或呈现为松散群体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.15,
+          "explanation": "对人际纽带的描绘非常薄弱，缺乏对友谊等亲密社会关系的明确表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "主题是宏观的社会景观批判，完全没有涉及爱情的表达或暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.5,
+          "explanation": "虽然拍摄了很多群体场景，但常传递出一种社区精神和在地文化正在消亡或变质的模糊状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.4,
+          "explanation": "社会发展本身就是一种竞争的结果，作品间接反映了地区间在开发和吸引游客上的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "画面中缺乏对合作行为的刻画，个体与环境的关系更多是顺从、利用或对峙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.65,
+          "explanation": "作品深刻揭示了资本力量和行政规划如何自上而下地重塑自然与公共生活，权力关系是隐性的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.8,
+          "explanation": "作品探讨的核心之一就是海岸居民及整个社会在剧烈变迁中的文化身份与心理认同问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.3,
+          "explanation": "作品中的人物常显得被动、随波逐流，而非在积极地行使自由选择权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.5,
+          "explanation": "一方面，摄影师以高度秩序化的构图呈现；另一方面，记录的对象却是无序发展的产物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.75,
+          "explanation": "作品的价值在于用镜头揭示和呈现通常被美化宣传所掩盖的发展真相，追求事实的真诚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.45,
+          "explanation": "作品重新定义了美，它在粗粝和荒诞中寻找一种具有社会意义的、真实的美，而非装饰性的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.2,
+          "explanation": "作品对主流“发展即成就”的叙事持怀疑态度，主题上不赞美成就，而是反思其代价。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.35,
+          "explanation": "作品具有社会批判性，唤起观众对环境正义和文化平等问题的关注，但非直接抗议。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "记录本身暗示了环境和传统在社会发展中被牺牲，但并非作品直接突出的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.5,
+          "explanation": "观众通过审视这些外部景观，最终会映射到对自身与时代、故土关系的内心探索上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.7,
+          "explanation": "对海岸线上残存或变异的传统生活方式和痕迹的记录与缅杯，是作品重要的价值维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.85,
+          "explanation": "“变化”是作品唯一的恒定主题。一切内容都围绕着快速、剧烈的社会与景观变迁展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.35,
+          "explanation": "展现了人们在变化的环境中如何寻求新的谋生和休闲方式，但不作为核心叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.75,
+          "explanation": "作品迫使观众面对一个基本问题：当熟悉的世界模样被颠覆时，生活与存在的意义何在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.8,
+          "explanation": "每一帧奇异的画面都像一道谜题，激发观众去探究其背后的社会成因和故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "作品是解构和批判，而非鼓励建设性的创造行为，它展示的是“创造”的错误后果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.35,
+          "explanation": "观看过程本身就是一次对陌生社会边缘的视觉历险，但冒险精神不是作品鼓励的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品的所有艺术手段都导向一个目的：让观众进入沉静的、持续性的思考状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.3,
+          "explanation": "影像间接记录了开发热潮中的竞争，但作品本身并不激发观众的竞争欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "虽然是社会题材，但观看体验是内向和沉思的，不鼓励即时的社交讨论行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "摄影师严谨的类型化拍摄方式和对项目的长期坚持，本身就传达出一种高度的自律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "主题是反思发展带来的风险，而非鼓励观众去承担风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.7,
+          "explanation": "拍摄视角客观、冷静、不煽情，这种平静的观看方式也决定了观众的情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "作品让观众直面现实，而不是提供一个可以逃避的虚构世界或理想化空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.7,
+          "explanation": "作为视觉艺术作品，丰富的色彩、细节和矛盾性的构图产生了强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.6,
+          "explanation": "彩色摄影是作品的特色，色彩鲜艳但调和出一种不真实的塑料感，强化了主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.05,
+          "explanation": "静态摄影不存在声音元素，完全依赖视觉传递信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "作品内在的节奏是缓慢、凝滞的，即使在观看动态的游乐设施，能量也是低的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.8,
+          "explanation": "作品成功地营造出一个贯穿始终的独特氛围：荒诞、疏离、冷静，又带有一丝超现实的诗意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "一旦进入作品的语境，丰富而统一的视觉元素能将观众深深拉入这个关于海岸线的特殊世界。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.reality_capture",
+          "score": 0.9,
+          "explanation": "作品是典型的直接摄影，强力依赖对客观现实的捕捉，未进行摆布或数字合成。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.human_focus",
+          "score": 0.75,
+          "explanation": "虽然关注社会景观，但人的存在、痕迹和状态是景观意义的核心来源，人文关怀强烈。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.visual_composition",
+          "score": 0.85,
+          "explanation": "画面构图严谨，展现出摄影师对线条、色彩和元素排列的高度控制力，形式感强。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.documentary_value",
+          "score": 0.9,
+          "explanation": "作为对一个特定时代和区域现象的系统性记录，其社会档案价值极高。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.artistic_expression",
+          "score": 0.8,
+          "explanation": "在纪实基础上，通过视角选择和拍摄手法，融入了强烈的个人美学和观念表达。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.moment_sensitivity",
+          "score": 0.7,
+          "explanation": "作品多为对静态环境的描绘，决定性瞬间并非其核心，但对人物状态的捕捉依然精准。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众的体验旅程始于视觉上的奇异感，熟悉的海岸线在镜头下变得既陌生又荒诞。随着对系列作品的深入观看，一种冷静的忧郁和反思性逐渐占据主导。整个体验的核心是一种沉静的张力，在明快的色彩下，是发展与传统、自然与人造之间的深刻冲突所引发的疏离感与淡淡乡愁。",
+        "structure_description": "作品通过系列组照的结构来构建体验。每一张照片都是一个独立的视觉陈述，但当它们以类型学的方式排列在一起时，就形成了一幅关于中国海岸线变迁的宏观全景。这种重复、并置的影像结构强化了现象的普遍性，让孤立的荒诞感累积成一种系统性的社会审视。",
+        "cognitive_expression": "作品强烈的符号化表达要求观众进行高水平的抽象思维，从具体的景观细节中解读出关于发展主义、身份认同和文化变迁的深层隐喻。它鼓励观众调用社会学的想象力，将眼前的奇异画面与社会大背景关联起来，进行缓慢而深入的因果推理和批判性思考。",
+        "behavioral_tendency_description": "作品主要奖励一种内省、观察和思考的行为倾向。它不鼓励社交互动或外向探索，而是引导观众进入一种冷静、克制和自律的观看状态。观众被鼓励像一个社会调查者一样，持续保持好奇心，去探究画面背后被忽视的真相，并对习以为常的“发展”叙事进行反思。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.7,
+        "Ti": 0.75,
+        "Te": 0.5,
+        "Fi": 0.65,
+        "Fe": 0.35,
+        "Si": 0.7,
+        "Se": 0.4,
+        "openness": 0.85,
+        "conscientiousness": 0.6,
+        "extraversion": 0.2,
+        "agreeableness": 0.45,
+        "neuroticism": 0.6,
+        "Assertive": 0.35,
+        "Turbulent": 0.7
+      },
+      "supporting_evidence": [
+        "系列作品在长达三年的时间内，沿着中国海岸线进行系统性拍摄。",
+        "画面中频繁出现塑料制成的假棕榈树、泡沫岩石等仿真自然物。",
+        "作品捕捉了游客在新建的、与周围环境格格不入的人造设施旁休闲的场景。",
+        "摄影师采用一种客观、冷静的视角，与被摄对象保持距离。",
+        "影像中的海滩上布满建筑垃圾、废弃的娱乐设施和新修的堤坝。",
+        "许多画面里的人物表情茫然，与周围热闹的消费景观形成对比。",
+        "系列中出现了大量无人机的空旷场景，新建筑与待开发的土地并存。",
+        "照片的色彩鲜艳而略显失真，强化了现实场景的塑料感和超现实氛围。",
+        "传统的渔船、渔网与现代的摩天轮、游乐场经常在同一画面中出现。",
+        "摄影师关注公共空间是如何被改造成同质化的旅游消费场所。",
+        "一些新建的地标性建筑或雕塑被搁置在海边，呈现一种未完成或被遗弃的状态。",
+        "作品中的人物常常背对镜头或望向远方，增强了画面的疏离感。",
+        "整个系列没有采用黑白纪实风格，而是使用彩色胶片来呈现当下的真实。",
+        "影像记录了因土地开发而被拦腰截断或掩埋的传统海岸地貌。",
+        "作品获得了国际上对当代社会景观议题予以关注的多个重要纪实摄影奖项肯定。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

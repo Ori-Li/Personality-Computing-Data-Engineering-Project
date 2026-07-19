@@ -1,0 +1,34 @@
+[
+  {
+    "characterId": "realCharacter_chn_1981_102",
+    "workChineseName": "鹤唳华亭",
+    "workOriginalName": "鹤唳华亭",
+    "workId": "work_chn_2019_001",
+    "relationType": 24,
+    "reason": "作品未包含在 set2 且不能唯一解析为既有实体"
+  },
+  {
+    "characterId": "realCharacter_chn_1958_102",
+    "workChineseName": "英雄",
+    "workOriginalName": "英雄",
+    "workId": "work_chn_2002_001",
+    "relationType": 33,
+    "reason": "作品未包含在 set2 且不能唯一解析为既有实体"
+  },
+  {
+    "characterId": "realCharacter_chn_1964_102",
+    "workChineseName": "综艺万花筒",
+    "workOriginalName": "綜藝萬花筒",
+    "workId": "work_chn_1990_003",
+    "relationType": 5,
+    "reason": "作品未包含在 set2 且不能唯一解析为既有实体"
+  },
+  {
+    "characterId": "realCharacter_chn_1939_102",
+    "workChineseName": "钢琴协奏曲“黄河”",
+    "workOriginalName": "钢琴协奏曲“黄河”",
+    "workId": "work_chn_1970_001",
+    "relationType": 13,
+    "reason": "作品未包含在 set2 且不能唯一解析为既有实体"
+  }
+]

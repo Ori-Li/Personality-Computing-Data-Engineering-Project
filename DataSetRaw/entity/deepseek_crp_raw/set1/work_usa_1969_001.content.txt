@@ -1,0 +1,744 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 1,
+    "total": 1,
+    "currentWorkId": "work_usa_1969_001",
+    "nextWorkId": null,
+    "isCompleted": false
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "地下铁道",
+        "type": "NOVEL",
+        "countryName": "USA",
+        "year": 2016,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-30",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.9,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《地下铁道》将历史上的秘密逃亡网络重写为一条真实的地下铁路系统，讲述黑人少女科拉从佐治亚种植园向北逃亡的历程。小说在残酷的奴隶制现实与寓言般的想象之间构建张力，通过科拉穿越不同州份的经历，揭露种族压迫的制度性、持久性与变异性。叙事以铁路为隐喻核心，串联起暴力、创伤、抵抗与对自由的渴望，在历史重构中呈现关于美国种族主义的深刻社会批判。",
+        "themes": [
+          "自由",
+          "种族压迫",
+          "逃亡与求生",
+          "制度暴力",
+          "身份认同",
+          "历史创伤",
+          "抵抗与尊严",
+          "记忆与见证"
+        ],
+        "keywords": [
+          "地下铁道",
+          "奴隶制",
+          "科拉",
+          "佐治亚种植园",
+          "逃亡",
+          "铁路隐喻",
+          "美国南方",
+          "种族隔离",
+          "赏金猎人",
+          "自由",
+          "暴力与创伤",
+          "白人权力的持续变体"
+        ],
+        "core_experience": "读者在阅读过程中持续处于紧张、压抑与悲悯相互交织的心理状态。小说的节奏由逃亡的紧迫感主导，同时穿插暴力场景的冷静白描，带来强烈的认知冲击与情感震荡。隐喻性的“真实铁路”在写实与寓言之间制造出陌生化效果，迫使读者不断在历史真相与文学重构之间进行思辨。",
+        "experience_introduction": "《地下铁道》通过写实的暴力和寓言化的铁路系统，在严酷的历史现实与诗意的想象之间建立持续的张力。读者跟随科拉从种植园到不同州份的逃亡旅程，每一站的遭遇都揭示奴隶制如何在不同社会制度中变形和延续。小说以冷静、近乎疏离的叙事口吻直面创伤和恐怖，这种克制与内容的残酷之间形成强烈反差，促使读者不仅感受痛苦，更被迫反思权力、种族和记忆的结构性运作。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.05,
+        "awe": 0.45,
+        "nostalgia": 0.1,
+        "reflection": 0.9,
+        "romance": 0.05,
+        "tension": 0.85,
+        "warmth": 0.2,
+        "loneliness": 0.7,
+        "hope": 0.3
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.65,
+          "complexity": 0.72,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.55,
+          "novelty": 0.75,
+          "exploration": 0.6,
+          "ambiguity": 0.5,
+          "predictability": 0.35,
+          "information_density": 0.7,
+          "learning_value": 0.88
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.55,
+          "social_scale": 0.9,
+          "civilization_scale": 0.7,
+          "cosmic_scale": 0.15,
+          "time_span": 0.5,
+          "fantasy_level": 0.4
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.8,
+          "loneliness": 0.75,
+          "warmth": 0.2,
+          "fear": 0.85,
+          "tension": 0.9,
+          "awe": 0.35,
+          "nostalgia": 0.1,
+          "hope": 0.25,
+          "melancholy": 0.65,
+          "anger": 0.55,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.3,
+          "minimalism": 0.55,
+          "luxury": 0.05,
+          "darkness": 0.9,
+          "brightness": 0.05,
+          "dreamlike": 0.25,
+          "mystery": 0.3,
+          "experimental": 0.4,
+          "classical": 0.5,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.6,
+          "character_depth": 0.8,
+          "character_growth": 0.65,
+          "world_building": 0.7,
+          "nonlinear_structure": 0.3,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.5,
+          "conflict_intensity": 0.9,
+          "philosophical_depth": 0.85
+        },
+        "social_relationship": {
+          "individualism": 0.65,
+          "collectivism": 0.4,
+          "family": 0.25,
+          "friendship": 0.4,
+          "love": 0.15,
+          "community": 0.45,
+          "competition": 0.35,
+          "cooperation": 0.5,
+          "power_relationship": 0.9,
+          "identity": 0.85
+        },
+        "values": {
+          "freedom": 0.95,
+          "order": 0.2,
+          "truth": 0.7,
+          "beauty": 0.15,
+          "achievement": 0.35,
+          "justice": 0.75,
+          "sacrifice": 0.6,
+          "self_exploration": 0.75,
+          "tradition": 0.25,
+          "change": 0.6,
+          "survival": 0.9,
+          "meaning": 0.8
+        },
+        "behavior": {
+          "curiosity": 0.4,
+          "creation": 0.2,
+          "adventure": 0.6,
+          "reflection": 0.9,
+          "competition": 0.2,
+          "social": 0.35,
+          "discipline": 0.3,
+          "risk": 0.7,
+          "calm": 0.25,
+          "escape": 0.85
+        },
+        "sensory": {
+          "visual_intensity": 0.6,
+          "color_richness": 0.3,
+          "sound_intensity": 0.25,
+          "rhythm_energy": 0.5,
+          "atmosphere": 0.85,
+          "immersion": 0.8
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.9,
+          "writing_style": 0.8,
+          "narrative_voice": 0.75,
+          "symbolism": 0.85,
+          "inner_monologue": 0.65,
+          "world_building_depth": 0.7
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "作品侧重于历史创伤和社会批判，情感更多表现为压抑与悲悯，而非外放的激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "叙事始终直面暴力与压迫，几乎没有提供情感上的抚慰或治愈性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "将地下铁道隐喻为真实铁路系统的想象力带来一定的惊奇感，但整体基调更偏向沉重的现实反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品面向创伤历史，几乎没有对过去的怀念或温情回忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "小说持续激发读者对美国奴隶制历史、种族制度和人性本质的深刻反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "叙事中几乎不涉及浪漫情感，人际关系的核心是权力、暴力和有限度的互助。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.85,
+          "explanation": "逃亡与追捕的对抗贯穿始终，读者始终处于对科拉命运的焦虑和紧张之中。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.2,
+          "explanation": "少数人物间的短暂善意和互助瞬间带来微弱的温暖，但整体不足以改变基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.7,
+          "explanation": "科拉在逃亡中不断经历被背叛和失去同伴，孤独感贯穿大部分叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.3,
+          "explanation": "作品虽然朝向自由，但自由始终遥远且代价惨重，希望感被残酷现实严重削弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.65,
+          "explanation": "铁路系统的隐喻化和历史事件的虚构化处理，使作品具有较高的抽象思辨色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.72,
+          "explanation": "不同州份的独立叙事单元层层叠加，揭示了种族压迫制度的多面性和复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品引发关于权力、种族、历史和创伤的结构性哲学追问，思辨深度显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "各州际叙事虽有逻辑关联，但拼接感明显，结构更偏向历史寓言而非严密逻辑演绎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "将抽象的历史隐喻实体化为真实的地下铁路系统，在奴隶叙事传统中具有显著的原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.6,
+          "explanation": "科拉穿越不同州份的过程构成对未知制度和地理空间的持续探索，但以被迫逃亡的形式呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.5,
+          "explanation": "作品中的道德判断清晰，压迫与反抗的界限明确，但在历史真实与寓言虚构之间存在中等程度的含混。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "逃亡过程中的暴力事件和制度变体具有不可预测性，叙事走向难以预料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.7,
+          "explanation": "每一章的叙事都承载着丰富的历史知识、社会分析和隐喻信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.88,
+          "explanation": "读者可从中获得关于美国奴隶制历史、种族政治和创伤记忆的深层知识与理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "科拉的个人视角主导叙事，其内心挣扎、恐惧和尊严感构成情感核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.55,
+          "explanation": "涉及背叛、同盟、母子记忆等多重人际关系，但这些关系主要在权力压迫框架下展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.9,
+          "explanation": "作品深刻揭示了奴隶制、种族隔离、优生学等多种社会制度性的压迫结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.7,
+          "explanation": "叙事触及美国不同地区的种族制度演变，从文明组织的层面反思历史进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "作品完全聚焦于人类社会和历史经验，不涉及宇宙尺度或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.5,
+          "explanation": "虽然核心时间跨度不大，但通过历史回溯和代际创伤连接了较长的时间维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.4,
+          "explanation": "唯一明显的幻想元素是实体化的地下铁路系统，其余均为历史写实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品基调沉重压抑，几乎没有出现快乐或愉悦的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.8,
+          "explanation": "叙事中充满死亡、分离、虐待和集体创伤，悲伤是持续的情感背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "科拉频繁处于被遗弃、被孤立和独自面对危险的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.2,
+          "explanation": "只有极少数的互动和地点展现出短暂的人际温暖和安全。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.85,
+          "explanation": "恐惧来源包括暴力死亡、性暴力、被抓获和制度性迫害，贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "追捕与逃亡的结构使叙事始终保持高度紧张，几乎没有松懈的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "寓言化的铁路构想和宏大的历史剖析带来少量敬畏感，但被残酷叙事削弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.1,
+          "explanation": "科拉没有值得怀念的过去，叙事也拒绝将奴隶制历史浪漫化或怀旧化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "自由作为目标持续存在，但叙事不断揭示其幻灭和代价，希望感十分薄弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.65,
+          "explanation": "对失落的哀悼、对幸存者命运的沉思构成沉静的忧郁底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.55,
+          "explanation": "对制度不公的愤怒存在于文本中，但更多以冷静的控诉而非直接的愤怒宣泄呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "作品中几乎不存在安宁或平和的时刻，科拉始终无法获得安全与平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.3,
+          "explanation": "语言虽有文学美感，但内容本身极度严酷，整体美感被削弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "叙事以冷静、白描式的笔触处理暴力，呈现出克制的极简美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "内容与社会环境均处于极度匮乏和压迫之中，与奢华毫无关联。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.9,
+          "explanation": "整个叙事故意笼罩在黑暗、压抑和恐怖的氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "几乎不存在明亮的色调、轻松的场景或解脱的瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "实体化的铁路寓言带有微弱的梦境特征，但暴力和写实感压制了梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.3,
+          "explanation": "逃亡过程中的未知目的地和陌生制度带来一定神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.4,
+          "explanation": "将隐喻实体化的手法具有一定实验性，但叙述方式整体上仍是现实主义的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.5,
+          "explanation": "小说遵循严肃文学的传统叙事方式，与19世纪逃亡叙事有古典的呼应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "混合寓言与历史批判的手法，以及对创伤的当代视角处理，赋予其现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.6,
+          "explanation": "各州的故事构成独立的叙事单元，情节拼接具有中等复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.8,
+          "explanation": "科拉的内心世界、创伤记忆和尊严感被深入刻画，性格层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.65,
+          "explanation": "科拉在逃亡中逐渐从被动受害者转变为主动抵抗者，成长轨迹明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.7,
+          "explanation": "小说为每个州份构筑了独立的社会制度和规则体系，世界建构丰富而一致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.3,
+          "explanation": "插入少量倒叙和记忆片段，但主要以线性逃亡作为叙事进程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "叙事节奏在紧张与沉思之间交替，具有一定缓慢沉浸的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.5,
+          "explanation": "存在暴力对抗、追捕和搏斗场景，但并非动作驱动型叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.9,
+          "explanation": "逃亡关乎生死，冲突始终处于物理暴力和制度对抗的最高烈度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "对自由、权力、种族和制度本质的思考具有高度的哲学深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.65,
+          "explanation": "科拉的逃亡本质上是一个个体化的抗争，她必须依赖自己的意志生存下去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.4,
+          "explanation": "集体行动偶有出现，但常以失败告终，个人命运始终优先于集体命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.25,
+          "explanation": "科拉的生母抛弃了她，血缘联系在作品中大多呈现为断裂或创伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.4,
+          "explanation": "出现若干友好的同盟关系，但极为脆弱且常以背叛或死亡终结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.15,
+          "explanation": "浪漫爱情不是叙事的主题，人物之间的情感以共患难和互惠为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.45,
+          "explanation": "黑人社区在几处出现，提供短暂的庇护，但终究无法抵御白色恐怖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.35,
+          "explanation": "人物之间存在有限的竞争，但叙事重心在于团结和共谋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.5,
+          "explanation": "逃亡依赖地下网络和少数白人废奴主义者的协作，但合作总是充满猜忌和危险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.9,
+          "explanation": "作品的核心主题是权力如何通过社会制度、暴力和控制实现支配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "科拉不断在逃亡中重新定义自我，身份问题是叙事的内在驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.freedom",
+          "score": 0.95,
+          "explanation": "自由是作品中最重要的价值追求，驱动了所有主要情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.order",
+          "score": 0.2,
+          "explanation": "秩序在作品中主要代表奴隶制和压迫性的社会控制，被高度质疑和批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.truth",
+          "score": 0.7,
+          "explanation": "作品试图揭示被主流叙事掩盖的历史真相，对诚实记叙的追求贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.beauty",
+          "score": 0.15,
+          "explanation": "审美上的美并非作品侧重的价值，叙事更关心真实和正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.achievement",
+          "score": 0.35,
+          "explanation": "活下来本身是一种成就，但对社会地位、财富等成就并不关注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.justice",
+          "score": 0.75,
+          "explanation": "对司法系统、私刑和社会公义的探讨充满文本，正义是不懈的诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.sacrifice",
+          "score": 0.6,
+          "explanation": "许多逃亡者和帮助者付出了无法挽回的牺牲，牺牲是推动情节的要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.self_exploration",
+          "score": 0.75,
+          "explanation": "逃亡促使科拉不断审视自己的过去、身份、创伤和欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.tradition",
+          "score": 0.25,
+          "explanation": "传统在作品中主要是压迫性的种族等级传统，叙事不赞颂传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.change",
+          "score": 0.6,
+          "explanation": "变化和变革是通往自由的必要条件，追求变化是文本的内在道德驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.survival",
+          "score": 0.9,
+          "explanation": "生存是最根本的驱动力，压倒一切其他价值考量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.meaning",
+          "score": 0.8,
+          "explanation": "科拉不断在创伤和逃亡中找回生存的意义，意义的探询是隐性的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.4,
+          "explanation": "对未知州份存在功能性的好奇，但逃命的需求压倒了纯粹的求知欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.2,
+          "explanation": "破坏、逃亡和抵抗是主要行为模式，创造新事物的空间十分有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.6,
+          "explanation": "逃亡本身具备冒险的形式特征，尽管其内核是迫不得已的求生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "叙事节奏为回忆和内省留下显著空间，反思被结构化地鼓励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.2,
+          "explanation": "与其他逃亡者之间存在最低限度的资源竞争，但非行为主轴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "社交行为受到严格的环境限制，信任难以建立，社交范围狭窄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.3,
+          "explanation": "逃亡虽然需要耐心和自控，但叙事并不刻意强调纪律或秩序的美德。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.7,
+          "explanation": "每一次逃亡决策都涉及极高的生命风险，冒险是不可避免的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.25,
+          "explanation": "叙述语气本身保持克制，但人物和情境极少允许平静的存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.85,
+          "explanation": "物理逃亡是核心行为，从奴隶制和种族暴力中逃离驱动了全部情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.6,
+          "explanation": "小说通过细腻的描写创造了强烈的视觉意象，尤其是暴力与铁路场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.3,
+          "explanation": "整体色调灰暗压抑，缺少丰富的色彩渲染。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.25,
+          "explanation": "作为文本媒介，对声音的直接刺激较弱，依赖读者想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.5,
+          "explanation": "追捕与沉思交替出现，构成张弛有度的叙事节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "整体的阴郁、恐惧和压迫氛围非常浓烈，是作品的标志性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.8,
+          "explanation": "写实细节和紧张情节能强效地将读者拉入科拉的感官世界。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.9,
+          "explanation": "作品作为获得普利策奖的严肃文学小说，具有深厚的文学性和思想深度。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.8,
+          "explanation": "语言兼具克制白描与诗意的象征力量，风格鲜明。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.75,
+          "explanation": "以第三人称有限视角为主，穿插全知视角的评论，叙述声音冷静而富有权威。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.85,
+          "explanation": "地下铁道作为核心隐喻贯穿全文，具有极强的象征意义和解释空间。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.65,
+          "explanation": "对科拉内心活动的描写占据相当篇幅，使读者深入理解其创伤和恐惧。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.7,
+          "explanation": "通过不同州份的设定，构建了多层次的、具有历史厚度的世界。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读《地下铁道》的体验以持续的紧张、深刻的悲伤和智识上的反思为主导。小说的残酷与现实让读者无法置身事外，被迫直面奴隶制压迫的制度性恐怖。叙事节奏的压迫感和对暴力场景的冷静描写交织，使得情感冲击极为强烈。读者在压抑和恐惧中，仍能因科拉的坚韧和自由意志的闪光而感受到微弱的希望。",
+        "structure_description": "小说采用各州分章的线性逃亡结构，每一章都是一个独立的社会寓言，整体又构成科拉的心路历程。这种结构将宏大的历史批判分割为可感知的单元，便于读者在不同制度场景中比较和反思。叙事视角主要集中在科拉身上，偶尔切换以揭示赏金猎人或他人视角，增强戏剧张力和认知广度。节奏在紧张逃亡和内心独白之间摆动，使得反思性段落天然镶嵌在行动之中。",
+        "cognitive_expression": "作品鼓励读者进行高度抽象和系统性思考，将具体的暴力事件与制度性权力结构联系起来。读者需要调动历史知识、道德判断和隐喻解读能力来理解铁路系统的象征意义。对陌生社会的快速适应需求，促使读者运用分析和比较的思维模式。叙事中的反思性段落和创伤描写，则要求读者进行内省和哲学性的共情。",
+        "behavioral_tendency_description": "作品唤起的主要行为倾向是追求真理、深刻反思和捍卫正义。它驱使读者去了解被掩盖的历史、直面不公并质疑权力结构。同时，科拉的逃亡唤起了对个人风险和牺牲的认知，鼓励读者在极端环境下对生存与道德的抉择进行审视。读者在情感上被推向孤独与自省，而非浅层的社交互动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.88,
+        "Ne": 0.5,
+        "Ti": 0.6,
+        "Te": 0.35,
+        "Fi": 0.85,
+        "Fe": 0.45,
+        "Si": 0.35,
+        "Se": 0.4,
+        "openness": 0.85,
+        "conscientiousness": 0.35,
+        "extraversion": 0.2,
+        "agreeableness": 0.3,
+        "neuroticism": 0.85,
+        "Assertive": 0.15,
+        "Turbulent": 0.9
+      },
+      "supporting_evidence": [
+        "小说将历史上秘密的逃亡路线改写成一套真实运行的地下铁路系统。",
+        "主人公科拉从佐治亚州种植园开始逃亡，穿越多个州份，每个州代表不同形态的种族制度。",
+        "叙事通过赏金猎人的追捕和科拉的逃亡，持续制造紧张感。",
+        "作者以冷静甚至疏离的笔触直接描写鞭打、私刑和集体屠杀等暴力场景。",
+        "科拉的生母在她幼年时独自逃走，将她遗弃在种植园。",
+        "每个新州份都展示了一套不同的社会控制和驯服黑人的方法。",
+        "小说穿插大量科拉内心的回忆与梦魇，揭示代际创伤。",
+        "地下铁路的车站、隧道和车长被当作真实的地下交通网络来描写。",
+        "少数白人废奴主义者的帮助显示出危险且零星的跨种族团结。",
+        "奴隶主和猎奴者将追捕逃亡者视为一种宿命般的使命，反映了根深蒂固的种族意识形态。",
+        "科拉在逃亡中获得了识字和思考的机会，开始重新理解自己的身份。",
+        "外祖母和母亲两代人的创伤经历作为背景，持续影响着科拉的心理状态。",
+        "各州的社会制度虽各不相同，但都对黑人实施了系统性的剥夺和隔离。",
+        "小说未以完全圆满的自由收尾，而是强调自由的代价和不稳定性。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

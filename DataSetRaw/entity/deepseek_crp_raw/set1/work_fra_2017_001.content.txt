@@ -1,0 +1,753 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_fra_2017_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "掠食",
+        "type": "GAME",
+        "countryName": "法国",
+        "year": 2017,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "GAME",
+        "annotationLanguage": "zh-CN"
+      },
+      "semantic": {
+        "summary": "《掠食》是一款第一人称科幻惊悚游戏，玩家在废弃太空站塔洛斯一号上醒来，发现整座设施已被可变形的外星生物台风占领。游戏融合沉浸式模拟、潜行、战斗与资源管理，强调玩家自由选择路径与解决方案。核心冲突围绕外星生态威胁、人性本质与企业伦理展开，提供紧张、孤独且充满探索惊喜的生存体验，是沉浸式模拟类型的现代典范。",
+        "themes": [
+          "生存",
+          "身份认同",
+          "科技伦理",
+          "孤立",
+          "自由",
+          "人性本质",
+          "阴谋"
+        ],
+        "keywords": [
+          "太空站",
+          "外星生物",
+          "台风",
+          "神经调整仪",
+          "沉浸式模拟",
+          "环境叙事",
+          "资源管理",
+          "塔洛斯一号",
+          "摩根·余",
+          "转星公司"
+        ],
+        "core_experience": "在孤立无援的太空废墟中，体验持续的紧张与警觉。玩家在收集碎片化信息拼凑真相的同时，不断在潜行、对抗与智取间做出抉择，每一步探索都伴随着对未知的恐惧和对自我身份的怀疑，最终形成一种高度自主但又压抑的生存体验。",
+        "experience_introduction": "《掠食》通过将玩家置于一座空旷、破败且充满敌意的豪华太空站中，营造出一种持久的孤独感与不安全感。环境的每一个角落都隐藏着资源或致命的威胁，迫使玩家保持高度专注。游戏不提供明确的道德指引，而是通过系统和环境叙事让玩家在资源匮乏、能力选择与路径决定中，自然产生对环境的内疚、对力量的贪婪或对真相的执著。其核心体验是一场关于信任、恐惧与自我塑造的高自由度心理旅程。"
+      },
+      "experience_vector": {
+        "passion": 0.48,
+        "healing": 0.12,
+        "awe": 0.55,
+        "nostalgia": 0.22,
+        "reflection": 0.74,
+        "romance": 0.05,
+        "tension": 0.91,
+        "warmth": 0.08,
+        "loneliness": 0.88,
+        "hope": 0.31
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.72,
+          "complexity": 0.85,
+          "depth_of_thought": 0.79,
+          "logical_structure": 0.68,
+          "novelty": 0.62,
+          "exploration": 0.93,
+          "ambiguity": 0.81,
+          "predictability": 0.24,
+          "information_density": 0.78,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.56,
+          "relationship_scale": 0.23,
+          "social_scale": 0.52,
+          "civilization_scale": 0.71,
+          "cosmic_scale": 0.84,
+          "time_span": 0.55,
+          "fantasy_level": 0.82
+        },
+        "emotion": {
+          "happiness": 0.14,
+          "sadness": 0.68,
+          "loneliness": 0.89,
+          "warmth": 0.11,
+          "fear": 0.87,
+          "tension": 0.92,
+          "awe": 0.59,
+          "nostalgia": 0.38,
+          "hope": 0.35,
+          "melancholy": 0.73,
+          "anger": 0.42,
+          "peace": 0.09
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.19,
+          "luxury": 0.46,
+          "darkness": 0.88,
+          "brightness": 0.15,
+          "dreamlike": 0.41,
+          "mystery": 0.86,
+          "experimental": 0.42,
+          "classical": 0.23,
+          "modern": 0.71
+        },
+        "narrative": {
+          "plot_complexity": 0.78,
+          "character_depth": 0.65,
+          "character_growth": 0.55,
+          "world_building": 0.88,
+          "nonlinear_structure": 0.85,
+          "slow_immersion": 0.74,
+          "action_intensity": 0.58,
+          "conflict_intensity": 0.81,
+          "philosophical_depth": 0.83
+        },
+        "social_relationship": {
+          "individualism": 0.82,
+          "collectivism": 0.45,
+          "family": 0.38,
+          "friendship": 0.24,
+          "love": 0.18,
+          "community": 0.21,
+          "competition": 0.52,
+          "cooperation": 0.22,
+          "power_relationship": 0.74,
+          "identity": 0.91
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.35,
+          "truth": 0.85,
+          "beauty": 0.28,
+          "achievement": 0.55,
+          "justice": 0.42,
+          "sacrifice": 0.68,
+          "self_exploration": 0.88,
+          "tradition": 0.14,
+          "change": 0.62,
+          "survival": 0.93,
+          "meaning": 0.81
+        },
+        "behavior": {
+          "curiosity": 0.92,
+          "creation": 0.55,
+          "adventure": 0.68,
+          "reflection": 0.84,
+          "competition": 0.42,
+          "social": 0.14,
+          "discipline": 0.61,
+          "risk": 0.78,
+          "calm": 0.18,
+          "escape": 0.72
+        },
+        "sensory": {
+          "visual_intensity": 0.72,
+          "color_richness": 0.45,
+          "sound_intensity": 0.81,
+          "rhythm_energy": 0.52,
+          "atmosphere": 0.93,
+          "immersion": 0.95
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.76,
+          "mechanical_skill": 0.68,
+          "player_agency": 0.94,
+          "exploration_depth": 0.93,
+          "collection_system": 0.62,
+          "progression_system": 0.84,
+          "social_interaction": 0.05,
+          "competition_intensity": 0.14
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.48,
+          "explanation": "战斗和解谜有成就感的高峰，但不是核心持续体验，激情被紧张和谨慎压制。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.12,
+          "explanation": "环境破败、孤独感和无处不在的威胁几乎没有提供疗愈性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "太空站巨大的空间结构、宇宙背景和外星生物的奇异感带来震撼，但阴暗风格削弱了敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.22,
+          "explanation": "空间站的复古未来主义装饰虽有旧时代风格，但氛围以生存恐怖为主，怀旧感不强。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.74,
+          "explanation": "身份之谜、道德抉择和对人性的质问通过邮件、录音和环境叙事引发深度思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "无论主线还是支线均不包含浪漫情感元素，关系多为功能性或充满背叛。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.91,
+          "explanation": "由资源匮乏、会拟态的外星敌人和随时可能发生的空间站故障共同积累了持续高强度的紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.08,
+          "explanation": "除了极少数幸存者录音中残留的人性，玩家面对的基本全是尸体、机器和冷血的复制体。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.88,
+          "explanation": "整座太空站除玩家外几乎没有活人，只有回声、幻影和敌人，孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.31,
+          "explanation": "生存和揭开真相是驱动力，但漆黑的基调与开放式结局让绝望感压过了希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.72,
+          "explanation": "故事探讨意识、记忆真假与人格模拟，需要玩家理解非实体层面的科幻概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.85,
+          "explanation": "游戏系统层叠（资源、技能、装备、重力、环境状态）和组织架构情报需要高强度的脑内整合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.79,
+          "explanation": "对‘什么构成一个人’与‘记忆是否定义身份’的探讨贯穿故事，并要求玩家做出隐含回答的选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.68,
+          "explanation": "太空站的部门划分、权限系统和任务网具有严密的内在逻辑，虽非线性但因果链清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.62,
+          "explanation": "拟态能力、神经调整仪和Gloo炮等创新机制在同类型游戏中提供了相对新鲜的玩法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.93,
+          "explanation": "整座空间站作为一个完全连通的箱庭世界鼓励玩家遍寻每一处角落，无引导式探索是核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.81,
+          "explanation": "开场身份、其他角色动机、道德选择后果及结局多重反转充满不确定性，信息经常自相矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.24,
+          "explanation": "敌人的拟态与叙事上的多重欺骗使得情节发展极难预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.78,
+          "explanation": "每封邮件、每条语音记录、每个场景调度都承载着剧情线索或世界观信息，无冗余内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "可学习太空站生态、基础物理逻辑、系统思维和科幻伦理知识，但非教育目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.56,
+          "explanation": "聚焦主角记忆、人格与情感的破碎经历，在宏观科幻外是一段私密的自我拼图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.23,
+          "explanation": "缺少活人互动，现存人际关系主要是单方面的录音或空想，几乎没有双向交流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.52,
+          "explanation": "通过邮件和规则手册展现塔洛斯一号空间站原有的特殊社会结构与职场文化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.71,
+          "explanation": "故事涉及人类文明如何应对外星科技垄断，以及转星公司背后的全球政治操控。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.84,
+          "explanation": "外星的台风生态体系超越人类认知，宇宙维度的威胁感和未知感极为强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.55,
+          "explanation": "主线流程时间跨度短，但录音与回忆回溯多年，涉及前苏联时期的太空计划起源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.82,
+          "explanation": "属于硬科幻背景但超出现实科技的人体强化与幽能般的超能力体系设定程度较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.14,
+          "explanation": "即使通过一条通道或击败强敌，短暂的安心也迅速被环境重新吞没，缺乏快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "阅读死者生前留言、目睹自杀或被动牺牲的现场，巨大的悲剧感不断累积。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.89,
+          "explanation": "玩家是唯一探索整座死城的人，这种绝对的心理孤立通过氛围极大强化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.11,
+          "explanation": "似乎友善的NPC可能瞬间变成敌人，少数温柔的感情暗示也在结局前被颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.87,
+          "explanation": "拟态敌人从身边突然跳起、幽暗的走廊和诡异的音效设计频繁导致惊吓反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.92,
+          "explanation": "由于血量和弹药等生存资源永远不充裕，心理上的持续紧绷从未真正间断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.59,
+          "explanation": "窥见无重力管道和大穹顶的全景时感到崇高，但黑暗阻滞了沉浸式放松的观赏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.38,
+          "explanation": "美术风格致敬60年代装饰艺术，带有怀旧意味，但不是情感主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.35,
+          "explanation": "摧毁塔洛斯一号或拯救幸存者的选择有微弱希望，但后日谈进一步削弱了积极信号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.73,
+          "explanation": "华丽的废墟与死亡前的回光返照式录音留下浓重的惋惜与无力感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.42,
+          "explanation": "对幕后黑手操纵记忆的愤怒在剧情后期显露，但更多转化为哲思而非纯宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.09,
+          "explanation": "游戏几乎没有安全区域，空间站最美丽的地方也可能隐藏着敌人，绝无安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "装饰艺术风格大厅和远景依然是美的，但肌理中的腐败削弱了审美沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.19,
+          "explanation": "UI和界面简洁，但环境布置密集堆叠了大量物品与视觉信息，视觉风格上并非极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.46,
+          "explanation": "空间站原本非常奢华，但多数场景衰败不堪，奢华残留更多衬托悲剧而非享受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.88,
+          "explanation": "阴森长廊、血淋淋的变异尸体和几乎不亮的区域构成了游戏的主要视觉调性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "即使明亮区域也被黑色触手覆盖或充满尸体，外部太空则是冰冷的深空。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.41,
+          "explanation": "序章的嵌套模拟和遭遇台风时的环境扭曲带有迷幻感，但很快被惊悚打散。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.86,
+          "explanation": "空间站事件真相、身份来历以及台风起源构成巨型谜题，玩家在黑暗中拼凑答案。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.42,
+          "explanation": "玩法自由度有实验性特征，如Gloo炮筑路或用拟态绕过门禁，但整体为成熟的沉浸模拟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.23,
+          "explanation": "美术有上世纪的古典气质，但核心美学仍偏向现代工业冷酷恐怖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.71,
+          "explanation": "高科技武器、神经接口与全息UI代表鲜明的未来现代主义美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.78,
+          "explanation": "分散的叙事碎片加上多重干扰信息使得拼凑真实事件脉络的难度较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.65,
+          "explanation": "NPC通过录音与邮件展现复杂的内心，但缺少面对面互动和情感弧线动态演绎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "主角能力与性格由玩家决定，无固定预设成长轨迹；结局道德选择折射了可变的认知变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.88,
+          "explanation": "从站内部门运作模式到台风生态以及平行历史的构建异常坚固且细节饱满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.85,
+          "explanation": "信息获取顺序高度自由，可以跳过大量剧情直接寻找关键位置，叙事顺序完全由玩家控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.74,
+          "explanation": "不依靠强引导或CG推人，而是通过环境音、场景叙事让玩家缓慢沉入氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.58,
+          "explanation": "有激烈的枪战与超能力对决，但游戏更鼓励审慎的思考和非暴力方案。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.81,
+          "explanation": "对抗台风不仅是物理战斗，更是信息、身份和心理上的高强度多线冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.83,
+          "explanation": "主线和支线任务均深入拷问意识、身份延展、移情镜像等深层主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.82,
+          "explanation": "玩家孤独求生、根据个人价值观做决定，几乎不依赖外部社会支持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "转星公司以集体名义行事，但那是压迫性的组织，正面集体意识在游戏中体现微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.38,
+          "explanation": "摩根与兄长阿历克斯的关系是核心，但更多是欺骗与控制的集合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.24,
+          "explanation": "昔日同事都已死去或是幻象，几乎没有建立任何当代意义上的友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.18,
+          "explanation": "米凯拉等感情线仅存于背景故事或模拟，缺乏真实互动下爱的流露。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.21,
+          "explanation": "塔洛斯一号的社区在玩家到来前已崩溃，玩家体验的是残骸而非活着的关系网。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.52,
+          "explanation": "求生过程常常面临零和博弈，如氧气争夺或与疯掉的幸存者的对抗，有竞争底层逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.22,
+          "explanation": "少数可信任Voice指令或机器配合仅限功能层面，不存在情感层面的合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.74,
+          "explanation": "玩家受到高管指令的系统性强迫，不断陷入关于控制与服从的权力纠葛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.91,
+          "explanation": "玩家自身是否是摩根·余、是否仍是人类，是整个体验最核心的悬而未决的问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "打破模拟枷锁与通过多种路径解决问题是游戏机制与叙事两端共鸣的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "原本的秩序已彻底崩溃，玩家在混乱中重建的任何秩序都是短暂且脆弱的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.85,
+          "explanation": "你的名字、经历乃至眼前看到的都可能不是真实的，追寻个人真相是唯一主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.28,
+          "explanation": "装饰艺术的美逐渐让位于腐败，对美的追求在该作中并非中心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "升级树和修复空间站带来局部成就感，但整体叙事削弱了这种踏实感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.42,
+          "explanation": "玩家可实现局部正义，惩罚责任人，但伦理困境多是灰色地带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.68,
+          "explanation": "无数同事在事故中自愿或被自愿牺牲，结局选择也强迫玩家衡量牺牲的意愿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.88,
+          "explanation": "质问‘我是谁’是核心驱动，通过检视自己的记忆录音和他人对你的评价来拼凑自我。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.14,
+          "explanation": "故事情节核心是打破旧思维的象征，装饰艺术只作为美学外壳，未鼓吹传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.62,
+          "explanation": "通过植入不同的神经调整仪，生理与人格改变是常规状态，也涉及宇宙生态的剧变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.93,
+          "explanation": "每一分氧气、每一滴医疗胶的使用都被置于首位，活下去是支撑一切行为的基石。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.81,
+          "explanation": "在失去原有身份后，必须自己重新构建作为认知主体活着的一切意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.92,
+          "explanation": "解锁区域、监听私密录音以及研究外星生态的全过程完全由好奇心推动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "利用Gloo炮自制桥梁、用回收颗粒制作弹药与技能组件有一定创造力加成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.68,
+          "explanation": "步行器外空间行走和进入未知舱室极具冒险感，但恐惧同时也束缚了冒险冲动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.84,
+          "explanation": "玩家经常需要停下脚步审视线索、推敲人物真实意图并设法理清伦理困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.42,
+          "explanation": "没有排行榜或多人对战，只有求生本能下的自然竞争，如资源争抢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.14,
+          "explanation": "几乎所有时间都是独处，极少有需要普通社交技巧的场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.61,
+          "explanation": "高效的资源回收、谨慎的弹药使用和潜行路线规划都需要高度自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.78,
+          "explanation": "获取强力战利品常常需要进入高危区域，高风险高回报是默认法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.18,
+          "explanation": "危机不断涌现不允许平静，心脏跳动与警报声是常态的伴奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.72,
+          "explanation": "无论是逃离台风追击还是摆脱记忆牢笼，‘脱出’是贯穿全程的强驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.72,
+          "explanation": "特效华丽的超能力爆炸与不断蠕动的黑丝构成冲击性极强的视觉要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "游戏整体色调阴暗偏冷，金属与暗红主导，色彩运用非常克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.81,
+          "explanation": "从拟态擦碰的咔嗒声到巨大的程序警报，听觉刺激持续维持高水平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.52,
+          "explanation": "常有令人血脉偾张的追逐，但占据多数时间的是小心翼翼的慢节奏推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.93,
+          "explanation": "环境叙事、光影和声音三者共同编织出致密窒息的太空生存恐怖氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.95,
+          "explanation": "无加载切割地图以及始终如一的模拟规则带来了极强的存在感代入。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.76,
+          "explanation": "应对敌人需多方案例规划，技能点分配与资源转换路线具有深远的长期影响。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.68,
+          "explanation": "第一人称射击与跳跃跑酷需要一定的操作功底，Gloo炮用法也有技巧成分。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.94,
+          "explanation": "几乎所有目标都允许多种达成手段，且玩家选择能截然改变结果与结局。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.93,
+          "explanation": "隐藏区域借助技能装备才能抵达，地图的垂直空间结构设计精巧。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.62,
+          "explanation": "搜集制造材料、蓝图、神经调整仪与邮件构成较强的收集循环驱动力。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.84,
+          "explanation": "六条分支技能树提供截然不同的玩法风格，成长速度快且反馈明显。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.05,
+          "explanation": "纯单人游戏，无任何联机、聊天或与他人协作的机制设计。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.14,
+          "explanation": "完全侧重于单机叙事和生存模拟，不包含PvP元素或传统竞争。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家作为唯一的清醒者被困在一座迷宫般的太空站，面对无尽的孤独、无处不在的死亡威胁以及对自己记忆的深刻怀疑。体验始于恐惧和压迫，随着能力增强逐渐转化为对真相的执念和对权力的审慎，最终在生存本能与道德天性之间做出沉重抉择，整个旅程充斥着压抑的美感与哲学沉思。",
+        "structure_description": "游戏采用无缝连接的箱庭式结构，将整个太空站作为一个连续可探索的巨大环境。叙事碎片化为几百封电子邮件、语音日志和环境线索，解构传统线性叙事。任务的完成方式完全取决于玩家的技能配置和就地取材，这种多解法系统性设计构成了作品的核心表达结构。",
+        "cognitive_expression": "本作要求玩家展现出高度的系统化思维，在资源管理、路线规划和多变量因果推断中不断权衡。环境叙事需要主动拼凑线索、质疑一切表象，并进行深度的抽象归纳以理解故事的全貌。对未知的探索和对概念的哲学思辨贯穿始终，鼓励逻辑与直觉并行的认知模式。",
+        "behavioral_tendency_description": "高度奖励好奇心和审慎的冒险行为，每一处隐秘探索都可能获得生存优势。游戏塑造一种自律而警觉的求生者姿态，不鼓励冲动的正面交锋。自我反思是所有叙事选择的底层倾向，而社会性互动倾向则被极度弱化，替代为一种对自我身份的执着求索。"
+      },
+      "personality_affinity": {
+        "Ni": 0.84,
+        "Ne": 0.52,
+        "Ti": 0.88,
+        "Te": 0.67,
+        "Fi": 0.79,
+        "Fe": 0.21,
+        "Si": 0.19,
+        "Se": 0.62,
+        "openness": 0.91,
+        "conscientiousness": 0.75,
+        "extraversion": 0.18,
+        "agreeableness": 0.29,
+        "neuroticism": 0.83,
+        "Assertive": 0.43,
+        "Turbulent": 0.84
+      },
+      "supporting_evidence": [
+        "整座塔洛斯一号空间站没有任何活人同伴，玩家大多数时间独自面对死寂环境和录音。",
+        "玩家可以利用Gloo炮在任意墙面上创造路径，物理解决障碍的方式不受限制。",
+        "故事通过数百封分散的电子邮件和语音日志拼凑真相，没有任何旁白进行直接交代。",
+        "外星生物台风可以拟态成茶杯、椅子等日常物品，迫使玩家时刻警惕环境。",
+        "游戏提供了人类、潜行、战斗与外星超能力等多条独立成长技能树。",
+        "同一扇门可以用密码、黑客技能、寻找通风管道或蛮力打开。",
+        "核心剧情不断抛出你究竟是谁以及记忆是否可信的疑问。",
+        "有大量没有任务指引的隐藏区域，需要依靠飞行背包和杠杆技能达到。",
+        "玩家击杀人类NPC的抉择会直接改变后日谈的最终审判。",
+        "生存资源如子弹和医疗包均需花费稀缺的回收材料亲手制造。",
+        "从太空站望向无边深邃的宇宙空间时，常传达出压倒性的宇宙级渺小感。",
+        "结局反转彻底重塑了玩家对整个游戏过程的认知与背景设定。",
+        "大量NPC在玩家抵达前已绝望自杀或被禁锢等死，录音充满悲剧感。",
+        "游戏音乐多为低频电子氛围音，鲜有旋律，强化了未知的焦虑感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

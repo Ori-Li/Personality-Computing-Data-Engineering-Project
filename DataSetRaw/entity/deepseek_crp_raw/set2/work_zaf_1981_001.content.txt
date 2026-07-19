@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_zaf_1981_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Woza Albert!",
+        "type": "STAGE",
+        "countryName": "南非",
+        "year": 1981,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《Woza Albert!》是一部仅由两名演员完成的政治讽刺剧，通过假设耶稣降临种族隔离时期的南非，以即兴式小丑表演揭露社会压迫与荒诞。作品融合喜剧、肢体剧与尖锐社会批判，核心冲突围绕神迹现实与制度暴力展开，整体体验包含欢笑、荒诞感与强烈的抗议情感，具有深远的社会介入意义。",
+        "themes": [
+          "种族隔离",
+          "社会压迫",
+          "宗教讽刺",
+          "反抗",
+          "人性",
+          "阶级",
+          "权力批判"
+        ],
+        "keywords": [
+          "耶稣降临",
+          "南非种族隔离",
+          "小丑表演",
+          "社会讽刺",
+          "政治喜剧",
+          "身份证明",
+          "压迫制度",
+          "希望",
+          "肢体剧"
+        ],
+        "core_experience": "在笑声与荒诞中直面社会制度的暴力和不公，体验信仰与现实之间的尖锐冲突，最终在讽刺和颠覆中获得批判的快感与反抗的共鸣。",
+        "experience_introduction": "《Woza Albert!》通过仅有两名演员的极简舞台形式，让观众在极富想象力的身体表演中想象耶稣降临南非种族隔离社会的荒诞情景。作品不断在喜剧与悲剧、神圣与世俗、真实与幻想之间快速切换，使观众在欢笑的同时持续感受到社会制度对人的压迫，最终形成一种尖锐而富有感染力的批判性体验。"
+      },
+      "experience_vector": {
+        "passion": 0.82,
+        "healing": 0.15,
+        "awe": 0.35,
+        "nostalgia": 0.05,
+        "reflection": 0.86,
+        "romance": 0.0,
+        "tension": 0.78,
+        "warmth": 0.30,
+        "loneliness": 0.48,
+        "hope": 0.68
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.72,
+          "complexity": 0.55,
+          "depth_of_thought": 0.78,
+          "logical_structure": 0.38,
+          "novelty": 0.88,
+          "exploration": 0.52,
+          "ambiguity": 0.45,
+          "predictability": 0.22,
+          "information_density": 0.60,
+          "learning_value": 0.82
+        },
+        "worldview": {
+          "personal_scale": 0.72,
+          "relationship_scale": 0.38,
+          "social_scale": 0.95,
+          "civilization_scale": 0.58,
+          "cosmic_scale": 0.42,
+          "time_span": 0.22,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.20,
+          "sadness": 0.60,
+          "loneliness": 0.48,
+          "warmth": 0.30,
+          "fear": 0.38,
+          "tension": 0.78,
+          "awe": 0.35,
+          "nostalgia": 0.05,
+          "hope": 0.68,
+          "melancholy": 0.45,
+          "anger": 0.85,
+          "peace": 0.08
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.92,
+          "luxury": 0.02,
+          "darkness": 0.70,
+          "brightness": 0.08,
+          "dreamlike": 0.65,
+          "mystery": 0.20,
+          "experimental": 0.88,
+          "classical": 0.10,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.38,
+          "character_depth": 0.68,
+          "character_growth": 0.52,
+          "world_building": 0.30,
+          "nonlinear_structure": 0.72,
+          "slow_immersion": 0.12,
+          "action_intensity": 0.80,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.60,
+          "collectivism": 0.72,
+          "family": 0.15,
+          "friendship": 0.35,
+          "love": 0.10,
+          "community": 0.68,
+          "competition": 0.25,
+          "cooperation": 0.70,
+          "power_relationship": 0.95,
+          "identity": 0.88
+        },
+        "value": {
+          "freedom": 0.95,
+          "order": 0.08,
+          "truth": 0.88,
+          "beauty": 0.30,
+          "achievement": 0.20,
+          "justice": 0.92,
+          "sacrifice": 0.55,
+          "self_exploration": 0.48,
+          "tradition": 0.12,
+          "change": 0.90,
+          "survival": 0.72,
+          "meaning": 0.82
+        },
+        "behavior": {
+          "curiosity": 0.52,
+          "creation": 0.58,
+          "adventure": 0.40,
+          "reflection": 0.88,
+          "competition": 0.25,
+          "social": 0.65,
+          "discipline": 0.15,
+          "risk": 0.78,
+          "calm": 0.08,
+          "escape": 0.18
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.28,
+          "sound_intensity": 0.72,
+          "rhythm_energy": 0.85,
+          "atmosphere": 0.80,
+          "immersion": 0.78
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.92,
+          "actor_expression": 0.95,
+          "body_expression": 0.90,
+          "audience_interaction": 0.82,
+          "performance_intensity": 0.88,
+          "ritual_sense": 0.68
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.82,
+          "explanation": "演员通过快速的角色切换和极具爆发力的肢体动作持续传达强烈的政治情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品以尖锐讽刺和愤怒控诉为主，几乎不提供情感抚慰与治愈空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "演员的形体技艺和想象力令人赞叹，但作品重心不在营造宏大敬畏感，而在于社会批判。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "剧情聚焦当下社会的压迫与反抗，不唤起对于过去的温情回忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.86,
+          "explanation": "观众被反复引导去审视信仰、制度与人性，以及想象与现实之间的深刻矛盾。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品中不涉及浪漫爱情内容，情感表达集中于愤怒、反抗与对尊严的追求。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.78,
+          "explanation": "宗教叙事与现实制度暴力之间不断碰撞，剧情节奏紧凑且充满不确定性。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.30,
+          "explanation": "在少数底层人物互助的片段中透出微弱温情，但整体氛围以黑暗和讽刺为主。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.48,
+          "explanation": "被压迫个体的痛苦与孤立感偶有表达，但作品更突出集体命运而非个人孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.68,
+          "explanation": "耶稣降临的想象本身构成对解放的期盼，结尾给观众留下改变现状的渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.72,
+          "explanation": "以耶稣降临的超现实设定来映射和批判现实社会，需要观众进行多层次的象征解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "情节结构跳跃且依赖大量隐喻，但对制度压迫的核心批判清晰直接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.78,
+          "explanation": "作品持续追问信仰、权力、人性和社会正义等根本问题，思想分量较重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.38,
+          "explanation": "延展式的片段串联而非严密逻辑推理，叙事更依赖情感冲击和象征关联。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.88,
+          "explanation": "在1981年将耶稣降临与南非种族隔离结合，仅用两名演员完成全剧，形式高度独特。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.52,
+          "explanation": "主要探索制度暴力下的社会面貌和精神反抗，不侧重对未知物理空间的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.45,
+          "explanation": "讽刺意图明确，多数情节含义直指压迫现实，多义性相对有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.22,
+          "explanation": "情节发展充满即兴色彩和跳跃性转折，观众难以预测具体场景变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.60,
+          "explanation": "在极简舞台和有限时长内承载了丰富的政治、宗教和社会信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.82,
+          "explanation": "观众可以深入理解南非种族隔离制度、讽刺艺术的社会功能以及信仰的政治维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.72,
+          "explanation": "通过多个底层小人物演绎他们的恐惧、希望与尊严，个体命运成为核心切入点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.38,
+          "explanation": "少数角色间存在互助和共享痛苦的关系，但并非系统性展开人际关系网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "全剧围绕种族隔离社会制度展开，社会结构和权力关系是绝对焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.58,
+          "explanation": "透过南非的种族压迫触及更广泛的文明弊病，但整体仍以当代南非为主要框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.42,
+          "explanation": "耶稣降临引入宗教和神圣维度，但未深入探讨宇宙层面的宏大问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.22,
+          "explanation": "剧情集中于假定耶稣降临后的短暂时期，不铺陈宏大的历史跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "耶稣在现代南非复活构成高度幻想设定，许多场景以超现实手法呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.20,
+          "explanation": "少数喜剧桥段引起短暂欢笑，但整体情感基调沉重愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.60,
+          "explanation": "大量展现底层人物痛苦、羞辱与死亡，悲哀情绪贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.48,
+          "explanation": "个别场景凸显人物的孤立处境，但作品更强调集体压迫而非个体孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.30,
+          "explanation": "仅在极少数底层互助时刻产生微弱暖意，整体情绪偏向寒冷而非温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.38,
+          "explanation": "对制度暴力的恐惧偶尔出现，但愤怒和讽刺常常压制了恐惧的纯粹表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.78,
+          "explanation": "压迫与反抗、神圣与世俗之间的持续对峙使整个观剧过程充满心理紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "演员身体表达极具魅力，但作品目的并非激发庄严敬畏，而是引发批判性共鸣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "对旧时代的温暖回忆完全缺失，情感方向始终指向当下的苦难和未来的解放。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.68,
+          "explanation": "耶稣降临的戏剧设定本身承载着对公正与解放的期盼，结尾传递出改变的可能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.45,
+          "explanation": "在悲伤和痛苦中夹杂着对人性失败的深沉哀伤，但愤怒常超越忧郁成为主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.85,
+          "explanation": "作品对种族隔离制度的愤怒构成最大情感动力，讽刺、控诉与呐喊贯穿全剧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.08,
+          "explanation": "几乎没有提供内心平静或安静反思的空间，节奏和情绪始终处于涌动状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "崇尚粗砺和真实的力量，而非精致优美的视觉审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.92,
+          "explanation": "仅用两名演员和极少道具完成复杂叙事，舞台语言极度简练。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.02,
+          "explanation": "完全不追求奢华或精美布景，美学与贫瘠受压迫的社会现实高度一致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.70,
+          "explanation": "大量涉及暴力、羞辱和死亡等黑暗题材，舞台氛围常呈现压抑感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.08,
+          "explanation": "未刻意营造明快温暖的视觉风格，整体色调偏暗而尖锐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.65,
+          "explanation": "耶稣降临的超现实场景以及演员快速的角色切换营造出强烈的梦幻质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "虽涉及宗教奇迹，但聚焦于社会批判，未刻意渲染悬疑与神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.88,
+          "explanation": "极简演员配置、即兴小丑技法和跳跃叙事极富实验精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.10,
+          "explanation": "不遵循古典戏剧结构，形体与讽刺表现方式明显偏向当代乃至先锋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "鲜明的政治议题、简化舞台装置和直接表演风格体现强烈的现代戏剧特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.38,
+          "explanation": "剧情由一系列独立又相关的片段构成，未建立高度交织的复杂情节线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.68,
+          "explanation": "在极端社会处境中展现人物多样的恐惧、希望和尊严，个体性格鲜明可感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.52,
+          "explanation": "人物在压迫与奇迹面前逐渐显示出更强烈的反抗意识，但成长线非连续性展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.30,
+          "explanation": "重点不在构建完整虚构世界，而在于用高度浓缩的舞台手段呈现种族隔离现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.72,
+          "explanation": "叙事在不同人物和场景间快速跳跃，打破线性时间顺序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.12,
+          "explanation": "全剧节奏紧凑快速，极少采用缓慢沉浸式推进手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.80,
+          "explanation": "肢体动作夸张有力，表演充满爆发性形体节奏和强烈的戏剧冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "压迫者与被压迫者、信仰与现实之间的冲突极为尖锐且毫不缓和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "对神学、政治和人性等问题提出深层诘问，哲学思辨色彩浓厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.60,
+          "explanation": "一些人物展现出强烈的个人尊严和独立反抗精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.72,
+          "explanation": "受压迫群体的共同命运和集体反抗意识在作品中占重要地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "家庭关系不是叙事重点，亲属纽带只在极少数场景中略有提及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.35,
+          "explanation": "个别底层人物之间存在友爱和互助，但不够深度和持续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.10,
+          "explanation": "浪漫爱情不在作品关切范围内，情感重心在于社会层面的同情与愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.68,
+          "explanation": "黑人社区共同承受苦难的境遇被反复呈现，社区团结感较为强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.25,
+          "explanation": "几乎没有直接描写个体间的竞争，冲突集中于被压迫者与压迫者之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.70,
+          "explanation": "底层人物之间自发的合作和相互支持是维持生存与尊严的重要方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "种族隔离权力结构是整部作品的核心，所有矛盾均源于不平等的权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.88,
+          "explanation": "肤色、阶级和社会地位塑造了个体身份，身份问题与其他压迫紧密交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.95,
+          "explanation": "对摆脱种族隔离、获得人身与精神自由的渴望是贯穿全剧的最强价值驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.08,
+          "explanation": "现存秩序被描述为压迫工具，作品对其持鲜明的否定与讽刺态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.88,
+          "explanation": "剧作以讽刺揭露制度谎言，追求社会真相和信仰本真。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "美学价值让位于社会批判，粗粝真实的表现形式远高于对美的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.20,
+          "explanation": "个人成功与成就几乎不被讨论，关注点在于集体生存与解放。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.92,
+          "explanation": "呼唤社会正义是作品最直接的价值表达，对不公的控诉贯彻始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.55,
+          "explanation": "部分人物为他人而承受痛苦乃至生命危险，牺牲作为一种代价被清晰呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.48,
+          "explanation": "人物主要在外部压迫中挣扎，深入内心进行自我探索的空间有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.12,
+          "explanation": "不对既有传统表示尊崇，反而撕破传统观念依附的压迫结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.90,
+          "explanation": "全剧从根本上呼唤社会变革，耶稣降临的假设即是改变现状的最强隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.72,
+          "explanation": "底层人物在极度不公的社会中如何维持肉体与精神生存多次展开探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.82,
+          "explanation": "在苦难和死亡面前不断追问生命与信仰的意义，赋予作品崇高感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.52,
+          "explanation": "耶稣降临引发人物好奇和围观，但紧迫的生存问题限制了自由探索的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.58,
+          "explanation": "演员通过想象和即兴创造多重角色，体现极强的创造力行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.40,
+          "explanation": "冒险并非作品暗示的主要行为方向，反抗更像是在逼迫下不得不为之。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.88,
+          "explanation": "作品不断促使观众和人物反思信仰、权力和自身的道德位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.25,
+          "explanation": "不推崇人与人之间的竞争，叙事重点在于对抗压迫而非彼此对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.65,
+          "explanation": "人物在社区内密切互动，社会交流是应对压迫的重要行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "对制度和规则的遵守被视为对压迫的服从，不被鼓励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.78,
+          "explanation": "公开嘲讽政权和挑战种族隔离本身就是高风险行为，冒险精神高度突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.08,
+          "explanation": "舞台节奏和情绪均充满动荡，几乎没有引导观众进入冷静状态的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.18,
+          "explanation": "并不鼓励脱离现实困境的逃避，相反执着于直面和改变现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "肢体语言夸张多变，角色快速切换，视觉冲击力强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.28,
+          "explanation": "舞台布景极简，色彩层次朴素，视觉重点在身体而非色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.72,
+          "explanation": "人声、呼喊与节奏性身体发出较强声音，音频表现具有侵略性和情绪张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.85,
+          "explanation": "全剧节奏迅速而有力，表演充满紧迫感和推动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "成功营造出既荒诞又压抑的政治气氛，浓郁且具有强包裹感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.78,
+          "explanation": "由于现场感极强和情绪的持续密集冲击，观众极易被拖入剧作情境。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.92,
+          "explanation": "演出高度依赖两名演员在场能量和现场互动，剧场的不可复制性极强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "两名演员需快速转换大量角色，面部和身体表情极尽丰富夸张，表演能力是作品核心。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.90,
+          "explanation": "小丑式肢体动作和夸张的体态语言是叙事和表达情感的主要手段。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.82,
+          "explanation": "讽刺性内容和即兴感使观众产生强烈立场共鸣，现场互动感明显。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.88,
+          "explanation": "持续的高强度表演几乎不给演员和观众喘息空间，情绪密度极高。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.68,
+          "explanation": "耶稣复活的假设以及角色不断投入的受难式表演赋予剧场一定的仪式色彩。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在充满动荡和荒诞感的剧场中体验到从黑色幽默到愤怒控诉的快速情感转换。欢笑与紧张交替出现，低落悲伤与对解放的期盼互相混合，整体的情绪曲线激烈而紧迫。作品并不提供放松或逃避，而是将观众牢牢固定在压迫现实与神迹幻想的夹缝中，促使产生强烈的道德震动和批判冲动。",
+        "structure_description": "叙事结构由一系列独立而又互文的小片段构成，两名演员通过快速的角色切换和身体变化串联起整个故事。没有线性情节，而以耶稣降临这一核心假设作为框架反复折返于不同人物和情景之间。极简的舞台与高度依赖现场表演的编排，使作品的结构建立在身体节奏和情绪张力之上，而非传统戏剧的起承转合。",
+        "cognitive_expression": "作品要求观众同时处理宗教象征、政治寓言和社会现实等多层信息，在看似荒诞的情境中进行深度思考。观众需要不断从夸张的讽刺中剥离出真实的制度批判，调动模式识别和隐喻解读能力。信仰、正义和身份等问题被反复提出，推动持续的反思与意义建构，而非被动接受简单结论。",
+        "behavioral_tendency_description": "作品鼓励观众直面不公并采取批判立场，通过讽刺与愤怒激发改变现实的行为冲动。接受现状和顺从被视为荒诞甚至可耻，冒险挑战权威的行为被一一呈现为可敬之举。同时，个体之间的合作与支持被肯定为对抗压迫的必要方式，整体强化了从集体中汲取力量、主动追求变革的行为取向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.65,
+        "Ti": 0.52,
+        "Te": 0.30,
+        "Fi": 0.78,
+        "Fe": 0.85,
+        "Si": 0.15,
+        "Se": 0.80,
+        "openness": 0.90,
+        "conscientiousness": 0.20,
+        "extraversion": 0.68,
+        "agreeableness": 0.55,
+        "neuroticism": 0.82,
+        "Assertive": 0.25,
+        "Turbulent": 0.90
+      },
+      "supporting_evidence": [
+        "舞台只启用两名演员，通过快速的角色变换扮演不同种族、性别和社会地位的众多人物。",
+        "故事设定为耶稣在种族隔离的南非复活，并由此展开一连串对当时社会的讽刺场景。",
+        "演出大量依赖小丑式的夸张身体动作和面部表情来完成叙事与角色塑造。",
+        "角色因肤色和身份不断受到警察与当局的盘查、羞辱和暴力对待。",
+        "演员用戏谑方式模仿白人统治阶层的语言、姿态和思维逻辑。",
+        "底层人物虽然持续遭受压迫，却仍保持幽默感和彼此扶持的生活方式。",
+        "耶稣被描绘成具有黑人特征的形象，与官方宣传的白人耶稣形成尖锐对比。",
+        "剧中以直接的身体对抗和声音对抗来表现被压迫者的愤怒和反抗意愿。",
+        "多个场景中，制度暴力的实施者显得既可怕又愚蠢，喜剧与恐怖并行。",
+        "身份证明和通行证作为控制黑人的工具在剧中反复成为关键道具。",
+        "死亡和拘禁作为压迫手段直接出现在情节中，形成强烈的悲剧冲击。",
+        "极简布景中没有复杂装置，重点全部放在演员的身体和声音表达上。",
+        "作品包含大量即兴性质的表演片段，演员根据现场反应调整节奏和情绪。",
+        "耶稣的降临被当作底层人物集体幻想中的解放符号，反复在对话中被提起和期盼。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

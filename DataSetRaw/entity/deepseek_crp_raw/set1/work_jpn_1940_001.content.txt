@@ -1,0 +1,755 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1940_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "街头霸王II",
+        "type": "GAME",
+        "countryName": "日本",
+        "year": 1991,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "confidence": 0.95,
+        "primaryMediaType": "GAME",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0"
+      },
+      "semantic": {
+        "summary": "《街头霸王II》是Capcom于1991年推出的划时代格斗游戏。玩家从全球八位格斗家中选择其一，通过一对一的对战模式，挑战其余角色并最终面对隐藏首领。游戏首创了特殊技指令、连招系统以及多样化的角色背景故事，构建了一个风格强烈的世界格斗舞台。其核心体验在于紧张的即时对抗、精密的策略博弈以及对角色招式的深度掌握。",
+        "themes": [
+          "竞争",
+          "修行",
+          "自我超越",
+          "正义",
+          "复仇",
+          "世界性"
+        ],
+        "keywords": [
+          "对战",
+          "格斗",
+          "街机",
+          "连招",
+          "波动拳",
+          "升龙拳",
+          "角色选择",
+          "世界巡回",
+          "维加",
+          "隆",
+          "肯",
+          "春丽",
+          "古烈"
+        ],
+        "core_experience": "通过掌握精密的操作指令与时机，在风格各异的全球场景中与对手进行高强度的心理和反应博弈，体验不断磨练技术、战胜强敌所带来的成就感与竞技快感。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.05,
+        "awe": 0.25,
+        "nostalgia": 0.15,
+        "reflection": 0.1,
+        "romance": 0.05,
+        "tension": 0.9,
+        "warmth": 0.1,
+        "loneliness": 0.2,
+        "hope": 0.3
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.15,
+          "complexity": 0.6,
+          "depth_of_thought": 0.25,
+          "logical_structure": 0.7,
+          "novelty": 0.9,
+          "exploration": 0.3,
+          "ambiguity": 0.1,
+          "predictability": 0.2,
+          "information_density": 0.35,
+          "learning_value": 0.4
+        },
+        "worldview": {
+          "personal_scale": 0.65,
+          "relationship_scale": 0.3,
+          "social_scale": 0.45,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.25
+        },
+        "emotion": {
+          "happiness": 0.35,
+          "sadness": 0.2,
+          "loneliness": 0.3,
+          "warmth": 0.15,
+          "fear": 0.15,
+          "tension": 0.9,
+          "awe": 0.3,
+          "nostalgia": 0.15,
+          "hope": 0.4,
+          "melancholy": 0.2,
+          "anger": 0.55,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.3,
+          "minimalism": 0.2,
+          "luxury": 0.1,
+          "darkness": 0.35,
+          "brightness": 0.65,
+          "dreamlike": 0.05,
+          "mystery": 0.35,
+          "experimental": 0.15,
+          "classical": 0.2,
+          "modern": 0.7
+        },
+        "narrative": {
+          "plot_complexity": 0.25,
+          "character_depth": 0.4,
+          "character_growth": 0.2,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.05,
+          "action_intensity": 0.95,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.15
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.1,
+          "family": 0.1,
+          "friendship": 0.2,
+          "love": 0.05,
+          "community": 0.1,
+          "competition": 0.98,
+          "cooperation": 0.05,
+          "power_relationship": 0.65,
+          "identity": 0.55
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.25,
+          "truth": 0.2,
+          "beauty": 0.15,
+          "achievement": 0.9,
+          "justice": 0.45,
+          "sacrifice": 0.15,
+          "self_exploration": 0.35,
+          "tradition": 0.3,
+          "change": 0.25,
+          "survival": 0.6,
+          "meaning": 0.3
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.25,
+          "adventure": 0.35,
+          "reflection": 0.15,
+          "competition": 0.98,
+          "social": 0.1,
+          "discipline": 0.8,
+          "risk": 0.55,
+          "calm": 0.1,
+          "escape": 0.05
+        },
+        "sensory": {
+          "visual_intensity": 0.8,
+          "color_richness": 0.75,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.9,
+          "atmosphere": 0.8,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.8,
+          "mechanical_skill": 0.95,
+          "player_agency": 0.9,
+          "exploration_depth": 0.15,
+          "collection_system": 0.1,
+          "progression_system": 0.25,
+          "social_interaction": 0.2,
+          "competition_intensity": 0.98
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "游戏的高强度对抗和即时反馈系统持续激发玩家的投入热情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "游戏的核心机制围绕冲突与对抗，几乎不存在安抚或治愈性的体验设计。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.25,
+          "explanation": "特定角色的超必杀技和场景效果能带来短暂的震撼，但并非核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.15,
+          "explanation": "作品本身不提供怀旧叙事，但视觉风格和音乐随时间推移可能成为怀旧载体。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.1,
+          "explanation": "游戏节奏极快，几乎不给玩家留下进行深度哲思或内省的时间。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "剧情中几乎没有涉及恋爱或浪漫情感的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.9,
+          "explanation": "血条接近耗尽和双方博弈时的心理紧张感是游戏体验的核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "角色间的情感交互以敌对为主，缺乏温暖或关怀性的情节设计。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.2,
+          "explanation": "部分角色背景故事涉及孤独的复仇或修行，但在对战中表现不明显。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.3,
+          "explanation": "战胜强敌和完成角色结局动画时，传递出正义得到伸张和达成目标的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.15,
+          "explanation": "游戏规则和操作语言非常直接且具体，几乎不需要抽象推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.6,
+          "explanation": "角色对策、帧数数据和立回策略构成了一个中等复杂的博弈系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.25,
+          "explanation": "游戏侧重于反应速度和肌肉记忆，哲学思辨和智识深度不是其核心追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.7,
+          "explanation": "游戏的攻防逻辑、招式相克和能量管理系统具有严密的内部规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.9,
+          "explanation": "在1991年的历史背景下，六键操作、特殊技指令和连招系统是革命性的创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "游戏不包含对未知世界的探索，探索主要体现在尝试不同角色的战术上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.1,
+          "explanation": "游戏规则、胜负条件和角色故事都有着清晰明确的界定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.2,
+          "explanation": "与人类玩家对战时，博弈过程充满变化，较难预测；单人模式则有固定规律可循。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.35,
+          "explanation": "游戏单位时间内传递的语义信息不多，主要由动作和音效构成的即时反馈组成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.4,
+          "explanation": "玩家可以学习到不同国家的文化符号和格斗术语，但学到的系统普遍性知识有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.65,
+          "explanation": "故事重心始终落在每个角色个人的动机、修行和复仇上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.3,
+          "explanation": "角色之间主要是对手关系，少数存在师徒或朋友关系，深度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.45,
+          "explanation": "维加的影法组织涉及跨国犯罪，古烈的剧情涉及军事组织，触及社会层面的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "游戏通过各国场景和角色展现了不同的文化表象，但未深入探讨文明冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "世界观完全建立在现实地球背景之上，不涉及宇宙或其他维度的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "故事本身发生的时间跨度较短，主要集中在格斗大赛的几天内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.25,
+          "explanation": "角色可以发动波动拳等能量攻击，存在低度幻想元素，但整体世界架构基于现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.35,
+          "explanation": "获胜的瞬间带来强烈的喜悦，但大部分时间玩家的情绪处于紧张状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.2,
+          "explanation": "部分角色的结局动画带有悲伤色彩，但在激烈的对战中不占主导地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "多个角色的背景故事中透露出强烈的孤独感，例如隆和春丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "角色的积极互动很少，整体的情感基调是冷酷和坚毅的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "面对强大Boss时可能产生紧张和压迫感，但远未达到恐怖的程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "游戏的全程都贯穿着高度的心理和神经紧张感，要求玩家全神贯注。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.3,
+          "explanation": "同伴的必杀技、出色的战术发挥和令人惊叹的逆转会产生敬佩之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.15,
+          "explanation": "游戏本身并未刻意营造怀旧感，但其时代特征使其成为怀旧的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.4,
+          "explanation": "在血量劣势时不放弃，抓住机会反击并获胜，传递出不屈和希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.2,
+          "explanation": "某些角色的个人悲剧背景会带来一丝淡淡的忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.55,
+          "explanation": "对战中的激烈对抗、被压制或遭遇不公判罚（如无限连）会激发愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "游戏过程中几乎没有平静的时刻，整体氛围充满了对抗和躁动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.3,
+          "explanation": "像素美术和场景设计在当时具有较高水准，但整体审美偏向力量而非唯美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.2,
+          "explanation": "角色设计和界面元素并不繁复，但包含大量视觉特效，不属于极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "游戏的美术主题围绕格斗、力量与街头，与奢华感无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.35,
+          "explanation": "维加的基地等场景色调阴暗，部分角色的故事涉及阴暗面，但并非全然黑暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.65,
+          "explanation": "许多著名格斗场景如隆的朱雀城、古烈的美军基地色调明亮、色彩鲜艳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "游戏的美术风格写实硬朗，完全没有梦幻或超现实的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.35,
+          "explanation": "隐藏角色、隐藏首领以及部分角色的神秘身世给游戏增添了一层神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "游戏创立了一套标准，其本身在当时虽然新颖，但并非纯艺术性的实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.2,
+          "explanation": "美术和音乐融合了世界各地的文化元素，但整体是现代化的综合风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.7,
+          "explanation": "游戏的UI、角色设计、音乐风格都是典型的90年代初现代流行文化风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.25,
+          "explanation": "剧情仅为对战提供背景，没有复杂的多线叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.4,
+          "explanation": "每个格斗家都有独特的背景故事、动机和结局，人物塑造鲜明但深度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.2,
+          "explanation": "角色在游戏流程中完成其个人目标，但缺乏持续性的性格发展描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "通过全球各地的场景和角色背景，成功搭建了一个风格化的世界格斗舞台。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "游戏流程基本是线性的擂台赛，不存在非线性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.05,
+          "explanation": "游戏直接进入对战，通过激烈的操作和高频反馈让玩家瞬间沉浸，而非缓慢浸入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.95,
+          "explanation": "格斗是游戏的全部内容，每秒都在发生激烈的攻防动作，强度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "游戏的核心即为角色间的直接生死冲突，这种冲突贯穿整个游戏过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.15,
+          "explanation": "游戏旨在提供刺激的对战体验，不包含系统性的哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "游戏极度强调一对一的个人对抗和个人荣誉，每个角色都是独立的个体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.1,
+          "explanation": "游戏中几乎没有团队合作或为集体牺牲的情节与机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.1,
+          "explanation": "家庭关系在故事背景中极少出现，不是剧情的驱动因素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "隆和肯是师兄弟兼好友，但这种友情关系在游戏中的表现占比很小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "游戏剧情完全没有涉及爱情要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.1,
+          "explanation": "角色之间缺乏社区或社群的联系，天下英雄皆为独立的斗士。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.98,
+          "explanation": "竞争是游戏唯一且永恒的主题，所有角色的互动都建立在对抗之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.05,
+          "explanation": "游戏模式完全是单人对抗，不存在任何合作机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.65,
+          "explanation": "强弱对比、上位者（如维加）与挑战者的权力关系是剧情的核心驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.55,
+          "explanation": "角色们都在通过战斗寻找或证明自己的身份，如隆探寻格斗家之道，春丽为父复仇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "对抗暴政和追求自由的格斗精神在部分角色身上有所体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "格斗本身存在规则，但总体倾向于无序的街头争斗与力量对决。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.2,
+          "explanation": "追求武道真谛或事件真相是某些角色的个人目标，但不是普遍主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.15,
+          "explanation": "游戏强调力量感和打击感，对美的追求处于非常次要的位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.9,
+          "explanation": "击败对手、赢得比赛、成为更强斗士的成就感是游戏最大的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.45,
+          "explanation": "击败邪恶组织影法、为亲人报仇等情节传递了朴素的正义观念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "游戏中鲜有牺牲自己以成全他人或更大利益的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.35,
+          "explanation": "以隆为代表，通过战斗突破自我极限、探寻自身终极意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "游戏包含很多传统武术元素，如空手道、相扑、太极，但对传统的态度是传承而非固守。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.25,
+          "explanation": "游戏本身革命性地改变了格斗游戏，但其叙事核心并非推动社会或世界变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.6,
+          "explanation": "在残酷的格斗比赛中生存并获胜，是最基础和最强烈的价值体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.3,
+          "explanation": "角色们通过战斗赋予各自生命以不同的意义，但这属于背景故事，非游戏过程主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "尝试不同角色和挖掘隐藏要素会激发玩家的好奇心，但这不是游戏的主要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "玩家使用不同招式组合形成连段，具有一定创造性，但受限于固定的招数表。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.35,
+          "explanation": "环游世界与不同高手对决的过程带有一定的冒险色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.15,
+          "explanation": "游戏节奏太快，要求玩家即时反应，几乎不鼓励慢节奏的反思行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.98,
+          "explanation": "一切行为都围绕竞争展开，从操作、策略到心理层面的全面对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "街机模式下的线下社交是其文化现象的一部分，但游戏内机制并不鼓励社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.8,
+          "explanation": "掌握一个角色需要大量的重复练习和对出招时机的严格训练。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "对战中常常需要冒险采取高风险高回报的行动，例如跳入或裸杀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "游戏鼓励激烈的进攻和瞬时反应，冷静并非主要行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.05,
+          "explanation": "游戏是完全的正面交锋，鼓励玩家直面困境，逃跑或退缩不起作用。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.8,
+          "explanation": "角色的快速移动、夸张的必杀技特效和连续Hit的高亮显示对视觉构成强烈刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.75,
+          "explanation": "每个角色都有鲜明的主题色，场景色彩饱和度高，视觉层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "出招呐喊、打击音效和快节奏的背景音乐构成了强烈而持续的听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.9,
+          "explanation": "游戏的攻防节奏极快，音乐和动作的结合产生了令人上瘾的律动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.8,
+          "explanation": "通过音乐、声效和场景的配合，成功地营造出身临其境的激烈格斗氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "高度集中的操作需求和感官包围使玩家完全沉浸在‘眼前只有对手’的心流状态。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.8,
+          "explanation": "角色对策、立回、资源管理和心理博弈提供了多维度的策略决策空间。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.95,
+          "explanation": "连招、目押、确反和蓄力指令的执行都需要极高的操作精度和手速。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.9,
+          "explanation": "游戏结果完全由玩家的个人实力和实时决策决定，玩家拥有高度控制感。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.15,
+          "explanation": "游戏世界是单向的擂台，几乎没有可供探索的未知区域或秘密。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.1,
+          "explanation": "游戏核心机制不包含道具、角色或成就的收集系统。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.25,
+          "explanation": "游戏没有角色成长或技能树，唯一的进程是击败下一个对手。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.2,
+          "explanation": "游戏本身无内置社交功能，但其街机属性天然创造了线下的社交环境。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.98,
+          "explanation": "这是格斗游戏的核心，玩家间的对抗强度达到了顶峰。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "《街头霸王II》为玩家带来的核心体验是高度紧张且充满热血的即时竞技快感。玩家全程沉浸在一种心流状态中，精神高度集中，每一次按键都伴随着对胜利的渴望和对失利的警惕。胜利带来巨大的成就感，而失败则激起更强的挑战欲，整个过程情绪起伏剧烈，充满原始的对抗激情。",
+        "structure_description": "游戏体验结构是典型的街机式循环：选择角色-连续战斗-挑战首领。这种结构简洁直接，去除了所有次要元素，将玩家的注意力完全聚焦于一场接一场的战斗。音乐和声效的节奏感强化了攻防转换的节拍，创造出一种令人血脉贲张的韵律。",
+        "cognitive_expression": "游戏主要激发的是玩家的反应认知、模式识别和战术规划能力。玩家需要在毫秒之间识别对手的起手动作并做出正确应对，同时在大脑中快速计算帧数优势和立回策略。这是一种高度逻辑化和即时性的认知活动，而非内省或抽象思考。",
+        "behavioral_tendency_description": "游戏强烈鼓励并奖励对抗性、纪律性和冒险性的行为。玩家必须通过刻苦练习形成肌肉记忆，在对战中主动进攻或精准反击，并敢于在关键时刻承担风险以获取优势。逃避或退缩没有生存空间，直面竞争是唯一的行为准则。"
+      },
+      "personality_affinity": {
+        "Ni": 0.2,
+        "Ne": 0.25,
+        "Ti": 0.6,
+        "Te": 0.8,
+        "Fi": 0.4,
+        "Fe": 0.15,
+        "Si": 0.25,
+        "Se": 0.95,
+        "openness": 0.35,
+        "conscientiousness": 0.75,
+        "extraversion": 0.5,
+        "agreeableness": 0.15,
+        "neuroticism": 0.55,
+        "Assertive": 0.7,
+        "Turbulent": 0.3
+      },
+      "supporting_evidence": [
+        "游戏的全部流程围绕一对一站立格斗竞技展开，不存在其他类型的玩法。",
+        "操作设计包含轻、中、重三种拳脚和方向摇杆或十字键，共计六个攻击键位。",
+        "玩家需要控制角色通过立回来调整距离，寻找最佳的攻击或防御时机。",
+        "每位角色拥有旋风腿、升龙拳等多种独特必杀技，指令为摇杆方向组合加攻击键。",
+        "判定、硬直、眩晕值和晕眩槽等隐藏数据构成了一套精确的攻防逻辑。",
+        "八位初始可选角色分别来自日本、美国、巴西、中国、英国、俄罗斯等不同国家。",
+        "春丽作为游戏历史上首批女性格斗家之一，以复仇为动机挑战影法组织。",
+        "每位角色在通关后都有一段专属的动画结局，交代其战后去向。",
+        "维加作为最终首领，其精神力装置和独裁者身份构成了故事的核心反派源头。",
+        "对战采用三局两胜制，时间到或一方血量归零则单局结束。",
+        "游戏鼓励进攻，投技角色和远程波动角色形成了截然不同的攻防体系。",
+        "隆和肯的外观和招式相似，但性能参数不同，代表了同一流派的两种发展方向。",
+        "游戏的背景音乐由下村阳子创作，曲风根据角色国籍使用摇滚、桑巴、中国民乐等元素。",
+        "街机版允许玩家在任意时刻投币挑战正在游玩的单人，打破传统排队规则。",
+        "打击音效具有强烈的金属质感和力度反馈，被重击时角色会发出特写的痛苦表情。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

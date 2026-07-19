@@ -1,0 +1,720 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "认错",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 1991,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《认错》是优客李林的首张专辑主打歌。歌曲以一把清脆的吉他贯穿始终，衬托林志炫清亮高亢且富有穿透力的嗓音，讲述了一对恋人分手后，男主人公意识到自己的错误并陷入深深悔恨的故事。作品通过简单直接的方式传递出强烈的内疚与孤独感，开创了华语流行乐坛的城市民谣风潮，成为1990年代台湾乐坛最具代表性的情歌之一。",
+        "themes": [
+          "爱情",
+          "悔恨",
+          "失去",
+          "内疚",
+          "孤独",
+          "成长",
+          "自我反省"
+        ],
+        "keywords": [
+          "认错",
+          "优客李林",
+          "林志炫",
+          "李骥",
+          "城市民谣",
+          "吉他伴奏",
+          "悔恨",
+          "失恋",
+          "1990年代台湾流行音乐",
+          "高音"
+        ],
+        "core_experience": "听众在吉他声中进入一段充满遗憾的情感叙事。清亮而略带沙哑的人声营造出强烈的自我责备氛围，让听众体验到面对错误时无力挽回的沉痛，以及深夜独自面对回忆时的孤独与内疚。",
+        "experience_introduction": "《认错》通过极简的乐器配置和直白的情感表达，让听众迅速与主人公的悔恨产生共情。林志炫标志性的高亢嗓音将内疚与孤独感放大，吉他反复的分解和弦模拟了深夜中无法停止的自我追问。整首歌营造的是一个独处空间，听众在其中体验的是对过往错误的重新审视和被回忆反复折磨的情绪历程。"
+      },
+      "experience_vector": {
+        "passion": 0.65,
+        "healing": 0.15,
+        "awe": 0.05,
+        "nostalgia": 0.55,
+        "reflection": 0.78,
+        "romance": 0.42,
+        "tension": 0.35,
+        "warmth": 0.12,
+        "loneliness": 0.88,
+        "hope": 0.08
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.25,
+          "depth_of_thought": 0.42,
+          "logical_structure": 0.20,
+          "novelty": 0.68,
+          "exploration": 0.15,
+          "ambiguity": 0.23,
+          "predictability": 0.85,
+          "information_density": 0.22,
+          "learning_value": 0.12
+        },
+        "worldview": {
+          "personal_scale": 0.98,
+          "relationship_scale": 0.75,
+          "social_scale": 0.08,
+          "civilization_scale": 0.02,
+          "cosmic_scale": 0.01,
+          "time_span": 0.35,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.02,
+          "sadness": 0.92,
+          "loneliness": 0.88,
+          "warmth": 0.12,
+          "fear": 0.25,
+          "tension": 0.35,
+          "awe": 0.05,
+          "nostalgia": 0.55,
+          "hope": 0.08,
+          "melancholy": 0.58,
+          "anger": 0.15,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.45,
+          "minimalism": 0.92,
+          "luxury": 0.02,
+          "darkness": 0.32,
+          "brightness": 0.10,
+          "dreamlike": 0.18,
+          "mystery": 0.05,
+          "experimental": 0.20,
+          "classical": 0.55,
+          "modern": 0.35
+        },
+        "narrative": {
+          "plot_complexity": 0.12,
+          "character_depth": 0.65,
+          "character_growth": 0.70,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.08,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.58,
+          "philosophical_depth": 0.35
+        },
+        "social_relationship": {
+          "individualism": 0.82,
+          "collectivism": 0.05,
+          "family": 0.03,
+          "friendship": 0.10,
+          "love": 0.95,
+          "community": 0.02,
+          "competition": 0.05,
+          "cooperation": 0.02,
+          "power_relationship": 0.15,
+          "identity": 0.48
+        },
+        "value": {
+          "freedom": 0.12,
+          "order": 0.08,
+          "truth": 0.70,
+          "beauty": 0.25,
+          "achievement": 0.05,
+          "justice": 0.08,
+          "sacrifice": 0.22,
+          "self_exploration": 0.78,
+          "tradition": 0.25,
+          "change": 0.58,
+          "survival": 0.10,
+          "meaning": 0.45
+        },
+        "behavior": {
+          "curiosity": 0.08,
+          "creation": 0.12,
+          "adventure": 0.05,
+          "reflection": 0.92,
+          "competition": 0.02,
+          "social": 0.05,
+          "discipline": 0.08,
+          "risk": 0.15,
+          "calm": 0.10,
+          "escape": 0.55
+        },
+        "sensory": {
+          "visual_intensity": 0.05,
+          "color_richness": 0.08,
+          "sound_intensity": 0.48,
+          "rhythm_energy": 0.30,
+          "atmosphere": 0.85,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "城市民谣",
+          "tempo": 0.35,
+          "energy": 0.28,
+          "vocal_style": "高亢清亮、深情倾诉",
+          "instrumentation": "吉他为主导",
+          "production_style": "简洁干净、突出人声",
+          "lyrical_theme": "失恋、悔恨、自责",
+          "emotional_scene": "深夜独处、回忆与反思",
+          "cultural_context": "1990年代台湾城市民谣风潮"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.65,
+          "explanation": "人声在高潮部分展现出强烈的情感爆发力，传递出浓厚的悲愤情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品整体沉浸在痛苦与自责中，几乎没有提供抚慰或温暖的出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "歌曲聚焦于个人的情感过失，不涉及宏大或令人敬畏的主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "歌词不断回望过去的感情细节，吉他的音色也带有淡淡的怀旧感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.78,
+          "explanation": "整首歌的核心动作就是男主人在对自身过错的反复审视和内省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.42,
+          "explanation": "爱情是故事的背景，但核心体验是失去爱情的痛苦而非相爱的甜蜜。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.35,
+          "explanation": "长期的悔恨在内心积聚形成持续的心理压力，但缺乏外在的对抗性。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.12,
+          "explanation": "整体氛围冷清孤寂，几乎没有温暖或舒适的感受传递出来。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.88,
+          "explanation": "这是作品最核心的情感体验，主人公独自面对失去爱情的痛苦。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.08,
+          "explanation": "歌曲结尾没有给出任何和解或未来的希望，停留在无法挽回的遗憾中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "情感表达直白，叙述的都是具体的感情事件，象征或抽象概念很少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.25,
+          "explanation": "结构简单明了，情感逻辑单向，没有多线交织的复杂构思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.42,
+          "explanation": "虽然对单一情感挖掘较深，但整体思维深度主要体现在情感层面，而非哲理层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.20,
+          "explanation": "歌曲遵循传统的流行歌曲结构，没有复杂的规则或系统需要理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.68,
+          "explanation": "在1990年代初期，以极简民谣编曲搭配高亢男声唱情歌的形式具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "作品局限在已知的二人关系和过往记忆中，没有探索未知世界的意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.23,
+          "explanation": "关于过错的具体细节没有完全点明，留有一些想象空间，但整体表达很清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.85,
+          "explanation": "情感走向和歌曲结构都非常符合预期，没有意外的转折或结果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.22,
+          "explanation": "作品聚焦单一情绪和单一事件，传达的知识性或概念性信息非常有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.12,
+          "explanation": "作为一段情感体验的分享，听众能获得的系统化知识或技能理解非常少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.98,
+          "explanation": "视野完全集中在主人公内心世界，关注点全是个人情感、痛苦与悔恨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.75,
+          "explanation": "虽然聚焦于分手后的关系，但这层关系是通过个人回忆和反思呈现的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.08,
+          "explanation": "故事几乎没有任何社会背景、群体互动或社会现象的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.02,
+          "explanation": "完全不涉足人类文明、历史或宏大叙事层面的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.01,
+          "explanation": "没有关于宇宙、生命起源或存在本质的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "故事在回忆过去和体验当下痛苦之间切换，时间跨度仅限于这段感情关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品完全基于真实的现代城市情感生活，没有任何幻想和超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.02,
+          "explanation": "整个作品的基调是痛苦和后悔，几乎找不到快乐的痕迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.92,
+          "explanation": "这是作品最主要的情感颜色，从旋律到歌唱都充满了无法掩饰的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.88,
+          "explanation": "失去伴侣后的孤独感和不被理解的孤立感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.12,
+          "explanation": "情感色调偏冷，只有在回忆过去美好时光时才有一丝微弱的暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.25,
+          "explanation": "害怕被永远误解和害怕独自面对未来的恐惧感在歌中有所体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.35,
+          "explanation": "内心的懊悔和想要挽回却不能的挫败感构成一种持续的心理张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "歌曲没有任何令人感到敬畏的宏大、神秘或超越性体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.55,
+          "explanation": "对过去恋情的追忆是触发悔恨情感的重要前提，怀旧感明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.08,
+          "explanation": "歌曲没有指向未来的信息，结尾是沉溺于无法挽回的过去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.58,
+          "explanation": "悲伤和悔恨混合，形成一种持久的、淡淡的忧郁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.15,
+          "explanation": "愤怒在这种自我反省式的叙事中不是重点，更多是针对自己而非他人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "内心充满挣扎和不安，没有任何平和或超脱的心境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.45,
+          "explanation": "音乐注重旋律的优美和表达的纯净，符合传统的听觉美的标准。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.92,
+          "explanation": "编曲以一把吉他为主，摒弃繁杂配器，追求用最简单的方式直击心灵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.02,
+          "explanation": "无论从内容还是形式，都与奢华、富丽和外在装饰无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.32,
+          "explanation": "情感色调偏向灰暗，叙事内容沉重，带有一定的阴郁色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.10,
+          "explanation": "整体氛围是压抑的，缺乏明亮、轻快或积极向上的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.18,
+          "explanation": "现实的痛苦非常真切，没有营造梦幻或朦胧的听感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "故事内容非常生活化，不包含任何悬疑、未知或神秘的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.20,
+          "explanation": "在民谣中加入高亢嗓音是一种风格尝试，但整体手法并非高度实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.55,
+          "explanation": "歌曲结构传统，吉他伴奏的方式也根植于经典民谣传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.35,
+          "explanation": "表达的是鲜明的现代都市人情感，但音乐形式并非极具未来感或电子化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.12,
+          "explanation": "故事线单一，就是一次分手后的忏悔，没有任何曲折情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.65,
+          "explanation": "虽然故事简单，但主人公的内心世界和自我剖析非常深入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.70,
+          "explanation": "从犯错到认清错误的过程是一个内在的心理成长和成熟的标志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "没有构建任何虚构世界的意图，完全依托于听众共同理解的现实都市背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.08,
+          "explanation": "虽然在回忆过去，但整体情感叙事是线性递进的，没有打乱时间结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "缓慢的吉他引导和深情的唱腔，让听众逐渐沉浸在主人公的情绪里。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "这是一首彻底的内省型歌曲，没有任何外在的、物理层面的行动描述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.58,
+          "explanation": "内心与悔恨的激烈斗争是歌曲的主要张力来源，冲突感很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.35,
+          "explanation": "触及了对过错、原谅和自我认知的个人思考，有一定的思辨色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.82,
+          "explanation": "整个体验是极度个人化的，聚焦于“我”的感受和“我”的过错。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "没有出现任何集体、团队或社会群体的互动和决策。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.03,
+          "explanation": "故事完全局限于恋人关系，没有任何家庭成员的参与或提及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.10,
+          "explanation": "主人公在孤独中消化痛苦，没有任何朋友角色的出现或支持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "爱情是引发所有情感和冲突的根本原因，是作品的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.02,
+          "explanation": "没有任何社区互动、邻里关系或社会团体的参与。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "不存在任何形式的资源、地位或人际间的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.02,
+          "explanation": "作为一个单人叙事，完全没有合作或共同完成目标的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.15,
+          "explanation": "在分手后的关系中，存在微弱的希望对方原谅的恳求式的权力不对等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.48,
+          "explanation": "重新定义自己是“犯错者”的身份认知过程，是自我探索的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.12,
+          "explanation": "主人公被过去的错误束缚，体验的是情感上的不自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.08,
+          "explanation": "情感世界处在失衡和混乱中，秩序并非作品探讨的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.70,
+          "explanation": "主人公勇敢面对自己的错误和真实情感，这是对内心真相的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "追求美是音乐创作的基本属性，但并非歌曲主题价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "歌曲讲述的是一个失败的情感经历，没有任何成就可谈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.08,
+          "explanation": "不涉及法律、道德审判或社会正义的问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.22,
+          "explanation": "在回忆中可能包含对当初未做出牺牲的后悔，但非主要探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.78,
+          "explanation": "通过认错，主人公在进行深刻的自我探索和重新认识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.25,
+          "explanation": "音乐根植于民谣传统，但表达的是现代个体的情感，不强调传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.58,
+          "explanation": "从不知错到认错，主人公的内心经历了剧烈的变化和成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.10,
+          "explanation": "不涉及任何关于肉体或基本生存层面的斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.45,
+          "explanation": "通过痛苦的反思为自己的行为寻找意义，是歌曲的深层动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.08,
+          "explanation": "所有注意力都指向内在世界，对外部的新奇事物毫无兴趣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.12,
+          "explanation": "没有进行任何创造性的活动，全部精力用于消化过去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "行为模式是退缩和内省的，完全避免任何冒险或刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.92,
+          "explanation": "这是最主导的行为模式，即持续不断的自我反思和反刍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "没有任何竞争行为，主人公甚至不与他人作比较。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.05,
+          "explanation": "主人公切断了一切社交联系，在孤独中独处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.08,
+          "explanation": "不涉及任何需要自控、规律或纪律来完成的目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "勇敢袒露内心的“认错”行为本身带有一定的情感风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "主人公内心充满波澜和悲伤，完全不符合“平静”的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.55,
+          "explanation": "虽然无法改变现实，但沉溺于过去和反思也是一种对现实的逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.05,
+          "explanation": "音乐媒介本身不提供视觉刺激，歌词中也缺少强烈的意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.08,
+          "explanation": "情感色彩单一，以灰暗的色调为主，没有丰富的色彩变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.48,
+          "explanation": "主体是轻柔的吉他，但在高音副歌部分形成强烈的声音穿透力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.30,
+          "explanation": "节奏舒缓平稳，即使在情绪高潮时也没有剧烈的节奏变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "通过干净的吉他和独特的人声成功营造出孤寂、清冷的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "强烈的情感投射和简约的编曲很容易让听众迅速代入主人公的情境。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.35,
+          "explanation": "歌曲速度中等偏慢，服务于深情倾诉的需要，无急促感。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.28,
+          "explanation": "整体能量级别较低，以静态的内省为主，高音部分是一种情绪的宣泄而非动态能量的爆发。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在吉他分解和弦的引导下进入一个失恋者的内心世界。核心体验围绕“失去”和“悔恨”展开，从平静的叙事开始，逐步推向情感高涨的自责与恳求，最终在无法挽回的遗憾中结束。整个听觉旅程像是陪伴一个朋友度过他最孤独脆弱的深夜时刻。",
+        "structure_description": "歌曲采用经典的流行民谣结构，以单一乐器和人声构建叙事空间。主歌部分叙事舒缓，像是在铺垫情绪背景；副歌部分通过极具穿透力的高音和反复吟唱的‘我认错’，将累积的内疚情绪推向高潮。这种反复的自我指控构成了歌曲的结构性张力。",
+        "cognitive_expression": "作品引导听众进行单一维度的深度反思。它不需要复杂的思辨或逻辑推理，而是通过强烈的情感代入，让听众体验一种自我检视的认知过程。听者的注意力完全被引向主人公的内心独白和情感细节。",
+        "behavioral_tendency_description": "歌曲所激发的行为倾向是内省和退缩。它奖励独自消化情感，鼓励听众面对自己的错误，同时也提供了通过‘认错’这一情感宣泄行为来寻求内心解脱的心理模型。"
+      },
+      "personality_affinity": {
+        "Ni": 0.50,
+        "Ne": 0.15,
+        "Ti": 0.18,
+        "Te": 0.05,
+        "Fi": 0.95,
+        "Fe": 0.55,
+        "Si": 0.68,
+        "Se": 0.12,
+        "openness": 0.32,
+        "conscientiousness": 0.20,
+        "extraversion": 0.10,
+        "agreeableness": 0.42,
+        "neuroticism": 0.88,
+        "Assertive": 0.08,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "歌曲全程使用吉他作为主要伴奏乐器，编曲简洁干净。",
+        "林志炫在人声部分使用了极具辨识度的高亢唱腔来表达激烈的情感。",
+        "歌词以第一人称视角展开，讲述分手后的悔恨与自责。",
+        "叙事围绕“我的错”这一核心认知不断重复和强化。",
+        "歌曲结构为主歌叙事铺垫加副歌情感爆发，最后回归平静遗憾。",
+        "歌词中缺乏对恋人具体形象的描绘，完全聚焦于主人公个人感受。",
+        "全曲没有引入任何外部角色的声音或视角，叙事是封闭的单人独白。",
+        "情感基调从开头的悲伤困惑，逐步过渡到高潮的懊悔呼喊。",
+        "作品没有展现任何社会背景、时空环境或具体故事地点。",
+        "在当时的华语乐坛，以如此清亮的男性嗓音结合民谣编曲的风格较为新颖。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

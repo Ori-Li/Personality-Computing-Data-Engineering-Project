@@ -1,0 +1,718 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1993_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "勾指起誓",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2018,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-25",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "网络歌曲《勾指起誓》以轻快电子流行曲风搭配甜美声线，通过勾指约定的意象表达纯真的爱恋与至死不渝的承诺。旋律简洁明快，歌词直白而富有感染力，在二次元文化圈层激起强烈共鸣，传递青春、甜蜜与勇气的情感体验。",
+        "themes": [
+          "爱情",
+          "承诺",
+          "青春",
+          "纯真"
+        ],
+        "keywords": [
+          "勾指起誓",
+          "Hanser",
+          "二次元",
+          "网络歌曲",
+          "甜美",
+          "约定",
+          "电子流行",
+          "爱恋"
+        ],
+        "core_experience": "聆听时仿佛置身于一段青涩而坚定的爱情告白中，被甜蜜的旋律和真挚的歌词包裹，唤起对纯真感情的向往与回忆。",
+        "experience_introduction": "作品通过简洁明快的电子编曲和甜美的演唱，将勾指这一日常动作升华为神圣的情感符号，营造出充满希望与温情的听觉空间，引导受众进入一段关于爱与约定的美好想象。"
+      },
+      "experience_vector": {
+        "passion": 0.75,
+        "healing": 0.80,
+        "awe": 0.10,
+        "nostalgia": 0.40,
+        "reflection": 0.35,
+        "romance": 0.95,
+        "tension": 0.05,
+        "warmth": 0.90,
+        "loneliness": 0.05,
+        "hope": 0.90
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.10,
+          "complexity": 0.15,
+          "depth_of_thought": 0.15,
+          "logical_structure": 0.05,
+          "novelty": 0.50,
+          "exploration": 0.30,
+          "ambiguity": 0.05,
+          "predictability": 0.90,
+          "information_density": 0.30,
+          "learning_value": 0.20
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.85,
+          "social_scale": 0.10,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.00,
+          "time_span": 0.10,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.85,
+          "sadness": 0.05,
+          "loneliness": 0.05,
+          "warmth": 0.90,
+          "fear": 0.00,
+          "tension": 0.05,
+          "awe": 0.10,
+          "nostalgia": 0.40,
+          "hope": 0.90,
+          "melancholy": 0.10,
+          "anger": 0.00,
+          "peace": 0.60
+        },
+        "aesthetic": {
+          "beauty": 0.80,
+          "minimalism": 0.60,
+          "luxury": 0.05,
+          "darkness": 0.00,
+          "brightness": 0.90,
+          "dreamlike": 0.65,
+          "mystery": 0.05,
+          "experimental": 0.10,
+          "classical": 0.05,
+          "modern": 0.75
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.15,
+          "character_growth": 0.30,
+          "world_building": 0.00,
+          "nonlinear_structure": 0.00,
+          "slow_immersion": 0.50,
+          "action_intensity": 0.00,
+          "conflict_intensity": 0.05,
+          "philosophical_depth": 0.10
+        },
+        "social_relationship": {
+          "individualism": 0.70,
+          "collectivism": 0.05,
+          "family": 0.00,
+          "friendship": 0.30,
+          "love": 1.00,
+          "community": 0.00,
+          "competition": 0.00,
+          "cooperation": 0.70,
+          "power_relationship": 0.00,
+          "identity": 0.50
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.60,
+          "truth": 0.80,
+          "beauty": 0.70,
+          "achievement": 0.05,
+          "justice": 0.00,
+          "sacrifice": 0.60,
+          "self_exploration": 0.30,
+          "tradition": 0.10,
+          "change": 0.50,
+          "survival": 0.00,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.10,
+          "creation": 0.10,
+          "adventure": 0.20,
+          "reflection": 0.40,
+          "competition": 0.00,
+          "social": 0.70,
+          "discipline": 0.20,
+          "risk": 0.20,
+          "calm": 0.60,
+          "escape": 0.00
+        },
+        "sensory": {
+          "visual_intensity": 0.20,
+          "color_richness": 0.50,
+          "sound_intensity": 0.70,
+          "rhythm_energy": 0.75,
+          "atmosphere": 0.85,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "电子流行",
+          "tempo": 0.70,
+          "energy": 0.75,
+          "vocal_style": "甜美",
+          "instrumentation": "电子合成器、轻打击乐",
+          "production_style": "网络独立制作",
+          "lyrical_theme": "纯爱承诺",
+          "emotional_scene": "告白",
+          "cultural_context": "中国二次元网络音乐文化"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.75,
+          "explanation": "歌词反复使用直白的“我愿意”“爱你”等表达，情感浓度较高。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.80,
+          "explanation": "甜美声线与温柔旋律共同制造抚慰感，安抚型聆听体验显著。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.10,
+          "explanation": "作品专注于亲密情感，几乎不包含壮阔或令人敬畏的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.40,
+          "explanation": "勾指这一童年约定动作容易唤起对青涩时光的回忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.35,
+          "explanation": "歌词对承诺的郑重表达促使听众短暂思考感情的意义。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.95,
+          "explanation": "全曲围绕恋爱承诺展开，甜蜜氛围贯穿始终，是核心体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.05,
+          "explanation": "整体情绪平稳积极，没有任何悬疑或压迫性段落。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.90,
+          "explanation": "温暖的编曲和充满爱意的歌词持续提供温度感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.05,
+          "explanation": "二人世界的描述强调联结，孤独感几乎不存在。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.90,
+          "explanation": "对未来的美好约定传递出强烈的希望与乐观情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.10,
+          "explanation": "歌词使用生活化语言，含义直白，很少依赖抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.15,
+          "explanation": "曲式结构为传统主副歌，和声走向常规，信息层次单薄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.15,
+          "explanation": "主题集中于爱情表露，未对人性或社会进行深入探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.05,
+          "explanation": "歌曲没有需要逻辑推理的叙事，完全依靠情感递进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.50,
+          "explanation": "将勾指约定与电子流行结合，在网络音乐语境中有一定新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "通过誓言带领听众想象未来，但探索范围局限于两人关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.05,
+          "explanation": "歌词没有隐喻或留白，情感指向十分明确。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.90,
+          "explanation": "旋律走向和歌词发展高度符合期待，几乎无意外转折。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.30,
+          "explanation": "每句歌词承载的信息量有限，主要靠重复强化情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.20,
+          "explanation": "听众难以从中获得除爱情观之外的持久知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "视角完全集中在“我”与“你”的内心世界，无外部背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "整首歌都在描绘二人之间的互动与约定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.10,
+          "explanation": "不涉及社会环境或群体关系，仅有极微弱的时代气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "没有历史或文明背景，纯粹是情感瞬间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.00,
+          "explanation": "完全没有宇宙或哲学宏观思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.10,
+          "explanation": "叙事时间压缩在表白当下的瞬间，未来承诺虽提及但未展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "基于现实情感，没有超自然或幻想设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.85,
+          "explanation": "轻快旋律与甜蜜歌词从头至尾输出愉悦情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "作品中几乎找不到悲伤或失落的痕迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.05,
+          "explanation": "始终强调两人的连接，排斥孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.90,
+          "explanation": "整体音色和情感浓度营造出包裹式的温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.00,
+          "explanation": "没有任何唤起恐惧的段落或意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.05,
+          "explanation": "节奏稳定，情绪曲线平滑，没有制造紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.10,
+          "explanation": "歌曲风格亲切可爱，缺乏令人惊叹的宏大感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.40,
+          "explanation": "勾指约定容易让人联想起青春期的纯真时光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.90,
+          "explanation": "歌词反复描绘永恒的未来，充满乐观信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.10,
+          "explanation": "仅有一丝对岁月流逝的隐约感触，但不构成基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.00,
+          "explanation": "整首歌曲没有任何愤怒或不满的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.60,
+          "explanation": "承诺带来的安定感让歌曲后半段散发平和满足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.80,
+          "explanation": "声线与编曲均追求唯美效果，符合主流听觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.60,
+          "explanation": "配器简洁，突出人声和主要合成器线条，少有复杂织体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "没有华丽繁复的装饰，亦无奢华意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.00,
+          "explanation": "完全不使用阴暗色调，从词到曲均显明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.90,
+          "explanation": "高频透亮，人声甜美，传递阳光般的气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.65,
+          "explanation": "电子音色与飘渺和声营造出少女梦境的朦胧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "内容高度透明，不追求神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.10,
+          "explanation": "沿用常规流行框架，未尝试先锋手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "无古典音乐元素，完全基于现代电子编曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.75,
+          "explanation": "网络发布、电子风格和二次元审美体现出鲜明的当代特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "没有真正的故事线，只是情感片段的反复吟唱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "演唱者仅提供单一形象，人物塑造非常浅层。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.30,
+          "explanation": "从心动到郑重承诺存在轻微的情感递进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.00,
+          "explanation": "没有构建任何外部世界，场景仅存于内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.00,
+          "explanation": "歌曲结构为线性重复，毫无非线性手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.50,
+          "explanation": "循环的副歌和稳定的节奏容易让人逐渐沉浸于甜蜜氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.00,
+          "explanation": "没有任何身体动作或事件描写，纯静态情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.05,
+          "explanation": "不存在人际或内心冲突，只有统一的和谐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.10,
+          "explanation": "歌曲不涉及存在或伦理议题，仅传递爱的信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.70,
+          "explanation": "强烈突出个人情感决定，表达主体“我”的内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.05,
+          "explanation": "没有群体或集体价值的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.00,
+          "explanation": "完全不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.30,
+          "explanation": "部分歌词可以被解读为从友情升华，但重心是爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 1.00,
+          "explanation": "热爱是作品的唯一核心主题，覆盖全部内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.00,
+          "explanation": "没有社群或更大共同体的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.00,
+          "explanation": "不存在任何形式的竞争或对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.70,
+          "explanation": "勾指约定本身就是双向合作与共同承诺的象征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.00,
+          "explanation": "关系完全平等，无权力差异暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.50,
+          "explanation": "通过爱的对象确认自我，有一定的身份表达意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "爱被视为自主选择，带有个体自由的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.60,
+          "explanation": "约定本身强调秩序与稳定，赋予关系确定感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.80,
+          "explanation": "作品极力渲染真诚，誓言是毫无保留的真话。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.70,
+          "explanation": "对甜蜜爱情的美化是歌曲的美学追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "不关注外在成就，只在意情感连接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.00,
+          "explanation": "没有涉及道德或正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.60,
+          "explanation": ""不离不弃"等歌词暗示愿意为对方付出的牺牲精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.30,
+          "explanation": "歌词中透露出通过爱来认识自我的一面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.10,
+          "explanation": "勾指本身有民俗痕迹，但整体现代化，不强调传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.50,
+          "explanation": "从单恋或心动到订立盟约，代表着关系的质变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.00,
+          "explanation": "完全没有生存压力或求生主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "通过许诺赋予生命以方向和价值感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.10,
+          "explanation": "歌词不引导探索未知，而是聚焦于已然确定的感情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.10,
+          "explanation": "未激发创造行为，仅鼓励情感的确认与表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.20,
+          "explanation": "未来承诺略带冒险色彩，但整体安稳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.40,
+          "explanation": "听众可能因歌词反思个人对承诺的看法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.00,
+          "explanation": "完全与竞争无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.70,
+          "explanation": "歌曲本身就是对另一个体的倾诉，具有高度社交指向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.20,
+          "explanation": "约定隐含着遵守诺言的自我约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.20,
+          "explanation": "承诺本身包含信任风险，但未渲染紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.60,
+          "explanation": "表白后的安定感给人以平静愉悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.00,
+          "explanation": "不提供逃避现实的出口，反而强化现实关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.20,
+          "explanation": "纯音频载体，视觉刺激依赖听者联想，本身强度低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.50,
+          "explanation": "歌词中“粉色”“彩虹”等词诱发柔软的色彩想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.70,
+          "explanation": "人声清晰靠前，合成器层次分明，听觉信息鲜明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.75,
+          "explanation": "中快节拍和跳跃的节奏带来活泼的动能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "整体氛围甜美、透明，像糖果色的听觉空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "重复的旋律框架和温馨情绪容易让人沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.music.tempo",
+          "score": 0.70,
+          "explanation": "节拍约为中板偏快，适合表现活泼的爱意。"
+        },
+        {
+          "dimensionPath": "media_vector.music.energy",
+          "score": 0.75,
+          "explanation": "编曲动态充沛，人声力度饱满，整体能量较高。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众被带入一段由纯真承诺构筑的甜蜜情感空间。歌曲通过跳跃的电子节拍和温暖的女声，持续浇灌幸福感和希望，让人短暂脱离现实，沉浸在理想化的二人世界中。旋律的重复如同耳边的私语，强化安心与被爱的体验。",
+        "structure_description": "作品采用经典的主歌-副歌结构，副歌部分旋律记忆点鲜明并多次循环，形成稳固的情感锚点。编曲在简约的合成器铺垫上做细微变化，使歌曲在统一性中保持流动，避免单调。",
+        "cognitive_expression": "信息的直接性降低了解读负担，听众无需深度思考即可理解内容。重复的誓言与明确的比喻引导轻度反思，但整体认知投入较低，更依赖感性接收。",
+        "behavioral_tendency_description": "歌曲倾向于鼓励听众确认已有的情感关系或向往真挚联结，而非发起行动。它支持安静的陪伴与情感表露，强化个体对亲密关系的重视。"
+      },
+      "personality_affinity": {
+        "Ni": 0.50,
+        "Ne": 0.30,
+        "Ti": 0.15,
+        "Te": 0.05,
+        "Fi": 0.75,
+        "Fe": 0.80,
+        "Si": 0.45,
+        "Se": 0.40,
+        "openness": 0.50,
+        "conscientiousness": 0.60,
+        "extraversion": 0.70,
+        "agreeableness": 0.85,
+        "neuroticism": 0.15,
+        "Assertive": 0.75,
+        "Turbulent": 0.25
+      },
+      "supporting_evidence": [
+        "歌曲以电子流行风格为基底，使用轻快的合成器音色贯穿全曲。",
+        "歌词通过“勾指”这一日常动作象征永恒的承诺。",
+        "Hanser用甜美且富有变化的声线诠释少女心绪。",
+        "整首歌曲的编曲结构简单重复，副歌多次出现。",
+        "歌词中包含“我愿意”“不离不弃”等直白誓言。",
+        "作品在二次元音乐圈层引起强烈共鸣，成为网络热门。",
+        "发布后迅速成为翻唱曲目，被大量UP主重新演绎。",
+        "没有社会背景铺垫，视角锁定在“我”与“你”之间。",
+        "旋律走向明亮，和声几乎不使用小调或阴暗色彩。",
+        "歌曲时长较短，信息高度集中在情感表达上。",
+        "词曲作者采用勾指这一具象符号替代复杂叙事。",
+        "在视频网站常被配上粉色、星光等少女系视觉元素。",
+        "听众评论多提及“治愈”“温暖”等关键词。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

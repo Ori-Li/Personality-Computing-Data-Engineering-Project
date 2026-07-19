@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_nzl_2008_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Hei Tiki",
+        "type": "PHOTOGRAPHY",
+        "countryName": "新西兰",
+        "year": 2008,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-12",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.65,
+        "primaryMediaType": "PHOTOGRAPHY"
+      },
+      "semantic": {
+        "summary": "菲奥娜·帕丁顿的摄影系列《Hei Tiki》，以大幅面相机和精心控制的暗调光影拍摄毛利传统玉坠与人像。作品将Hei Tiki这一文化信物置于静穆的视觉语境中，赋予其超越静物摄影的生命感与庄严气质。系列通过对光线、质感和构图的精密控制，既呈现了玉雕本身的物质美感，也含蓄地探讨了殖民历史、文化归属与身份认同等深层议题。整体体验沉静而富有内省性，引导观者凝视物与灵、人与传承之间的复杂联系。",
+        "themes": [
+          "身份认同",
+          "殖民历史",
+          "文化传承",
+          "灵性",
+          "物质文化",
+          "肖像",
+          "归属"
+        ],
+        "keywords": [
+          "毛利文化",
+          "玉坠",
+          "Hei Tiki",
+          "大幅面摄影",
+          "暗调",
+          "静穆",
+          "祖先",
+          "信物",
+          "菲奥娜·帕丁顿",
+          "新西兰",
+          "原住民",
+          "光影",
+          "质感"
+        ],
+        "core_experience": "在近乎仪式性的静默凝视中，透过被光影赋予生命的文化信物与面容，感受一种穿越个体与时代、联结祖先与土地的精神归属感，同时触及历史创伤与身份追问所带来的深沉思索。",
+        "experience_introduction": "《Hei Tiki》通过将毛利传统玉坠与人像并置于统一的大幅面暗调视觉框架中，营造出一种超越时间的凝重视觉体验。作品不是简单的文物记录，而是通过极致的物质质感呈现和富有雕塑感的光影塑造，让沉默的物件与静默的人像之间产生低语般的对话。这种对话将观者从快速的信息接收中抽离出来，引入一个需要耐心凝视和内心沉淀的慢速感知场域，最终唤起对文化记忆、身份传承与殖民历史创伤的复杂情感共鸣。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.45,
+        "awe": 0.75,
+        "nostalgia": 0.70,
+        "reflection": 0.90,
+        "romance": 0.05,
+        "tension": 0.40,
+        "warmth": 0.35,
+        "loneliness": 0.50,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.65,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.30,
+          "novelty": 0.60,
+          "exploration": 0.55,
+          "ambiguity": 0.80,
+          "predictability": 0.25,
+          "information_density": 0.70,
+          "learning_value": 0.75
+        },
+        "worldview": {
+          "personal_scale": 0.80,
+          "relationship_scale": 0.60,
+          "social_scale": 0.70,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.40,
+          "time_span": 0.75,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.55,
+          "loneliness": 0.55,
+          "warmth": 0.30,
+          "fear": 0.10,
+          "tension": 0.45,
+          "awe": 0.65,
+          "nostalgia": 0.70,
+          "hope": 0.25,
+          "melancholy": 0.75,
+          "anger": 0.15,
+          "peace": 0.60
+        },
+        "aesthetic": {
+          "beauty": 0.85,
+          "minimalism": 0.70,
+          "luxury": 0.50,
+          "darkness": 0.85,
+          "brightness": 0.10,
+          "dreamlike": 0.30,
+          "mystery": 0.80,
+          "experimental": 0.40,
+          "classical": 0.75,
+          "modern": 0.55
+        },
+        "narrative": {
+          "plot_complexity": 0.20,
+          "character_depth": 0.80,
+          "character_growth": 0.30,
+          "world_building": 0.60,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.50,
+          "philosophical_depth": 0.85
+        },
+        "social_relationship": {
+          "individualism": 0.55,
+          "collectivism": 0.80,
+          "family": 0.75,
+          "friendship": 0.20,
+          "love": 0.35,
+          "community": 0.70,
+          "competition": 0.10,
+          "cooperation": 0.35,
+          "power_relationship": 0.60,
+          "identity": 0.95
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.60,
+          "truth": 0.70,
+          "beauty": 0.85,
+          "achievement": 0.30,
+          "justice": 0.50,
+          "sacrifice": 0.40,
+          "self_exploration": 0.75,
+          "tradition": 0.90,
+          "change": 0.25,
+          "survival": 0.45,
+          "meaning": 0.90
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.65,
+          "adventure": 0.10,
+          "reflection": 0.95,
+          "competition": 0.05,
+          "social": 0.25,
+          "discipline": 0.70,
+          "risk": 0.10,
+          "calm": 0.85,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.80,
+          "color_richness": 0.25,
+          "sound_intensity": 0.05,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.95,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "photography_vector": {
+          "reality_capture": 0.85,
+          "human_focus": 0.80,
+          "visual_composition": 0.95,
+          "documentary_value": 0.30,
+          "artistic_expression": 0.90,
+          "moment_sensitivity": 0.20
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品气质沉静肃穆，抑制了热烈外放的情绪表达，因此激情体验极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.45,
+          "explanation": "对身份与传承的确认提供了一定的归属感，但殖民历史的创伤感冲淡了纯粹的疗愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.75,
+          "explanation": "大幅面相机呈现的精微质感与庄严的暗调光影，共同营造了对文化信物和祖先联系的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.70,
+          "explanation": "对传统玉坠与人像的凝视，强烈地唤起了对毛利文化过往与族群记忆的怀旧与追思。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.90,
+          "explanation": "作品核心在于引发对文化归属、殖民历史与身份认同的深度内省，是系列的主导性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "系列的庄重基调和历史主题，极度缺乏浪漫或亲密关系的表达空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.40,
+          "explanation": "暗调光影与沉重的历史议题创造了低度而持续的视觉与心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.35,
+          "explanation": "虽有对文化传承的温情，但作品整体的肃穆和历史的冰冷感削弱了温暖体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.50,
+          "explanation": "个体在宏大的历史与文化遗产前，以及人物肖像的静默中，可感受到中等程度的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "通过记录和赋权当代毛利文化身份，作品传递出微弱的希望，但被沉重的历史感所掩盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "作品不依赖叙事，而通过物件与肖像的象征意义探讨文化归属等抽象概念，抽象程度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "理解作品需要整合殖民历史、毛利文化与当代身份政治等多层复杂信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "系列促使观者深入思考文化遗产在当代社会中的意义，以及历史创伤的深远影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "作为摄影系列，其组织依赖视觉与主题的呼应，而非严密的逻辑推演结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.60,
+          "explanation": "将传统文物与当代肖像用大幅面摄影结合，形式在当代艺术语境中具有相当的新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "作品引导观者探索陌生的毛利文化符号与精神世界，但这种探索是内向与静态的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.80,
+          "explanation": "影像的象征意义和情感基调是开放和复杂的，回避了单一、明确的解读，具有高度多义性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "作品拒绝简单的叙事或直白的信息，其后续作品的呈现方式和意义延展难以预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.70,
+          "explanation": "每帧影像都通过物件细节、人物神情和光影氛围，浓缩了大量文化、历史与情感信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.75,
+          "explanation": "观者可以获得关于毛利文化信物、殖民历史及原住民当代艺术表达的深厚知识与洞见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.80,
+          "explanation": "作品高度聚焦于个人身份归属、内在情感和与祖先遗物的私人化联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.60,
+          "explanation": "探讨了人与祖先、人与文化信物、当代个体间跨越时空的精神关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.70,
+          "explanation": "作品明确涉及殖民历史下的社会权力结构、文化压迫与族群认同等社会性议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "通过毛利文化的传承，作品触及了特定文明的延续与变迁，但并非宏观的比较文明叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.40,
+          "explanation": "作品关注的焦点始终在人、物与土地的联系上，未明显扩展到宇宙或存在论层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.75,
+          "explanation": "系列将历史信物与当代人物连接，构建了从古老传统到当下身份的漫长时光跨度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "作品扎根于现实世界的文化与历史，几乎不存在任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品整体基调沉郁、严肃，几乎不包含任何形式的直接快乐表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "殖民历史与文化创伤的主题，以及影像的静默感，赋予了作品明显但克制的悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.55,
+          "explanation": "肖像中的个体与作为文化孤本的物件，都透露出一种在历史长河中的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.30,
+          "explanation": "虽然存在对文化传承的温情，但整体氛围的冰冷和议题的沉重压制了温暖的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.10,
+          "explanation": "作品主要唤起对历史的沉思而非恐惧，其视觉表达庄严克制，缺乏惊悚或恐怖元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.45,
+          "explanation": "殖民者与被殖民者、传统与现代之间的未解决冲突，为作品提供了持续的低度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.65,
+          "explanation": "精致的光影质感和被赋予神圣感的物与人，共同激发出一种静默的敬畏之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.70,
+          "explanation": "对承载记忆的传统物件和祖先联系的呈现，是唤起怀旧情感的核心来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "当代毛利人的身份表达暗含了文化延续的希望，但这并非作品强调的核心情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.75,
+          "explanation": "作品的主导情绪是沉静、反思性的忧郁，源自对失去、创伤与持续挣扎的觉察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.15,
+          "explanation": "虽然触及不公的历史，但作品采用了一种内敛、诗意的表达方式，回避了直接的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.60,
+          "explanation": "影像的静态构图和专注的凝视过程，创造了一种冥想般的、超越冲突的内心平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.85,
+          "explanation": "作品通过精湛的布光和大幅面相机的细节呈现，创造了高度形式化的、庄严的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.70,
+          "explanation": "构图简洁，背景暗黑，将焦点完全集中在主体上，体现了减法的美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.50,
+          "explanation": "玉坠的材质与光影赋予了物件一种珍贵的奢华感，但这并非作品的主要追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "大量的暗调背景和低光比照明是作品最显著的视觉特征，塑造了其神秘庄严的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.10,
+          "explanation": "作品在视觉上刻意回避了明亮、高调的风格，几乎完全摒弃了明亮感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.30,
+          "explanation": "光影效果虽具戏剧性，但作品根植于强烈的物质现实感和历史感，梦幻感较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.80,
+          "explanation": "暗调、物件背后的象征意义以及人物沉默的表情，共同营造出浓厚的神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.40,
+          "explanation": "将文物记录与艺术肖像结合的方式具有一定实验性，但整体视觉语言仍是经典的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "构图严谨、光影庄重，其美学取向根植于肖像画与静物画的古典传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.55,
+          "explanation": "其对当代身份政治的探讨，使其在主题上超越了古典美学，具有明确的当代艺术特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.20,
+          "explanation": "作为静态视觉艺术，作品不依赖情节发展，叙事性极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.80,
+          "explanation": "通过肖像摄影，作品深入呈现了人物复杂的内心世界、历史身份和文化承载。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.30,
+          "explanation": "作品捕捉的是一个存在状态而非发展过程，人物成长并非其表现主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.60,
+          "explanation": "通过物件和人物，系列合力构建出毛利文化在当代社会中的一个完整而自洽的世界观图景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "作为摄影系列，其观看顺序是开放的，不具有强烈的非线性叙事特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "作品要求观者以极度缓慢、专注的方式凝视细节，从而实现深度的沉浸，是其核心表达手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "作品呈现的是完全静态的画面，无任何物理动作或事件发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.50,
+          "explanation": "内化了殖民历史与文化生存的深刻冲突，表现为一种内在的、克制的张力，强度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "系列深刻探讨了身份、归属、文化本体性、历史与物性等哲学性问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.55,
+          "explanation": "作品在探讨群体文化身份的同时，也强调个体的独特面容与内在体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.80,
+          "explanation": "核心主题是文化归属与族群认同，强烈地体现了集体身份的重要性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.75,
+          "explanation": "作品通过祖先信物暗示了代际传承和血缘联系，家庭/家族概念是隐含的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.20,
+          "explanation": "系列不涉及对平等个体间友谊关系的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.35,
+          "explanation": "作品表达的爱更接近对祖先、文化和土地的深厚情感，而非个体间的浪漫爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.70,
+          "explanation": "作品是关于一个文化社群的整体性肖像，传达出强烈的社群纽带与共同命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.10,
+          "explanation": "除了历史上隐含的文化生存竞争外，作品本身不涉及直接竞争主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.35,
+          "explanation": "合作并非核心主题，但文化传承本身隐含了社群内部的协作与共同努力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.60,
+          "explanation": "殖民历史是作品的重要背景，这本身就是关于支配与抵抗的权力关系的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.95,
+          "explanation": "身份认同是作品最核心的母题，探讨了个人、文化与族群身份的定义、丧失与重寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "作品提及摆脱文化压迫的自由，但这更多是背景，而非明确追求的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.60,
+          "explanation": "作品的视觉秩序感极强，并隐含了对维系社会和宇宙秩序的文化传统的尊重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.70,
+          "explanation": "作品试图揭示和确认被遗忘或边缘化的历史真实与文化真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "对形式美感、材质美感和光影美感的精妙追求是作品的核心价值之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "作品不以个人成就为衡量标准，而更关注存在本身与文化身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.50,
+          "explanation": "通过艺术方式为被殖民者发声，隐含了对历史正义和文化公平的诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.40,
+          "explanation": "作品中隐含了祖先为维系文化所作出的牺牲，但这不是直接表现的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.75,
+          "explanation": "对观者和拍摄对象而言，系列都是一场关于“我是谁”、“我从哪里来”的内在探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.90,
+          "explanation": "作品几乎完全围绕传统文化器物及其在当代的意义展开，对传统的尊重是其基石。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.25,
+          "explanation": "作品更多是对不变的传承和恒久身份的确认，而非鼓励变革或创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.45,
+          "explanation": "文化存续的主题贯穿始终，但表达方式沉静内省，而非激烈的生存斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.90,
+          "explanation": "寻找和确认生命与存在的意义，是这一系列作品最根本的哲学追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "对新西兰毛利文化不熟悉的观者会产生强烈的求知欲和探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.65,
+          "explanation": "作品本身就是高度的艺术创造行为，并能激励观者进行文化或艺术上的创作回应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "体验是静态沉思式的，与冒险行为倾向完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "这是作品最鼓励的行为模式：深度内省、沉思与对历史和自我的反复考量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "作品的精神内核对追求竞争力或超越他人的行为毫无兴趣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "虽然探讨社会群体议题，但作为艺术体验，它是高度个人化和内向的，不鼓励外向社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.70,
+          "explanation": "作品自身的严谨构图和光影控制，以及对文化传统的坚守，体现出高度的自律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "作品主题是传承与归属，倾向于寻求稳定和安全，而非冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.85,
+          "explanation": "作品的静穆氛围引导并培养观者进入一种冷静、平和的观赏状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "作品迫使观者直面沉重的历史现实，而非提供逃避现实的出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.80,
+          "explanation": "作品极度依赖视觉感知，通过高反差的暗调、逼真的质感和庄严的形态，创造了高强度的视觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "作品的色彩谱系被大幅压缩，以黑、白、灰和玉石的暗绿色为主，色彩丰富度很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.05,
+          "explanation": "作为静态无声的摄影艺术，作品本身没有任何声音刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "作品的“节奏”是极为缓慢、静态的，能量低沉，缺乏动态节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "作品在视觉上构建了极其强大、统一而独特的氛围，这是其最核心的感官特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "作品通过细节和氛围，成功地将观者拉入一个专注、隔绝的静观世界。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.reality_capture",
+          "score": 0.85,
+          "explanation": "大幅面相机精确地记录下玉坠的质地、光泽与人物的肌肤细节，现实捕捉力极强。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.human_focus",
+          "score": 0.80,
+          "explanation": "系列中人像作品占据了重要地位，聚焦于人物的面容、表情和文化身份。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.visual_composition",
+          "score": 0.95,
+          "explanation": "构图极其严谨考究，物件与人像的摆放、背景和光影控制都体现了强烈的画面构成感。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.documentary_value",
+          "score": 0.30,
+          "explanation": "虽然记录了现实中的文化物品，但其高度艺术化和象征化的处理方式削弱了客观文献价值。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.artistic_expression",
+          "score": 0.90,
+          "explanation": "作品的核心是艺术观念的表达，通过光影和构图将物质对象提升到精神象征的层面。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.moment_sensitivity",
+          "score": 0.20,
+          "explanation": "作品呈现的是精心布置的场景和极具构成感的肖像，几乎不依赖对瞬间的抓拍。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "《Hei Tiki》为观者提供了一次沉静而深邃的视觉沉思之旅。核心体验是敬畏、怀旧和深度的自我反思，夹杂着一层克制的紧张与孤独感。它并非追求感官愉悦，而是引导观者经历从对外在形制的审美欣赏，到对内在精神归属和文化创伤的沉痛感知，最终达到一种复杂的、带有忧郁底色的平静心境。",
+        "structure_description": "作品的结构并非基于叙事，而是基于系列化的视觉单元（单幅照片）的并置与累积。大幅面、暗调的画面迫使观者进入慢速凝视的状态。这种结构通过重复的、仪式化的视觉呈现，强调物件与人像之间的象征性关系，营造出连贯而富有层次的情感与思辨空间，使整个系列如同一场无声的祭奠或冥想仪式。",
+        "cognitive_expression": "作品鼓励的认知活动远超感官记录。它要求观者进行高度的抽象思考，解读物与人背后的文化符号含义；对不同层面的信息进行整合，在殖民历史、物质文化与个体身份之间建立联系；并在缺乏明确叙事引导的条件下，容忍意义的多义性和不确定性，自行构建对作品的理解。",
+        "behavioral_tendency_description": "此作品强烈地唤起和奖励内省行为，抑制任何外向或活动导向的冲动。它要求观者保持物理和精神的静止，进行长时间、自律性的专注凝视。它鼓动的不是外部世界的探索或社交互动，而是深入个人与集体记忆、历史与身份的内部世界的沉思。"
+      },
+      "personality_affinity": {
+        "Ni": 0.90,
+        "Ne": 0.25,
+        "Ti": 0.70,
+        "Te": 0.20,
+        "Fi": 0.85,
+        "Fe": 0.65,
+        "Si": 0.75,
+        "Se": 0.25,
+        "openness": 0.80,
+        "conscientiousness": 0.70,
+        "extraversion": 0.10,
+        "agreeableness": 0.45,
+        "neuroticism": 0.50,
+        "Assertive": 0.40,
+        "Turbulent": 0.60
+      },
+      "supporting_evidence": [
+        "作品将Hei Tiki这一毛利传统玉坠作为核心拍摄对象进行系列化呈现。",
+        "摄影采用大幅面相机，追求极高的解像力和物质质感还原。",
+        "整体影调为暗调，背景大量采用深黑色以突出主体。",
+        "画面光线经过精心控制，呈现雕塑般的光影效果。",
+        "系列中既包含对玉坠的静物式拍摄，也包含佩戴或展示玉坠的人物肖像。",
+        "人物肖像中的表情通常是静默、严肃且凝视镜头的。",
+        "Hei Tiki的形象被转化为一个反复出现的母题。",
+        "作品通过将物品与人物并置，暗示了代际与文化传承的联结。",
+        "菲奥娜·帕丁顿为新西兰本土摄影师，其创作背景与毛利文化密切相关。",
+        "系列探讨了新西兰的殖民历史对原住民文化身份的影响。",
+        "视觉风格沉静、庄重，节奏缓慢，拒绝快节奏的观看方式。",
+        "拍摄对象的文化信物属性被强调，超越了普通装饰品的范畴。",
+        "视觉表达含蓄，依赖象征而非直白的叙事来传递信息。",
+        "作品的命名直接取自毛利文化中这一重要物件的名称。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

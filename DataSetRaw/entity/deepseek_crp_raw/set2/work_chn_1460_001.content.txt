@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1460_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "山斋客至图",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 1500,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-28",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "明代画家周臣的山水人物画作，以高远法构图描绘山斋幽居与友人来访场景。画面山石耸立峻峭，松树掩映，流水潺潺，人物于书斋中清谈对坐，神态悠然自得。笔墨继承南宋院体山水之严谨法度，又融入吴门文人的清雅气息，展现了明代中期山水画由院体向文人意趣过渡的典型面貌。",
+        "themes": [
+          "隐逸",
+          "友情",
+          "自然",
+          "天人合一",
+          "文人生活"
+        ],
+        "keywords": [
+          "山斋",
+          "松风",
+          "流水",
+          "访友",
+          "对谈",
+          "山石",
+          "高远构图",
+          "明代",
+          "周臣",
+          "吴门画派",
+          "院体",
+          "隐逸"
+        ],
+        "core_experience": "静观画中山斋幽居、松泉相映，感受山林清寂与友人相会的淡泊宁静。画面疏密有致，山石峻峭而不迫人，人物悠然而不孤寂，传递出明代文人对自然归隐与知己交往的理想化精神体验。",
+        "experience_introduction": "观众在观赏《山斋客至图》时，首先被高远峻峭的山石与苍劲的松树所吸引，体验到自然的崇高与永恒。随后视线落于山间书斋中对坐的人物，感受到隐逸生活中的静谧与温情。整体画面疏密有致，笔墨严谨而意境清远，使观众不仅欣赏到明代院体与文人画风的交融，更在静观中体验到归隐山林、友朋相契的精神向往。"
+      },
+      "experience_vector": {
+        "passion": 0.05,
+        "healing": 0.72,
+        "awe": 0.58,
+        "nostalgia": 0.45,
+        "reflection": 0.68,
+        "romance": 0.02,
+        "tension": 0.08,
+        "warmth": 0.55,
+        "loneliness": 0.18,
+        "hope": 0.25
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.42,
+          "complexity": 0.48,
+          "depth_of_thought": 0.62,
+          "logical_structure": 0.45,
+          "novelty": 0.35,
+          "exploration": 0.22,
+          "ambiguity": 0.38,
+          "predictability": 0.68,
+          "information_density": 0.45,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.68,
+          "relationship_scale": 0.55,
+          "social_scale": 0.15,
+          "civilization_scale": 0.08,
+          "cosmic_scale": 0.52,
+          "time_span": 0.22,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.25,
+          "sadness": 0.08,
+          "loneliness": 0.18,
+          "warmth": 0.58,
+          "fear": 0.02,
+          "tension": 0.05,
+          "awe": 0.55,
+          "nostalgia": 0.48,
+          "hope": 0.28,
+          "melancholy": 0.32,
+          "anger": 0.01,
+          "peace": 0.88
+        },
+        "aesthetic": {
+          "beauty": 0.82,
+          "minimalism": 0.45,
+          "luxury": 0.08,
+          "darkness": 0.15,
+          "brightness": 0.52,
+          "dreamlike": 0.22,
+          "mystery": 0.35,
+          "experimental": 0.12,
+          "classical": 0.92,
+          "modern": 0.02
+        },
+        "narrative": {
+          "plot_complexity": 0.08,
+          "character_depth": 0.28,
+          "character_growth": 0.02,
+          "world_building": 0.12,
+          "nonlinear_structure": 0.05,
+          "slow_immersion": 0.85,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.05,
+          "philosophical_depth": 0.62
+        },
+        "social": {
+          "individualism": 0.72,
+          "collectivism": 0.15,
+          "family": 0.12,
+          "friendship": 0.68,
+          "love": 0.02,
+          "community": 0.18,
+          "competition": 0.02,
+          "cooperation": 0.22,
+          "power_relationship": 0.05,
+          "identity": 0.48
+        },
+        "value": {
+          "freedom": 0.58,
+          "order": 0.55,
+          "truth": 0.42,
+          "beauty": 0.85,
+          "achievement": 0.15,
+          "justice": 0.05,
+          "sacrifice": 0.05,
+          "self_exploration": 0.52,
+          "tradition": 0.78,
+          "change": 0.08,
+          "survival": 0.05,
+          "meaning": 0.62
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.42,
+          "adventure": 0.08,
+          "reflection": 0.82,
+          "competition": 0.02,
+          "social": 0.45,
+          "discipline": 0.52,
+          "risk": 0.02,
+          "calm": 0.88,
+          "escape": 0.38
+        },
+        "sensory": {
+          "visual_intensity": 0.62,
+          "color_richness": 0.42,
+          "sound_intensity": 0.05,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.85,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "水墨山水",
+          "color_expression": 0.42,
+          "composition_complexity": 0.62,
+          "symbolism": 0.55,
+          "emotional_expression": 0.68,
+          "historical_style": 0.88
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.05,
+          "explanation": "画面以静态场景为主，人物悠闲对坐，不表现强烈情感或激烈动作。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.72,
+          "explanation": "山林幽居、松泉相映与友人清谈的场景营造出宁静治愈的意境。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.58,
+          "explanation": "高远峻峭的山石与苍松营造出自然崇高之感，令人心生敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "画面表现传统文人隐逸生活，引发对古代田园理想的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.68,
+          "explanation": "幽静的山居与对坐清谈引导观众沉思隐逸生活的深层意涵。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.02,
+          "explanation": "画面不涉及男女情感或浪漫主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.08,
+          "explanation": "整体氛围和谐宁静，几乎没有紧张或冲突的表现。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.55,
+          "explanation": "友人到访与书斋对坐传递出温和的人际温情。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.18,
+          "explanation": "虽有幽居场景，但客人到访消解了孤独感，整体氛围不孤单。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.25,
+          "explanation": "画面宁静自足，未明显表现对未来或改变的期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.42,
+          "explanation": "山水意象具有象征性，但画面表现直接可读，抽象程度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.48,
+          "explanation": "构图疏密有致，笔墨层次丰富，但主题清晰，整体复杂度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.62,
+          "explanation": "隐逸主题蕴含对人生归宿、自然与人的关系的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "高远法构图遵循传统空间逻辑，但非逻辑推理型作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "周臣在院体传统中融入个人意趣，但总体遵循明代山水画主流范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.22,
+          "explanation": "画面定格于静态的山居场景，不鼓励对未知领域的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.38,
+          "explanation": "主题与情感表达相对明确，留白与象征手法增加了适度解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.68,
+          "explanation": "画面遵循传统山水画程式，情节简单，发展可预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.45,
+          "explanation": "画面包含笔墨技法、构图法则和文化意象，信息量中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "观者可了解明代院体画风、吴门文人审美及隐逸文化内涵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.68,
+          "explanation": "聚焦隐士个人生活与内心世界，以书斋为中心展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.55,
+          "explanation": "表现主客二人对坐交谈，突出知交关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.15,
+          "explanation": "几乎不涉及社会结构或群体关系，远离尘世。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.08,
+          "explanation": "画面完全隐于山林，不涉及人类文明或历史变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.52,
+          "explanation": "高山流水与苍松象征自然永恒，暗含天人合一的宇宙意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.22,
+          "explanation": "画面捕捉瞬间场景，时间感凝固于当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "画面为真实山水景致，无幻想或超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.25,
+          "explanation": "友人到访带来淡淡愉悦，但非主要情感基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.08,
+          "explanation": "画面无悲伤氛围，整体平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.18,
+          "explanation": "虽有山居幽静，但因客至而化解了孤寂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.58,
+          "explanation": "对坐清谈的场景传递出温和的人际暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.02,
+          "explanation": "画面不包含任何恐惧或惊悚元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.05,
+          "explanation": "无冲突表现，整体氛围松弛平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.55,
+          "explanation": "峻峭山石与苍松引发对自然壮美的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.48,
+          "explanation": "传统文人隐逸生活的描绘唤起对古时田园理想的怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.28,
+          "explanation": "宁静自足的氛围中隐含对理想生活方式的微弱期许。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.32,
+          "explanation": "山林幽寂中透出淡淡寂寥，略有文人式的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.01,
+          "explanation": "不涉及愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.88,
+          "explanation": "整体画面最突出的情绪是平和宁静，山林与人和谐共存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.82,
+          "explanation": "笔墨精到，构图优美，展现传统山水画的典雅之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.45,
+          "explanation": "画面元素精选，留白得当，但细节丰富，非极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.08,
+          "explanation": "山林幽居质朴无华，无奢华装饰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.15,
+          "explanation": "色调淡雅，无黑暗沉重之感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.52,
+          "explanation": "水墨淡彩，整体明净清朗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.22,
+          "explanation": "意境清远但非梦幻，画面可触可感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.35,
+          "explanation": "深山幽谷带有适度的神秘感，但不过分渲染。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.12,
+          "explanation": "遵循传统院体与文人画范式，非实验性作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.92,
+          "explanation": "承继南宋院体，体现明代古典山水画的严谨法度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.02,
+          "explanation": "毫无现代感，完全植根于古代中国的审美系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.08,
+          "explanation": "无情节叙事，仅有友人到访的单一场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.28,
+          "explanation": "人物神态悠然，但刻画简略，非深度的性格描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.02,
+          "explanation": "静态场景不表现人物成长或变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.12,
+          "explanation": "仅表现山林一角，未构建完整世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.05,
+          "explanation": "单一场景，无时间错位或非线性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.85,
+          "explanation": "静观山水与人物，需要沉心慢品才能深入其境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "无任何动态动作，完全静止的场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.05,
+          "explanation": "没有冲突或对立的表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.62,
+          "explanation": "隐逸与知交的主题蕴含道家出世与儒家友道的哲学意涵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.72,
+          "explanation": "隐士选择离群索居，强调个体精神独立与自主选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.15,
+          "explanation": "远离集体社会，不强调群体归属或集体价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.12,
+          "explanation": "画面未涉及家庭或血缘关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.68,
+          "explanation": "客至山斋、对坐清谈是核心场景，突出知交情谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.02,
+          "explanation": "不含爱情元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.18,
+          "explanation": "不涉及里社、村落等社区关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.02,
+          "explanation": "无竞争或对抗表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.22,
+          "explanation": "对谈本身隐含思想交流，但非明确的协作行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.05,
+          "explanation": "主客平等对坐，无权力不对等的关系表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.48,
+          "explanation": "画面表现隐士身份认同，传达文人的自我定位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.58,
+          "explanation": "隐居山林本身就是对精神自由的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "构图严整，体现自然的秩序感与绘画的法度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.42,
+          "explanation": "通过自然场景表达对生命本真的体悟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "将山水、松泉、人物融为一体，高度肯定审美价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "隐逸生活不强调功业或成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及公平正义等社会伦理议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "无牺牲或奉献的主题表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.52,
+          "explanation": "山居生活暗含对内心世界的省察与自我发现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.78,
+          "explanation": "继承南宋院体画法，延续文人隐逸传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.08,
+          "explanation": "画面定格于不变的理想生活，不强调改变或革新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.05,
+          "explanation": "不涉及生存危机或基本需求问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.62,
+          "explanation": "通过隐逸与友情的描绘追问生命的终极意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "静观山水不激发强烈的好奇或探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.42,
+          "explanation": "文人雅集暗含诗画创作的活动倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.08,
+          "explanation": "无冒险或开拓行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.82,
+          "explanation": "幽居与对谈是典型的沉思默想场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "无竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.45,
+          "explanation": "客至涉及社交，但仅为二人清谈，规模极小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.52,
+          "explanation": "隐居生活需要自律，画面也体现严谨的绘画法度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.02,
+          "explanation": "无风险行为或冒险倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.88,
+          "explanation": "整个场景传递出极度的平静与从容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.38,
+          "explanation": "山居本身即为避世，但非消极逃避，而是主动选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.62,
+          "explanation": "山石峻峭、松姿苍劲，具有较高的视觉表现力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.42,
+          "explanation": "以水墨为主，略施淡彩，色彩不浓烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.05,
+          "explanation": "视觉艺术，无听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "画面节奏舒缓，无强烈起伏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "松风流水、山斋幽静，营造出极其浓郁的隐逸氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "构图深远，细节丰富，引导观者沉浸于画中世界。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.0,
+          "explanation": "属于典型的水墨山水画风格。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.42,
+          "explanation": "以水墨为主，色彩运用克制，表现力中等。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.62,
+          "explanation": "高远法构图层次分明，山石松泉布局精心经营。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.55,
+          "explanation": "松、泉、山斋等元素具有传统的文化象征意涵。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.68,
+          "explanation": "通过景致与人物神态成功传达宁静、温和与隐逸之情。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.88,
+          "explanation": "笔墨师法南宋院体，是明代山水画史的典型面貌。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在观赏中首先感受到山林的崇高与幽静，继而注意到书斋中友人对坐的温馨场景。画面以宁静为主基调，夹杂着对自然的敬畏和对隐逸生活的向往，最终在静谧中获得一种精神上的放松与内省。整体情感体验平和而深远，没有激烈的起伏，但余味悠长。",
+        "structure_description": "作品采用高远法纵向构图，将主山置于上方，中景为松林与书斋，近景为坡石流水，形成清晰的视觉层次。视线沿山路溪流逐渐上升，最终聚焦于山斋中的人物，这种空间结构引导观者从尘世步入幽居，逐步沉浸于画中意境。",
+        "cognitive_expression": "作品鼓励缓慢的视觉阅读和联想性思考。观者需通过辨识山石皴法、松针笔意等细节理解画家的技艺传承，同时通过松、泉、云等意象领悟隐逸文化的内涵。画面不提供直接的解释，而是以留白和象征激发观众的文化记忆与个人体悟。",
+        "behavioral_tendency_description": "画面所传达的宁静与自足，会抑制躁动和冲动的行为倾向，转而鼓励静坐、沉思、品茗、清谈等静态活动。观者被引导向往一种远离喧嚣、回归自然、与知己进行深度精神交流的生活方式，而非采取积极的社会行动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.62,
+        "Ne": 0.18,
+        "Ti": 0.42,
+        "Te": 0.12,
+        "Fi": 0.78,
+        "Fe": 0.48,
+        "Si": 0.65,
+        "Se": 0.22,
+        "openness": 0.62,
+        "conscientiousness": 0.58,
+        "extraversion": 0.08,
+        "agreeableness": 0.65,
+        "neuroticism": 0.18,
+        "Assertive": 0.88,
+        "Turbulent": 0.22
+      },
+      "supporting_evidence": [
+        "画面采用高远法纵向构图，山石由近及远层层推高。",
+        "山石以斧劈皴为主，笔法继承南宋院体画传统。",
+        "苍松掩映于山斋之后，松针勾勒细密劲挺。",
+        "一道溪流自山间蜿蜒而下，连接远近景致。",
+        "山斋建于山间平台之上，茅顶木柱，简朴雅致。",
+        "斋中二人隔案对坐，姿态放松，似在清谈。",
+        "近景坡石上点缀数株杂树，增添了山林野趣。",
+        "远处山峰隐于云雾之中，拓展了画面纵深空间。",
+        "整幅画以水墨为主，仅局部略施淡赭。",
+        "画面留白处理为云气与水流，虚实相生。",
+        "人物五官刻画简约，不以精细写实为目的。",
+        "松树、流水、山石构成了典型的文人隐逸意象。",
+        "画中未见田舍、农人或市井活动，完全隔绝尘嚣。",
+        "画家将院体的严谨与文人的清雅融合于同一画面。",
+        "作品不包含任何叙事情节，仅呈现一个凝固的瞬间。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

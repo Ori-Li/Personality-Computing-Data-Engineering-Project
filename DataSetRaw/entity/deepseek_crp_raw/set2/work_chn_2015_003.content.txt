@@ -1,0 +1,737 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2015_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "凝",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 2015,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-01-01",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.7,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《凝》是马师雅创作并表演的现代舞作品，通过极简的肢体语言与高度控制的肌肉运动，探索凝固与流动这两种身体状态的边界。作品以独舞形式呈现，摒弃叙事结构，转而聚焦于舞者当下的身体觉知、呼吸节奏与情感投射，将时间、记忆与存在感凝聚在每一个充满张力的瞬间之中。",
+        "themes": [
+          "时间",
+          "记忆",
+          "存在",
+          "身体觉知",
+          "意识状态"
+        ],
+        "keywords": [
+          "现代舞",
+          "独舞",
+          "极简主义",
+          "肌肉控制",
+          "时间感知",
+          "即兴",
+          "实验舞蹈",
+          "马师雅",
+          "中国现代舞"
+        ],
+        "core_experience": "观众在几近静止与高度控制的缓慢流动中，被迫放缓注意力和呼吸，进入一种深度内观的冥想状态。作品剥离了外部叙事的干扰，使得观众的注意力聚焦在舞者每一次肌肉的细微变化上，从而体验到时间质感的改变，产生一种在凝固中感知流动、在静止中觉察生命的独特心理体验。",
+        "experience_introduction": "《凝》将观众的感知焦点从外部情节引向内部的生理和心理律动。没有戏剧性的冲突和炫技，舞者通过极致的身体控制和对‘凝固’状态的反复探索，引导观众放弃对传统舞蹈流畅美学的期待。在这一过程中，观众与舞者共享一种专注的当下状态，身体的微妙变化被无限放大，从而产生一种时间被拉伸、意识被聚焦的沉浸式内观体验。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.25,
+        "awe": 0.4,
+        "nostalgia": 0.35,
+        "reflection": 0.9,
+        "romance": 0.0,
+        "tension": 0.6,
+        "warmth": 0.1,
+        "loneliness": 0.65,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.88,
+          "complexity": 0.5,
+          "depth_of_thought": 0.8,
+          "logical_structure": 0.3,
+          "novelty": 0.65,
+          "exploration": 0.7,
+          "ambiguity": 0.85,
+          "predictability": 0.15,
+          "information_density": 0.4,
+          "learning_value": 0.5
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.0,
+          "social_scale": 0.0,
+          "civilization_scale": 0.0,
+          "cosmic_scale": 0.05,
+          "time_span": 0.2,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.3,
+          "loneliness": 0.7,
+          "warmth": 0.1,
+          "fear": 0.05,
+          "tension": 0.55,
+          "awe": 0.4,
+          "nostalgia": 0.35,
+          "hope": 0.1,
+          "melancholy": 0.55,
+          "anger": 0.0,
+          "peace": 0.4
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.95,
+          "luxury": 0.0,
+          "darkness": 0.2,
+          "brightness": 0.15,
+          "dreamlike": 0.25,
+          "mystery": 0.65,
+          "experimental": 0.85,
+          "classical": 0.1,
+          "modern": 0.9
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.7,
+          "character_growth": 0.15,
+          "world_building": 0.0,
+          "nonlinear_structure": 0.8,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.25,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.95,
+          "collectivism": 0.0,
+          "family": 0.0,
+          "friendship": 0.0,
+          "love": 0.0,
+          "community": 0.0,
+          "competition": 0.0,
+          "cooperation": 0.0,
+          "power_relationship": 0.0,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.65,
+          "order": 0.1,
+          "truth": 0.8,
+          "beauty": 0.55,
+          "achievement": 0.1,
+          "justice": 0.0,
+          "sacrifice": 0.1,
+          "self_exploration": 0.95,
+          "tradition": 0.05,
+          "change": 0.3,
+          "survival": 0.1,
+          "meaning": 0.9
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.7,
+          "adventure": 0.15,
+          "reflection": 0.95,
+          "competition": 0.0,
+          "social": 0.0,
+          "discipline": 0.6,
+          "risk": 0.2,
+          "calm": 0.4,
+          "escape": 0.05
+        },
+        "sensory": {
+          "visual_intensity": 0.35,
+          "color_richness": 0.1,
+          "sound_intensity": 0.2,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.95,
+          "actor_expression": 0.7,
+          "body_expression": 0.98,
+          "audience_interaction": 0.15,
+          "performance_intensity": 0.6,
+          "ritual_sense": 0.8
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "作品以静态和慢速动作为主，缺乏情绪爆发和高能量释放，因此激情体验极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.25,
+          "explanation": "冥想式体验带来一定程度的平静，但孤独感和意义追问并非直接疗愈，疗愈感较弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.4,
+          "explanation": "极致的身体控制和概念深度引发一定的敬佩和惊奇感，但非宏大震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.35,
+          "explanation": "对时间和记忆的探索可能唤起轻微追忆感，但非怀旧，是一种个体时间意识的回响。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "作品是高度概念化的内省式创作，旨在引发观众对时间、存在和身体的深度反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品不涉及任何爱情、感情关系或浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.6,
+          "explanation": "缓慢而极限的肌肉控制以及虚拟的静止状态，营造出持续的生理和心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "整体氛围冷静、疏离且内省，几乎不提供情感上的温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.65,
+          "explanation": "独舞形式和高度内聚的个人世界建构强烈的孤独感和独立存在感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "表达偏向中性和沉思，无明显的情节或情绪反转来传递希望，希望感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.88,
+          "explanation": "抛弃叙事和具体情节，用纯粹的身体语言表达时间、记忆、存在等形而上的概念，高度抽象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "概念理解有门槛，但结构极简，复杂程度适中，更多取决于观众自身的解读自由度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.8,
+          "explanation": "作品引发对存在、意识、时间和自我觉知的深层次思考，思想深度较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.3,
+          "explanation": "舞蹈遵从情绪、呼吸和身体逻辑，而非理性的叙事或逻辑结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.65,
+          "explanation": "在舞蹈语言和表现形式上追求前沿探索，将身体极限与哲学思考结合呈现出一定的新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.7,
+          "explanation": "本质上是探索身体边界，并通过身体内部地图去探索未知的意识状态，探索性很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.85,
+          "explanation": "没有明确的意图指向，完全依赖观众的个体感知和解读，具有极高的多义性和模糊性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.15,
+          "explanation": "抛弃了传统的节奏和舞蹈语汇，动作的走向和变化不可预测，可预测性极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.4,
+          "explanation": "单位时间内发生的实际动作和情节信息极少，但包含的心理和哲学信息较大，整体信息密度较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.5,
+          "explanation": "学习价值集中在个体对自身身体感知和哲学性实践的理解上，非知识性学习，学习价值一般。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "完全聚焦于个人的身体、意识、记忆和存在体验，是绝对的个人尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.0,
+          "explanation": "独舞且无叙事，不涉及任何人际关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.0,
+          "explanation": "完全不涉及任何社会群体、制度或事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.0,
+          "explanation": "不涉及任何文明、历史或文化大背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "可能隐晦地指向存在、时间等宇宙性议题，但极为含蓄和微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "虽然探索时间概念，但表达的时间跨度极为压缩，聚焦于“瞬间”的永恒和当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "根植于真实的身体物理极限和控制，无任何幻想或虚构元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "情绪基调严肃、内敛，几乎不包含快乐或喜悦的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.3,
+          "explanation": "对身体极限和孤独存在的表达隐含淡淡的悲哀，但其核心更偏向中性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.7,
+          "explanation": "强烈的独处感、自我审视和与外界的隔绝感使孤独成为主导情感之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "极简和控制的风格缺乏暖意，情感表达非常冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "并不以恐惧为表达目的，但身体极限的展示微带不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.55,
+          "explanation": "肌肉在凝固与流动间的对抗持续产生心理和生理上的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.4,
+          "explanation": "对身体的极致掌控力令人生出一种惊叹与敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.35,
+          "explanation": "对时间流逝的感知极可能引发观众对自身记忆和过往的轻微怀旧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "整体氛围缺乏对未来的指向和积极的期许。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "在缓慢、孤独而深刻的自我探索中，弥漫着一种沉思性的忧郁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全没有表达愤怒、攻击性或冲突的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.4,
+          "explanation": "在高度控制的节奏中，存在一种由内而发的平和感，但被身体的张力所中和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "身体线条和控制本身具有美，但更多是服从于思考的功能性美，而非装饰性的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.95,
+          "explanation": "灯光、舞美、服装、动作都被压缩到极致，是极简主义的典范体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "完全摒弃任何形式的奢华、精致或装饰性元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.2,
+          "explanation": "舞台灯光可能较暗或集中以突出身体，但氛围并非恐怖或邪恶的黑暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "不是明快、愉悦或高调的美学，而是内敛深沉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "缓慢的节奏和对时间感知的改变可能带来一定的梦境或意识流感觉，但并非主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.65,
+          "explanation": "模糊的主题和抽象的表达赋予了作品一种深邃的未知感和神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.85,
+          "explanation": "本质上是一次对舞蹈本体和身体边界的实验性探索，高度实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.1,
+          "explanation": "完全不符合古典主义美学的均衡、和谐与叙事原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.9,
+          "explanation": "从概念到表现形式都是彻底的现代主义乃至当代艺术范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "作品没有情节，不以叙事为驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.7,
+          "explanation": "虽无角色，但舞者作为个体展现的内心与身体纵深极深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "无叙事上的角色成长，但可能存在身体状态从紧张到松弛或变化的动态发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.0,
+          "explanation": "未构建任何架空或现实世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.8,
+          "explanation": "结构完全非线性，依赖情绪、呼吸和能量流动而不是时间顺序，高度非线性和片段化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "作品的核心体验就是通过极慢的节奏和长时间聚焦，引导观众进入深度沉浸的内观状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "几乎没有任何爆发性或高强度的外部动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.25,
+          "explanation": "冲突完全内在化，表现为身体对自身极限的对抗，而非外部人际冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "作品深度围绕时间、存在、意识等哲学议题展开，具有深刻的哲思性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.95,
+          "explanation": "作品是完全的个人表达，强调个体的内在体验与存在感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.0,
+          "explanation": "不涉及任何集体、群体或社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.0,
+          "explanation": "不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.0,
+          "explanation": "不涉及任何友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "不涉及任何形式的爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.0,
+          "explanation": "不涉及任何社区或社群。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "无竞争元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.0,
+          "explanation": "无合作元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不涉及任何权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "作品的核心探索之一便是‘自我’的定义、边界和存在状态，身份认同感很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.65,
+          "explanation": "通过打破传统舞蹈规范和探索身体潜能的极限，体现了表达上的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "高度的肌肉控制和简化的结构暗示了一种秩序，但不是作品探讨的价值核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.8,
+          "explanation": "强烈地追求身体的真实反应和对存在的真实感知，探索内在真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.55,
+          "explanation": "在追求真实和探索的过程中产生了附带的美，但非传统意义的装饰美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "不关注任何外在的成就、荣誉或目标达成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "不涉及社会公平或正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "探讨身体极限的过程可能包含无形的牺牲，但不显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.95,
+          "explanation": "作品的终极命题就是通过身体的内观和极限探索，深入挖掘和呈现自我，这是核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.05,
+          "explanation": "一种对传统舞蹈的彻底反叛和重构，几乎不承载传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "作品内部呈现从凝固到流动的微妙状态变化，但“变化”并非其体现的价值信仰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.1,
+          "explanation": "身体的极限探索不涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.9,
+          "explanation": "作品追问的核心就是存在与时间的意义，对意义的探索是其内在驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "作品鼓励观众对身体和意识产生好奇心，探索未知的内在领域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.7,
+          "explanation": "作品本身是一项高度原创的艺术创作，并激发观众对自身创造性的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "身体的探索有一丝内在冒险的意味，但并非外向型的探险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "作品的最大驱动力就是深度反思，引导观众内省和沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "毫无竞争元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.0,
+          "explanation": "极度个人化，不鼓励社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.6,
+          "explanation": "作品的形成要求创作者/舞者具有极致的身体纪律，也为观众展示了自律之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "在艺术表达和身体极限上是有风险的探索，但风险程度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.4,
+          "explanation": "作品传递出强烈的冷静与控制感，虽内含张力，但表面是平静的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.05,
+          "explanation": "作品引导人向内看，而非对外部现实的逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.35,
+          "explanation": "视觉焦点高度集中在孤立的身体上，光效简约，不追求强烈的视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "极简主义的舞台和服装通常色彩单一、素净。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.2,
+          "explanation": "配乐或环境音可能极简、空灵或直接摒弃，以突出呼吸和身体的声音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "节奏极为缓慢、沉重，几乎可以说是反节奏的，能量极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "利用灯光、身体和时间的拉伸营造出强大、统一且具有穿透力的内省氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "慢节奏、高度聚焦和抽象表达极易使观众进入一种沉浸式的冥想或出神状态。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.95,
+          "explanation": "核心魅力在于舞者现场的呼吸、肌肉颤动和能量场，现场感是其不可替代的关键。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.7,
+          "explanation": "并非通过面部表情，而是通过全身的肌肉控制和身体质感进行高度投入的表达。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.98,
+          "explanation": "作品的媒介就是身体本身，探索的核心就是身体的极限和表达力，肢体表达占据绝对主导。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.15,
+          "explanation": "作品是内向投射的，与观众的互动仅限于能量层面的传递，而非直接的、物理的互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.6,
+          "explanation": "不是外部的激烈，而是内部肌肉控制和能量投射的强度非常高，形成一种内在的表演强度。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.8,
+          "explanation": "缓慢、重复、专注的动作以及极简的空间，营造出一种强烈的、类似苦行或冥想的仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "体验核心在于一场深度的内省之旅。作品迫使观众放弃对外部叙事的期待，转而跟随舞者的呼吸和肌肉运动进入一种凝滞的时间流。体验是孤独、沉思且高度紧张的，观众会感知到一种在极度静止中蕴含的巨大能量，并由此引发关于自身存在、时间和记忆的思考。",
+        "structure_description": "结构上是彻底的非线性和反叙事。它不依赖故事线索，而是以情绪、能量和身体状态的细微变化作为推进逻辑。一个动作、一个姿态的长时间维持与缓慢变形构成了作品的骨架，形成一种以‘凝固’为核心、以‘流动’为动态变化的极简主义结构。",
+        "cognitive_expression": "作品鼓励一种高度抽象和内部聚焦的认知模式。需要观众调动大量的直觉和感受力去解读模糊的身体符号，进行深度的意义建构。它减弱了语言逻辑，强调了对时间流逝、肌肉张力和空间存在的深刻感知和反思性思维。",
+        "behavioral_tendency_description": "它不奖励任何外向或行动导向的行为，而是奖励专注、内省和沉思。作品展示了通过极度的自律和身体控制来探索真理的可能性，因此会唤起对纪律、独立探索和内在深度探寻的向往，而非社交或竞争。"
+      },
+      "personality_affinity": {
+        "Ni": 0.92,
+        "Ne": 0.35,
+        "Ti": 0.6,
+        "Te": 0.05,
+        "Fi": 0.95,
+        "Fe": 0.02,
+        "Si": 0.4,
+        "Se": 0.15,
+        "openness": 0.9,
+        "conscientiousness": 0.65,
+        "extraversion": 0.03,
+        "agreeableness": 0.1,
+        "neuroticism": 0.55,
+        "Assertive": 0.35,
+        "Turbulent": 0.65
+      },
+      "supporting_evidence": [
+        "作品为没有具体情节的独舞。",
+        "舞蹈动作在几乎静止和极为缓慢的流动之间转换。",
+        "表演聚焦于舞者对肌肉控制的极致探索。",
+        "作品舍弃了传统舞蹈的叙事结构和华丽技巧。",
+        "舞台视觉元素极度简化，仅保留必要的灯光和空间感。",
+        "舞者的身体成为唯一的内容载体和意义来源。",
+        "‘凝固’作为作品标题和核心概念被反复呈现和探讨。",
+        "时间的流逝通过舞者的身体张力和动作变化被具象化。",
+        "作品引导观众关注呼吸、微动作和身体的内在感知。",
+        "表演全程无语言和戏剧性冲突，全靠肢体传达。",
+        "创作目的在于通过身体追问存在与时间的关系。",
+        "整个表演过程弥漫着一种孤独和自省的氛围。",
+        "舞者的能量是内收而非外放的，营造出沉浸式的体验空间。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2010_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "浮生",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2010,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.7,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《浮生》是吴昊主导创作的一张中国后摇滚专辑，发行于2010年。作品以层叠递进的吉他音墙、细腻的氛围电子音色与低沉贝斯线条构建出悠长的纯器乐声响景观。整张专辑围绕时间流逝、生命无常与个体孤寂展开沉思，通过克制而富有张力的器乐编排，营造出沉浸内省的听觉体验，反映了当代青年对存在状态的自我追问。",
+        "themes": [
+          "时间",
+          "生命",
+          "孤独",
+          "无常",
+          "回忆",
+          "存在"
+        ],
+        "keywords": [
+          "后摇滚",
+          "器乐摇滚",
+          "吉他音墙",
+          "氛围电子",
+          "纯音乐",
+          "吴昊",
+          "中国独立音乐",
+          "沉思"
+        ],
+        "core_experience": "听众被包裹在绵延层叠的器乐声响中，感受到悠长而孤寂的情绪流动，引发对时间、记忆与生命意义的安静沉思，整体体验偏向内省与沉静。",
+        "experience_introduction": "专辑以纯器乐形式展开，通过反复堆叠的吉他音墙和细腻的电子纹理，将听众从外部现实引入内部沉思空间。音乐结构缓慢推进，音量与情绪层层递升，营造出时间拉伸感与沉浸式聆听体验，使听众在抽象声响中投射自身对生命与流逝的情感。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.1,
+        "awe": 0.55,
+        "nostalgia": 0.7,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.3,
+        "warmth": 0.1,
+        "loneliness": 0.8,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.55,
+          "depth_of_thought": 0.7,
+          "logical_structure": 0.35,
+          "novelty": 0.4,
+          "exploration": 0.3,
+          "ambiguity": 0.8,
+          "predictability": 0.25,
+          "information_density": 0.3,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.2,
+          "social_scale": 0.1,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.35,
+          "time_span": 0.75,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.5,
+          "loneliness": 0.85,
+          "warmth": 0.1,
+          "fear": 0.1,
+          "tension": 0.25,
+          "awe": 0.5,
+          "nostalgia": 0.75,
+          "hope": 0.15,
+          "melancholy": 0.8,
+          "anger": 0.05,
+          "peace": 0.4
+        },
+        "aesthetic": {
+          "beauty": 0.6,
+          "minimalism": 0.4,
+          "luxury": 0.05,
+          "darkness": 0.45,
+          "brightness": 0.15,
+          "dreamlike": 0.65,
+          "mystery": 0.55,
+          "experimental": 0.35,
+          "classical": 0.2,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.05,
+          "character_growth": 0.05,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.3,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.2,
+          "philosophical_depth": 0.65
+        },
+        "social": {
+          "individualism": 0.8,
+          "collectivism": 0.1,
+          "family": 0.1,
+          "friendship": 0.05,
+          "love": 0.05,
+          "community": 0.05,
+          "competition": 0.05,
+          "cooperation": 0.05,
+          "power_relationship": 0.05,
+          "identity": 0.6
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.1,
+          "truth": 0.25,
+          "beauty": 0.55,
+          "achievement": 0.1,
+          "justice": 0.05,
+          "sacrifice": 0.1,
+          "self_exploration": 0.85,
+          "tradition": 0.15,
+          "change": 0.25,
+          "survival": 0.15,
+          "meaning": 0.7
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.3,
+          "adventure": 0.1,
+          "reflection": 0.9,
+          "competition": 0.05,
+          "social": 0.05,
+          "discipline": 0.15,
+          "risk": 0.1,
+          "calm": 0.55,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.2,
+          "color_richness": 0.35,
+          "sound_intensity": 0.75,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "后摇滚",
+          "tempo": 0.3,
+          "energy": 0.4,
+          "vocal_style": "无",
+          "instrumentation": "吉他、贝斯、鼓、合成器",
+          "production_style": "氛围层次、音墙堆叠",
+          "lyrical_theme": "无",
+          "emotional_scene": "深夜独处、旷野、时间流逝",
+          "cultural_context": "中国独立音乐"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "专辑整体情绪克制内敛，极少出现激烈的情感爆发，因此热情体验极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "音乐氛围偏孤寂沉思而非温暖抚慰，疗愈感不明显。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "吉他音墙在渐进堆叠中营造出宏大而渺远的声响，带来一定程度的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.7,
+          "explanation": "悠长的旋律线条与延迟音色反复唤起对过去时光和记忆碎片的追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "纯器乐编排与缓慢推进的结构引导听众进入深度的内省与沉思状态。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品的表达集中在对时间和存在的思考上，几乎没有涉及浪漫情感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.3,
+          "explanation": "层叠音墙在部分段落制造了心理上的紧绷感，但整体仍以沉静为主。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "音色偏冷，以孤寂和空旷感为主，温暖感受很弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "整张专辑弥漫着强烈的个体孤寂感，声响空旷，与外部世界隔绝。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "结尾处偶有微光般的明亮音色，但整体并未导向明朗的希望，更多停留在沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "纯器乐表达摒弃了具体语义，依赖听众主观诠释声响，抽象程度很高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "编曲通过多声部层叠逐渐构建复杂声响，但整体结构并不晦涩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.7,
+          "explanation": "作品将时间哲学与存在议题转化为声响体验，引导听众进行较深的思索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.35,
+          "explanation": "音乐以情绪流为主，虽有渐进结构，但不强调清晰的逻辑推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.4,
+          "explanation": "在中国独立音乐语境中，融合后摇滚与氛围电子具有一定新意，但手法本身不激进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "作品主要聚焦内部心理空间，而非引导对外部未知领域或新概念的系统探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.8,
+          "explanation": "无歌词纯器乐形式导致意义高度开放，任何解释都依赖于聆听者的个人投射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "后摇滚常见的动态对比与渐进式高潮虽有一定可预见性，但具体段落仍充满意外转折。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "作品以情绪和氛围为核心，不追求传递密集的知识或事实信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "专辑主要提供审美体验和情感沉思，提供系统性知识或文化学习的价值较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "声响景观几乎完全围绕个体的内心世界、回忆与情感波动展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.2,
+          "explanation": "极少关注人际关系，偶尔在沉思中浮现对他人羁绊的微弱暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.1,
+          "explanation": "几乎不触及社会结构、群体或社会议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "内容无关文明演进或历史变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.35,
+          "explanation": "空旷的混响和悠长氛围偶尔引发对广阔宇宙和无限时间的联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.75,
+          "explanation": "专辑反复暗示时间的流逝、记忆的沉淀与生命的有限性，时间维度被拉长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "表达立足于真实存在体验的沉思，而非构建幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "专辑弥漫着忧郁和孤寂，几乎没有直接的快乐情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.5,
+          "explanation": "悠长旋律中渗透着淡淡的悲伤，但并非强烈悲痛，而是更接近于释然后的哀愁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "是专辑最核心的情绪基调，声响设计充满了孤独感与隔绝感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "情感温度偏冷，缺乏温暖或亲密的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.1,
+          "explanation": "虽有紧绷段落，但不产生恐惧感，更多是面对虚无的迷茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.25,
+          "explanation": "动态对比营造了适度的心理张力，但未达到高度紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.5,
+          "explanation": "某些高潮段落的音墙具备宏大特质，能唤起对时间与自然的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.75,
+          "explanation": "怀旧是主导情绪之一，音乐充满了对过往记忆的无限追忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.15,
+          "explanation": "整体基调偏灰暗沉思，仅在极少数旋律走向中夹杂一丝微光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.8,
+          "explanation": "忧郁是全专的核心情感色彩，结合孤独与怀旧构成了主要的情绪氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品中不存在愤怒、反抗或侵略性的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.4,
+          "explanation": "结尾部分回归平静，但整体上忧伤的底色削弱了纯粹的平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.6,
+          "explanation": "旋律的线条感和氛围营造具有较高的审美价值，表现为一种忧伤的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.4,
+          "explanation": "编曲有极简主义的影子，通过重复和渐变构建声响，但仍保留一定的层次复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "审美取向是孤寂与内省，完全没有奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.45,
+          "explanation": "存在明显的灰暗与低沉色调，但并非纯粹的黑暗，更多是暮色般的昏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "缺乏明亮、欢快或通透的审美元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.65,
+          "explanation": "大量混响、延迟效果器和电子纹理创造了朦胧、如梦似幻的声响空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "含义的开放性以及幽暗的氛围赋予了作品一定的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.35,
+          "explanation": "在吉他音色和电子氛围的结合上进行了一些探索，但总体上仍遵循后摇滚范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.2,
+          "explanation": "编曲思路有古典音乐的严谨与递进感，但音色和制作是现代音乐风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "整体美学是现代都市青年的后摇滚与独立音乐品味，展现了当下的时代气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "纯器乐作品没有明确的情节，不存在情节复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "没有角色或人物刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "不存在人物的成长弧线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "音乐构建的是情感空间而非具体世界，不具备系统的世界构建特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.3,
+          "explanation": "情绪流近似非线性，但音乐结构总体上遵循渐进式的线性时间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "作品的核心表达方式就是让听众在缓慢推进中逐渐沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "没有动作成分，仅有微弱的情绪爆发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.2,
+          "explanation": "没有外部冲突，仅有内部心理的轻微张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.65,
+          "explanation": "作品在无词的声响表达中承载了对生命和时间的哲思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.8,
+          "explanation": "完全聚焦个体内心世界，强调个体孤独体验和独立沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.1,
+          "explanation": "没有涉及集体或社群互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.1,
+          "explanation": "不涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.05,
+          "explanation": "没有友情的互动展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.05,
+          "explanation": "没有关于爱情的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.05,
+          "explanation": "没有社群关系的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "不存在任何形式的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.05,
+          "explanation": "没有合作关系的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.05,
+          "explanation": "不涉及权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.6,
+          "explanation": "专辑本质上是一次对自我存在状态的追问，与身份认同的探索高度相关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "内含摆脱束缚、寻求精神自由的一面，但更多是面对孤独的沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "没有强调秩序或规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.25,
+          "explanation": "有一种探寻生命真相的意味，但不以逻辑思辨的方式展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.55,
+          "explanation": "对声音美学的追求是作品的显著特征，展现了忧伤的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "不关注成就或成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "没有关于牺牲的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "整张专辑可以视为一次深刻的自我探索之旅，挖掘内心深处的情绪与记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "属于现代音乐风格，虽然主题涉及时间，但并未推崇或维护传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.25,
+          "explanation": "隐含了生命无常、万物皆在变化的认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.15,
+          "explanation": "未聚焦于生存压力或竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.7,
+          "explanation": "对生命意义和存在价值的追问是贯穿整张专辑的核心主题之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "音乐引发了听众想探索内心奥秘的好奇，但并未导向对外部世界的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.3,
+          "explanation": "其艺术表达可能激发听众的创作灵感，尤其是音乐或文字创作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "不存在冒险或探索未知的行为驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品的核心行为导向就是鼓励听众进行深度的自我反思和内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "无。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.05,
+          "explanation": "孤立的听感反而将人拉离社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "与需要纪律约束的行为关系不大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.1,
+          "explanation": "与冒险或高风险行为无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.55,
+          "explanation": "尽管内心有波澜，但音乐的漫长和缓慢节奏总体上带来一种平静的听感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "沉浸于音乐构筑的孤寂空间本身也是一种对现实的短暂脱离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.2,
+          "explanation": "纯音乐作品没有直接的视觉信息，虽能引发个体联想，但视觉强度低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.35,
+          "explanation": "声响给人的颜色联想偏向低饱和度的冷蓝色或灰色调，不丰富跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.75,
+          "explanation": "层叠的音墙在动态高潮时声响密度和强度很高，是其核心标志。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "节奏缓慢，打击乐多为烘托氛围而非提供律动能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "氛围营造是专辑的重中之重，整个聆听体验被统一的孤寂氛围包裹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "通过渐进式的声响堆叠，专辑成功将听众拉入其创造的情绪空间。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 1.0,
+          "explanation": "音乐风格明确属于后摇滚，并融入了氛围电子元素。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.3,
+          "explanation": "专辑速度偏慢，以慢板和中板为主，服务于沉思氛围。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.4,
+          "explanation": "整体能量不高，即使在动态高潮时也是内化的爆发而非外向的能量释放。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 1.0,
+          "explanation": "专辑为纯器乐作品，没有人声。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 1.0,
+          "explanation": "主要使用吉他、贝斯、鼓和合成器进行编曲。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 1.0,
+          "explanation": "制作上强调氛围层次，通过大量混响、延迟和音轨堆叠来构建音墙。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 1.0,
+          "explanation": "无歌词。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 1.0,
+          "explanation": "音乐营造的场景感强烈，如深夜独处、空旷原野或时间流逝。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 1.0,
+          "explanation": "作品诞生于二十一世纪初的中国独立音乐场景。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众被层叠的吉他音墙和空旷的电子氛围包裹，进入一段关于时间、记忆与存在的孤寂沉思旅程。音乐缓慢推进，情绪在忧郁和怀旧中浮动，间或抵达微弱的敬畏高潮，最终归于沉静的接纳。",
+        "structure_description": "专辑采用典型的渐变式结构，通过不断重复和加厚吉他音墙来组织声音流，形成缓慢但不可抗拒的情绪推进力。曲目间相互衔接，共同构成一个完整而封闭的沉浸式声响空间。",
+        "cognitive_expression": "作品鼓励高度内省的认知模式，通过纯器乐的模糊性引导听者进行个人化的意义投射和深度反思。它不需要对复杂系统的逻辑分析，而是要求对抽象情绪和氛围的感知与诠释。",
+        "behavioral_tendency_description": "作品强烈鼓励独处、安静聆听和自我反思的行为。它削弱了与外部社会互动的冲动，转而深化个体内在的精神活动，是一种安静而深入的情感收集行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.35,
+        "Ti": 0.45,
+        "Te": 0.1,
+        "Fi": 0.85,
+        "Fe": 0.1,
+        "Si": 0.7,
+        "Se": 0.2,
+        "openness": 0.7,
+        "conscientiousness": 0.25,
+        "extraversion": 0.1,
+        "agreeableness": 0.2,
+        "neuroticism": 0.7,
+        "Assertive": 0.3,
+        "Turbulent": 0.7
+      },
+      "supporting_evidence": [
+        "整张专辑无歌词，完全依靠器乐声响表达内容。",
+        "作品通过吉他效果器堆叠出厚重而绵延的声音层次。",
+        "常采用从弱到强的渐变结构，在高潮处形成情绪化的音墙。",
+        "融合了氛围电子元素，增加声响的空间感与虚幻感。",
+        "专辑专注于表达对时间流逝和生命无常的感受。",
+        "音乐中弥漫着孤独感和与外部世界的疏离感。",
+        "反复运用延迟和混响效果，营造出对过往记忆的追忆感。",
+        "整张专辑速度偏慢，节奏舒缓，增强了沉思的氛围。",
+        "作品创作于2010年，属于中国独立音乐场景下的产物。",
+        "听感偏冷峻内敛，缺乏温暖或欢乐的旋律线条。",
+        "曲目通常较长，给予听众充分的时间沉浸于情绪之中。",
+        "表达方式具有高度的开放性和模糊性，依赖听众主观解释。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

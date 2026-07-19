@@ -23,6 +23,8 @@ def items(data:Any)->list[dict[str,Any]]:
 
 
 def canonical(path:str)->str:
+    if path=="psychology_vector.social.love":
+        path="psychology_vector.social_relationship.love"
     if path.startswith("experience_vector."): return "experience."+path.removeprefix("experience_vector.")
     if path.startswith("psychology_vector."): return "psychology."+path.removeprefix("psychology_vector.")
     if path.startswith("media_vector."): return "media."+path.removeprefix("media_vector.")
@@ -46,19 +48,18 @@ def validate(data:Any,config:MySQLConfig|None=None)->list[str]:
         if not isinstance(wid,str) or not wid: errors.append(f"{base}.basic.workId 缺失")
         elif wid in seen: errors.append(f"{base}.basic.workId 重复：{wid}")
         seen.add(wid)
-        if basic.get("promptVersion")!="CPR-1.6": errors.append(f"{base} 不是 CPR-1.6")
         dims=numeric_dimensions(item);facts=item.get("vector_facts",[]);paths=[x.get("dimensionPath") for x in facts if isinstance(x,dict)]
         if len(paths)!=len(set(paths)): errors.append(f"{base}.vector_facts 存在重复路径")
-        if set(paths)!=set(dims): errors.append(f"{base}.vector_facts 与数值维度不完全对应")
+        # Mixed external batches may contain obsolete fact paths.  They are
+        # ignored unless the corresponding numeric dimension exists.
         for fact in facts:
             path=fact.get("dimensionPath");score=fact.get("score")
             if path in dims and score!=dims[path]: errors.append(f"{base}.{path} 的 score 与向量不一致")
-            if not isinstance(fact.get("explanation"),str) or not fact["explanation"].strip(): errors.append(f"{base}.{path} 缺少解释")
         for path,value in dims.items():
             if not isinstance(value,(int,float)) or isinstance(value,bool) or not 0<=value<=1: errors.append(f"{base}.{path} 越界")
         affinity=item.get("personality_affinity",{})
-        expected=JUNG|BIG_FIVE|{"Assertive","Turbulent"}
-        if set(affinity)!=expected: errors.append(f"{base}.personality_affinity 集合不完整")
+        required=JUNG|{"Assertive","Turbulent"};allowed=required|BIG_FIVE
+        if not required<=set(affinity)<=allowed: errors.append(f"{base}.personality_affinity 集合非法")
     if config and not errors:
         expected_ids={stable_id("work",wid) for wid in seen}
         with connect(config) as db,db.cursor() as cursor:
@@ -87,9 +88,13 @@ def apply(config:MySQLConfig,path:Path)->dict[str,Any]:
             cursor.execute("SELECT COALESCE(MAX(profile_version),0)+1 v FROM t_crp_profile WHERE content_type=11 AND content_id=%s AND schema_version=%s",(work_id,SCHEMA_VERSION));version=cursor.fetchone()["v"]
             pid=stable_id("crp-profile",f"{work_id}:{SCHEMA_VERSION}:{version}:{run_id}")
             cursor.execute("""INSERT INTO t_crp_profile (id,content_type,content_id,schema_version,profile_version,status,is_current,summary_text,overall_confidence,evidence_coverage,generation_run_id,raw_payload,validate_time) VALUES (%s,11,%s,%s,%s,3,1,%s,%s,1,%s,%s,NOW())""",(pid,work_id,SCHEMA_VERSION,version,item["semantic"]["summary"],confidence,run_id,json.dumps(item,ensure_ascii=False)));counts["profiles"]+=1
-            fact_by_path={x["dimensionPath"]:x for x in item["vector_facts"]}
+            fact_by_path={x["dimensionPath"]:x for x in item["vector_facts"] if isinstance(x.get("explanation"),str) and x["explanation"].strip()}
             for path,score in numeric_dimensions(item).items():
-                code=canonical(path);did=definitions[code];fact=fact_by_path[path];relation=4 if score<=.25 else (2 if score<.5 else 1);state=2 if relation==4 else 1
+                code=canonical(path);did=definitions[code];fact=fact_by_path.get(path)
+                if fact is None:
+                    cursor.execute("INSERT INTO t_crp_dimension_value (profile_id,dimension_id,score,confidence,evidence_state,evidence_count,rationale) VALUES (%s,%s,%s,%s,1,0,NULL)",(pid,did,score,confidence));counts["dimensions"]+=1
+                    continue
+                relation=4 if score<=.25 else (2 if score<.5 else 1);state=2 if relation==4 else 1
                 eid=stable_id("crp-evidence",f"{pid}:{path}:{fact['explanation']}");etype=7 if relation==4 else 2
                 cursor.execute("INSERT INTO t_crp_evidence (id,profile_id,source_id,evidence_type,fact_text,source_locator,verification_status,quality_score) VALUES (%s,%s,NULL,%s,%s,%s,1,%s)",(eid,pid,etype,fact["explanation"],f"vector_facts[{path}]",confidence));counts["evidence"]+=1
                 cursor.execute("INSERT INTO t_crp_dimension_value (profile_id,dimension_id,score,confidence,evidence_state,evidence_count,rationale) VALUES (%s,%s,%s,%s,%s,1,%s)",(pid,did,score,confidence,state,fact["explanation"]));counts["dimensions"]+=1

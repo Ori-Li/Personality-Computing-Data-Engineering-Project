@@ -1,0 +1,727 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1941_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "黄河",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 1970,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "钢琴协奏曲《黄河》由殷承宗、储望华等人根据冼星海《黄河大合唱》改编创作，1970年首演。作品以钢琴与管弦乐队协奏的形式，通过《黄河船夫曲》《黄河颂》《黄河愤》《保卫黄河》四个乐章，将黄河作为中华民族精神的象征，展现了从苦难、抗争到胜利的史诗性叙事。音乐融合西方古典协奏曲结构与民族旋律语汇，传达出深沉而壮阔的集体主义情感。",
+        "themes": [
+          "抗争",
+          "民族精神",
+          "爱国",
+          "苦难",
+          "希望",
+          "集体主义",
+          "自然力量",
+          "历史记忆"
+        ],
+        "keywords": [
+          "黄河",
+          "钢琴协奏曲",
+          "殷承宗",
+          "储望华",
+          "洗星海",
+          "黄河大合唱",
+          "保卫黄河",
+          "东方红",
+          "国际歌",
+          "民族化",
+          "革命音乐",
+          "交响乐"
+        ],
+        "core_experience": "听众经历从压抑、悲愤到激昂、胜利的情感上升过程，感受到宏大的历史叙事与集体力量的震撼，同时体会到对民族苦难的共情和对希望的坚定信念。",
+        "experience_introduction": "钢琴协奏曲《黄河》通过四个连续性乐章构建了一条从沉重劳动号子到辉煌胜利颂歌的情感弧线。听众首先被急速的音阶和强烈的节奏带入紧张而充满力量的船夫世界，继而沉浸在悠长而深沉的民族颂歌中，经历悲愤与压抑的第三乐章后，最终在第四乐章被熟悉的旋律与激昂的变奏推向高潮，完成一次集体主义的精神洗礼。"
+      },
+      "experience_vector": {
+        "passion": 0.82,
+        "healing": 0.25,
+        "awe": 0.75,
+        "nostalgia": 0.55,
+        "reflection": 0.60,
+        "romance": 0.10,
+        "tension": 0.70,
+        "warmth": 0.30,
+        "loneliness": 0.15,
+        "hope": 0.85
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.45,
+          "complexity": 0.55,
+          "depth_of_thought": 0.50,
+          "logical_structure": 0.70,
+          "novelty": 0.60,
+          "exploration": 0.20,
+          "ambiguity": 0.30,
+          "predictability": 0.65,
+          "information_density": 0.50,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.35,
+          "relationship_scale": 0.25,
+          "social_scale": 0.85,
+          "civilization_scale": 0.90,
+          "cosmic_scale": 0.40,
+          "time_span": 0.70,
+          "fantasy_level": 0.15
+        },
+        "emotion": {
+          "happiness": 0.30,
+          "sadness": 0.60,
+          "loneliness": 0.20,
+          "warmth": 0.35,
+          "fear": 0.15,
+          "tension": 0.75,
+          "awe": 0.80,
+          "nostalgia": 0.60,
+          "hope": 0.85,
+          "melancholy": 0.40,
+          "anger": 0.70,
+          "peace": 0.15
+        },
+        "aesthetic": {
+          "beauty": 0.60,
+          "minimalism": 0.20,
+          "luxury": 0.10,
+          "darkness": 0.40,
+          "brightness": 0.70,
+          "dreamlike": 0.10,
+          "mystery": 0.15,
+          "experimental": 0.50,
+          "classical": 0.70,
+          "modern": 0.35
+        },
+        "narrative": {
+          "plot_complexity": 0.40,
+          "character_depth": 0.20,
+          "character_growth": 0.15,
+          "world_building": 0.60,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.30,
+          "action_intensity": 0.80,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.40
+        },
+        "social": {
+          "individualism": 0.15,
+          "collectivism": 0.95,
+          "family": 0.30,
+          "friendship": 0.20,
+          "love": 0.15,
+          "community": 0.85,
+          "competition": 0.80,
+          "cooperation": 0.70,
+          "power_relationship": 0.65,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.80,
+          "order": 0.30,
+          "truth": 0.35,
+          "beauty": 0.45,
+          "achievement": 0.60,
+          "justice": 0.70,
+          "sacrifice": 0.85,
+          "self_exploration": 0.15,
+          "tradition": 0.60,
+          "change": 0.50,
+          "survival": 0.75,
+          "meaning": 0.70
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.65,
+          "adventure": 0.30,
+          "reflection": 0.55,
+          "competition": 0.85,
+          "social": 0.75,
+          "discipline": 0.70,
+          "risk": 0.60,
+          "calm": 0.10,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.40,
+          "color_richness": 0.45,
+          "sound_intensity": 0.90,
+          "rhythm_energy": 0.85,
+          "atmosphere": 0.80,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "古典",
+          "tempo": 0.70,
+          "energy": 0.85,
+          "vocal_style": "无",
+          "instrumentation": "钢琴与管弦乐队",
+          "production_style": "现场录音",
+          "lyrical_theme": "民族抗争",
+          "emotional_scene": "史诗宏伟",
+          "cultural_context": "中国文革时期革命音乐民族化尝试"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.82,
+          "explanation": "全曲特别是《保卫黄河》乐章通过强有力的节奏和音量传达出强烈的战斗激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.25,
+          "explanation": "作品以激烈的情感和强烈的戏剧性为主，缺乏温和的抚慰感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.75,
+          "explanation": "宏大的管弦乐队编制与钢琴的技巧性演奏共同营造出对民族力量的崇敬感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.55,
+          "explanation": "作品改编自抗战时期的经典合唱，但对原作的再创作和年代性使得怀旧并非核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.60,
+          "explanation": "第二乐章《黄河颂》相对慢速且深沉的旋律，促使听众对民族历史进行沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.10,
+          "explanation": "作品主题完全是民族史诗与集体斗争，没有任何个人化的浪漫爱情元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "作品中的不和谐音、急速跑动和强力的打击乐段落，特别是第三乐章，创造了高度的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.30,
+          "explanation": "音乐的情感基调是沉重、悲愤和激昂的，温暖柔和并非其主要特征。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "作品的核心是集体的力量与民族的共同命运，几乎没有个人的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.85,
+          "explanation": "第四乐章最终以辉煌的胜利结束，给予听众强烈的希望和光明前途的信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.45,
+          "explanation": "音乐内容高度标题化，情感指向明确，尽管象征手法存在，但理解门槛不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "采用了西方协奏曲式的奏鸣曲、回旋曲等结构，同时融合了中国民族调式，结构较为复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.50,
+          "explanation": "主题思想鲜明直接，深度主要体现在情感和历史意义，而非哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.70,
+          "explanation": "整体四个乐章的逻辑布局清晰，每个乐章内部的主题发展、变奏和再现均有严密编排。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.60,
+          "explanation": "在当时的历史背景下，将民族音乐与西方古典协奏曲形式结合属于一种新颖的艺术尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "作品旨在明确表达已知的民族精神，不鼓励对未知世界或新领域的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.30,
+          "explanation": "音乐叙事和象征意义明确，服务于清晰的政治和文化主题，歧义度很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.65,
+          "explanation": "整体情感走向是从苦难到胜利的经典叙事，听众对高潮的到来有较强的预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "音乐语言直接而强大，主要传递情感和宏大意象，而非密集的语义信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "通过音乐可以了解特定历史时期的文化表达方式和民族情感，具有一定的历史和文化教育价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.35,
+          "explanation": "个体体验在宏大的民族叙事中并非重点，但通过船夫、劳动者等形象有所体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.25,
+          "explanation": "作品不强调具体的人际关系，而是聚焦于民族命运这一更宏大的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "整个社会的集体行动、共同的苦难与抗争是作品刻画的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.90,
+          "explanation": "黄河被直接象征为中华文明和民族的母亲河，视角是文明级别的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.40,
+          "explanation": "虽有对自然（黄河）力量的描绘，但并未上升到宇宙或超自然维度的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.70,
+          "explanation": "作品体现了从历史苦难、近代抗战到未来的希望，时间跨度超越了某一具体时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.15,
+          "explanation": "完全基于现实世界的民族历史和精神，没有幻想或超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.30,
+          "explanation": "仅在最终的胜利乐章中有短暂的欢庆感，并非作品的主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.60,
+          "explanation": "《黄河愤》等段落充满对苦难的控诉和深沉的悲情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.20,
+          "explanation": "作品充满合唱性和乐队齐奏的集体力量，极少表现个体的孤立感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "作品表达的是炽热的爱国情感和悲壮，而非日常的温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "虽有对危机的描绘，但基调是反抗而非恐惧，敌寇带来的恐惧感很快被转化为战斗决心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.75,
+          "explanation": "强烈的戏剧冲突、快速音型和打击乐营造出持续的高紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.80,
+          "explanation": "对黄河的描绘和对民族力量的歌颂旨在让听众产生崇敬和惊叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.60,
+          "explanation": "改编自冼星海的经典作品，其旋律本身承载了一代人的历史记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.85,
+          "explanation": "整部作品的核心脉络是从黑暗走向光明，最终乐章传达出不可战胜的必胜信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.40,
+          "explanation": "慢板乐章中包含一定的忧郁和感伤，但很快被更强的愤怒或希望情绪所取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.70,
+          "explanation": "《黄河愤》乐章中，音乐明确表达了对侵略者的控诉和强烈的愤怒之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.15,
+          "explanation": "音乐充满了动态、冲突和斗争，几乎没有安宁祥和的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.60,
+          "explanation": "旋律汲取了中国民歌素材，具有明确的旋律美感和感染力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "作品追求的是宏大、饱满的音响效果，而非简约克制的极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "作品的美学根基是革命现实主义和民族精神，与奢华无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.40,
+          "explanation": "对苦难、压迫的描绘包含了阴暗的音响色彩，但作品整体上是趋向光明的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.70,
+          "explanation": "胜利的最终乐章以及整体积极向上的精神赋予了作品明亮辉煌的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "风格是坚实、有力、写实的，没有营造出梦幻或超现实的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "作品的主题和情感表达直接而强烈，没有故布疑阵的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.50,
+          "explanation": "在创作时，“洋为中用”将钢琴与民族音乐结合是一种大胆的实验，但就音乐本身而言是传统的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.70,
+          "explanation": "作品严格遵循了西方古典协奏曲的多乐章结构和曲式原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.35,
+          "explanation": "音乐语言根植于19世纪浪漫主义和民族乐派，与现代派音乐的无调性等手法截然不同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.40,
+          "explanation": "叙事线索是线性且清晰的“苦难-抗争-胜利”，没有复杂的多线情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.20,
+          "explanation": "作品中没有具体的角色塑造，而是将其抽象化为“人民”、“船夫”等集体形象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "不存在个体角色的成长弧线，体现的是整个民族的精神升华。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.60,
+          "explanation": "通过音乐构建出一个以黄河为中心的完整世界，包括自然景观、劳动场景和战争场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "故事按时间顺序或情感逻辑线性展开，没有使用倒叙或多线叙事的复杂结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.30,
+          "explanation": "作品以强烈的第一乐章开场，主要依赖强度而非缓慢渗透来吸引听众。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.80,
+          "explanation": "高度技巧性的钢琴演奏、快速的节奏和打击乐的强奏，共同营造了极强的行动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "整部作品的核心就是民族生存与外部侵略势力之间不可调和的激烈冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.40,
+          "explanation": "作品的深度在于情感和历史层面，对抽象哲学命题的探讨有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.15,
+          "explanation": "个人完全融入集体之中，作品歌颂的是集体英雄主义而非个人成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.95,
+          "explanation": "作品的核心精神是民族团结、万众一心，集体主义是其最根本的内涵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.30,
+          "explanation": "民族大家庭的概念有所体现，但并非基于血缘的核心家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.20,
+          "explanation": "战友和同志友谊隐含在集体斗争中，但不是主要刻画对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "作品中没有涉及个人化的爱情关系，主题是完全超越的爱国之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.85,
+          "explanation": "整个民族的命运被视为一个共同体的命运，社区、村落、全体人民构成命运共同体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.80,
+          "explanation": "民族与外敌之间存在你死我活的激烈竞争和对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.70,
+          "explanation": "作品大力宣扬“万众一心”，内部的团结协作是取得胜利的根本保障。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.65,
+          "explanation": "明确展现了压迫与反压迫、侵略与反抗的强弱权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.85,
+          "explanation": "作品深刻地关于民族认同和国家身份，明确地定义“我们是谁”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.80,
+          "explanation": "反抗侵略的最终目标就是争取民族的独立与自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.30,
+          "explanation": "现有的和平秩序已被打破，作品更多地是关于打破枷锁而非建立新秩序的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.35,
+          "explanation": "作品表达的是基于历史事实的情感和立场，而非对抽象真理的哲学探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.45,
+          "explanation": "虽具有感染力，但压倒性的功能是政治宣传和情感动员，审美价值在此处于从属地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.60,
+          "explanation": "重点描绘了抗争胜利这一宏大成就，是通过集体英雄主义实现的成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.70,
+          "explanation": "抗争的叙事明确建立在正义的立场上，反抗非正义的侵略是其道义基础。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.85,
+          "explanation": "作品隐含了对无数为民族解放而牺牲的先烈的歌颂，牺牲是主题的重要组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.15,
+          "explanation": "作品的方向是朝向外部世界的斗争，几乎没有涉及对内在自我的探究。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.60,
+          "explanation": "在音乐和文化上，它继承并转化了传统，同时也是一种新传统的确立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.50,
+          "explanation": "作品旨在推动民族命运的根本性转变，从被压迫变为解放，但其艺术形式并非旨在鼓励创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.75,
+          "explanation": "整个冲突的起点就是关乎民族存亡的生存危机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.70,
+          "explanation": "为民族斗争赋予了崇高的历史意义，赋予了个体生命在集体事业中的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "作品旨在巩固已有信念而非激发对未知的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.65,
+          "explanation": "作品本身就是一次艺术上的再创造，体现了基于传统创作新形式的努力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.30,
+          "explanation": "有战斗的历险感，但并非个人对未知世界的冒险探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.55,
+          "explanation": "慢速乐章提供了对历史和民族命运的沉思空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.85,
+          "explanation": "整部作品的核心行为驱动力是与敌对势力的殊死搏斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.75,
+          "explanation": "作品强烈地驱策听众进入一种集体性的、与他人共命运的社会化情感状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.70,
+          "explanation": "整齐的节奏、统一的步伐、集体行动的意志体现了高度的纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.60,
+          "explanation": "投身反抗本身就是一种巨大的冒险和牺牲行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "全曲充满动态和强力，没有提供平静或放松的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "音乐鼓励直面现实和抗争，与任何形式的逃避或超脱背道而驰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.40,
+          "explanation": "作为纯音乐作品，其视觉元素存在于听众的想象中，而非作品直接提供。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "管弦乐配器色彩丰富，但色调较为集中和统一，旨在突出力量感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.90,
+          "explanation": "钢琴与大型管弦乐队的合奏，加上打击乐的强力使用，创造出极高的声音强度和动态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.85,
+          "explanation": "强烈的节奏驱动力，特别是首尾乐章，提供了极高的节奏能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "成功营造出紧张、悲壮、宏大的历史战争氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "通过强大的音量动态和情感冲击力，能有效将听众包围在音乐所创造的世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.70,
+          "explanation": "全曲以快板乐章为主，整体速度偏快，充满动力。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.85,
+          "explanation": "从始至终维持着极高水平的情感张力和音乐能量。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众在钢琴协奏曲《黄河》中经历了一次从苦难压抑到激昂胜利的情感升华。作品以宏大的气势和强烈的戏剧冲突，唤起听众对民族历史的深沉追忆和对集体力量的崇敬，最终在辉煌的乐曲中感受到坚定的希望。这是一种具有高度动员性和感染力的群体情感体验。",
+        "structure_description": "作品采用典型的西方四乐章协奏曲结构，但通过标题音乐的方式组织叙事。各个乐章在速度和情感上形成对比，共同推进‘苦难-抗争-胜利’的线性叙事弧线，逻辑结构清晰严谨，使情感的发展具有必然性和说服力。",
+        "cognitive_expression": "作品鼓励一种集体主义的、目标导向的认知模式。听众被引导去理解和认同一个明确的民族叙事，强化对‘我们’和‘他们’的二元认知，并对历史事件的因果逻辑进行情感化理解。其信息处理需求侧重于宏大叙事的把握，而非对抽象概念的思辨。",
+        "behavioral_tendency_description": "作品鼓励集体行动、纪律、勇气和抗争精神。它唤起听众的团结意识和归属感，驱动一种为了集体目标愿意承受苦难和牺牲的行为倾向，与安逸、逃避或内省的行为模式完全相反。"
+      },
+      "personality_affinity": {
+        "Ni": 0.30,
+        "Ne": 0.15,
+        "Ti": 0.20,
+        "Te": 0.85,
+        "Fi": 0.25,
+        "Fe": 0.90,
+        "Si": 0.65,
+        "Se": 0.70,
+        "openness": 0.35,
+        "conscientiousness": 0.80,
+        "extraversion": 0.85,
+        "agreeableness": 0.40,
+        "neuroticism": 0.75,
+        "Assertive": 0.75,
+        "Turbulent": 0.60
+      },
+      "supporting_evidence": [
+        "全曲包括《黄河船夫曲》、《黄河颂》、《黄河愤》和《保卫黄河》四个标题乐章。",
+        "作品改编自冼星海1939年创作的《黄河大合唱》。",
+        "《黄河船夫曲》以急速的上下行音阶和有力的节奏描绘了船夫与风浪搏斗的场景。",
+        "《黄河颂》运用了悠长抒情的旋律，表达对民族悠久历史的赞颂。",
+        "《黄河愤》在音乐中引入了《满江红》的旋律素材来表现悲愤。",
+        "《保卫黄河》乐章采用了卡农和变奏手法，表现抗日力量的不断壮大。",
+        "结尾部分融合了《东方红》和《国际歌》的旋律动机。",
+        "作品将钢琴这一西方乐器与民族管弦乐队和民族音乐语汇相结合。",
+        "整部作品通过音乐描绘了中华民族从苦难到抗争直至胜利的历程。",
+        "作品在创作和首演时的政治目的是唤起民众的集体意识和战斗精神。",
+        "作品的声音动态范围极大，常使用乐队齐奏与打击乐来营造高潮。",
+        "它的篇幅宏大，四个乐章连续演奏，形成一个完整的叙事整体。",
+        "音乐中既有急促紧张的段落，也有缓慢深沉的部分。",
+        "整部作品始终围绕着黄河这一核心象征意象展开。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

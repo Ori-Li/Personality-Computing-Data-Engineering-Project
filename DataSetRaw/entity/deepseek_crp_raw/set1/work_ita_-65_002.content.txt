@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_ita_-65_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "诗艺",
+        "type": "LITERATURE",
+        "countryName": "ITA",
+        "year": -15,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "《诗艺》是古罗马诗人贺拉斯以诗体书信形式撰写的文学论著，系统阐述了诗歌创作的原则与技巧。全文以亲切的劝告口吻，探讨了题材选择、风格统一、人物塑造、语言运用等核心问题，提出了“寓教于乐”这一影响深远的古典诗学纲领。作品强调理性、合式与传统的结合，将艺术创作置于规则与天才、继承与创新的辩证关系之中，为后世古典主义文论奠定了基础框架。",
+        "themes": [
+          "艺术创作",
+          "文学理论",
+          "传统与创新",
+          "理性与天才",
+          "寓教于乐",
+          "规则与自由",
+          "风格与统一",
+          "批评与鉴赏"
+        ],
+        "keywords": [
+          "贺拉斯",
+          "诗体书信",
+          "寓教于乐",
+          "合式原则",
+          "古典诗学",
+          "罗马文学",
+          "创作法则",
+          "文学批评",
+          "理性主义",
+          "文艺复兴"
+        ],
+        "core_experience": "读者在阅读中体验到一种理性与优雅并存的审美教导过程，仿佛聆听一位经验丰富的前辈娓娓道来创作的真谛。作品不提供情节冲突，而以清晰的逻辑和精炼的诗句引导读者思考艺术的内在规律，形成一种智性满足与审美愉悦交织的深层阅读体验。",
+        "experience_introduction": "《诗艺》通过书信体的亲切形式和诗体语言的韵律美感，将抽象的文学理论转化为可感知的艺术经验。贺拉斯以比喻、例证和格言交织的论述方式，使读者在追随其理性分析的同时，不断获得对创作本质的领悟。这种将教导融于美感之中的手法，正是其核心观点“寓教于乐”的实践示范，营造出一种智识探索与审美享受并行的独特阅读体验。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.1,
+        "awe": 0.3,
+        "nostalgia": 0.25,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.1,
+        "warmth": 0.35,
+        "loneliness": 0.15,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.55,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.8,
+          "novelty": 0.7,
+          "exploration": 0.4,
+          "ambiguity": 0.35,
+          "predictability": 0.3,
+          "information_density": 0.85,
+          "learning_value": 0.9
+        },
+        "worldview": {
+          "personal_scale": 0.5,
+          "relationship_scale": 0.3,
+          "social_scale": 0.6,
+          "civilization_scale": 0.25,
+          "cosmic_scale": 0.1,
+          "time_span": 0.2,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.1,
+          "loneliness": 0.15,
+          "warmth": 0.35,
+          "fear": 0.05,
+          "tension": 0.1,
+          "awe": 0.3,
+          "nostalgia": 0.25,
+          "hope": 0.2,
+          "melancholy": 0.2,
+          "anger": 0.05,
+          "peace": 0.6
+        },
+        "aesthetic": {
+          "beauty": 0.75,
+          "minimalism": 0.55,
+          "luxury": 0.2,
+          "darkness": 0.05,
+          "brightness": 0.55,
+          "dreamlike": 0.1,
+          "mystery": 0.15,
+          "experimental": 0.3,
+          "classical": 0.9,
+          "modern": 0.05
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.15,
+          "character_growth": 0.05,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.45,
+          "action_intensity": 0.0,
+          "conflict_intensity": 0.2,
+          "philosophical_depth": 0.88
+        },
+        "social_relationship": {
+          "individualism": 0.55,
+          "collectivism": 0.35,
+          "family": 0.1,
+          "friendship": 0.25,
+          "love": 0.05,
+          "community": 0.4,
+          "competition": 0.3,
+          "cooperation": 0.45,
+          "power_relationship": 0.2,
+          "identity": 0.35
+        },
+        "value": {
+          "freedom": 0.4,
+          "order": 0.8,
+          "truth": 0.75,
+          "beauty": 0.85,
+          "achievement": 0.55,
+          "justice": 0.2,
+          "sacrifice": 0.1,
+          "self_exploration": 0.35,
+          "tradition": 0.78,
+          "change": 0.3,
+          "survival": 0.1,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.82,
+          "adventure": 0.1,
+          "reflection": 0.9,
+          "competition": 0.25,
+          "social": 0.3,
+          "discipline": 0.75,
+          "risk": 0.15,
+          "calm": 0.7,
+          "escape": 0.05
+        },
+        "sensory": {
+          "visual_intensity": 0.2,
+          "color_richness": 0.25,
+          "sound_intensity": 0.35,
+          "rhythm_energy": 0.5,
+          "atmosphere": 0.55,
+          "immersion": 0.4
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.85,
+          "language_artistry": 0.88,
+          "symbolism": 0.45,
+          "rhetorical_complexity": 0.7,
+          "intellectual_depth": 0.9,
+          "cultural_depth": 0.78,
+          "knowledge_density": 0.88,
+          "interpretation_openness": 0.55
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "以理性论述为主，不依赖情绪感染力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "作品关注创作法则而非情感修复。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.3,
+          "explanation": "对古典智慧的敬畏感，但并非主要目标。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "对古典传统的回顾带有一定怀旧意味。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "核心体验是激发对艺术规律的深层思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "无爱情主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.1,
+          "explanation": "无戏剧性冲突或悬念。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.35,
+          "explanation": "书信式劝告带有温和亲切感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "非孤独主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "对艺术传承有所期许，但不属核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "论述涉及概括性诗学概念，从具体作品上升到普遍法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.55,
+          "explanation": "观点丰富但结构清晰，不刻意制造谜题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "对创作本质的追问贯穿全文，具有持久思想价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.8,
+          "explanation": "从题材到风格再到诗人修养，层层递进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.7,
+          "explanation": "以诗论诗的形式本身在古典时代是创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.4,
+          "explanation": "引导读者探索创作规律，而非未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.35,
+          "explanation": "观点鲜明，不追求模棱两可。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.3,
+          "explanation": "论述结构可预期，但洞见时有意外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.85,
+          "explanation": "精炼诗行承载大量创作理念和批评标准。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.9,
+          "explanation": "经典文论，具有持久的学习和参考价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.5,
+          "explanation": "以个人书信为框架，但指向普遍规律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.3,
+          "explanation": "涉及师徒、诗人与批评家等关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.6,
+          "explanation": "将诗歌置于社会教化功能中考察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.25,
+          "explanation": "涉及希腊与罗马的文化传承，但未深入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "不涉及宇宙尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "关注古典传统，时间维度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "完全的写实和理性论述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "非快乐主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "无悲伤元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.15,
+          "explanation": "非孤独主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "劝告语气温和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "无恐惧元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.1,
+          "explanation": "无情节性紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.3,
+          "explanation": "对古典典范有所敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.25,
+          "explanation": "对希腊传统的回顾中略带怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "对艺术后继者抱有期望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.2,
+          "explanation": "隐含对艺术衰落的忧虑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "批评同代人时带有轻微嗔怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.6,
+          "explanation": "理性论述带来平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.75,
+          "explanation": "诗体形式的优雅是追求的目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "语言精炼，拒绝赘余。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.2,
+          "explanation": "不追求华丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.05,
+          "explanation": "非黑暗风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "理性带来的清晰感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.1,
+          "explanation": "完全理性，不追求梦幻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "不刻意制造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.3,
+          "explanation": "以书札论诗的形式在当时具备实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.9,
+          "explanation": "核心是倡导古典主义的均衡与理性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.05,
+          "explanation": "非现代风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "无情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "非叙事作品，无人格深度描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "无人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "无世界构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "采用随意所至的漫谈结构，有一定跳跃性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.45,
+          "explanation": "需要静心慢读，沉浸于理性推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.0,
+          "explanation": "完全无动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.2,
+          "explanation": "存在意见分歧和批评，但意不在冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "关于艺术规律的本质性探讨是作品的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.55,
+          "explanation": "注重诗人个人修养与判断力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.35,
+          "explanation": "将艺术置于城邦教化背景中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.1,
+          "explanation": "无家庭主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.25,
+          "explanation": "书信体暗示写作对象是友人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "无爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.4,
+          "explanation": "关注诗人共同体和公众。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.3,
+          "explanation": "隐含对同代诗人的较量与批评。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.45,
+          "explanation": "倡导向前辈学习、向公众汲取智慧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.2,
+          "explanation": "涉及赞助人和批评家，但非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.35,
+          "explanation": "探讨诗人身份及其社会责任。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.4,
+          "explanation": "在规律范围内允许天才的自由发挥。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.8,
+          "explanation": "核心价值，强调创作须遵循法则与规范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.75,
+          "explanation": "强调真实性和对生活的模仿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.85,
+          "explanation": "艺术的首要追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "追求经典地位的达成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.2,
+          "explanation": "非核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.1,
+          "explanation": "无牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.35,
+          "explanation": "引导诗人内省自身修养。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.78,
+          "explanation": "坚定维护古希腊文学典范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "在继承基础上适度创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.1,
+          "explanation": "无生存主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "追问艺术创作的根本意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "激发对创作原理的探究。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.82,
+          "explanation": "终极目标是指向更优的创作实践。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "无冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "通篇都在引发对艺术与规则的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.25,
+          "explanation": "隐含着文学领域的竞技。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.3,
+          "explanation": "引导诗人与公众交流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.75,
+          "explanation": "强调长期艰苦的训练和反复修改。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "不鼓励冒险创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.7,
+          "explanation": "冷静克制是理想的创作状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.05,
+          "explanation": "不指向逃避现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.2,
+          "explanation": "来自文字，非视觉艺术。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "文学性色彩，非视觉色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.35,
+          "explanation": "依赖诗行的音韵节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.5,
+          "explanation": "六音步诗行自带律动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.55,
+          "explanation": "营造出理性而优雅的沉思氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.4,
+          "explanation": "需要较高专注度才能沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.85,
+          "explanation": "诗体书简的形式极为考究，风格独特。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.88,
+          "explanation": "语言精炼优美，充满了精警的格言。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.45,
+          "explanation": "以具体比喻传达抽象概念，但非核心手法。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.7,
+          "explanation": "比喻、设问、反语等修辞手法运用纯熟。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.9,
+          "explanation": "深刻探讨了文学的本质和功能。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.78,
+          "explanation": "体现了罗马黄金时代的文化价值观。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.88,
+          "explanation": "文论观点高度浓缩在诗句中。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.55,
+          "explanation": "观点明确，留给后人的诠释空间相对适中。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者在阅读过程中体验到高度理性与审美的结合。作品通过严密的逻辑递进和格言式的表达，引发持续的智性反思与审美共鸣。",
+        "structure_description": "采用松散的漫谈结构，从一个主题自然地过渡到另一个，就像友人间深入的艺谈。诗体形式赋予论述强烈的韵律感，使得抽象的理论变得可感知。",
+        "cognitive_expression": "高度依赖读者的抽象思维和逻辑推理能力。读者需要理解概括性的概念，并能体会语言文字背后的微言大义与审美准则。",
+        "behavioral_tendency_description": "鼓励反思性学习、有节制的创新以及长期自律的创作实践。读者被导向沉思、比较和内化艺术法则，而非冲动反应。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.35,
+        "Ti": 0.82,
+        "Te": 0.65,
+        "Fi": 0.35,
+        "Fe": 0.25,
+        "Si": 0.7,
+        "Se": 0.1,
+        "openness": 0.6,
+        "conscientiousness": 0.85,
+        "extraversion": 0.2,
+        "agreeableness": 0.55,
+        "neuroticism": 0.2,
+        "Assertive": 0.7,
+        "Turbulent": 0.3
+      },
+      "supporting_evidence": [
+        "全文以书信体劝告的形式探讨诗歌的创作经验。",
+        "提出了“诗如画”的概念，强调不同体裁的审美共通性。",
+        "主张创作应当在继承希腊传统的基础上进行有节制的创新。",
+        "反对粗制滥造，极力劝导作者反复修改直至完美。",
+        "确立了“合式”的原则，要求题材与形式风格相匹配。",
+        "提出“寓教于乐”的著名观点，强调诗的社会功能与娱乐性统一。",
+        "通过比喻和例证解释抽象的诗学原理。",
+        "议论中穿插了大量对当时罗马文坛风气的直接批评。",
+        "强调理性、判断力和生活经验对创作的重要性。",
+        "作品全篇采用六音步诗行写成，兼具理论与艺术价值。",
+        "认为诗人的天才必须辅以后天的严格训练。",
+        "论述涵盖了题材选择、语言运用、人物塑造与情节安排。",
+        "将艺术创作置于公众接受和社会教化的背景中。",
+        "通过对前人作品的评析来树立创作典范。",
+        "倡导艺术模仿自然和现实生活的古典原则。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

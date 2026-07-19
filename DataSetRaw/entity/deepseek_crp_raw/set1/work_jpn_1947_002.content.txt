@@ -1,0 +1,734 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "菊次郎的夏天",
+        "type": "MOVIE",
+        "countryName": "日本",
+        "year": 1999,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.9,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "影片讲述了游手好闲的中年大叔菊次郎受妻子之托，陪伴邻居孤独的小学生正男踏上寻找母亲的夏日之旅。一路上，二人遭遇各种古怪又善良的人物，在充满童趣和荒唐的事件中，从陌生走向一种亦父亦友的深厚情感联结，最终寻母未果但收获了超越血缘的温暖。",
+        "themes": [
+          "成长",
+          "陪伴",
+          "孤独",
+          "亲情",
+          "夏日",
+          "治愈",
+          "寻找",
+          "善良"
+        ],
+        "keywords": [
+          "菊次郎",
+          "正男",
+          "寻母之旅",
+          "夏日公路",
+          "久石让配乐",
+          "童趣",
+          "北野武",
+          "日本乡村",
+          "流氓大叔",
+          "温柔暴力"
+        ],
+        "core_experience": "观众在夏日的乡间公路旅程中，跟随一个不靠谱大叔和一个孤独男孩经历幼稚、荒唐又温情的互动，在哭笑不得中感受到一种野性却笨拙的善良，最终在充满阳光与蝉鸣的悠闲节奏中体会到心灵被悄然治愈的温暖与感动。"
+      },
+      "experience_vector": {
+        "passion": 0.8,
+        "healing": 0.3,
+        "awe": 0.1,
+        "nostalgia": 0.4,
+        "reflection": 0.3,
+        "romance": 0.05,
+        "tension": 0.1,
+        "warmth": 0.7,
+        "loneliness": 0.25,
+        "hope": 0.5
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.2,
+          "complexity": 0.2,
+          "depth_of_thought": 0.3,
+          "logical_structure": 0.15,
+          "novelty": 0.3,
+          "exploration": 0.5,
+          "ambiguity": 0.2,
+          "predictability": 0.65,
+          "information_density": 0.3,
+          "learning_value": 0.3
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.85,
+          "social_scale": 0.4,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.05,
+          "time_span": 0.2,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.65,
+          "sadness": 0.25,
+          "loneliness": 0.3,
+          "warmth": 0.85,
+          "fear": 0.05,
+          "tension": 0.1,
+          "awe": 0.1,
+          "nostalgia": 0.45,
+          "hope": 0.5,
+          "melancholy": 0.35,
+          "anger": 0.05,
+          "peace": 0.55
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.65,
+          "luxury": 0.05,
+          "darkness": 0.1,
+          "brightness": 0.8,
+          "dreamlike": 0.2,
+          "mystery": 0.1,
+          "experimental": 0.2,
+          "classical": 0.3,
+          "modern": 0.7
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.6,
+          "character_growth": 0.45,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.75,
+          "action_intensity": 0.15,
+          "conflict_intensity": 0.2,
+          "philosophical_depth": 0.2
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.3,
+          "family": 0.65,
+          "friendship": 0.75,
+          "love": 0.2,
+          "community": 0.45,
+          "competition": 0.1,
+          "cooperation": 0.7,
+          "power_relationship": 0.15,
+          "identity": 0.4
+        },
+        "value": {
+          "freedom": 0.55,
+          "order": 0.25,
+          "truth": 0.3,
+          "beauty": 0.5,
+          "achievement": 0.1,
+          "justice": 0.25,
+          "sacrifice": 0.35,
+          "self_exploration": 0.55,
+          "tradition": 0.4,
+          "change": 0.4,
+          "survival": 0.2,
+          "meaning": 0.5
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.25,
+          "adventure": 0.7,
+          "reflection": 0.35,
+          "competition": 0.1,
+          "social": 0.7,
+          "discipline": 0.1,
+          "risk": 0.45,
+          "calm": 0.4,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.7,
+          "sound_intensity": 0.8,
+          "rhythm_energy": 0.65,
+          "atmosphere": 0.85,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.35,
+          "visual_storytelling": 0.7,
+          "soundtrack_importance": 0.95,
+          "actor_expression": 0.75,
+          "director_style": 0.8
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.8,
+          "explanation": "菊次郎以极高热情主导整个旅程，行为夸张幽默，传递出强烈的生命力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.3,
+          "explanation": "旅途中虽有温情时刻，但整体氛围更偏向野性童趣而非安静疗愈。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.1,
+          "explanation": "电影关注的是日常人际互动，不追求宏大的视觉奇观或令人敬畏的自然景象。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.4,
+          "explanation": "夏日景观、乡土人情和久石让的音乐唤起淡淡的怀旧感，但并非核心情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.3,
+          "explanation": "情节简单直白，意在感动观众，而非引发深层次的理性反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "影片围绕亲情和友情，完全没有爱情叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.1,
+          "explanation": "冲突多为浅层的喜剧性矛盾，缺少悬疑或强烈的情节张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.7,
+          "explanation": "旅途中各种底层人物对正男表现出的笨拙善意，汇聚成电影的核心暖意。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.25,
+          "explanation": "正男初始的孤独感和菊次郎中年的落寞只是背景，很快被旅途的陪伴冲淡。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.5,
+          "explanation": "寻母失败后，天使铃铛和夏日营地游戏象征了希望的重塑，但并非结局的主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.2,
+          "explanation": "叙事非常具象，围绕寻母和旅途中发生的具体事件展开，几乎没有抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.2,
+          "explanation": "故事结构是线性的公路片，人物关系简单明了，没有复杂的多线叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.3,
+          "explanation": "虽然触及孤独成长等主题，但表达方式外显情感而非内在哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "剧情依靠巧合和随性的遭遇推进，不依赖严密的因果逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.3,
+          "explanation": "北野武的冷面幽默和温情结合在当时具有一定新意，但故事内核是经典类型的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.5,
+          "explanation": "公路旅行和沿途偶遇是对未知地理和社会关系的一种轻度探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.2,
+          "explanation": "人物动机和情节发展非常清晰直接，不存在多义性解读供观众揣测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.65,
+          "explanation": "故事走向符合观众对治愈片的一般预期，寻母结果也可预见，结局温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "场景和对话注重营造氛围与幽默，而非传递密集的知识性或社会性信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.3,
+          "explanation": "观众获得的更多是情感上的触动和人际感悟，而非事实性或技能性知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "镜头死死聚焦在菊次郎和正男两人的旅程及其内心世界，个人经历是绝对的叙事中心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "旅途中与各种陌生人建立的短暂、奇异又温情的关系是驱动故事发展的关键。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.4,
+          "explanation": "电影展现了日本边缘化的底层社会风貌，但这种社会性只是背景衬托。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "不涉及对历史、文化或文明的宏大叙事和探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "世界观完全限制在现实的、世俗的人间，没有宇宙或超自然视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "故事集中发生在一个短暂的夏季，虽然涉及一点记忆，但时间跨度和历史纵深极小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "电影是纯现实主义的，只在孩童天使之梦和结尾游戏中有极微弱的幻想色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.65,
+          "explanation": "大量幽默、游戏和善意互动构成贯穿全片的快乐基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.25,
+          "explanation": "故事背景、寻母失败和人物的孤独感带来淡淡的忧伤，但不是主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "二人初始的疏离和各自的孤寂感是情感纽带形成的起点，很快被消解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.85,
+          "explanation": "旅途中所有人（包括混混、旅人）流露的温暖善意，是电影最核心的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "情节以喜剧和温情为主，几乎没有制造任何恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.1,
+          "explanation": "矛盾多通过轻松、幽默甚至暴力的荒诞形式化解，不制造心理紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "电影追求的是情感共鸣而不是视听上的震撼或令人敬畏的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "成人的笨拙游戏与夏日风景，在不经意间激发了观众对自己童年和旧时光的追忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.5,
+          "explanation": "正男的忧郁被治愈，菊次郎的善良被激活，影片结尾传递出明确的、面向未来的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.35,
+          "explanation": "寻母未果的失落、成人世界的无奈与远去的夏天交织成一股纤细的愁绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "片中虽有轻微暴力，但都以喜剧形式呈现，不激发真正的愤怒感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.55,
+          "explanation": "夏日的蝉鸣、慢节奏的乡村旅行和治愈的结局共同营造出内心的平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "北野武以干净的镜头呈现了日本夏日乡间的自然之美，视觉上令人愉悦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "叙事节奏缓慢，镜头语言精炼，构图简洁，北野武的冷调风格贯彻全片。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "场景聚焦于乡村和底层社会，没有任何奢华或华丽的视觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.1,
+          "explanation": "电影整体色调明亮温暖，没有阴郁或极度暗黑的美学表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.8,
+          "explanation": "夏日的强烈阳光、翠绿的田园和明亮的色调是影片最显著的视觉特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.2,
+          "explanation": "除了少数梦境的超现实外，整体风格扎根于现实，真实感很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.1,
+          "explanation": "情节和主题十分直白，没有设计悬疑或神秘的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "作为北野武风格的温情版转折有一定实验性，但电影语言本身是传统叙事的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.3,
+          "explanation": "虽有一定经典公路片和默片喜剧元素，但整体审美是现代电影的范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.7,
+          "explanation": "20世纪末的日本背景，现代的叙事和拍摄手法，使其具有清晰的现代电影感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "剧情是简单的线性公路片模式，没有复杂的支线和情节反转。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.6,
+          "explanation": "通过细节和行为展现了菊次郎的幼稚、善良与过往伤痛，人物塑造有层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.45,
+          "explanation": "正男从沮丧中走出，菊次郎也在照顾他人中完成了对自己童年缺失的某种弥补。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "故事背景就是普通日本乡村和城镇，没有构建任何虚构或特殊的世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "偶有个别闪回或梦境镜头，但整体叙事基本上是严格按时间顺序进行的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.75,
+          "explanation": "弱化情节冲突，用大量篇幅描绘走路、游戏、等待和夏日风景，节奏舒缓沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.15,
+          "explanation": "仅有少量喜剧化的打斗或冲突，没有高强度的动作场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.2,
+          "explanation": "主要冲突（寻母、童年创伤）被轻量化处理，以温情化解为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.2,
+          "explanation": "主题是关于陪伴和善良，表达通俗易懂，不进行深刻的哲学辩论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.6,
+          "explanation": "核心是菊次郎个人化的、非社会规范的解决方式，强调个人情感和独特经历。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.3,
+          "explanation": "片中展现了和谐的社群互助，但叙事重心是个体间的私人联结而非集体价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.65,
+          "explanation": "整个旅程是对缺失的母爱的寻找，并最终建立了一种类父子的替代亲情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.75,
+          "explanation": "菊次郎与正男，以及与旅行作家、摩托兄弟等建立的伙伴情谊是旅途的主干。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.2,
+          "explanation": "不包含浪漫爱情元素，情感联结全都是以亲情和友情的形式体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.45,
+          "explanation": "路遇的各色人等组成一个临时性的、善良的流浪者社群来帮助正男。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.1,
+          "explanation": "人物关系是合作和陪伴，不存在任何资源或地位的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.7,
+          "explanation": "所有角色自发地聚在一起玩耍、野营、想办法逗乐正男，合作是核心互动模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.15,
+          "explanation": "成人与孩子之间虽是照顾关系，但更偏向平等的玩伴，权力结构很弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.4,
+          "explanation": "正男在寻找母亲的过程中探寻自我身份，菊次郎也在回顾自己的童年，但挖掘不深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.55,
+          "explanation": "无拘无束的公路旅行、蔑视成人社会规则的菊次郎，传递出一种向往自由的精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "角色行为常常逾越秩序和规则，不强调遵守社会规范的重要性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.3,
+          "explanation": "存在善意谎言（如天使铃铛），影片强调善意的慰藉胜过揭示残酷真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.5,
+          "explanation": "影片相当注重用视听语言（夏日景色、久石让配乐）来呈现一种静谧、温柔的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "旅程没有预设的外部成就目标，寻母本身也失败了，内省成长比成功更重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "片中有轻微的打抱不平的桥段，但“正义”并非探讨的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.35,
+          "explanation": "菊次郎用自己不靠谱的方式为正男付出，其他路人也投入时间和情感，有轻度牺牲色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "旅程不仅是寻找母亲，更是两个主角发现自己内心情感和需求的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.4,
+          "explanation": "展现了日本夏祭、乡土人情等传统风貌，但不是要宣扬或拥护传统价值观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "寻母之旅本身就是打破日常生活、寻求改变的行为，并最终带来了人物内心的变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.2,
+          "explanation": "旅途中有小波折，但没有严峻的生存危机，生命安全不是主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.5,
+          "explanation": "影片通过旅行和建立起的羁绊，回答了如何面对孤独和失落，赋予生活一种温暖的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "正男的旅途是对未知世界的好奇探索，整个故事的动力部分来源于对“母亲在哪里”的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "旅途的终点营地里大家发明了各种搞怪游戏，体现了微弱的无目的创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.7,
+          "explanation": "两个主角搭车旅行的过程充满了未知和随机事件，是一场纯粹的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.35,
+          "explanation": "电影鼓励观众感知情绪，但并不强迫角色或观众进行理性的复盘或思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "没有竞争性活动的描写，唯一“比赛”是营地里的嬉戏游戏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.7,
+          "explanation": "旅程成功的关键就是与形形色色的陌生人建立超越常规的社交联系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "故事展现了无序、随性和反叛成人世界的戒律，与自律截然相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.45,
+          "explanation": "菊次郎的胡闹行为，如偷玉米、强搭车、打架，充满了不计后果的风险性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.4,
+          "explanation": "北野武画作式的静态镜头和久石让的音乐为故事注入了平和镇定的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "旅行并非消极逃避，而是积极地出发寻找，面向外部世界而非遁世。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "精心构图和色彩搭配（北野蓝与夏日绿）创造了非常强的视觉感染力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.7,
+          "explanation": "运用了饱和度较高且对比鲜明的色彩来描绘夏天的生机勃勃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.8,
+          "explanation": "久石让的配乐贯穿全片，在关键情节中对情绪的放大作用极为显著，存在感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.65,
+          "explanation": "《Summer》主题曲有鲜明的跳跃感和生命力，整体节奏在舒缓中蕴含动感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "电影成功营造了无与伦比的夏日氛围，蝉鸣、汗水、绿荫和阳光感包裹着整个观影过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "慢节奏、强氛围、优美的视听语言，容易让观众沉浸在这段夏日旅途之中。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.35,
+          "explanation": "场景和叙事都聚焦于小人物，没有宏大场面，视听规模感不强。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.7,
+          "explanation": "大量叙事依靠角色的肢体表演和表情，以及长镜头下的景物描绘而非台词。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.95,
+          "explanation": "久石让的配乐是电影不可分割的灵魂，如果没有它，影片的情感表达将大打折扣。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.75,
+          "explanation": "北野武的面瘫式表演与其他角色夸张的喜剧化演绎，共同构成了影片的核心表现力。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.8,
+          "explanation": "影片充满了北野武标志性的冷幽默、静态镜头、突然的暴力玩笑和极简主义美学特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在观影过程中，首先会被北野武式的冷面滑稽和旅途中的荒唐事件逗乐，情绪轻松明快。随着旅程深入，寻母线索带来的淡淡忧郁和菊次郎偶尔流露的孤独，为欢乐注入了复杂的情感层次，让观者的心从单纯的欢笑转为一种带有关怀的柔软。在寻母失败的巨大失落之后，结尾营地的嬉戏和久石让音乐的重现，最终将情绪推向了混合着泪、笑与温情的治愈高峰。",
+        "structure_description": "电影采用经典的公路片结构，以寻母为明线，以两个孤独灵魂的相互救赎为暗线。叙事主要由一系列松散的偶遇事件串联而成，这种结构减轻了剧情的戏剧张力，转而强调情境和人物状态。影片节奏如同夏日午后的时光，大部分时间缓慢悠闲，穿插着短促的、喜剧化的突发冲突，形成独特的韵律感。",
+        "cognitive_expression": "作品鼓励观众进行具象的、情感化的认知。由于情节线性且简单，观众无需进行复杂的逻辑推理或抽象思考，认知资源主要用于识别人物细腻的情绪变化和理解非语言的肢体幽默。电影的留白和北野武式的冷淡表情，反而激发了观众主动去补全角色内心活动，在低信息密度的叙事中填充情感。",
+        "behavioral_tendency_description": "电影高度赞赏一种非功利、野性、但又极为善良的行为模式。它鼓励抛开社会规范的束缚，用最纯真的游戏之心去面对生活，并强调用具体的行动而非言语去关怀他人。整个故事传达出，走出去、去冒险、与陌生人建立联系的即兴社交，往往能带来意想不到的治愈。"
+      },
+      "personality_affinity": {
+        "Ni": 0.2,
+        "Ne": 0.45,
+        "Ti": 0.15,
+        "Te": 0.1,
+        "Fi": 0.65,
+        "Fe": 0.7,
+        "Si": 0.55,
+        "Se": 0.65,
+        "openness": 0.55,
+        "conscientiousness": 0.15,
+        "extraversion": 0.5,
+        "agreeableness": 0.7,
+        "neuroticism": 0.25,
+        "Assertive": 0.6,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "一位不务正业的中年男子受妻子之托，陪伴邻居男孩踏上寻找母亲的夏日旅途。",
+        "旅途中，主角用偷来的玉米换车、用钉子扎路人和假装盲人等荒诞方式解决问题。",
+        "在庙会上，主角用暴力手段为男孩抢回被混混骗走的钱，展现出一种不讲规则的正义感。",
+        "男孩发现母亲已经组建新家庭并遗忘了自己，远远看着却无法相认。",
+        "主角用“天使的铃铛”来安慰失落的男孩，告诉他摇一下铃铛，天使就会出现。",
+        "旅途中遇到的旅行作家、光头的和胖的摩托兄弟，最终都聚集在河滩边陪男孩玩各种幼稚游戏。",
+        "主角曾独自前往养老院探望自己的母亲，只是在远处看了看，没有上前相认。",
+        "在几乎静止的远景镜头中，主角和男孩站在海边，没有对话，只是并排站立。",
+        "影片运用大量长镜头展示乡村公路、向日葵田、稻田和夏日的蓝天白云。",
+        "久石让创作的轻快主旋律在主角奔跑、嬉闹和旅途关键转折点反复响起。",
+        "主角大部分时间表情冷漠、寡言少语，但行为却出人意料地天真和热情。",
+        "一群成年男人在野营地里玩木头人、荡秋千和一、二、三木头人等儿时游戏。",
+        "大量叙事段落没有对白，仅依靠角色的身体动作和自然音效（蝉鸣、水声）来推进情绪。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

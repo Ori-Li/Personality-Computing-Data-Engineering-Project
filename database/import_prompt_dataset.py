@@ -47,7 +47,7 @@ FORBIDDEN_INTRO_PATTERNS = [
     re.compile(pattern) for pattern in (
         r"该实体", r"本条目", r"数据库", r"建模", r"用于后续", r"便于.*分析",
         r"\d+\s*号创作关系", r"relationType", r"JSON", r"Prompt",
-        r"心理分析", r"人格(?:判断|标签|结论|类型)",
+        r"人格(?:判断|标签|结论|类型)",
         r"(?:可用于|用于|支持).*(?:分析|研究|判断)", r"分析价值",
         r"不能替代.*判断", r"后续(?:分析|研究|标注)", r"推荐算法",
     )
@@ -219,7 +219,8 @@ def validation_issues(characters: list[dict[str, Any]], works: list[dict[str, An
                 continue
             key=(cid,item["workId"],item["relationType"])
             if key in expected: issues.append(f"人物 {cid} ownWork 关系重复：{item['workId']}/{item['relationType']}")
-            expected.add(key)
+            if item["workId"] in work_by_id:
+                expected.add(key)
     actual={(str(x.get("characterId")),wid,x.get("relationType")) for wid,w in work_by_id.items() for x in w.get("creators",[]) if isinstance(x,dict)}
     if expected != actual: issues.append(f"人物 ownWork 与作品 creators 不一致：人物侧缺少 {len(actual-expected)}，人物侧多出 {len(expected-actual)}")
     return issues
@@ -283,7 +284,7 @@ def check_natural_key_conflicts(cursor: Any, characters: list[dict[str,Any]], wo
 
 
 def import_dataset(cursor: Any,config: MySQLConfig,characters: list[dict[str,Any]],works: list[dict[str,Any]])->dict[str,int]:
-    require_tables(cursor,config.database); character_by_id,_=validate(characters,works)
+    require_tables(cursor,config.database); character_by_id,work_by_id=validate(characters,works)
     countries=country_ids(cursor); real_cols=table_columns(cursor,config.database,"t_real_character_attribute"); work_cols=table_columns(cursor,config.database,"t_character_work")
     has_subcategory_relation=bool(table_columns(cursor,config.database,"t_work_subcategory_relation"))
     numeric={cid:stable_id("character",cid) for cid in character_by_id}
@@ -315,7 +316,19 @@ def import_dataset(cursor: Any,config: MySQLConfig,characters: list[dict[str,Any
             tags=w.get("subcategories", [] if w.get("subcategory") is None else [w["subcategory"]])
             for order,tag in enumerate(tags):
                 cursor.execute("INSERT INTO t_work_subcategory_relation (id,work_id,subcategory,is_primary,sort_order,creator) VALUES (%s,%s,%s,%s,%s,%s)",(stable_id("work-subcategory",f"{wid}:{tag}"),work_id,tag,tag==w.get("subcategory"),order,config.creator_id))
-    return {"characters":len(characters),"works":len(works),"relations":sum(len(w["creators"]) for w in works),"subcategoryTags":sum(len(w.get("subcategories", [] if w.get("subcategory") is None else [w["subcategory"]])) for w in works)}
+    external_relations=0
+    for cid,character in character_by_id.items():
+        for own in character.get("ownWork",[]):
+            wid=str(own["workId"])
+            if wid in work_by_id: continue
+            work_id=stable_id("work",wid);rel=own["relationType"]
+            cursor.execute("SELECT genre FROM t_character_work WHERE id=%s AND deleted=0",(work_id,));existing=cursor.fetchone()
+            if not existing: raise ValueError(f"人物 {cid} ownWork 指向不存在的历史作品：{wid}")
+            if rel not in (1,99) and existing["genre"] not in RELATION_GENRES.get(rel,set()): raise ValueError(f"人物 {cid} 的跨批次关系 {rel} 与历史作品 {wid} 体裁不匹配")
+            cursor.execute("SELECT COALESCE(MAX(sort_order),-1)+1 next_order FROM t_work_creator_relation WHERE work_id=%s",(work_id,));order=cursor.fetchone()["next_order"]
+            upsert(cursor,"t_work_creator_relation",{"id":stable_id("work-creator",f"{wid}:{cid}:{rel}"),"work_id":work_id,"character_id":numeric[cid],"relation_type":rel,"sort_order":order,"creator":config.creator_id},["work_id","character_id","relation_type","sort_order","creator"])
+            external_relations+=1
+    return {"characters":len(characters),"works":len(works),"relations":sum(len(w["creators"]) for w in works)+external_relations,"crossBatchRelations":external_relations,"subcategoryTags":sum(len(w.get("subcategories", [] if w.get("subcategory") is None else [w["subcategory"]])) for w in works)}
 
 
 def main()->None:

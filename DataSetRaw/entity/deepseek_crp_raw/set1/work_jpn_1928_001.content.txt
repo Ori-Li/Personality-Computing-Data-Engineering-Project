@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1928_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "出云大社厅",
+        "type": "ARCHITECTURE",
+        "countryName": "日本",
+        "year": 1963,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.78,
+        "primaryMediaType": "ARCHITECTURE"
+      },
+      "semantic": {
+        "summary": "出云大社厅是菊竹清训于1963年设计的行政与集会建筑，位于日本岛根县出云大社境内。作品以巨大的混凝土悬挑屋顶和粗犷的材质表现为核心特征，将日本传统神社建筑的木构比例与代谢派强调的工业化构造美学融为一体。建筑通过强烈的水平线条、深远的挑檐和结构外露的混凝土构件，创造出一种兼具神圣感与现代性的空间氛围，是菊竹早期探索日本现代建筑可能性的代表作。",
+        "themes": [
+          "传统与现代的融合",
+          "神圣与世俗的交汇",
+          "结构的表现力",
+          "现代性",
+          "仪式感",
+          "自然与人工",
+          "场所精神"
+        ],
+        "keywords": [
+          "菊竹清训",
+          "出云大社",
+          "代谢派",
+          "混凝土",
+          "悬挑屋顶",
+          "神社建筑",
+          "粗犷主义",
+          "现代主义",
+          "日本建筑",
+          "结构表现",
+          "水平性",
+          "传统比例"
+        ],
+        "core_experience": "在粗犷沉重的混凝土体量下，感受由深远挑檐和水平线条所界定的庇护性空间。传统神社的仪式感被转化为现代材料的结构表达，使人在粗粝质感与精致比例之间体验到一种肃穆而开放的张力。",
+        "experience_introduction": "出云大社厅通过将传统神社建筑的比例逻辑移植到粗犷的混凝土结构之中，使访客在步入建筑时首先感受到巨大的悬挑屋顶所带来的庇护感与压迫感并存的体验。深远的挑檐既延续了日本传统建筑与自然过渡的空间关系，又因其厚重的混凝土质感而强化了建筑的纪念性。建筑内部与外部的界限被模糊，结构构件直接暴露，使观者的注意力不断在传统意象与现代构造之间切换，最终形成一种既熟悉又陌生的精神性空间体验。"
+      },
+      "experience_vector": {
+        "passion": 0.32,
+        "healing": 0.38,
+        "awe": 0.72,
+        "nostalgia": 0.48,
+        "reflection": 0.65,
+        "romance": 0.15,
+        "tension": 0.56,
+        "warmth": 0.28,
+        "loneliness": 0.42,
+        "hope": 0.35
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.68,
+          "complexity": 0.58,
+          "depth_of_thought": 0.62,
+          "logical_structure": 0.72,
+          "novelty": 0.75,
+          "exploration": 0.46,
+          "ambiguity": 0.40,
+          "predictability": 0.35,
+          "information_density": 0.55,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.30,
+          "relationship_scale": 0.20,
+          "social_scale": 0.45,
+          "civilization_scale": 0.62,
+          "cosmic_scale": 0.28,
+          "time_span": 0.55,
+          "fantasy_level": 0.12
+        },
+        "emotion": {
+          "happiness": 0.18,
+          "sadness": 0.22,
+          "loneliness": 0.42,
+          "warmth": 0.28,
+          "fear": 0.15,
+          "tension": 0.56,
+          "awe": 0.72,
+          "nostalgia": 0.48,
+          "hope": 0.35,
+          "melancholy": 0.38,
+          "anger": 0.05,
+          "peace": 0.52
+        },
+        "aesthetic": {
+          "beauty": 0.70,
+          "minimalism": 0.60,
+          "luxury": 0.20,
+          "darkness": 0.48,
+          "brightness": 0.38,
+          "dreamlike": 0.25,
+          "mystery": 0.55,
+          "experimental": 0.65,
+          "classical": 0.58,
+          "modern": 0.75
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.05,
+          "character_growth": 0.02,
+          "world_building": 0.48,
+          "nonlinear_structure": 0.22,
+          "slow_immersion": 0.68,
+          "action_intensity": 0.08,
+          "conflict_intensity": 0.35,
+          "philosophical_depth": 0.58
+        },
+        "social_relationship": {
+          "individualism": 0.48,
+          "collectivism": 0.55,
+          "family": 0.18,
+          "friendship": 0.10,
+          "love": 0.08,
+          "community": 0.62,
+          "competition": 0.15,
+          "cooperation": 0.42,
+          "power_relationship": 0.32,
+          "identity": 0.50
+        },
+        "value": {
+          "freedom": 0.38,
+          "order": 0.68,
+          "truth": 0.50,
+          "beauty": 0.70,
+          "achievement": 0.42,
+          "justice": 0.15,
+          "sacrifice": 0.20,
+          "self_exploration": 0.30,
+          "tradition": 0.72,
+          "change": 0.55,
+          "survival": 0.22,
+          "meaning": 0.60
+        },
+        "behavior": {
+          "curiosity": 0.48,
+          "creation": 0.58,
+          "adventure": 0.20,
+          "reflection": 0.65,
+          "competition": 0.10,
+          "social": 0.35,
+          "discipline": 0.62,
+          "risk": 0.30,
+          "calm": 0.58,
+          "escape": 0.18
+        },
+        "sensory": {
+          "visual_intensity": 0.68,
+          "color_richness": 0.25,
+          "sound_intensity": 0.15,
+          "rhythm_energy": 0.32,
+          "atmosphere": 0.78,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "architecture_vector": {
+          "spatial_experience": 0.78,
+          "functional_design": 0.55,
+          "symbolic_meaning": 0.72,
+          "scale_sense": 0.75,
+          "human_interaction": 0.48,
+          "structural_logic": 0.80
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.32,
+          "explanation": "建筑整体氛围偏向肃穆沉静，情感热度较低，不激发强烈的激情体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.38,
+          "explanation": "空间的庇护感提供一定的安抚，但粗犷材质削弱了治愈的柔和特质。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.72,
+          "explanation": "巨大悬挑屋顶和混凝土体量产生明显的敬畏感与震撼体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.48,
+          "explanation": "传统神社建筑比例的引用唤起适度的怀旧情绪，但并不成为主导体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.65,
+          "explanation": "传统与现代的并置促使观者思考文化传承与建筑发展的关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.15,
+          "explanation": "建筑以公共与仪式功能为主，几乎没有浪漫叙事的表达空间。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.56,
+          "explanation": "沉重的混凝土体量与轻盈的传统比例之间存在持续的视觉张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.28,
+          "explanation": "混凝土冷峻的质感与巨大尺度降低了空间的温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.42,
+          "explanation": "作为办公与集会场所，建筑在日常使用外有静谧的独处时刻。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.35,
+          "explanation": "现代与传统的融合暗示了建筑发展的可能性，带来温和的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.68,
+          "explanation": "传统木构比例的混凝土转译需要观者进行抽象理解与联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.58,
+          "explanation": "结构逻辑与传统意象的叠加形成中等偏高的认知复杂程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.62,
+          "explanation": "作品持续引发对传统与现代、神圣与世俗关系的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.72,
+          "explanation": "结构系统清晰外露，力学逻辑直接可见，体现了高度理性的构造思路。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "在1960年代以混凝土表达传统神社比例属于极具开创性的手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.46,
+          "explanation": "建筑鼓励对传统与现代融合可能性的探索，但空间功能明确，探索性适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.4,
+          "explanation": "建筑语汇清晰直接，悬挑与结构表达明确，不含蓄晦涩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "巨大悬挑屋顶带来的空间效果在进入前较难完全预料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "每处细节包含传统转译与结构表达双重信息，密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.6,
+          "explanation": "观者可学习代谢派建筑理念及日本传统与现代结合的实践方法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.3,
+          "explanation": "建筑服务于公共功能，个人私密体验并非设计焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.2,
+          "explanation": "以公共集会为主，不强调个体间亲密关系的尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.45,
+          "explanation": "作为神社的公共设施，承载社区集会的集体功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.62,
+          "explanation": "作品处理的是日本建筑传统与工业现代性这一文明层面的议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.28,
+          "explanation": "建筑虽具神圣性，但未刻意指向宇宙维度的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.55,
+          "explanation": "连接过去木构传统与未来代谢派理想，具有跨越时代的时间线索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.12,
+          "explanation": "设计根植于现实功能与可建造性，没有幻想成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.18,
+          "explanation": "空间氛围偏肃穆，不刻意营造快乐感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.22,
+          "explanation": "粗犷材质含有一丝沉重的历史感受，但并非悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.42,
+          "explanation": "巨型体量下个体显得渺小，产生适度的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.28,
+          "explanation": "混凝土材料与巨大尺度使温暖感减弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "沉重的悬挑虽有压迫感，但结构秩序降低了恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.56,
+          "explanation": "重力感与传统轻盈意象之间构成持续的张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.72,
+          "explanation": "巨大的悬挑屋顶和混凝土的重感引发强烈的敬畏情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.48,
+          "explanation": "传统神社比例的引用唤起适度的文化怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.35,
+          "explanation": "新陈代谢派的开创性表达蕴含对未来的温和憧憬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.38,
+          "explanation": "传统形式的现代转译带来一丝无法完全复原的淡淡哀愁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品不表达攻击性或愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.52,
+          "explanation": "空间的秩序感与仪式氛围最终形成一种平静的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "比例精致且结构逻辑清晰，整体呈现高度和谐的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.6,
+          "explanation": "去除不必要的装饰，以结构和比例作为主要美学表达手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.2,
+          "explanation": "混凝土的粗犷质感与奢华感形成对比，非奢华导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.48,
+          "explanation": "深远的挑檐产生大面积阴影，增加建筑的沉郁气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.38,
+          "explanation": "内部空间被挑檐遮蔽，整体光环境偏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "空间的物质感强烈，未刻意营造梦幻氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "传统符号与结构的融合产生适度神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.65,
+          "explanation": "以现代材料模拟传统形式的手法在当时具有高度实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.58,
+          "explanation": "重视比例、秩序与仪式感的传统美学贯穿整个设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.75,
+          "explanation": "粗野混凝土与结构外露是典型的现代主义建筑语汇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "建筑为静态实体，不具备传统意义上的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "无人物角色，不涉及角色深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.02,
+          "explanation": "建筑本身不具有发展变化的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.48,
+          "explanation": "围绕神社环境构建了完整且独特的精神与现实场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.22,
+          "explanation": "空间组织以功能与仪式流线为基础，整体线性较清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.68,
+          "explanation": "空间比例与材质的变化鼓励缓慢的沉浸式体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.08,
+          "explanation": "作品为静态建筑，没有动态行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.35,
+          "explanation": "传统与现代之间隐含概念冲突，但不以激烈方式呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.58,
+          "explanation": "建筑体现对传统与现代关系的深层哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.48,
+          "explanation": "提供个体沉思的空间，但在集体仪式框架内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.55,
+          "explanation": "作为神社公共设施强调集体功能与社群归属。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.18,
+          "explanation": "功能以公共事务为主，不突出家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "空间未特别强调私密友谊互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.08,
+          "explanation": "宗教与行政场所，不涉及爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.62,
+          "explanation": "集会与公共事务功能使社区维度成为核心社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.15,
+          "explanation": "建筑设计不涉及竞争性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.42,
+          "explanation": "作品体现建筑师与传统的对话与合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.32,
+          "explanation": "建筑尺度体现神社权威，但非权力主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.5,
+          "explanation": "建筑试图定义日本现代性与文化身份的融合。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.38,
+          "explanation": "结构严谨，强调秩序感，自由表达空间有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.68,
+          "explanation": "逻辑清晰的结构系统体现了对秩序的高度追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.5,
+          "explanation": "结构真实暴露表达了材料的诚实性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "比例与材料的和谐是设计的重要目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.42,
+          "explanation": "彰显了建筑师的个人成就与时代的建造水平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "作品不涉及社会正义议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "不强调牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.3,
+          "explanation": "观者可在空间中进行内省，但非核心目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.72,
+          "explanation": "对神社传统的尊重与转译是作品的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "通过现代构造推动传统建筑的演变，体现变革精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.22,
+          "explanation": "未涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.6,
+          "explanation": "建筑探讨了文化连续性在现代社会中的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.48,
+          "explanation": "吸引观者探究结构与传统形式的融合方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.58,
+          "explanation": "作品本身是创新性创造活动的成果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.2,
+          "explanation": "建筑体验偏静态，不激发冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.65,
+          "explanation": "空间鼓励对文化与历史的静默反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "不涉及竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "建筑为集会提供场所，但非高密度社交互动设计。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.62,
+          "explanation": "空间的秩序感和仪式性要求观者行为上的规范与尊重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.3,
+          "explanation": "建筑本身稳健，不提倡风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.58,
+          "explanation": "空间体验整体趋于冷静与克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.18,
+          "explanation": "建筑不提供逃离现实的幻想情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.68,
+          "explanation": "巨大的悬挑与混凝土质感具有强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "混凝土本色主导，色彩较为单一克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.15,
+          "explanation": "作为静态建筑，本身不产生声音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.32,
+          "explanation": "结构构件重复产生中低能量的视觉节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "混凝土与挑檐共同营造出强烈而独特的肃穆氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "空间尺度与氛围包裹感极强，使人沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.spatial_experience",
+          "score": 0.78,
+          "explanation": "悬挑屋顶与内部高敞空间创造了极具张力的空间感受。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.functional_design",
+          "score": 0.55,
+          "explanation": "满足办公与集会需求，功能布局合理但非设计焦点。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.symbolic_meaning",
+          "score": 0.72,
+          "explanation": "屋顶形式与比例蕴含深厚的神社建筑传统象征。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.scale_sense",
+          "score": 0.75,
+          "explanation": "巨大悬挑与挑高空间形成压倒性的尺度感。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.human_interaction",
+          "score": 0.48,
+          "explanation": "建筑以公共集会用为主，人际互动通过功能产生。"
+        },
+        {
+          "dimensionPath": "media_vector.architecture_vector.structural_logic",
+          "score": 0.8,
+          "explanation": "结构系统清晰可见，悬挑的力学逻辑直白展现。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "访客在建筑中经历从外部被巨大悬挑屋顶压迫到进入内部后获得庇护感的情感转变。粗犷的混凝土质感与传统的优雅比例不断交替刺激感知，形成一种既沉重又空灵的矛盾体验，最终沉淀为对文化延续性的深沉敬畏。",
+        "structure_description": "建筑以巨大的水平悬挑屋顶作为主导结构元素，通过理性的梁柱框架系统支撑。空间组织围绕中轴线展开，顺应神社建筑的仪式流线，将传统的木构造型逻辑转化为混凝土的塑性表达，结构与空间高度统一。",
+        "cognitive_expression": "作品要求观者将传统的木构审美经验迁移到现代的混凝土载体上，持续进行类比与抽象思考。结构逻辑的可见性激发了理性的分析思维，而传统符号的隐藏则调动了文化记忆的提取与重构。",
+        "behavioral_tendency_description": "空间引导观者放慢脚步，进行沉浸式的凝视与反省。在肃穆的氛围中，行为趋于内敛与克制，注意力从日常杂务转向对文化意义和空间本身的深度关注。"
+      },
+      "personality_affinity": {
+        "Ni": 0.72,
+        "Ne": 0.42,
+        "Ti": 0.68,
+        "Te": 0.48,
+        "Fi": 0.38,
+        "Fe": 0.58,
+        "Si": 0.62,
+        "Se": 0.58,
+        "openness": 0.72,
+        "conscientiousness": 0.65,
+        "extraversion": 0.28,
+        "agreeableness": 0.45,
+        "neuroticism": 0.35,
+        "Assertive": 0.62,
+        "Turbulent": 0.38
+      },
+      "supporting_evidence": [
+        "巨大的混凝土悬挑屋顶从主体结构向外深远延伸。",
+        "建筑整体采用粗犷的混凝土作为主要材料。",
+        "深远的挑檐阴影模糊了建筑内外部的视觉边界。",
+        "主要承重结构直接暴露在外部与内部空间中。",
+        "建筑的比例参照了日本传统神社的木构造型。",
+        "平面布局围绕中轴线展开组织。",
+        "设计师属于日本新陈代谢派建筑运动。",
+        "外立面没有多余的装饰性构件。",
+        "空间内部高敞，适用于大型集会活动。",
+        "水平向的线条贯穿整个建筑的设计元素。",
+        "巨大的尺度使个体显得相对渺小。",
+        "作品位于神道教的重要圣地出云大社范围内。",
+        "混凝土的质感和色彩随时间流逝而留下痕迹。",
+        "结构系统呈现出清晰的力学逻辑和秩序感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

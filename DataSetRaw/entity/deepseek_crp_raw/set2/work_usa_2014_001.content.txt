@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_2014_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "布达佩斯大饭店",
+        "type": "MOVIE",
+        "countryName": "美国",
+        "year": 2014,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-04-10",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "《布达佩斯大饭店》通过三层嵌套叙事，讲述20世纪30年代欧洲一家虚构酒店的门童零与礼宾主管古斯塔夫先生的历险故事。影片围绕一幅名画争夺、一笔遗产纠纷和一场诬陷谋杀展开，在对称构图、粉色调和复古视觉风格中，展现战争前夜的贵族社会崩塌，以喜剧外壳包裹关于尊严、友情与逝去世界的优雅挽歌。",
+        "themes": [
+          "友谊",
+          "尊严",
+          "逝去",
+          "战争",
+          "忠诚",
+          "怀旧",
+          "文明",
+          "死亡",
+          "传奇"
+        ],
+        "keywords": [
+          "布达佩斯大饭店",
+          "古斯塔夫先生",
+          "零",
+          "对称构图",
+          "战争前夜",
+          "欧洲贵族",
+          "粉色",
+          "名画",
+          "遗产",
+          "火车",
+          "门童",
+          "阿加莎"
+        ],
+        "core_experience": "观众仿佛翻看一本褪色的老相册，在精致到神经质的视觉秩序与荒诞喜剧的节奏中，既享受了童话般的奇遇历险，又在猝不及防的暴力与告别里，感受到优雅世界不可挽回的消逝，欢笑与忧伤同时涌来。",
+        "experience_introduction": "影片通过三层嵌套的叙事框架，将一段私人记忆包装成逝去年代的传奇。观众被置于远距离回望的位置，同时被韦斯·安德森标志性的对称构图和粉色调氛围深度吸引。喜剧节奏带来了明快的观赏快感，但每个欢乐段落之后几乎都紧随着死亡或丧失的暗示，让优雅成为抵御荒诞的最后姿态，进而唤起对逝去文明的悲悯与自省。"
+      },
+      "experience_vector": {
+        "passion": 0.58,
+        "healing": 0.32,
+        "awe": 0.45,
+        "nostalgia": 0.92,
+        "reflection": 0.78,
+        "romance": 0.55,
+        "tension": 0.62,
+        "warmth": 0.60,
+        "loneliness": 0.48,
+        "hope": 0.35
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.68,
+          "complexity": 0.72,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.65,
+          "novelty": 0.62,
+          "exploration": 0.58,
+          "ambiguity": 0.50,
+          "predictability": 0.38,
+          "information_density": 0.75,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.55,
+          "relationship_scale": 0.70,
+          "social_scale": 0.65,
+          "civilization_scale": 0.72,
+          "cosmic_scale": 0.20,
+          "time_span": 0.70,
+          "fantasy_level": 0.55
+        },
+        "emotion": {
+          "happiness": 0.55,
+          "sadness": 0.68,
+          "loneliness": 0.52,
+          "warmth": 0.62,
+          "fear": 0.30,
+          "tension": 0.58,
+          "awe": 0.40,
+          "nostalgia": 0.90,
+          "hope": 0.35,
+          "melancholy": 0.75,
+          "anger": 0.20,
+          "peace": 0.28
+        },
+        "aesthetic": {
+          "beauty": 0.90,
+          "minimalism": 0.40,
+          "luxury": 0.75,
+          "darkness": 0.45,
+          "brightness": 0.62,
+          "dreamlike": 0.72,
+          "mystery": 0.55,
+          "experimental": 0.45,
+          "classical": 0.82,
+          "modern": 0.30
+        },
+        "narrative": {
+          "plot_complexity": 0.65,
+          "character_depth": 0.68,
+          "character_growth": 0.55,
+          "world_building": 0.72,
+          "nonlinear_structure": 0.78,
+          "slow_immersion": 0.48,
+          "action_intensity": 0.50,
+          "conflict_intensity": 0.55,
+          "philosophical_depth": 0.62
+        },
+        "social": {
+          "individualism": 0.60,
+          "collectivism": 0.42,
+          "family": 0.25,
+          "friendship": 0.85,
+          "love": 0.50,
+          "community": 0.38,
+          "competition": 0.45,
+          "cooperation": 0.62,
+          "power_relationship": 0.58,
+          "identity": 0.52
+        },
+        "value": {
+          "freedom": 0.48,
+          "order": 0.68,
+          "truth": 0.55,
+          "beauty": 0.88,
+          "achievement": 0.40,
+          "justice": 0.58,
+          "sacrifice": 0.62,
+          "self_exploration": 0.50,
+          "tradition": 0.70,
+          "change": 0.45,
+          "survival": 0.52,
+          "meaning": 0.72
+        },
+        "behavior": {
+          "curiosity": 0.52,
+          "creation": 0.42,
+          "adventure": 0.62,
+          "reflection": 0.72,
+          "competition": 0.38,
+          "social": 0.55,
+          "discipline": 0.60,
+          "risk": 0.55,
+          "calm": 0.40,
+          "escape": 0.48
+        },
+        "sensory": {
+          "visual_intensity": 0.88,
+          "color_richness": 0.92,
+          "sound_intensity": 0.65,
+          "rhythm_energy": 0.68,
+          "atmosphere": 0.85,
+          "immersion": 0.70
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.60,
+          "visual_storytelling": 0.92,
+          "soundtrack_importance": 0.78,
+          "actor_expression": 0.75,
+          "director_style": 0.95
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.58,
+          "explanation": "角色对艺术、礼仪和友情的执着带有强烈的情感投入，但整体情感表达仍被风格化叙事所节制。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.32,
+          "explanation": "频繁的死亡暗示与怀旧的忧伤基调使整体体验不具备治愈或安抚倾向。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "构图与色彩带来惊叹感，但叙事尺度更偏向人情故事而非宏伟奇观。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.92,
+          "explanation": "全片皆为对逝去时代与丧失世界的深情回望，多层嵌套叙事不断强化怀旧距离感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.78,
+          "explanation": "叙事结构与文明主题持续引导观众思考优雅、尊严与死亡的意义。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.55,
+          "explanation": "存在明确的爱情支线，但并非故事的情感核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.62,
+          "explanation": "追逐、监狱逃生与遗产争夺制造了持续的紧张感，但总体以喜剧节奏平衡。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.60,
+          "explanation": "师徒之间与恋人之间的温情时刻贯穿全片。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.48,
+          "explanation": "角色经历深刻的丧失与孤独，但叙事并未将其作为唯一的情感重心。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.35,
+          "explanation": "结尾保留了某种延续与记忆的慰藉，但整体基调偏向无可挽回的逝去。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.68,
+          "explanation": "叙事不断通过三层嵌套结构提醒观众关于故事本质与记忆建构的抽象反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.72,
+          "explanation": "多层叙事时间线交织，人物关系与文化指涉丰富，要求观众持续整合不同层面的信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "电影反复探讨文明、尊严与死亡，将喜剧叙事引向对存在意义的人文思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.65,
+          "explanation": "叙事虽然嵌套多层，但内部因果链条与时间关系始终保持清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.62,
+          "explanation": "强烈对称构图与章节式叙事构成独特风格，但叙事主题本身源自经典的失落文明母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.58,
+          "explanation": "主角的历险带有探索欧洲内陆与旧世界遗迹的倾向，但并非以发现未知为核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.50,
+          "explanation": "故事意图明确，但嵌套叙事框架与口述记忆的形式为真实与虚构留下了模糊地带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.38,
+          "explanation": "尽管结局在后设叙事中已被暗示，但具体情节推进仍充满意外转折。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "台词、场景布置、文化指涉与视觉符号在每个画面中均包含大量信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "观众可接触两次世界大战之间的欧洲文化与文学参照，但深度更多来自审美体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.55,
+          "explanation": "故事核心仍是个人成长与情感记忆，但个人命运始终被放在更大的历史变动中呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.70,
+          "explanation": "古斯塔夫与零的师徒友情及其与阿加莎的爱情推动所有主要情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.65,
+          "explanation": "继承纠纷、阶级冲突与战争前夜的社会气氛构成故事的运转背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.72,
+          "explanation": "古斯塔夫先生被塑造成旧世界礼仪文明的化身，其死亡象征了文明的崩溃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.20,
+          "explanation": "未涉及宇宙或超验尺度的探讨，主题始终限定在人类历史范围内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.70,
+          "explanation": "叙事跨越数十年，并通过现在的叙述者回溯更久远的记忆，时间层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.55,
+          "explanation": "虚构的东欧国家和童话般的视觉风格具有一定幻想性，但背景仍紧扣现实历史事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.55,
+          "explanation": "喜剧节奏与爱情线索带来轻松喜悦，但始终被暮色般的忧伤所笼罩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "死亡与丧失反复出现，结局尤其传递出深刻的哀伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.52,
+          "explanation": "角色在繁华世界崩塌后最终孑然一身，但叙事并未将孤独渲染为压倒性的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.62,
+          "explanation": "角色之间的忠诚与关怀持续给观众带来温暖感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.30,
+          "explanation": "虽然存在死亡威胁与战争阴影，但影片不依赖恐惧体验来主导观众反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.58,
+          "explanation": "多次险境和谋杀情节制造出适度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.40,
+          "explanation": "视觉奇观带来的惊叹被叙事的人情味与亲切语调所平衡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.90,
+          "explanation": "通篇是对逝去时代、旧欧洲与旧日友情的深切怀念，构成影片最核心的情感底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.35,
+          "explanation": "故事在记忆传承中保留了微弱希望，但逝去感压倒了对未来的期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.75,
+          "explanation": "优雅与丧失交融，产生一种贯穿全片的甜腻忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.20,
+          "explanation": "反派行为虽令人反感，但影片没有将愤怒作为主导情绪去渲染。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.28,
+          "explanation": "叙事与视觉虽具有仪式般的秩序，但动荡的情节和哀伤的情感妨碍了平静感的形成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.90,
+          "explanation": "每一帧画面都高度追求形式美感，色彩、布局和构图共同构成具有装饰性的视觉形象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.40,
+          "explanation": "画面虽然对称、简洁，但场景中所容纳的细节和道具非常密集，并非真正的极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.75,
+          "explanation": "酒店陈设、服装与用具精细地再现了旧世界的奢侈和仪式感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.45,
+          "explanation": "部分场景带有哥特与暴力色彩，但并未在主导视觉中呈现为黑暗美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.62,
+          "explanation": "高饱和度与粉色调使大量场景呈现出明亮的童话感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.72,
+          "explanation": "不自然的构图和失真的比例使影片像一段被记忆扭曲的梦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "谋杀与遗嘱等推进情节的元素具有悬疑色彩，但影片并不致力于制造神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.45,
+          "explanation": "视觉风格虽然鲜明，但叙事上仍是有章可循的古典结构，并非彻底实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.82,
+          "explanation": "叙事方式、礼仪主题与对失去的旧世界的迷恋共同指向古典情怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.30,
+          "explanation": "除了后设叙事的形式自觉外，影片的美学精神更倾向于前现代的欧洲传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.65,
+          "explanation": "多条线索经过精确编织，时间层次交织，但叙事主干清晰易追踪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.68,
+          "explanation": "古斯塔夫先生外表浮夸但内心坚守原则，主要角色均有一定心理层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "零从门童成长为酒店主人，人物成长轨迹明显但未占据叙事主导地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.72,
+          "explanation": "虚构的祖布罗卡共和国与布达佩斯大饭店拥有自洽的历史细节与文化质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.78,
+          "explanation": "嵌套叙事与章节体结构使时间线呈现出多层回溯与跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.48,
+          "explanation": "影片节奏明快且段落感强，并非依赖沉浸式慢节奏来构建体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.50,
+          "explanation": "存在追逐与越狱场景，但动作均以风格化的幽默处理，物理对抗感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.55,
+          "explanation": "冲突涉及谋杀与战争阴影，但多被喜剧与优雅的气质所缓解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.62,
+          "explanation": "叙事持续抛出关于文明存续与个人尊严的命题，但多以意象和对话暗示而不是理论展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.60,
+          "explanation": "古斯塔夫以个人风格和原则行事的姿态突出，个人的选择被视为文明的最后堡垒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.42,
+          "explanation": "社群纽带虽被展现，但影片并未倡导集体认同超越个体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.25,
+          "explanation": "核心关系是非血缘的，旧贵族家庭更多是作为讽刺符号出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.85,
+          "explanation": "全片的核心情感关系是古斯塔夫与零之间跨越阶级与国籍的忠诚友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.50,
+          "explanation": "零与阿加莎的爱情线索真挚温暖，但不占据最重要的叙事比重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.38,
+          "explanation": "酒店社群短暂地呈现出某种乌托邦色彩，但在历史剧变面前迅速瓦解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.45,
+          "explanation": "遗产争夺带有家族内竞争色彩，但并非影片所推崇的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.62,
+          "explanation": "主角们依靠彼此间的合作才能多次脱离险境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.58,
+          "explanation": "财富、阶级与军事权力的不对等构成了故事的主要矛盾来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.52,
+          "explanation": "零作为移民的身份被温和地提示，个人身份在动荡历史中被重塑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.48,
+          "explanation": "角色在高压下争取行动自由，但影片没有将自由抽象为核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.68,
+          "explanation": "古斯塔夫所代表的仪式、精确与日常秩序本身就是价值观的核心体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "揭露真相和申诉清白是情节的重要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.88,
+          "explanation": "对美与品位的捍卫被塑造为对抗野蛮的重要方式，作品自身也是一种美的宣言。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.40,
+          "explanation": "世俗意义上的成功不被强调，古斯塔夫更在意过程与风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.58,
+          "explanation": "洗刷冤屈和追讨遗产构成了明显的正义追寻线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.62,
+          "explanation": "角色多次为他人的尊严与安全作出牺牲，牺牲与忠诚紧密相连。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.50,
+          "explanation": "零的内在成长包含对自我的发现，但叙事没有将其作为内省式的心理探索展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.70,
+          "explanation": "旧世界礼仪、诗歌与待客之道的传统被塑造为珍贵的文化遗产。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.45,
+          "explanation": "历史剧变推动情节，但影片始终以哀悼而非拥抱变化作为基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.52,
+          "explanation": "角色面对战争和迫害时的生存本能被写实展现，但并非价值的终点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.72,
+          "explanation": "整部作品都在追问，当承载意义的文明形式都消逝后，人的意义何在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.52,
+          "explanation": "角色和叙事对旧世界细节充满探问，但并非驱动情节的核心行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.42,
+          "explanation": "作品自身是精密的创造，但故事内部角色并无突出的创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.62,
+          "explanation": "叙事以不断的旅行、逃脱和历险作为故事推进的主要形式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.72,
+          "explanation": "叙事结构本身鼓励观众不断回望、反思和重新评估先前的情节和细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.38,
+          "explanation": "虽然存在遗产争夺，但竞争行为并非影片推崇的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.55,
+          "explanation": "酒店作为社交场所的设定突出了人际互动与交流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.60,
+          "explanation": "古斯塔夫极端自律的职业操守和行为规范成为全片行为的标杆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "角色频繁做出大胆选择以维护尊严或援救朋友。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.40,
+          "explanation": "即使在危机中，角色也会刻意维持镇定，但电影的节奏总体偏向活泼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.48,
+          "explanation": "影片本身可以被看作是对逝去世界的一种艺术化逃离，但并未鼓吹脱离现实的姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.88,
+          "explanation": "极度风格化的对称构图与镜头运动持续为观众提供高强度视觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.92,
+          "explanation": "高饱和度的粉、紫、红、金色调形成极具辨识度的彩色体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.65,
+          "explanation": "亚历山大·德斯普拉的原声配乐显著地塑造了节奏和情绪，密集存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.68,
+          "explanation": "剪辑与运镜节奏轻快，与喜剧台词和配乐协同推动观众情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "氛围高度统一，融合了童话、忧伤与怀旧的独特美学空气。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.70,
+          "explanation": "虚构世界拥有强烈且一致的质感，容易让观众进入这个精心构建的微缩宇宙。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.60,
+          "explanation": "场景主要集中于酒店和室内空间，宏大的外景与战争场面被刻意压缩和风格化。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.92,
+          "explanation": "信息传递和情感表达极度依赖构图、色彩与场面调度。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.78,
+          "explanation": "配乐在控制全片节奏和渲染情绪方面扮演了不可或缺的角色。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.75,
+          "explanation": "拉尔夫·费因斯等演员通过精确的台词节奏和微表情传递大量喜剧与情感信息。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.95,
+          "explanation": "韦斯·安德森的美学签名贯穿每一帧，导演风格是作品最重要的身份标识。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众主要经历一场高度风格化的怀旧之旅。体验从好奇与新奇感开始，逐步被精美的图象和轻快的节奏带入旧欧洲的童话世界。后半段随着死亡和战争的侵袭，欢笑渐渐混入忧伤，最终在记忆与丧失的双重曝光中结束观影，留下苦涩而甜蜜的余味。整个体验高度审美化，悲剧被包裹在优雅的形式之中。",
+        "structure_description": "体验通过章节体和三重嵌套叙事进行组织。最外层是现代读者对一本小说的阅读，中层是作家在1968年的讲述，核心层是1930年代的冒险。这种结构制造了恒定距离感，让观众始终保持回望的姿势。每一章内部以对称构图、平行运动和精确剪辑维持节奏，形式秩序与内容失序形成张力，进而强化了优雅在混乱前的脆弱感。",
+        "cognitive_expression": "作品要求观众在高信息密度的画面中处理多重信息，整合不同时间层次的关系。由于叙事框架的自觉性，观众不断在故事本身和对故事框架的反思之间切换。视觉上的高度秩序感提供了认知锚点，使复杂的结构易于接受。同时需要观众理解许多文学与历史参照，以完全进入其语义网络。",
+        "behavioral_tendency_description": "作品通过古斯塔夫先生的行为，反复强化自律、注重细节和维护尊严的倾向。观众被引导去欣赏那些在混乱中依然保持体面和忠诚的举止。影片不鼓励攻击性或竞争性反应，而是唤起一种对记忆的守护和对秩序的珍视。反思性的远眺、对细节的关注以及对逝去之美的温柔共情，是受鼓励的行为和心理姿态。"
+      },
+      "personality_affinity": {
+        "Ni": 0.72,
+        "Ne": 0.62,
+        "Ti": 0.58,
+        "Te": 0.48,
+        "Fi": 0.68,
+        "Fe": 0.70,
+        "Si": 0.88,
+        "Se": 0.55,
+        "openness": 0.82,
+        "conscientiousness": 0.62,
+        "extraversion": 0.48,
+        "agreeableness": 0.60,
+        "neuroticism": 0.45,
+        "Assertive": 0.32,
+        "Turbulent": 0.68
+      },
+      "supporting_evidence": [
+        "故事通过三层嵌套的叙事结构展开，最外层是现代读者，中层是1968年的作家讲述，核心是1930年代的冒险。",
+        "古斯塔夫先生将精确的礼仪和待客之道视为抵御外部混乱与野蛮的最后准则。",
+        "全片大量使用高度对称的构图和俯仰角度，制造出一种非现实的、微缩模型的视觉效果。",
+        "主要角色之间的忠诚关系在遗产争夺、谋杀指控和战争迫害中反复经受考验。",
+        "酒店的整体装潢、制服和日常仪式被描绘成正在消亡的旧欧洲文明的缩影。",
+        "叙事中多次用快速平移镜头和章节卡片打断沉浸，提醒观众正在观看一段被精心编辑的回忆。",
+        "悲剧性死亡频繁打断喜剧节奏，古斯塔夫先生保护零而被军队处决的场景极为克制但充满冲击力。",
+        "配乐运用了传统民间乐器与交响乐混合的风格，以节奏鲜明的旋律主导了观众的感知节奏。",
+        "零从一个没有名字的难民门童，成长为大饭店的继承者和沉默而富有的老人。",
+        "色彩体系以粉、红、紫和金为主，不同时空段落采用明显不同的色调以区分记忆层次。",
+        "旧贵族家族成员之间的贪婪与尔虞我诈被以漫画式的手法夸大表现。",
+        "叙事不断强调故事是口耳相传的，在结尾处明确指出它是被讲述出来的，从而完成对记忆本质的哀悼。",
+        "火车场景贯穿头尾，将国土边界和战争阴影浓缩在狭窄的车厢空间内。",
+        "每一个主要段落都包含一次针对古斯塔夫和零的危机，并在紧张解除后迅速给予礼貌与温情的恢复。",
+        "影片中的暴力场景极其突然且风格化，与周身的优雅环境形成生硬的对比，强化了文明的脆弱感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

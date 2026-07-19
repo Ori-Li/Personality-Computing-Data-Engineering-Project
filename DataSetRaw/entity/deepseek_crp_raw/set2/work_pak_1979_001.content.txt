@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_pak_1979_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "太阳城",
+        "type": "NOVEL",
+        "countryName": "巴基斯坦",
+        "year": 1979,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.8,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《太阳城》是因提扎尔·侯赛因创作的一部反思印巴分治创伤的乌尔都语长篇小说。作品通过主人公扎基尔在历史废墟与记忆碎片中的漫游，将伊斯兰苏菲神秘主义与印度神话象征体系交织在一起。小说放弃了线性叙事，以诗意的语言、梦境与现实的交错，深入探讨了流亡、归属、记忆与身份瓦解等核心命题，构建了一个充满哀悼与哲学追问的精神世界。",
+        "themes": [
+          "流亡",
+          "记忆",
+          "身份认同",
+          "历史创伤",
+          "精神追寻",
+          "文明冲突",
+          "宗教哲学"
+        ],
+        "keywords": [
+          "印巴分治",
+          "苏菲主义",
+          "印度神话",
+          "扎基尔",
+          "废墟",
+          "漫游",
+          "乌尔都语文学",
+          "后殖民",
+          "文化断裂"
+        ],
+        "core_experience": "在历史的断裂带上进行一场沉痛而内省的精神漂泊，感受文明记忆的破碎与个体对永恒归宿的无望追寻。",
+        "experience_introduction": "《太阳城》通过高度诗化的语言和非线性的意识流结构，将读者引入一个因历史暴力而破碎的精神世界。读者跟随主人公扎基尔在废墟、梦境与神话交织的时空中漫游，直接体验流亡者内心的断裂感、对过往世界的哀悼以及对身份意义的苦涩追问。作品不提供情节上的慰藉，而是要求读者以沉思和审美感知的方式，共同承受这份历史的重量与存在的迷茫。"
+      },
+      "experience_vector": {
+        "passion": 0.3,
+        "healing": 0.1,
+        "awe": 0.5,
+        "nostalgia": 0.85,
+        "reflection": 0.95,
+        "romance": 0.05,
+        "tension": 0.55,
+        "warmth": 0.1,
+        "loneliness": 0.8,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.9,
+          "complexity": 0.85,
+          "depth_of_thought": 0.95,
+          "logical_structure": 0.25,
+          "novelty": 0.7,
+          "exploration": 0.75,
+          "ambiguity": 0.9,
+          "predictability": 0.1,
+          "information_density": 0.8,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.3,
+          "social_scale": 0.6,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.7,
+          "time_span": 0.7,
+          "fantasy_level": 0.5
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.85,
+          "loneliness": 0.9,
+          "warmth": 0.15,
+          "fear": 0.3,
+          "tension": 0.5,
+          "awe": 0.6,
+          "nostalgia": 0.9,
+          "hope": 0.1,
+          "melancholy": 0.95,
+          "anger": 0.2,
+          "peace": 0.2
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.2,
+          "luxury": 0.1,
+          "darkness": 0.65,
+          "brightness": 0.1,
+          "dreamlike": 0.8,
+          "mystery": 0.7,
+          "experimental": 0.75,
+          "classical": 0.6,
+          "modern": 0.4
+        },
+        "narrative": {
+          "plot_complexity": 0.3,
+          "character_depth": 0.85,
+          "character_growth": 0.3,
+          "world_building": 0.4,
+          "nonlinear_structure": 0.9,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.95
+        },
+        "social_relationship": {
+          "individualism": 0.8,
+          "collectivism": 0.4,
+          "family": 0.2,
+          "friendship": 0.2,
+          "love": 0.1,
+          "community": 0.3,
+          "competition": 0.1,
+          "cooperation": 0.1,
+          "power_relationship": 0.2,
+          "identity": 0.95
+        },
+        "value": {
+          "freedom": 0.3,
+          "order": 0.1,
+          "truth": 0.8,
+          "beauty": 0.65,
+          "achievement": 0.1,
+          "justice": 0.15,
+          "sacrifice": 0.4,
+          "self_exploration": 0.9,
+          "tradition": 0.75,
+          "change": 0.3,
+          "survival": 0.5,
+          "meaning": 0.95
+        },
+        "behavior": {
+          "curiosity": 0.5,
+          "creation": 0.4,
+          "adventure": 0.4,
+          "reflection": 0.95,
+          "competition": 0.05,
+          "social": 0.2,
+          "discipline": 0.15,
+          "risk": 0.2,
+          "calm": 0.3,
+          "escape": 0.55
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.5,
+          "sound_intensity": 0.1,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.9,
+          "immersion": 0.8
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.95,
+          "writing_style": 0.9,
+          "narrative_voice": 0.85,
+          "symbolism": 0.95,
+          "inner_monologue": 0.9,
+          "world_building_depth": 0.6
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.3,
+          "explanation": "叙事的核心是内省和哀悼，而非强烈的情感宣泄或热血，情绪基调低沉。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "作品聚焦于创伤的撕裂感和身份的失落，几乎没有提供抚慰或和解的出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.5,
+          "explanation": "苏菲神秘主义和神话元素的运用营造了一种对超验世界的朦胧敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.85,
+          "explanation": "全文弥漫着对失落家园、消逝传统和破碎历史的深切追忆与悼念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "作品本质上是哲学性的，强制读者参与到对身份、记忆和存在的深刻思辨中。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "浪漫爱情并非作品的主题，个体情感被宏大的历史叙事和形而上追问所淹没。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.55,
+          "explanation": "内心冲突、存在焦虑和文化断裂构成了持续的压抑性精神张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "作品的情感色调是冷峻和疏离的，几乎不提供温馨或舒适的情感体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "主人公在精神废墟中的漫游是一种极度孤绝的个体体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "小说的结尾并未指向明确的希望或救赎，更多是悬而未决的迷茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.9,
+          "explanation": "大量使用象征、隐喻和神话典故，思想表达高度抽象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.85,
+          "explanation": "融合了历史创伤、苏菲哲学和印度神话等多重复杂体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.95,
+          "explanation": "探讨流亡、身份、时间与存在等终极问题，具有极高的思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "叙事逻辑被有意打破，遵循梦境和意识的流动而非理性推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.7,
+          "explanation": "将印巴分治创伤与苏菲神秘主义结合的文学手法具有独创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.75,
+          "explanation": "作品带领读者在精神、历史和神话构成的多重世界中进行探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.9,
+          "explanation": "梦境与现实、过去与现在的边界被刻意模糊，意义高度不确定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.1,
+          "explanation": "非线性叙事和碎片化结构使得情节发展几乎不可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.8,
+          "explanation": "文本充满了文化符号、哲学概念和历史指涉，信息浓度很高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "提供了关于南亚历史、伊斯兰苏菲主义及后殖民文学的深刻知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "主要通过主人公的内心世界、记忆和感知来呈现现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.3,
+          "explanation": "具体的人际互动描绘较少，关系更多是记忆中的碎片。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.6,
+          "explanation": "涉及群体性的历史灾难和文化集体创伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.8,
+          "explanation": "探索了伊斯兰文明与印度文明在历史转折时期的冲突与交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.7,
+          "explanation": "通过苏菲主义视角，探讨了灵魂在宇宙秩序中的位置和归宿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.7,
+          "explanation": "时间在记忆中来回跳跃，跨越了前现代神话与当代历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.5,
+          "explanation": "神话和梦境的重现构成了某种幻想现实，但并非完全架空世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品中几乎没有快乐的时刻，整体基调是哀伤和痛苦的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.85,
+          "explanation": "对失去的家园和破碎生命的深切悲伤是作品的核心情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.9,
+          "explanation": "主人公作为流亡者和历史孤儿，体验着深刻的疏离与孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "作品中充满了冷清的废墟和模糊的记忆，几乎感受不到温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.3,
+          "explanation": "存在更深层次的迷茫和未知的恐惧，而非直接的惊悚感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.5,
+          "explanation": "持续的内在冲突和文化身份认同危机带来一种静默的精神紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "对古老神话和苏菲神秘境界的描述引发了一种庄严的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.9,
+          "explanation": "对毁灭前世界的怀旧和对过往时代的渴望是贯穿始终的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "作品的基调是幻灭和无可挽回的失落，希望极为微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.95,
+          "explanation": "一种深沉、弥漫性的忧郁和哀愁构成了作品的整体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.2,
+          "explanation": "作品更多是内化的悲伤和困惑，而非外露的愤怒谴责。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.2,
+          "explanation": "叙述充满了不安和动荡，宁静的时刻非常短暂且虚幻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "尽管主题沉重，其诗化的语言和深沉的意象构成了一种哀婉之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.2,
+          "explanation": "语言并非极简，而是充满了繁复的象征和修饰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "作品描绘的是精神与物质的废墟，与奢华感完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.65,
+          "explanation": "整体色调偏向阴暗、朦胧，如同在历史废墟的暗影中摸索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.1,
+          "explanation": "几乎没有明亮或轻快的时刻，情感光谱处于深沉的一端。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.8,
+          "explanation": "梦境、幻觉与现实无缝衔接，构成了一种高度梦幻的叙事质地。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.7,
+          "explanation": "运用了苏菲和印度神话的神秘符号，增添了叙事的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.75,
+          "explanation": "打破了传统线性叙事，采用了激进的意识流和碎片化结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.6,
+          "explanation": "深深植根于伊斯兰苏菲和印度两大古典文明的传统之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.4,
+          "explanation": "采用了现代主义文学的技法，但核心关涉与美学根源是古典的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.3,
+          "explanation": "情节被极度弱化，几乎没有传统意义上的复杂故事线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "对主人公的内心世界、记忆和潜意识进行了极其深入的挖掘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.3,
+          "explanation": "主人公更多是在承受和追问，而非经历传统意义上的成长或转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.4,
+          "explanation": "世界的构建是心理和记忆性的，而非具体的物理或规则设定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.9,
+          "explanation": "时间线被彻底打破，由意识和记忆片段拼接而成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "叙述节奏缓慢，要求读者完全沉浸在文本的情绪和哲思之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "几乎没有外在的戏剧性动作，所有冲突都是内在的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "内心的撕扯、与历史的冲突和身份的危机构成了强烈但内敛的矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.95,
+          "explanation": "小说的核心驱动力是对存在、时间和归属的哲学性追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.8,
+          "explanation": "叙述焦点完全集中在主人公孤绝的个体视角和内心挣扎上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.4,
+          "explanation": "对失落的共同体的怀旧是存在的，但已作为一种破碎的背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.2,
+          "explanation": "家庭关系并非作品的重点，主人公的羁绊更多是文化上的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.2,
+          "explanation": "几乎不涉及友谊关系的细致描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "爱情主题在宏大的历史和哲学叙事中几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.3,
+          "explanation": "所描绘的社区是一个已经毁灭、只能存在于记忆中的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.1,
+          "explanation": "完全没有体现任何形式的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "故事围绕孤独的漫游者展开，没有合作的叙事空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.2,
+          "explanation": "隐含了历史暴力中的权力结构，但并非叙事分析的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.95,
+          "explanation": "文化身份的瓦解与痛苦追寻是全书最核心的母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.3,
+          "explanation": "更多描写的是不自由的流亡状态，对自由的追求不是主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "作品描绘的正是世界秩序崩溃后的混沌状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.8,
+          "explanation": "主人公的漫游本质上是在废墟和记忆中寻找关于自我和历史的真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.65,
+          "explanation": "对失落文明和文学语言之美的追忆和呈现是重要的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "作品关注的不是世俗成就，而是精神层面的求索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "历史的不公作为背景存在，但对正义的呼吁不是直接表达的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.4,
+          "explanation": "整个家园和过去的生活都被动地牺牲了，但并非作为一种美德来歌颂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "整个外部漫游的旅程实质上是深入内心和潜意识的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.75,
+          "explanation": "对断裂的伊斯兰和印度传统的深切缅怀是作品重要的价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "“改变”在此体现为毁灭性的历史剧变，是造成创伤的原因。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.5,
+          "explanation": "在历史的废墟中幸存是主人公的处境，但如何生存并非焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.95,
+          "explanation": "为破碎的生命和无序的世界重新寻找意义，是作品最根本的价值探寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.5,
+          "explanation": "驱动力是对过去真相和精神归属的追问，而非对未知世界的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.4,
+          "explanation": "通过记忆重塑和文学想象来重构破碎的世界，但并非积极的创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.4,
+          "explanation": "包含了漫游的形式，但本质是精神而非肉体上的探险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "深度自省、沉思和记忆回溯是作品绝对主导的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "完全没有体现竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.2,
+          "explanation": "主人公与世界的联系是断裂的，几乎不存在活跃的社交行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "没有体现需要纪律性行为的情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "风险存在于动荡的历史背景中，但非主动寻求的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.3,
+          "explanation": "叙事语调虽然沉静，但内心充满不安和动荡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.55,
+          "explanation": "转向内心和过去，本身是对难以承受的现实的一种精神逃离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "文本通过丰富的意象营造了强烈的视觉感，但画面多为废墟和暗影。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.5,
+          "explanation": "缺乏色彩鲜明感，色调偏向于灰暗和褪色的记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.1,
+          "explanation": "文本世界是静谧的，更多是内心独白，而非外部声音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "叙事节奏缓慢、沉滞，没有动态的能量感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "哀伤、幽暗、神秘的氛围营造是作品最突出的感官成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.8,
+          "explanation": "意识流手法和浓烈的情绪氛围具有将读者完全拉入其精神世界的强大力量。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.95,
+          "explanation": "作为后殖民文学经典，其在语言、结构和主题上都具有极高的文学深度。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.9,
+          "explanation": "乌尔都语诗化散文、丰富的比喻和象征是作品的标志性特征。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.85,
+          "explanation": "采用高度主观、内省的意识流叙事声音。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.95,
+          "explanation": "大量运用苏菲和印度神话中的意象和符号系统来承载深层含义。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.9,
+          "explanation": "整部小说几乎可以看作是主人公连绵不断的内心独白和回忆。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.6,
+          "explanation": "世界的构建更多是内在的、文化和精神性的，而非一种具体化、系统化的外部现实。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者的情感体验是一场缓慢下沉的精神漂泊，核心是对失落世界的深切哀悼（nostalgia, melancholy）和在历史废墟上的孤独沉思（loneliness, reflection）。作品不提供任何轻松愉悦（low happiness, warmth）或明确的希望（low hope），而是通过持续的忧郁和内省张力（tension），迫使读者与主人公一同承受历史的重量和存在的迷茫。",
+        "structure_description": "作品通过彻底的非线性叙事（nonlinear_structure）和意识流手法，将回忆、梦境、神话碎片与当下感知交错编织。这种结构完全服务于一种缓慢的沉浸式体验（slow_immersion），而非情节推进，从而模拟了记忆在创伤中的无序涌现和个体在破碎时间中的精神漫游。",
+        "cognitive_expression": "阅读过程要求高度抽象的思维能力和对复杂文化符号的解码能力（abstractness, complexity）。文本鼓励读者进行深度哲学思辨（depth_of_thought, philosophical_depth），在高度模糊和多义的意象中（ambiguity）寻找关于身份、存在和文明的本质意义（meaning, truth）。",
+        "behavioral_tendency_description": "作品极大地强化了内省和沉思行为（reflection），将精神逃离（escape）呈现为一种面对现实创伤的无奈选择。同时，对自我身份的执着追问（self_exploration, identity）成为主导的行为驱动力，鼓励读者进行深度的自我探索。"
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 0.35,
+        "Ti": 0.6,
+        "Te": 0.1,
+        "Fi": 0.95,
+        "Fe": 0.2,
+        "Si": 0.8,
+        "Se": 0.1,
+        "openness": 0.95,
+        "conscientiousness": 0.3,
+        "extraversion": 0.05,
+        "agreeableness": 0.35,
+        "neuroticism": 0.85,
+        "Assertive": 0.1,
+        "Turbulent": 0.9
+      },
+      "supporting_evidence": [
+        "叙事几乎完全摒弃线性时序，由记忆片段和梦境碎屑拼接构成。",
+        "伊斯兰苏菲派的神秘符号与印度教神话的意象被大量交织使用。",
+        "主人公在文本中始终处于一种流亡与无家可归的精神漫游状态。",
+        "对印巴分治带来的文化断裂和集体创伤进行了持续的、暗喻性的描述。",
+        "外部事件的描写被极度压缩，几乎全部由人物的内心独白和意识流动所占据。",
+        "语言风格高度诗化，充满了节奏感和复杂的修辞比喻。",
+        "小说反复追问“我们是谁、我们从哪里来、我们属于哪里”的核心问题。",
+        "现实、梦境与幻象之间的界限被有意模糊，三者无缝切换。",
+        "作品中弥漫着对失落的家园和已然消逝的过往世界的深切悼念。",
+        "主人公的视角极其主观且具有渗透性，外部世界完全由内心状态反映。",
+        "传统意义上的角色互动和戏剧性冲突非常稀少，冲突主要发生在内心层面。",
+        "全书的基调沉郁、缓慢，缺乏戏剧性的高潮和情节上的转折。",
+        "多个章节围绕特定的神话或苏菲寓言展开，作为理解现实的框架。",
+        "叙述中充满了对废墟、荒原、灰烬等具有强烈象征意义的场景的描绘。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

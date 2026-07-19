@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1995_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "西藏风光",
+        "type": "PHOTOGRAPHY",
+        "countryName": "中国",
+        "year": 1995,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.78,
+        "primaryMediaType": "PHOTOGRAPHY"
+      },
+      "semantic": {
+        "summary": "《西藏风光》是孙成毅聚焦西藏自然与人文景观的系列摄影集。作品通过光影捕捉雪峰、圣湖、高原和藏地人文场景，呈现极地高原纯净、深邃且充满敬畏感的视觉诗篇。核心在于展现人与天地之间静默而庄严的对话，传达对自然力量的凝视和对人类精神家园的探询。",
+        "themes": [
+          "自然",
+          "敬畏",
+          "信仰",
+          "纯净",
+          "时间",
+          "人与自然",
+          "光影"
+        ],
+        "keywords": [
+          "西藏",
+          "雪峰",
+          "圣湖",
+          "高原",
+          "光影变幻",
+          "藏地人文",
+          "诗意凝视",
+          "自然风光",
+          "摄影",
+          "孙成毅"
+        ],
+        "core_experience": "观众在面对这些高原影像时，首先体验到一种被自然巨大尺度压倒的静谧与敬畏，内心杂念被画面的纯净所涤荡。随之而来的是对时间、生命与信仰的深层沉思，最终获得一种精神上的释放与安宁。",
+        "experience_introduction": "《西藏风光》的摄影作品通过捕捉高原极端环境下的光影变幻和地理质感，刻意削弱了人类日常喧嚣的痕迹。这使得观众的注意力直接从世俗抽离，转向自然本身的崇高秩序。画面中的雪峰、圣湖和经幡不仅是地理景观，更是精神符号，引导观看者完成一次从视觉冲击到内心净化的完整审美体验，最终指向对存在本身的凝视和对永恒价值的追问。"
+      },
+      "experience_vector": {
+        "passion": 0.12,
+        "healing": 0.68,
+        "awe": 0.95,
+        "nostalgia": 0.31,
+        "reflection": 0.84,
+        "romance": 0.05,
+        "tension": 0.18,
+        "warmth": 0.22,
+        "loneliness": 0.76,
+        "hope": 0.54
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.78,
+          "complexity": 0.43,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.26,
+          "novelty": 0.48,
+          "exploration": 0.60,
+          "ambiguity": 0.55,
+          "predictability": 0.38,
+          "information_density": 0.52,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.35,
+          "relationship_scale": 0.08,
+          "social_scale": 0.12,
+          "civilization_scale": 0.42,
+          "cosmic_scale": 0.91,
+          "time_span": 0.88,
+          "fantasy_level": 0.09
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.25,
+          "loneliness": 0.76,
+          "warmth": 0.22,
+          "fear": 0.11,
+          "tension": 0.18,
+          "awe": 0.95,
+          "nostalgia": 0.31,
+          "hope": 0.54,
+          "melancholy": 0.36,
+          "anger": 0.01,
+          "peace": 0.88
+        },
+        "aesthetic": {
+          "beauty": 0.93,
+          "minimalism": 0.72,
+          "luxury": 0.04,
+          "darkness": 0.28,
+          "brightness": 0.65,
+          "dreamlike": 0.46,
+          "mystery": 0.71,
+          "experimental": 0.33,
+          "classical": 0.76,
+          "modern": 0.42
+        },
+        "narrative": {
+          "plot_complexity": 0.05,
+          "character_depth": 0.07,
+          "character_growth": 0.02,
+          "world_building": 0.38,
+          "nonlinear_structure": 0.12,
+          "slow_immersion": 0.89,
+          "action_intensity": 0.03,
+          "conflict_intensity": 0.14,
+          "philosophical_depth": 0.86
+        },
+        "social": {
+          "individualism": 0.28,
+          "collectivism": 0.35,
+          "family": 0.08,
+          "friendship": 0.04,
+          "love": 0.06,
+          "community": 0.22,
+          "competition": 0.02,
+          "cooperation": 0.11,
+          "power_relationship": 0.03,
+          "identity": 0.31
+        },
+        "value": {
+          "freedom": 0.58,
+          "order": 0.45,
+          "truth": 0.79,
+          "beauty": 0.93,
+          "achievement": 0.08,
+          "justice": 0.07,
+          "sacrifice": 0.21,
+          "self_exploration": 0.68,
+          "tradition": 0.52,
+          "change": 0.16,
+          "survival": 0.24,
+          "meaning": 0.88
+        },
+        "behavior": {
+          "curiosity": 0.62,
+          "creation": 0.48,
+          "adventure": 0.39,
+          "reflection": 0.89,
+          "competition": 0.02,
+          "social": 0.06,
+          "discipline": 0.55,
+          "risk": 0.21,
+          "calm": 0.87,
+          "escape": 0.44
+        },
+        "sensory": {
+          "visual_intensity": 0.86,
+          "color_richness": 0.74,
+          "sound_intensity": 0.01,
+          "rhythm_energy": 0.12,
+          "atmosphere": 0.92,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "photography_vector": {
+          "reality_capture": 0.92,
+          "human_focus": 0.34,
+          "visual_composition": 0.95,
+          "documentary_value": 0.88,
+          "artistic_expression": 0.90,
+          "moment_sensitivity": 0.82
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.12,
+          "explanation": "作品以静态和深沉的凝视取代了热烈起伏的情绪表达，情感基调冷静而克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.68,
+          "explanation": "纯净深邃的画面排除了世俗纷扰，为观众提供了精神上的净化与安抚。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.95,
+          "explanation": "雪峰与圣湖的巨大尺度、光影的神圣感，始终激发着对自然力量的惊叹与敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.31,
+          "explanation": "虽然捕捉了传统人文符号，但作品的重心在于永恒的当下凝视而非对逝去时光的追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.84,
+          "explanation": "画面的静默与深邃引导观众从视觉观看转向对生命、时间和信仰的内省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "主题围绕人与宇宙的对视，几乎不涉及人际间的情爱叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.18,
+          "explanation": "影像追求宁静与秩序，缺乏叙事性的戏剧冲突或紧迫感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.22,
+          "explanation": "视觉氛围以冷峻、巨大的自然感为主，人际温情在此宏大语境中极为淡薄。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.76,
+          "explanation": "画面中往往不见喧嚣的人群，展现了个体乃至人类在广袤天地间的寂寥感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.54,
+          "explanation": "在极端的纯净与静默中，透露出一种生命不灭和灵魂得以安放的隐约希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.78,
+          "explanation": "影像本身就是对具象风景的抽象，通过光影和构图将物质转化为精神符号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.43,
+          "explanation": "尽管意蕴深远，但画面构成并不追求庞杂的系统性或反复交错的逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "作品脱离了对风光的简单记录，诱导观众进入关于永恒自然与短暂生命的哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.26,
+          "explanation": "影像作为瞬间的凝固，不依赖因果推演或复杂的逻辑链来传递信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.48,
+          "explanation": "极地风光题材本身具有一定独特性，但在艺术表达上更多是致敬经典而非颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "摄影师深入高原腹地，作品本身就是一种对未知地理与精神边界的双重探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "光影朦胧处留下解读空间，但自然形态的冲击力始终给予观者明确的方向感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.38,
+          "explanation": "虽为静态摄影，但自然的壮丽总是超出日常经验，总能带来超出预期的视觉震撼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.52,
+          "explanation": "每一幅画面都蕴含了独特的地理地貌和丰富的光影层次，传递着高密度的视觉信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "观众可以通过影像习得高原地理特征、藏地文化符号以及对自然美学的深层感悟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.35,
+          "explanation": "鲜少聚焦个体特写的心理描写，人仅仅被作为自然整体中的微小参照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.08,
+          "explanation": "视界中几乎没有关于人际互动关系的叙述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.12,
+          "explanation": "社会结构和集体活动在凝视宏大宇宙的作品里被显著淡化了。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.42,
+          "explanation": "经幡、古寺等人造痕迹在场，却更像是依附于自然的次要印记，而非独立的文明叙述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.91,
+          "explanation": "光影切割下的天地轮廓，凝固的云海与银河般的圣湖，时常展现出宇宙洪荒的尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.88,
+          "explanation": "古老的岩层、永恒的冰川轻易跨越千万年，瞬间的快门由此指向了无限的时间维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.09,
+          "explanation": "忠于自然的纪实拍摄，拒绝构建超自然或架空的幻想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "情感基调庄严而肃穆，很少通过轻松悦动的节奏触发愉悦感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.25,
+          "explanation": "透着一丝微凉的悲悯，但不是悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.76,
+          "explanation": "广袤无垠的高原上人迹罕至，画面大量传达出个体或孤立于天地间的孤绝之感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.22,
+          "explanation": "色彩和氛围偏向冷峻，缺乏人与人之间的温情互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.11,
+          "explanation": "对自然的敬畏远大于恐惧，画面并不以惊悚或威胁感为目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.18,
+          "explanation": "即使是险峻的地貌，也被定格为静默的存在，没有叙事紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.95,
+          "explanation": "高达耸立的雪峰与深邃的湖泊构成了压倒性的崇高感，是作品最核心的情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.31,
+          "explanation": "虽有传统符号出现，但画面的冲击力重在当下的神圣，而非过往的追忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.54,
+          "explanation": "壮阔的风景中蕴含着一线生机，如深处蛮荒却仍然注视着光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.36,
+          "explanation": "自然的肃杀与孤寂引发轻微的忧郁感，但被敬畏感冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.01,
+          "explanation": "毫无攻击性或愤怒的视觉表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.88,
+          "explanation": "喧嚣褪去，画面内外的精神都达到了深层次的宁静与平衡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.93,
+          "explanation": "对光影与构图的严苛把控使画面呈现出无与伦比的和谐之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.72,
+          "explanation": "常常剔除了繁杂的前景使其变得极为简洁，提取出最纯粹的形式与光影。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.04,
+          "explanation": "远离一切物质堆砌和奢华消费的语境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.28,
+          "explanation": "具备深邃沉重的暗部，但黑暗仅作为光影对比，并非恐惧或阴森的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.65,
+          "explanation": "高原强烈的日照和高反差的雪景使得画面经常充满耀眼的光亮和灿烂的影调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.46,
+          "explanation": "翻滚的云海、如镜的冰湖偶尔营造出虚幻的氛围，但并不能完全朦胧脱实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.71,
+          "explanation": "被云雾缠绕的雪峰深不见底的山谷、以及独特的藏地风光为作品披上了神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.33,
+          "explanation": "更倾向于严谨的大画幅纪实美学，并没有去挑战反传统或解构主义的技法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.76,
+          "explanation": "在构图法则和光影塑造上，延续了古典风景油画的严谨与崇高美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.42,
+          "explanation": "作为现代摄影技术的载体，保留了当下的观察意识，但核心审美依然偏向经典。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.05,
+          "explanation": "单帧影像作为一种高度静止的切片，几乎不包含复杂的情节推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.07,
+          "explanation": "没有诞生多维且性格复杂的核心人物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.02,
+          "explanation": "由于不存在贯穿始终的动态人物，自然不存在角色的变化成长弧线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.38,
+          "explanation": "观众得以窥见一个封闭且自洽的高原世界，但世界描述全由单一影像拼接而非详细文字规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.12,
+          "explanation": "作为单张或组图的切换，影集间并没有去刻意打破正常的时空叙事线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.89,
+          "explanation": "作品极度需要观众静下心来凝神观望，完全是一种缓慢浸入式的深层次体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.03,
+          "explanation": "画面完全定格了宁静，无任何实质性的物理动作发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.14,
+          "explanation": "没有出现人与人、或人与自然之间的残酷搏斗，只有静态的包容与共存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.86,
+          "explanation": "通过纯粹的视觉，直指人类在大自然面前的渺小与自我存在的终极命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.28,
+          "explanation": "凝视自然时主观感受占主导，但情感更多表现为天人合一而非独立个性的张扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.35,
+          "explanation": "画面中的传统村落或朝圣场景隐含了集体的精神纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.08,
+          "explanation": "主题中不存在亲缘关系的讨论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.04,
+          "explanation": "友情同样不是本作品试图展现的要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.06,
+          "explanation": "缺乏对男女爱情或世俗亲密关系的直接影像描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.22,
+          "explanation": "偶尔闪现的宗教场面提供了极淡的社区联结感，但并非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.02,
+          "explanation": "与世隔绝的风光排除了任何社会性或世俗层面的竞争意识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.11,
+          "explanation": "并没有展示需要多角色高度协同才能完成的复杂事件。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.03,
+          "explanation": "所有权力结构都被自然的巨大力量所消解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.31,
+          "explanation": "传统的藏地人文元素低调地充当了当地人群的身份背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.58,
+          "explanation": "高原的辽阔极大地突破了空间和心理的局限，隐喻着一种奔放自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.45,
+          "explanation": "自然界的山峦走势与季节更替又彰显了不可被打破的严酷法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.79,
+          "explanation": "镜头尽力剥开掩饰，毫无保留地展示了刻写在岩石与积雪上的真实的残酷与壮美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.93,
+          "explanation": "摄人心魄的画面质感将大自然那种纯粹的甚至是决绝的艺术之美推向了极致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.08,
+          "explanation": "图像中很难找到关于世俗成功或达成某种出人头地的显著野心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.07,
+          "explanation": "不存在需要衡量道德对错或者分配公正的社会议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.21,
+          "explanation": "藏传佛教的某些苦修象征轻微地带出了牺牲感，但非常隐晦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.68,
+          "explanation": "强烈鼓励观众抛弃杂念，将注意力从外向内回收，反思自我的精神需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.52,
+          "explanation": "少量庙宇、经幡和传统服饰的出现显示了对古老文明传承的尊重与凝视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.16,
+          "explanation": "兴趣点集中在亘古不变的地质景观，而非动态的社会瓦解与重建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.24,
+          "explanation": "极度的高寒环境天然存在生存议题，但镜头并不聚焦与苦难搏斗的临界点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.88,
+          "explanation": "洗尽铅华的画面迫使灵魂直面本质，去追寻万物存在的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.62,
+          "explanation": "极大激发观众去窥探秘境深处那些尚未被触动的细节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.48,
+          "explanation": "这本身即是造物的成果，也能启迪观者对美学和自然进行二次创作重构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.39,
+          "explanation": "观看即像是在进行一次灵魂的冒险跋涉，但并不具备强互动性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.89,
+          "explanation": "作品的核心导向就是反思，它停驻下时间的脚步等待观赏者智慧的觉醒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "在这样静默的纯美下，人们很难激发出对抗性或者征服欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.06,
+          "explanation": "影像极大地向内收缩，并不提供促进群体陌生人间进行社交的动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.55,
+          "explanation": "宗教场景的切入和画面本身极端严谨的技法，体现出规则和自律的优美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.21,
+          "explanation": "虽然摄影师处于风险，但作品呈现的宁静并不直接鼓励观众去从事高危行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.87,
+          "explanation": "没有什么能比不怒自威的皑皑雪峰更能完美展示出镇定自若的强大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.44,
+          "explanation": "提供了一扇严酷现实之外的梦幻窗口，观众可借之暂时逃避高压的都市文明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.86,
+          "explanation": "高反差的极端光影与扑面而来的巨大地景，对眼睛构成充实且强烈的轰炸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.74,
+          "explanation": "蓝天、白峰、渐变的金色经幡与碧蓝湖水交织出层次分明又极其浓郁的色盘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.01,
+          "explanation": "作为静态无声的摄影作品，并不直接产生听觉上的压力输出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.12,
+          "explanation": "凝固的时空缺乏快节奏的冲动，只有大自然极其缓慢的心跳律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "秘境迷失、圣洁与寂寥的气氛被营造到了极致，将观者完全包裹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "利用高规格的画幅与真实细节，使观者产生仿佛身临高原的临场感。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.reality_capture",
+          "score": 0.92,
+          "explanation": "专注于严谨的大画幅胶片拍摄，对自然界的地质细节和瞬间光影做了极高精度的记录。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.human_focus",
+          "score": 0.34,
+          "explanation": "纯粹的人像特写极为罕见，人往往仅作为宽幅景致中的剪影或点缀。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.visual_composition",
+          "score": 0.95,
+          "explanation": "完美地运用了黄金分割和线条引导，构建了极富秩序感与纵深感的宏大构图。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.documentary_value",
+          "score": 0.88,
+          "explanation": "忠实地封存了特定时期西藏地理风貌以及在地宗教人文痕迹的真实标本。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.artistic_expression",
+          "score": 0.90,
+          "explanation": "不仅仅是纪实，更是通过暗房技术与曝光将具象的风光升华为充满诗意的艺术作品。"
+        },
+        {
+          "dimensionPath": "media_vector.photography_vector.moment_sensitivity",
+          "score": 0.82,
+          "explanation": "精准地抓取了光线掠过雪山尖顶的那缕灵光和云彩飘散前的瞬时动态。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众首先被视觉上极致的光影与天际线冲击，产生压倒性的敬畏感。随后，内心的噪音在纯净的画面里被洗净，转为深层的孤独与反思，最终达成精神上的释然与长久的平静。这是一个包含了从震撼到净化的全过程的情感曲线。",
+        "structure_description": "作为系列摄影，作品以重组景物序列而非线性的时间轴来结构体验。每一帧画面都是一次独立的凝视，但在影集中并置后，它们共同堆砌出一种重复而递进的庄严主题，用视觉上的积重难返去宣告精神上的无限性。",
+        "cognitive_expression": "作品极大地弱化了叙事与逻辑，借此迫使观众抛弃常规的解析式思考。取而代之的是，鼓励观众通过深层次的凝视进行内省，处理非语言的象征符号，借由抽象的光影明暗去冥想真理与存在。",
+        "behavioral_tendency_description": "作品不断地引导观者进入一种冷静、克制且庄严的静观状态。在这种巨大的自然尺度下，观众被剥夺了争强好胜或激烈互动的欲望，转而倾向于高度自律的沉思和对内在世界边界的探索。"
+      },
+      "personality_affinity": {
+        "Ni": 0.88,
+        "Ne": 0.42,
+        "Ti": 0.58,
+        "Te": 0.12,
+        "Fi": 0.75,
+        "Fe": 0.16,
+        "Si": 0.52,
+        "Se": 0.66,
+        "openness": 0.87,
+        "conscientiousness": 0.64,
+        "extraversion": 0.11,
+        "agreeableness": 0.28,
+        "neuroticism": 0.32,
+        "Assertive": 0.71,
+        "Turbulent": 0.33
+      },
+      "supporting_evidence": [
+        "摄影师将镜头对准了人迹罕至的西藏雪峰、圣湖与广袤的高原荒原。",
+        "画面刻意排除了复杂的社会喧嚣，突出寂寥空灵的氛围。",
+        "光影反差极强，阳光照亮雪顶，而山谷则深陷入厚重的黑影之中。",
+        "取景与构图具有极高的秩序感与均衡之美。",
+        "画面中的岩石肌理和冰川形态已然跨越了漫长的地质年代。",
+        "偶尔有藏民、行僧或经幡出现于风景中，但仅作为自然整体中的渺小参照。",
+        "在暴烈天气的间隙中，捕捉到了极其宁静和通透明亮的罕见气候光线。",
+        "影像直指视觉本质，并没有依赖于复杂的数码拼贴或叙事性的蒙太奇。",
+        "摄影捕捉并未试图去对抗或暴力征服这些严峻的自然环境，而是静静仰望。",
+        "在独特的个人创作中，孙成毅多次往返藏地进行大量艰苦的高海拔户外拍摄。",
+        "深紫色的天际线与金黄的山脊线构成了油画般浓郁的色彩张力。",
+        "无人的旷野和冰封的湖泊，流露着超出常人经验感知的孤绝体验。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_gbr_1772_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "古舟子咏",
+        "type": "LITERATURE",
+        "countryName": "GBR",
+        "year": 1798,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.92,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "一首长篇叙事诗，讲述老水手在航海中无故射杀信天翁，随后遭遇一连串超自然惩罚。船员相继死去，老水手独自在海上承受诅咒与孤独，直到他无意间对海中生物产生爱意，诅咒才得以解除。归航后，他终身游走讲述自己的故事，传递对生命的敬畏。诗歌以哥特式神秘氛围、强烈的音乐性节奏和丰富的基督教象征意象，深入探索罪与罚、忏悔与救赎的命题。",
+        "themes": [
+          "罪与罚",
+          "忏悔",
+          "救赎",
+          "孤独",
+          "生命敬畏",
+          "自然",
+          "超自然",
+          "命运",
+          "死亡",
+          "信仰"
+        ],
+        "keywords": [
+          "信天翁",
+          "老水手",
+          "幽灵船",
+          "死中生",
+          "航海",
+          "诅咒",
+          "婚礼宾客",
+          "南极",
+          "海蛇",
+          "浪漫主义"
+        ],
+        "core_experience": "跟随老水手穿越充满死亡与超自然幻象的海域，从无因的暴力行为坠入深重的罪疚与孤绝，再通过对生命中微弱之美的瞬间凝视获得心灵解脱。神秘、梦幻而沉重的氛围贯穿始终，最终在不安中获得某种庄严的平静。",
+        "experience_introduction": "作品以哥特式的超自然意象和古老的歌谣节奏，将读者强行置于一名老水手的视角中，体验从无因的杀戮到灵魂的荒芜，再到对生命之美的顿悟和终生游走的忏悔。整个阅读过程如同被一场挥之不去的噩梦裹挟，在恐惧与敬畏之间反复摇摆，最终在宗教般的肃穆中感受到一种沉重的安宁。"
+      },
+      "experience_vector": {
+        "passion": 0.45,
+        "healing": 0.65,
+        "awe": 0.88,
+        "nostalgia": 0.70,
+        "reflection": 0.92,
+        "romance": 0.20,
+        "tension": 0.85,
+        "warmth": 0.25,
+        "loneliness": 0.95,
+        "hope": 0.52
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.78,
+          "complexity": 0.72,
+          "depth_of_thought": 0.90,
+          "logical_structure": 0.55,
+          "novelty": 0.82,
+          "exploration": 0.75,
+          "ambiguity": 0.86,
+          "predictability": 0.30,
+          "information_density": 0.78,
+          "learning_value": 0.80
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.42,
+          "social_scale": 0.35,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.85,
+          "time_span": 0.70,
+          "fantasy_level": 0.82
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.80,
+          "loneliness": 0.95,
+          "warmth": 0.22,
+          "fear": 0.85,
+          "tension": 0.88,
+          "awe": 0.92,
+          "nostalgia": 0.68,
+          "hope": 0.48,
+          "melancholy": 0.85,
+          "anger": 0.30,
+          "peace": 0.38
+        },
+        "aesthetic": {
+          "beauty": 0.80,
+          "minimalism": 0.35,
+          "luxury": 0.18,
+          "darkness": 0.90,
+          "brightness": 0.25,
+          "dreamlike": 0.88,
+          "mystery": 0.95,
+          "experimental": 0.72,
+          "classical": 0.75,
+          "modern": 0.20
+        },
+        "narrative": {
+          "plot_complexity": 0.55,
+          "character_depth": 0.78,
+          "character_growth": 0.88,
+          "world_building": 0.72,
+          "nonlinear_structure": 0.40,
+          "slow_immersion": 0.82,
+          "action_intensity": 0.32,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.92
+        },
+        "social": {
+          "individualism": 0.88,
+          "collectivism": 0.28,
+          "family": 0.22,
+          "friendship": 0.18,
+          "love": 0.25,
+          "community": 0.15,
+          "competition": 0.20,
+          "cooperation": 0.15,
+          "power_relationship": 0.55,
+          "identity": 0.82
+        },
+        "value": {
+          "freedom": 0.48,
+          "order": 0.38,
+          "truth": 0.78,
+          "beauty": 0.82,
+          "achievement": 0.15,
+          "justice": 0.72,
+          "sacrifice": 0.80,
+          "self_exploration": 0.85,
+          "tradition": 0.62,
+          "change": 0.70,
+          "survival": 0.85,
+          "meaning": 0.92
+        },
+        "behavior": {
+          "curiosity": 0.68,
+          "creation": 0.42,
+          "adventure": 0.78,
+          "reflection": 0.95,
+          "competition": 0.18,
+          "social": 0.25,
+          "discipline": 0.32,
+          "risk": 0.72,
+          "calm": 0.30,
+          "escape": 0.48
+        },
+        "sensory": {
+          "visual_intensity": 0.85,
+          "color_richness": 0.78,
+          "sound_intensity": 0.90,
+          "rhythm_energy": 0.82,
+          "atmosphere": 0.95,
+          "immersion": 0.92
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.92,
+          "language_artistry": 0.95,
+          "symbolism": 0.95,
+          "rhetorical_complexity": 0.85,
+          "intellectual_depth": 0.88,
+          "cultural_depth": 0.85,
+          "knowledge_density": 0.78,
+          "interpretation_openness": 0.90
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.45,
+          "explanation": "诗歌始终笼罩在沉重的宗教氛围中，激情被罪疚与恐惧所压制，很少出现激昂的情感爆发。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.65,
+          "explanation": "作品结尾呈现了忏悔后的精神释放，老水手通过讲述故事获得心灵的慰藉，具有一定疗愈色彩。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.88,
+          "explanation": "超自然惩罚、幽灵船、死而复生的船员等意象反复营造出强烈的敬畏感，使读者持续处于对神秘力量的震撼中。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.70,
+          "explanation": "老水手不断回望过去的遭遇，叙事本身即是对一段刻骨经历的追忆，带有浓厚的怀旧与追悔色彩。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "整首诗始终围绕罪疚、惩罚、忏悔与救赎展开，促使读者不断进行道德与存在的深刻反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.20,
+          "explanation": "诗歌中几乎没有涉及浪漫爱情，婚礼场景仅作为叙事框架短暂出现，不构成情感主线。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.85,
+          "explanation": "从诅咒降临到船员死亡再到海上独自漂流，超自然力量的威胁和死亡意象持续制造高张力的心理体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.25,
+          "explanation": "整首诗氛围阴郁寒冷，人际关系稀少且多处于危机之中，温馨时刻极为罕见。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.95,
+          "explanation": "老水手目睹同伴全部死亡后独自在海上漂流，归航后又漂泊各地独自讲述，孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.52,
+          "explanation": "诅咒最终解除且老水手获得精神上的和解，但持续的痛苦和永远的忏悔义务使希望感始终被沉重所抵消。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.78,
+          "explanation": "信天翁、幽灵船、掷骰子的死神等大量象征意象使内容高度抽象，需要透过具象叙事理解深层寓意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.72,
+          "explanation": "基督教象征、浪漫主义哲学和超自然叙事交织在一起，文本具有多层次的意义结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.90,
+          "explanation": "诗歌深入探讨罪与罚的本质、生命的神圣性以及灵魂忏悔的过程，哲学和宗教意涵极为深厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "叙事由梦境般的幻象和超自然事件推动，因果逻辑时常模糊，不以理性结构为核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.82,
+          "explanation": "对18世纪末的读者而言，将哥特式恐怖与浪漫主义自然观融合成一首长篇歌谣体诗具有强烈的创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.75,
+          "explanation": "诗歌带领读者探索未知的极地海域、超自然的世界以及人类内心深处的罪疚感与救赎渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.86,
+          "explanation": "许多象征的确切含义保持开放性，如信天翁的多重隐喻和超自然力量的本源始终未被明确解释。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "超自然事件的发生突然而不可预测，情节走向由非人的神秘意志决定，读者难以预见后续发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.78,
+          "explanation": "每节诗歌都蕴含丰富的象征、隐喻和宗教指涉，信息以高度凝练的歌谣体形式密集呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.80,
+          "explanation": "读者可以从中理解浪漫主义文学的核心观念、基督教罪与救赎的伦理以及人与自然关系的哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "整个叙事从老水手个人的视角和内心体验展开，聚焦于他个人的罪疚感与精神转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.42,
+          "explanation": "除了老水手与婚礼宾客的短暂互动以及他对船员死亡的悲痛外，人际关系的描写相当有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.35,
+          "explanation": "故事几乎完全发生在远离社会的大海上，社会制度和集体生活的维度在作品中极少涉及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "作品无意展示文明体系或历史进程，其关注点始终放在个体灵魂与宇宙超自然力量的直接对峙上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.85,
+          "explanation": "超自然力量、死神、命运以及天地间的惩罚与法则共同构成一个宏大的宇宙性框架，远超凡人社会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.70,
+          "explanation": "叙事不仅涵盖漫长的海上苦难岁月，还延伸至归航后老水手终身的游荡讲述，时间跨度相当大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.82,
+          "explanation": "幽灵船、死而复生的船员、超自然现象和诅咒等元素高度偏离现实世界，充满幻想色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "整首诗几乎不存在轻松愉悦的时刻，氛围从阴郁到恐怖再至庄严的哀伤，快乐感极为稀少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.80,
+          "explanation": "船员集体死亡、老水手永远失去同伴，整体弥漫着深沉的悲痛与哀悼之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.95,
+          "explanation": "老水手独自一人生还，独自面对大海与诅咒，余生又独自游历讲述，孤独感是作品最核心的情绪氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.22,
+          "explanation": "作品中的人际温情极度匮乏，仅有偶尔对自然生灵产生的情感可被视为一丝温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.85,
+          "explanation": "超自然幻象、死亡逼近和不可知力量的掌控持续在读者心中引发强烈的恐惧情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.88,
+          "explanation": "从诅咒开始到最终解脱之前，诗歌长期维持着高度的心理紧张感，危机感始终未曾消散。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.92,
+          "explanation": "面对神圣的信天翁、诡异的幽灵船和恢弘的宇宙法则，作品持续唤起超出日常经验的宗教性敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.68,
+          "explanation": "老水手回忆过往的航海经历和痛苦遭遇，叙事本身带有对过去岁月的深切回望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.48,
+          "explanation": "诅咒最终得以解除暗示了救赎的可能性，但持续的忏悔使命使得希望以一种沉重而微弱的方式存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.85,
+          "explanation": "从海上的阴郁气氛到归航后的沧桑语调，一种挥之不去的忧郁渗透了整部作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.30,
+          "explanation": "诗中很少出现愤怒或复仇的情感，老水手更多是承受而非反抗，罪疚压倒了愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.38,
+          "explanation": "虽然最终获得精神上的和解，但持续的游荡讲述使平静感始终被不安所搅动，真正的安宁难以达到。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.80,
+          "explanation": "诗歌以精妙的格律、丰富的意象和优美的语言营造出强烈的美学体验，即使在恐怖场景中也保留了一种庄严之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.35,
+          "explanation": "作品使用了密实的象征和复杂的修辞，语言并非以简约克制为特征，而是倾向于繁复的哥特式渲染。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.18,
+          "explanation": "诗歌描绘的是一个阴冷、荒凉甚至死寂的世界，几乎不存在任何华丽、奢侈或富足的审美元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.90,
+          "explanation": "黑夜的海洋、死而复生的尸体、注定的诅咒和浓厚的哥特氛围共同构成了极端阴郁黑暗的美学基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.25,
+          "explanation": "作品中偶尔出现的月光或对海蛇之美的描写带来短暂的光明感，但整体视觉上被黑暗和阴影支配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.88,
+          "explanation": "幻觉般的幽灵船、超自然事件的非现实性以及老水手半催眠般讲述都营造出强烈的梦境般质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.95,
+          "explanation": "诅咒的来源、超自然力量的本质和信天翁的多重象征始终笼罩在神秘之中，驱使读者不断探寻隐义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.72,
+          "explanation": "在18世纪末将民谣体与哲学沉思、哥特恐怖相融合，对当时的诗歌形式进行了大胆的突破和实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "诗歌使用了传统的歌谣体和旁注形式，在形式上呼应了古典民谣和中世纪文学的传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.20,
+          "explanation": "作品深深植根于浪漫主义早期的美学，尚未呈现出属于现代主义的简洁、碎片化或都市感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.55,
+          "explanation": "主要事件线相对清晰，围绕一件核心罪行及其后果展开，缺乏多线叙事或复杂的结构技巧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.78,
+          "explanation": "老水手的内心罪疚感、孤独感和精神转变被深刻地刻画，展现了相当丰富的心理层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.88,
+          "explanation": "老水手从无故施暴到经历惩罚，最终在磨难中学会敬畏生命，整个精神转变过程构成了叙事的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.72,
+          "explanation": "作品完整地构建了一个充满超自然规则的世界，其中万物生命有灵且有神圣性，破坏者必然受罚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.40,
+          "explanation": "虽然叙事采取了倒叙框架，即老水手向婚礼宾客回忆往事，但往事本身基本按时间顺序讲述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.82,
+          "explanation": "诗歌以悠长的节奏、反复的叠句和绵密的细节描写让读者逐渐沉浸于如梦如幻的海上世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.32,
+          "explanation": "作品几乎没有激烈的动作场面，心理变化和意象呈现主导了叙事，外部行动相当克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "老水手与超自然力量的对抗、内心的罪恶感与寻求救赎之间的挣扎始终保持着极高的冲突强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.92,
+          "explanation": "诗歌触及罪与罚的伦理本质、生命的神圣性以及救赎的可能性，哲学思考的深度远超一般叙事作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.88,
+          "explanation": "叙事完全聚焦于老水手个人的遭遇、罪疚和救赎，其精神旅程高度内向且以自我为中心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.28,
+          "explanation": "船员集体很快死亡，社会群体几乎没有在故事中发挥作用，集体价值不是作品的核心关切。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.22,
+          "explanation": "诗歌中没有涉及家庭关系或亲情描写，老水手的形象完全是孤立的个体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.18,
+          "explanation": "船员之间的情谊被轻描淡写，老水手几乎没有与任何特定人物建立深厚的友谊联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.25,
+          "explanation": "爱情并非本诗的主题，唯一的温和情感是对自然生灵的宗教性之爱，而非人与人之间的爱恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.15,
+          "explanation": "故事发生在远离人类社区的大海上，社会共同体在作品中几乎完全缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.20,
+          "explanation": "作品中不存在任何形式的竞争关系，冲突发生于个体与超自然力量之间，而非人与人之间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.15,
+          "explanation": "船员之间的合作仅在叙事背景中短暂存在，并非推动情节或主题的核心要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.55,
+          "explanation": "超自然力量与凡人之间存在清晰且不可逆的支配关系，老水手始终处于被惩罚和被控制的地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.82,
+          "explanation": "老水手的身份从普通水手转变为被诅咒之人再到忏悔的游荡者，身份认同始终是深层关切。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.48,
+          "explanation": "老水手在诅咒解除后获得了某种程度的自由，但其余生被讲述的义务所约束，自由感并不完整。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.38,
+          "explanation": "诗中展示的更像是超自然的宿命秩序而非人类社会的规训秩序，且这一秩序本身也是神秘而不可预测的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.78,
+          "explanation": "诗歌试图揭示关于罪与罚、生命神圣性的深层真理，老水手的讲述本身就是传递这一真理的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.82,
+          "explanation": "即使在死亡和恐怖之中，诗歌也不断呈现语言之美和自然界的光怪陆离之美，将美视为核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "世俗意义上的成就或成功在本诗中毫无地位，老水手的经历是一场灾难而非功业的建立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.72,
+          "explanation": "超自然惩罚机制体现了一种宇宙正义观，尽管其运作方式冷酷而神秘，但善恶终有报的观念贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.80,
+          "explanation": "老水手承受了巨大的苦难和终身的忏悔义务，这一自我牺牲的过程是作品的重要价值所在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "整个叙事都是老水手不断审视自己内心罪疚、理解自我并与自我和解的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.62,
+          "explanation": "诗歌采用了古老的歌谣体和基督教伦理框架，但在其中注入了浪漫主义的新精神，传统形式上有所承传。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.70,
+          "explanation": "老水手经历了根本性的精神转变，从麻木的施暴者转变为敬畏生命的布道者，变化成为核心命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "在船员全部死亡的环境中，老水手的生还本身就是一个核心事实，生存是其一切精神体验的物质基础。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.92,
+          "explanation": "整个作品都在追问苦难的意义、罪罚的意义以及人类在宇宙中的位置，对生命意义的探索是其根本驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.68,
+          "explanation": "老水手踏上危险的远航本身即源于对未知世界的好奇，超自然幻象也在一定程度上激发了求知欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.42,
+          "explanation": "作品的核心行为是承受和讲述而非创造，但诗歌本身作为一件艺术创造品具有相应的创造精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.78,
+          "explanation": "航海前往未知的南极海域本身即是一场冒险，海上遭遇超自然力量进一步强化了冒险的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "老水手不断在内心回顾、审视和思考自己的行为与苦难，反思几乎是他余生唯一的核心行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.18,
+          "explanation": "作品中几乎不存在任何需要竞争或对抗的情境，敌人不是其他个体而是超自然的宿命与自我。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "老水手的社会交往极度局限于不定期的讲述，且这种讲述是单向的布道而非双向的社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.32,
+          "explanation": "除了一再被要求讲述故事以外，诗歌中没有展示需要系统性纪律维持的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.72,
+          "explanation": "远航本身就是高风险行为，射杀信天翁更是在未知危险面前的鲁莽举动，整个故事建立在冒险之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.30,
+          "explanation": "诗歌的情感基调高度动荡，老水手长期处于恐惧、悔恨或狂乱之中，极少表现出沉着冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.48,
+          "explanation": "老水手无法从诅咒和回忆中逃脱，但他通过不断的讲述在精神上暂时逃离罪疚的压迫感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.85,
+          "explanation": "诗歌以极强的画面感描绘了血红的海洋、腐烂的尸体、幽灵船等令人难忘的视觉意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.78,
+          "explanation": "诗中频繁使用色彩描写，如红色的落日、绿色的海蛇、白色的信天翁，色彩意象丰富且具有象征性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.90,
+          "explanation": "歌谣体的节奏和韵律本身具有强烈的音乐性，诗中大量描写海洋的咆哮、冰裂的声响和幽灵的嘶吼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.82,
+          "explanation": "诗歌的民谣格律富有规律性的节奏感，同时通过段落变化制造出从宁静到紧张的多变节奏能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "哥特式的恐怖氛围、海洋的孤绝感和宗教般的庄严融为一体，整体气氛强烈且高度统一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.92,
+          "explanation": "强烈的意象、音乐性的语言和紧张的叙事让读者深深沉浸于那个神秘而可怖的海上世界。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.92,
+          "explanation": "采用古老的歌谣体形式并配以旁注，语言兼具民谣的质朴和浪漫主义的瑰丽，风格极为鲜明。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.95,
+          "explanation": "柯勒律治在韵律、节奏和意象选择上表现出极高的文字控制力，诗歌的音乐性和画面感均达到极高水准。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.95,
+          "explanation": "信天翁、幽灵船、死中生等意象具有多层次象征意义，是浪漫主义诗歌象征手法的典范之作。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.85,
+          "explanation": "诗歌综合运用了反复、对比、拟人和通感等多种修辞手法，修辞策略丰富且富有变化。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.88,
+          "explanation": "作品深深植根于基督教伦理、新柏拉图主义和浪漫主义哲学，思想渊源深厚且具有学术探讨价值。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.85,
+          "explanation": "诗歌反映了18世纪末英国浪漫主义运动的核心关切，同时也继承了中世纪民谣和基督教文化的深厚传统。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.78,
+          "explanation": "诗歌包含了航海知识、极地地理想象和宗教典故，以较短篇幅承载了较为密集的知识信息。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.90,
+          "explanation": "信天翁的象征、惩罚的正义性和老水手的罪责程度均可从多角度解读，作品保留了广阔的阐释空间。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者跟随老水手进入一场从无因暴力到灵魂荒芜再到对生命顿悟的精神旅程。整体体验由浓厚的哥特式恐惧与孤独主导，期间夹杂着面对宇宙超自然力量的深深敬畏。当老水手凝视海蛇之美并产生爱意的瞬间，情感出现微弱的回暖，但随即被终生的忏悔使命拉回沉重与庄严之中。最终读者感受到的不是轻松的解脱，而是一种带有宗教肃穆感的沉重平静。",
+        "structure_description": "叙事采用倒叙框架，老水手拦下婚礼宾客讲述往事，使整个故事成为一场无法停止的告解。诗歌以歌谣体的四行诗节为主干，通过反复的叠句、韵律变化和旁注形成层层推进的音乐性节奏。叙事从远航的冒险开始，经犯罪、惩罚的高潮，再到缓慢的精神和解与归航后的终生游荡，形成一个封闭而循环的忏悔结构。",
+        "cognitive_expression": "作品大量使用多层次象征和高密度意象，要求读者在具象的恐怖叙事之下持续挖掘隐喻意义和宗教指涉。诗歌不提供明确的道德结论，而是通过模糊的超自然现象和开放的象征体系激发读者的主动诠释与哲学反思。同时，歌谣体的规律性韵律与内容的非理性恐惧形成张力，使认知活动在情感冲击与理性追寻之间反复切换。",
+        "behavioral_tendency_description": "作品鼓励深度的内省行为，老水手的终生反思为读者提供了一个持续审视自我罪疚与生命意义的模版。同时，诗歌也唤起对未知世界的探索冲动，尽管这种探索在诗中带来了灾难，但其冒险精神仍然得到呈现。最终，老水手向陌生人讲述故事的行为暗示了承受苦难后向他人传递领悟的义务，强化了表达与分享的倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.92,
+        "Ne": 0.65,
+        "Ti": 0.78,
+        "Te": 0.18,
+        "Fi": 0.88,
+        "Fe": 0.22,
+        "Si": 0.68,
+        "Se": 0.25,
+        "openness": 0.90,
+        "conscientiousness": 0.35,
+        "extraversion": 0.15,
+        "agreeableness": 0.30,
+        "neuroticism": 0.88,
+        "Assertive": 0.20,
+        "Turbulent": 0.92
+      },
+      "supporting_evidence": [
+        "老水手无故射杀信天翁，这一行为本身并无任何直接动机，突显了罪行的荒谬性。",
+        "船员在诅咒降临后一一死去，唯有老水手独自在海上活着面对惩罚。",
+        "叙事中频繁出现幽灵船和掷骰子的超自然存在，直接操控着凡人的命运。",
+        "老水手凝视海蛇的美丽并在心中产生爱意，诅咒随即开始松动。",
+        "诗歌采用古老的民谣体四行诗节，韵律回环往复，具有强烈的音乐性。",
+        "旁注以散文体补充说明诗歌内容，形成诗与注解的双重叙事层次。",
+        "信天翁的尸体被悬挂在老水手的脖子上，作为罪行的具体标记和负担。",
+        "从南极冰海到赤道无风带，叙事中的地理空间变化映射了老水手的精神状态。",
+        "归航后老水手终身游走，向陌生人反复讲述自己的故事，无法停留于任何地方。",
+        "整首诗以老水手拦住婚礼宾客开始讲述，将婚礼的喜庆与故事的阴郁形成尖锐对照。",
+        "作品中大量出现红色和绿色的意象，如血红的海洋与磷光闪烁的海蛇，具有强烈的象征色彩。",
+        "超自然力量惩罚的重点不是肉体消灭，而是让老水手在孤独和恐惧中持续承受精神折磨。",
+        "老水手最终领悟到无论大小，所有生命都同等神圣，这一认知构成了他的核心转变。",
+        "诗歌在1798年收入《抒情歌谣集》，标志着英国浪漫主义诗歌对传统民谣形式的革新。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

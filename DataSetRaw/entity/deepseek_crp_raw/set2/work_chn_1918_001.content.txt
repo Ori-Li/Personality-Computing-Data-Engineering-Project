@@ -1,0 +1,741 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1918_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "狂人日记",
+        "type": "NOVEL",
+        "countryName": "中国",
+        "year": 1918,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "中国现代文学史上第一篇白话短篇小说。作品以十三则日记为形式，记录一位“迫害狂”患者逐渐发现封建宗法社会与伦理道德“吃人”本质的过程。通过扭曲的视角、象征性意象和犀利的自省，揭示礼教对个体精神与肉体的吞噬，最终发出“救救孩子”的呐喊，成为中国新文化运动的文学宣言。",
+        "themes": [
+          "封建批判",
+          "礼教吃人",
+          "个体觉醒",
+          "社会病症",
+          "启蒙",
+          "人性异化",
+          "传统反思"
+        ],
+        "keywords": [
+          "狂人",
+          "吃人",
+          "礼教",
+          "日记体",
+          "新文化运动",
+          "鲁迅",
+          "赵家的狗",
+          "古久先生的陈年流水簿子",
+          "救救孩子",
+          "被迫害妄想"
+        ],
+        "core_experience": "读者跟随一个被认为“疯狂”的叙事者的视角，逐渐发现他所恐惧的“被吃”并非纯粹的幻觉，而是对传统社会残酷本质的深刻洞察。体验过程夹杂着不安、恐惧、愤怒与强烈的批判冲动，最终导向一种沉重的启蒙意识和深切的悲悯。",
+        "experience_introduction": "《狂人日记》使读者进入一个布满疑惧与象征的精神世界。读者透过狂人敏感而扭曲的目光，看到隐藏在日常伦理下的暴力真相。阅读过程并非享受故事，而是一次被迫的自我审视和对既有秩序的犀利解剖。作品通过强烈的隐喻和反讽，逼使读者从“正常”的思维中剥离，体验一种痛苦而又清醒的认知震颤。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.05,
+        "awe": 0.3,
+        "nostalgia": 0.1,
+        "reflection": 0.95,
+        "romance": 0.0,
+        "tension": 0.85,
+        "warmth": 0.0,
+        "loneliness": 0.9,
+        "hope": 0.4
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.88,
+          "complexity": 0.7,
+          "depth_of_thought": 0.92,
+          "logical_structure": 0.55,
+          "novelty": 0.95,
+          "exploration": 0.65,
+          "ambiguity": 0.85,
+          "predictability": 0.15,
+          "information_density": 0.8,
+          "learning_value": 0.9
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.6,
+          "social_scale": 0.8,
+          "civilization_scale": 0.75,
+          "cosmic_scale": 0.15,
+          "time_span": 0.2,
+          "fantasy_level": 0.3
+        },
+        "emotion": {
+          "happiness": 0.0,
+          "sadness": 0.75,
+          "loneliness": 0.92,
+          "warmth": 0.0,
+          "fear": 0.9,
+          "tension": 0.9,
+          "awe": 0.25,
+          "nostalgia": 0.05,
+          "hope": 0.35,
+          "melancholy": 0.85,
+          "anger": 0.78,
+          "peace": 0.0
+        },
+        "aesthetic": {
+          "beauty": 0.4,
+          "minimalism": 0.75,
+          "luxury": 0.0,
+          "darkness": 0.9,
+          "brightness": 0.05,
+          "dreamlike": 0.7,
+          "mystery": 0.6,
+          "experimental": 0.9,
+          "classical": 0.3,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.5,
+          "character_depth": 0.85,
+          "character_growth": 0.7,
+          "world_building": 0.3,
+          "nonlinear_structure": 0.4,
+          "slow_immersion": 0.3,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.88,
+          "philosophical_depth": 0.95
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.3,
+          "family": 0.7,
+          "friendship": 0.1,
+          "love": 0.05,
+          "community": 0.4,
+          "competition": 0.6,
+          "cooperation": 0.05,
+          "power_relationship": 0.8,
+          "identity": 0.75
+        },
+        "value": {
+          "freedom": 0.8,
+          "order": 0.2,
+          "truth": 0.92,
+          "beauty": 0.25,
+          "achievement": 0.15,
+          "justice": 0.85,
+          "sacrifice": 0.6,
+          "self_exploration": 0.88,
+          "tradition": 0.1,
+          "change": 0.9,
+          "survival": 0.8,
+          "meaning": 0.9
+        },
+        "behavior": {
+          "curiosity": 0.7,
+          "creation": 0.5,
+          "adventure": 0.2,
+          "reflection": 0.98,
+          "competition": 0.4,
+          "social": 0.15,
+          "discipline": 0.2,
+          "risk": 0.55,
+          "calm": 0.1,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.6,
+          "color_richness": 0.5,
+          "sound_intensity": 0.1,
+          "rhythm_energy": 0.4,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.95,
+          "writing_style": 0.9,
+          "narrative_voice": 0.92,
+          "symbolism": 0.98,
+          "inner_monologue": 0.95,
+          "world_building_depth": 0.2
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "作品以冷峻的审视和尖锐的讽刺为主，缺乏热血或激昂的激情表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品充满压抑、恐惧和批判，几乎不提供疗愈或安慰性的情感体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.3,
+          "explanation": "其思想深度和开创性文学地位带来一定敬畏感，但叙事本身侧重解构而非宏大震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品旨在打破旧梦而非怀旧，对传统的态度是批判和否定的。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "小说的核心目的即是引导读者进行深度的社会批判和自我反思，体验几乎纯粹是反思性的。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "全文无任何浪漫爱情元素，核心叙事与爱情完全无关。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.85,
+          "explanation": "狂人持续的被迫害恐惧和逐步揭开的“吃人”真相，制造了持续的高度心理紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.0,
+          "explanation": "人际关系被描绘为相互吞噬的冰冷关系，毫无温情可言。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.9,
+          "explanation": "主人公是完全孤立的个体，他的清醒使他与整个社会为敌，产生极致的孤独体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.4,
+          "explanation": "小说以“救救孩子”终结，点明了微弱的希望，但整体基调过于沉重，使希望感不占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.88,
+          "explanation": "通篇使用象征和隐喻，“吃人”一词被高度抽象为对封建礼教的本质概括。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.7,
+          "explanation": "思想结构多层，需要解读狂人话语背后的真实指向，存在一定的认知复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.92,
+          "explanation": "作品涉及对国民性、社会结构和文明本质的深刻反思，思想挖掘极深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "采用狂人碎片化的日记体，情感逻辑强于形式逻辑，结构上刻意打破了线性因果关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.95,
+          "explanation": "在1918年的中国，无论是白话文形式、日记体小说还是对礼教的彻底批判，都具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.65,
+          "explanation": "主要是对旧社会黑暗面和个体心理深渊的探索，而非对外部广袤世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.85,
+          "explanation": "狂人的话语真假交织，疯癫与清醒界限模糊，文本本身充满歧义和解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.15,
+          "explanation": "狂人的思维跳跃和非理性逻辑让情节发展难以预测，主题揭示也出人意料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.8,
+          "explanation": "极短的篇幅承载了巨大的思想内涵，几乎每句话都包含隐晦的社会文化信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.9,
+          "explanation": "读者可通过此作深刻理解中国近代史、新文化运动精神以及文学的社会批判功能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "故事核心严格限定在狂人的个人视角和心理感受中，呈现的是高度主观的内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.6,
+          "explanation": "通过狂人审视家人、邻里、大夫等关系，揭示了人际关系的残酷真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.8,
+          "explanation": "虽由个人视角出发，但批判对象是整个封建宗法社会结构，社会性极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.75,
+          "explanation": "作品将批判提升到“四千年吃人履历”的文明史层面，展现了对整个文明传统的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.15,
+          "explanation": "叙事焦点集中在社会与人心，不涉及宇宙、自然等宏大非人尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "主要情节发生在极短的时间内，但对话和思想牵涉数千年历史，时间感被拉长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.3,
+          "explanation": "现实背景下的心理幻觉描述，无超自然元素，更像魔幻现实主义而非纯粹幻想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.0,
+          "explanation": "小说氛围充满恐怖和压抑，没有任何快乐的情感表达空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "对麻木的民众和吃人的社会流露出深切的悲哀，尤其是结尾的绝望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.92,
+          "explanation": "孤身一人的清醒者对抗全社会，这种绝对孤立感是作品最核心的情感基调之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.0,
+          "explanation": "作品全程冷酷，无论是亲情还是其他关系，都表现为“吃人”的冷漠。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.9,
+          "explanation": "狂人对被吃的恐惧和读者对其处境的共情，共同构成了小说的主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "从开篇“我怕得有理”开始，紧张感和危机感一直持续到结尾从未中断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.25,
+          "explanation": "作品带来的主要是思想上的震惊而非情感上的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.05,
+          "explanation": "完全没有怀旧情绪，对过去的描写全是负面和批判性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.35,
+          "explanation": "结尾的“救救孩子”是微弱的呐喊，但整体黑暗的描写使希望感非常脆弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.85,
+          "explanation": "一种深沉的文化忧郁感和对民族命运的哀叹贯穿全文。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.78,
+          "explanation": "文本中充满对吃人者和吃人制度的强烈控诉，愤怒是内在的主导情绪之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.0,
+          "explanation": "冲突激烈，主人公的内心始终处于风暴之中，无片刻安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.4,
+          "explanation": "美不是其追求，其粗粝而有力的文体带有独特的文学之美，但不是优美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.75,
+          "explanation": "白话文写作，用词精炼，结构简洁，没有多余的描写，呈现出冷峻、朴素的风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "风格与奢华完全相反，是尖锐、阴郁和荒芜的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.9,
+          "explanation": "无论是心理描写还是氛围营造，都极其黑暗、压抑、阴郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "仅有结尾处暗含一丝思想的微光，文本整体是高度晦暗的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.7,
+          "explanation": "狂人的幻觉、妄想和跳跃的思维使小说场景具有强烈的梦境或梦魇特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.6,
+          "explanation": "狂人眼中的世界充满了未知的危险和潜在的威胁，营造出一种弥漫性的神秘和不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.9,
+          "explanation": "采用史无前例的白话日记体，叙事视角和结构在当时是高度前卫和实验性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.3,
+          "explanation": "虽有批判传统的引文格式，但其精神内核和语言形式是彻底反古典的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "作品本身就是中国文学现代性的标志，其主题、语言和技巧都属于现代文学范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.5,
+          "explanation": "缺乏传统意义上的复杂情节推进，主要由主人公的心理活动和碎片化观察构成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "对狂人的内心世界挖掘得淋漓尽致，展现了多层次的心理深度和思想斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.7,
+          "explanation": "主人公经历了一个从疑惑、恐惧到彻底觉醒和批判的过程，有明显的认知发展弧线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.3,
+          "explanation": "没有构建虚构世界，而是通过扭曲的视角重构了一个真实的、但更为残酷的旧中国社会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.4,
+          "explanation": "按日期记录的日记体在时间上是线性的，但内容的跳跃和意识流性质使其具有非线性的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.3,
+          "explanation": "篇幅短小，节奏紧凑，冲突从第一句话就开始了，没有让人缓慢沉浸的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "几乎没有外部动作描写，强度主要来自思想对抗的内在冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.88,
+          "explanation": "人与社会的对抗达到顶点，主人公与整个历史和文化背景为敌，冲突极其剧烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.95,
+          "explanation": "对人性、礼教、传统、文明等哲学命题的探讨是作品的核心，具有极高的思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "主人公是极度孤立的个体，他的价值在于他独立的、反叛集体的觉悟和思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.3,
+          "explanation": "虽然故事背景是宗法集体社会，但叙事完全站在批判和疏离这个集体的立场上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.7,
+          "explanation": "家庭关系是批判的核心场域之一，大哥和家人都是吃人者，血缘关系被异化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "小说中不存在良性友谊的描写，人际关系充满了猜忌和敌意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "爱情在作品中完全缺位，情感联结被扭曲为权力和吞噬关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.4,
+          "explanation": "描写的乡村和小镇社区是滋生“吃人”礼教的温床，社区是一种压迫性力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.6,
+          "explanation": "人与人之间被描绘成一种弱肉强食的残酷竞争关系，即“自己想吃人，又怕被别人吃了”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.05,
+          "explanation": "社会成员集体无意识地维护吃人秩序，并非良性合作，而是共谋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.8,
+          "explanation": "权力结构是核心议题，表现为强者对弱者、长辈对晚辈、多数人对少数人的绝对压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.75,
+          "explanation": "主人公在被迫害中不断反思和确认自我，对“我是谁”、“我是人还是兽”有深刻拷问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.8,
+          "explanation": "追求从封建礼教和精神压迫中解放出来，是作品的核心价值诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "作品要瓦解的正是旧有社会秩序，对新秩序的呼吁仅停留在“救救孩子”的模糊层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.92,
+          "explanation": "戳破仁义道德的假面，揭露社会“吃人”的真相，是小说的根本目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "美学价值并非作品的直接追求，其核心是求真和批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "主人公追求的并非世俗成就，而是觉醒和摆脱困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.85,
+          "explanation": "为无数被吃的弱小者鸣不平，对吃人制度发出愤怒的控诉，正义诉求极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.6,
+          "explanation": "“狂人”本身可能也是被吃者之一，他的觉醒付出了被社会孤立的巨大代价。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.88,
+          "explanation": "文本就是一场深入的自我探索过程，反复拷问自己的清白和与他人的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.1,
+          "explanation": "整个作品就是对传统的彻底否定和批判，认为四千年历史是一部吃人的历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.9,
+          "explanation": "呼吁彻底的变革，打破旧世界，是作品最底层和最强的动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.8,
+          "explanation": "最基本的生存威胁是叙事的出发点，“吃人”直接关乎身体和精神上的生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.9,
+          "explanation": "作品追问一切既定习俗和伦理的意义，并揭示其荒谬和虚妄，对存在和意义的探讨贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.7,
+          "explanation": "狂人对周围世界的异常充满探究欲，不断追问和研究，这是其最终觉醒的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.5,
+          "explanation": "作品本身是伟大的文学创作，但就其中的角色行为而言，更多是解构而非建设。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.2,
+          "explanation": "行为停留在对周边环境和历史的审查上，不涉及对外部世界的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.98,
+          "explanation": "反思和自省是主人公唯一且贯穿始终的核心行为模式，也是作品希望激发读者的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.4,
+          "explanation": "主人公的行为不是为了在现有体系内竞争，而是为了逃离和颠覆这个体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "所有社会互动都是病态和被怀疑的，读者体验到的是一种反社会的社交行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "叙事结构松散，狂人的思维无序，不存在自我约束或计划性的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "主人公挑战整个社会的做法是极其危险的，但他并非主动追求风险，而是被迫走入险境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.1,
+          "explanation": "主人公的精神状态高度亢奋、紧张和恐惧，没有片刻的冷静与放松。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "他试图从被吃的命运中挣脱，但更多是直面而非逃避，最终也希望孩子们离开这环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.6,
+          "explanation": "通过大量富有冲击力的意象（如死鱼眼睛、吃人）刺激读者的视觉想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.5,
+          "explanation": "视觉描写更多是关于阴郁、黑暗和猩红的意象，而非丰富绚烂的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.1,
+          "explanation": "文本总体上安静、内敛，侧重于内心独白和视觉意象，缺乏声音描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.4,
+          "explanation": "叙事有一种急促不安的节奏感，但并非来自外部动作，而是来自内心的激烈动荡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "压抑、恐怖、疑惧的氛围极其浓烈，如同无边的黑夜包裹着读者和叙述者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "第一人称日记体极易引发共情，读者会不由自主地沉浸于狂人紧张、偏执的主观世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.95,
+          "explanation": "作为中国现代文学的奠基之作，其思想内涵、象征运用和文本复杂性达到了极高的水平。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.9,
+          "explanation": "采用简洁有力、高度风格化的白话文，创造出一种独特的冷峻、尖锐的文体。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.92,
+          "explanation": "以狂人的第一人称日记体呈现，具有极强的主观性、不确定性和感染力，叙述声音独一无二。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.98,
+          "explanation": "全篇是高度象征化的写作，“吃人”、“赵家的狗”等意象构成了一个完整的、多层次的象征系统。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.95,
+          "explanation": "整部小说几乎就是狂人的内心独白，记录了他的恐惧、推理和道德拷问，展现了深度的意识流动。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.2,
+          "explanation": "作为批判现实的小说，它解构现实而非构建全新的幻想世界，因此世界构建的深度不体现在创造新世界上。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读《狂人日记》的核心体验是一种被冰冷绝望感包裹的思想觉醒。读者进入一个被迫害妄想患者的内心世界，起初感到混乱与疑惧，但随着主人公的“发现”，读者一同经历了社会温情面纱被撕裂的过程，最终直面封建伦理“吃人”的恐怖真相。情感上从不安、恐惧逐步过渡到深切的悲哀与愤怒，最终可能在绝望的谷底瞥见一丝变革的微光。这是一场由外向内、由表象到本质的痛苦省思之旅。",
+        "structure_description": "作品采用日记体的叙事结构来组织这种认知颠覆体验。通过十三则片段化、非线性的日记，将狂人碎片化的心理状态和社会批判步步推进。开篇的序言与正文形成反讽性的间离效果，让读者在正常与疯狂之间摇摆。文本节奏内紧外松，内在冲突逐渐升级，最终在“救救孩子”这一口号中戛然而止，使累积的情感与反思力量瞬间爆发。",
+        "cognitive_expression": "这部作品高度要求读者进行象征性解码和逻辑重构。读者必须穿透狂人病态的话语表面，去理解其背后的隐喻性真理。这促使读者运用抽象思维，在‘疯狂’与‘清醒’、‘正常’与‘反常’的二元对立中进行辩证思考。作品不断挑战读者的既有认知，迫使其对‘历史’、‘伦理’和‘人性’等宏大概念进行重新评估与独立思考。",
+        "behavioral_tendency_description": "作品唤起一种内省的、批判的行为倾向。它并不鼓励直接的外部行动，而是通过深刻的反思来瓦解读者的旧有观念，从而种下社会变革的思想种子。它鼓励读者像‘狂人’一样去审视身边习以为常的现象，质疑权威和传统，并在思想上与麻木的集体保持距离。这种行为是孤独的、反对顺从的、追求终极真相的。"
+      },
+      "personality_affinity": {
+        "Ni": 0.92,
+        "Ne": 0.35,
+        "Ti": 0.78,
+        "Te": 0.2,
+        "Fi": 0.85,
+        "Fe": 0.25,
+        "Si": 0.1,
+        "Se": 0.15,
+        "openness": 0.95,
+        "conscientiousness": 0.3,
+        "extraversion": 0.1,
+        "agreeableness": 0.1,
+        "neuroticism": 0.9,
+        "Assertive": 0.05,
+        "Turbulent": 0.92
+      },
+      "supporting_evidence": [
+        "小说以一个被村里人视为疯子的人为主角，用其日记展开叙事。",
+        "主角反复研究历史，得出满本都写着“仁义道德”，但字缝里却是“吃人”二字的结论。",
+        "作品中多次出现“赵家的狗”、“古人先生的陈年流水簿子”等具有强烈象征意味的意象。",
+        "叙事者感到自己的大哥、街上的女人、甚至小孩子也对自己怀有敌意，都想害自己。",
+        "主角因为踹了古人先生的簿子一脚，便感到与所有人为敌，成为众矢之的。",
+        "故事剖析了吃人者与弱小者的关系，并将这种关系具象为一种广泛的社会结构。",
+        "主角质问一个年轻人，得出“从来如此，便对么？”的诘问，质疑传统的绝对权威。",
+        "作品通过主角的独白，描绘了母亲也被迫参与到吃人仪式中的残酷场景。",
+        "主角最终发现自己未必清白，可能在无意中也吃过自己妹妹的肉，陷入深重的自我怀疑。",
+        "小说在最后呼吁“没有吃过人的孩子，或者还有？救救孩子……”，成为全篇的思想落脚点。",
+        "作品使用了1918年刚刚兴起的白话文，语言风格冷峻、生涩，与传统的文言小说完全不同。",
+        "开篇用一段文言文序言交代主角已“赴某地候补”，为狂人的“病愈”增添了一层反讽意味。",
+        "全篇通过一个受迫害者的极端心理视角来观察和揭露晚清民初的中国宗法社会。",
+        "叙事中不断穿插外部环境（如月色、狗叫）的描写，用以强化主人公内心的恐惧和孤立感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

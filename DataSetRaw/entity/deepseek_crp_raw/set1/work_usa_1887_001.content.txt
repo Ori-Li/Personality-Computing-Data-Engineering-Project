@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "观察",
+        "type": "LITERATURE",
+        "countryName": "美国",
+        "year": 1924,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.7,
+        "primaryMediaType": "LITERATURE",
+        "annotationLanguage": "zh-CN"
+      },
+      "semantic": {
+        "summary": "《观察》是美国现代主义诗人玛丽安·摩尔的诗集，1924年出版并获普利策奖。诗集以对自然生物、日常物品、艺术与体育等主题的精确观察为基础，运用独特的音节诗行、引语拼贴和冷静的智性语调，将外在世界的细节转化为内在哲思。作品拒绝感伤，强调客观描述与语言的精确性，探索真实与表象、秩序与自由之间的关系，为读者提供一种理性而充满惊奇的审美体验。",
+        "themes": [
+          "自然",
+          "艺术",
+          "观察",
+          "真实与表象",
+          "秩序",
+          "语言",
+          "美"
+        ],
+        "keywords": [
+          "精确观察",
+          "奇特意象",
+          "音节诗行",
+          "引语拼贴",
+          "现代主义",
+          "棒球",
+          "动物",
+          "客观描述",
+          "智性表达",
+          "自然世界"
+        ],
+        "core_experience": "读者跟随诗人冷静而专注的目光，对常见事物进行重新审视，在客观细节中发现惊奇与诗意。阅读过程带来一种克制的智性愉悦，以及因距离感和精确性而产生的宁静沉思。",
+        "experience_introduction": "《观察》通过高度精确的外部观察和独特的语言形式，引导读者进入一种冷静而专注的认知状态。作品不依赖情节或情感宣泄，而是以客观描述和智性反思为核心，使读者在阅读过程中不断重新审视熟悉事物，体验从日常细节中发掘惊奇与秩序的审美过程。"
+      },
+      "experience_vector": {
+        "passion": 0.1,
+        "healing": 0.15,
+        "awe": 0.6,
+        "nostalgia": 0.1,
+        "reflection": 0.85,
+        "romance": 0.0,
+        "tension": 0.2,
+        "warmth": 0.15,
+        "loneliness": 0.3,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.72,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.58,
+          "novelty": 0.78,
+          "exploration": 0.65,
+          "ambiguity": 0.62,
+          "predictability": 0.25,
+          "information_density": 0.8,
+          "learning_value": 0.7
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.15,
+          "social_scale": 0.25,
+          "civilization_scale": 0.45,
+          "cosmic_scale": 0.55,
+          "time_span": 0.2,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.1,
+          "loneliness": 0.3,
+          "warmth": 0.15,
+          "fear": 0.05,
+          "tension": 0.2,
+          "awe": 0.6,
+          "nostalgia": 0.1,
+          "hope": 0.2,
+          "melancholy": 0.25,
+          "anger": 0.05,
+          "peace": 0.7
+        },
+        "aesthetic": {
+          "beauty": 0.7,
+          "minimalism": 0.65,
+          "luxury": 0.1,
+          "darkness": 0.15,
+          "brightness": 0.55,
+          "dreamlike": 0.25,
+          "mystery": 0.5,
+          "experimental": 0.78,
+          "classical": 0.35,
+          "modern": 0.82
+        },
+        "narrative": {
+          "plot_complexity": 0.1,
+          "character_depth": 0.15,
+          "character_growth": 0.05,
+          "world_building": 0.35,
+          "nonlinear_structure": 0.45,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.15,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.6,
+          "collectivism": 0.15,
+          "family": 0.05,
+          "friendship": 0.1,
+          "love": 0.1,
+          "community": 0.2,
+          "competition": 0.15,
+          "cooperation": 0.1,
+          "power_relationship": 0.1,
+          "identity": 0.35
+        },
+        "value": {
+          "freedom": 0.55,
+          "order": 0.6,
+          "truth": 0.85,
+          "beauty": 0.78,
+          "achievement": 0.3,
+          "justice": 0.15,
+          "sacrifice": 0.05,
+          "self_exploration": 0.5,
+          "tradition": 0.3,
+          "change": 0.4,
+          "survival": 0.15,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.85,
+          "creation": 0.6,
+          "adventure": 0.3,
+          "reflection": 0.9,
+          "competition": 0.1,
+          "social": 0.1,
+          "discipline": 0.65,
+          "risk": 0.2,
+          "calm": 0.75,
+          "escape": 0.1
+        },
+        "sensory": {
+          "visual_intensity": 0.7,
+          "color_richness": 0.55,
+          "sound_intensity": 0.2,
+          "rhythm_energy": 0.35,
+          "atmosphere": 0.55,
+          "immersion": 0.45
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.82,
+          "language_artistry": 0.85,
+          "symbolism": 0.72,
+          "rhetorical_complexity": 0.75,
+          "intellectual_depth": 0.82,
+          "cultural_depth": 0.6,
+          "knowledge_density": 0.78,
+          "interpretation_openness": 0.68
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.1,
+          "explanation": "诗歌始终保持冷静客观的语气，不激发强烈情感冲动。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品以理性观察为主，几乎不提供情感慰藉或温暖安慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.6,
+          "explanation": "对寻常事物的精细描写揭示了其内在的惊奇之处，令人对世界产生赞叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品专注于当下观察而非回忆过去，怀旧感极为微弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "整部诗集引导读者不断进行智性反思和哲学层面的沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "诗集完全不涉及浪漫体验或爱情主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.2,
+          "explanation": "诗歌的情感基调平和，偶尔在探讨真实与表象的边界时产生轻微认知张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "作品风格偏向理智和客观，几乎不提供人际温暖感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.3,
+          "explanation": "诗歌中隐含观察者与被观察世界的距离感，带来淡淡的独处氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "诗歌并不直接传递希望或乐观情绪，而是以冷静探究为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "诗歌常从具体事物延伸至普遍原理和抽象哲思，要求较强的抽象思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.72,
+          "explanation": "多层级的意象、拼贴结构和引语交织使得诗歌具备较高的认知复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "每首诗都深入探讨自然、艺术等主题的本质，思想深度显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.58,
+          "explanation": "诗歌组织呈现出一定的内在逻辑，但更依赖意象关联和感性跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.78,
+          "explanation": "在1920年代，其独特的音节诗行和引语拼贴法具有极高的原创性和实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.65,
+          "explanation": "诗歌通过对日常物象的审视，探索了真实世界的认知边界和隐藏秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.62,
+          "explanation": "诗意表达常留有多重解释空间，引语和意象的并置产生开放性意指。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "诗歌的意象选择和结构安排常常出人意料，难以预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.8,
+          "explanation": "诗歌语言极为凝练，包含丰富的视觉细节和文化元素，信息密度很高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.7,
+          "explanation": "读者可以从中获得对生物、艺术和文化史的丰富认知，提升审美和智性修养。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "诗歌聚焦于个体如何观察和理解世界，是高度个人化的视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.15,
+          "explanation": "作品几乎不涉及人际间的情感协商或社会交往。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.25,
+          "explanation": "尽管偶尔涉及社会性议题，但并非诗集的核心关切。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.45,
+          "explanation": "诗歌通过对艺术和文化的引用，触及了人类文明的知识和审美成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.55,
+          "explanation": "诗歌对自然界的观察常上升到对宇宙规律和存在本质的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "诗歌主要关注当下瞬间的观察体验，时间跨度不大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "诗歌建立在严格的现实主义观察之上，几乎不包含任何幻想成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "诗集的情感基调克制，不追求欢快或喜悦的直接表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.1,
+          "explanation": "诗歌不渲染悲伤或痛苦，情感保持中立客观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "观察者的视角和客观语调带来一种隐约的、智性上的疏离感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "诗歌偏重理性和准确，不制造感人的温暖氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "作品不探讨恐惧或威胁，几乎不引发此类感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.2,
+          "explanation": "诗歌在语言和结构上保持稳定，偶尔在认知层面产生轻微张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "对自然和细节的精准描绘激发了读者对造物之奇和存在之美的赞叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.1,
+          "explanation": "诗歌缺少对过去的缅怀，情感上几乎没有怀旧色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.2,
+          "explanation": "诗歌中缺乏对未来或改变的积极期盼，情绪上保持中立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.25,
+          "explanation": "冷静客观之下隐含着一种淡淡的、因距离感而产生的幽思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品中不存在愤怒或激烈的批判情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.7,
+          "explanation": "精确的观察和理智的把控最终为读者带来一种高度专注的内心平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "诗歌致力于从平凡中发掘并构建一种深具智性的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "诗歌语言精炼，避免冗余和情感铺陈，具有显著的简约美学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "作品与奢华、富丽堂皇的美学风格完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.15,
+          "explanation": "诗集基调清明，不涉及阴郁或哥特式的黑暗审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "清晰的观察和准确的语言营造出一种理智高光的明亮质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "虽然意象奇特，但诗歌的落脚点在于清晰的观察，而非朦胧的梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.5,
+          "explanation": "对熟悉事物的陌生化处理赋予寻常物象一定的神秘色彩和探索空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.78,
+          "explanation": "独特的音节诗行、引语拼贴和意象并置展现了鲜明的现代主义实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "虽然引经据典，但诗歌打破经典形式的实验性远大于对传统的继承。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.82,
+          "explanation": "无论在主题选择、语言形式还是思想内核上，都是典型的现代主义诗歌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "抒情诗集不包含传统意义上的故事情节，此维度几乎不适用。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "作品聚焦于观察者的意识，而非对复杂人物的塑造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "作为诗歌合集，不存在连续的人物成长弧线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.35,
+          "explanation": "每首诗构建了一个微小的观察世界，但未形成宏大的虚构宇宙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.45,
+          "explanation": "诗歌的意象和引语组合方式具有非线性的拼贴特点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "诗歌需要缓慢、反复地品味，要求读者沉浸在每一个细节和意象中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "作品完全围绕静态的观察和思考展开，无任何动态行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.15,
+          "explanation": "诗集不展现尖锐的戏剧冲突，只有认知层面的微妙张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "诗歌的核心在于引导读者进行存在论、本体论和认识论层面的哲学思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.6,
+          "explanation": "诗歌推崇独特的个人视角和独立认知，其本质是个人主义的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "作品很少关注集体、社区或群体的共同经验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "家庭关系不是诗集涉及的议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "作品不讨论或描绘友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "诗集避免探讨浪漫爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.2,
+          "explanation": "诗人偶尔与一些文化精英对话，但并未形成显在的社群感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.15,
+          "explanation": "诗歌内部缺乏强烈的对抗或竞争模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "协作并非诗歌的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.1,
+          "explanation": "作品不关注社会权力结构或人际权力游戏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.35,
+          "explanation": "作品中隐约透露出通过观察和语言来构建独特的个体认知身份的努力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.55,
+          "explanation": "诗歌通过打破经典形式和自由选择日常题材，表达了一种智性上的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.6,
+          "explanation": "音节诗行和对自然规律的精确探究体现了一种对内在秩序的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.85,
+          "explanation": "准确、客观地呈现事物本质是诗歌的最高追求，真实是核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.78,
+          "explanation": "从独特的视角发现和创造美，是诗歌重要的价值导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.3,
+          "explanation": "诗集关注过程（观察、思考）而非物质或社会性的成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "社会正义并非诗集考察的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "“牺牲”这一概念在诗集中找不到依据。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.5,
+          "explanation": "对外部世界的精确观察间接成为了一种自我认知和探索的方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "诗歌引经据典，但态度是尊重而非因循守旧，现代性强于传统性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.4,
+          "explanation": "通过对事物本质的揭示，诗歌含蓄地倡导认知层面的革新与变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.15,
+          "explanation": "生存、竞争等主题不在诗集的讨论范围之内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "诗歌的根本目的是从看似无意义的现象中探求和构建意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.85,
+          "explanation": "整部诗集是强烈好奇心驱动下的产物，同时激发读者的探究欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.6,
+          "explanation": "诗集本身就是语言和形式的创造，也鼓励读者创造新的观看方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.3,
+          "explanation": "虽无地理上的探险，但在认知和智力层面是一种冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "深度反思是阅读此诗集最主要的行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "诗歌内容不鼓励竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "作品并不鼓励社交，反而指向一种独处的阅读和思考状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.65,
+          "explanation": "诗歌严格的形式要求和诗人对精确性的追求，暗示了自律的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "作品在艺术形式上大胆创新，但在内容上不鼓吹冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.75,
+          "explanation": "冷静、克制、不带情绪的观察是诗歌所呈现和鼓励的行为范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.1,
+          "explanation": "诗歌不是为了逃避现实，而是为了更深刻地进入现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.7,
+          "explanation": "诗歌高度依赖视觉意象，通过文字创造极强的画面感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "诗歌善于捕捉色彩、质地和形态，色彩运用丰富而精妙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.2,
+          "explanation": "声音并非核心表现对象，诗歌更偏向视觉和思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.35,
+          "explanation": "音节诗行提供了独特的节奏感，但能量较为平稳和内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.55,
+          "explanation": "诗集成功营造了一种专注、清晰、略带疏离的智性氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.45,
+          "explanation": "读者需要主动的思维参与，而非被动的情感沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.82,
+          "explanation": "摩尔的音节诗行和引语拼贴形成了独特而鲜明的文学风格。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.85,
+          "explanation": "用词精准，音韵考究，体现了极高的语言艺术造诣。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.72,
+          "explanation": "诗歌中的具体事物常被赋予象征意义，指向更深层的理念。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.75,
+          "explanation": "诗歌运用了复杂的修辞技巧，如悖论、反讽和独特的语法结构。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.82,
+          "explanation": "作品以智性为核心，探讨深刻的哲学和美学问题。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.6,
+          "explanation": "对博物学和艺术的广博引用，使作品具备深厚的文化底蕴。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.78,
+          "explanation": "在精炼的语言中浓缩了大量关于自然、历史和艺术的知识信息。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.68,
+          "explanation": "意象的多重指向和结构上的留白，为读者提供了广阔的解读空间。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读《观察》的核心体验是一场克制的智性之旅。读者在诗人冷静而精准的引导下，重新审视熟悉的日常事物，从中发现惊奇与秩序。整个过程中，理性反思和客观欣赏占据主导，几乎没有强烈的情感宣泄，取而代之的是因精确认知而产生的平静满足感。",
+        "structure_description": "诗集的结构是非线性的、拼贴式的。每首诗独立成一个微小的观察场景，诗歌之间并无叙事上的联系。内部结构由独特的音节诗行、破碎的引语和出人意料的意象并置构成，这种形式组织方式引导读者不断打破常规阅读节奏，专注于每一个词语和意象本身。",
+        "cognitive_expression": "作品极度鼓励抽象思维、细节分析和深度反思。它要求读者从具体物象中提取普遍原理，理解复杂的多层级意象，并在看似无关的引语间建立智性联系。这是一种高信息密度、高认知负荷的表达方式，旨在训练读者的观察力和逻辑推理能力。",
+        "behavioral_tendency_description": "诗歌所唤起和鼓励的行为偏向是内省的、安静的、高度专注的。它奖励观察、探究和精确表达，抑制冲动和快速判断。读者更倾向于保持冷静、自律的思考状态，而非寻求社交分享或情感共鸣。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.55,
+        "Ti": 0.85,
+        "Te": 0.35,
+        "Fi": 0.55,
+        "Fe": 0.1,
+        "Si": 0.25,
+        "Se": 0.6,
+        "openness": 0.9,
+        "conscientiousness": 0.75,
+        "extraversion": 0.1,
+        "agreeableness": 0.15,
+        "neuroticism": 0.2,
+        "Assertive": 0.8,
+        "Turbulent": 0.3
+      },
+      "supporting_evidence": [
+        "诗集建立在诗人对外部世界长期而冷静的精确观察之上。",
+        "诗歌主题取材于棒球运动、动植物标本和各类艺术品。",
+        "诗人使用独特的音节诗行形式，严格控制诗歌的节奏与韵律。",
+        "诗中频繁穿插来自不同文化文本的直接引语，形成拼贴效果。",
+        "语言风格偏向客观描述，避免直接抒发个人情感或感伤主义。",
+        "意象的选取和组合常常出人意料，产生强烈的陌生化效果。",
+        "整部诗集拒绝线性叙事，转而关注瞬间状态和静态物象的呈现。",
+        "诗歌通过描写微小的生物，引申出对自然秩序与生存法则的思考。",
+        "大量诗篇致力于解构习以为常的观看方式，重塑认知习惯。",
+        "作品的核心冲突并非人际冲突，而是认知层面真实与表象的对立。",
+        "诗人在作品中始终保持着一个理智、克制、略带疏离的观察者身份。",
+        "诗歌不提供简单的结论，而是展示了持续探究和保持开放的过程。",
+        "诗集将现代体育、机械文明等新题材引入严肃诗歌领域。",
+        "摩尔在诗中反复探讨语言本身的精确性和表达边界。",
+        "作品通过精确呈现细节，帮助读者从平凡中看见令人惊叹的美。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

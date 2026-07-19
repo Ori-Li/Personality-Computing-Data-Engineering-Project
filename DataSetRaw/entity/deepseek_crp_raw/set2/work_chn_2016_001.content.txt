@@ -1,0 +1,759 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2016_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "华阴老腔一声喊",
+        "type": "MUSIC",
+        "subcategory": "流行",
+        "countryName": "中国",
+        "year": 2016,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2026-07-12",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《华阴老腔一声喊》是谭维维在2016年央视春晚演唱的跨界音乐作品。歌曲以中国非物质文化遗产华阴老腔为根基，将黄土高原苍凉嘶吼的古老声腔与电吉他、摇滚鼓点等现代音乐元素强力融合。老艺人原生态的呐喊与谭维维高亢的现代女声互相交织，在一声声震天动地的呐喊中，爆发出原始、粗犷的生命力，呈现了中国传统民间艺术在当代语境下的惊人重塑。",
+        "themes": [
+          "传承",
+          "融合",
+          "生命力",
+          "文化碰撞",
+          "原生态",
+          "革新",
+          "民族精神"
+        ],
+        "keywords": [
+          "华阴老腔",
+          "谭维维",
+          "摇滚",
+          "秦腔",
+          "春晚",
+          "皮影戏腔调",
+          "黄河",
+          "黄土高原",
+          "电吉他",
+          "板胡",
+          "板凳",
+          "原生态唱法"
+        ],
+        "core_experience": "古老苍劲的嘶吼与轰鸣的现代摇滚碰撞，带来一种原始而激昂的灵魂震颤。听众仿佛被卷入一场跨越时空的呐喊，在震耳欲聋的声浪中体验到文化的韧性、历史的厚重感和瞬间迸发的生命力。",
+        "experience_introduction": "《华阴老腔一声喊》以非遗剧种华阴老腔的苍凉嘶吼为灵魂，结合摇滚乐的强烈节奏与电声乐器，营造出极具爆发力和感染力的听觉体验。它在一声声破空而出的呼喊中，让听众直观感受到黄土高原的粗犷、秦人血脉的豪迈以及古老文化在当代语境下的新生，整个过程充满了原生态的野性美感与振奋人心的力量。"
+      },
+      "experience_vector": {
+        "passion": 0.95,
+        "healing": 0.05,
+        "awe": 0.80,
+        "nostalgia": 0.60,
+        "reflection": 0.55,
+        "romance": 0.0,
+        "tension": 0.70,
+        "warmth": 0.10,
+        "loneliness": 0.15,
+        "hope": 0.50
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.65,
+          "depth_of_thought": 0.55,
+          "logical_structure": 0.30,
+          "novelty": 0.85,
+          "exploration": 0.70,
+          "ambiguity": 0.20,
+          "predictability": 0.25,
+          "information_density": 0.50,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.50,
+          "relationship_scale": 0.10,
+          "social_scale": 0.40,
+          "civilization_scale": 0.75,
+          "cosmic_scale": 0.10,
+          "time_span": 0.70,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.30,
+          "loneliness": 0.20,
+          "warmth": 0.10,
+          "fear": 0.05,
+          "tension": 0.75,
+          "awe": 0.85,
+          "nostalgia": 0.65,
+          "hope": 0.55,
+          "melancholy": 0.40,
+          "anger": 0.10,
+          "peace": 0.05
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.10,
+          "luxury": 0.05,
+          "darkness": 0.25,
+          "brightness": 0.40,
+          "dreamlike": 0.10,
+          "mystery": 0.35,
+          "experimental": 0.80,
+          "classical": 0.70,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.15,
+          "character_growth": 0.0,
+          "world_building": 0.20,
+          "nonlinear_structure": 0.50,
+          "slow_immersion": 0.05,
+          "action_intensity": 0.90,
+          "conflict_intensity": 0.80,
+          "philosophical_depth": 0.40
+        },
+        "social": {
+          "individualism": 0.60,
+          "collectivism": 0.70,
+          "family": 0.10,
+          "friendship": 0.10,
+          "love": 0.05,
+          "community": 0.55,
+          "competition": 0.15,
+          "cooperation": 0.40,
+          "power_relationship": 0.20,
+          "identity": 0.80
+        },
+        "value": {
+          "freedom": 0.75,
+          "order": 0.20,
+          "truth": 0.35,
+          "beauty": 0.25,
+          "achievement": 0.65,
+          "justice": 0.10,
+          "sacrifice": 0.20,
+          "self_exploration": 0.45,
+          "tradition": 0.85,
+          "change": 0.75,
+          "survival": 0.30,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.80,
+          "adventure": 0.60,
+          "reflection": 0.50,
+          "competition": 0.20,
+          "social": 0.20,
+          "discipline": 0.30,
+          "risk": 0.65,
+          "calm": 0.05,
+          "escape": 0.10
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.50,
+          "sound_intensity": 0.95,
+          "rhythm_energy": 0.95,
+          "atmosphere": 0.85,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "摇滚/原生态",
+          "tempo": 0.80,
+          "energy": 0.98,
+          "vocal_style": "原生态呐喊/流行高音",
+          "instrumentation": "板胡/月琴/板凳/电吉他/架子鼓",
+          "production_style": "跨界融合编曲",
+          "lyrical_theme": "文化传承/生命力",
+          "emotional_scene": "苍茫大地/历史回响",
+          "cultural_context": "中国非物质文化遗产华阴老腔与现代摇滚的春晚舞台改编"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.95,
+          "explanation": "作品通过高亢的声腔和摇滚节奏不断推动情绪向上，听众能直观感受到强烈的激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "整体基调是激昂振奋而非舒缓治愈，甚至带有野性的冲击力，极少有抚慰感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.80,
+          "explanation": "古老声腔爆发出的原始力量与现代编曲的结合容易让听众产生震撼和敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.60,
+          "explanation": "华阴老腔的音色和唱腔本身承载了厚重的黄土高原历史，容易唤起追思之情。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "作品展示了传统与现代的碰撞，能引发对文化脉络和时代变迁的思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "全曲充满苍劲与野性，没有任何表达浪漫或爱恋的内容和情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "老腔的嘶吼、强烈的节奏、高亢的人声共同营造了充满紧绷感的氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "音色以高亢、粗犷为主，而非温婉柔和，几乎不产生温情脉脉的感觉。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.15,
+          "explanation": "作品的氛围是抗争与爆发，能量向外宣泄，几乎没有孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.50,
+          "explanation": "虽然音色沧桑，但声音中蕴含的顽强生命力和融合创新带有一定的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "歌词和表达直白有力、情感浓烈，主要依靠声音和节奏直接传达，不需要复杂的符号解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "作品混合了传统声腔、现代摇滚、不同人声和乐器，层次丰富，编曲较为复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.55,
+          "explanation": "主要传达的是直接的情绪冲击和文化自豪感，但也包含对传统在现代如何生存的潜在思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "音乐结构更多依靠情绪递进和声部对比，而非严谨的逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.85,
+          "explanation": "将古老的非遗华阴老腔与主流摇滚结合，在春晚舞台属于极具开创性的尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.70,
+          "explanation": "听众通过这首歌探索了一种新的音乐融合形式，以及对尘封的民间文化的重新认识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.20,
+          "explanation": "表达的内容和情绪非常直接、明确，几乎没有模棱两可的解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "老腔与摇滚叠加后产生的效果对于未接触过的听众而言是出人意料的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "在短时间内传达了历史厚度、现代技法和文化意义，信息密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.60,
+          "explanation": "让大众有机会了解华阴老腔这一非物质文化遗产，具有较高的文化普及价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.50,
+          "explanation": "老腔的唱法直接抒发个人胸臆，具有强烈的个人情感表达特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.10,
+          "explanation": "作品的表达重心不在人际互动，合唱部分更像是众人一致对天呐喊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.40,
+          "explanation": "表演本身具有集体的仪式感，展现了群体所共同承载的文化传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.75,
+          "explanation": "作品连接了黄河流域的古老文明与现代社会，关注点在华夏民族的文化血脉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "虽有仰天呐喊的姿态，但其内核是立足大地的人间历史，并未延伸到宇宙维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.70,
+          "explanation": "将明代流传至今的古老声腔与当下音乐形式嫁接，时间跨度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品完全立足于真实存在的民间艺术和人的真实情感，完全属于现实层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "情感基调并非轻松快活，而是充满张力和爆发力的呐喊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.30,
+          "explanation": "沧桑的声线中带有一丝悲苦的底色，但更多的是抗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.20,
+          "explanation": "有孤独者的呐喊，但群体的和声和配器的支撑减弱了孤立感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.10,
+          "explanation": "作品整体偏冷色调，主要情绪是苍凉和激昂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "没有营造恐怖或恐惧的氛围，只有震慑感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.75,
+          "explanation": "高音区的嘶吼、强力的鼓点和不协和音的结合让整首歌充满紧绷感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.85,
+          "explanation": "面对古老磅礴的声感和文化冲击，敬畏感是核心的情感体验之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.65,
+          "explanation": "老腔的音色带有极强的历史追溯感和对黄土地的深厚情怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "在文化的剧烈碰撞与融合中，展现出破土而出的生机，传递了希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.40,
+          "explanation": "老腔本身的沧桑感带有一定的忧郁和感叹，但它被摇滚的冲击力冲淡了一些。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.10,
+          "explanation": "呐喊更多是宣泄和表达，而非带有攻击性的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.05,
+          "explanation": "整首歌极其激烈，毫无平静安详的意思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "作品追求的并非传统的柔美或悠扬，而是力量美、粗犷美和野性美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.10,
+          "explanation": "编曲、乐器、声部都比较丰富，舞台表现热烈，与极简主义无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "风格偏向原生态和粗粝，毫无富贵、奢华或精雕细琢的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.25,
+          "explanation": "音乐具有一定的凝重感，但并未深入黑暗、阴郁或恐怖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.40,
+          "explanation": "高亢的声音和炸裂的节奏具有强烈的外放型和明亮的听觉色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "非常写实且有冲击力的情感表达，完全没有梦幻缥缈的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.35,
+          "explanation": "古老声腔自带的历史神秘感被现代化编曲所解构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.80,
+          "explanation": "将非遗曲种与摇滚乐结合本就是一种大胆的音乐实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.70,
+          "explanation": "华阴老腔艺术本身具有极其深厚的古典与历史韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "摇滚编曲、电声乐器、现代流行唱法和舞台表现力充满了现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "作为一首歌曲，并没有复杂的故事剧情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.15,
+          "explanation": "无具体人物形象刻画，仅展现一种文化代表的角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "没有人物成长历程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.20,
+          "explanation": "通过声音构建了一个意象中的黄土高原和历史文化场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.50,
+          "explanation": "音乐结构在传统唱段与摇滚段落间跳跃，打破了传统歌曲的线性流畅模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.05,
+          "explanation": "作品一开始就是高强度的爆发，节奏极快，不通过缓慢铺陈来引人入胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.90,
+          "explanation": "老腔唱法、摇滚节奏、高音区的频繁震荡都非常具有“动作性”和冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.80,
+          "explanation": "传统与现代的强烈对比及声音中的对抗构成了高强度的艺术冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.40,
+          "explanation": "包含了对传统如何融入现代社会的浅层哲学思辨，但更多是直接的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.60,
+          "explanation": "个人在历史长河中的呐喊和表达欲非常突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.70,
+          "explanation": "承载了群体共同的文化记忆，且表演形式本身就是协作展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.10,
+          "explanation": "几乎没有涉及家庭等私人亲密关系的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.10,
+          "explanation": "没有表现友谊的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.05,
+          "explanation": "不涉足任何类型的爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.55,
+          "explanation": "老腔艺术源于民间社群，表演传达了群体的信念感和文化归属感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.15,
+          "explanation": "主要是文化的自我表达与展示，而非竞争对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.40,
+          "explanation": "传统艺人与流行歌手的同台配合，体现了代际和不同艺术种类的协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.20,
+          "explanation": "没有强调人与人之间的权力或政治关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.80,
+          "explanation": "核心议题便是“我们是谁”的文化身份认同，是现代语境下对华夏身份的确认。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.75,
+          "explanation": "音乐情绪和唱法都体现了解放天性、无拘无束的自由表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "整体是破坏常规音乐框架、释放野性的过程，较少强调规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.35,
+          "explanation": "原生态唱法追求真实情感的直抒胸臆，客观体现了一种诚挚表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "体现的并非婉约之美，而是力量和粗犷之美，不是音乐探寻的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.65,
+          "explanation": "完成了一次高难度的跨界艺术实践，并在国家级舞台上取得成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.10,
+          "explanation": "不包含对公平正义等社会议题的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.20,
+          "explanation": "为了艺术融合，老腔艺人展现了面对现代舞台的某种自我重塑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.45,
+          "explanation": "歌唱者在探寻声音极限和文化根源时，也包含了一定的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.85,
+          "explanation": "华阴老腔本身就是传统，整首歌的灵魂就是对这一传统的致敬与激活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.75,
+          "explanation": "核心价值之一就是打破边界，用摇滚改变老腔，强调变化和对比。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.30,
+          "explanation": "展现了一种文化形态在时代变迁中寻求生机的顽强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "尝试为古老的声腔寻找在当代意义上的新归宿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "这种前所未有的融合形式会引发听众对华阴老腔以及音乐跨界可能性的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.80,
+          "explanation": "作品本身就是一次创造性的重组，鼓励打破常规进行创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.60,
+          "explanation": "大胆踏入相对小众甚至快被遗忘的音乐领域，呈现出一种冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.50,
+          "explanation": "部分刺激听众反思传统艺术在现代社会中的地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.20,
+          "explanation": "并没有表现出与别人竞争的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.20,
+          "explanation": "音乐本身是表演，但内容并不导向建立新的社会关系网。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "古老的戏曲形式确实需要极高的自律，但作品本身传递的信息是奔放而非节制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.65,
+          "explanation": "在极为正式和传统的舞台上采用这种融合，承担了艺术评价的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "从生理和心理上都是高度激昂的状态，丝毫不导向冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.10,
+          "explanation": "是一种直面的、迎头而上的表达，与逃避无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "声音意象很强，能引发对苍茫大地的视觉联想，属于通感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.50,
+          "explanation": "色彩主要集中在厚重的黄、红、黑等对比强烈的色块。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.95,
+          "explanation": "嘶吼的声音、炸裂的乐器、高亢的音色和超高的响度造成了极强的听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.95,
+          "explanation": "摇滚乐底鼓和老艺人拍打板凳带来的强烈节奏感提供了极高的动能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "整个声场被苍凉、豪迈和悲壮的氛围填满，沉浸感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "极具穿透力的声音和密集的节奏能够迅速将听众带入情境。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": null,
+          "explanation": "明确的音乐流派：摇滚/原生态，属于跨类型融合。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.80,
+          "explanation": "整体节奏较快，鼓点密集，推动力强。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.98,
+          "explanation": "声音极高的穿透力和粗犷的爆发力带来了近乎满格的音乐能量。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": null,
+          "explanation": "主唱谭维维采用流行高音唱法，老艺人采用原生态的撕裂呐喊唱法。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": null,
+          "explanation": "配备了月琴、板胡、板凳等华阴老腔特色乐器以及现代电吉他、架子鼓。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": null,
+          "explanation": "编曲上采用了拼接和段落对比的手法，旨在突出古今的碰撞。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": null,
+          "explanation": "歌词着眼于唤醒沉睡的古老血脉，强调文化传承和火热的生命力。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": null,
+          "explanation": "听感仿佛置身于黄河岸边苍茫的黄土地上，回望历史的长河。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": null,
+          "explanation": "立足于中国非物质文化遗产项目华阴老腔，在现代春晚大舞台促成了城乡与代际的对话。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众主要体验到一种高能量的、血脉偾张的听觉震撼。这是一种从泥土里长出来的原始呐喊与现代工业噪声般的摇滚碰撞出的剧烈火花，让人在短暂的几分钟内感受到被抛入历史长河的苍凉与激荡，情绪在古老沧桑与热血沸腾之间剧烈起伏，仿佛经历了一场酣畅淋漓的灵魂释放。",
+        "structure_description": "音乐结构通过非遗华阴老腔原生态唱段的悠长吆喝与现代摇滚节奏的骤然切入形成强烈的段落对比，传统乐器的板胡、月琴、板凳与电吉他的轰鸣交错支撑，使得作品在古老的回响与炸裂的快感之间来回切换，这种非线性的拼接打破了流行歌曲常见的流畅套式，制造出一种跌宕起伏的听觉结构。",
+        "cognitive_expression": "作品引导听众进行高强度的感官接收和对文化符号的快速解码，听众在享受现代摇滚快感的同时，必须调动和识别古老声腔的语感，这混合了对听觉模式的习惯化打破，激活了对文化脉络的探索和思考，但本质上不追求逻辑推演，而是带来一种直击内心深处且充满信息密度的直觉冲击。",
+        "behavioral_tendency_description": "歌曲所传达的是一种直面变革的大胆创作姿态，唤醒了听众内心对打破常规、勇于冒险创造的共鸣，而不是导向冷静分析或温和互动。它激励听众去主动探索传统新生、去释放内在的原始能量，试图以此引发关于文化传承与个性展示的积极行动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.45,
+        "Ne": 0.55,
+        "Ti": 0.25,
+        "Te": 0.55,
+        "Fi": 0.75,
+        "Fe": 0.70,
+        "Si": 0.60,
+        "Se": 0.88,
+        "openness": 0.82,
+        "conscientiousness": 0.30,
+        "extraversion": 0.75,
+        "agreeableness": 0.25,
+        "neuroticism": 0.45,
+        "Assertive": 0.80,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "作品融合了华阴老腔的原生态嘶吼唱段与现代摇滚乐的编曲。",
+        "演出采用月琴、板胡、板凳等传统乐器与电吉他、架子鼓合奏。",
+        "老腔艺人发出极具穿透力和粗粝质感的苍劲呐喊。",
+        "歌曲由流行女歌手谭维维与华阴老腔的老艺人合作同台完成。",
+        "该作品在2016年中央电视台春节联欢晚会的正式舞台上演出。",
+        "节奏由激烈的摇滚鼓点与老艺人拍打板凳的声响共同驱动。",
+        "歌词内容围绕唤醒古老的血脉和生命的爆发力展开。",
+        "歌曲结构在不同风格段落间来回切换，产生强烈的割裂与碰撞感。",
+        "部分非主唱乐手也加入了吆喝，形成群体式的吼唱。",
+        "老腔唱段本身具有极其明显的黄土高原地域文化和历史印记。",
+        "表演动作大开大合，老艺人演奏时不断举起或砸下板凳。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

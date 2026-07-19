@@ -1,0 +1,744 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1969_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "镍币男孩",
+        "type": "NOVEL",
+        "countryName": "USA",
+        "year": 2019,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.92,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《镍币男孩》是科尔森·怀特黑德于2019年出版的小说，荣获普利策奖。作品以佛罗里达州一所名为“镍币学院”的少年感化院为背景，基于真实历史丑闻创作。小说通过黑人少年埃尔伍德·柯蒂斯和特纳的友谊，以极度克制的笔调揭露了美国司法和感化制度中系统性的种族歧视、虐待与非人化暴力。叙事在理想主义与残酷现实之间持续碰撞，呈现了一个关于不公、生存与人性的震撼故事，其结构揭示了被掩埋的历史真相。",
+        "themes": [
+          "种族歧视",
+          "社会不公",
+          "友谊",
+          "生存",
+          "暴力",
+          "历史真相",
+          "理想主义",
+          "体制批判",
+          "记忆"
+        ],
+        "keywords": [
+          "镍币学院",
+          "少年感化院",
+          "佛罗里达州",
+          "种族隔离",
+          "吉姆·克劳法",
+          "秘密墓地",
+          "非人化待遇",
+          "体罚",
+          "埃尔伍德·柯蒂斯",
+          "特纳",
+          "普利策奖"
+        ],
+        "core_experience": "沉浸于一种持续的低气压恐惧与克制的愤怒之中。体验始于对不公的温和观察，逐渐被拖入制度化暴力的深渊，最终在面对被掩埋的历史真相时，感受到令人窒息的震惊与持久的心灵重压。",
+        "experience_introduction": "阅读《镍币男孩》的体验如同一场缓慢揭露的噩梦。科尔森·怀特黑德用极为冷静、近乎零度的叙事笔调，将读者带入种族隔离制度下美国南方少年感化院的日常恐怖之中。作品通过一个理想主义黑人少年的视角，让读者亲历希望如何被体制化的残暴一步步碾碎。小说结构上的关键转折（从“镍币学院”到真实的埋葬之地）制造了巨大的情感冲击，迫使读者在故事结束后仍长久地面对关于历史、正义与人性的沉重思考。"
+      },
+      "experience_vector": {
+        "passion": 0.45,
+        "healing": 0.05,
+        "awe": 0.25,
+        "nostalgia": 0.1,
+        "reflection": 0.95,
+        "romance": 0.0,
+        "tension": 0.9,
+        "warmth": 0.15,
+        "loneliness": 0.8,
+        "hope": 0.2
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.3,
+          "complexity": 0.65,
+          "depth_of_thought": 0.9,
+          "logical_structure": 0.8,
+          "novelty": 0.5,
+          "exploration": 0.3,
+          "ambiguity": 0.25,
+          "predictability": 0.35,
+          "information_density": 0.75,
+          "learning_value": 0.9
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.7,
+          "social_scale": 0.95,
+          "civilization_scale": 0.8,
+          "cosmic_scale": 0.05,
+          "time_span": 0.45,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.0,
+          "sadness": 0.9,
+          "loneliness": 0.8,
+          "warmth": 0.1,
+          "fear": 0.85,
+          "tension": 0.95,
+          "awe": 0.15,
+          "nostalgia": 0.1,
+          "hope": 0.15,
+          "melancholy": 0.7,
+          "anger": 0.9,
+          "peace": 0.0
+        },
+        "aesthetic": {
+          "beauty": 0.2,
+          "minimalism": 0.7,
+          "luxury": 0.0,
+          "darkness": 0.95,
+          "brightness": 0.0,
+          "dreamlike": 0.05,
+          "mystery": 0.3,
+          "experimental": 0.4,
+          "classical": 0.45,
+          "modern": 0.6
+        },
+        "narrative": {
+          "plot_complexity": 0.6,
+          "character_depth": 0.85,
+          "character_growth": 0.5,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.7,
+          "slow_immersion": 0.65,
+          "action_intensity": 0.15,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.85
+        },
+        "social_relationship": {
+          "individualism": 0.3,
+          "collectivism": 0.4,
+          "family": 0.15,
+          "friendship": 0.85,
+          "love": 0.1,
+          "community": 0.6,
+          "competition": 0.2,
+          "cooperation": 0.35,
+          "power_relationship": 0.98,
+          "identity": 0.9
+        },
+        "value": {
+          "freedom": 0.7,
+          "order": 0.3,
+          "truth": 0.98,
+          "beauty": 0.1,
+          "achievement": 0.05,
+          "justice": 0.95,
+          "sacrifice": 0.7,
+          "self_exploration": 0.6,
+          "tradition": 0.25,
+          "change": 0.6,
+          "survival": 0.9,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.15,
+          "adventure": 0.1,
+          "reflection": 0.95,
+          "competition": 0.1,
+          "social": 0.25,
+          "discipline": 0.2,
+          "risk": 0.4,
+          "calm": 0.15,
+          "escape": 0.65
+        },
+        "sensory": {
+          "visual_intensity": 0.35,
+          "color_richness": 0.2,
+          "sound_intensity": 0.1,
+          "rhythm_energy": 0.2,
+          "atmosphere": 0.9,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.9,
+          "writing_style": 0.8,
+          "narrative_voice": 0.75,
+          "symbolism": 0.7,
+          "inner_monologue": 0.6,
+          "world_building_depth": 0.5
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.45,
+          "explanation": "对友谊和正义的渴望提供了情感驱动力，但被残酷现实持续压制。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "故事基调充满创伤与暴力，几乎没有提供安慰或抚慰的时刻。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.25,
+          "explanation": "真相揭露时引发震惊，而非对壮丽事物的敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品聚焦于批判性历史反思，而非对过去的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "全书的核心体验是诱导读者对社会不公、历史真相和道德进行深刻反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "故事中完全没有浪漫爱情元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.9,
+          "explanation": "从进入感化院开始，对暴力的恐惧和生存焦虑构成几乎不间断的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.15,
+          "explanation": "仅存于主角之间的友谊瞬间，但持续被环境的冰冷暴力所淹没。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.8,
+          "explanation": "主角在体制内的孤立无援以及最后独自背负记忆的宿命感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.2,
+          "explanation": "主角最初的理想主义代表希望，但被故事进程系统性地摧毁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.3,
+          "explanation": "叙事方式具体直接，依赖于对事件和环境的白描，而非抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "存在非线性叙事结构和多层次的体制批判，需要读者进行拼图式理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.9,
+          "explanation": "作品深刻探讨了体制之恶、历史真相、个人道德选择与系统性种族主义等深层议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.8,
+          "explanation": "叙事结构精心设计，双线交织并在结尾汇合，揭示了隐藏的逻辑链条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.5,
+          "explanation": "基于真实历史事件的艺术再创造，笔调的克制在同类题材中具有新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "作品旨在揭露一个封闭空间内的真相，而非探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.25,
+          "explanation": "道德立场清晰，事实真相明确，几乎没有留给读者的阐释模糊空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "感化院的恐怖是逐步升级的，但大环境的悲剧性从一开始就是可预见的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "简洁的笔调下蕴含大量历史、社会和法律信息，用留白承载着沉重的潜台词。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.9,
+          "explanation": "提供了关于美国种族隔离历史、司法不公和一段被掩埋的集体记忆的深刻知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "故事严格通过主角埃尔伍德和特纳的个人视角、身体与内心世界展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.7,
+          "explanation": "两位主角之间的友谊与相互影响是推动故事发展的核心关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "核心探讨对象是整个美国社会的种族隔离制度、司法体系与社会控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.8,
+          "explanation": "将一段特定历史置于美国文明和吉姆·克劳法的长期背景中审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及任何宇宙或超自然层面的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.45,
+          "explanation": "主体故事发生在较短的几年内，但尾声跨越了数十年，连接过去与现在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "作品是完全的现实主义历史小说，没有幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.0,
+          "explanation": "整个故事中没有真正的快乐时刻，所有短暂的光亮都被迅速扑灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.9,
+          "explanation": "持续的损失、死亡和对纯真的扼杀构成了作品弥漫的悲伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.8,
+          "explanation": "角色在体制中的孤立感和精神上的形单影只是反复出现的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.1,
+          "explanation": "叙事语调极为冷静克制，刻意压制了任何可能涌出的温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.85,
+          "explanation": "对暴力、虐待和“后门”消失的恐惧是人物和读者共有的支配性情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.95,
+          "explanation": "几乎每个场景都充满对下一次暴力降临的预感和悬而未决的生存焦虑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.15,
+          "explanation": "对暴行的揭示更多引发惊骇与愤怒，而非由伟大或壮观带来的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.1,
+          "explanation": "过去象征着创伤的来源，作品的态度是正视而非怀念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.15,
+          "explanation": "希望作为一种被批判的对象出现，象征对体制之恶的无知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.7,
+          "explanation": "对逝去的生命、被毁掉的青春和无法弥补的过去的哀愁贯穿全书。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.9,
+          "explanation": "针对体制性种族主义和残酷暴行的愤怒是作品最核心、最持续的情感驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.0,
+          "explanation": "作品中的人物和读者都无法获得片刻的安宁或平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.2,
+          "explanation": "叙事美学追求的是真实和残酷，而非传统意义上的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.7,
+          "explanation": "文笔极其精简，情感表达高度内敛，用词克制，具有极简主义风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "故事背景是残酷的感化院，与奢华完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.95,
+          "explanation": "整个作品笼罩在一种无法驱散的、由人祸造成的黑暗和绝望氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.0,
+          "explanation": "故事中缺乏任何光明或轻松的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "叙事风格是清醒的现实主义，与梦幻感完全对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.3,
+          "explanation": "关于感化院的秘密和最终真相存在悬念，但主要是为了揭露而非营造神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.4,
+          "explanation": "在叙事结构上（如结尾的时间跳跃和身份转换）具有一些实验性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.45,
+          "explanation": "具有现实主义和自然主义文学的古典传统，但也融入了现代叙事技巧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.6,
+          "explanation": "非线性的处理方式和克制的风格使作品更偏向现代文学气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.6,
+          "explanation": "故事包含过去与现在两条线索，以及结尾揭示的重大身份反转。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "通过对主角内心世界的细腻描写，以及两种生存哲学的深刻对照，塑造了极具深度的人物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.5,
+          "explanation": "主角的主要变化是从理想主义者转变为被动的见证者，这种“成长”是被迫的幻灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "“镍币学院”作为一个微缩世界被构建得十分可信，但其范围有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.7,
+          "explanation": "叙事在1960年代和2010年代之间跳跃，并最终揭示两条线的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.65,
+          "explanation": "叙事的恐怖是通过日常细节的积累慢慢渗透，需要读者耐心沉浸才能感受到全部重量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.15,
+          "explanation": "暴力描写是突然且克制的，而非充满动感的长篇动作场面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "人物与体制之间的冲突、理想与现实之间的冲突达到了极高的强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "引发关于正义本质、历史记忆、个体抵抗的意义等深刻的哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.3,
+          "explanation": "虽然关注个体命运，但个体的力量在体制面前微不足道。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.4,
+          "explanation": "黑人社区的团结是背景，但在感化院内几乎没有有组织的集体行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "家庭关系在故事开始时被切断，在感化院内几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.85,
+          "explanation": "两个主角之间跨越生死的友谊是黑暗中唯一的救赎，也是故事的情感核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.1,
+          "explanation": "浪漫爱情在此作品中完全缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.6,
+          "explanation": "感化院中的男孩们形成了一个被迫的、受损的社群，既有互助也有出卖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.2,
+          "explanation": "为生存而进行的竞争存在，但不是故事强调的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.35,
+          "explanation": "主角之间的合作是核心，但更广泛的合作被体制压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.98,
+          "explanation": "整部作品是对管理者与被管理者之间绝对权力关系的终极审视，权力结构是驱动一切的根本。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.9,
+          "explanation": "种族身份、个人身份和幸存者身份的探索与构建是贯穿始终的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.7,
+          "explanation": "对被剥夺的人身自由和精神自由的渴望是故事的根本驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.3,
+          "explanation": "感化院建立的是一种残酷的、不公的“秩序”，作品对此持批判态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.98,
+          "explanation": "寻求并揭示被掩埋的历史真相是小说叙事的最终目的和最高价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.1,
+          "explanation": "作为美学价值的“美”在这个残酷的故事中没有位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "在感化院的环境中，任何个人成就追求都是不可能且无意义的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.95,
+          "explanation": "对正义的强烈呼唤以及对正义之缺席的控诉是作品最重要的价值支点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.7,
+          "explanation": "一个人为了另一个人的生存而牺牲的情节，以及背负他人身份活下去的牺牲，贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.6,
+          "explanation": "主角在极端环境中重新认识世界和自我，经历了深刻的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.25,
+          "explanation": "传统的种族等级制度正是作品批判的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.6,
+          "explanation": "故事隐含了对社会变革的诉求，尽管故事本身展现的是变革的极度困难。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.9,
+          "explanation": "在体制性暴力下如何生存（无论是肉体还是精神上）是人物每天面对的核心问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "作品探讨了在这般无意义的苦难中，个人生命和牺牲的意义何在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "读者的好奇心被调动去了解真相，但角色的好奇心通常带来灭顶之灾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.15,
+          "explanation": "环境扼杀了任何创造性行为，生存是第一要务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "完全没有冒险成分，进入感化院本身是一场被迫卷入的噩梦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "诱导读者进行批判性反思是作品最主要的行为导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "不鼓励竞争行为，作品氛围是共同面对巨大压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "社交活动极为受限，关系建立在共患难而非积极的社交之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "作品批判了感化院伪善的纪律，而非颂扬纪律本身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.4,
+          "explanation": "角色在极少数情况下采取高风险的反抗或逃跑行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "叙事语气冷静，但角色和读者的内心都难以平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.65,
+          "explanation": "逃离感化院的渴望（无论是物理上还是精神上）是驱动角色行动的核心动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.35,
+          "explanation": "虽然有一些强烈意象，但整体叙事更依赖于情感和思想冲击而非视觉效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.2,
+          "explanation": "文本的调色板是单调、灰暗的，与感化院环境相匹配。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.1,
+          "explanation": "小说主要依赖视觉和心理描写，声音不是主要的感官渠道。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.2,
+          "explanation": "叙事节奏沉稳而有节制，没有高能量的起伏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "压抑、恐惧和绝望的气氛营造是作品最大的成功之处，无处不在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "强大的叙事和氛围营造能力让读者深度沉浸于那个残酷的世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.9,
+          "explanation": "作品具备深刻的文学性，包括精心的结构、克制的语言和厚重的主题。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.8,
+          "explanation": "极简、冷静、精确的文风是本书最显著的文学标志。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.75,
+          "explanation": "采用第三人称有限视角，紧密跟随主角的认知，同时保持一种超越性的清醒。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.7,
+          "explanation": "镍币、秘密墓地、马丁·路德·金的录音等是作品中强大的象征。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.6,
+          "explanation": "通过自由间接引语深入地展现了角色的内心活动和思想变化。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.5,
+          "explanation": "重点在于营造感化院的封闭环境，而非构建一个广阔的虚构世界。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者被拖入一场由持续恐惧、压抑愤怒和深刻悲伤构成的情感漩涡。体验的核心是对体制性暴力的毛骨悚然的认知过程，以及面对历史真相时产生的强烈无助感与道德重压。希望被一点点耗尽，最终留下的是冰冷的、持久不散的震撼与反思。",
+        "structure_description": "叙事通过双线结构组织体验，一条线是1960年代感化院的日常恐怖，另一条是现代的调查与回溯。两条线索最终汇合于一个惊人的秘密，这个结构性的转折使得累积已久的情感在结尾处形成巨大的冲击波，迫使读者重新审视之前的所有情节。",
+        "cognitive_expression": "作品鼓励一种冷静而深入的批判性思维。读者被要求不断将个人悲剧与宏大的社会制度联系起来，去分析权力结构如何运作，去质疑历史叙事的真实性。文本的信息密度和哲理性要求持续的注意力集中和逻辑推演。",
+        "behavioral_tendency_description": "作品唤起一种强烈的内省与反思倾向，抑制冲动行为。它鼓励读者去调查、铭记并讲述被掩埋的真相，而非进行外在的冒险或竞争。这是一种静默的抵抗倾向，将生存本身和记忆的保存视为一种长期的行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.8,
+        "Ne": 0.2,
+        "Ti": 0.75,
+        "Te": 0.3,
+        "Fi": 0.6,
+        "Fe": 0.85,
+        "Si": 0.3,
+        "Se": 0.1,
+        "openness": 0.8,
+        "conscientiousness": 0.7,
+        "extraversion": 0.1,
+        "agreeableness": 0.4,
+        "neuroticism": 0.85,
+        "Assertive": 0.05,
+        "Turbulent": 0.98
+      },
+      "supporting_evidence": [
+        "故事基于佛罗里达州一所真实存在的感化院的历史丑闻改编。",
+        "主角埃尔伍德·柯蒂斯是一个深受马丁·路德·金演说影响的理想主义黑人少年。",
+        "叙事在1960年代的感化院和2010年代的调查之间来回切换。",
+        "对感化院内日常生活的描写极度克制，避免任何情感煽动。",
+        "暴力场景通常是突然发生，并以一种近乎冷漠的笔调进行描述。",
+        "两名黑人男孩在一个封闭且充满种族歧视的空间内建立了深刻的友谊。",
+        "感化院的管理者对学生拥有生杀予夺的绝对权力。",
+        "小说详细展示了体制如何通过“评级系统”来分化和控制被收容者。",
+        "“镍币”是感化院里用来奖励或惩罚男孩们的代币，具有强烈的象征意义。",
+        "主要冲突是主角的理想主义信念与感化院的残酷现实之间的持续碰撞。",
+        "结尾揭示了关于一个角色身份的重大秘密，完全改变了之前故事的意义。",
+        "作品深刻探讨了“幸存者”的身份认同问题。",
+        "故事中的学校实际上是一个掩盖系统性虐待和谋杀的场所。",
+        "作品含蓄地探讨了历史记忆如何被官方叙事掩埋，以及寻找真相的责任。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

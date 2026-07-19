@@ -1,0 +1,720 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1988_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "王啸坤",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2007,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-03-27",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "王啸坤首张同名专辑以流行摇滚为基调，收录《琴麻岛的海》等原创作品，展现高亢嗓音与个人创作力，贯穿成长困惑、自我追寻与情感释放，曲风直接而富有青春气息，为听众提供强烈的情绪共鸣与身份认同体验。",
+        "themes": [
+          "青春",
+          "成长",
+          "自我探索",
+          "爱情",
+          "孤独",
+          "梦想",
+          "情感宣泄"
+        ],
+        "keywords": [
+          "流行摇滚",
+          "原创音乐",
+          "高亢嗓音",
+          "琴麻岛的海",
+          "青春困惑",
+          "内心独白",
+          "吉他驱动",
+          "情绪张力"
+        ],
+        "core_experience": "沉浸于充满力量感的旋律与直白歌词中，感受青春期的迷茫、渴望与自我肯定，通过高亢声线获得情感释放与身份认同。",
+        "experience_introduction": "这张专辑以连贯的摇滚能量构建了一次情感旅程，从内省的迷茫到外放的宣泄，听众在紧凑的节奏与延伸的高音中经历个人情绪的起伏，最终获得一种青春的澄清与释然。"
+      },
+      "experience_vector": {
+        "passion": 0.78,
+        "healing": 0.32,
+        "awe": 0.22,
+        "nostalgia": 0.48,
+        "reflection": 0.55,
+        "romance": 0.40,
+        "tension": 0.52,
+        "warmth": 0.36,
+        "loneliness": 0.58,
+        "hope": 0.65
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.38,
+          "complexity": 0.45,
+          "depth_of_thought": 0.52,
+          "logical_structure": 0.28,
+          "novelty": 0.42,
+          "exploration": 0.48,
+          "ambiguity": 0.30,
+          "predictability": 0.55,
+          "information_density": 0.36,
+          "learning_value": 0.28
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.62,
+          "social_scale": 0.30,
+          "civilization_scale": 0.10,
+          "cosmic_scale": 0.05,
+          "time_span": 0.22,
+          "fantasy_level": 0.12
+        },
+        "emotion": {
+          "happiness": 0.38,
+          "sadness": 0.52,
+          "loneliness": 0.62,
+          "warmth": 0.30,
+          "fear": 0.15,
+          "tension": 0.48,
+          "awe": 0.18,
+          "nostalgia": 0.45,
+          "hope": 0.68,
+          "melancholy": 0.55,
+          "anger": 0.22,
+          "peace": 0.28
+        },
+        "aesthetic": {
+          "beauty": 0.62,
+          "minimalism": 0.38,
+          "luxury": 0.12,
+          "darkness": 0.35,
+          "brightness": 0.68,
+          "dreamlike": 0.28,
+          "mystery": 0.22,
+          "experimental": 0.25,
+          "classical": 0.30,
+          "modern": 0.72
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.48,
+          "character_growth": 0.55,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.18,
+          "slow_immersion": 0.35,
+          "action_intensity": 0.42,
+          "conflict_intensity": 0.58,
+          "philosophical_depth": 0.32
+        },
+        "social": {
+          "individualism": 0.75,
+          "collectivism": 0.22,
+          "family": 0.18,
+          "friendship": 0.25,
+          "love": 0.55,
+          "community": 0.15,
+          "competition": 0.30,
+          "cooperation": 0.22,
+          "power_relationship": 0.15,
+          "identity": 0.78
+        },
+        "values": {
+          "freedom": 0.72,
+          "order": 0.18,
+          "truth": 0.42,
+          "beauty": 0.58,
+          "achievement": 0.62,
+          "justice": 0.12,
+          "sacrifice": 0.18,
+          "self_exploration": 0.82,
+          "tradition": 0.22,
+          "change": 0.55,
+          "survival": 0.28,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.82,
+          "adventure": 0.48,
+          "reflection": 0.58,
+          "competition": 0.38,
+          "social": 0.25,
+          "discipline": 0.30,
+          "risk": 0.42,
+          "calm": 0.20,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.30,
+          "color_richness": 0.48,
+          "sound_intensity": 0.85,
+          "rhythm_energy": 0.82,
+          "atmosphere": 0.62,
+          "immersion": 0.68
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行摇滚",
+          "tempo": 0.72,
+          "energy": 0.80,
+          "vocal_style": "高亢、充满张力",
+          "instrumentation": "吉他驱动，鼓点有力",
+          "production_style": "现场感较强，编曲饱满",
+          "lyrical_theme": "青春、孤独、自我认同",
+          "emotional_scene": "迷茫与渴望中的情感释放",
+          "cultural_context": "2000年代中国流行摇滚新声"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.78,
+          "explanation": "旋律和演唱充满高能量释放，直接唤起听众的激动情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.32,
+          "explanation": "整体氛围以宣泄为主，而非安抚与疗愈。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.22,
+          "explanation": "音乐更诉诸个人情感，而非宏大或超越性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.48,
+          "explanation": "部分曲目触及对过往的回忆与感伤，但并非专辑核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "歌词涉及自我审视和内心困惑，引导听众进入沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.40,
+          "explanation": "爱情主题作为青春叙事的一部分出现，但并非主导。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.52,
+          "explanation": "摇滚编配和高音演唱带来持续的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.36,
+          "explanation": "音色和旋律偏冷峻，温情时刻较少。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.58,
+          "explanation": "多首歌曲表达孤立无援与不被理解的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.65,
+          "explanation": "尽管有迷茫，但旋律的推进和歌词透露出对未来的期待与希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.38,
+          "explanation": "歌词多用直接感受和具象场景，抽象象征较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "曲式结构相对规整，和声进行在流行摇滚框架内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.52,
+          "explanation": "涉及成长命题和自我认知的探讨，有一定思辨性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.28,
+          "explanation": "专辑以情感流动为主线，逻辑论证痕迹不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.42,
+          "explanation": "在当时中国乐坛提供了别具一格的摇滚表达，但非开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.48,
+          "explanation": "在情感主题和声音探索上有所尝试，但范围有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.30,
+          "explanation": "表达直接，情感指向清晰，较少留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "流行摇滚的结构可预见性较高，但仍有个别段落带来意外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.36,
+          "explanation": "歌词和音乐传递的信息量适中，不追求高密度知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.28,
+          "explanation": "更偏向情感体验，而非提供知识或文化学习。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "几乎所有歌曲都聚焦于个人内心世界与感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.62,
+          "explanation": "涉及爱情、友情等一对一关系，是重要的背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.30,
+          "explanation": "较少触及社会集体议题，偶尔暗示环境压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.10,
+          "explanation": "不涉及文明、历史等宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "无法唤起宇宙尺度的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.22,
+          "explanation": "叙事时间多停留在当下或近期回忆，跨度短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.12,
+          "explanation": "基于现实体验，基本无幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.38,
+          "explanation": "快节奏歌曲带来兴奋感，但整体氛围并非幸福洋溢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.52,
+          "explanation": "迷茫和失落的情绪贯穿数首关键曲目。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.62,
+          "explanation": "孤独感是专辑的核心情绪底色之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.30,
+          "explanation": "编曲和演唱风格偏冷，温暖感较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "恐惧不是主要表达的情绪，更多是焦虑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.48,
+          "explanation": "通过高音和编曲制造出明显的紧张情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.18,
+          "explanation": "缺乏令人敬畏的宏大感或崇高感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "部分段落唤起对青春过往的怀念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.68,
+          "explanation": "尽管基调带伤感，但向上的旋律和坚定的声音传达了希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "怀旧与孤独交织形成持续的忧郁基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.22,
+          "explanation": "偶有不满和宣泄的愤怒，但并非主流。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.28,
+          "explanation": "专辑整体动态感强，平静感很少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.62,
+          "explanation": "旋律悦耳，人声与编曲结合产生传统听觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.38,
+          "explanation": "编曲有一定层次，并非极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.12,
+          "explanation": "没有奢华或精雕细琢的听觉印象，偏朴素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.35,
+          "explanation": "某些曲目带有阴郁色彩，但整体亮度更高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.68,
+          "explanation": "明亮的吉他音色和年轻化的声音形象占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.28,
+          "explanation": "写实性较强，梦幻氛围不多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.22,
+          "explanation": "表达直白，神秘感低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.25,
+          "explanation": "在流行摇滚框架内，基本无实验元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.30,
+          "explanation": "现代制作手法为主，经典感有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.72,
+          "explanation": "声音制作和整体气质贴近当代流行摇滚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "作为音乐专辑，无明确故事情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.48,
+          "explanation": "声音中的人格形象有较完整的情绪层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.55,
+          "explanation": "专辑的曲序暗示了从迷茫到坚定的内心转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "未构建虚构世界，仅依托现实背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.18,
+          "explanation": "曲目连接线性感强，无明显非线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.35,
+          "explanation": "部分慢歌提供沉浸感，但整体节奏较快。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.42,
+          "explanation": "摇滚段落带来中等强度的听觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.58,
+          "explanation": "内心的挣扎与外部压力构成明显的冲突张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.32,
+          "explanation": "触及存在主义式的青春追问，但深度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.75,
+          "explanation": "强调个人独立感受与自我表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.22,
+          "explanation": "集体性体验基本缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.18,
+          "explanation": "家庭关系很少被提及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.25,
+          "explanation": "友情偶尔作为背景支撑出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.55,
+          "explanation": "爱情是重要的情感线索之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.15,
+          "explanation": "不涉及社区或群体互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.30,
+          "explanation": "存在与外部世界的对抗性，但非竞技性竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.22,
+          "explanation": "合作不是主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.15,
+          "explanation": "权力结构不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.78,
+          "explanation": "寻找自我、确立身份是专辑的核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.freedom",
+          "score": 0.72,
+          "explanation": "渴望挣脱束缚、做自己的诉求反复出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.order",
+          "score": 0.18,
+          "explanation": "不强调规则和秩序，反而有所反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.truth",
+          "score": 0.42,
+          "explanation": "寻求内心真实，但非抽象真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.beauty",
+          "score": 0.58,
+          "explanation": "音乐性的美感是重要追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.achievement",
+          "score": 0.62,
+          "explanation": "通过创作和演唱证明自我价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.justice",
+          "score": 0.12,
+          "explanation": "社会正义等议题缺失。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.sacrifice",
+          "score": 0.18,
+          "explanation": "牺牲主题很少出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.self_exploration",
+          "score": 0.82,
+          "explanation": "深入挖掘内心世界是驱动专辑的根本动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.tradition",
+          "score": 0.22,
+          "explanation": "对传统采取疏离态度，更关注当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.change",
+          "score": 0.55,
+          "explanation": "期待改变现状，迎接新生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.survival",
+          "score": 0.28,
+          "explanation": "生存压力不是主要焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.meaning",
+          "score": 0.65,
+          "explanation": "持续追问个人存在的意义和价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "对新的情感领域有探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.82,
+          "explanation": "专辑本身就是强烈的创造性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.48,
+          "explanation": "音乐中透露出尝试突破的冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.58,
+          "explanation": "大量内省和反刍式歌词。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.38,
+          "explanation": "与外部评价的抗衡，带有竞争性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "社交行为并非强调重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.30,
+          "explanation": "不强调纪律和自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.42,
+          "explanation": "选择以摇滚表达自我带有一定风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.20,
+          "explanation": "动态充足，平静状态极少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "偶尔有逃避现实的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.30,
+          "explanation": "作为音频，视觉联想较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.48,
+          "explanation": "声音质感有色彩变化，但非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.85,
+          "explanation": "摇滚编曲和高音直接带来强烈听觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.82,
+          "explanation": "鼓点和吉他驱动的强劲节奏贯穿专辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.62,
+          "explanation": "统一的氛围贯穿，从压抑到释放。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.68,
+          "explanation": "情感连贯性使听众容易沉浸在专辑的情绪流中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.72,
+          "explanation": "歌曲速度中等到偏快，推动力强。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.80,
+          "explanation": "高亢人声和摇滚编配维持了高能量水平。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众经历一场从内敛孤独到激昂宣泄的情感旅程。专辑以个人化的迷茫与渴望开场，通过逐渐增强的摇滚能量将压抑转化为希望，最终在坚定的人声中完成自我确认。",
+        "structure_description": "专辑以曲目间的情绪递进来组织体验，慢歌沉淀情感，快歌释放压力，形成一种对话式的内心戏剧，整体朝向更为明亮的结尾。",
+        "cognitive_expression": "作品鼓励听众进行自我联结和内省，识别歌词中的情感模式，并以相对直接的方式处理成长困惑，无需复杂的抽象解码。",
+        "behavioral_tendency_description": "专辑唤起主动表达和创造性释放的倾向，暗示通过音乐宣泄寻找个人道路，同时激励听众面对不确定性时仍保持自我坚持。"
+      },
+      "personality_affinity": {
+        "Ni": 0.48,
+        "Ne": 0.40,
+        "Ti": 0.35,
+        "Te": 0.55,
+        "Fi": 0.82,
+        "Fe": 0.30,
+        "Si": 0.45,
+        "Se": 0.60,
+        "openness": 0.68,
+        "conscientiousness": 0.38,
+        "extraversion": 0.52,
+        "agreeableness": 0.30,
+        "neuroticism": 0.65,
+        "Assertive": 0.42,
+        "Turbulent": 0.72
+      },
+      "supporting_evidence": [
+        "专辑以流行摇滚为主要风格，用电吉他、贝斯和鼓构建出饱满的音墙。",
+        "歌手使用高亢且略带沙哑的嗓音进行演唱，尤其在高潮部分极具穿透力。",
+        "收录了《琴麻岛的海》等原创曲目，展现了个人创作能力。",
+        "歌词内容多围绕青春的迷茫、孤独感与对自我认同的追寻。",
+        "曲序安排从低沉内省逐渐过渡到坚定释放，形成情绪弧线。",
+        "制作上保留了一定的现场感，乐器声没有过度修饰。",
+        "编曲中吉他solo和节奏变化提供了情绪爆发点。",
+        "专辑封面和视觉宣传强调年轻的、略带叛逆的个人形象。",
+        "发行于2007年，正值中国流行摇滚新势力涌现的时期。",
+        "听众以年轻群体为主，歌曲成为他们表达成长困惑的载体。",
+        "多首歌曲将爱情体验与个体成长交织叙述。",
+        "音乐中较少使用电子音效，整体音色偏向传统乐队配置。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

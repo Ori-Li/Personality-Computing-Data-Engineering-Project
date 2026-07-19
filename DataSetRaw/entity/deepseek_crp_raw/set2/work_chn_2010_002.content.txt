@@ -1,0 +1,737 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2010_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "身体叙事",
+        "type": "SCULPTURE",
+        "countryName": "CHN",
+        "year": 2010,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-20",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.65,
+        "primaryMediaType": "SCULPTURE"
+      },
+      "semantic": {
+        "summary": "肖敏的系列雕塑作品《身体叙事》以陶瓷和综合材料塑造女性身体片段，常呈现扭曲、缺失与拼接的形态。作品聚焦于女性身份建构、生理体验与内在情感的表达，通过物质性极强的陶瓷语言，展现身体的脆弱、伤痕、生长和力量感。整体体验既私密又具有普遍性，在视觉上的不完整中传达出深刻的心理叙事和文化反思。",
+        "themes": [
+          "女性身份",
+          "身体",
+          "生理体验",
+          "内在情感",
+          "创伤",
+          "身份认同"
+        ],
+        "keywords": [
+          "陶瓷",
+          "综合材料",
+          "女性身体",
+          "碎片化",
+          "扭曲",
+          "拼接",
+          "肖敏",
+          "雕塑",
+          "触觉感"
+        ],
+        "core_experience": "观察这些身体片段时，观众感受到一种细腻而触动心灵的亲历感。视觉上不完整的形态激发了对完整身体的想象与追忆，物质的脆弱感与女性内在情感的坚韧形成张力，引导观众进入一种反思性、共情且略带不安的心理体验。",
+        "experience_introduction": "作品通过物质性与残缺形态的直接呈现，引导观众关注身体本身的叙事性。陶瓷的脆弱与坚硬并存，呼应了女性身份在社会与内在生活中同时承受压迫与展现韧性的矛盾。观众在面对这些非理想化、甚至带有破坏痕迹的身体局部时，会自然地从外部审视转向内在共情与自我审视，从而获得关于身份、存在和情感表达的有机体验。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.15,
+        "awe": 0.10,
+        "nostalgia": 0.20,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.65,
+        "warmth": 0.10,
+        "loneliness": 0.55,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.78,
+          "complexity": 0.62,
+          "depth_of_thought": 0.80,
+          "logical_structure": 0.30,
+          "novelty": 0.68,
+          "exploration": 0.72,
+          "ambiguity": 0.82,
+          "predictability": 0.10,
+          "information_density": 0.55,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.50,
+          "social_scale": 0.45,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.05,
+          "time_span": 0.20,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.60,
+          "loneliness": 0.70,
+          "warmth": 0.10,
+          "fear": 0.15,
+          "tension": 0.68,
+          "awe": 0.08,
+          "nostalgia": 0.30,
+          "hope": 0.12,
+          "melancholy": 0.75,
+          "anger": 0.20,
+          "peace": 0.08
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.55,
+          "luxury": 0.05,
+          "darkness": 0.60,
+          "brightness": 0.10,
+          "dreamlike": 0.25,
+          "mystery": 0.55,
+          "experimental": 0.75,
+          "classical": 0.20,
+          "modern": 0.80
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.80,
+          "character_growth": 0.35,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.55,
+          "slow_immersion": 0.70,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.82
+        },
+        "social": {
+          "individualism": 0.60,
+          "collectivism": 0.20,
+          "family": 0.15,
+          "friendship": 0.10,
+          "love": 0.25,
+          "community": 0.10,
+          "competition": 0.05,
+          "cooperation": 0.05,
+          "power_relationship": 0.45,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.55,
+          "order": 0.10,
+          "truth": 0.70,
+          "beauty": 0.40,
+          "achievement": 0.05,
+          "justice": 0.15,
+          "sacrifice": 0.30,
+          "self_exploration": 0.92,
+          "tradition": 0.25,
+          "change": 0.60,
+          "survival": 0.50,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.60,
+          "creation": 0.55,
+          "adventure": 0.15,
+          "reflection": 0.95,
+          "competition": 0.05,
+          "social": 0.10,
+          "discipline": 0.35,
+          "risk": 0.25,
+          "calm": 0.15,
+          "escape": 0.45
+        },
+        "sensory": {
+          "visual_intensity": 0.70,
+          "color_richness": 0.25,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.20,
+          "atmosphere": 0.78,
+          "immersion": 0.60
+        }
+      },
+      "media_vector": {
+        "sculpture_vector": {
+          "three_dimensionality": 0.75,
+          "material_expression": 0.92,
+          "body_representation": 0.95,
+          "spatial_presence": 0.70,
+          "symbolic_power": 0.88,
+          "craftsmanship": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "作品以冷静沉思的方式呈现身体片段，整体情绪基调内敛，故激情感受较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品主要呈现创伤与缺失，而非疗愈或安慰，因此疗愈感不显著。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.10,
+          "explanation": "雕塑尺寸与形态偏向私密而非宏大，不易引发敬畏或崇敬感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.20,
+          "explanation": "虽有残缺引发的追忆感，但作品更关注当下身份体验，怀旧情感仅为边缘要素。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "扭曲缺失的女性身体片段强烈鼓励观众进行自我审视与内在反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品无浪漫叙事线索，身体呈现方式为非浪漫化的，浪漫感极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.65,
+          "explanation": "缺失与扭曲的形态以及物质脆弱感营造了明显的视觉与心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "作品基调偏冷峻，关注痛苦与挣扎，暖意并非其主导特征。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.55,
+          "explanation": "孤立存在的身体片段与内在情感叙事相结合，激发孤独与疏离感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "作品集中于呈现困境与内省，对未来导向的希望感表达较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.78,
+          "explanation": "碎片化的身体形态剥离了具象叙事，要求观众通过象征与概念进行解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "身体、性别、身份与社会规范等议题交织在一起，形成了中等偏上的概念复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.80,
+          "explanation": "作品引导观众触及关于存在、创伤和女性身份建构的深层哲学与心理议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "系列作品之间为并列关系，不存在线性的逻辑推演或严格的因果框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.68,
+          "explanation": "将陶瓷的物质性与女性身体碎片化叙事结合，在当时的中国当代雕塑语境中具有较高的原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.72,
+          "explanation": "通过外在身体的残缺引导观众探索内在心理与身份认知，是一场对未知内在世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.82,
+          "explanation": "身体片段的非完整性及意义的开放性制造了高度的解读不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.10,
+          "explanation": "作品形态打破了对完整人体的惯常期待，视觉表达出人意料，可预测性极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "每一件身体片段都承载着材质、形态与象征的多重信息，但系列并列使密度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "观众可从中获得关于女性主义视角、身体社会学及当代雕塑语言的知识与洞见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "作品几乎完全聚焦于个体内部的生理感受和心理体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.50,
+          "explanation": "虽然没有明确的互动角色，但身体形态常暗示与外界或他者的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.45,
+          "explanation": "通过个人身体经验折射社会对女性的规训与定义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "缺乏处理宏观文明演变或历史进程的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及宇宙、自然法则或超越人类的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.20,
+          "explanation": "作品呈现的是瞬间或凝固的状态，时间跨度感不显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "基于真实生理形态的变形而非幻想构建，幻想性极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品主题涉及创伤与挣扎，整体情绪氛围沉重，没有传达快乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.60,
+          "explanation": "残缺和扭曲的形态普遍传递出失落与痛苦的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.70,
+          "explanation": "孤立的身体片段使孤独感和内在的隔绝感成为主导情绪之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.10,
+          "explanation": "材质与形态倾向于冷峻，温暖的视觉或情感信号几乎没有。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "扭曲形态虽具冲击力，但更多是引发沉思而非直接的恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.68,
+          "explanation": "脆弱的陶瓷与强加的扭曲形态之间形成持久的内在张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.08,
+          "explanation": "作品不追求规模或技术上的崇高感，敬畏情绪非常微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "缺失的身体部位唤起对"完整"过去的某些追忆感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.12,
+          "explanation": "沉重与破碎的基调淹没了任何关于未来的乐观情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.75,
+          "explanation": "作品对失去、残缺和内在痛苦的沉思构成了强烈的忧郁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.20,
+          "explanation": "虽然处理了潜在的压迫议题，但其表达方式内敛，少有直接的外显愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.08,
+          "explanation": "内在的张力与不安定感占据主导，宁静平和不是作品的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "作品不是传统意义上的优美，其美感更多源于观念和情感的真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "仅呈现身体的局部片段，有意削减冗余信息，具有较高的简约感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "材料朴素且主题反装饰性，与奢华感完全相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.60,
+          "explanation": "作品在视觉意象和主题上都偏向沉重与病理性探讨，具有哥特式暗黑感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.10,
+          "explanation": "整体氛围阴郁，色彩与照明（如展览环境）均偏向低调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.25,
+          "explanation": "碎片化与超现实的形态处理带来一丝梦境般的疏离感，但其物质质感较强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "缺失的身体部分与背后的叙事线索为作品披上了一层神秘的面纱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.75,
+          "explanation": "用综合材料和局部形态挑战传统雕塑与身体美学，实验性很强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.20,
+          "explanation": "虽然在主题上打破了经典，但形式上仍保留了一丝古典雕塑的宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.80,
+          "explanation": "无论在观念还是表现形式上，都充分体现了现代与当代艺术的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "作为静态视觉艺术系列，不存在复杂的情节推进机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.80,
+          "explanation": "被塑造的隐匿主体具有深刻的内在复杂性，提供了巨大的角色诠释空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.35,
+          "explanation": "这是关于状态的叙事，而非时间线上的成长变化，但可被解读为伤痕沉淀的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "缺乏创造一个虚构或完整现实世界体系的意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.55,
+          "explanation": "系列作品以共时性而非历时性的方式展开，空间并置构成了一种非线性结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.70,
+          "explanation": "作品需要观众花费时间凝视、沉思，这是一个缓慢沉浸在内在叙事中的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "作品完全是静态的，没有任何物理动作或动态暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "内在的心理冲突、生理与社会身份的矛盾在静态中极其集中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "身体作为叙事媒介引发了关于存在主义、女权主义和现象学的深刻思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.60,
+          "explanation": "聚焦于个体的感知与情感，强调独立的自我体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.20,
+          "explanation": "较少涉及群体结构或共同目标，但不是完全排斥，涉及到作为群体的女性身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.15,
+          "explanation": "家庭关系并非作品处理的直接主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.10,
+          "explanation": "不存在对友情等具体人际关系的刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.25,
+          "explanation": "这里涉及的爱更多指向广义的自爱与缺失的关怀，而非浪漫之爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.10,
+          "explanation": "社群的互动和归属感不是作品的焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "作品不鼓励竞争性解读，而是引导共情与理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.05,
+          "explanation": "没有涉及人际间的协作或共同行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.45,
+          "explanation": "强烈暗示了外在社会规范、他人凝视和权力结构对身体的控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.90,
+          "explanation": "女性身份认同的建构、解构与自我定义是贯穿整个系列的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.55,
+          "explanation": "通过表现身体所受的限制，反向呼唤精神与身体自主的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "作品在形式上打破了传统人体结构的秩序，不强调规则与条理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.70,
+          "explanation": "深刻地揭示了被社会规范掩盖的女性生理和心理真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.40,
+          "explanation": "挑战了传统的审美标准，追求一种“真”的美学，而非唯美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "不涉及任何形式的外部成就或成功叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.15,
+          "explanation": "对不公的控诉是隐性的而非显性的司法求偿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.30,
+          "explanation": "在表现身体创伤时，暗示了某种为身份或关系付出的牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.92,
+          "explanation": "鼓励观众从自身身体经验出发进行内在探索是作品最核心的价值主张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.25,
+          "explanation": "虽然使用传统的陶瓷媒介，但其观念是对传统身体观的颠覆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.60,
+          "explanation": "作品呈现了身份和生理状态的流动性与转变过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.50,
+          "explanation": "破碎的身体仍作为存在本身，象征着一种挣扎求存的顽强的生命力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "作品驱动观众不断追问身体、身份和存在的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.60,
+          "explanation": "碎片化的形式激发了观众探知隐藏的故事和内在机制的欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "作品本身展示了极强的创造性手法，也能激发观众对艺术表达的创意思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "不涉及外向型的探险或对新物理空间的开拓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "这是典型的沉思型作品，主导的认知行为是长时间的内省和分析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "完全不存在鼓励竞争、比赛或对抗的要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.10,
+          "explanation": "体验是个人化的，并非旨在促进现场观众间的社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.35,
+          "explanation": "制作过程本身无疑是高度纪律性的，但作品本身强调生命的“失控”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.25,
+          "explanation": "在观念上具有风险性，但在行为引导上并不直接指向冒险活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "内心的激荡和张力远多于室息凝视带来的平静感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.45,
+          "explanation": "面对痛苦现实时，通过沉思而在心理上进行退避和抽离的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.70,
+          "explanation": "扭曲缺失的形体具有较高的视觉冲击力，能立刻抓住观众的目光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "基于陶瓷和综合材料的本色，色彩使用相对克制而不丰富鲜艳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "作为纯视觉艺术雕塑，本身不包含任何声音元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.20,
+          "explanation": "系列作品的空间节奏以缓慢凝重的重复与变异为主，能量感较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.78,
+          "explanation": "非常成功地营造了私密、内省并带有一丝病理学意味的独特氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.60,
+          "explanation": "能够吸引观众进入沉思的内心空间，但由于静态性，具身沉浸感并非其首要目标。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.three_dimensionality",
+          "score": 0.75,
+          "explanation": "作为雕塑，占有的三维空间是其基本属性，且局部呈现在空间中的关系被精心处理。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.material_expression",
+          "score": 0.92,
+          "explanation": "陶瓷与综合材料的质感、脆弱性、温度与身体主题高度统一，材料是叙事的核心。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.body_representation",
+          "score": 0.95,
+          "explanation": "作品完全以女性身体作为表现和探究的对象。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.spatial_presence",
+          "score": 0.70,
+          "explanation": "尽管是局部，但每个片段都散发着强烈的在场感，并定义了周围的观看空间。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.symbolic_power",
+          "score": 0.88,
+          "explanation": "身体部位作为能指，承载了性别、身份、创伤等多重所指，符号力量极强。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.craftsmanship",
+          "score": 0.85,
+          "explanation": "在陶瓷烧制和综合材料运用上展现了高超的控制力和成熟的技艺。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在观看《身体叙事》时，会经历从视觉冲击到内在共情再到沉沉思的心理过程。残缺的身体片段首先带来的是不安与紧张，随后这种视觉上的不完整唤起对人物内在生活和体验的想象与探究。作品并未给予答案，而是将观众置于一个充满亲密感、孤独感和失落感的反思性空间，使其真切地感受到脆弱与坚韧交织的独特体验。",
+        "structure_description": "作品通过系列化、片段化的并置来组织其体验流。它没有时间顺序上的线性发展，而是通过并置一系列碎片化的身体局部，构建出一个类似心理地图的空间结构。观众在展厅中游走于这些片段之间，这种非线性的、回环往复的凝视方式构成了其独特的认知和体验结构。",
+        "cognitive_expression": "作品强烈鼓励抽象解读、象征联想和内省式沉思。观众需要将眼前的局部视作一个符号系统，调用自身对于身体、性别和社会规范的先验知识来解码。其非完整性强迫大脑进行补全和关联，从而展开哲学层面的思考。这是一种高度需要释义、而非仅凭直觉感知的认知参与过程。",
+        "behavioral_tendency_description": "作品引导的行为倾向是安静、持久的注视与自我对话。它不是激发外向行动、社交互动或身体兴奋的作品。相反的，它使观众的行为慢下来，引导其转向内心，审视自身对身体和身份的感知，并在内心进行观念的重构。这可能诱发以反思和独处为核心的心理抽离行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.45,
+        "Ti": 0.55,
+        "Te": 0.15,
+        "Fi": 0.90,
+        "Fe": 0.40,
+        "Si": 0.35,
+        "Se": 0.30,
+        "openness": 0.88,
+        "conscientiousness": 0.50,
+        "extraversion": 0.10,
+        "agreeableness": 0.20,
+        "neuroticism": 0.75,
+        "Assertive": 0.10,
+        "Turbulent": 0.90
+      },
+      "supporting_evidence": [
+        "系列作品全部由女性身体局部片段组成，不见完整身躯。",
+        "身体姿态表现为扭曲、缺失与拼接，呈现非理想化状态。",
+        "使用陶瓷作为主要材料，强调物质本身的脆弱与坚硬。",
+        "作品结合综合材料加强肌理与对比。",
+        "身体片段之间是空间并置关系，而非线性叙事排列。",
+        "作品聚焦于极其私密的内在生理经验与心理状态。",
+        "外部形态的残缺引导观众去想象和追问缺失的部分及其故事。",
+        "舍弃鲜艳色彩，以材料的本色和素雅调性为主。",
+        "展览呈现方式为每个片段独立占有空间，强调个体的孤存感。",
+        "形态上打破了传统对人体对称、完整和优美的审美规范。",
+        "触觉式的表面处理与视觉共同作用于观众的感官体验。",
+        "作品标题直接点明身体充当了叙事媒介而非客体。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

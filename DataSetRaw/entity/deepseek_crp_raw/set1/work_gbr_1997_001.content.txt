@@ -1,0 +1,724 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_gbr_1997_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "OK Computer",
+        "type": "MUSIC",
+        "countryName": "英国",
+        "year": 1997,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.9,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《OK Computer》是电台司令于1997年发行的第三张录音室专辑，以前卫摇滚和另类摇滚为基底，融合电子、氛围等元素。专辑围绕现代科技社会中的人类异化、精神焦虑、消费主义与政治疏离等主题展开，创造出冰冷、压抑且充满不确定性的整体氛围，折射出世纪末西方社会的集体心理困境和精神危机。",
+        "themes": [
+          "科技异化",
+          "社会焦虑",
+          "存在孤独",
+          "消费主义批判",
+          "政治疏离",
+          "精神困境"
+        ],
+        "keywords": [
+          "世纪末",
+          "英国",
+          "前卫摇滚",
+          "另类摇滚",
+          "电子音乐",
+          "都市焦虑",
+          "社会冰冷",
+          "存在危机",
+          "电台司令",
+          "概念专辑"
+        ],
+        "core_experience": "听众被包裹在冰冷锐利的吉他音色、忧郁的人声和复杂的编曲之中，体验到一种深沉的疏离和焦虑情绪，如同独自穿行在未来的灰色都市，被无形的科技压力包围并反思自我存在的意义。",
+        "experience_introduction": "听众从第一首曲目开始便被引入一个充满电子噪音、不和谐音程和忧郁旋律的声音世界。整张专辑通过复杂的编曲、Thom Yorke紧张疏离的唱腔和充满隐喻的歌词，构建了一个不断升级的焦虑体验。前半部分通过强烈的节奏和吉他音墙营造出科技异化的压迫感，后半部分则沉入更加幽暗、内省的情绪深渊，最终在关于希望和死亡的矛盾思考中结束，迫使听众直面现代社会带来的精神创伤。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.12,
+        "awe": 0.68,
+        "nostalgia": 0.18,
+        "reflection": 0.82,
+        "romance": 0.05,
+        "tension": 0.90,
+        "warmth": 0.08,
+        "loneliness": 0.88,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.77,
+          "complexity": 0.86,
+          "depth_of_thought": 0.84,
+          "logical_structure": 0.55,
+          "novelty": 0.89,
+          "exploration": 0.72,
+          "ambiguity": 0.78,
+          "predictability": 0.22,
+          "information_density": 0.81,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.92,
+          "relationship_scale": 0.28,
+          "social_scale": 0.85,
+          "civilization_scale": 0.50,
+          "cosmic_scale": 0.32,
+          "time_span": 0.45,
+          "fantasy_level": 0.14
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.68,
+          "loneliness": 0.90,
+          "warmth": 0.06,
+          "fear": 0.74,
+          "tension": 0.87,
+          "awe": 0.64,
+          "nostalgia": 0.20,
+          "hope": 0.10,
+          "melancholy": 0.88,
+          "anger": 0.48,
+          "peace": 0.07
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.44,
+          "luxury": 0.04,
+          "darkness": 0.92,
+          "brightness": 0.08,
+          "dreamlike": 0.58,
+          "mystery": 0.58,
+          "experimental": 0.88,
+          "classical": 0.30,
+          "modern": 0.86
+        },
+        "narrative": {
+          "plot_complexity": 0.45,
+          "character_depth": 0.70,
+          "character_growth": 0.12,
+          "world_building": 0.85,
+          "nonlinear_structure": 0.65,
+          "slow_immersion": 0.82,
+          "action_intensity": 0.25,
+          "conflict_intensity": 0.72,
+          "philosophical_depth": 0.84
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.20,
+          "family": 0.15,
+          "friendship": 0.18,
+          "love": 0.22,
+          "community": 0.12,
+          "competition": 0.30,
+          "cooperation": 0.10,
+          "power_relationship": 0.55,
+          "identity": 0.88
+        },
+        "value": {
+          "freedom": 0.48,
+          "order": 0.12,
+          "truth": 0.72,
+          "beauty": 0.48,
+          "achievement": 0.10,
+          "justice": 0.25,
+          "sacrifice": 0.22,
+          "self_exploration": 0.88,
+          "tradition": 0.05,
+          "change": 0.45,
+          "survival": 0.65,
+          "meaning": 0.87
+        },
+        "behavior": {
+          "curiosity": 0.55,
+          "creation": 0.40,
+          "adventure": 0.30,
+          "reflection": 0.90,
+          "competition": 0.22,
+          "social": 0.15,
+          "discipline": 0.28,
+          "risk": 0.42,
+          "calm": 0.12,
+          "escape": 0.65
+        },
+        "sensory": {
+          "visual_intensity": 0.50,
+          "color_richness": 0.38,
+          "sound_intensity": 0.82,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.95,
+          "immersion": 0.89
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "前卫摇滚 另类摇滚",
+          "tempo": 0.45,
+          "energy": 0.58,
+          "vocal_style": "疏离 脆弱 假声",
+          "instrumentation": "电吉他 模拟合成器 弦乐 电子鼓 效果器",
+          "production_style": "声音层次密集 空间感强 电子噪音介入",
+          "lyrical_theme": "科技异化 现代疾病 存在孤独 政治隐喻",
+          "emotional_scene": "未知的未来都市 地下通道 冰冷的太空 空荡荡的宾馆",
+          "cultural_context": "1990年代末西方社会 互联网兴起前 技术焦虑 千禧年危机"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "专辑情感表达充满克制和疏离，理智压抑了激情的外露。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.12,
+          "explanation": "整体氛围紧张压抑，几乎不提供任何释然或安慰的出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.68,
+          "explanation": "前卫的编曲和宏大的音墙构建，常给听众带来艺术上的震撼感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.18,
+          "explanation": "作品面向未来的科技批判视角，很少引发对过去的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.82,
+          "explanation": "密集的社会隐喻和哲学追问强迫听众持续进行内省和反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "专辑主题完全不涉及浪漫关系，情感核心是异化和疏离。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.90,
+          "explanation": "从旋律走向到节奏切入，整张专辑维持着持续的心理紧绷感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.08,
+          "explanation": "音乐刻意营造冰冷、机械的声场，几乎没有任何温暖的情感流露。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.88,
+          "explanation": "歌词和音乐中充斥着个体在庞大科技社会前的渺小与隔绝感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "整张专辑充满绝望氛围，仅在结尾处对死亡和未来发出微弱而矛盾的疑问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.77,
+          "explanation": "歌词大量使用隐喻、意象和碎片化叙事，意义往往需要听众自行解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.86,
+          "explanation": "编曲融合多种前卫元素，节拍和结构多变，层次密集且信息量巨大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.84,
+          "explanation": "内容涉及存在主义、消费主义和技术异化等深层哲学与社会命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "曲目编排有情绪递进逻辑，但内部结构具有打破常规的非公式化处理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.89,
+          "explanation": "在1990年代吉他摇滚盛行的背景下，大规模融入电子音效和实验编曲极具开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.72,
+          "explanation": "音乐带领听众探索未知的声音领域和深层的内心精神困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.78,
+          "explanation": "作品未给出明确答案，歌词充满多义性，抗拒单一的解读路径。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.22,
+          "explanation": "大量使用不和谐音和奇数拍，音乐走向经常出人意料，难以预判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.81,
+          "explanation": "音效细节极其丰富，歌词承载了大量的文化和心理信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.60,
+          "explanation": "聆听过程能加深听众对现代技术社会心理状态和前卫音乐艺术的理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.92,
+          "explanation": "视角集中于个体的内心体验、恐惧和精神异化，从微观切入宏观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.28,
+          "explanation": "缺乏对具体人际亲密关系的描写，更多呈现的是人物与系统/社会的隔离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "深度批判消费主义、政治制度和社会规则对个体的异化和压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.50,
+          "explanation": "反映了特定时代西方技术文明的迷惘，有一定文明层面的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.32,
+          "explanation": "部分歌曲以太空为背景（如太阳系外漫游），引出宇宙维度的渺小感，但非主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.45,
+          "explanation": "既关注当下焦虑，又隐约透露出对千禧年临近的未来忧虑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.14,
+          "explanation": "设定和情境高度基于现实或超现实的科技社会，几乎无超自然幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "整张专辑的主导情绪基调极度负面，几乎无从找寻喜悦的痕迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "深刻的无力感和对现代社会的失望贯穿全专，悲伤感明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.90,
+          "explanation": "表达的核心是人在科技社会中的孤立，难以与他人建立真正联系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.06,
+          "explanation": "编曲和人声均采取冷调试音色，刻意消除温暖的人性感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.74,
+          "explanation": "对技术控制、车祸隐喻、社会暴力和未知未来的担忧制造出显著的恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.87,
+          "explanation": "不和谐吉他音墙和紧缩的节奏制造了持续的生理和心理压迫感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.64,
+          "explanation": "宏大的编曲和绝望的抒情相结合令人心生敬畏，特别是在高潮段落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.20,
+          "explanation": "偶尔流露出对失去的纯粹感的怀念，但被极度的科技批判所覆盖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.10,
+          "explanation": "结尾虽留有一线生机，但绝大多数内容充斥着彻底的悲观和绝望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.88,
+          "explanation": "缓慢的旋律章节和充满悲观的歌词营造出沉重且延绵的忧郁氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.48,
+          "explanation": "在吉他噪音和部分暴戾的编曲段落中能听出对社会现状的愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.07,
+          "explanation": "听觉体验几乎不给听众任何喘息和宁静的间隙，始终处于躁动中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "编曲精良但常指向残酷的美感，具备一种扭曲的、破碎的艺术之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.44,
+          "explanation": "某些桥段趋于空灵简洁，但更多时候是极繁主义的音墙轰炸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.04,
+          "explanation": "内容恰恰是在批判物质社会的空洞，本身没有任何华丽或奢靡的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.92,
+          "explanation": "视觉意象和音乐氛围几乎都指向地下、机械、死亡和黑暗的角落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.08,
+          "explanation": "高音区常配有刺耳的失真效果，音色层面上压抑了明亮的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.58,
+          "explanation": "大量混响和氛围音效使听感像陷入一场高科技的、扭曲的噩梦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.58,
+          "explanation": "模糊的叙事和奇异的声音设计充满了神秘和不可知的气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.88,
+          "explanation": "突破传统摇滚框架，大胆采用具体音乐、不和谐音和电子乐处理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.30,
+          "explanation": "保留了部分前卫摇滚的古典美学追求，但整体偏向于未来主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.86,
+          "explanation": "完美抓住了世纪末特有的现代性焦虑，体现了极简、疏离的现代审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.45,
+          "explanation": "非直接叙事，音乐轨迹即叙事线，情绪起伏构成了完整但抽象的“情节”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.70,
+          "explanation": "通过声效和歌词深刻刻画了当代人“异化者”的复杂心理肖像。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.12,
+          "explanation": "主人公在作品中基本处于停滞或后退状态，没有成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.85,
+          "explanation": "营造了一个非常完整、自洽且细致入微的世纪末科技社会图景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.65,
+          "explanation": "情绪并非线性累积，而是突然爆发或断裂，意识流特征显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.82,
+          "explanation": "大部分歌需要长时间的氛围铺垫和沉浸才能进入音乐的核心情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.25,
+          "explanation": "即使在最激烈的吉他段落，也是情绪宣泄多于物理上的“动作感”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.72,
+          "explanation": "内容充满了自我与自我、自我与社会系统的剧烈冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.84,
+          "explanation": "对存在主义、技术恐怖谷、死亡恐惧等哲学主题进行了深刻的音乐化探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "聚焦于个体在集体中的孤立，强调个人的感知和对个体存在的审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.20,
+          "explanation": "对于“集体”及“体制”往往持有批判和恐惧的态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.15,
+          "explanation": "未涉及家庭归属感，更多表现为人与原生环境的断裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.18,
+          "explanation": "几乎不关注友谊，人际关系的核心色彩是冷漠和互相隔离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.22,
+          "explanation": "爱情被放置于冰冷背景下描写，显得麻木甚至荒谬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.12,
+          "explanation": "将社区及社会视为压迫的根源，缺乏积极的社区联结描述。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.30,
+          "explanation": "现代社会的激烈竞争和优胜劣汰构成了压抑感的一部分来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "合作关系在高度异化的个体间几乎是不可能的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.55,
+          "explanation": "重点审视了体制、政治人物、大企业对个体的绝对控制权。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.88,
+          "explanation": "核心探讨了人在科技锁定下的身份剥落、自我怀疑与丧失。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.48,
+          "explanation": "向往脱离系统，但更多传达的是“自由不可得”的束缚感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.12,
+          "explanation": "秩序表现为僵化的社会机器，是被强烈质疑和反抗的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.72,
+          "explanation": "勇于撕开现代文明的和谐假象，探寻存在的真实丑陋面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.48,
+          "explanation": "在噪音中重新定义美学标准，具备一种非传统的艺术之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.10,
+          "explanation": "不宣扬世俗成功，充满了对目标驱动人生的虚无感和厌倦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.25,
+          "explanation": "对社会不公进行控诉，但对正义能否到来持极度悲观态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.22,
+          "explanation": "未见崇高的牺牲叙事，更多体现为个体被社会无声地吞噬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.88,
+          "explanation": "整张专辑是一场深入骨髓的内省之旅，剖析内心灰暗角落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.05,
+          "explanation": "完全反传统的激进姿态，致力于打破所有固有的摇滚套路。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.45,
+          "explanation": "描绘了被技术裹挟的剧变，但充满了对变化的恐惧而不是期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.65,
+          "explanation": "在现代钢铁丛林中的精神“幸存”是反复浮现的核心母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.87,
+          "explanation": "在面对技术虚无主义时，不断发出对生命意义和存在价值的拷问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.55,
+          "explanation": "驱动力源于对未知的恐惧和疑惑，而非积极的探索欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.40,
+          "explanation": "批判现行创造物（技术），自身是伟大的创造，但并非关于创造的命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.30,
+          "explanation": "是向内对精神深渊的冒险，而非向外对广阔世界的征服。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.90,
+          "explanation": "自始至终都在进行严肃的、不安的、批判性的自我反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.22,
+          "explanation": "描绘了社会内卷的焦虑，但自身姿态是完全抗拒竞争的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "社交障碍和被误解是核心主诉，行为极不社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.28,
+          "explanation": "充满了失控感，并非有条不紊，反而是精神濒临崩溃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.42,
+          "explanation": "在音乐形式和表达主题上都极为大胆，冒着脱轨的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.12,
+          "explanation": "极度躁动不安，听感和表达都处于焦虑的顶点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.65,
+          "explanation": "充满了逃离现代社会、逃离机械化生活、逃离现实控制的渴望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.50,
+          "explanation": "虽为听觉媒体，但歌词构筑的画面感极强，充满了可联想的视觉场景（如白色走廊）。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.38,
+          "explanation": "色彩感知偏向单一的冰冷蓝、灰、白，缺乏鲜艳饱和的色系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.82,
+          "explanation": "声音层次极多，常使用巨大的动态冲击和音墙，刺激性强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "部分歌首具有很强的律动感，但被不和谐音和缓慢段落中和了整体动能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "氛围感是最核心的武器，几乎将疏离和科技感的氛围拉满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.89,
+          "explanation": "密集的音场和连贯的情绪流向极易让听众感到被音乐完全包裹。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.45,
+          "explanation": "中慢板为主，大段沉闷的铺垫部分拉低了整体速度感。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.58,
+          "explanation": "非传统体育场摇滚的高能，而是压抑到极点后爆发的不稳定内能。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "这是一次充满紧张和孤独的精神苦旅。听众被投掷到冰冷、异化的世纪末未来图景中，由外而内地体验现代技术和体制带来的全方位压迫。情感主要围绕深沉的焦虑、对意义丧失的恐惧和挥之不去的无力感。这种体验随着音乐层层递进，不断深化个体与外界割裂的感知，最终沉入压抑的内省高潮。",
+        "structure_description": "整张专辑的结构如同一部没有情节的心理叙事诗。前一部分通过尖锐且富有冲击的节奏展现对体制的激烈反抗，中间部分通过缓慢空灵的音景引入更抽象的内省，后一部分则在疏离的氛围中展开对末日、死亡和人生道路的想象。这种非线性的情绪演替构成了其核心的结构语法。",
+        "cognitive_expression": "作品刻意通过对常规旋律和节拍的破坏，强制听众进入非自动化思考。高度浓缩的歌词、象征符号和模糊的指代诱使大脑不断地进行联想、解构和意义重构。它不接受被动接收，要求听众主动去将声音、文本与社会现实相联系，去推理并填补叙事空白。",
+        "behavioral_tendency_description": "这张专辑不鼓动任何积极、扩张性的行动，反而在不断强化倾听者向内收缩、自我质疑和回避外在喧嚣的倾向。听众被鼓励通过思考来审视人与技术的关系，反思被同化的危险，产生一种远离狂热、寻找低刺激环境、拒绝顺从的逃避型行为倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.87,
+        "Ne": 0.60,
+        "Ti": 0.82,
+        "Te": 0.24,
+        "Fi": 0.92,
+        "Fe": 0.15,
+        "Si": 0.55,
+        "Se": 0.12,
+        "openness": 0.92,
+        "conscientiousness": 0.28,
+        "extraversion": 0.08,
+        "agreeableness": 0.12,
+        "neuroticism": 0.88,
+        "Assertive": 0.05,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "歌词反复使用车祸、机器、失重等意象暗喻个体在技术社会中失去控制。",
+        "整张专辑通过大量使用模拟合成器、电子噪音和特殊混响营造出疏离的未来感。",
+        "吉他音色常模仿机械运行的冰冷质感，与人声形成对立。",
+        "多首歌曲突然陷入不和谐的桥段，打破听众寻求舒适的预期。",
+        "讲述者常以第一视角描述被现代通讯设备和规则压迫的感受。",
+        "《Fitter Happier》用冰冷的电脑合成声朗读类似测试清单的内容，深度模仿了社会规训。",
+        "专辑中频繁出现多层音轨堆叠，刻意制造信息过载感，映照现代人心智拥堵。",
+        "旋律走向常意外离调，拒绝走向温暖或舒心的大调和弦。",
+        "许多歌词直接指向政治和商业体制对个人精神的吞噬。",
+        "专辑后半部分速度放缓，引入冥想般的声场，加深了沉思和虚无的体验。",
+        "句尾经常使用假声处理，展现出一种脆弱、摇摆不定的精神状态。",
+        "结他强力和弦连同沉重贝斯提供了一种持续的生理压迫感。",
+        "曲目之间通过环境音效衔接，无缝构成了不可分割的情绪炼狱。",
+        "技术术语如“反馈”、“短路”被大量用作心理状态的双关语。",
+        "整张唱片的封面艺术描绘了失真的白色线条，视觉化了扭曲和焦虑的内核。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_col_2006_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Hips Don't Lie",
+        "type": "MUSIC",
+        "countryName": "COL",
+        "year": 2006,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.93,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《Hips Don't Lie》是一首融合了拉丁、雷鬼与流行舞曲元素的拉丁流行歌曲，由夏奇拉演唱并于2006年发行。作品以极具感染力的节奏、号角般的铜管乐句和夏奇拉标志性的颤音唱腔为核心，展现了音乐与肢体律动的本能吸引。歌词围绕舞蹈、身体语言和两性吸引力展开，营造出一种无可抗拒的庆祝氛围和感官狂欢的体验。",
+        "themes": [
+          "爱情",
+          "舞蹈",
+          "身体表达",
+          "感官吸引",
+          "庆典"
+        ],
+        "keywords": [
+          "拉丁流行",
+          "雷鬼",
+          "舞曲",
+          "夏奇拉",
+          "哥伦比亚",
+          "身体律动",
+          "狂欢节",
+          "铜管乐器",
+          "全球热门"
+        ],
+        "core_experience": "在充满异域风情的拉丁节拍中，听众被卷入一场由身体律动主导的感官庆典。作品通过欢快的旋律和充满活力的演唱，引发一种不由自主想随之舞动的、纯粹而奔放的本能愉悦。",
+        "experience_introduction": "歌曲通过明亮的铜管前奏瞬间建立高昂情绪，以充满弹性的拉丁和雷鬼节奏保持持续的动能。夏奇拉的演唱在力量感与挑逗性之间切换，将听众的注意力引向节奏、音色和肢体想象，营造出一种短暂逃离理性束缚、完全沉浸在节奏与感官中的音乐体验。"
+      },
+      "experience_vector": {
+        "passion": 0.92,
+        "healing": 0.1,
+        "awe": 0.15,
+        "nostalgia": 0.05,
+        "reflection": 0.02,
+        "romance": 0.65,
+        "tension": 0.55,
+        "warmth": 0.75,
+        "loneliness": 0.02,
+        "hope": 0.4
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.05,
+          "complexity": 0.2,
+          "depth_of_thought": 0.03,
+          "logical_structure": 0.1,
+          "novelty": 0.55,
+          "exploration": 0.15,
+          "ambiguity": 0.05,
+          "predictability": 0.9,
+          "information_density": 0.25,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.6,
+          "social_scale": 0.15,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.0,
+          "time_span": 0.05,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.95,
+          "sadness": 0.0,
+          "loneliness": 0.0,
+          "warmth": 0.8,
+          "fear": 0.0,
+          "tension": 0.5,
+          "awe": 0.1,
+          "nostalgia": 0.0,
+          "hope": 0.45,
+          "melancholy": 0.0,
+          "anger": 0.0,
+          "peace": 0.1
+        },
+        "aesthetic": {
+          "beauty": 0.75,
+          "minimalism": 0.25,
+          "luxury": 0.35,
+          "darkness": 0.0,
+          "brightness": 0.95,
+          "dreamlike": 0.2,
+          "mystery": 0.05,
+          "experimental": 0.2,
+          "classical": 0.3,
+          "modern": 0.7
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.2,
+          "character_growth": 0.0,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.05,
+          "action_intensity": 0.65,
+          "conflict_intensity": 0.3,
+          "philosophical_depth": 0.0
+        },
+        "social": {
+          "individualism": 0.85,
+          "collectivism": 0.15,
+          "family": 0.0,
+          "friendship": 0.1,
+          "love": 0.75,
+          "community": 0.2,
+          "competition": 0.25,
+          "cooperation": 0.15,
+          "power_relationship": 0.2,
+          "identity": 0.4
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.05,
+          "truth": 0.1,
+          "beauty": 0.75,
+          "achievement": 0.35,
+          "justice": 0.0,
+          "sacrifice": 0.0,
+          "self_exploration": 0.15,
+          "tradition": 0.2,
+          "change": 0.55,
+          "survival": 0.05,
+          "meaning": 0.1
+        },
+        "behavior": {
+          "curiosity": 0.2,
+          "creation": 0.25,
+          "adventure": 0.5,
+          "reflection": 0.05,
+          "competition": 0.3,
+          "social": 0.8,
+          "discipline": 0.1,
+          "risk": 0.45,
+          "calm": 0.05,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.8,
+          "color_richness": 0.85,
+          "sound_intensity": 0.9,
+          "rhythm_energy": 0.98,
+          "atmosphere": 0.85,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "拉丁流行",
+          "tempo": 0.82,
+          "energy": 0.95,
+          "vocal_style": "力量感颤音",
+          "instrumentation": "铜管乐, 打击乐, 吉他, 合成器",
+          "production_style": "商业流行",
+          "lyrical_theme": "身体吸引与舞蹈",
+          "emotional_scene": "狂欢节庆",
+          "cultural_context": "哥伦比亚拉丁文化"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.92,
+          "explanation": "歌曲通过密集的打击乐节奏和充满力量的演唱释放出强烈的热情，整体氛围极具感染力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "作品以高能量和感官刺激为主导，不具备舒缓治愈的柔和氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "作品偏向身体性愉悦，而非引发超越性或宏伟性的敬畏体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "歌曲内容聚焦当下时刻的吸引力和身体律动，缺乏对过去的怀念或怀旧叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.02,
+          "explanation": "作品旨在直接引发身体的共鸣，歌词和编曲均不鼓励听众进行沉思或反省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.65,
+          "explanation": "歌词围绕两性之间的吸引力与挑逗展开，营造了一种充满情欲暗示的亲密感。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.55,
+          "explanation": "强劲的切分音节奏和铜管乐器的冲击力营造出一种持续的音乐张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.75,
+          "explanation": "拉丁音乐特有的热情和演唱者的亲和力为歌曲带来了阳光般的温暖氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.02,
+          "explanation": "歌曲描绘的是人与人之间的互动与吸引，环境中不存在孤立或孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.4,
+          "explanation": "欢快的旋律带来了一定的乐观情绪，但其核心并非憧憬未来，而是享受当下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.05,
+          "explanation": "歌词极其具体和直白，描述身体部位和舞蹈动作，几乎没有任何象征或抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.2,
+          "explanation": "歌曲采用了经典的流行曲式结构，和声与旋律走向清晰明了，认知负荷较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.03,
+          "explanation": "作品主旨在于激发感官愉悦，不包含任何哲学思辨或深层思想的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.1,
+          "explanation": "作为流行舞曲，其结构遵循主歌-副歌的经典范式，无需逻辑推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "2006年拉丁与雷鬼及流行舞曲的融合令人耳目一新，具有明显的文化跨界新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "作品导向的是身体本能的即时满足，而非对未知领域或思想的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.05,
+          "explanation": "歌曲的意思非常直白，没有任何模棱两可的叙述或需要解读的隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.9,
+          "explanation": "强烈的重复性节奏和朗朗上口的旋律让听众很容易预判音乐走向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.25,
+          "explanation": "歌曲传递的信息集中在节奏、音色和简单的歌词语句中，语义信息量不多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "作品主要价值在于娱乐和感官享受，而非知识或文化历史的系统性学习。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "歌曲完全聚焦于个体的身体感受和吸引力，叙事从第一人称视角展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.6,
+          "explanation": "讲述的是个体之间的一对一/舞池互动，专注于两人间的化学反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.15,
+          "explanation": "尽管提及了“人群”和“狂欢节”，但其核心并非探讨社会群体结构或问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "作品无意描绘文明、历史或宏大的国家叙事，仅限于音乐场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.0,
+          "explanation": "完全聚焦于当下的世俗享乐，不涉及宇宙、自然或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.05,
+          "explanation": "所有内容都发生在当下的这个瞬间，没有时间跨度或历史纵深感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "作品是基于现实生活和物理感受的，没有构建虚构世界或奇幻元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.95,
+          "explanation": "整首歌曲从头至尾充斥着欢快、高昂的情绪，配器全部使用明亮的大调色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.0,
+          "explanation": "全曲没有丝毫的悲伤、失落或遗憾的情绪，无论是歌词还是编曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.0,
+          "explanation": "歌曲描绘的是狂欢、人群和被关注的状态，与孤独完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.8,
+          "explanation": "热情洋溢的嗓音和加勒比海风情的伴奏传递出极高的亲切感和温度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.0,
+          "explanation": "歌曲提供的是绝对的安全感和享乐感，不引发任何恐惧或不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.5,
+          "explanation": "为配合舞蹈和吸引主题，切分音和段落衔接处保持了一定的紧张度和期待感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "听众体验的是快乐和兴奋，而非惊叹或崇敬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.0,
+          "explanation": "编曲追求的是最新潮动感的听感，完全不包含怀旧或复古老旧的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.45,
+          "explanation": "情绪的昂扬带来轻微的憧憬感，但更多是当下的喜悦而非对未来的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.0,
+          "explanation": "与忧伤、反思性的哀愁完全不同，这是一首纯粹的快乐赞歌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全没有愤怒、攻击性或对抗性的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.1,
+          "explanation": "歌曲是高度律动和兴奋的，这种浮躁的状态与平和宁静互斥。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.75,
+          "explanation": "演唱者的音色、旋律设计以及整体的拉丁风情在流行乐体系中具有公认的优美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.25,
+          "explanation": "编曲充满丰富的打击乐和铜管乐器，属于饱满的商业编曲，而非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.35,
+          "explanation": "音乐影像中的狂欢节盛装和明亮的音色带有一定的华丽质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.0,
+          "explanation": "从音色到主题都是明亮外向的，完全没有黑暗、隐秘或压抑的美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.95,
+          "explanation": "整首歌的调性、节奏感和音色处理都指向阳光、开朗的极致明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.2,
+          "explanation": "音乐带来了短暂的忘我状态，但不仅限于梦幻，更多是真实的狂欢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "作品是直接而坦率的，不设置悬念、隐藏信息或营造神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.2,
+          "explanation": "流行乐框架下的跨流派融合，有一定的尝试，但构不成彻底的实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.3,
+          "explanation": "部分保留了拉丁传统音乐的精髓，但在制作上完全是现代流行乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.7,
+          "explanation": "合成器的使用、制作手法和全球化的流行乐结构极具时代摩登感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "作为歌曲，不存在复杂的情节叙事，仅围绕一个核心主题反复吟唱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.2,
+          "explanation": "演唱者以自信魅惑的角色出现，但限于歌曲篇幅，形象较为符号化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "四分钟的歌曲不包含任何时间线上的角色心理转变或成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "仅用“狂欢节”等词汇点明场景，未进行完整或复杂的虚构世界搭建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "歌曲结构为主歌-副歌-说唱-副歌，是线性和预期中的进行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.05,
+          "explanation": "开场即用标志性的铜管乐句抓住耳朵，不需要缓慢的环境氛围沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.65,
+          "explanation": "借助打击乐和人声的爆发，歌曲的听感充满了动感和身体动作暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.3,
+          "explanation": "存在一种男女之间欲擒故纵的小张力，但不构成真正的激烈冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.0,
+          "explanation": "歌词完全属于世俗享乐和身体本能的范畴，不涉足哲学思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.85,
+          "explanation": "强调表达自我、享受自身魅力和身体的吸引力，极推崇个人魅力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.15,
+          "explanation": "尽管有狂欢节的人群，但更偏向个人在群体中的闪耀，而非集体的团结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.0,
+          "explanation": "完全没有涉及家庭关系、亲情或血缘纽带的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.1,
+          "explanation": "场景设定在群舞和狂欢中，隐含有社交属性，但非友情核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.75,
+          "explanation": "主题集中在身体吸引和浪漫化的挑逗与激情上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.2,
+          "explanation": "仅在音乐视频语境中展现狂欢节群体氛围，音乐本身的社群感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.25,
+          "explanation": "歌词中的“足球战争”比喻隐含有较量，但核心仍是相互吸引。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.15,
+          "explanation": "更多是领舞与跟舞的关系，强调主导而非平等协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.2,
+          "explanation": "歌词中的吸引力涉及微妙的主动/被动关系，但未被深度政治化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.4,
+          "explanation": "夏奇拉的拉丁身份和独特的表演风格是作品的标志，形成了特有的身份识别。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "鼓励打破束缚，随心所欲地舞蹈和表达情感，精神上高度自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.05,
+          "explanation": "狂欢节语境下的作品排斥规则、秩序和传统约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.1,
+          "explanation": "不涉及对科学真理、客观事实的探求，强调的是感觉的真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "将身体律动、舞蹈形态和音乐融合作为一种美的展示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.35,
+          "explanation": "在吸引注意力的层面体现了自我展现，但不涉及传统意义上的建功立业。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "歌曲纯粹是娱乐导向的，完全不关注社会正义或道德审判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.0,
+          "explanation": "只强调索取快乐和享受当下，与牺牲和克己完全对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.15,
+          "explanation": "偏向于外化的身体表现，而非深度的内心自我挖掘旅程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.2,
+          "explanation": "虽融入了拉丁传统乐器，但作品精神是极其现代和入时的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "将静态转化为动态，作品本身就是一种用节奏和激情改变冷场的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.05,
+          "explanation": "音乐完全处于适意和富足的氛围中，无关乎生存的挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.1,
+          "explanation": "作品旨在提供即时的感官意义，即快乐，不深究生命的终极意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.2,
+          "explanation": "歌曲封闭在固有的主题里，不太能引发对未知事物的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "听众被鼓励以舞蹈回应，是一种低门槛的二次创作，但非原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.5,
+          "explanation": "在舞池中释放自我具有一定的冒险色彩，走出舒适区展现身体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.05,
+          "explanation": "毫无反思性，音乐直接将人带入非理性亢奋状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.3,
+          "explanation": "以舞技吸引眼球带有轻微的竞争和比较性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.8,
+          "explanation": "本质上是一首派对舞曲，强烈鼓励听众进入社交场景中互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "彻底拥抱即兴和散漫，不需要纪律或克制来欣赏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.45,
+          "explanation": "大胆魅惑的歌词和有侵略性的舞步具有某种社交风险意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "每分钟一百转左右的舞曲速率和爆发性声线阻断了平静的可能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "音乐带来的高强度愉悦更多是激发接入感，而非逃避现实的疏离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.8,
+          "explanation": "在音乐电视和现场演出语境下，其舞蹈编排和画面具有强烈视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.85,
+          "explanation": "与拉丁文化关联的服饰、灯光和美学极富多样性和鲜艳的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.9,
+          "explanation": "歌曲的平均响度和混音非常饱满，不同层次的乐器填充了整个听觉谱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.98,
+          "explanation": "打击乐元素和切分音构成的核心律动是全曲最主导的感官因素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "通过环境音效和混响塑造出了类似大型庆典现场的听觉氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "强劲的节拍和反复出现的副歌能迅速将听众代入到舞曲的流动中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": "拉丁流行",
+          "explanation": "作品以西班牙语及拉丁派对的语境定义了其主导流派。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.82,
+          "explanation": "维持在适合舞蹈的中等偏快节拍上，符合流行舞曲的标准设定。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.95,
+          "explanation": "从开篇铜管到尾部高潮，声乐表现和打击乐一直处于极高能级。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": "力量感颤音",
+          "explanation": "夏奇拉标志性的喉音和颤音兼具穿透力和异域风情。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": "铜管乐, 打击乐, 吉他, 合成器",
+          "explanation": "小号、长号提供骨架，密集的拉丁打击乐铺底，配以电吉他和合成器点缀。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": "商业流行",
+          "explanation": "采用清晰的主副歌结构和精致的混音，旨在面向全球主流排行榜。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": "身体吸引与舞蹈",
+          "explanation": "歌词集中描写臀部动作及由此产生的两性吸引力。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": "狂欢节庆",
+          "explanation": "歌词提及“狂欢节”，编曲也回溯了热闹非凡的节庆氛围。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": "哥伦比亚拉丁文化",
+          "explanation": "夏奇拉的美国地区背景和作品的拉丁根源深刻地嵌入了哥伦比亚的律动与身份。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众将经历一次从理性束缚中短暂抽离的、纯粹的身体感官之旅。音乐以高强度的节奏冲撞引发本能的亢奋，从预告性极强的铜管前奏开始，迅速将情绪提升至狂欢状态。在持续的切分音群中，听众体验到一种全然的、喜悦的解放感。这种体验的核心并非情感的细腻变化，而是高密度、正能量的刺激所带来的即时的兴奋感，让人在四分钟内沉浸在阳光与律动交织的美妙快感中。",
+        "structure_description": "歌曲采用现代流行舞曲的标准结构与拉丁元素的嵌套。在开篇以标志性铜管旋律确立高能基调后，迅速切换至充满弹性的雷鬼节拍主歌，形成一呼一吸的张力。副歌部分则是所有能量爆发的出口，通过反复的旋律句和轰响的配器将兴奋度推向极致。中段的说唱段落打破了旋律的连续性，增加了一层街头的节奏感，最后回归副歌的结构既是可预见的，也是难以抗拒的情绪终结。",
+        "cognitive_expression": "作品所鼓励的认知是高度直觉化的浅层处理。听众不需要进行反思、逻辑分析或复杂的语义解码，因为歌词极其直白，旋律也高度抓耳。作品的认知需求主要体现为对复杂切分节奏的生理性跟随，这是一种'身体智能'而非脑力劳动。它鼓励去抑制化的感官接收，将注意力完全集中在当下的声音与感知的物理性共振上，信息的处理是自动化且感性的。",
+        "behavioral_tendency_description": "这首歌强烈地召唤着身体的活动性和社交表现。它驱使听众通过肢体律动、跟随节拍或加入舞蹈来参与其中；社交上，鼓励打破沉默，走向舞池中的未知他者。这是一种外放类型的行为倾向，鼓励享受世俗快乐，活在当下。它唤起的是一种释放自我的、甚至是略带挑逗与大胆的公众表现欲，抗拒任何形式的静默和内省。"
+      },
+      "personality_affinity": {
+        "Ni": 0.1,
+        "Ne": 0.25,
+        "Ti": 0.08,
+        "Te": 0.3,
+        "Fi": 0.3,
+        "Fe": 0.7,
+        "Si": 0.15,
+        "Se": 0.98,
+        "openness": 0.55,
+        "conscientiousness": 0.15,
+        "extraversion": 0.96,
+        "agreeableness": 0.6,
+        "neuroticism": 0.5,
+        "Assertive": 0.9,
+        "Turbulent": 0.1
+      },
+      "supporting_evidence": [
+        "音乐开篇使用极具辨识度的铜管乐句立即吸引听众注意力。",
+        "全曲以密集的打击乐和切分音为基础，保持高度持续的身体律动感。",
+        "歌词直接围绕身体部位和舞蹈动作展开，表达直白而热烈。",
+        "夏奇拉使用富含力量感的颤音和沙哑音色进行演绎。",
+        "歌曲结构为主歌-副歌-说唱-副歌，符合经典流行乐编排。",
+        "副歌部分的旋律设计非常上口且带有强烈的重复性。",
+        "MV或现场演绎都强调大规模的群舞和色彩斑斓的视觉画面。",
+        "歌词中反复出现“狂欢节”和环境热烈的相关描写。",
+        "曲风融合哥伦比亚本土节奏、牙买加雷鬼及美国主流流行乐。",
+        "2006年推出时成为全球多个音乐榜单的冠军单曲。",
+        "歌词内容围绕一对男女因舞蹈和身体吸引展开互动。",
+        "编曲在段落间隙使用乐器骤停来强调节奏的切断与重启。",
+        "表演形式强烈鼓励听众在舞池中释放自我并随之起舞。",
+        "音乐整体的调性处理极其明亮，没有阴郁音阶段落。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

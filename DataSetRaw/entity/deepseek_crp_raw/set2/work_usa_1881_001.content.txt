@@ -1,0 +1,773 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1881_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "一位女士的画像",
+        "type": "NOVEL",
+        "countryName": "美国",
+        "year": 1881,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《一位女士的画像》是亨利·詹姆斯的心理现实主义小说杰作。故事围绕美国少女伊莎贝尔·阿切尔展开，她继承遗产后前往欧洲，在追求自由与独立的过程中，却一步步落入他人精心设计的婚姻陷阱。作品以极其精微的心理分析，刻画了人物在爱情、自由、财富与命运之间的复杂选择，揭示了理想主义与残酷现实之间的尖锐冲突，以及个人意志在社会体制面前的脆弱性。",
+        "themes": [
+          "自由",
+          "命运",
+          "婚姻",
+          "理想主义",
+          "心理成长",
+          "自我认知",
+          "社会阶层",
+          "跨文化冲突",
+          "女性处境",
+          "欺骗与觉醒"
+        ],
+        "keywords": [
+          "伊莎贝尔·阿切尔",
+          "欧洲",
+          "美国",
+          "遗产",
+          "吉尔伯特·奥斯蒙德",
+          "梅尔夫人",
+          "拉尔夫·杜歇",
+          "心理现实主义",
+          "婚姻牢笼",
+          "独立",
+          "跨大西洋",
+          "维多利亚时代",
+          "罗马"
+        ],
+        "core_experience": "读者跟随一位聪慧敏感的年轻女性，沉浸于她对自由、爱情和人生意义的深切渴望之中，并亲历她在一个精致而压抑的社会环境中，逐渐从理想主义的幻灭走向痛苦的自我认知。整体体验是缓慢、内省且充满心理张力的，伴随着对人物处境的深切共情与对命运必然性的深切思考。",
+        "experience_introduction": "《一位女士的画像》通过持续深入的内心视角，将读者带入主人公伊莎贝尔·阿切尔的意识中心。作品的体验核心建立在精微的心理观察之上，而非戏剧化的外部事件。读者被引导去感受主人公对自由与独立的热切渴望、对广阔世界的理想化想象，以及在面对复杂社会关系和情感操纵时逐渐累积的困惑与压抑。叙事节奏缓慢而沉稳，大量篇幅用于展现人物的内心对话、微妙的情绪波动和对自我选择的反复审视。随着情节推进，读者逐渐意识到自由选择背后的无形枷锁，体验到从理想主义向清醒认知的痛苦转变，最终在婚姻的束缚中感受到一种沉重的心理压抑与对个人命运的深刻反思。这种体验不依赖于激烈的外部冲突，而是通过层层递进的心理揭示，营造出一种内敛而持久的悲剧张力。",
+        "themes": [
+          "自由",
+          "命运",
+          "婚姻",
+          "理想主义",
+          "心理成长",
+          "自我认知",
+          "社会阶层",
+          "跨文化冲突",
+          "女性处境",
+          "欺骗与觉醒"
+        ],
+        "keywords": [
+          "伊莎贝尔·阿切尔",
+          "欧洲",
+          "美国",
+          "遗产",
+          "吉尔伯特·奥斯蒙德",
+          "梅尔夫人",
+          "拉尔夫·杜歇",
+          "心理现实主义",
+          "婚姻牢笼",
+          "独立",
+          "跨大西洋",
+          "维多利亚时代",
+          "罗马"
+        ]
+      },
+      "experience_vector": {
+        "passion": 0.62,
+        "healing": 0.15,
+        "awe": 0.48,
+        "nostalgia": 0.35,
+        "reflection": 0.92,
+        "romance": 0.55,
+        "tension": 0.78,
+        "warmth": 0.25,
+        "loneliness": 0.85,
+        "hope": 0.22
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.68,
+          "complexity": 0.85,
+          "depth_of_thought": 0.94,
+          "logical_structure": 0.72,
+          "novelty": 0.80,
+          "exploration": 0.55,
+          "ambiguity": 0.75,
+          "predictability": 0.25,
+          "information_density": 0.78,
+          "learning_value": 0.82
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.88,
+          "social_scale": 0.72,
+          "civilization_scale": 0.50,
+          "cosmic_scale": 0.12,
+          "time_span": 0.45,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.18,
+          "sadness": 0.65,
+          "loneliness": 0.82,
+          "warmth": 0.28,
+          "fear": 0.40,
+          "tension": 0.75,
+          "awe": 0.42,
+          "nostalgia": 0.38,
+          "hope": 0.20,
+          "melancholy": 0.88,
+          "anger": 0.30,
+          "peace": 0.15
+        },
+        "aesthetic": {
+          "beauty": 0.78,
+          "minimalism": 0.20,
+          "luxury": 0.55,
+          "darkness": 0.62,
+          "brightness": 0.22,
+          "dreamlike": 0.18,
+          "mystery": 0.65,
+          "experimental": 0.52,
+          "classical": 0.82,
+          "modern": 0.38
+        },
+        "narrative": {
+          "plot_complexity": 0.62,
+          "character_depth": 0.96,
+          "character_growth": 0.85,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.92,
+          "action_intensity": 0.08,
+          "conflict_intensity": 0.65,
+          "philosophical_depth": 0.88
+        },
+        "social_relationship": {
+          "individualism": 0.88,
+          "collectivism": 0.18,
+          "family": 0.45,
+          "friendship": 0.52,
+          "love": 0.75,
+          "community": 0.25,
+          "competition": 0.55,
+          "cooperation": 0.20,
+          "power_relationship": 0.78,
+          "identity": 0.92
+        },
+        "value": {
+          "freedom": 0.92,
+          "order": 0.35,
+          "truth": 0.78,
+          "beauty": 0.68,
+          "achievement": 0.30,
+          "justice": 0.42,
+          "sacrifice": 0.62,
+          "self_exploration": 0.95,
+          "tradition": 0.45,
+          "change": 0.40,
+          "survival": 0.48,
+          "meaning": 0.88
+        },
+        "behavior": {
+          "curiosity": 0.72,
+          "creation": 0.22,
+          "adventure": 0.48,
+          "reflection": 0.95,
+          "competition": 0.38,
+          "social": 0.52,
+          "discipline": 0.35,
+          "risk": 0.55,
+          "calm": 0.25,
+          "escape": 0.60
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.48,
+          "sound_intensity": 0.10,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.88,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.95,
+          "writing_style": 0.85,
+          "narrative_voice": 0.92,
+          "symbolism": 0.78,
+          "inner_monologue": 0.95,
+          "world_building_depth": 0.62
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.62,
+          "explanation": "作品对理想与爱的渴望描绘充满张力，但整体基调内敛克制，并非奔涌爆发。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "叙事基调压抑且结局沉重，几乎不提供抚慰或宽慰的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.48,
+          "explanation": "对人物心理深度的揭示和欧洲文化环境的描写会引发一定的敬畏感，但并非作品主要基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.35,
+          "explanation": "对逝去自由和纯真年代的追忆偶有体现，但不是主导情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "作品高度依赖对人物内心世界的剖析，强烈引导读者进行内省和深思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.55,
+          "explanation": "爱情是核心主题之一，但被处理得冷静且充满分析性，削弱了浪漫的感性体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.78,
+          "explanation": "自由的渴望与社会环境的操控之间持续存在不可调和的冲突，营造出持久的心理张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.25,
+          "explanation": "人际关系大多充满算计或误解，温暖、亲密的时刻非常稀少。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "主人公在精神上长期处于孤立无援的状态，其内心挣扎几乎无人理解。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.22,
+          "explanation": "故事的走向是理想逐步破灭，结局充满束缚感，留给读者的希望极为微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.68,
+          "explanation": "大量心理分析和隐喻性语言要求读者在抽象概念层面上进行理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.85,
+          "explanation": "人物动机、社会关系和道德困境相互交织，构成一个多层次的意义网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.94,
+          "explanation": "作品对意识深层进行了前所未有的挖掘，探讨了自由意志、自我欺骗与命运的哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.72,
+          "explanation": "尽管是心理流叙事，但其因果链条和人物命运的必然性具有严密的内在逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.80,
+          "explanation": "在当时的历史背景下，以聚焦单一意识中心来结构全篇是一种极具开创性的小说技巧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "主人公在地理上从美国到欧洲，在心理上从纯真到复杂，探索意味明显但最终走向内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "人物的真实意图、道德的评判标准均充满模糊性，迫使读者自行解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "心理发展的微妙和人物关系的复杂使得情节的发展难以预判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.78,
+          "explanation": "每一处心理描写和对话都承载着关于人物、社会和时代的多重信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.82,
+          "explanation": "读者能从中深入学习到19世纪跨大西洋文化差异、社会心理机制和小说艺术技巧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "叙事几乎完全围绕主人公的内心世界和个人命运展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.88,
+          "explanation": "核心冲突和情节推进都发生在几个人物之间的亲密关系网络中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.72,
+          "explanation": "作品深刻反映了欧美上层社会的礼仪、阶层和人际规范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.50,
+          "explanation": "新旧大陆的文化差异是重要背景，但未深入到文明层面的宏观比较。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.12,
+          "explanation": "作品不涉及宇宙、宗教或人类终极命运的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.45,
+          "explanation": "故事时间跨度数年，聚焦于主人公青年时期的一段关键人生阶段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品是严格的现实主义风格，没有任何幻想或超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.18,
+          "explanation": "作品中纯粹的快乐时刻极为罕见，且往往只是悲剧性转折的前奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.65,
+          "explanation": "对人生选择错误和无法挽回的命运的描绘，奠定了作品忧郁的底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.82,
+          "explanation": "精神上的孤立是主人公最主要的情绪状态，也是全书的核心体验之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.28,
+          "explanation": "少数几段坦诚的友谊和亲情带有一定暖意，但被冰冷的现实所包围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.40,
+          "explanation": "对失去自由和自我被侵蚀的恐惧是主人公后期行为的重要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.75,
+          "explanation": "人物内心的挣扎和人际间的无声博弈贯穿始终，制造了持续的心理紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.42,
+          "explanation": "读者对作者精妙的心理洞察力和人物悲剧性命运的悲悯会产生敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.38,
+          "explanation": "作品后期对在故乡无忧无虑时光的回忆带有淡淡的怀旧色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.20,
+          "explanation": "理想主义的光芒在开场后迅速黯淡，结局将希望压抑到最低点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.88,
+          "explanation": "全书的基调就是对逝去的美好、错失的机会和无法挣脱的命运的深沉感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.30,
+          "explanation": "对欺骗者和束缚的反抗情绪是存在的，但更多被内化为压抑和隐忍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.15,
+          "explanation": "人物的内心从未获得真正的安宁，始终处于冲突和挣扎之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.78,
+          "explanation": "詹姆斯以优雅、精雕细琢的语言描绘了欧洲文化的精致与人物情感的纤细之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "叙事并非简约风格，而是充满了绵密的分析和丰富的修饰语。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.55,
+          "explanation": "故事场景多设于庄园、豪宅和贵族社交圈，充满了物质上的奢华感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.62,
+          "explanation": "故事的内核是阴暗的，揭示了人性中的虚伪、算计和对他人精神世界的压迫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.22,
+          "explanation": "整体叙事色调灰暗、沉重，缺乏明亮和欢快的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.18,
+          "explanation": "风格是清醒的、高度分析性的现实主义，没有朦胧或梦幻的特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.65,
+          "explanation": "人物深藏不露的动机、暧昧不明的对话和尚未揭开的命运走向，构成了强烈的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.52,
+          "explanation": "在小说叙事中采用严格的限知视角在当时具有实验性，但语言形式本身是古典的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.82,
+          "explanation": "语言风格典雅、节奏舒缓、结构匀称，极具19世纪现实主义文学经典的庄严感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.38,
+          "explanation": "其对心理深度的探索为现代主义文学开辟了道路，但表现形式仍非现代主义的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.62,
+          "explanation": "情节本身并不离奇，但由人物心理和动机驱动的暗线网络使其具有高度的内在复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.96,
+          "explanation": "对主人公伊莎贝尔的意识进行层层剥茧般的分析，其心理复杂性是所有情节的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.85,
+          "explanation": "作品完整展现了一个理想主义少女经历幻灭，最终获得痛苦但清醒的自我认知的成长历程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "对19世纪欧美上层社会环境的描绘是服务性的，并未构建一个完全独立的世界观体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "叙事基本遵循线性的时间顺序，极少使用倒叙或插叙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.92,
+          "explanation": "叙事节奏极其缓慢，通过绵密的心理描写和社会场景铺陈，引导读者长时间沉浸于人物内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.08,
+          "explanation": "几乎不存在外部动作，所有'事件'都发生在人物的思想和对话中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.65,
+          "explanation": "冲突虽非身体上的，但个体意志与社会规范、自我认知与现实之间的对抗异常强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "通过个体命运深刻探讨了自由意志与决定论、表象与真实、自我与他者等根本性哲学问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.88,
+          "explanation": "主人公的核心追求是个人独立和思想自由，其悲剧也源于这种个人主义理想与现实的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.18,
+          "explanation": "群体对个体的压制被描绘为一种主要的社会恶行，集体价值或和谐并非作品所提倡的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.45,
+          "explanation": "原生家庭的角色是淡出的，而后来确定的家庭关系则是一种精心构建的牢笼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.52,
+          "explanation": "拉尔夫与伊莎贝尔之间的友谊是故事中少有的亮色，是真诚欣赏与关怀的体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.75,
+          "explanation": "对爱情的渴望、选择和幻灭是驱动主人公行为的关键力量，也是全书的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.25,
+          "explanation": "社交圈是主人公必须周旋和应对的场所，但并非提供支持和归属感的社区。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.55,
+          "explanation": "人物间存在隐性的心理与情感博弈，特别是梅尔夫人与伊莎贝尔之间围绕奥斯蒙德的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.20,
+          "explanation": "欺骗性的合谋是重要的情节推进器，而基于真诚的共同目标进行的合作几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.78,
+          "explanation": "小说深刻描绘了情感操控、信息不对称和利用社会规则进行的权力压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.92,
+          "explanation": "自我身份的探寻与确立是主人公贯穿始终的核心心理驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.92,
+          "explanation": "对个人自由的追求和坚守是主人公最珍视的价值，也是悲剧的根源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.35,
+          "explanation": "社会秩序和传统规范更多是作为束缚个人自由的对立面而被呈现的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.78,
+          "explanation": "整个故事是主人公从被蒙蔽到看清真相的过程，对真实自我的探求是核心行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.68,
+          "explanation": "艺术和美的鉴赏力是区分和联系人物的一个重要维度，也是奥斯蒙德吸引伊莎贝尔的特质之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "个人野心或社会成就不是主人公追求的目标，她的目标更为个人化和精神化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.42,
+          "explanation": "故事的结局充满不公，作品并未提供正义得到伸张的慰藉，而更多是对这种不公的呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.62,
+          "explanation": "拉尔夫的爱体现为一种无言的牺牲，而伊莎贝尔的选择最终也包含了深沉的自我牺牲意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.95,
+          "explanation": "小说最核心的价值维度，整部作品就是一部主人公探索并最终面对真实自我的精神之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.45,
+          "explanation": "欧洲的古老传统既是吸引她的魅力所在，也是最终禁锢她的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.40,
+          "explanation": "主人公渴望改变生活，但其主动性最终被证明是虚幻的，她更多地被环境和他人所改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.48,
+          "explanation": "与其说是生存，不如说是如何在束缚中维持精神上的尊严与独立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.88,
+          "explanation": "如何在无望的处境中为自己的选择赋予意义，是全书最沉重的终极追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.72,
+          "explanation": "伊莎贝尔对知识和世界的强烈好奇心是她踏上欧洲之旅的原因，也为悲剧埋下伏笔。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.22,
+          "explanation": "主人公更多是一个观察者和体验者，而非创造者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.48,
+          "explanation": "离开故土去往一个古老世界是一种冒险行为，但她的本性并非行动上的冒险家。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "主人公的主要行为模式就是不断的自我反思和对他人行为的细致观察与分析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.38,
+          "explanation": "她无意于与人竞争，其对手（如梅尔夫人）的战斗方式是暗中操纵。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.52,
+          "explanation": "她周旋于各种社交场合，但内心与之保持距离，社交是舞台而非归宿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.35,
+          "explanation": "她对自己的意志力有信念，但这种自律更偏向于精神层面而非日常行为规范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "她的一系列重大选择都极具风险，但她往往意识不到风险的真正所在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.25,
+          "explanation": "她的内心世界波澜起伏，充满了焦虑、怀疑和激荡的思辨，远非平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.60,
+          "explanation": "在面对巨大压力和痛苦真相时，她的本能反应是退回内心世界寻求庇护或做出远走他乡的选择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "对欧洲风景、艺术和建筑的细致描绘增强了阅读的画面感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.48,
+          "explanation": "环境描述具有色彩感，但并非浓烈或外放，而是与人物心境交融的古典色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.10,
+          "explanation": "作为一部小说，其感官刺激几乎不依赖听觉想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "叙事的节奏是深思熟虑的、缓慢的，能量感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.88,
+          "explanation": "作品成功营造了一种精致、压抑且充满心理张力的独特氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "通过持续的内部聚焦和细节丰富的心理描写，能使读者完全沉浸于主人公的内心世界。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.95,
+          "explanation": "作为心理现实主义的巅峰之作，其文学深度和对人类意识的开掘是无与伦比的。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.85,
+          "explanation": "詹姆斯的文风以精密复杂的从句、微妙的讽刺和高度的措辞意识为标志，极具辨识度。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.92,
+          "explanation": "全程紧密贴合主人公的有限视角，叙事声音在自由间接引语中达到了极高的艺术成就。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.78,
+          "explanation": "建筑、画像、环境等被赋予了丰富的心理和象征意义，成为理解人物命运的钥匙。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.95,
+          "explanation": "作品自始至终主要由主人公绵密且不断变化的内省活动所构成。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.62,
+          "explanation": "19世纪跨大西洋上层社会的构建富有细节且令人信服，但其首要功能是服务于角色的心理发展。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "《一位女士的画像》提供了一种高度内省的、以心理深度为核心的阅读体验。读者首先被引入一个充满可能性的广阔世界，感受到主人公对自由和生活的热烈憧憬。随着情节在充满精致社交和隐秘动机的欧洲上层社会展开，这份憧憬逐渐被一种难以言明的、由人际关系和社会习俗编织的窒息感所取代。主要的情感旅程是从理想主义的乐观，经由渐强的困惑与疑虑，最终抵达清醒、孤寂且充满悲剧性尊严的痛苦自我认知。整部作品引导读者长时间浸润于微妙的情绪波动和复杂的心理博弈之中，体验一种缓慢而深沉的沉入感。",
+        "structure_description": "作品采用严格聚焦于主人公伊莎贝尔·阿切尔的第三人称有限视角，以线性的时间顺序展开，但其叙事驱动力完全来自内部。情节的推进并非依赖于外部事件，而是由主人公每一次微妙的心理转变和她与他人之间充满张力的对话所构成。这种结构营造出一种绵密的心理现实，将数年的生活压缩进一系列高度浓缩的场景之中，最终拼凑出一个关于自我意志如何被社会和环境巧妙束缚的完整图景。其节奏由一系列漫长的、静态的心理分析场景主导，外部行动被极力压缩。",
+        "cognitive_expression": "这部作品要求并训练一种高度分析性、反思性和抽象的认知模式。读者必须像解谜一样解读人物对话背后的真实意图，追踪主人公不断变化且时常自相矛盾的思维流。它鼓励超越故事情节，对动机、道德模糊性和社会互动中的权力结构进行深度的思考和判断。文本信息密度高，几乎每一段叙述都承载着多层语义，要求读者全神贯注于精微的语言符号和心理线索之中。",
+        "behavioral_tendency_description": "作品所鼓励或激发的行为倾向是内敛和思辨性的。它导向持续的自我审视和对社会环境的警觉观察，而非外在的冒险或直接的对抗。读者被激励像主人公一样，在复杂的社交迷宫中寻求智识上的独立与自主性，同时对其可能带来的后果保持清醒的畏惧。作品不鼓励草率的行动，而是强调在做出判断前进行缓慢、审慎的观察与反思。它所肯定的行为，最终是在认出生活的残酷真相后，依然选择承担和坚守的沉静勇气。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.45,
+        "Ti": 0.82,
+        "Te": 0.38,
+        "Fi": 0.95,
+        "Fe": 0.48,
+        "Si": 0.55,
+        "Se": 0.12,
+        "openness": 0.85,
+        "conscientiousness": 0.52,
+        "extraversion": 0.18,
+        "agreeableness": 0.36,
+        "neuroticism": 0.78,
+        "Assertive": 0.25,
+        "Turbulent": 0.88
+      },
+      "supporting_evidence": [
+        "故事围绕一位美国年轻女性继承遗产后前往欧洲展开。",
+        "大量篇幅用于描写主人公对自身处境的反复思考和内心对话。",
+        "核心冲突在于个人对自由的渴望与社会环境对其的无声操控。",
+        "小说通过一场看似理想实则充满算计的婚姻来推进核心剧情。",
+        "叙事视角严格限制在主人公的所见、所感和所理解的范围之内。",
+        "主人公的性格发展轨迹是从天真理想主义到幻灭后的痛苦觉醒。",
+        "多个重要角色都在以不同形式对主人公的未来进行秘密安排。",
+        "对话中充满了丰富的潜台词和微妙的心理转折，而非直白的信息交换。",
+        "欧洲的古老文化和精致社交既是吸引主人公的魅力点，也是最终束缚她的力量。",
+        "作品整体弥漫着一种对错失的人生和无法更改的命运的深沉感伤。",
+        "主人公最终的道德选择是在对自身责任有清醒认知后作出的痛苦决定。",
+        "小说通过人物的审美和鉴赏力来刻画其性格和内心的复杂面。",
+        "主人公对独立和自由的理想始终与现实环境提供的有限选择发生不可调和的矛盾。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

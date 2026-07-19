@@ -1,0 +1,740 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_2013_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "史蒂文宇宙",
+        "type": "ANIME",
+        "countryName": "美国",
+        "year": 2013,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.9,
+        "primaryMediaType": "ANIME"
+      },
+      "semantic": {
+        "summary": "《史蒂文宇宙》是一部美国动画剧集，讲述了半人半宝石男孩史蒂文继承母亲使命，与石榴、紫晶、珍珠三位宝石战士共同保护地球的故事。作品以超级英雄叙事为外壳，内核探讨身份认同、包容、悲伤与创伤治愈，通过独特的音乐剧形式和明亮的视觉风格传递深刻的自我探索与情感接纳主题。",
+        "themes": [
+          "身份认同",
+          "成长",
+          "家庭",
+          "包容",
+          "情感创伤",
+          "自我探索",
+          "爱与友谊",
+          "责任",
+          "自由",
+          "改变"
+        ],
+        "keywords": [
+          "宝石人",
+          "宝石战士",
+          "融合",
+          "水晶宝石",
+          "沙滩城",
+          "母星",
+          "史蒂文",
+          "宇宙",
+          "音乐剧",
+          "治愈",
+          "超级英雄"
+        ],
+        "core_experience": "作品通过明亮、欢快的基调与深刻情感内核的融合，带领观众在轻松幽默的冒险中体验身份探索的困惑、家庭纽带的温暖、以及接纳自我与他人的深刻治愈感。",
+        "experience_introduction": "《史蒂文宇宙》通过将宏大的星际冲突内化为个人成长和情感关系的隐喻，为观众创造了一种独特的体验：表面上是在观看一场场轻松的超级英雄冒险，但随着叙事深入，会发现这是一个关于理解创伤、接纳差异和发现自我价值的情感旅程。作品利用音乐剧元素直接表达角色内心，使情感冲击更为强烈和直接。"
+      },
+      "experience_vector": {
+        "passion": 0.7,
+        "healing": 0.88,
+        "awe": 0.42,
+        "nostalgia": 0.38,
+        "reflection": 0.75,
+        "romance": 0.55,
+        "tension": 0.45,
+        "warmth": 0.82,
+        "loneliness": 0.4,
+        "hope": 0.78
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.72,
+          "complexity": 0.62,
+          "depth_of_thought": 0.78,
+          "logical_structure": 0.5,
+          "novelty": 0.7,
+          "exploration": 0.68,
+          "ambiguity": 0.35,
+          "predictability": 0.4,
+          "information_density": 0.6,
+          "learning_value": 0.7
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.88,
+          "social_scale": 0.6,
+          "civilization_scale": 0.65,
+          "cosmic_scale": 0.55,
+          "time_span": 0.78,
+          "fantasy_level": 0.72
+        },
+        "emotion": {
+          "happiness": 0.75,
+          "sadness": 0.55,
+          "loneliness": 0.42,
+          "warmth": 0.85,
+          "fear": 0.22,
+          "tension": 0.4,
+          "awe": 0.48,
+          "nostalgia": 0.45,
+          "hope": 0.8,
+          "melancholy": 0.5,
+          "anger": 0.15,
+          "peace": 0.55
+        },
+        "aesthetic": {
+          "beauty": 0.82,
+          "minimalism": 0.3,
+          "luxury": 0.1,
+          "darkness": 0.18,
+          "brightness": 0.88,
+          "dreamlike": 0.5,
+          "mystery": 0.45,
+          "experimental": 0.62,
+          "classical": 0.25,
+          "modern": 0.78
+        },
+        "narrative": {
+          "plot_complexity": 0.6,
+          "character_depth": 0.9,
+          "character_growth": 0.95,
+          "world_building": 0.72,
+          "nonlinear_structure": 0.25,
+          "slow_immersion": 0.38,
+          "action_intensity": 0.4,
+          "conflict_intensity": 0.55,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.65,
+          "collectivism": 0.6,
+          "family": 0.88,
+          "friendship": 0.82,
+          "love": 0.78,
+          "community": 0.72,
+          "competition": 0.2,
+          "cooperation": 0.85,
+          "power_relationship": 0.45,
+          "identity": 0.92
+        },
+        "value": {
+          "freedom": 0.78,
+          "order": 0.2,
+          "truth": 0.68,
+          "beauty": 0.7,
+          "achievement": 0.35,
+          "justice": 0.55,
+          "sacrifice": 0.62,
+          "self_exploration": 0.92,
+          "tradition": 0.3,
+          "change": 0.8,
+          "survival": 0.45,
+          "meaning": 0.78
+        },
+        "behavior": {
+          "curiosity": 0.7,
+          "creation": 0.55,
+          "adventure": 0.65,
+          "reflection": 0.82,
+          "competition": 0.15,
+          "social": 0.75,
+          "discipline": 0.32,
+          "risk": 0.42,
+          "calm": 0.35,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.72,
+          "color_richness": 0.85,
+          "sound_intensity": 0.78,
+          "rhythm_energy": 0.7,
+          "atmosphere": 0.8,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "anime_vector": {
+          "animation_quality": 0.8,
+          "character_design": 0.88,
+          "visual_style": 0.85,
+          "symbolic_expression": 0.78,
+          "emotional_expression": 0.92
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.7,
+          "explanation": "角色在战斗中表现出强烈的保护欲和情感投入，音乐剧形式也增强了激情表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.88,
+          "explanation": "剧集的核心结构围绕治愈创伤、修复关系和宽恕敌人展开，整个系列是一个大型的情感疗愈过程。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.42,
+          "explanation": "太空和母星场景偶尔带来壮丽感，但叙事重心在于个人关系和情感，而非宏大奇观。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.38,
+          "explanation": "对逝去亲友的回忆是剧情推动力之一，但整体氛围更侧重于向前看和成长。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.75,
+          "explanation": "剧集鼓励观众反思身份、创伤、人际冲突的根源等深刻问题，常以安静的情感戏促使角色和观众进行内省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.55,
+          "explanation": "剧中存在多段核心的浪漫关系，并深刻影响角色成长，但它们服务于更大的关于爱与包容的主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.45,
+          "explanation": "虽然存在星际战争和反派威胁，但剧集往往优先选择沟通和理解来化解紧张局势。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.82,
+          "explanation": "水晶宝石人组成的非传统家庭是安全感和无条件的爱与支持的源泉，营造了强烈的温馨感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.4,
+          "explanation": "角色在身份挣扎和失去亲人时感到孤独，但社群和家庭的支持始终是其对抗孤独的力量。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.78,
+          "explanation": "无论遭遇多大的创伤或冲突，剧集始终传达着改变是可能的、未来会更好的乐观主义信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.72,
+          "explanation": "‘融合’作为一个核心概念，既是物理战斗形式，更是关于人际关系、爱与同意的深刻抽象隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "故事设定在一个有着严格等级制度、复杂战争史和异化文明的星际社会背景下，角色关系交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.78,
+          "explanation": "持续挖掘身份认同、悲伤过程、道德灰色地带等主题，对人类情感和存在状态有深入的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.5,
+          "explanation": "宝石社会的规则和科技有其内部逻辑，但叙事重点在于情感驱动而非逻辑推演。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.7,
+          "explanation": "将超级英雄、音乐剧和深刻的家庭心理剧融合，并以非传统性别角色的外星种族审视人类规范。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.68,
+          "explanation": "史蒂文的成长过程是对自我能力、母亲的历史以及宝石母星文明真相的持续探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.35,
+          "explanation": "大部分冲突和角色的道德立场相对清晰，作品着重于和解与理解，而非制造歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.4,
+          "explanation": "尽管结局通常积极且指向和解，但达成和解的路径和发展过程常常出人意料。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.6,
+          "explanation": "在轻松的冒险故事中嵌入了关于宝石社会、历史和角色背景的高密度信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.7,
+          "explanation": "提供了关于情感管理、健康人际关系、同理心和自我接纳的持久性知识和洞见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "整个宇宙级的冲突最终都落脚于史蒂文个人的心理负担、身份挣扎和情感成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.88,
+          "explanation": "叙事核心推动力是角色之间的关系网：家庭、友谊、爱情和敌对关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.6,
+          "explanation": "沙滩城的人类社群和宝石母星的社会结构均是社会互动的舞台。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.65,
+          "explanation": "描绘了跨越数千年的宝石文明，有着独特的技术、社会阶级和扩张历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.55,
+          "explanation": "存在星际旅行和外星殖民地，但宇宙尺度主要作为角色个人故事的背景板。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.78,
+          "explanation": "故事频繁闪回至几千年前的战争，并展现其对当前角色的深远影响，时间跨度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.72,
+          "explanation": "以现代地球为背景，但存在宝石人、融合、魔法武器和星际传送等丰富的幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.75,
+          "explanation": "主角充满乐观和童真的冒险精神，以及最终的和解，带来了大量纯粹的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "失去亲人的悲伤、身份认同的挣扎和对过往的悔恨是许多核心角色的情感底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.42,
+          "explanation": "角色因其独特性或创伤而体验孤独，但建立连接是核心主题，因此并非主基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.85,
+          "explanation": "无条件的家庭之爱和牢固的友谊是作品最强烈、最持续的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.22,
+          "explanation": "主要为战斗中的紧张感和面对未知强敌时的担忧，而非恐怖或惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.4,
+          "explanation": "在揭示真相和面对强大敌人时存在戏剧性张力，但叙事节奏很快会用交流和情感化解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.48,
+          "explanation": "宝石融合的巨大形态和母星的宏伟建筑能带来一定的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "对已故母亲的怀念是史蒂文角色的核心动机，但并不主导全剧的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.8,
+          "explanation": "这是剧集的核心信条，即使在最黑暗的时刻，改变、接纳与和平也总是存在可能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.5,
+          "explanation": "角色的怀旧之情和对不可避免的成长带来的失落感，为作品增添了一层温和的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.15,
+          "explanation": "角色的愤怒通常被表现为需要被理解和化解的创伤反应，而不是被宣扬的情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.55,
+          "explanation": "目标状态是内心的平静与和解，许多剧集的结尾都回归到一种安宁的日常感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.82,
+          "explanation": "松软的角色设计、印象派的背景和流畅的动画共同构建了一种独特且公认的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.3,
+          "explanation": "角色设计简洁，但整体视觉风格色彩丰富且充满细节，并非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "场景和生活方式倾向于朴实、家常，与奢华无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.18,
+          "explanation": "尽管主题涉及创伤，但视觉上始终保持明亮、高饱和度的主基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.88,
+          "explanation": "高饱和度的色彩、明亮的色调和欢快的音乐定义了整个系列的外观和感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.5,
+          "explanation": "精神维度和融合空间的表现手法具有强烈的超现实和梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.45,
+          "explanation": "关于母亲过去的秘密和宝石社会的历史在前期构成了悬疑元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.62,
+          "explanation": "在主流动画中融入完整的音乐剧剧集，并采用非典型的角色比例和视觉风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.25,
+          "explanation": "整体风格现代，与古典美学关联较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.78,
+          "explanation": "其多元化的主题、现代的家庭观念和独特的艺术风格是当代动画的代表。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.6,
+          "explanation": "存在一个跨越数千年、涉及多个派系的星际战争主线，但始终以角色关系作为驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.9,
+          "explanation": "每个主要角色甚至反派都有深刻的背景故事、独特的创伤和详尽的成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.95,
+          "explanation": "这是全剧的根本宗旨，展示了几乎所有角色如何从固执、受伤的状态学会爱和改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.72,
+          "explanation": "构建了一个拥有完整的社会阶级、科技、文化和战争史的外星宝石文明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.25,
+          "explanation": "主要通过频繁的闪回来揭示过去，但主线叙事按时间顺序推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.38,
+          "explanation": "早期的剧集更偏重轻松的角色日常和世界观铺垫，为后期的情感爆发做铺垫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.4,
+          "explanation": "战斗是叙事的一部分，但很少是解决冲突的最终方案，且非持续高强度的动作戏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.55,
+          "explanation": "情感和心理冲突强度极高，远胜于物理或暴力冲突，突出表现为角色间的激烈对话和对峙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "深入探讨了‘成为何物’与‘被定义为何物’的区别、爱与改变的关系、宽恕的可能性等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.65,
+          "explanation": "强调每个个体找到并成为真实的、独一无二的自己是至关重要的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.6,
+          "explanation": "团队合作与为集体牺牲是常态，但个人意志和幸福同样被高度重视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.88,
+          "explanation": "作品重新定义了家庭，将其描绘为基于爱与选择而非血缘的牢固纽带，是作品的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.82,
+          "explanation": "史蒂文与人类朋友以及宝石战士间的友谊是支持他成长的关键力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.78,
+          "explanation": "浪漫之爱、友爱、亲情之爱被统一为‘融合’这个隐喻，是所有角色关系和故事的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.72,
+          "explanation": "沙滩城的人类社群是史蒂文日常生活的核心部分，体现了邻里间的互相帮助和关怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.2,
+          "explanation": "竞技性冲突极少，重点始终在于合作、沟通与理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.85,
+          "explanation": "无论是战斗中的融合还是日常问题的解决，‘一起合作’都是核心行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.45,
+          "explanation": "以钻石政权为代表的宝石母星存在严格的权力等级，这是主角团反抗的对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.92,
+          "explanation": "‘我是谁？’是驱动史蒂文和几乎所有角色的根本性问题，身份认同是作品的绝对核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.78,
+          "explanation": "核心冲突是反抗压迫性的社会制度和角色定义，让个体获得选择自己命运的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "严格的、不容置疑的秩序被描绘为反派的特质，是需要被打破的旧制度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.68,
+          "explanation": "史蒂文持续追寻关于母亲和宝石社会的真相，隐藏的谎言是造成角色创伤的根源之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "无论是视觉上的艺术之美，还是融合与爱所代表的情感之美，都是作品追求和展现的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.35,
+          "explanation": "个人的成长和情感成熟远比外在的功绩和战斗的胜利更重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "存在为受压迫者争取权利的正义之战，但最终目标是恢复性的而非惩罚性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.62,
+          "explanation": "角色为保护所爱之人而做出的牺牲是重要的情节转折点和情感触动来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.92,
+          "explanation": "整个系列可以看作是史蒂文和其他角色一场漫长、艰难且深刻的自我探索之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "传统在此被刻画为需要被挑战和破除的、僵化的社会教条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.8,
+          "explanation": "‘任何人都能改变’是贯穿全剧的核心信条，角色的成长与转变是叙事的最终目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.45,
+          "explanation": "保护地球免遭毁灭是一个持续的背景威胁，但其重要性不及情感和道德的存续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.78,
+          "explanation": "角色不断寻找自己在世界中的位置、自身存在的意义和目的，这是其核心行为动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.7,
+          "explanation": "史蒂文对宝石能力、母星历史以及世界的一切都充满好奇心，这是他前进的动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "宝石融合可以被看作是关系与存在状态的创造，主角也常通过音乐进行创造性表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.65,
+          "explanation": "剧集前期以冒险剧集的形式探索古代遗迹和捕获怪物，充满探索精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.82,
+          "explanation": "角色在经历事件后，经常花费大量时间进行内省，反思自己的行为和动机。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.15,
+          "explanation": "竞争行为在剧中极少出现且不被鼓励。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.75,
+          "explanation": "剧集高度鼓励通过交谈、共情和建立连接来解决问题，社交互动是核心行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.32,
+          "explanation": "存在训练和战斗的场景，但情感上的自律性并非被强调的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.42,
+          "explanation": "主角常为保护他人而承担风险，但并非鲁莽的冒险主义者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "叙事充满活力、音乐和情感波动，平静的时刻通常是为了进行情感对话。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "直面而非逃避创伤是核心主题，逃避行为通常被描绘为需要被纠正的错误应对机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.72,
+          "explanation": "融合后的巨型角色、炫目的光效和富有表现力的动画带来了强烈的视觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.85,
+          "explanation": "每个角色和场景都有标志性的、高度饱和的色彩方案，视觉上极其丰富多彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.78,
+          "explanation": "标志性的背景音乐和完整的歌曲直接参与叙事，极大地增强了情感强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.7,
+          "explanation": "叙事节奏明快，经常在轻松的日常、音乐剧集和激烈的戏剧冲突间切换。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.8,
+          "explanation": "作品成功地营造了一个既温馨、熟悉又充满奇妙冒险和情感深度的独特氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "丰富的世界观和深刻的角色关系构建了高度的情感和叙事沉浸感。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.animation_quality",
+          "score": 0.8,
+          "explanation": "动作流畅，角色表演富有表现力，在关键剧集中动画质量极高。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.character_design",
+          "score": 0.88,
+          "explanation": "角色设计独特且极具辨识度，通过体型、色彩和宝石位置直观展现个性。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.visual_style",
+          "score": 0.85,
+          "explanation": "融合了卡通动画的柔软感、印象派画作的背景和现代图形设计，风格独树一帜。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.symbolic_expression",
+          "score": 0.78,
+          "explanation": "融合过程是关系的强烈视觉隐喻，精神维度则用于将内心冲突可视化。"
+        },
+        {
+          "dimensionPath": "media_vector.anime_vector.emotional_expression",
+          "score": 0.92,
+          "explanation": "通过变形、色彩变化和完整的音乐剧歌舞，将角色的内心情感进行极度外化和放大。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "该作品为观众创造了一种由外向内不断深化的情感体验。初期体验以充满活力的明亮感、幽默感和温暖的归属感为主，随着叙事展开，逐渐引入深刻的悲伤、创伤反思和自我身份认同的困惑。其独特之处在于将治愈和希望作为最终的情感锚点，在经历痛苦和冲突的充分探讨后，引导观众抵达深层的共情与心理和解。",
+        "structure_description": "叙事结构以‘角色日常—冒险触发—情感冲突—和解与成长’为基本循环单元。早期的单元剧结构被逐步揭露的、长达千年的宏大历史和复杂的人物关系网所取代。音乐剧集作为情感高潮的结构支点，将内在冲突转化为外显的歌唱，打断了常规叙事节奏，形成了独特的情感爆发点。",
+        "cognitive_expression": "作品鼓励观众在具象的科幻冒险故事中进行抽象的概念化思考，核心在于理解‘融合’作为人际关系、爱与认同的隐喻。它要求观众对角色多层次的创伤记忆、动机和行为进行系统性归因与分析，促使观众从多个角色的视角审视同一历史事件，从而对道德复杂性进行深度认知处理。",
+        "behavioral_tendency_description": "该作品强烈唤起和鼓励以共情为基础的社会交往行为，将‘交谈和倾听’作为解决一切冲突的首选方案。它抑制零和博弈和纯粹的竞争行为，转而奖励合作、自我反思以及在安全关系中进行自我暴露的情感勇气。同时，它鼓励观众将好奇心应用于理解他人的内心世界，而非仅仅是探索外部环境。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.65,
+        "Ti": 0.5,
+        "Te": 0.25,
+        "Fi": 0.9,
+        "Fe": 0.85,
+        "Si": 0.35,
+        "Se": 0.42,
+        "openness": 0.88,
+        "conscientiousness": 0.35,
+        "extraversion": 0.62,
+        "agreeableness": 0.82,
+        "neuroticism": 0.68,
+        "Assertive": 0.32,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "主角史蒂文是已故母亲和人类父亲的儿子，身份为半人半宝石，必须在两个世界之间找到自己的位置。",
+        "作品核心概念‘融合’是物理上的合体，也是不同个体间深度情感连接、信任与同意的抽象隐喻。",
+        "反派角色大多拥有一段揭示其残酷行为源于过往创伤的详细背景故事。",
+        "主要的叙事冲突是水晶宝石反抗母星严格的种姓制度和对个体价值的压迫。",
+        "剧集多次利用完整的音乐剧形式，由角色通过唱歌表达内心独白和情感冲突。",
+        "包括石榴在内的重要角色被描绘为由两种不同宝石基于爱而持续融合成的永久性新个体。",
+        "故事中的宝石文明是一个拥有数千年的星际殖民史的古老外星种族。",
+        "史蒂文的母亲粉钻放弃了自己的身份和权力来保护地球，这成为后续所有冲突的情感核心和谜团源头。",
+        "作品在多个剧集中描绘了角色处理失落、抑郁和创伤后应激障碍等深层次情感痛苦的过程。",
+        "剧中的家庭单位由三个无血缘关系的外星宝石战士和一个人类男孩组成，展示了功能性的‘后天家庭’。",
+        "许多被视为反派的角色最终并未被消灭，而是通过共情和理解被说服，成为主角的盟友。",
+        "视觉风格运用了松软的角色轮廓和明亮、高饱和度的色彩，与印象派画风背景形成对比。",
+        "剧中角色的身体设计能随其情感状态和心理成长而发生永久性改变，外形是其内心发展的外显。",
+        "主角的成长轨迹并非追求强大力量，而是学习如何用和平与沟通去治愈他人、化解危机。",
+        "对传统性别角色进行了广泛的解构，宝石人作为无性别的外星种族，其表现和关系具有酷儿文化的多样性。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

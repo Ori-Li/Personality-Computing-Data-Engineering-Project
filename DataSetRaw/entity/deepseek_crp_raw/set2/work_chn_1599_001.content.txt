@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1599_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "娇红记",
+        "type": "LITERATURE",
+        "countryName": "中国",
+        "year": 1640,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.88,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《娇红记》是明末孟称舜创作的传奇戏曲，全名《节义鸳鸯冢娇红记》。作品讲述书生申纯与表妹王娇娘一见钟情，突破礼教束缚私订终身，却因家族阻挠与帅府逼婚，最终双双以死殉情的爱情悲剧。全剧文辞绮丽，情感缠绵，以“至情”为核心主题，深刻展现了个体情感与封建礼法的激烈冲突，以及青年男女对自主婚姻的执着追求。",
+        "themes": [
+          "爱情",
+          "悲剧",
+          "封建礼教",
+          "自由",
+          "牺牲",
+          "家庭",
+          "身份认同",
+          "命运"
+        ],
+        "keywords": [
+          "申纯",
+          "王娇娘",
+          "表兄妹",
+          "帅府逼婚",
+          "殉情",
+          "鸳鸯冢",
+          "明传奇",
+          "至情",
+          "诗笺传情",
+          "节义"
+        ],
+        "core_experience": "受众在欣赏过程中，将沉浸在一种缠绵悱恻、凄美哀婉的情感氛围里。作品以极致的诗意笔触描绘禁忌之恋的甜蜜与痛苦，让人深切体会到美好情感被现实碾碎的无力感，以及在绝望中以死亡完成对爱情永恒承诺的悲壮与震撼。",
+        "experience_introduction": "《娇红记》通过戏曲舞台特有的唱念做打，营造出一个充满诗化哀愁的情感世界。观众在曲词吟唱与身段表演的交织中，先是被男女主人公细腻曲折的相思所感染，继而在家族逼婚、权势压迫的情节推进下，积累起强烈的无奈与悲愤，最终在二人双双殉情的高潮处，达到情感上的净化与升华。整个观赏过程由浅入深，由甜到苦，最终指向一种超越生死的至情境界。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.30,
+        "reflection": 0.75,
+        "romance": 0.95,
+        "tension": 0.80,
+        "warmth": 0.25,
+        "loneliness": 0.70,
+        "hope": 0.20
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.30,
+          "complexity": 0.42,
+          "depth_of_thought": 0.65,
+          "logical_structure": 0.25,
+          "novelty": 0.55,
+          "exploration": 0.20,
+          "ambiguity": 0.35,
+          "predictability": 0.60,
+          "information_density": 0.50,
+          "learning_value": 0.50
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.95,
+          "social_scale": 0.70,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.08,
+          "time_span": 0.25,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.88,
+          "loneliness": 0.72,
+          "warmth": 0.22,
+          "fear": 0.15,
+          "tension": 0.78,
+          "awe": 0.50,
+          "nostalgia": 0.30,
+          "hope": 0.18,
+          "melancholy": 0.90,
+          "anger": 0.55,
+          "peace": 0.08
+        },
+        "aesthetic": {
+          "beauty": 0.92,
+          "minimalism": 0.12,
+          "luxury": 0.50,
+          "darkness": 0.55,
+          "brightness": 0.15,
+          "dreamlike": 0.45,
+          "mystery": 0.20,
+          "experimental": 0.20,
+          "classical": 0.95,
+          "modern": 0.05
+        },
+        "narrative": {
+          "plot_complexity": 0.55,
+          "character_depth": 0.82,
+          "character_growth": 0.60,
+          "world_building": 0.20,
+          "nonlinear_structure": 0.08,
+          "slow_immersion": 0.70,
+          "action_intensity": 0.10,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.78
+        },
+        "social_relationship": {
+          "individualism": 0.60,
+          "collectivism": 0.35,
+          "family": 0.82,
+          "friendship": 0.25,
+          "love": 0.98,
+          "community": 0.15,
+          "competition": 0.65,
+          "cooperation": 0.12,
+          "power_relationship": 0.75,
+          "identity": 0.70
+        },
+        "value": {
+          "freedom": 0.80,
+          "order": 0.20,
+          "truth": 0.60,
+          "beauty": 0.88,
+          "achievement": 0.15,
+          "justice": 0.40,
+          "sacrifice": 0.92,
+          "self_exploration": 0.70,
+          "tradition": 0.35,
+          "change": 0.18,
+          "survival": 0.30,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.55,
+          "adventure": 0.10,
+          "reflection": 0.75,
+          "competition": 0.25,
+          "social": 0.30,
+          "discipline": 0.15,
+          "risk": 0.50,
+          "calm": 0.12,
+          "escape": 0.68
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.60,
+          "sound_intensity": 0.70,
+          "rhythm_energy": 0.35,
+          "atmosphere": 0.90,
+          "immersion": 0.82
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.85,
+          "actor_expression": 0.90,
+          "body_expression": 0.78,
+          "audience_interaction": 0.65,
+          "performance_intensity": 0.75,
+          "ritual_sense": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "全剧围绕至死不渝的爱情展开，情感表达炙热恳切，因此激情体验极高。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "作品是彻头彻尾的爱情悲剧，情感基调以毁灭和终结告终，几乎不存在疗愈成分。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "男女主角以死殉情的结局具有强烈的震撼力，但其核心是悲壮而非令人仰望的宏伟。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.30,
+          "explanation": "作品古雅的词曲风格可能引发轻微怀旧感，但其叙事核心并非指向对过去的追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.75,
+          "explanation": "个人情感与封建礼教之间的尖锐冲突，强烈促使受众反思社会制度与个体命运的关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.95,
+          "explanation": "申纯与王娇娘之间的爱情是全剧唯一核心主线，从一见钟情到私会传情，浪漫体验贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.80,
+          "explanation": "帅府逼婚、家长阻挠与恋人分离，使得整个后半程充满令人窒息的紧张与焦虑感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.25,
+          "explanation": "剧中仅有男女主私会时的短暂甜蜜存在温情，整体环境是压抑和冰冷的，温情体验较低。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.70,
+          "explanation": "男女主角在对抗家族和社会的过程中孤立无援，内心的孤寂感与处境的无助感贯穿全剧。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.20,
+          "explanation": "随着情节推进，现实压迫使得私奔或和解的希望逐渐破灭，全剧基调绝望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.30,
+          "explanation": "作品通过具象的悲欢离合和直抒胸臆的曲词叙事，而非抽象隐喻来构建情节，抽象性较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.42,
+          "explanation": "人物关系简单集中于爱情主线，情节推进线性化，信息处理复杂程度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.65,
+          "explanation": "作品将情与礼的冲突上升到生存与毁灭的哲学层面，对至情理念的探讨具有深刻思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "故事依赖情感冲动与外部戏剧性巧合推动，而非依靠缜密的逻辑链条发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.55,
+          "explanation": "在明末戏曲写“情”的谱系中，该剧直接书写表兄妹恋并完成殉情，具有特定时代的题材独特性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.20,
+          "explanation": "场景和议题始终局限在家族私宅、后花园及单一的婚恋道德中，缺乏向外部世界或系统的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.35,
+          "explanation": "人物道德立场明确，善恶与强弱的对立清晰，剧情最终提供了明确的封闭式结局。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.60,
+          "explanation": "作为典型的才子佳人悲剧模式，在权势介入恋爱时，悲剧结局在观剧预期之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.50,
+          "explanation": "文学性极高的曲辞承载了丰富的情感与文化典故，但在剧情推进上节奏较为舒缓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.50,
+          "explanation": "受众可以通过作品深入了解晚明言情戏曲的艺术特色及封建婚姻制度的残酷性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "重点聚焦于申纯与王娇娘的个人感受、情感变化和心理痛苦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.95,
+          "explanation": "表兄妹之恋、父子母女的家庭矛盾、主仆关系等构成全剧最核心的表达内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.70,
+          "explanation": "帅府逼婚直接体现了权势阶层对婚姻的干预，具有明确的社会制度批判指向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "故事仅发生在几个家庭内部，不涉及对文明兴衰或宏大历史进程的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.08,
+          "explanation": "除了双逝化鸳鸯的结尾具有轻微的超现实色彩，整体缺乏宇宙尺度的观照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "讲述了一段短暂的、自相识至殉情的情感历程，时间跨度相对集中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "全剧根植于现实的人情社会和礼教规训，几乎没有幻想元素介入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "整体悲剧氛围笼罩，偶尔的欢聚也伴随着对未来的恐惧，鲜有纯粹的愉悦情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.88,
+          "explanation": "生离死别、爱情受阻、郁郁而终构成全剧最突出且弥漫始终的情绪基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.72,
+          "explanation": "在无人理解与巨大压力下，两人在精神上处于极度孤独的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.22,
+          "explanation": "只有在私会与诗书传情的瞬间存在短暂的关怀与暖意，其余多为冷峻的现实描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "作品表达的是悲愤与绝望，而非悬疑恐怖，由外部威胁造成的具体恐惧感较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.78,
+          "explanation": "一旦帅府介入，情节急转直下，心理冲突和情境压力骤然升高并持续到终点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.50,
+          "explanation": "不屈的殉情之举在情感上产生了某种庄严与肃穆，引发了带有哀悼性质的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "古雅的文辞与舞台意境带有一丝对往昔文人雅趣的回望，但并非主要情绪导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.18,
+          "explanation": "在封建强权的阴影下，对未来的期许极其稀薄，抵抗最终流于绝唱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.90,
+          "explanation": "自始至终弥漫着无可奈何花落去的哀愁与深沉的忧郁，是作品最核心的审美情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.55,
+          "explanation": "作品对仗势欺人的帅府和冷酷的家长制抱有强烈的控诉意图，愤怒潜藏在悲情之下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.08,
+          "explanation": "充满动荡、焦虑和挣扎的情节使得宁静平和的内心体验几乎无从生发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.92,
+          "explanation": "词曲绮丽、意境优美，是中国古典戏曲典雅之美的典型代表。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.12,
+          "explanation": "明代传奇的舞美和排场相对繁复铺排，并非走简约留白的风格路线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.50,
+          "explanation": "描绘官宦人家的生活场景，辞藻华丽的唱词带来中等程度的华贵感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "后半段悲剧色彩浓厚，涉及死亡、病重和逼婚等阴暗压抑的审美意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "作品的明快时刻仅限于早期恋爱场景，整体色彩深沉黯淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.45,
+          "explanation": "继承《牡丹亭》的某些梦幻意境，但在现实主义描写上更为扎实，梦幻感适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "剧情和冲突皆是现实的人情世故，缺乏悬疑和不可知的神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.20,
+          "explanation": "在戏曲结构上沿袭传统的传奇体制，未在形式上做出激进的实验性突破。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.95,
+          "explanation": "作为一部典型的明末传奇，其剧本结构、曲牌运用、文辞风格均极具古典艺术特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.05,
+          "explanation": "内容与风格完全是前现代社会的产物，缺乏现代审美观念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.55,
+          "explanation": "主线清晰，穿插了侍女传书、帅府逼婚等转折，具备适度的曲折离奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "对申纯的痴情与王娇娘的清醒又决绝的心理刻画极为精细和丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.60,
+          "explanation": "王娇娘从犹豫推脱到坚定赴死的过程体现了明显的心理成熟和性格发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.20,
+          "explanation": "故事背景仅服务于爱情的舞台环境，并没有构建一个独立复杂的架空世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.08,
+          "explanation": "严格按照时间顺序线性讲述，几乎没有倒叙、插叙等非线性叙事手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.70,
+          "explanation": "通过大段的抒情唱段和深闺琐事慢慢积累情感，叙事节奏缓慢而深沉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.10,
+          "explanation": "全剧以生旦的文戏和唱工为主，几乎没有激烈的外部动作冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "个体意志与封建强权之间的对抗白热化且毫无妥协余地，冲突强度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.78,
+          "explanation": "重情与守礼的冲突、对‘节义’的重新诠释，上升到极具深度的伦理思辨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.60,
+          "explanation": "为捍卫个人情感而不顾家族利益，体现了对个人意志和自主权利的强烈认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.35,
+          "explanation": "家族和社会的集体礼法主要作为压抑个体的负面角色存在，集体诉求被淡化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.82,
+          "explanation": "宗族长辈的意愿和门第观念是剧情最核心的阻碍力量，家庭关系的描写占比极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.25,
+          "explanation": "偶有友人和侍女的帮助，但友情不构成推动情节的主要社交维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.98,
+          "explanation": "作品将男女之爱放置在超越生命与社会规范的最高位置，是所有行为的出发点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.15,
+          "explanation": "作品中缺乏广泛的社会群体互动，故事局限于封闭的士大夫家庭环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.65,
+          "explanation": "申纯与帅府公子在对王娇娘的婚配权上形成了零和博弈式的资源与权力竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.12,
+          "explanation": "除了恋人间的互助，作品几乎不强调更广泛的社会协作关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.75,
+          "explanation": "帅府以权压人、家长以礼制人，权力不对等是造成悲剧的直接社会根源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.70,
+          "explanation": "申纯的书生身份与王娇娘的闺秀身份决定了他们的行为模式与最终宿命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.80,
+          "explanation": "对自主择偶、不受他人干涉的情感自由有着极其强烈的追求与呐喊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "封建秩序在剧中作为负面的、压迫性的存在，作品并不赞美或倡导遵守外在秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.60,
+          "explanation": "强调忠于内心的真情实感，拒绝虚伪的礼教表面文章。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.88,
+          "explanation": "无论是文学形式还是情感内核，都将美学标准置于极高的位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "世俗的功名成就并非角色的人生目标，甚至被置于至情之下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.40,
+          "explanation": "作品谴责以权谋私的逼婚行为，但故事的结局是毁灭而非正义的伸张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.92,
+          "explanation": "为了保全爱情理想而牺牲生命是本剧最核心的价值取向和行动归宿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.70,
+          "explanation": "王娇娘不断审视自己内心对自主与依附的矛盾心理，体现了深入的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.35,
+          "explanation": "尽管反抗礼教，但其反抗方式与最终归宿仍带有传统“烈女节义”的印记。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.18,
+          "explanation": "主角试图改变婚约安排的努力完全失败，作品呈现的是变革的无力感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.30,
+          "explanation": "当理想与生存冲突时，角色主动放弃生存，生存并非作品赞颂的最高价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "追问爱情的意义、生命的归属，将寻找生命的意义作为角色的终极目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "角色的行动源于情感需求而非探索未知世界的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "互赠情诗、书信往来是缔结情感的主要方式，体现了通过创作表达内心的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.10,
+          "explanation": "行动局限在闺阁与书斋，没有向未知领域冒险的冲动或行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.75,
+          "explanation": "大量独白和唱段展现角色对自身境遇、伦理选择的反复沉思与内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.25,
+          "explanation": "除了与帅府公子的间接婚恋竞争，角色本身缺乏主动的竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.30,
+          "explanation": "社交活动是被动的礼节应酬，反而加剧了角色的隔阂感和社交退缩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "角色突破礼法束缚，行为更多是被情感驱动而非严于律己的制度性自我约束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.50,
+          "explanation": "私会传情在当时社会是名誉丧尽的冒险行为，殉情更是终极的极端风险承担。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.12,
+          "explanation": "人物多处于相思成疾或悲愤欲绝的状态，情绪跌宕起伏，极少有平和镇静之态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.68,
+          "explanation": "殉情除了坚守爱情，也是从封建压迫无法承受的痛苦现实中彻底解脱的手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "戏曲妆造、华丽的戏服和手眼身法步等视觉呈现具有较强观赏性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.60,
+          "explanation": "生旦造型及悲喜交加的场面调度带来了丰富的舞台色彩变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.70,
+          "explanation": "昆腔的曲笛伴奏与演员的高低吟唱构成主要的听觉冲击，声音表现力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.35,
+          "explanation": "作为长篇文戏，剧情节奏较为缓慢，在音乐上偏重徐缓抒情的板式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.90,
+          "explanation": "通过唱词、动作和配乐共同营造出一个哀婉凄凉、缠绵悱恻的整体剧场氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.82,
+          "explanation": "强烈的情感代入和戏曲艺术特有的假定性魅力，极易让观众沉浸于剧情中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.85,
+          "explanation": "作为戏曲舞台艺术，演员与观众同处一个物理空间，现场感极强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.90,
+          "explanation": "极度依赖演员细腻的唱念技巧与表情传达来表达深闺怨侣的内心痛苦。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.78,
+          "explanation": "戏曲特有的程式化身段动作在表达相思成疾、病体难支等情节时极为重要。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.65,
+          "explanation": "通过抒情唱段直接向观众剖白心迹，形成了一种跨越第四堵墙的情感交流。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.75,
+          "explanation": "在殉情等高潮段落中，歌舞并作的表演方式会带来强烈的表演爆发力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.70,
+          "explanation": "中国传统戏曲中的自报家门、定场诗以及象征性表演都带有浓厚的仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "受众将经历一场由甜蜜爱恋逐渐坠入绝望深渊的情感之旅。初始的私会传情令人心旌摇曳，中期的家庭逼婚使人焦虑愤懑，最终的双双殉情则带来撕心裂肺的悲恸与净化般的震撼。整个过程充满了对美好情感的憧憬以及看着它被冷酷现实摧毁的无助与悲怆。",
+        "structure_description": "作品采用典型的中国古典戏曲传奇体例，以线性时序铺陈从相识、定情到受阻、殉情的完整悲情脉络。通过大段文雅绮丽的曲辞唱段放慢叙事节奏，使得内心情感得以充分发酵；外部冲突则如催命鼓点般逐步收紧，最终在悲剧高潮处迸发，形成先抑后扬、由甜入苦的情感结构。",
+        "cognitive_expression": "故事鼓励受众进行深度的情感共鸣与社会历史性反思。观赏过程不需要复杂的逻辑解谜，而是需要调动高水平的共情能力去体会人物内心的矛盾与痛苦，并在脑海里构建在封建权力结构下个人意愿为何无路可走的因果链条与伦理思辨。",
+        "behavioral_tendency_description": "作品强化了一种将内心情感视为最高准则的精神取向，推崇为了珍视的价值（如爱情与自主）不惜牺牲世俗安稳乃至生命的行为模式。它鼓励沉浸在内在感受中进行反复自省，而非向外进行探索或争斗，展现了一种以被动坚忍对抗外部强权的悲剧英雄主义情怀。"
+      },
+      "personality_affinity": {
+        "Ni": 0.62,
+        "Ne": 0.18,
+        "Ti": 0.45,
+        "Te": 0.25,
+        "Fi": 0.88,
+        "Fe": 0.55,
+        "Si": 0.40,
+        "Se": 0.15,
+        "openness": 0.18,
+        "conscientiousness": 0.22,
+        "extraversion": 0.12,
+        "agreeableness": 0.28,
+        "neuroticism": 0.86,
+        "Assertive": 0.05,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "全剧主线围绕申纯与表妹王娇娘之间被禁止的爱情展开。",
+        "男女主角违背当时社会规范，通过书信和私会秘密传递情感。",
+        "帅府强行介入婚事，利用政治权势抢夺王娇娘为儿媳。",
+        "家族长辈维护礼法秩序，坚决反对申纯与王娇娘的结合。",
+        "大量唱词专注于细腻描写人物内心的相思之苦与情感挣扎。",
+        "王娇娘在礼节约束与个人情感之间反复进行艰难的心理权衡。",
+        "外部社会压力与内部情感渴望的矛盾不断加剧，制造出持续的紧张感。",
+        "剧情从甜蜜的诗笺传情逐步滑向无可挽回的生死绝境。",
+        "在无法反抗封建强权的情况下，男女主角以共同赴死作为最终选择。",
+        "作品的结局是彻底的毁灭，没有留下妥协或生存的余地。",
+        "曲辞风格继承了晚明文学追求极致形式美和情感深度的特点。",
+        "主角的行为出发点在于捍卫内心的真实情感而非追求功名利禄。",
+        "整体艺术氛围强调哀伤、忧郁和悲壮的美学体验而非欢快明亮。",
+        "故事将爱情的价值提升到超越了生命与世俗礼法的绝对高度。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1936_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "飘",
+        "type": "NOVEL",
+        "countryName": "美国",
+        "year": 1936,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-03-22",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "小说以美国南北战争与战后重建为背景，聚焦南方庄园主之女郝思嘉为生存和财富进行的艰难奋斗。作品将宏大历史变迁与个人命运紧密交织，描绘了爱情、婚姻与人性的复杂面貌，深刻展现了一个骄傲女性在旧秩序崩塌后展现出的惊人韧性与自我蜕变。",
+        "themes": [
+          "战争",
+          "生存",
+          "爱情",
+          "成长",
+          "女性",
+          "社会变迁",
+          "阶级",
+          "土地",
+          "记忆",
+          "道德"
+        ],
+        "keywords": [
+          "南北战争",
+          "重建时期",
+          "佐治亚",
+          "塔拉庄园",
+          "郝思嘉",
+          "白瑞德",
+          "媚兰",
+          "种植园经济",
+          "亚特兰大",
+          "生存意志"
+        ],
+        "core_experience": "沉浸于宏大的历史洪流中，体验个体在物质与精神双重废墟上的挣扎求生。读者将感受到极致的生存意志与道德情感的激烈碰撞，在爱情的执念与幻灭之间反思人性的复杂与成长。整体体验充满戏剧张力、沧桑感与顽强的生命力。",
+        "experience_introduction": "《飘》通过细腻而宏阔的叙事，将读者带入一个旧世界分崩离析、新秩序痛苦诞生的动荡时代。作品以郝思嘉的个人奋斗为主线，让读者体验到从养尊处优到赤贫绝望、再到不择手段重建生活的强烈反差。大段内心独白和激烈的情节转折，引导读者在理解与批判之间反复摇摆，产生对生存本能、情感执念与身份归属的复杂共鸣。最终，作品以开放式的结局留下深刻的怅惘，促使读者反思个人意志与历史洪流的关系。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.10,
+        "awe": 0.50,
+        "nostalgia": 0.70,
+        "reflection": 0.75,
+        "romance": 0.60,
+        "tension": 0.80,
+        "warmth": 0.25,
+        "loneliness": 0.70,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.20,
+          "complexity": 0.65,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.45,
+          "novelty": 0.50,
+          "exploration": 0.60,
+          "ambiguity": 0.55,
+          "predictability": 0.35,
+          "information_density": 0.70,
+          "learning_value": 0.75
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.85,
+          "social_scale": 0.85,
+          "civilization_scale": 0.75,
+          "cosmic_scale": 0.10,
+          "time_span": 0.80,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.15,
+          "sadness": 0.70,
+          "loneliness": 0.75,
+          "warmth": 0.20,
+          "fear": 0.65,
+          "tension": 0.80,
+          "awe": 0.40,
+          "nostalgia": 0.75,
+          "hope": 0.25,
+          "melancholy": 0.80,
+          "anger": 0.60,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.40,
+          "minimalism": 0.10,
+          "luxury": 0.30,
+          "darkness": 0.65,
+          "brightness": 0.20,
+          "dreamlike": 0.10,
+          "mystery": 0.20,
+          "experimental": 0.15,
+          "classical": 0.85,
+          "modern": 0.20
+        },
+        "narrative": {
+          "plot_complexity": 0.75,
+          "character_depth": 0.90,
+          "character_growth": 0.95,
+          "world_building": 0.80,
+          "nonlinear_structure": 0.15,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.60,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.60
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.30,
+          "family": 0.70,
+          "friendship": 0.45,
+          "love": 0.80,
+          "community": 0.50,
+          "competition": 0.75,
+          "cooperation": 0.20,
+          "power_relationship": 0.70,
+          "identity": 0.80
+        },
+        "value": {
+          "freedom": 0.65,
+          "order": 0.20,
+          "truth": 0.45,
+          "beauty": 0.25,
+          "achievement": 0.85,
+          "justice": 0.30,
+          "sacrifice": 0.60,
+          "self_exploration": 0.80,
+          "tradition": 0.35,
+          "change": 0.85,
+          "survival": 1.00,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.40,
+          "creation": 0.35,
+          "adventure": 0.55,
+          "reflection": 0.70,
+          "competition": 0.80,
+          "social": 0.50,
+          "discipline": 0.45,
+          "risk": 0.85,
+          "calm": 0.15,
+          "escape": 0.40
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.45,
+          "sound_intensity": 0.40,
+          "rhythm_energy": 0.60,
+          "atmosphere": 0.80,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.80,
+          "writing_style": 0.75,
+          "narrative_voice": 0.85,
+          "symbolism": 0.65,
+          "inner_monologue": 0.85,
+          "world_building_depth": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "作品围绕郝思嘉对爱情、土地和生存的强烈执念展开，情感浓度极高。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.10,
+          "explanation": "故事基调沉重，充满死亡、饥饿和战争创伤，几乎不提供慰藉感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.50,
+          "explanation": "宏大的历史背景和郝思嘉的顽强生命力带来一定的震撼感，但更侧重个人化叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.70,
+          "explanation": "大量篇幅深情描绘消失的旧南方文明和塔拉庄园的田园生活，怀旧感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.75,
+          "explanation": "作品引导读者反思人性在极端环境下的自私与坚韧、爱情的真相以及文明的脆弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.60,
+          "explanation": "郝思嘉与白瑞德、卫希礼之间的情感纠葛是核心叙事线之一，但爱情常与生存功利性交织。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.80,
+          "explanation": "战争、贫困和人际冲突持续制造紧绷感，生存压力无处不在。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.25,
+          "explanation": "人际关系多充满算计、误解和对抗，仅有媚兰等少数角色带来真挚暖意。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.70,
+          "explanation": "郝思嘉精神上的不被理解、与旧世界的疏离感，共同构成深刻的孤独氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "虽然郝思嘉总是强调'明天又是新的一天'，但整体氛围悲观，短暂的希望常被现实击碎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.20,
+          "explanation": "叙事高度具体化，注重物质细节和现实生存问题，很少涉及抽象概念思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "人物性格和动机构成复杂，社会关系网络与历史背景交错，但读解并无难度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "作品对人性、生存与道德的关系进行了深刻探讨，启发对文明进程的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "情节推进主要依靠人物情感冲动和历史事件，而非严密的逻辑推理结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.50,
+          "explanation": "在当时的文学语境中，塑造一个自私而顽强的反传统女主角颇具新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "通过对战争与重建时期社会各阶层的描写，带领读者探索陌生的历史世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "人物的道德立场和情感结局常处于灰色地带，留给读者开放的解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "人物命运和情节转折多有出人意料之处，结局打破了传统爱情小说的圆满期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.70,
+          "explanation": "篇幅宏大，包含大量风土人情、历史细节与社会关系描写，信息承载量丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.75,
+          "explanation": "读者可以从中深入了解美国南方历史、文化以及人在极端环境下的复杂心理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "故事完全聚焦于郝思嘉的个人经历、内心挣扎与生存发展。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "爱情、婚姻和家庭关系是驱动核心情节发展的主要动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "深刻描绘了亚特兰大的社会变迁、阶级分化和社群互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.75,
+          "explanation": "通过塔拉庄园和种植园经济，展现了整个南方文明在战争炮火下的崩塌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "全作根植于现实历史与土地，完全没有涉及宇宙或超自然宏观尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.80,
+          "explanation": "时间跨度涵盖了战前、战争中到战后重建的长周期，展现了时代的沧桑巨变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.00,
+          "explanation": "这是一部严格的现实主义历史小说，不包含任何幻想或超自然元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.15,
+          "explanation": "整体氛围沉重压抑，短暂的欢愉时刻往往迅速被现实的苦难或冲突取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.70,
+          "explanation": "故事的基调充满失去亲人的悲痛、爱情破灭的哀伤与理想覆灭的沉重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "郝思嘉在精神层面极度孤独，她的坚韧和世故使她与周围温柔的女性世界格格不入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.20,
+          "explanation": "作品氛围更多地由冲突和现实的冰冷所主导，缺乏持续的温暖情感支持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.65,
+          "explanation": "战争带来的死亡恐惧、破产的焦虑和饥饿的威胁始终环绕在人物左右。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.80,
+          "explanation": "生存竞争、家庭责任和情感纠葛制造了持续不断的高度紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.40,
+          "explanation": "对人物强大生命力和历史变迁的描写带来适度的敬畏感，但并非敬畏自然或神性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.75,
+          "explanation": "整部作品贯穿着对逝去的旧时光和土地的深沉怀念，是重要的情感引线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.25,
+          "explanation": "尽管角色有顽强的求生欲，但作品的整体情绪是悲观且幻灭的，希望渺茫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.80,
+          "explanation": "失去的爱情、逝去的朋友和瓦解的世界观共同构成了强烈的忧郁情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.60,
+          "explanation": "人物对命运不公、贫困和异性的愤怒是推动情节发展的常态化情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "作品几乎完全处在动荡与挣扎中，几乎没有提供内心安宁的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.40,
+          "explanation": "虽有庄园景色的描绘，但绝大多数笔墨集中在破败、贫穷和战争的丑陋现实上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.10,
+          "explanation": "风格是丰沛繁复的古典叙事，情感色调浓厚，与极简风格完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.30,
+          "explanation": "对战前种植园生活的富丽堂皇有所描写，但这主要是为后续的衰败做铺垫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.65,
+          "explanation": "作品氛围阴暗沉重，人性的阴暗面、死亡与绝望感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.20,
+          "explanation": "轻松的语调仅在开篇出现，很快便被残酷的战争阴霾所取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "内容具有强烈的现实感和粗粝感，完全非梦幻风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "情节和人物关系直接明了，几乎没有悬疑或超自然的神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "采用了相当传统的现实主义线性叙事体，没有任何形式的实验色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.85,
+          "explanation": "从波澜壮阔的史诗感、丰富的人物群像到道德探讨，都充满古典文学的美学特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.20,
+          "explanation": "虽然对女性心理的挖掘较为深入，但整体文学风格属于19世纪批判现实主义传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.75,
+          "explanation": "情节围绕战争和女主的三段关系展开，人物众多且命运交错，结构复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.90,
+          "explanation": "对郝思嘉矛盾性格的刻画达到了文学史上的高峰，细腻展示了她的虚荣、自私与坚韧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.95,
+          "explanation": "郝思嘉从一个娇纵的庄园小姐蜕变为精明冷酷的商人和家庭支柱，人物弧光极为显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.80,
+          "explanation": "巨细无靡地还原了南北战争时期美国南方社会的风貌、规则与等级秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.15,
+          "explanation": "故事基本按照时间顺序平铺直叙，极少使用倒叙或插叙等非线性手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "对环境和日常的细腻白描让读者缓缓浸入旧南方的氛围，但情节推进保持高密度的戏剧性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.60,
+          "explanation": "包含亚特兰大大火、穿越封锁线等具有强烈动作性的场景，打破沉闷的室内叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "无论是与环境的生存斗争，还是人际间的唇枪舌剑与意志较量，冲突感始终激烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.60,
+          "explanation": "借人物之口探讨了土地、文明、阶级和生存本质等话题，具备社会哲学层面的思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "郝思嘉的一切行为几乎都以个人意志和自身利益为出发点，极度信奉自我奋斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.30,
+          "explanation": "虽然承担家族责任，但主要出于私人情感，对集体主义和社会运动持疏离或利用态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.70,
+          "explanation": "对塔拉庄园和父亲的眷恋是她的精神支柱，赡养全家是她奋斗的核心动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.45,
+          "explanation": "缺乏基于平等尊重的纯真友谊，与媚兰的关系更多是道义上的维系和单方面的付出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.80,
+          "explanation": "对卫希礼的执念和对白瑞德的爱恨交织，构成了贯穿人物命运的核心感情网。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.50,
+          "explanation": "作为亚特兰大社交界的焦点，她依赖于社区却经常背叛其规则，关系充满张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.75,
+          "explanation": "在生意场、社交圈和情感中，她都展现出强烈的竞争意识和获胜欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.20,
+          "explanation": "极度不信任他人，即使在合作中也极力掌控主导权，真正的平等协作极为罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.70,
+          "explanation": "人物关系深受金钱、阶级和性别权力影响，郝思嘉总是试图成为关系中的控制者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.80,
+          "explanation": "郝思嘉在'南方淑女'和'独立商人'的身份之间苦苦挣扎，身份认同是核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.65,
+          "explanation": "所追求的不是抽象政治自由，而是不受贫困和社会礼仪约束的个人行为自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "她不断打破旧南方的社会秩序和道德规范，对遵纪守法抱着极浅的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.45,
+          "explanation": "为了达成生存目的，她经常对自己和他人撒谎，对真相的追求远不如生存本身重要。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "外表美貌是她获取资源的武器，但作品重点不在审美本身，而在生存的粗粝现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.85,
+          "explanation": "经营锯木厂、积累财富是她的生存手段和人生价值的体现，极具商业野心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.30,
+          "explanation": "更关注切身利益而非抽象的正义公平，甚至利用不公正的体制牟利。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.60,
+          "explanation": "为了塔拉和家人多次牺牲自我，但这种牺牲带有强烈的占有欲和责任感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.80,
+          "explanation": "郝思嘉不断正视自己的欲望和恐惧，最终在幻灭中认清自我，是高度自我挖掘的过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.35,
+          "explanation": "她对旧南方的传统充满了矛盾的怀恋，但行为上总是反其道而行之。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.85,
+          "explanation": "极度适应时代巨变，主动拥抱新规则，甚至成为旧观念解体过程中的受益者。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 1.00,
+          "explanation": "生存是压倒一切的最高行动纲领，无论是肉体还是经济上的生存危机，都驱动着她做出所有有违常理的抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "人生的意义到底系于土地、金钱还是爱情，是作品在结尾处抛出的终极思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.40,
+          "explanation": "更偏向于利用现有规则达成目标，而非热衷于探索未知世界的知识与可能性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "更多的是在废墟上进行重建和积累，缺乏真正从无到有的创造性行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.55,
+          "explanation": "具备冒险精神，敢于在战争乱局和男权商业世界里打破常规铤而走险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.70,
+          "explanation": "在巨大的情感挫折和道德困境后，心理投射出深刻的自我反省和认知重塑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.80,
+          "explanation": "高度好胜，商业、社交圈乃至情感生活都被她视为必须赢得的“战役”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.50,
+          "explanation": "长于社交手腕和周旋，但本质反社会，缺乏融入集体的真实愉悦感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.45,
+          "explanation": "受制于极强的求生欲会暂时隐忍，但骨子里冲动任性，缺乏恒定的纪律自控。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.85,
+          "explanation": "毫无顾忌地承担高风险的商业决策和道德越轨行为，风险偏好极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "个性急躁、情感炽热，非常缺乏冷静和内心平和的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.40,
+          "explanation": "虽然每每想逃回塔拉，但最终都是直面惨淡的现实，退行并不是她的主要应对策略。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "战争场面如亚特兰大燃烧和军队行进的描写有很强的画面冲击感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "对景物和服装的色彩描写服务于氛围营造，但并非极尽绚烂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.40,
+          "explanation": "具有炮火、喧闹的听觉描写，但这在文字媒介中不如视觉冲击直达人心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.60,
+          "explanation": "叙事节奏多变，从悠闲的庄园生活到紧张的战乱逃生，再到高强度的生意博弈，能量起伏波动极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "无论是庄严肃穆的塔拉、炎热的亚特兰大还是破败的废墟，场景的代入感和笼罩性的氛围营造极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "超长篇的文本和细腻的描写让读者很容易完全沉浸在那个特定的年代和人物的命运中难以抽离。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.80,
+          "explanation": "通过宏大的社会史诗和个人沉浮，探讨了文明与人性等深刻的文学母题。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.75,
+          "explanation": "文笔细腻而厚重，拥有鲜明的现实主义和当时通俗文学结合的特色。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.85,
+          "explanation": "主体采用第三人称全知视角，且频繁进入女主内心独白，带有强烈的作者评述色彩。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.65,
+          "explanation": "红土（塔拉）作为土地和母亲的象征是其核心意象，贯穿全篇。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.85,
+          "explanation": "有大量的篇幅直接展示郝思嘉复杂的内心活动，极度依赖心理描写来推动人物弧光。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.85,
+          "explanation": "依靠长篇幅的细腻描写还原了南北战争时期的历史氛围、社会礼仪和地域特色。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者的情感体验十分复杂，在一种紧张且高昂的戏剧冲突中感受强烈的求生意志。这是一个旧世界崩塌，新规则必须在废墟和鲜血中建立的过程。体验的核心包含极致的生存焦虑，伴随而来的是对逝去文明的淡淡哀愁，以及在爱与妒、自私与责任之间撕扯的纠葛感。整个体验过程充满张力、孤寂与沉郁，缺乏持久的安慰，但对人性有了更深度的咀嚼。",
+        "structure_description": "小说采用经典的线性编年史结构推进，节奏张弛有度。早期铺垫庄园生活的奢华与女性的骄傲，作为随后战争与苦难的残酷对照。情节通过一次次的人际冲突和物质困境制造戏剧高潮，结构上非常依赖主要人物关系（尤其是郝思嘉与白瑞德）的实质性演变来推进故事。小说以塔拉庄园为场景锚点，以时代的推进为时间主轴，层层递进地拷问人物的生存底线。",
+        "cognitive_expression": "作品引导读者对特定历史和社会环境下的复杂人性进行高强度的抽象反思。它激发对阶层、性别、种族与生存伦理的批判性思维。由于大量聚焦于女主角带有偏见的内心世界，作品迫使读者在代入和审视之间来回切换，从而锻炼理解多面人格和复杂社会形势的认知能力。它要求从表面的情节冲突，理解背后深层的意识形态对抗。",
+        "behavioral_tendency_description": "赞颂一种极度务实、敢于冒险、百折不挠的生存主义行为。文本激励一种打破常规、无视既有道德教条的进取心，鼓励在绝境中利用一切手段达成自我保护和家庭维护的目标。同时也通过对失败者和牺牲者的同情，压制纯粹的自私自利，引发关于个人成就所带来孤独的情感反思。整体倾向于高强度的竞争心态和现实导向的决策模型。"
+      },
+      "personality_affinity": {
+        "Ni": 0.30,
+        "Ne": 0.25,
+        "Ti": 0.35,
+        "Te": 0.88,
+        "Fi": 0.85,
+        "Fe": 0.40,
+        "Si": 0.60,
+        "Se": 0.70,
+        "openness": 0.55,
+        "conscientiousness": 0.50,
+        "extraversion": 0.70,
+        "agreeableness": 0.20,
+        "neuroticism": 0.85,
+        "Assertive": 0.90,
+        "Turbulent": 0.15
+      },
+      "supporting_evidence": [
+        "故事背景设定在美国南北战争及战后重建时期，时间跨度长达十余年。",
+        "女主角郝思嘉在战争期间从衣食无忧的农场主女儿沦落到亲自下地摘棉花以维持生计。",
+        "为了缴纳塔拉庄园的高额税金，郝思嘉抢走了妹妹的未婚夫弗兰克·肯尼迪。",
+        "郝思嘉在亚特兰大不顾世俗非议，买下锯木厂并亲自经营，成为女商人。",
+        "作品用了大量篇幅直接描写郝思嘉对卫希礼长达十余年的迷恋与错误判断。",
+        "白瑞德最终在女儿夭折后，心灰意冷地离开郝思嘉，说出‘说实话，亲爱的，我他妈的一点也不在乎’。",
+        "小说以郝思嘉发誓要将白瑞德找回来，并说出‘明天又是新的一天’作为开放式结尾。",
+        "艾希礼·威尔克斯代表了旧南方文明中的一种高贵而又不合时宜的理想主义。",
+        "媚兰·威尔克斯被塑造成旧时代淑女的典范，她的死亡象征着旧南方精神的彻底消逝。",
+        "小说描写了亚特兰大在围城期间被北方联邦军队炮击和大火焚毁的种种惨状。",
+        "郝思嘉在回到塔拉后发现母亲已病故，父亲精神失常，家中的黑奴大多逃亡。",
+        "当郝思嘉为生活所迫向白瑞德借钱而遭到冷遇时，她扯下窗帘缝制了一条新裙子。",
+        "为了维持体面和生意，郝思嘉频繁与北方占领军和提包客进行社交和利益交换。",
+        "小说详细记录了旧南方社会对妇女的繁琐约束，以及郝思嘉对这些约束的屡次践踏。",
+        "塔拉庄园在结局处依旧是郝思嘉脆弱精神世界里的最终归宿和唯一的力量来源。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

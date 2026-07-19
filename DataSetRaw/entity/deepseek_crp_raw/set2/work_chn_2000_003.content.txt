@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2000_003",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "美人图",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 2000,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.8,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "朱新建的《美人图》系列以中国传统水墨为媒介，用现代平民化视角重新诠释古代仕女题材。画面以放纵不羁的笔墨、随意涂抹的线条和艳俗的色彩描绘女性形象，题款多用白话俚语或打油诗，充满市井幽默与情色暗示。作品将文人画的笔墨传统与世俗欲望直接并置，彻底消解了传统仕女画的高雅趣味，以此反思艺术与生活、精英与大众的界限，是新文人画运动中最具颠覆性和争议性的代表作。",
+        "themes": [
+          "欲望",
+          "世俗生活",
+          "反讽",
+          "解构传统",
+          "女性形象",
+          "雅俗之辨",
+          "身体",
+          "幽默"
+        ],
+        "keywords": [
+          "水墨",
+          "仕女画",
+          "新文人画",
+          "朱新建",
+          "情色",
+          "打油诗",
+          "率性笔墨",
+          "市井文化",
+          "艳俗",
+          "当代水墨"
+        ],
+        "core_experience": "体验一场对传统文人雅趣的戏谑解构。观赏者在率意洒脱的笔墨与充满肉欲的世俗形象中，感受到高雅与低俗界限的消融，同时被艺术家的不羁与坦诚所冲击，引发关于艺术本质和真实人性的思考。",
+        "experience_introduction": "朱新建的《美人图》系列通过放纵的笔墨和世俗化的女性形象，向观众提供了一种兼具视觉冲击与观念挑战的复合型艺术体验。作品将传统水墨的高雅范式与直白的身体欲望、市井幽默并置，迫使观众直面精英文化与大众趣味之间的冲突。观赏过程不仅是审美的，更是观念的，观众在被笔墨的自由挥洒吸引的同时，也不断被画中通俗甚至粗鄙的题款所打断，从而产生一种介于欣赏、尴尬和反思之间的复杂心理震荡。这种体验的核心在于打破对艺术的既有期待，用坦率到近乎冒犯的方式引导人们重新审视艺术与生活、欲望与美的关系。"
+      },
+      "experience_vector": {
+        "passion": 0.7,
+        "healing": 0.05,
+        "awe": 0.15,
+        "nostalgia": 0.1,
+        "reflection": 0.75,
+        "romance": 0.2,
+        "tension": 0.4,
+        "warmth": 0.1,
+        "loneliness": 0.25,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.45,
+          "complexity": 0.42,
+          "depth_of_thought": 0.55,
+          "logical_structure": 0.15,
+          "novelty": 0.82,
+          "exploration": 0.35,
+          "ambiguity": 0.6,
+          "predictability": 0.2,
+          "information_density": 0.4,
+          "learning_value": 0.5
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.35,
+          "social_scale": 0.3,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.3,
+          "sadness": 0.2,
+          "loneliness": 0.3,
+          "warmth": 0.15,
+          "fear": 0.0,
+          "tension": 0.4,
+          "awe": 0.1,
+          "nostalgia": 0.1,
+          "hope": 0.1,
+          "melancholy": 0.25,
+          "anger": 0.05,
+          "peace": 0.15
+        },
+        "aesthetic": {
+          "beauty": 0.25,
+          "minimalism": 0.55,
+          "luxury": 0.05,
+          "darkness": 0.3,
+          "brightness": 0.25,
+          "dreamlike": 0.15,
+          "mystery": 0.1,
+          "experimental": 0.7,
+          "classical": 0.4,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.0,
+          "character_depth": 0.3,
+          "character_growth": 0.0,
+          "world_building": 0.1,
+          "nonlinear_structure": 0.45,
+          "slow_immersion": 0.25,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.5,
+          "philosophical_depth": 0.6
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.1,
+          "family": 0.05,
+          "friendship": 0.1,
+          "love": 0.5,
+          "community": 0.15,
+          "competition": 0.2,
+          "cooperation": 0.05,
+          "power_relationship": 0.35,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.8,
+          "order": 0.1,
+          "truth": 0.55,
+          "beauty": 0.3,
+          "achievement": 0.25,
+          "justice": 0.1,
+          "sacrifice": 0.05,
+          "self_exploration": 0.6,
+          "tradition": 0.4,
+          "change": 0.7,
+          "survival": 0.15,
+          "meaning": 0.5
+        },
+        "behavior": {
+          "curiosity": 0.45,
+          "creation": 0.65,
+          "adventure": 0.2,
+          "reflection": 0.7,
+          "competition": 0.2,
+          "social": 0.2,
+          "discipline": 0.1,
+          "risk": 0.6,
+          "calm": 0.2,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.5,
+          "sound_intensity": 0.0,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.35,
+          "immersion": 0.3
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "表现性水墨",
+          "color_expression": 0.5,
+          "composition_complexity": 0.35,
+          "symbolism": 0.5,
+          "emotional_expression": 0.8,
+          "historical_style": 0.25
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.7,
+          "explanation": "笔墨与题材均显露出一种不加掩饰的、近似本能的生命冲动和表达欲望。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品的核心意图是挑战和颠覆，而非抚慰或治愈，因此几乎不提供治愈体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "作品旨在消解崇高，而非营造敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.1,
+          "explanation": "作品以当代视角改造古典题材，并非为了怀旧，而是服务于当下的观念表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.75,
+          "explanation": "作品强烈意图引发关于艺术本质、雅俗界限及人性欲望的智性反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.2,
+          "explanation": "对欲望的处理是直接且粗粝的，而非浪漫化的情感描绘。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.4,
+          "explanation": "高雅笔墨与世俗内容的并置带来感官和心理上的冲突感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "作品展现的态度是冷漠的、审视的而非温暖的。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.25,
+          "explanation": "人物形象虽描绘亲密场景，但展现的往往是其私人性的欲望，从中能体会到某种隔绝感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "作品聚焦于当下的身体欲望与个人自由，对未来愿景表达甚少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.45,
+          "explanation": "观念通过具象的女性身体和通俗文字直接表达，尽管背后有反讽和理论支撑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.42,
+          "explanation": "涉及雅俗文化的对立与消解，但手法直接，结构并不繁复。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.55,
+          "explanation": "作品引导观众思考传统、欲望与艺术本体性问题，具有一定的思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "作品价值在于打破和反讽旧有逻辑，而非建立严谨的新逻辑体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.82,
+          "explanation": "作为新文人画运动的代表作，其结合艳俗内容与率真笔墨的方式在当时极具开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "探索限于艺术家个人趣味领域的边界，不具备对广阔未知世界的探索性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.6,
+          "explanation": "作品本身的定位（是真诚的表达还是极致的反讽？）及其对待欲望的态度是暧昧不清的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.2,
+          "explanation": "其核心意图是制造审美上的意外和冒犯，因此观赏体验不可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.4,
+          "explanation": "观念和技法信息浓缩于简率的笔墨与题跋之中，但总量相对集中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.5,
+          "explanation": "观众可通过作品了解20世纪末新文人画运动及其对传统绘画范式的批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "作品以个体化的私密身体经验和欲望为绝对中心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.35,
+          "explanation": "关系被简化为欲望主体与欲望客体的凝视与被凝视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.3,
+          "explanation": "通过反叛主流审美含蓄地涉及社会文化现象，但非主要描绘对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "通过文人画的题材和媒介，与传统文化系统产生对话，但非正面构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "作品完全不涉及宇宙、世界等宏大命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "画面捕捉的是瞬间的情态与欲望，时间跨度短暂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "描绘的是现实的变体，而非一个独立于现实的幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.3,
+          "explanation": "作品中有一种打破禁忌的快感，但更偏向于玩世不恭而非纯粹的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.2,
+          "explanation": "在对欲望的直白描写下，有时能感受到一丝虚无和落寞的底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "这种高度个人化、不妥协的表达方式透露出一种精神上的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "作品的基调和态度是冷眼旁观的，不提供情感上的抚慰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.0,
+          "explanation": "作品不涉及任何恐怖或令人恐惧的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.4,
+          "explanation": "视觉上的不和谐和观念上的冲突在观众内心制造了紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "作品本身旨在去神圣化，不提供敬畏的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.1,
+          "explanation": "作品虽借用古画题材，但情感和手法是当代的，无意引发怀旧之情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "作品观照的焦点在于解构与当下，而非展望未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.25,
+          "explanation": "笔墨的放任与欲望的直白背后，隐隐存在一种对文人理想失落的伤怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品倾向于以戏谑和反讽取代直接的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.15,
+          "explanation": "作品带来的更多是心理上的冲击而非平和宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.25,
+          "explanation": "作品的核心是“趣”和“真”，而非传统意义上的“美”，甚至有意挑战美的标准。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.55,
+          "explanation": "笔墨高度概括，构图常留大片空白，以最少的语言表达最多的内容，符合写意美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "作品流露的是市井气和野趣，与精英式的奢华感完全背道而驰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.3,
+          "explanation": "题材中对欲望的坦率表达和对高雅文化的挑衅，使其带有一种幽暗的基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.25,
+          "explanation": "笔墨的痛快和题款的诙谐带来一种直白的能量感，但这种感觉并非明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "作品是现实欲望的直接映射，不具有梦幻或超现实的特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.1,
+          "explanation": "表达直接，甚至粗鄙，意在破除神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.7,
+          "explanation": "作品在主题、图式及笔墨语言上都进行了激进的艺术实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.4,
+          "explanation": "作品始终依托于传统水墨媒介和古典仕女画图式进行创作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "其精神内核是彻底现代的，表达的是当代人的欲望、困惑和自由精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.0,
+          "explanation": "作为系列绘画作品，不涉及故事情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.3,
+          "explanation": "画中女性形象作为艺术家观念的载体，具有一定的性格张力，但缺乏完整叙事背景下的深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "作品是静止的瞬间捕捉，不表现人物成长或发展过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "作品构建的是统一的、高度风格化的个人艺术世界，但非叙事意义上的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.45,
+          "explanation": "通过对古典主题的挪用、改造和戏仿，实现了对既有文化文本的非线性重构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.25,
+          "explanation": "视觉冲击和观念挑衅是即时性的，不适合长时间沉静地深度卷入。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "画面主体多为静态的人物或场景，缺乏动态的动作描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.5,
+          "explanation": "作品核心的内在冲突极为强烈，即个人表达自由与既定文化秩序的对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.6,
+          "explanation": "作品通过视觉语言持续讨论“何为艺术”以及“何为真实的人”等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "作品是对个人趣味、个人欲望和个人表达自由的最高礼赞。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.1,
+          "explanation": "作品立场与强调统一规范的集体主义精神完全相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "作品主题与家庭伦理或亲情无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "作品中不涉及平等主体间的友情描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.5,
+          "explanation": "作品大量探讨两性关系，但主要聚焦于欲望而非精神上的“爱”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.15,
+          "explanation": "作品不描绘社群生活，其态度是反社群、反共识的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.2,
+          "explanation": "作品涉及与传统审美和艺术规则的对抗，非人际间的直接竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.05,
+          "explanation": "创作是艺术家高度个人化的行为，内容也与协作无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.35,
+          "explanation": "通过凝视视角体现了艺术家与描绘对象、男性与女性之间的某种权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "作品强烈地体现了艺术家作为一种特定文化身份（文人/浪子）的自我认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.8,
+          "explanation": "追求笔墨自由和表达自由是整部作品的灵魂和终极价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "作品的价值取向在于挑战和破坏既有秩序而非建立或维护秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.55,
+          "explanation": "作品以一种近乎残忍的坦诚来呈现欲望，力图揭开虚伪的面纱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.3,
+          "explanation": "虽然以绘画为载体，但作品本身质疑并重构了对“美”的定义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.25,
+          "explanation": "作品更强调过程的痛快和个性的张扬，而非功利的成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.1,
+          "explanation": "无关社会正义或道德审判，而是聚焦于存在状态的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.05,
+          "explanation": "作品强调的是个人摄取和满足，而非为某些宏大目标牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.6,
+          "explanation": "作品是艺术家对自己内心欲望和艺术观念的深度挖掘和坦白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.4,
+          "explanation": "一方面承袭了传统笔墨这一载体，另一方面其内容又是对传统的彻底反叛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.7,
+          "explanation": "作品核心价值在于变革，以其巨大的冲击力推动了中国水墨画的当代转型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.15,
+          "explanation": "描绘内容超越基本的生存需求，更关注精神与欲望层面的满足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.5,
+          "explanation": "作品不断探寻作为个体生命何为真实、快乐与自由，具有强烈的存在主义追问色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.45,
+          "explanation": "作品以一种玩世不恭的方式满足对禁忌的好奇，但其本身更偏向于表达而非探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.65,
+          "explanation": "作品本身就是高度原创的艺术创造，代表了一种全新的视觉范式建构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.2,
+          "explanation": "其冒险性体现为观念上的大胆而非实际的冒险故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.7,
+          "explanation": "作品的核心行为就是通过对传统的解构来引发观众的智性反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.2,
+          "explanation": "表达观念上的挑衅可被视为一种与体制的间接竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.2,
+          "explanation": "作品气质孤高而独立，表达的是个体的审视而非社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "强调精神的放纵和笔墨的超越，与严谨自律的行为方式相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.6,
+          "explanation": "敢于突破道德和审美的边界，创作本身就充满了争议和风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.2,
+          "explanation": "作品充满躁动和冲突的能量，不带来平静的心境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "作品是直面并坦陈现实欲望，而非提供逃避现实的出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "放纵不羁的笔墨与具有冲击力的题材共同构成了较强的视觉强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.5,
+          "explanation": "色调以艳俗、高饱和度的方式呈现，强调感官刺激，而非色彩关系的丰富性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.0,
+          "explanation": "这是纯粹的视觉艺术，没有声音属性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "运笔的疾涩、提按和墨色的浓淡干湿构成了一种充满能量的视觉律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.35,
+          "explanation": "气氛并非和谐统一，而是混杂着酒神的狂欢与文人的孤寂感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.3,
+          "explanation": "作品带来的观念冲击和间离感，一定程度上阻碍了观者完全沉浸于画面。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.0,
+          "explanation": "风格归类为表现性水墨，强调画家主观情感与即兴挥洒。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.5,
+          "explanation": "色彩非理性、艳俗，作为情绪和感官刺激的直接表达手段。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.35,
+          "explanation": "构图多采用传统简率的大写意布局，不追求复杂的空间结构。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.5,
+          "explanation": "女性形象和题跋共同构成了对欲望、自由等观念的文化和时代象征。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.8,
+          "explanation": "作品将艺术家个人的率性、不羁和欲望等情感表现得淋漓尽致。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.25,
+          "explanation": "虽有传统水墨的外壳，但精神内核与技法处理与传统文人画拉开极大距离。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "此系列绘画作品提供了一种高度具有冲击力和挑衅性的审美体验。观者首先被自由奔放、近乎粗野的笔墨所吸引，随即又被画中直白描绘的女体与艳俗的色彩所震撼。这种体验混合了视觉上的快感与观念上的不适，观众在欣赏艺术家高超笔法的同时，不得不面对其流露出的赤裸欲望和玩世不恭的态度。整体体验是从对传统“美”的被动欣赏，转向一种必须主动应对的观念对抗。",
+        "structure_description": "作品没有传统意义上的叙事结构，其“结构”是一种图文并置的对抗性表达。每一幅画都是一次独立的观念发声，通过画面视觉元素（放纵的笔墨、变形的人体）与文字元素（诙谐、粗鄙的打油诗）的互文和冲突，构建起一个开放的意义场域。这种结构迫使观者不断在轻松与严肃、高雅与低俗之间来回切换，无法形成单一的、稳定的审美判断。",
+        "cognitive_expression": "作品强力激发了观众的反思性思维。它不提供现成的美感以供直接消费，而是通过挑战既定的审美范式，诱导观众启动比较、批判和内省等认知活动。观众需要调动自身的文化和艺术知识去理解这种颠覆行为背后的逻辑，并不断思辨艺术与生活、经典与当代、理法与自由之间的边界问题。",
+        "behavioral_tendency_description": "作品鼓励一种反叛性的、个人主义的表达趋向。它向观众展示了一种彻底做自己的可能，即不惧陈规、直面并表达真实自我的生活态度。这种行为倾向是解构式的，它推崇打破禁忌、挑战权威的行为而非顺从或合作。观赏此作可能唤醒的，是观众内心深处对挣脱束缚、追求表达自由的冲动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.4,
+        "Ne": 0.55,
+        "Ti": 0.4,
+        "Te": 0.2,
+        "Fi": 0.85,
+        "Fe": 0.1,
+        "Si": 0.2,
+        "Se": 0.7,
+        "openness": 0.9,
+        "conscientiousness": 0.1,
+        "extraversion": 0.35,
+        "agreeableness": 0.1,
+        "neuroticism": 0.55,
+        "Assertive": 0.7,
+        "Turbulent": 0.5
+      },
+      "supporting_evidence": [
+        "作品用传统水墨媒材描绘极具挑逗性的当代女性形象。",
+        "笔墨以放纵率性、近乎涂鸦式的线条为主，追求“拙”与“真”的趣味。",
+        "画面中的女性形象不再具备传统仕女画中端庄、优雅的神态与体态。",
+        "绘画色彩使用大胆，多采用高饱和度、带有世俗趣味的艳俗颜色。",
+        "画上题款内容多为大白话、打油诗或俚俗玩笑，带有强烈的个人情绪和市井感。",
+        "作品刻意模糊了文人雅趣与市井情欲之间的界限。",
+        "画面构图常截取私密的、不完整的身体局部，强化窥视感。",
+        "通过图文并置，对传统文人画的“诗书画印”一体范式进行了戏谑性解构。",
+        "作品整体呈现一种玩世不恭、冷漠审视的创作态度。",
+        "作为“新文人画”的代表，构成对20世纪末中国画坛主流审美的直接反叛。",
+        "创作内容高度聚焦于个体化的身体经验和欲望表达。",
+        "系列作品具有统一的个人风格，形成一个封闭而自洽的个人表达世界。",
+        "作品不讲述故事，仅以静态的视觉符号和文字传递观念。",
+        "艺术家在创作中展现了一种毫不在乎外界评价、极度自足的创作姿态。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

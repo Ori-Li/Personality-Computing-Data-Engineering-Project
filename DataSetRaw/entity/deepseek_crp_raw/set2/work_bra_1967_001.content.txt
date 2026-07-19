@@ -1,0 +1,757 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_bra_1967_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "Travessia",
+        "type": "MUSIC",
+        "countryName": "巴西",
+        "year": 1967,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-20",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.8,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《Travessia》由米尔顿·纳西门托以极具辨识度的假声演绎，融合巴洛克民谣与巴西传统音乐元素，营造出悠远、深沉的音景。歌曲以“渡越”为核心意象，探讨人生旅途中的离别、孤独、未知与希望。它不仅是个人情感的抒发，也折射了时代的迷惘与寻求，成为巴西全域音乐运动的标志性作品。",
+        "themes": [
+          "人生旅途",
+          "离别",
+          "孤独",
+          "希望",
+          "自我追寻",
+          "未知",
+          "乡愁"
+        ],
+        "keywords": [
+          "米尔顿·纳西门托",
+          "假声",
+          "巴洛克民谣",
+          "全域音乐运动",
+          "巴西",
+          "渡越",
+          "公路",
+          "旅程",
+          "孤寂",
+          "哲思"
+        ],
+        "core_experience": "聆听者在悠扬而略带伤感的旋律与空灵的人声中，沉浸于一种辽阔而内省的孤独感。歌曲引发对过往的追忆、对前路未知的迷茫，以及在此之中依然闪烁的微弱希望。这是一场从现实空间向内心世界的精神渡越，体验交织着哀而不伤的哲思与诗意的宁静。",
+        "experience_introduction": "《Travessia》通过克制而富有张力的器乐编排与米尔顿·纳西门托如天籁般的假声，构建了一个充满广阔空间感和内在深度的听觉世界。歌词以“渡越”为核心隐喻，讲述个体面对人生十字路口的复杂心境。听众在旋律的行进与和声的包裹中，经历从孤寂到释然、从不确定到坦然接受的情感弧线，整个过程犹如一次被音乐引导的精神漫游。"
+      },
+      "experience_vector": {
+        "passion": 0.3,
+        "healing": 0.5,
+        "awe": 0.5,
+        "nostalgia": 0.85,
+        "reflection": 0.9,
+        "romance": 0.1,
+        "tension": 0.3,
+        "warmth": 0.3,
+        "loneliness": 0.9,
+        "hope": 0.6
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.7,
+          "complexity": 0.5,
+          "depth_of_thought": 0.8,
+          "logical_structure": 0.4,
+          "novelty": 0.6,
+          "exploration": 0.7,
+          "ambiguity": 0.6,
+          "predictability": 0.4,
+          "information_density": 0.5,
+          "learning_value": 0.4
+        },
+        "worldview": {
+          "personal_scale": 0.8,
+          "relationship_scale": 0.4,
+          "social_scale": 0.3,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.5,
+          "time_span": 0.3,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.1,
+          "sadness": 0.7,
+          "loneliness": 0.9,
+          "warmth": 0.2,
+          "fear": 0.2,
+          "tension": 0.3,
+          "awe": 0.6,
+          "nostalgia": 0.9,
+          "hope": 0.6,
+          "melancholy": 0.8,
+          "anger": 0.0,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.8,
+          "minimalism": 0.5,
+          "luxury": 0.0,
+          "darkness": 0.4,
+          "brightness": 0.2,
+          "dreamlike": 0.7,
+          "mystery": 0.5,
+          "experimental": 0.4,
+          "classical": 0.6,
+          "modern": 0.3
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.6,
+          "character_growth": 0.5,
+          "world_building": 0.2,
+          "nonlinear_structure": 0.3,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.1,
+          "conflict_intensity": 0.3,
+          "philosophical_depth": 0.8
+        },
+        "social_relationship": {
+          "individualism": 0.9,
+          "collectivism": 0.2,
+          "family": 0.2,
+          "friendship": 0.1,
+          "love": 0.2,
+          "community": 0.1,
+          "competition": 0.0,
+          "cooperation": 0.1,
+          "power_relationship": 0.0,
+          "identity": 0.7
+        },
+        "value": {
+          "freedom": 0.8,
+          "order": 0.1,
+          "truth": 0.6,
+          "beauty": 0.7,
+          "achievement": 0.1,
+          "justice": 0.0,
+          "sacrifice": 0.2,
+          "self_exploration": 0.9,
+          "tradition": 0.3,
+          "change": 0.5,
+          "survival": 0.4,
+          "meaning": 0.8
+        },
+        "behavior": {
+          "curiosity": 0.3,
+          "creation": 0.2,
+          "adventure": 0.3,
+          "reflection": 0.9,
+          "competition": 0.0,
+          "social": 0.1,
+          "discipline": 0.1,
+          "risk": 0.1,
+          "calm": 0.6,
+          "escape": 0.5
+        },
+        "sensory": {
+          "visual_intensity": 0.1,
+          "color_richness": 0.2,
+          "sound_intensity": 0.7,
+          "rhythm_energy": 0.3,
+          "atmosphere": 0.9,
+          "immersion": 0.7
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "巴西全域音乐/巴洛克民谣",
+          "tempo": 0.3,
+          "energy": 0.35,
+          "vocal_style": "抒情假声",
+          "instrumentation": "原声吉他、管弦乐、钢琴、打击乐",
+          "production_style": "温暖、自然、空间感强的录音",
+          "lyrical_theme": "人生旅途、离别、存在哲思",
+          "emotional_scene": "黄昏、旷野、孤独旅途",
+          "cultural_context": "1960年代巴西全域音乐运动"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.3,
+          "explanation": "歌曲情感内敛深切，而非激烈外放的激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.5,
+          "explanation": "忧伤中带有和解感，提供适度的情感抚慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.5,
+          "explanation": "开阔的声场和空灵人声引发适度的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.85,
+          "explanation": "旋律和歌词强烈唤起对过去和离别的怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.9,
+          "explanation": "节奏缓慢、歌词富有哲理，引导听者深度自省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.1,
+          "explanation": "主题聚焦于个人旅程与存在状态，几乎没有浪漫表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.3,
+          "explanation": "整体平和，仅在情绪变化时有轻微张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.3,
+          "explanation": "氛围偏向清冷孤寂，温暖感极为克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.9,
+          "explanation": "歌词、人声及空间感编曲共同营造出强烈的孤独体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.6,
+          "explanation": "在孤寂和离别的底色之下，有对未来的微弱但坚定的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.7,
+          "explanation": "音乐和歌词充满隐喻，哲学思辨性强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.5,
+          "explanation": "编曲融合巴洛克与巴西民谣，和声具有一定复杂度但可接受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.8,
+          "explanation": "深刻探讨人生旅程、存在与选择等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.4,
+          "explanation": "歌曲结构相对传统，不依赖复杂的逻辑链条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "在当时融合巴洛克与传统巴西音乐的风格具有创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.7,
+          "explanation": "核心隐喻鼓励听众探索内心与外部世界的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.6,
+          "explanation": "歌词诗意而开放，允许多角度的个人解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.4,
+          "explanation": "在传统结构基础上融入巴洛克色彩，有一定意外性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.5,
+          "explanation": "通过音乐和歌词传递了适度的文化与情感信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.4,
+          "explanation": "主要获得情感与哲思体验，知识性学习内容较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.8,
+          "explanation": "完全从第一人称视角出发，聚焦个体内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.4,
+          "explanation": "涉及与过去的人和事的告别，但非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.3,
+          "explanation": "社会背景弱化，仅作为时代情绪的潜在投射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "几乎不涉及任何文明层面的宏观叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.5,
+          "explanation": "通过宏大的自然意象与存在反思，触及到宇宙尺度的感怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.3,
+          "explanation": "时间被压缩在人生转折点的当下与对未知未来的眺望中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "内容完全基于现实世界的情感与旅程，无幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.1,
+          "explanation": "音乐传递的情绪以忧伤和内省为主，快乐基本不存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.7,
+          "explanation": "离别和孤独的主题带来了显著的悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.9,
+          "explanation": "从头到尾，孤独感是听众的核心情感体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.2,
+          "explanation": "编曲和人声偏清冷，温暖感非常微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.2,
+          "explanation": "面对未知的迷茫带来一丝恐惧，但非主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.3,
+          "explanation": "歌曲氛围舒缓，张力多源于内心的不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.6,
+          "explanation": "空灵的人声和广阔音景激发对生命旅途的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.9,
+          "explanation": "旋律和歌词充满了对过往的深切怀念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.6,
+          "explanation": "在伤感之下，持续存在对继续前行的坚韧希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.8,
+          "explanation": "融合了悲伤、孤寂和沉思的忧郁是歌曲的核心基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.0,
+          "explanation": "完全没有愤怒、怨恨或攻击性的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "在经历内心挣扎后，歌曲传达出一种接受现实后的平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.8,
+          "explanation": "人声、旋律与编排极其优美，追求纯粹的音乐美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.5,
+          "explanation": "配器并非极简，但以人声为核心，整体表达克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "风格朴实深沉，与任何形式的奢华感无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.4,
+          "explanation": "氛围偏沉重、昏暗，但不到黑暗的程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.2,
+          "explanation": "整体色调阴郁，明亮感仅在希望出现时偶有闪现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.7,
+          "explanation": "假声和空间感混响创造出如梦似幻的聆听体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.5,
+          "explanation": "未来的不确定性和开放式哲学提问增添了些许神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.4,
+          "explanation": "融合巴洛克元素的尝试具有实验性，但并非完全前卫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.6,
+          "explanation": "巴洛克风格的融入赋予了作品浓厚的古典美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.3,
+          "explanation": "更多指向传统和民间音乐的现代演绎，而非城市现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "没有复杂的故事线，仅围绕一个核心隐喻展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.6,
+          "explanation": "对第一人称主体的内心世界有深入的描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.5,
+          "explanation": "表现了从迷茫到接受并继续前行的心理变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.2,
+          "explanation": "未致力于构建虚构世界，场景服务于内心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.3,
+          "explanation": "歌曲主要通过情绪递进而非非线性时间进行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "缓慢的节奏和层层叠加的编排极强地促使听者沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.1,
+          "explanation": "完全静态和内省，无任何动作或外部事件强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.3,
+          "explanation": "冲突是内在的、关于存在抉择的冲突，而非外在对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.8,
+          "explanation": "整首歌围绕人生之旅这一深刻哲学命题展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.9,
+          "explanation": "极度关注个体的内心，强调独自面对世界和人生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.2,
+          "explanation": "仅作为潜在的文化背景，歌曲本身无集体主义表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.2,
+          "explanation": "离别对象可能包含家人，但家庭关系并非主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.1,
+          "explanation": "无明显的友情主题或互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.2,
+          "explanation": "可能有对过去之爱的告别，但核心并非爱情关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.1,
+          "explanation": "脱离具体社群语境，聚焦于个体的普遍性体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "完全没有竞争、对抗、博弈的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.1,
+          "explanation": "未涉及任何形式的合作或协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.0,
+          "explanation": "不涉及任何权力结构、阶层或支配关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.7,
+          "explanation": "在旅途中寻找和确认自我身份是歌曲的核心之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.8,
+          "explanation": "上路、离开、独自面对未知，这是对自由的极致追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.1,
+          "explanation": "作品的气质是打破原有秩序，而非维护。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "寻求人生的真谛和存在的真相是其哲学内核。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.7,
+          "explanation": "通过音乐性本身和内在意义共同追求一种崇高的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.1,
+          "explanation": "不关注外在成就，重点在于过程和内在体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.0,
+          "explanation": "没有涉及任何社会正义或不公的议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "离别本身带有舍弃的意味，但非强调英雄式的牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "整首歌就是一次深刻的内心探索和精神之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.3,
+          "explanation": "音乐形式上融合传统，但核心精神是突破和创新。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.5,
+          "explanation": "作品记录并拥抱人生的变，但基调是面对而非主动求变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.4,
+          "explanation": "在精神层面，涉及如何在人生的虚无中继续存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.8,
+          "explanation": "寻找并构建人生旅途的意义是其终极关怀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.3,
+          "explanation": "更多是面对既定旅途，而非主动探索未知的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.2,
+          "explanation": "未涉及创造或建设性的行为主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.3,
+          "explanation": "旅程本身具有冒险性，但调性是沉思而非刺激的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "作品本身即是沉思的产物，并强烈引导听众内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "不存在任何竞争性行为或要素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.1,
+          "explanation": "行为模式是极其内向和孤独的，避免社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "不涉及关于纪律、秩序或训练的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.1,
+          "explanation": "风险来自未知本身，但并非主动寻求高风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.6,
+          "explanation": "在动荡的情感下，整体呈现出一种内在的平静和接受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.5,
+          "explanation": "离开即是一种从旧处境中的逃离，带有一定逃避色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.1,
+          "explanation": "作为音乐作品，无直接视觉刺激，仅通过歌词引发想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.2,
+          "explanation": "听觉色彩饱和度偏低，偏向幽暗的冷色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.7,
+          "explanation": "人声极具穿透力，编曲层次丰富，声音表现力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "节奏舒缓，能量低落，推动感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "氛围感是其最突出的感官特征，营造出极为独特的聆听场域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "强烈的氛围、空灵的人声和深沉的情感让人极易沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 1.0,
+          "explanation": "明确的巴西全域音乐和巴洛克民谣风格。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.3,
+          "explanation": "歌曲速度缓慢，以营造沉思氛围。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.35,
+          "explanation": "音乐能量内敛，情感深沉而非高亢。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 1.0,
+          "explanation": "标志性的抒情假声风格是其核心特征。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 1.0,
+          "explanation": "以原声吉他、钢琴和管弦乐为基础的古典化编曲。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 1.0,
+          "explanation": "注重自然混响和空间感的制作风格。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 1.0,
+          "explanation": "歌词主题完全围绕旅程、离别和存在反思。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 1.0,
+          "explanation": "唤起孤独的旷野、公路和黄昏等视觉场景。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 1.0,
+          "explanation": "诞生于1960年代巴西全域音乐运动的文化背景。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众体验到一种由空灵人声和开阔编曲塑造的深沉孤寂感。歌曲引导听者进行一场内省之旅，情绪交织着对过往的深切怀念、面对未知的迷茫，以及在伤感底色下依然闪烁的希望。这是一种静谧却不绝望、忧伤却富有诗意的复杂情感体验。",
+        "structure_description": "作品以缓慢的节奏和克制的配器为基底，通过米尔顿·纳西门托极具穿透力的假声作为叙事核心载体。音乐动态平缓，氛围一层层叠加，引导听众从外部的“旅程”意象逐步下沉至内心，完成情绪和哲思的递进。",
+        "cognitive_expression": "歌曲强烈的隐喻性和哲学歌词鼓励抽象的思考与意义的探寻。听众被导向对‘存在’、‘选择’、‘过去与未来’等命题的反思，认知过程以内向的直觉和联想为主，而非分析性的逻辑推演。",
+        "behavioral_tendency_description": "作品激发并奖励深度内省和反思的倾向。它呼应独处、静观的渴望，排斥社交和外部活动。听者被鼓励接受情绪、与不确定性共存，并在安静中找到继续前行的内在动力。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.25,
+        "Ti": 0.45,
+        "Te": 0.05,
+        "Fi": 0.9,
+        "Fe": 0.2,
+        "Si": 0.6,
+        "Se": 0.15,
+        "openness": 0.8,
+        "conscientiousness": 0.3,
+        "extraversion": 0.1,
+        "agreeableness": 0.4,
+        "neuroticism": 0.6,
+        "Assertive": 0.55,
+        "Turbulent": 0.7
+      },
+      "supporting_evidence": [
+        "歌词围绕'渡越'这一核心隐喻展开，描绘独自上路的旅程。",
+        "歌手使用极具辨识度的假声进行演唱，音色如天籁般空灵。",
+        "编曲融合了巴洛克音乐元素和巴西传统民谣风格。",
+        "歌曲的节奏缓慢，营造出一种沉思和内省的氛围。",
+        "器乐编排使用了原声吉他、钢琴和管弦乐，层次丰富而克制。",
+        "歌词反复表达对离别和过去之事的感怀。",
+        "音乐的空间感很强，混响效果营造出空旷与孤寂的感受。",
+        "主题聚焦于个体在人生转折点时的内心挣扎与思辨。",
+        "歌词的提问方式充满哲学意味，追问存在与方向。",
+        "作品是1960年代巴西全域音乐运动的标志性曲目之一。",
+        "整体情绪哀而不伤，在孤寂中始终渗透着一丝对未来的希望。",
+        "歌曲结构相对传统，通过旋律和情感的递进来推进叙事。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

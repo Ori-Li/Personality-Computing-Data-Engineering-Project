@@ -1,0 +1,743 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1964_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "额尔古纳河右岸",
+        "type": "NOVEL",
+        "countryName": "中国",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "鄂温克族最后一位酋长的女人在暮年回忆她与族人在额尔古纳河右岸的生活。作品以驯鹿、森林、风雪、萨满和死亡为经纬，编织出一幅弱小民族在严酷自然与现代文明挤压下的百年生存画卷。叙述沉静、深情，充满生命的脆弱与顽强，以及文化消逝的哀伤。",
+        "themes": [
+          "民族生存",
+          "自然",
+          "记忆与历史",
+          "家庭与部落",
+          "生命与死亡",
+          "传统与现代",
+          "女性",
+          "命运"
+        ],
+        "keywords": [
+          "鄂温克族",
+          "额尔古纳河",
+          "驯鹿",
+          "萨满",
+          "酋长女人",
+          "森林",
+          "迁徙",
+          "死亡",
+          "现代文明",
+          "回忆",
+          "女性视角",
+          "少数民族"
+        ],
+        "core_experience": "读者被带入一个苍老而清澈的女性声音中，体验一种缓慢、深沉、饱含生命韧性与文化失落感的时空漫游。情感在悲伤与温暖间浮动，认知在具体生存细节与宏大变迁之间摇摆，最终获得对另一种生命状态的深刻理解与共情。",
+        "experience_introduction": "作品通过一位九旬女性的个人回忆，将鄂温克族近一个世纪的集体经验娓娓道来。叙事以季节、猎场和生命事件为节点，逐步展开人与自然、传统与变革的冲突。读者在沉静的文字中感受到时间的重量、文化的体温以及人在极端环境下的坚韧与爱。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.62,
+        "awe": 0.68,
+        "nostalgia": 0.92,
+        "reflection": 0.85,
+        "romance": 0.28,
+        "tension": 0.54,
+        "warmth": 0.71,
+        "loneliness": 0.79,
+        "hope": 0.55
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.58,
+          "complexity": 0.60,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.42,
+          "novelty": 0.48,
+          "exploration": 0.66,
+          "ambiguity": 0.44,
+          "predictability": 0.38,
+          "information_density": 0.72,
+          "learning_value": 0.83
+        },
+        "worldview": {
+          "personal_scale": 0.90,
+          "relationship_scale": 0.85,
+          "social_scale": 0.72,
+          "civilization_scale": 0.65,
+          "cosmic_scale": 0.40,
+          "time_span": 0.88,
+          "fantasy_level": 0.08
+        },
+        "emotion": {
+          "happiness": 0.32,
+          "sadness": 0.76,
+          "loneliness": 0.79,
+          "warmth": 0.71,
+          "fear": 0.38,
+          "tension": 0.54,
+          "awe": 0.68,
+          "nostalgia": 0.92,
+          "hope": 0.55,
+          "melancholy": 0.85,
+          "anger": 0.22,
+          "peace": 0.48
+        },
+        "aesthetic": {
+          "beauty": 0.78,
+          "minimalism": 0.45,
+          "luxury": 0.05,
+          "darkness": 0.52,
+          "brightness": 0.28,
+          "dreamlike": 0.36,
+          "mystery": 0.55,
+          "experimental": 0.15,
+          "classical": 0.68,
+          "modern": 0.25
+        },
+        "narrative": {
+          "plot_complexity": 0.52,
+          "character_depth": 0.88,
+          "character_growth": 0.72,
+          "world_building": 0.81,
+          "nonlinear_structure": 0.46,
+          "slow_immersion": 0.87,
+          "action_intensity": 0.18,
+          "conflict_intensity": 0.50,
+          "philosophical_depth": 0.75
+        },
+        "social": {
+          "individualism": 0.38,
+          "collectivism": 0.74,
+          "family": 0.88,
+          "friendship": 0.62,
+          "love": 0.58,
+          "community": 0.82,
+          "competition": 0.12,
+          "cooperation": 0.70,
+          "power_relationship": 0.32,
+          "identity": 0.84
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.42,
+          "truth": 0.60,
+          "beauty": 0.72,
+          "achievement": 0.15,
+          "justice": 0.30,
+          "sacrifice": 0.68,
+          "self_exploration": 0.56,
+          "tradition": 0.92,
+          "change": 0.55,
+          "survival": 0.85,
+          "meaning": 0.78
+        },
+        "behavior": {
+          "curiosity": 0.38,
+          "creation": 0.25,
+          "adventure": 0.30,
+          "reflection": 0.88,
+          "competition": 0.10,
+          "social": 0.55,
+          "discipline": 0.48,
+          "risk": 0.42,
+          "calm": 0.58,
+          "escape": 0.12
+        },
+        "sensory": {
+          "visual_intensity": 0.62,
+          "color_richness": 0.55,
+          "sound_intensity": 0.30,
+          "rhythm_energy": 0.22,
+          "atmosphere": 0.85,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.86,
+          "writing_style": 0.88,
+          "narrative_voice": 0.92,
+          "symbolism": 0.72,
+          "inner_monologue": 0.82,
+          "world_building_depth": 0.83
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "叙述以回忆和静观为主，激情时刻极为克制，整体情绪平稳内敛。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.62,
+          "explanation": "在苦难与死亡中不断出现人与人之间的温情和自然的抚慰，带来疗愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.68,
+          "explanation": "对自然力量、萨满仪式和生命韧性的描写唤起敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.92,
+          "explanation": "整部作品是暮年回忆，对消逝的游猎文化和童年家园充满深沉怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "第一人称追忆促使读者不断反思时间、文明、生存与个人身份。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.28,
+          "explanation": "爱情作为生活的一部分出现，但不是叙事焦点，处理得朴素克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.54,
+          "explanation": "生存危机、疾病和外部压力带来持续但非激烈的紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.71,
+          "explanation": "亲人之间的依恋、部落互助和驯鹿的陪伴营造了稳定的温暖底蕴。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.79,
+          "explanation": "叙述者身边亲人不断离世，个人记忆的孤独感强烈。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.55,
+          "explanation": "尽管充满死亡，生命的延续和新生命的诞生仍透出微弱而坚韧的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.58,
+          "explanation": "叙事以具体生活细节为主，偶尔通过萨满和梦境引入抽象象征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.60,
+          "explanation": "多人物、长时段的事件交织，但不刻意制造复杂结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "对生命、死亡、文明变迁的思考深刻，贯穿于个人回忆之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.42,
+          "explanation": "叙述按时间顺序和记忆流动，不强调逻辑分析或推理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.48,
+          "explanation": "以即将消失的鄂温克游猎文化为题材，在当代小说中较为独特，但表达方式经典。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.66,
+          "explanation": "带领读者深入罕见的自然环境和部落内部规则，完成文化探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.44,
+          "explanation": "叙述清晰，感情明确，很少有故意制造的歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.38,
+          "explanation": "作为回忆录，整体命运走向可预见，但具体死亡事件仍有冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.72,
+          "explanation": "每段散文般细腻的描述蕴含大量民族学细节和自然知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.83,
+          "explanation": "提供了关于鄂温克族历史、习俗、萨满信仰和森林生态的珍贵认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.90,
+          "explanation": "叙事完全聚焦于一个人的生命历程和内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "深刻描绘了与父母、丈夫、子女、族人之间的情感纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.72,
+          "explanation": "展现了鄂温克部落的集体生活、萨满权威和族群命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.65,
+          "explanation": "记录了游猎文明与现代文明的碰撞及前者的衰落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.40,
+          "explanation": "偶尔通过萨满与自然神联系，但未系统构建宇宙论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.88,
+          "explanation": "从童年到九旬，跨越近一个世纪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.08,
+          "explanation": "基本为写实，萨满跳神被视为真实信仰，没有幻想世界的建构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.32,
+          "explanation": "快乐时刻短暂且常被死亡打断，整体基调偏沉重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.76,
+          "explanation": "频繁的死亡和逝去使悲伤成为主要情绪色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.79,
+          "explanation": "老妇独语式的叙述和对亡人的思念营造出深刻的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.71,
+          "explanation": "部落成员间的互助和家庭的温暖时刻鲜明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.38,
+          "explanation": "对野兽、疾病和未知有一定恐惧，但属于生存常态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.54,
+          "explanation": "外部危险和内部矛盾带来稳定但非高强度的紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.68,
+          "explanation": "对大自然威力、萨满力量和生命无常充满敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.92,
+          "explanation": "叙述即为怀旧，对故土、驯鹿和昔人充满不舍。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "新生命诞生和顽强的生存意志提供了一丝希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.85,
+          "explanation": "对消逝文明的哀伤和融入新社会的失落感浓厚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.22,
+          "explanation": "对命运不公或外来压力有轻微的不满，但非主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.48,
+          "explanation": "晚年回忆虽有哀伤，但叙述语气平静，体现了与人生的和解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.78,
+          "explanation": "文字如诗，对自然景色和情感的表达充满美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.45,
+          "explanation": "细节丰满，情感充沛，并非极简风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "描写的是朴素甚至艰苦的生活，没有奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.52,
+          "explanation": "涉及大量死亡、疾病和艰难生存场景，有沉郁色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.28,
+          "explanation": "虽有自然之美，但整体氛围并不明亮欢快。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.36,
+          "explanation": "萨满体验和梦境带有幻感，但日常叙事十分实在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.55,
+          "explanation": "萨满仪式和部分自然现象具有神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "采用传统自述形式，无明显实验技巧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.68,
+          "explanation": "叙事沉稳、庄重，符合经典现实主义的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.25,
+          "explanation": "题材反思现代性，但表达手法并不特意追求现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.52,
+          "explanation": "由众多生活事件组成，无明显复杂主线或多条线索交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.88,
+          "explanation": "对叙述者的内心世界及多位人物的命运均作了深度刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.72,
+          "explanation": "从少女到长者，人物在经历中完成了深刻的认知和情感变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.81,
+          "explanation": "生动完整地构建了鄂温克族的日常生活、精神信仰和自然生态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.46,
+          "explanation": "虽为回忆，整体按自然时序推进，偶有短暂倒叙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.87,
+          "explanation": "叙述节奏舒缓，要求读者静心沉浸于缓慢流淌的记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.18,
+          "explanation": "几乎没有激烈的行动场面，冲突多表现为生老病死。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.50,
+          "explanation": "人与环境、新旧文明的冲突持续存在，但处理克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "对生存、传统、变迁的思考贯穿始终，带有深厚的哲学意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.38,
+          "explanation": "个人命运服从于家族和部落整体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.74,
+          "explanation": "部落为生存单位，共同迁徙、分享和祭祀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.88,
+          "explanation": "家族谱系和血缘联结是最核心的社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.62,
+          "explanation": "与族人之间的深厚情谊在共同生活中得到充分体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.58,
+          "explanation": "夫妻之爱自然深沉，但非叙述重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.82,
+          "explanation": "严格的部落组织和共同的仪式强化了社群感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.12,
+          "explanation": "与严酷自然的斗争多于人际竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.70,
+          "explanation": "狩猎和搬迁等活动高度依赖集体协作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.32,
+          "explanation": "萨满和精神权威存在，但没有复杂的权力斗争叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.84,
+          "explanation": "对民族身份和自身作为酋长之女、女人、母亲的身份有强烈自觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "游猎生活包含自由度，但受自然规则强烈限制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.42,
+          "explanation": "部落有传统秩序，但并非刚性组织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.60,
+          "explanation": "忠实于个人和民族的真实经历。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.72,
+          "explanation": "对自然美和人性美有持续的敏感和描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "不追求个人成就，生存本身即是胜利。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.30,
+          "explanation": "叙事中未凸显对公平或正义的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.68,
+          "explanation": "为部落和亲人多次放弃个人意愿，甚至生命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.56,
+          "explanation": "通过回忆重新理解自我，但更多是理解民族命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.92,
+          "explanation": "对萨满信仰、迁徙习俗和生活方式的坚守是核心内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "被迫接受现代化和政府政策带来的剧变，并对此进行反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.85,
+          "explanation": "在极端环境中维持生命和种族延续是最基本的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.78,
+          "explanation": "反复探索生命的价值、死亡的意义和文化存续的理由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.38,
+          "explanation": "对既有传统和熟悉环境外的事物探索欲不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.25,
+          "explanation": "生活用品制作包含创造，但非艺术性创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.30,
+          "explanation": "迁徙和狩猎带有冒险色彩，但更多是生存必需。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.88,
+          "explanation": "整个叙事就是一场沉静的反思活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.10,
+          "explanation": "叙事中几乎不涉及竞争优势或对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.55,
+          "explanation": "部落是社会性生存，但个人独白和隐居时刻也很多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.48,
+          "explanation": "遵循传统和生存法则要求一定自律，但并非刻板。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.42,
+          "explanation": "面对猛兽和恶劣天气必须承受风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.58,
+          "explanation": "叙述者面对苦难的平静态度和老人的从容令人印象深刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.12,
+          "explanation": "没有逃避现实，而是默默承受和记录。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.62,
+          "explanation": "对森林、河流、驯鹿和星空的视觉描写十分突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "关注光影和自然色彩，但非浓墨重彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.30,
+          "explanation": "提及风声、鹿铃等，但声音并非主要描写维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.22,
+          "explanation": "叙事节奏舒缓，没有高能量节律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "文字营造出极为强烈的森林围抱感与历史苍凉感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "读者极易被抽离现代，完全沉浸在鄂温克世界之中。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.86,
+          "explanation": "语言诗性浓厚，结构看似散乱实则精心组织，文学价值极高。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.88,
+          "explanation": "文笔沉静、深情、细腻，辨识度极强。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.92,
+          "explanation": "采用第一人称老年女性独白，音色独特且贯穿始终。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.72,
+          "explanation": "河流、驯鹿、火神等都承载了丰富的象征意义。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.82,
+          "explanation": "大量篇幅为叙述者的内心感受和追忆。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.83,
+          "explanation": "对鄂温克族物质生活、精神世界和生态关系有极为详尽的构建。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者沉浸在一位九旬鄂温克老妇的缓慢追忆中，体验近一个世纪的游猎生活，共同经历她与族人的出生、相爱、死亡和迁徙。整体情感体验以怀旧、孤寂和深沉的哀伤为基调，中间穿插家庭温暖和自然敬畏。这是一次情感浓烈但节奏平静的内省之旅。",
+        "structure_description": "作品采用第一人称倒叙，以“我”的暮年回忆为框架，按照模糊的时间线索，用许多相对独立的人物命运片段缀合而成。没有强戏剧冲突，而是以季节更替、驯鹿迁移和死亡事件作为节奏节点，形成一种循环往复、缓慢流动的散文式结构。",
+        "cognitive_expression": "文本鼓励反思性认知，要求读者跟随叙述者的记忆进行情感映射和意义连接。通过大量民族志细节和环境描写，激发对鄂温克文化的学习与分析。同时，对生命消逝和文明变迁的反复呈现，引发关于存在、传统与进步的哲学思辨。",
+        "behavioral_tendency_description": "作品强化了静观、回忆和共情的行为倾向。读者被引导放慢心理节奏，转向内心沉静的反思，而不是寻求外部刺激。对传统和家庭的珍视被凸显，奖励对苦难的容忍和对非主流生命方式的尊重。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.30,
+        "Ti": 0.42,
+        "Te": 0.14,
+        "Fi": 0.86,
+        "Fe": 0.60,
+        "Si": 0.90,
+        "Se": 0.28,
+        "openness": 0.65,
+        "conscientiousness": 0.45,
+        "extraversion": 0.22,
+        "agreeableness": 0.68,
+        "neuroticism": 0.72,
+        "Assertive": 0.35,
+        "Turbulent": 0.82
+      },
+      "supporting_evidence": [
+        "叙述者是一位年届九旬的鄂温克族最后一位酋长的女人，整部作品都是她的回忆。",
+        "小说详细描述了鄂温克人饲养驯鹿、随季节迁徙的游猎生活方式。",
+        "大量篇幅涉及萨满信仰，包括跳神治病、祈雨和丧葬仪式。",
+        "故事中多位亲人因疾病、意外和野兽袭击接连死去。",
+        "部落最终在政府政策影响下下山定居，传统生活方式解体。",
+        "叙述者以平静的口吻接受命运，不哀怨，但充满眷恋。",
+        "对额尔古纳河两岸的森林、河流和营地有非常精细的视觉描绘。",
+        "通过“我”的视角展示了鄂温克族内部的人际关系、婚恋和集体劳作。",
+        "驯鹿被当作家庭成员对待，与人的情感联结深厚。",
+        "故事时间跨越从清末到当代的近百年历史。",
+        "文字风格沉静、缓慢，充满诗意的比喻和拟人。",
+        "叙述者不断在现实与梦境、今生与前世的恍惚间切换。",
+        "小说记录了少数民族在现代化过程中的文化失落与身份焦虑。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

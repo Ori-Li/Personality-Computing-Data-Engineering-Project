@@ -1,0 +1,736 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": null,
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "回到釜山港",
+        "type": "MUSIC",
+        "countryName": "韩国",
+        "year": 1975,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《回到釜山港》是赵容弼1975年发行的经典歌曲，以釜山港为背景，通过饱含深情的旋律和歌词，表达对离散兄弟的深切思念与重逢期盼。歌曲融合了韩国传统民谣的抒情特质与当代流行乐的编曲，以其沧桑而富有穿透力的演绎，成为韩民族集体情感与乡愁的象征。",
+        "themes": [
+          "乡愁",
+          "离散",
+          "重逢",
+          "亲情",
+          "故乡",
+          "等待"
+        ],
+        "keywords": [
+          "釜山港",
+          "兄弟",
+          "离散家族",
+          "重逢期盼",
+          "赵容弼",
+          "韩国演歌",
+          "1970年代",
+          "乡愁歌曲",
+          "国民歌曲",
+          "港口意象"
+        ],
+        "core_experience": "受众在聆听过程中体验到深沉的思念与感伤，被浑厚嗓音带入一种对故乡和亲人充满渴望的情感状态，在旋律的起伏中感受到等待的痛苦与重逢的希望交织的复杂情绪。",
+        "experience_introduction": "作品以深情呼唤的旋律开场，赵容弼沧桑而富有质感的嗓音立刻将听众带入一个充满思念的情感空间。歌曲通过反复呼唤兄弟回到釜山港，在歌词的期盼与旋律的凄美之间营造出强烈的乡愁氛围。随着歌曲推进，情感逐渐积聚，从个人的离散之痛升华为民族共同的历史创伤体验，最终在反复的呼唤中留下既伤感又带着一丝希望的余韵，使听众完成一次深层的集体情感共鸣。"
+      },
+      "experience_vector": {
+        "passion": 0.65,
+        "healing": 0.45,
+        "awe": 0.20,
+        "nostalgia": 0.95,
+        "reflection": 0.60,
+        "romance": 0.10,
+        "tension": 0.30,
+        "warmth": 0.55,
+        "loneliness": 0.70,
+        "hope": 0.50
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.25,
+          "complexity": 0.20,
+          "depth_of_thought": 0.40,
+          "logical_structure": 0.15,
+          "novelty": 0.35,
+          "exploration": 0.15,
+          "ambiguity": 0.30,
+          "predictability": 0.70,
+          "information_density": 0.30,
+          "learning_value": 0.45
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.80,
+          "social_scale": 0.50,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.05,
+          "time_span": 0.55,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.80,
+          "loneliness": 0.75,
+          "warmth": 0.50,
+          "fear": 0.05,
+          "tension": 0.25,
+          "awe": 0.10,
+          "nostalgia": 0.95,
+          "hope": 0.55,
+          "melancholy": 0.85,
+          "anger": 0.05,
+          "peace": 0.15
+        },
+        "aesthetic": {
+          "beauty": 0.70,
+          "minimalism": 0.60,
+          "luxury": 0.05,
+          "darkness": 0.25,
+          "brightness": 0.30,
+          "dreamlike": 0.15,
+          "mystery": 0.10,
+          "experimental": 0.15,
+          "classical": 0.75,
+          "modern": 0.30
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.55,
+          "character_growth": 0.05,
+          "world_building": 0.20,
+          "nonlinear_structure": 0.00,
+          "slow_immersion": 0.80,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.35,
+          "philosophical_depth": 0.30
+        },
+        "social_relationship": {
+          "individualism": 0.40,
+          "collectivism": 0.75,
+          "family": 0.90,
+          "friendship": 0.30,
+          "love": 0.50,
+          "community": 0.60,
+          "competition": 0.00,
+          "cooperation": 0.15,
+          "power_relationship": 0.05,
+          "identity": 0.55
+        },
+        "value": {
+          "freedom": 0.20,
+          "order": 0.15,
+          "truth": 0.25,
+          "beauty": 0.60,
+          "achievement": 0.05,
+          "justice": 0.05,
+          "sacrifice": 0.25,
+          "self_exploration": 0.20,
+          "tradition": 0.70,
+          "change": 0.10,
+          "survival": 0.30,
+          "meaning": 0.55
+        },
+        "behavior": {
+          "curiosity": 0.10,
+          "creation": 0.10,
+          "adventure": 0.05,
+          "reflection": 0.70,
+          "competition": 0.00,
+          "social": 0.25,
+          "discipline": 0.10,
+          "risk": 0.05,
+          "calm": 0.20,
+          "escape": 0.20
+        },
+        "sensory": {
+          "visual_intensity": 0.10,
+          "color_richness": 0.15,
+          "sound_intensity": 0.75,
+          "rhythm_energy": 0.30,
+          "atmosphere": 0.85,
+          "immersion": 0.70
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "韩国演歌",
+          "tempo": 0.30,
+          "energy": 0.40,
+          "vocal_style": "沧桑浑厚的男声，充满情感张力与叙事感",
+          "instrumentation": "以管弦乐为基础，融合吉他、钢琴等，编曲传统而抒情",
+          "production_style": "1970年代韩国流行音乐典型制作，注重人声表达与旋律抒情性",
+          "lyrical_theme": "离散、乡愁、兄弟亲情、故乡召唤",
+          "emotional_scene": "悲伤、思念、期盼、深情",
+          "cultural_context": "朝鲜半岛南北分裂背景下的离散家族主题，凝聚民族集体记忆"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.65,
+          "explanation": "歌曲呼唤离散兄弟归来的情感真挚而强烈，在反复的高潮部分表现出深沉的情感投入。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.45,
+          "explanation": "歌曲提供了一定的情感宣泄出口，但其悲伤底色使治愈感并非核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.2,
+          "explanation": "歌曲更强调亲切的呼唤而非宏大或令人敬畏的场景。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.95,
+          "explanation": "整首歌围绕对故乡釜山港和离散兄弟的记忆与思念展开，乡愁是最核心的情感主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.6,
+          "explanation": "歌词引导听众回忆过去并思考离散与等待的意义，具有一定的内省性。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.1,
+          "explanation": "歌曲不描述爱情，仅有的情感表达集中在亲情和对故乡的眷恋上。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.3,
+          "explanation": "歌曲的冲突是内化的思念之痛，而非外在的紧张悬念。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.55,
+          "explanation": "对兄弟的呼唤和对故乡的描述带有亲情的温度，但孤独感稀释了温暖。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.7,
+          "explanation": "一个等待者独自呼唤离去的亲人，孤独成为核心的情感基调之一。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.5,
+          "explanation": "歌词反复呼唤归来，隐含着对重逢的期盼，但整体基调偏向思念的忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.25,
+          "explanation": "歌词使用具体意象如釜山港、兄弟等，思念之情直接明白，抽象程度低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.2,
+          "explanation": "歌曲结构简单，主题集中，没有多线程或复杂的认知结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.4,
+          "explanation": "歌曲承载了民族分裂的历史沉思，超越了单纯的伤感，具有一定的思想深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "歌曲以情感流动而非逻辑论证展开，逻辑结构要求极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.35,
+          "explanation": "将离散主题与大众流行音乐结合，在70年代韩国具有一定的文化开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.15,
+          "explanation": "歌曲不是关于发现或冒险，而是关于回归和等待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.3,
+          "explanation": "思念对象具体，情感明确，没有使用象征或隐喻来制造多义性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.7,
+          "explanation": "传统的民谣结构使旋律和情感发展都在听众预期之内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "歌词内容集中，重复较多，传达的信息量有限但情感浓度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.45,
+          "explanation": "歌曲是了解韩国70年代文化和离散之痛的一个重要窗口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "视角始终来自一个思念兄弟的个人，关注点是个人情感和家庭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.8,
+          "explanation": "作品核心是兄弟之间的亲情纽带与分离关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.5,
+          "explanation": "虽然是个人的呼唤，但离散背景使其具有社会性意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.3,
+          "explanation": "歌曲不影响文明层面的思考，专注个人与家庭的情感世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "不涉及宇宙视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.55,
+          "explanation": "等待跨越了漫长的时间，蕴含了对过去与未来的连接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "完全基于现实世界的港口城市与离散家族。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "歌曲基调为悲伤，几乎没有快乐的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.8,
+          "explanation": "对离散兄弟的深切思念使悲伤成为主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.75,
+          "explanation": "独自在港口等待未归者的意象贯穿全曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.5,
+          "explanation": "对故乡和兄弟的爱带有一丝温暖，但被悲伤和孤独冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "歌曲主要不是营造恐惧或惊悚感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.25,
+          "explanation": "没有强烈的冲突或悬念，只有平静的忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.1,
+          "explanation": "不追求宏伟或令人敬畏的效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.95,
+          "explanation": "全曲是对过去的呼唤和记忆，乡愁是其核心情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.55,
+          "explanation": "在悲伤中始终包含对兄弟归来的期望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.85,
+          "explanation": "旋律和歌词共同营造出浓郁的忧郁和感伤氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "没有针对任何对象的愤怒表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.15,
+          "explanation": "内心因思念而无法获得平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.7,
+          "explanation": "旋律优美动听，在悲伤中表现出一种诗意的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.6,
+          "explanation": "编曲不显繁复，更侧重于突出人声和情感的直接传达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "与奢华无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.25,
+          "explanation": "色调偏向感伤，但并非黑暗或沉重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.3,
+          "explanation": "整体明亮度低，浸润在忧郁中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "风格写实，不追求超现实或梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.1,
+          "explanation": "没有悬念或神秘元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "编曲和结构遵循传统，不具有实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "歌曲具有强烈的传统民谣韵味和古典抒情风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.3,
+          "explanation": "虽有流行乐元素，但内核和编曲都偏向传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.1,
+          "explanation": "歌词构建了一个等待的简单场景，没有复杂情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.55,
+          "explanation": "歌唱者等待兄弟的形象情感深沉，虽无详细背景，但形象丰满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "歌曲展现的是一种持续的情感状态，而非角色的成长过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.2,
+          "explanation": "只简要描绘了釜山港的场景，没有宏大的世界观构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.0,
+          "explanation": "结构是传统的歌曲线性重复。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.8,
+          "explanation": "歌曲节奏缓慢，情感逐渐渗透，引导听众缓慢沉浸于思念之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "无动作元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.35,
+          "explanation": "核心冲突是与亲人的分离，这是一种内化的、低强度的情感冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.3,
+          "explanation": "主题触及了离散、等待和命运，但并未进行深入的哲学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.4,
+          "explanation": "表达的是个人的强烈情感，但核心驱动力是家庭关系而非个人独立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.75,
+          "explanation": "主题与朝鲜民族的集体历史创伤高度相关，强调民族和家庭的纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.9,
+          "explanation": "兄弟亲情是整个歌曲的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.3,
+          "explanation": "不涉及友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.5,
+          "explanation": "歌词中的爱指的是亲情之爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.6,
+          "explanation": "歌曲已经超越了个人层面，成为民族社区共同的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.0,
+          "explanation": "完全没有竞争元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "呼唤归来带有合作与团聚的期望，但不是核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.05,
+          "explanation": "不涉及权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.55,
+          "explanation": "故乡情结是个人与民族身份认同的重要组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.2,
+          "explanation": "不涉及对自由的追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "不强调秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.25,
+          "explanation": "寻求真实情感的表达而非客观真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.6,
+          "explanation": "对音乐美和情感美的追求是作品的重要价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "不关注个人成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "不涉及正义或道德审判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.25,
+          "explanation": "隐含了等待的牺牲，但并非作品主要表达的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.2,
+          "explanation": "更多是情感表达而非内心世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.7,
+          "explanation": "音乐风格和主题思想都深深植根于韩国的传统文化和价值观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.1,
+          "explanation": "歌曲渴望结束分离状态，但更侧重于对不变状态的哀叹而非改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.3,
+          "explanation": "是对离散后生存状态的情感表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.55,
+          "explanation": "寻找与失去的亲人的情感联结是歌曲赋予离散经历的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.1,
+          "explanation": "不鼓励好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.1,
+          "explanation": "不涉及创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "与冒险无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.7,
+          "explanation": "歌曲鼓励听众回忆和反思个人与民族的离散历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.0,
+          "explanation": "完全没有竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "歌曲可以成为社会连接的情感纽带，但其本质是内省的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "不涉及纪律或自我控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.05,
+          "explanation": "与冒险无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.2,
+          "explanation": "不鼓励平静，而是鼓励情感的表达与宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.2,
+          "explanation": "不鼓励逃避，而是直面痛苦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.1,
+          "explanation": "为听觉作品，不依赖视觉元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.15,
+          "explanation": "与色彩丰富度无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.75,
+          "explanation": "赵容弼的嗓音和编曲极具穿透力，声音表现强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.3,
+          "explanation": "节奏缓慢，能量内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "歌曲成功营造出一种浓厚的思念、忧伤、孤独的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.7,
+          "explanation": "强烈的情感表达和氛围能迅速将听众带入其情感世界。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.3,
+          "explanation": "歌曲节奏缓慢，符合抒情演歌的典型特征。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.4,
+          "explanation": "情感能量高但动态能量较低，整体属于静态抒情。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 1.0,
+          "explanation": "赵容弼的演唱风格沧桑浑厚且充满情感张力，是歌曲的灵魂。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 1.0,
+          "explanation": "歌词主题明确围绕离散、乡愁、兄弟亲情与故乡召唤。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 1.0,
+          "explanation": "制作风格体现了1970年代韩国流行音乐的典型特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众被带入一个充满深情思念和忧伤的情感空间，体验到对离散亲人和故乡的强烈乡愁。这种体验以孤独感和悲伤为底色，但也交织着对重逢的一线希望与亲情的温暖。",
+        "structure_description": "歌曲采用传统抒情歌谣的结构，通过主歌铺垫、副歌呼唤的方式，不断重复和强化核心思念主题，以缓慢的节奏和逐步攀升的情感将听众的情绪推向深处。",
+        "cognitive_expression": "作品鼓励记忆和反思，引导听众将个体的思念体验与民族的历史创伤相联系，进行深度的情感内省而非逻辑分析，认知过程高度依赖情感共鸣。",
+        "behavioral_tendency_description": "作品鼓励内省、回忆和情感宣泄，而非对外探索或行动。它呼唤的是情感的联结与回归，强化了听众对家庭和传统价值的依附感。"
+      },
+      "personality_affinity": {
+        "Ni": 0.30,
+        "Ne": 0.10,
+        "Ti": 0.10,
+        "Te": 0.05,
+        "Fi": 0.80,
+        "Fe": 0.75,
+        "Si": 0.85,
+        "Se": 0.15,
+        "openness": 0.30,
+        "conscientiousness": 0.20,
+        "extraversion": 0.15,
+        "agreeableness": 0.65,
+        "neuroticism": 0.70,
+        "Assertive": 0.15,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "歌曲反复呼唤离散的兄弟回到故乡釜山港。",
+        "赵容弼以沧桑浑厚的嗓音演绎全曲。",
+        "歌词持续表达对过去共同生活的怀念。",
+        "旋律具有韩国传统民谣的抒情特质。",
+        "港口作为等待和离别的具体空间贯穿始终。",
+        "歌曲发行于1975年，朝鲜半岛南北分裂状态的背景下。",
+        "编曲以管弦乐为基础，融合吉他与钢琴。",
+        "歌曲节奏缓慢，情感层层递进。",
+        "演唱中通过力度变化表现从思念到呼唤的情感过渡。",
+        "整首歌成为韩民族离散家族集体情感的象征。",
+        "歌词直接描绘了等待者内心的孤独感。",
+        "对港口和故乡的反复咏唱加深了地域归属感。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

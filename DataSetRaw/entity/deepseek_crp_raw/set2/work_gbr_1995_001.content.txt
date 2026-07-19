@@ -1,0 +1,741 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_gbr_1995_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "天生一对",
+        "type": "SCULPTURE",
+        "countryName": "GBR",
+        "year": 1995,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-11-28",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.68,
+        "primaryMediaType": "SCULPTURE"
+      },
+      "semantic": {
+        "summary": "《天生一对》是英国艺术家莎拉·卢卡斯于1995年创作的装置艺术作品。作品将马桶与旧家具等日常现成品并置组装，通过直白甚至粗俗的视觉语言打破传统雕塑的审美规范。作品以幽默挑衅的方式介入性别议题与阶级品味，呈现出一种对日常生活的荒诞转化，是YBA运动中对传统艺术观念和资产阶级趣味的直接冲击。",
+        "themes": [
+          "性别",
+          "反叛",
+          "日常荒诞",
+          "阶级",
+          "品味批判",
+          "幽默",
+          "身体"
+        ],
+        "keywords": [
+          "现成品",
+          "马桶",
+          "旧家具",
+          "YBA",
+          "莎拉·卢卡斯",
+          "装置艺术",
+          "性别政治",
+          "荒诞",
+          "挑衅",
+          "双关语"
+        ],
+        "core_experience": "观者在面对粗俗现成品的日常性与其作为艺术品的错位感中，经历从不适、错愕到会心一笑的情绪转换，体验一种反美学、反崇高的挑衅式幽默与对既定社会规范的解构快感。",
+        "experience_introduction": "作品通过将低俗、私密的日常物件直接转化为艺术主体，刻意制造审美冒犯。观者被迫直面被常规品味系统排斥的物品，这种视觉冲击首先引发不适与困惑，进而转化为对艺术边界和性别刻板印象的反思性幽默。作品不提供任何视觉愉悦，而是通过挑衅姿态释放一种解放性的批判能量。"
+      },
+      "experience_vector": {
+        "passion": 0.18,
+        "healing": 0.05,
+        "awe": 0.08,
+        "nostalgia": 0.22,
+        "reflection": 0.78,
+        "romance": 0.02,
+        "tension": 0.65,
+        "warmth": 0.04,
+        "loneliness": 0.35,
+        "hope": 0.08
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.85,
+          "complexity": 0.62,
+          "depth_of_thought": 0.68,
+          "logical_structure": 0.12,
+          "novelty": 0.88,
+          "exploration": 0.52,
+          "ambiguity": 0.80,
+          "predictability": 0.05,
+          "information_density": 0.55,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.72,
+          "relationship_scale": 0.65,
+          "social_scale": 0.82,
+          "civilization_scale": 0.22,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.40
+        },
+        "emotion": {
+          "happiness": 0.08,
+          "sadness": 0.05,
+          "loneliness": 0.32,
+          "warmth": 0.04,
+          "fear": 0.10,
+          "tension": 0.68,
+          "awe": 0.06,
+          "nostalgia": 0.25,
+          "hope": 0.05,
+          "melancholy": 0.45,
+          "anger": 0.22,
+          "peace": 0.04
+        },
+        "aesthetic": {
+          "beauty": 0.02,
+          "minimalism": 0.35,
+          "luxury": 0.05,
+          "darkness": 0.48,
+          "brightness": 0.06,
+          "dreamlike": 0.08,
+          "mystery": 0.10,
+          "experimental": 0.95,
+          "classical": 0.02,
+          "modern": 0.82
+        },
+        "narrative": {
+          "plot_complexity": 0.02,
+          "character_depth": 0.05,
+          "character_growth": 0.02,
+          "world_building": 0.05,
+          "nonlinear_structure": 0.08,
+          "slow_immersion": 0.12,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.78,
+          "philosophical_depth": 0.72
+        },
+        "social": {
+          "individualism": 0.42,
+          "collectivism": 0.05,
+          "family": 0.08,
+          "friendship": 0.02,
+          "love": 0.02,
+          "community": 0.05,
+          "competition": 0.05,
+          "cooperation": 0.02,
+          "power_relationship": 0.55,
+          "identity": 0.80
+        },
+        "value": {
+          "freedom": 0.75,
+          "order": 0.02,
+          "truth": 0.42,
+          "beauty": 0.05,
+          "achievement": 0.08,
+          "justice": 0.05,
+          "sacrifice": 0.02,
+          "self_exploration": 0.35,
+          "tradition": 0.02,
+          "change": 0.58,
+          "survival": 0.05,
+          "meaning": 0.42
+        },
+        "behavior": {
+          "curiosity": 0.58,
+          "creation": 0.62,
+          "adventure": 0.22,
+          "reflection": 0.80,
+          "competition": 0.05,
+          "social": 0.12,
+          "discipline": 0.02,
+          "risk": 0.68,
+          "calm": 0.05,
+          "escape": 0.08
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.15,
+          "sound_intensity": 0.02,
+          "rhythm_energy": 0.08,
+          "atmosphere": 0.72,
+          "immersion": 0.35
+        }
+      },
+      "media_vector": {
+        "sculpture_vector": {
+          "three_dimensionality": 0.55,
+          "material_expression": 0.88,
+          "body_representation": 0.58,
+          "spatial_presence": 0.72,
+          "symbolic_power": 0.90,
+          "craftsmanship": 0.05
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.18,
+          "explanation": "作品以冷静的嘲讽为主要基调，并未表现出强烈的情感投入，因此热情极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品的挑衅姿态和粗粝视觉并非为安抚或治愈观众，因此治愈感极弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.08,
+          "explanation": "虽然颠覆性观念可能引发惊叹，但作品的粗俗日常物消解了崇高感，因此敬畏很低。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.22,
+          "explanation": "旧家具作为现成品可能唤起微弱的怀旧联想，但作品的批判性主导了体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.78,
+          "explanation": "作品通过符号冲突迫使观众反思艺术边界、性别角色和社会品味，反思性极强。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.02,
+          "explanation": "作品完全缺失任何浪漫元素或甜蜜气息，浪漫感几乎为零。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.65,
+          "explanation": "低俗物与高雅艺术空间的并置制造了持续的审美紧张和心理不适感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.04,
+          "explanation": "冰冷的现成品和挑衅的幽默完全不提供温暖或亲切的体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.35,
+          "explanation": "废弃家具和被排斥的物品可能隐含某种孤寂感，但并非作品核心情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.08,
+          "explanation": "作品以解构为主，并未指向任何乌托邦愿景或提供希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.85,
+          "explanation": "作品完全依赖符号隐喻和概念并置传达信息，而非直白陈述，抽象程度很高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.62,
+          "explanation": "作品涉及性别、阶级、艺术体制等多层意指系统，但视觉构成本身相对简单。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.68,
+          "explanation": "作品激发对艺术本质和社会规范的哲学反思，思想深度较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.12,
+          "explanation": "作品采用非逻辑的荒诞并置，不遵循线性逻辑，而是依赖直觉和冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.88,
+          "explanation": "在YBA运动背景下，将粗俗现成品转化为艺术宣言具有当时的高度创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.52,
+          "explanation": "作品邀请观众探索艺术禁忌和社会身份的边界，但仅限于概念层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.80,
+          "explanation": "作品没有明确答案，意义完全开放，依赖观众的个人解读，歧义性很高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.05,
+          "explanation": "将马桶作为艺术主体完全打破预期，因此可预测性极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "作品在有限物件中浓缩了多层文化符号，信息密度中等偏上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.60,
+          "explanation": "通过接触作品，观众能了解当代艺术批判机制和YBA运动策略，具有学习价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.72,
+          "explanation": "作品涉及身体、私密空间和个人品味，具有强烈的个人尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "父权社会下的性别关系是作品直接探讨的核心议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.82,
+          "explanation": "作品直接挑战艺术体制、阶级品味等社会结构，社会尺度非常高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.22,
+          "explanation": "虽然涉及广义西方艺术史，但并未直接构建文明尺度的叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "作品完全聚焦于人类社会内部议题，无关宇宙尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "作为静态装置，作品捕捉的是一个错位的瞬间，时间跨度极短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.40,
+          "explanation": "虽然使用真实现成品，但荒诞的并置创造了一种超现实的脱离感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.08,
+          "explanation": "幽默是讽刺性的，并非带来纯粹喜悦，快乐感很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "作品以犀利挑衅为主，并未渲染悲伤情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.32,
+          "explanation": "被遗弃的家具暗示了孤立的个体存在，带有一定孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.04,
+          "explanation": "冷酷的材质和攻击性的观念不留温情余地，几乎没有温暖感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.10,
+          "explanation": "挑衅性可能带来轻微的不安，但并非恐怖，恐惧感很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.68,
+          "explanation": "对规范的冒犯和视觉冲击制造了明显的心理紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.06,
+          "explanation": "作品反崇高的本质使得敬畏感极低，更多是错愕。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.25,
+          "explanation": "旧物本身的年代感带来轻微怀旧，但被整体语境压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "批判性强而建设性弱，几乎不传达希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.45,
+          "explanation": "废弃旧物和失败的理想隐含了一种沉郁的忧郁气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.22,
+          "explanation": "挑衅之下是克制的愤怒，但被幽默包装，愤怒并非直接宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.04,
+          "explanation": "作品充满冲突与不适，完全背离平静和谐的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.02,
+          "explanation": "作品刻意追求反美学，传统意义上的美几乎为零。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.35,
+          "explanation": "物件组合相对简洁，但未达到极简主义的纯粹，具有一定简约性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "使用破旧日常物明确拒绝了奢华和高雅，奢华感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.48,
+          "explanation": "粗粝、攻击性的基调带来一种阴暗和沉重的压抑感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.06,
+          "explanation": "缺乏任何明快或轻盈的视觉元素，明亮度很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.08,
+          "explanation": "作品扎根于粗俗现实，而非梦幻，梦幻感极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.10,
+          "explanation": "符号意指虽然隐晦，但视觉呈现直白粗暴，神秘感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.95,
+          "explanation": "作为YBA运动典型，作品在观念、材料和展示上具有极强的实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.02,
+          "explanation": "作品是反经典、反传统的，古典感完全缺失。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.82,
+          "explanation": "作品的核心精神是当代艺术的反叛和突破，现代感强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.02,
+          "explanation": "作为静态装置，没有情节发展，情节复杂性极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "作品不刻画具体人物，角色深度极弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.02,
+          "explanation": "无叙事，故无人物成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.05,
+          "explanation": "作品未构建幻想或独立的叙事世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.08,
+          "explanation": "作为空间艺术，不受线性时间约束，但不具备复杂的非线性叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.12,
+          "explanation": "强烈的视觉冲击是即时性的，不需要渐进式沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "作品是静态的，没有物理动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.78,
+          "explanation": "作品核心即观念冲突：艺术与非艺术、高雅与低俗、男性与女性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.72,
+          "explanation": "作品触及艺术本质论、性别政治等深层哲学议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.42,
+          "explanation": "挑战社会规范的姿态隐含个人主义，但强烈的身份政治又指向群体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.05,
+          "explanation": "作品反对传统秩序和集体品味，不宣扬集体主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.08,
+          "explanation": "虽然标题指向‘一对’，但并非赞美家庭价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.02,
+          "explanation": "作品中不存在友谊的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.02,
+          "explanation": "作品解构而非颂扬浪漫爱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.05,
+          "explanation": "作品不强调社群联结，更多是个人与体制的对峙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.05,
+          "explanation": "不涉及显性竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.02,
+          "explanation": "无合作主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.55,
+          "explanation": "作品揭示了艺术场域和性别场域中的权力不对等关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.80,
+          "explanation": "性别身份和艺术身份是作品的核心母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.75,
+          "explanation": "作品践行绝对的艺术表达自由，并反抗束缚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.02,
+          "explanation": "作品旨在打破既定秩序，而非维护。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.42,
+          "explanation": "试图通过挑衅揭露被掩盖的虚伪，指向某种真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "明确拒绝传统美，不以美为价值追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.08,
+          "explanation": "不宣扬成功或成就的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.05,
+          "explanation": "涉及公平但不聚焦于正义程序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.02,
+          "explanation": "无牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.35,
+          "explanation": "观众在冲击中反观自身品味，具有一定的自我探索引导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.02,
+          "explanation": "作品旗帜鲜明地反传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.58,
+          "explanation": "推动艺术语言和社会观念的变革是作品的根本动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.05,
+          "explanation": "不涉及生存议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.42,
+          "explanation": "在虚无和荒诞中重新定义物与性的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.58,
+          "explanation": "反常的并置引发观众对背后意图的强烈好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.62,
+          "explanation": "作品本身就是创造力的极端展现，鼓励打破常规的创作思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.22,
+          "explanation": "观念上的冒险性存在，但不涉及物理或叙事冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.80,
+          "explanation": "作品核心导向是智识上的反思和审视。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "不鼓励竞争行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.12,
+          "explanation": "虽然涉及社会议题，但观看体验是个人内省式的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.02,
+          "explanation": "作品的姿态是反约束的，不鼓励纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.68,
+          "explanation": "艺术家和观众都在冒犯常规的风险中完成艺术体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "作品激发的是波动而非平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.08,
+          "explanation": "作品直面现实禁忌，不提供逃避主义体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "粗粝的质感和挑衅的组合带来强烈的视觉冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.15,
+          "explanation": "旧家具和白色陶瓷的色彩搭配偏向素朴，色彩不丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.02,
+          "explanation": "为纯视觉装置，无声音元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.08,
+          "explanation": "静态展示，不具备节奏或动态能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.72,
+          "explanation": "作品成功营造了一种紧张、粗俗且带有攻击性的特定氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.35,
+          "explanation": "因物件尺度接近真实，有一定沉浸感，但强烈的间离效果阻碍了完全沉浸。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.three_dimensionality",
+          "score": 0.55,
+          "explanation": "作为空间装置，具有一定的三维性，但更接近现成品组合而非传统雕塑。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.material_expression",
+          "score": 0.88,
+          "explanation": "陶瓷、木材、织物的原真性与破旧感被直接作为表达的核心语言。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.body_representation",
+          "score": 0.58,
+          "explanation": "马桶作为与身体私密相关的现成品，强烈暗示了身体的存在与功能。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.spatial_presence",
+          "score": 0.72,
+          "explanation": "作品在空间中构筑了一个具有环境感的场域，占据真实物理空间。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.symbolic_power",
+          "score": 0.90,
+          "explanation": "物件的选择和组织具有极强且尖锐的符号象征力量。"
+        },
+        {
+          "dimensionPath": "media_vector.sculpture_vector.craftsmanship",
+          "score": 0.05,
+          "explanation": "作品核心是现成品观念，刻意排除手工技艺，工艺感极低。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众的核心体验是一场观念上的挑衅与冒犯。现成品的粗俗感与艺术殿堂的神圣感发生激烈碰撞，带来尖锐的审美不适与心理错愕。随后，这种冲击被讽刺性的双关标题转化为一种带有智识优越感的幽默，使观众在有距离的反思中获得解构权威与规范的痛快。",
+        "structure_description": "作品采用空间并置的语法，而非时间叙事。破旧家具与白色马桶在物理空间中直接对峙，利用现成品自身的符号属性形成视觉上的论辩结构。作品不依靠复杂的组合或修饰，而是以极简而精准的物料配置实现最大化的冲突表达。",
+        "cognitive_expression": "作品强烈依赖符号学解读与批判性思维。观众需要调用对艺术史、阶级品味和性别角色的既有认知，来解码物件组合的荒诞逻辑。它排斥感性直观的审美，要求一种高度理性、反讽的认知参与。",
+        "behavioral_tendency_description": "作品鼓励一种精神上的反叛与破除常规的行为倾向。它不引导合作或和谐，而是唤醒内在的质疑冲动，怂恿观众蔑视陈规，在智识上冒险。观看过程是对道德和品味界限的试探，最终导向一种解放性的自我肯定。"
+      },
+      "personality_affinity": {
+        "Ni": 0.60,
+        "Ne": 0.85,
+        "Ti": 0.75,
+        "Te": 0.25,
+        "Fi": 0.58,
+        "Fe": 0.15,
+        "Si": 0.18,
+        "Se": 0.80,
+        "openness": 0.95,
+        "conscientiousness": 0.05,
+        "extraversion": 0.42,
+        "agreeableness": 0.05,
+        "neuroticism": 0.72,
+        "Assertive": 0.75,
+        "Turbulent": 0.55
+      },
+      "supporting_evidence": [
+        "作品直接使用了真实的旧马桶和废弃家具作为核心构成元素。",
+        "材质表面的磨损和污渍未被美化，刻意强化了粗粝的生活感。",
+        "日常废弃物的组合打破了美术馆白盒子空间的神圣感。",
+        "视觉形式极度简洁，物件数量有限，依赖现成品自身属性。",
+        "标题使用了双关语，将生理性别与配对关系并置。",
+        "作品创作于1990年代英国青年艺术家运动兴起的激进背景中。",
+        "陶瓷马桶的洁白与旧家具的陈旧色彩形成材质对比。",
+        "作品没有底座或保护罩，物件直接放置于地面。",
+        "组合方式具有随意感，拒绝了传统雕塑的经典构图。",
+        "作品将私密的卫浴空间象征物暴露于公共审视之下。",
+        "展示方式不提供具体说明，迫使观众自主解读。",
+        "物品本身是标准工业产品，消解了独一性的艺术光环。",
+        "破旧状态暗示了时间的侵蚀和物品的废弃命运。",
+        "作品不包含任何可具象识别的人物形象或叙事线索。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

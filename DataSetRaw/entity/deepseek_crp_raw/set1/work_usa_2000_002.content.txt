@@ -1,0 +1,719 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_2000_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "The Shaming of the True",
+        "type": "MUSIC",
+        "countryName": "USA",
+        "year": 2000,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "一张逝世后发行的叙事性摇滚歌剧概念专辑，以线性叙事讲述一位年轻音乐人约翰尼·萨斯喀彻温追寻艺术理想却被音乐工业欺骗、剥削和符号化扭曲的悲喜剧故事。作品融合前卫摇滚、硬摇滚与民谣元素，通过多角色视角和多乐器编排构建戏剧张力，探讨艺术纯粹性与商业体制的冲突、创作者身份异化与个人信念崩溃的主题，整体体验充满讽刺、悲怆与自省。",
+        "themes": [
+          "艺术与商业的冲突",
+          "身份认同与异化",
+          "梦想的幻灭",
+          "体制对个体的压迫",
+          "自我追寻与迷失",
+          "讽刺与悲喜剧"
+        ],
+        "keywords": [
+          "概念专辑",
+          "摇滚歌剧",
+          "音乐工业批判",
+          "创作者困境",
+          "多重角色视角",
+          "前卫摇滚",
+          "逝世后发行",
+          "约翰尼·萨斯喀彻温",
+          "讽刺叙事"
+        ],
+        "core_experience": "听众跟随一个天真理想主义者的视角进入音乐工业，逐步体验其被欺骗、操纵和符号化的过程，产生从共情、愤怒到悲悯的复杂情感起伏，最终停留在对艺术纯粹性与体制异化的深刻省思。",
+        "experience_introduction": "作品通过多角色演唱和线性叙事推进，让听众从旁观者和主人公双重角度体验一个理想主义者被体制碾碎的过程。音乐风格在激昂、荒诞、悲伤之间切换，营造出讽刺、无奈与自省交织的听觉旅程，引导听众在情感共鸣中持续审视艺术追求与商业现实的矛盾。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.15,
+        "awe": 0.55,
+        "nostalgia": 0.25,
+        "reflection": 0.88,
+        "romance": 0.10,
+        "tension": 0.70,
+        "warmth": 0.18,
+        "loneliness": 0.62,
+        "hope": 0.22
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.65,
+          "complexity": 0.78,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.70,
+          "novelty": 0.72,
+          "exploration": 0.40,
+          "ambiguity": 0.60,
+          "predictability": 0.38,
+          "information_density": 0.75,
+          "learning_value": 0.68
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.55,
+          "social_scale": 0.78,
+          "civilization_scale": 0.30,
+          "cosmic_scale": 0.10,
+          "time_span": 0.50,
+          "fantasy_level": 0.15
+        },
+        "emotion": {
+          "happiness": 0.12,
+          "sadness": 0.75,
+          "loneliness": 0.72,
+          "warmth": 0.15,
+          "fear": 0.35,
+          "tension": 0.70,
+          "awe": 0.40,
+          "nostalgia": 0.20,
+          "hope": 0.18,
+          "melancholy": 0.78,
+          "anger": 0.65,
+          "peace": 0.08
+        },
+        "aesthetic": {
+          "beauty": 0.55,
+          "minimalism": 0.22,
+          "luxury": 0.10,
+          "darkness": 0.68,
+          "brightness": 0.20,
+          "dreamlike": 0.30,
+          "mystery": 0.48,
+          "experimental": 0.62,
+          "classical": 0.35,
+          "modern": 0.60
+        },
+        "narrative": {
+          "plot_complexity": 0.72,
+          "character_depth": 0.78,
+          "character_growth": 0.68,
+          "world_building": 0.50,
+          "nonlinear_structure": 0.45,
+          "slow_immersion": 0.55,
+          "action_intensity": 0.35,
+          "conflict_intensity": 0.82,
+          "philosophical_depth": 0.75
+        },
+        "social_relationship": {
+          "individualism": 0.82,
+          "collectivism": 0.20,
+          "family": 0.18,
+          "friendship": 0.30,
+          "love": 0.15,
+          "community": 0.22,
+          "competition": 0.70,
+          "cooperation": 0.12,
+          "power_relationship": 0.80,
+          "identity": 0.90
+        },
+        "value": {
+          "freedom": 0.60,
+          "order": 0.25,
+          "truth": 0.82,
+          "beauty": 0.55,
+          "achievement": 0.45,
+          "justice": 0.35,
+          "sacrifice": 0.48,
+          "self_exploration": 0.85,
+          "tradition": 0.15,
+          "change": 0.30,
+          "survival": 0.58,
+          "meaning": 0.80
+        },
+        "behavior": {
+          "curiosity": 0.40,
+          "creation": 0.78,
+          "adventure": 0.30,
+          "reflection": 0.88,
+          "competition": 0.60,
+          "social": 0.25,
+          "discipline": 0.35,
+          "risk": 0.38,
+          "calm": 0.18,
+          "escape": 0.42
+        },
+        "sensory": {
+          "visual_intensity": 0.30,
+          "color_richness": 0.40,
+          "sound_intensity": 0.78,
+          "rhythm_energy": 0.65,
+          "atmosphere": 0.80,
+          "immersion": 0.75
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "前卫摇滚",
+          "tempo": 0.58,
+          "energy": 0.70,
+          "vocal_style": "多角色演唱",
+          "instrumentation": "吉他、键盘、贝斯、鼓、管弦乐编排",
+          "production_style": "多层次录音室制作",
+          "lyrical_theme": "音乐工业批判、身份认同、艺术纯粹性",
+          "emotional_scene": "叙事驱动、戏剧性对比",
+          "cultural_context": "1990年代末美国音乐工业商业化背景"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "音乐表达充满力量感和情绪张力，尤其在抗议和愤怒段落中能量强烈，传递出对艺术理想的执着。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "故事以悲剧和讽刺收场，缺乏安抚与和解，未提供治愈性情感出口。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.55,
+          "explanation": "复杂的多乐器编排和戏剧性结构展现出较高的音乐艺术造诣，能引发对创作者才华的赞叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "叙事聚焦于当代音乐工业，未明显回溯过往时代或唤起怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.88,
+          "explanation": "作品核心驱动听众对艺术纯粹性、商业体制和创作者身份进行深刻反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.10,
+          "explanation": "浪漫爱情并非作品主题，整体叙事围绕职业命运展开。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.70,
+          "explanation": "主人公与音乐工业的对立持续升级，音乐中的不和谐和戏剧冲突不断累积张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.18,
+          "explanation": "人际关系刻画较少且多带有利用性质，整体氛围偏冷峻和疏离。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.62,
+          "explanation": "主角在体制压迫下逐渐孤立，其内心孤独感贯穿叙事后半段。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.22,
+          "explanation": "结局带有讽刺性毁灭，希望感被刻意压制，仅保留极微弱的理想主义残余。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.65,
+          "explanation": "通过概念专辑和讽刺叙事构建隐喻体系，需要听众从具体故事中抽象出制度批判主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.78,
+          "explanation": "多角色视角、非线性叙事元素和多变音乐风格增加了理解难度，需要反复聆听才能把握全貌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "深入探讨艺术异化、身份商品化等复杂命题，思想层次丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.70,
+          "explanation": "线性故事主线清晰，但嵌套的讽刺和角色关系需要一定逻辑梳理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.72,
+          "explanation": "以摇滚歌剧形式系统批判音乐工业本身，在概念专辑传统中形式与内容高度统一，具有创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.40,
+          "explanation": "主要限于音乐工业内部世界，未展开地理或广阔未知领域的探索，但仍有对内心世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.60,
+          "explanation": "讽刺口吻和悲喜剧基调使部分情节和角色动机带有模糊性，需听众自行判断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.38,
+          "explanation": "走向毁灭的悲剧主线虽可预见，但具体情节转折和讽刺方式仍有意外之处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.75,
+          "explanation": "音乐编排、歌词叙事和角色刻画均承载大量信息，单次聆听难以完全消化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.68,
+          "explanation": "听众可透过作品了解音乐工业运作机制、创作者困境及艺术商业化历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "叙事完全围绕主角的个人命运、内心挣扎和身份危机展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.55,
+          "explanation": "主角与经纪人、商业伙伴的互动是重要推动力，但关系多建立在利益之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.78,
+          "explanation": "作品以个人遭遇映射整个音乐工业制度和商业社会规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.30,
+          "explanation": "焦点在特定行业而非文明演进，但触及商业文化这一文明特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "叙事完全植根于现实社会，不涉及宇宙或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.50,
+          "explanation": "涵盖主角职业生涯从起步到毁灭的数年跨度，时间上有一定延伸但非长河式叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.15,
+          "explanation": "基于现实世界，无超自然或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.12,
+          "explanation": "整体情感基调悲怆，仅少量早期段落带有天真的快乐，且很快被打破。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.75,
+          "explanation": "梦想幻灭和个体毁灭构成核心情感体验，悲伤持续弥漫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.72,
+          "explanation": "主角在体制中逐渐孤立无援，结尾深陷孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "作品中缺乏真诚的温情人际关系，情感色调偏冷。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.35,
+          "explanation": "存在对失败和异化的焦虑，但非恐怖惊悚，恐惧程度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.70,
+          "explanation": "叙事冲突和音乐编排持续制造紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.40,
+          "explanation": "音乐技艺令人赞叹，但叙事所激发的敬畏感让位于讽刺和悲哀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.20,
+          "explanation": "未刻意营造怀旧氛围，聚焦于当下批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.18,
+          "explanation": "希望被刻意压制，结局带有毁灭性的讽刺感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.78,
+          "explanation": "对理想逝去的哀悼和无奈构成贯穿始终的忧伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.65,
+          "explanation": "对音乐工业的讽刺和批判蕴含明显愤怒情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.08,
+          "explanation": "全篇充满冲突和不安，几乎不存在平和宁静的时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.55,
+          "explanation": "音乐旋律和编排具有艺术美感，但服务于黑暗主题，美是扭曲的、破碎的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.22,
+          "explanation": "编曲层次丰富，倾向于复杂编排而非极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "主题批判商业化，与奢华美学无关，整体质感偏批判现实主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.68,
+          "explanation": "叙事和音乐氛围趋向阴暗，表现体系腐败和个体毁灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.20,
+          "explanation": "仅开端有短暂明亮色彩，整体明亮感很低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.30,
+          "explanation": "叙事写实，讽刺感强，不突出梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.48,
+          "explanation": "叙事本身不制造悬疑，但部分讽刺性转折带来一定的戏剧性神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.62,
+          "explanation": "摇滚歌剧的形式、多角色叙事与多乐器融合展现出实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "部分管弦乐编排借用古典元素，但核心仍是现代摇滚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.60,
+          "explanation": "制作和主题是当代的，反映现代音乐工业问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.72,
+          "explanation": "线性的职业轨迹中嵌套了多层欺骗和讽刺，情节波折较多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.78,
+          "explanation": "以主角内心变化和多个功能性配角展现丰富的人物关系与深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.68,
+          "explanation": "主角经历的是从天真理想到幻灭崩溃的负增长或反向变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.50,
+          "explanation": "构建了音乐工业内部运作的微观世界，较为具体但不追求宏大的世界观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.45,
+          "explanation": "以线性时间为主，夹杂少量回顾，非线性程度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.55,
+          "explanation": "需要通过整张专辑的连续聆听逐渐沉浸于故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.35,
+          "explanation": "主要通过对话和心理冲突而非肢体动作推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.82,
+          "explanation": "个人与体制、理想与现实的强烈冲突贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.75,
+          "explanation": "深入探讨了艺术真实、个体身份商品化等哲学议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.82,
+          "explanation": "聚焦于单一个体的挣扎与独立面对体系压迫的命运。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.20,
+          "explanation": "群体合作被描绘为虚伪的利益结合，集体价值被弱化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.18,
+          "explanation": "家庭关系在叙事中几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.30,
+          "explanation": "友谊被描绘得脆弱且易被利益损害。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.15,
+          "explanation": "爱情不是主题，几乎未涉及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.22,
+          "explanation": "未形成健康积极的社区，仅存在行业网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.70,
+          "explanation": "音乐工业内部的资源争夺和地位竞争是重要背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.12,
+          "explanation": "合作多被描绘为带有剥削性质的陷阱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.80,
+          "explanation": "体制对个体的碾压性权力关系是核心冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.90,
+          "explanation": "主角的艺术家身份被工业扭曲和商品化，身份危机是首要主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.60,
+          "explanation": "对艺术创作自由的渴望是主角的驱动力，同时也是被剥夺的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "体制的规则是负面的压迫力量，不被视为正面价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.82,
+          "explanation": "对真实的追求和被虚假承诺的伤害构成强烈价值冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.55,
+          "explanation": "艺术美是主角追求的，但在扭曲过程中被摧残。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.45,
+          "explanation": "主角渴望世俗成功，但这反而成为被控制的弱点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.35,
+          "explanation": "结局缺乏正义，导致不公感强烈，但正义并非核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.48,
+          "explanation": "主角牺牲了真实自我，这是一种被动的、悲剧性的牺牲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "整部作品是主角对艺术自我的探索和伴随而来的身份撕裂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "未强调传统，反而挑战了当代商业社会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.30,
+          "explanation": "变化是负面的堕落，而非积极的变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.58,
+          "explanation": "主角在体制内的艰难求生，包括精神和事业生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.80,
+          "explanation": "对艺术创作意义和个人存在意义的追寻与幻灭是作品根本。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.40,
+          "explanation": "主角并非出于好奇心探索，而是受理想驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.78,
+          "explanation": "主角的核心行为是音乐创作，且创作过程本身被展现为与体制的角力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.30,
+          "explanation": "非冒险故事，而是进入既定系统的挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.88,
+          "explanation": "作品引导听众对艺术与商业进行深刻反思，主角自身也在反复自省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.60,
+          "explanation": "体现了音乐工业中资源和声誉的竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "社交多被描绘为虚伪的商业应酬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.35,
+          "explanation": "音乐创作需要专业性，但并非纪律性的养成故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.38,
+          "explanation": "主角入行本身是冒险，但并非高风险高回报的刺激叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.18,
+          "explanation": "作品充满焦躁与冲突，平静的情境极少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.42,
+          "explanation": "结局的毁灭带有一种被动的、悲剧性的逃离意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.30,
+          "explanation": "作为音乐作品，视觉强度来自专辑封面和听众想象，而非直接视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.40,
+          "explanation": "音乐色彩丰富，但整体色调偏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.78,
+          "explanation": "前卫摇滚的复杂编曲和动态对比营造出较高的声音强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.65,
+          "explanation": "节奏在激昂与沉郁间切换，推动叙事情绪，具有较强能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "整体营造出浓烈的黑色讽刺和悲剧氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.75,
+          "explanation": "连贯的叙事和丰富的声音细节容易将听众拉入故事世界。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.58,
+          "explanation": "节拍快慢交替，根据剧情需要变化。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.70,
+          "explanation": "硬摇滚段落的爆发力和前卫摇滚的动态对比赋予音乐较高能量。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众体验一段从天真到幻灭的情感过山车。初期与理想主义主角产生共情，随后在讽刺性情节和音乐转折中感受愤怒与不安，最终沉浸于个体被制度碾碎的悲悯与无力感。整体情感层次丰富，以消极和反思为主导。",
+        "structure_description": "采用线性摇滚歌剧形式，整张专辑曲目编排形成一个完整的故事弧，多角色声乐分配、主旋律变奏和歌曲间动态对比共同构建叙事节奏。",
+        "cognitive_expression": "高度激发反思性认知，听众需要连接讽刺歌词、角色动机和音乐主题，批判性地理解艺术异化、身份商品化等社会制度问题，并解读叙事背后的隐喻。",
+        "behavioral_tendency_description": "鼓励内省和批判性思考，而非行动或社交。听众可能被引发对艺术纯粹性和体制的反思，倾向独处聆听深入消化。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.35,
+        "Ti": 0.72,
+        "Te": 0.50,
+        "Fi": 0.88,
+        "Fe": 0.20,
+        "Si": 0.28,
+        "Se": 0.42,
+        "openness": 0.85,
+        "conscientiousness": 0.35,
+        "extraversion": 0.22,
+        "agreeableness": 0.18,
+        "neuroticism": 0.80,
+        "Assertive": 0.15,
+        "Turbulent": 0.90
+      },
+      "supporting_evidence": [
+        "叙事围绕一位年轻音乐人的职业轨迹展开，完整呈现其从起步到毁灭的过程。",
+        "大量篇幅通过音乐工业内部互动展现制度对个体的压迫。",
+        "多首歌曲采用不同的角色视角推进剧情，形成多声部叙事。",
+        "歌词大量使用讽刺和隐喻表达对商业体制的批判。",
+        "专辑以连贯的故事情节连接所有曲目，构成摇滚歌剧。",
+        "主角在与经纪人、唱片公司的互动中逐渐丧失艺术自主权。",
+        "音乐编排融合前卫摇滚、硬摇滚和管弦乐，风格复杂。",
+        "结局带有悲剧性，主角的艺术身份被彻底商品化并最终毁灭。",
+        "作品创作于创作者逝世后，其个人经历与故事有潜在映射。",
+        "作品持续表达了对艺术纯粹性和商业成功之间矛盾的探讨。",
+        "专辑封面和视觉设计辅助了叙事的讽刺与悲剧氛围传达。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

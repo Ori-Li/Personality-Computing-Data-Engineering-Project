@@ -1,0 +1,741 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_rus_1913_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "春之祭",
+        "type": "STAGE",
+        "countryName": "俄罗斯",
+        "year": 1913,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-4o",
+        "generatorDate": "2025-01-17",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "STAGE",
+        "annotationLanguage": "zh-CN"
+      },
+      "semantic": {
+        "summary": "斯特拉文斯基作曲、尼金斯基编舞的独幕芭蕾舞剧，以原始异教部落的祭祀仪式为主题。作品通过牺牲一位少女春之神的叙事，彻底颠覆了古典芭蕾的优雅传统。音乐以狂暴的不协和音、复合节奏和打击乐般的音色著称，舞蹈采用内八足、棱角化的原始姿态，摒弃了足尖技巧和程式化动作。首演于1913年巴黎，因极端的听觉与视觉冲击引发剧场骚乱，成为艺术现代主义的标志性事件，其表现原始生命力与集体献祭的核心冲突至今仍极具震撼力。",
+        "themes": [
+          "牺牲",
+          "原始",
+          "集体",
+          "仪式",
+          "生死",
+          "自然",
+          "本能"
+        ],
+        "keywords": [
+          "俄罗斯芭蕾舞团",
+          "斯特拉文斯基",
+          "尼金斯基",
+          "现代主义",
+          "原始主义",
+          "春之祭",
+          "祭祀舞蹈",
+          "巴黎首演",
+          "不协和音"
+        ],
+        "core_experience": "观众被卷入一场狂野而不可抗拒的原始仪式。尖锐刺耳的音群与沉重不规则的重音持续冲击听觉，舞台上的舞者以近乎痉挛的群体动作展现出集体无意识的巨大力量。整个作品弥漫着紧张、恐惧与原始的敬畏，最终导向一种冷酷而庄严的牺牲宿命感。",
+        "experience_introduction": "作品抛弃了古典芭蕾的叙事逻辑和审美框架，转而使用一种反叙事、反美学的表达方式。观众不再看到精致的个体表演，而是面对一个由节奏驱动的、不可分割的部落群体。从第一声巴松管的高音独奏开始，陌生感与异教色彩便笼罩全场。音乐与舞蹈共同构建了一种压倒性的感官暴力：不规则的节拍使身体无法预测，刺耳的管弦乐音色强化了残酷的仪式氛围，而舞者们内旋的笨拙姿态消解了一切浪漫化的幻想。这种体验的核心不在于理解故事，而在于生理性地感受原始力量的震颤与集体狂热中的个体灭绝。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.05,
+        "awe": 0.95,
+        "nostalgia": 0.05,
+        "reflection": 0.65,
+        "romance": 0.0,
+        "tension": 1.0,
+        "warmth": 0.0,
+        "loneliness": 0.45,
+        "hope": 0.1
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.68,
+          "complexity": 0.92,
+          "depth_of_thought": 0.78,
+          "logical_structure": 0.55,
+          "novelty": 1.0,
+          "exploration": 0.3,
+          "ambiguity": 0.7,
+          "predictability": 0.15,
+          "information_density": 0.88,
+          "learning_value": 0.85
+        },
+        "worldview": {
+          "personal_scale": 0.3,
+          "relationship_scale": 0.15,
+          "social_scale": 0.85,
+          "civilization_scale": 0.55,
+          "cosmic_scale": 0.75,
+          "time_span": 0.2,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.0,
+          "sadness": 0.4,
+          "loneliness": 0.5,
+          "warmth": 0.0,
+          "fear": 0.9,
+          "tension": 1.0,
+          "awe": 0.95,
+          "nostalgia": 0.0,
+          "hope": 0.05,
+          "melancholy": 0.35,
+          "anger": 0.65,
+          "peace": 0.0
+        },
+        "aesthetic": {
+          "beauty": 0.25,
+          "minimalism": 0.3,
+          "luxury": 0.1,
+          "darkness": 0.9,
+          "brightness": 0.1,
+          "dreamlike": 0.2,
+          "mystery": 0.85,
+          "experimental": 1.0,
+          "classical": 0.05,
+          "modern": 0.95
+        },
+        "narrative": {
+          "plot_complexity": 0.2,
+          "character_depth": 0.1,
+          "character_growth": 0.0,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.3,
+          "slow_immersion": 0.15,
+          "action_intensity": 0.95,
+          "conflict_intensity": 1.0,
+          "philosophical_depth": 0.7
+        },
+        "social_relationship": {
+          "individualism": 0.1,
+          "collectivism": 0.95,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.0,
+          "community": 0.9,
+          "competition": 0.3,
+          "cooperation": 0.7,
+          "power_relationship": 0.55,
+          "identity": 0.4
+        },
+        "value": {
+          "freedom": 0.1,
+          "order": 0.55,
+          "truth": 0.3,
+          "beauty": 0.15,
+          "achievement": 0.05,
+          "justice": 0.1,
+          "sacrifice": 0.98,
+          "self_exploration": 0.1,
+          "tradition": 0.7,
+          "change": 0.2,
+          "survival": 0.8,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.35,
+          "adventure": 0.15,
+          "reflection": 0.6,
+          "competition": 0.3,
+          "social": 0.25,
+          "discipline": 0.45,
+          "risk": 0.55,
+          "calm": 0.05,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.9,
+          "color_richness": 0.6,
+          "sound_intensity": 1.0,
+          "rhythm_energy": 1.0,
+          "atmosphere": 0.95,
+          "immersion": 0.95
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 1.0,
+          "actor_expression": 0.45,
+          "body_expression": 0.98,
+          "audience_interaction": 0.2,
+          "performance_intensity": 1.0,
+          "ritual_sense": 1.0
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "作品以原始生命力的迸发为核心，具有极强的情绪感染力。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品旨在制造不安而非抚慰，几乎没有疗愈元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.95,
+          "explanation": "仪式性的宏大结构与生死的崇高主题引发强烈的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.05,
+          "explanation": "作品面向原始未来而非过去，没有怀旧的情绪基础。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.65,
+          "explanation": "作品对文明、秩序与牺牲本能的探讨能引发深层次的智性反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.0,
+          "explanation": "作品完全剥离了任何浪漫化的叙事或情感表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 1.0,
+          "explanation": "从开场的陌生旋律到终场的献祭之舞，紧张感贯穿始终且持续攀升。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.0,
+          "explanation": "音乐与舞蹈的冷酷和集体性压迫完全排除了温暖的人情味。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.45,
+          "explanation": "虽然聚焦于群体，但献祭者作为被选中的个体存在一定的孤立感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.1,
+          "explanation": "作品走向毁灭与死亡的必然，几乎没有为希望留出空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.68,
+          "explanation": "作品通过仪式隐喻而非具体叙事来表达意义，具有较强的符号与抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.92,
+          "explanation": "复合节奏、多调性音乐与反芭蕾的编舞构成本体极高的结构复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.78,
+          "explanation": "作品深入探讨了文明与野性、集体与个体、生与死等深刻哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "作品存在仪式性的程序结构，但主要由感性冲动而非逻辑叙事驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 1.0,
+          "explanation": "音乐、编舞和美学在当时完全打破了所有既定传统，具有划时代的原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "作品侧重于呈现确定的仪式现实而非探索未知的外部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.7,
+          "explanation": "缺乏明确的情节和角色心理交代，意图和意义具有高度的模糊性和开放性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.15,
+          "explanation": "不规则的节奏和突兀的编舞让作品的发展路径极难预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.88,
+          "explanation": "音乐与舞蹈的每一个节拍都承载着极复杂的和声、节奏与肢体语义信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.85,
+          "explanation": "能极大增进观众对现代艺术、音乐史、人类学仪式及编舞理论的理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.3,
+          "explanation": "叙事重心不是个体的内心世界，而是集体仪式中的功能性角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.15,
+          "explanation": "作品不表现具体的人际情感联系，只有抽象的集体成员关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "核心是部落群体的运行机制、集体共识与权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.55,
+          "explanation": "以原始部落为背景，隐含了对文明与野性对立的观照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.75,
+          "explanation": "献祭仪式面对的是自然神明与天地轮回，上升到了宇宙规律的高度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.2,
+          "explanation": "叙事时间集中在一次仪式周期内，时间跨度很短且极为紧凑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "虽然描绘的是异教仪式，但其表达的内核是现实的人类学与心理学原型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.0,
+          "explanation": "整部作品笼罩在阴暗、沉重和狂热的仪式氛围中，完全没有愉悦感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.4,
+          "explanation": "献祭的悲剧性结局带有悲伤色彩，但被野性的狂热所冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.5,
+          "explanation": "选中的少女在面对死亡舞蹈时，展现出一种被群体孤立出来的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.0,
+          "explanation": "冷酷的仪式和暴烈的音乐编排完全杜绝了任何温暖情绪的产生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.9,
+          "explanation": "音乐中的不协和音和舞蹈的痉挛感制造了强烈的原始恐惧和不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 1.0,
+          "explanation": "节拍的不断错位与舞蹈的蓄力感让自始至终都充满了令人窒息的张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.95,
+          "explanation": "无形的自然力量与不可违抗的集体意志带来了极其庄严肃穆的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.0,
+          "explanation": "作品面向的是远古原型而非个人记忆，没有怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "走向死亡的主题和毁灭性的结局几乎完全扼杀了任何希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.35,
+          "explanation": "在极端的暴力宣泄之下，隐含着对消逝生命的淡淡哀悼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.65,
+          "explanation": "音乐中粗粝狂暴的音响传达了强烈的愤怒和原始的攻击性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.0,
+          "explanation": "极度亢奋、焦虑和动荡的感官体验里不存在安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.25,
+          "explanation": "作品拒斥传统的美感，以丑陋和扭曲作为其美学表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.3,
+          "explanation": "舞台设计和服饰相对简洁，但复杂的音乐和编舞并不极简。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.1,
+          "explanation": "整体风格粗砺、原始，与精致奢华的审美完全背道而驰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.9,
+          "explanation": "作为关于死亡和牺牲的仪式，具有极其阴郁、黑暗的审美基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.1,
+          "explanation": "无论是音色还是主题都与明亮无关，充满了晦暗的色调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.2,
+          "explanation": "作品具有强烈的超现实感和异教氛围，但更多的是噩梦般的特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.85,
+          "explanation": "古老的祭祀仪式、不可知的神明与诡异的肢体语言构成了强烈的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 1.0,
+          "explanation": "《春之祭》是艺术实验的巅峰，彻底颠覆了音乐和舞蹈的既定语法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "它的诞生就是为了打破并远离古典芭蕾的范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.95,
+          "explanation": "作为现代主义艺术的奠基石之一，其美学观念极具前卫与先锋性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.2,
+          "explanation": "没有具体的线性情节，只有仪式流程，叙事极为简单。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.1,
+          "explanation": "角色是抽象的符号而非具有深度的个体，没有个性描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.0,
+          "explanation": "作品中不存在任何角色弧光或个人蜕变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "通过音乐和舞蹈构建了一个自洽且充满细节的原始部落仪式世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.3,
+          "explanation": "虽然是线性仪式流程，但音乐段落的结构带有拼贴和突变性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.15,
+          "explanation": "作品从一开始就以极具冲击力的方式将观众拉入情境，而非缓慢铺垫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.95,
+          "explanation": "舞蹈动作粗野沉重，充满爆发力，音乐节奏的打击感极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 1.0,
+          "explanation": "个体与集体、生存意志与献祭义务之间的冲突达到了白热化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.7,
+          "explanation": "作品通过原始仪式挖掘出关于生命冲动、死亡本能和集体无意识的深层哲理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.1,
+          "explanation": "个体的存在完全服务于集体仪式，个性被彻底压制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.95,
+          "explanation": "部落的集体行动、共同意志和群体狂热是作品的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "社会学意义上的部落关系与血缘亲情无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "集体内部不展现平等的私人情感或友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.0,
+          "explanation": "作品中没有两性之间的浪漫爱情，只有对自然的原始崇拜和恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.9,
+          "explanation": "整个部落作为一个不可分割的整体，共同庆祝、甄选和完成仪式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.3,
+          "explanation": "有限的舞蹈段落中暗示了部落成员之间的竞争性甄选。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.7,
+          "explanation": "仪式需要整个部落的高度协作才能完成，动作高度统一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.55,
+          "explanation": "存在长老与部落成员、长者与选定牺牲者之间的隐含权力结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.4,
+          "explanation": "身份更多是功能性的（如长者、献祭者），缺乏对身份认同的探寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.1,
+          "explanation": "个体的自由意志在绝对的、必须完成的集体仪式面前完全微不足道。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.55,
+          "explanation": "仪式有着严格的程序，但这种秩序是残酷且带有压迫性的自然法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.3,
+          "explanation": "作品旨在呈现一种生理与心理的真实感，而非事实逻辑上的真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.15,
+          "explanation": "作品以反美学为特征，主动背离甚至摧毁了传统意义上的美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.05,
+          "explanation": "不存在个人成就的追求，一切都导向牺牲与毁灭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.1,
+          "explanation": "作品不涉及道德评判与公平正义的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.98,
+          "explanation": "献祭是整部作品唯一且绝对的核心主题，是所有动作和音响的最终目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.1,
+          "explanation": "个体的内在世界与个人探索被完全压抑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.7,
+          "explanation": "作品展现了远古异教文化中对传统仪式的无条件服从与狂热。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.2,
+          "explanation": "仪式是循环往复的，主题指向的是永恒的重演而非变革。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.8,
+          "explanation": "作品探讨了群体为求生存而向自然献祭的残酷本能与斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "通过献祭行为，作品探讨了生命和死亡在集体生存中的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "作品令人震惊，但不鼓励对外部世界的好奇探索，而是聚焦于内在仪式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.35,
+          "explanation": "作品本身是伟大的创造，但其呈现的内容是关于毁灭和服从。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "没有冒险性的叙事，只有不可逃避的宿命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.6,
+          "explanation": "其强大的冲击力和深刻的主题会引发观众对于文明与野性的持久反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.3,
+          "explanation": "在选定献祭者的舞蹈段落中有一定的竞争性表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "虽然表现的是集体，但那是一种仪式性的抽象社会关系，非常规社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.45,
+          "explanation": "部落成员对仪式的执行具有高度的纪律性，但那是非理性的集体律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.55,
+          "explanation": "作品在艺术形式上极其冒险，其主题也包含直面死亡的巨大风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "从始至终都处于高能的狂躁状态，与平静完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "作品不提供任何逃离现实的出口，而是直面最残酷的现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.9,
+          "explanation": "尼金斯基的非传统肢体语汇和原始妆容在视觉上极具冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.6,
+          "explanation": "原始风貌的舞台布景和服饰具有鲜明的大地色彩和象征性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 1.0,
+          "explanation": "斯特拉文斯基的配乐使用了极限的管弦乐编制和打击乐，声响巨大且刺耳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 1.0,
+          "explanation": "复杂多变的不规则节拍和重音移位创造了极为狂野和原始的节奏能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "音乐、舞美与编舞共同营造了独一无二、令人震撼的异教仪式氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.95,
+          "explanation": "作品360度包裹式的感官轰炸让观众很难保持距离，极易被卷入其中。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 1.0,
+          "explanation": "作为舞台作品，其巨大的能量和冲击力在现场观赏时达到无与伦比的峰值。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.45,
+          "explanation": "面部表情让位于肢体表现，舞者的脸部表情并非主要的叙事手段。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.98,
+          "explanation": "革命性的内八足、深蹲、跺脚等去芭蕾化的身体动作是作品最核心的语汇。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.2,
+          "explanation": "作品以封闭的第四面墙形式呈现，不寻求直接的观众参与和互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 1.0,
+          "explanation": "舞蹈的体能力度和音乐的演奏强度都达到了近乎失控的极限。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 1.0,
+          "explanation": "整部芭蕾舞剧的结构和呈现方式本身就是一场神圣与狂热兼具的异教祭典。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众经历了一场从生理到心理都被彻底裹挟的原始仪式。体验始于一种由陌生音色引发的不安与好奇，随后被持续不断、愈演愈烈的节奏暴力与不协和音响层层重击。整个体验过程毫无喘息空间，紧张感牢牢攫住神经，让人仿佛亲临一个完全陌生且不可理喻的远古部落。最终，在目睹一名少女在狂舞中走向死亡后，留下的是一种因极度感官刺激和道德冲击而产生的虚脱、震惊与深邃的敬畏。",
+        "structure_description": "作品的结构是一场仪式化的递进。它摒弃了古典的叙事弧线，转而以一种循环、累积、渐强的形式组织感官材料。各音乐段落如同连续的仪式环节，从引入、甄选、召唤先祖到最终的献祭之舞，没有缓冲与转折，只有能量的单向递增。编舞与音乐完全同步，以不断重复和加剧的律动与刺耳的和声构建出无可逃避的强大引力，将观众一步步拖入祭坛的中心。",
+        "cognitive_expression": "《春之祭》颠覆了观众对音乐与舞蹈的常规认知模式。它要求大脑放弃对和谐与优雅的预期，转而处理不规则的节拍、混乱的调性和反直觉的身体姿态。观众被迫进行高强度的感官解析，试图从无序中寻找一种属于原始至上的新逻辑。这种认知过程更多的是本能的和生理的，它绕过了文化教养与审美习惯，直接触及人类最深层、最古老的集体无意识原型。",
+        "behavioral_tendency_description": "作品鼓励一种直面残酷真相而非寻求慰藉的倾向。它不唤起温柔的同情，而是引发对力量的绝对服从与敬畏之感。观赏行为的核心是承受与忍耐，而不是放松与享受。这种体验倾向于激发观者事后进行智性上的解构与反思，积极探索艺术表达的边界，以及重新审视文明表象下潜藏的野性与非理性驱力。"
+      },
+      "personality_affinity": {
+        "Ni": 0.9,
+        "Ne": 0.4,
+        "Ti": 0.65,
+        "Te": 0.2,
+        "Fi": 0.15,
+        "Fe": 0.25,
+        "Si": 0.05,
+        "Se": 0.85,
+        "openness": 1.0,
+        "conscientiousness": 0.35,
+        "extraversion": 0.55,
+        "agreeableness": 0.05,
+        "neuroticism": 0.95,
+        "Assertive": 0.2,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "首演时因音乐和舞蹈极度反传统而引发了场内骚乱。",
+        "管弦乐大量使用不协和和弦与多调性叠置。",
+        "节奏频繁变换拍号，出现大量切分音与不规则重音。",
+        "巴松管在极高音区独奏，创造出陌生而诡异的音色。",
+        "编舞摒弃了足尖舞和开绷直立等古典芭蕾程式。",
+        "舞者双脚内扣呈八字，身体重心下沉，模仿原始姿态。",
+        "全剧是一个没有中场休息的独幕剧。",
+        "故事围绕一个虚构的异教斯拉夫部落展开。",
+        "核心情节是部落通过甄选出一名少女献祭给春之神。",
+        "终场《献祭之舞》长达数分钟，充满了歇斯底里的重复动作。",
+        "舞者的身体在终场剧烈颤抖、跳跃，直至力竭倒地。",
+        "音乐中的节奏动能充满爆发力，常常掩盖旋律线条。",
+        "整部作品充满着浓厚的集体仪式感与压迫感。",
+        "舞台布景和服装设计具有强烈的俄罗斯原始民间风格。",
+        "尼金斯基的编舞以棱角分明和不对称的肢体语言为特征。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

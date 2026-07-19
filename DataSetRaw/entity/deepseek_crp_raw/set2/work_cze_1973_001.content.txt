@@ -1,0 +1,754 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_cze_1973_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "瘟疫柱",
+        "type": "LITERATURE",
+        "countryName": "捷克",
+        "year": 1973,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "捷克诗人塞弗尔特的晚期诗集，以瘟疫柱这一历史建筑为象征核心，将战争创伤、疾病记忆与个人生活交织。诗集在极权审查下完成，语言简朴内敛却充满韧性，书写了死亡阴影下的感官之美、对故土与亲人的眷恋，以及在压抑时代中对自由表达与艺术尊严的固执坚守。整体体验深沉而澄澈，带着历史沉淀后的宁静与不妥协。",
+        "themes": [
+          "战争",
+          "死亡",
+          "记忆",
+          "自由",
+          "美",
+          "家庭",
+          "压抑",
+          "怀旧",
+          "时间",
+          "艺术尊严"
+        ],
+        "keywords": [
+          "瘟疫柱",
+          "布拉格",
+          "二战",
+          "疾病",
+          "审查制度",
+          "感性书写",
+          "晚年风格",
+          "捷克历史",
+          "悖逆之美"
+        ],
+        "core_experience": "沉浸于被死亡与压抑环绕却始终朝向美与记忆回归的静默凝视中，体验一种历经浩劫后沉淀下来的澄澈、温柔与不驯的内心自由。",
+        "experience_introduction": "诗集以瘟疫柱这一历史纪念碑为凝视对象，将作者亲历的二战、瘟疫恐惧与1968年后捷克的压抑现实叠合在一起。读者并非追随故事情节，而是被带入一种沉静而专注的感知状态：在反复出现的意象——墓园、花园、母亲、布拉格街巷——之间，死亡与美、遗忘与记忆、压制与自由构成持续的张力。诗歌语言刻意简朴，却因此获得更大的情感重量，引导读者在缓慢的阅读中体会时间累积的哀伤与不肯熄灭的生命欲望，最终获得一种超越具体历史处境的内心澄明。"
+      },
+      "experience_vector": {
+        "passion": 0.32,
+        "healing": 0.58,
+        "awe": 0.41,
+        "nostalgia": 0.92,
+        "reflection": 0.88,
+        "romance": 0.15,
+        "tension": 0.35,
+        "warmth": 0.63,
+        "loneliness": 0.74,
+        "hope": 0.28
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.45,
+          "complexity": 0.58,
+          "depth_of_thought": 0.82,
+          "logical_structure": 0.27,
+          "novelty": 0.52,
+          "exploration": 0.38,
+          "ambiguity": 0.71,
+          "predictability": 0.22,
+          "information_density": 0.78,
+          "learning_value": 0.72
+        },
+        "worldview": {
+          "personal_scale": 0.91,
+          "relationship_scale": 0.65,
+          "social_scale": 0.55,
+          "civilization_scale": 0.42,
+          "cosmic_scale": 0.18,
+          "time_span": 0.88,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.12,
+          "sadness": 0.84,
+          "loneliness": 0.74,
+          "warmth": 0.63,
+          "fear": 0.38,
+          "tension": 0.35,
+          "awe": 0.41,
+          "nostalgia": 0.92,
+          "hope": 0.28,
+          "melancholy": 0.86,
+          "anger": 0.25,
+          "peace": 0.58
+        },
+        "aesthetic": {
+          "beauty": 0.88,
+          "minimalism": 0.82,
+          "luxury": 0.05,
+          "darkness": 0.72,
+          "brightness": 0.32,
+          "dreamlike": 0.48,
+          "mystery": 0.25,
+          "experimental": 0.28,
+          "classical": 0.74,
+          "modern": 0.46
+        },
+        "narrative": {
+          "plot_complexity": 0.12,
+          "character_depth": 0.78,
+          "character_growth": 0.15,
+          "world_building": 0.22,
+          "nonlinear_structure": 0.65,
+          "slow_immersion": 0.88,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.28,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.25,
+          "family": 0.72,
+          "friendship": 0.38,
+          "love": 0.55,
+          "community": 0.35,
+          "competition": 0.05,
+          "cooperation": 0.18,
+          "power_relationship": 0.28,
+          "identity": 0.78
+        },
+        "value": {
+          "freedom": 0.85,
+          "order": 0.15,
+          "truth": 0.78,
+          "beauty": 0.92,
+          "achievement": 0.18,
+          "justice": 0.35,
+          "sacrifice": 0.42,
+          "self_exploration": 0.88,
+          "tradition": 0.38,
+          "change": 0.22,
+          "survival": 0.68,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.32,
+          "creation": 0.82,
+          "adventure": 0.08,
+          "reflection": 0.95,
+          "competition": 0.02,
+          "social": 0.18,
+          "discipline": 0.42,
+          "risk": 0.15,
+          "calm": 0.72,
+          "escape": 0.22
+        },
+        "sensory": {
+          "visual_intensity": 0.72,
+          "color_richness": 0.48,
+          "sound_intensity": 0.15,
+          "rhythm_energy": 0.22,
+          "atmosphere": 0.88,
+          "immersion": 0.82
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.92,
+          "language_artistry": 0.88,
+          "symbolism": 0.75,
+          "rhetorical_complexity": 0.42,
+          "intellectual_depth": 0.82,
+          "cultural_depth": 0.85,
+          "knowledge_density": 0.78,
+          "interpretation_openness": 0.72
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.32,
+          "explanation": "诗集基调深沉克制，情感表达内敛而非浓烈外放，激情较少。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.58,
+          "explanation": "通过对美与记忆的固执书写，在黑暗中为读者提供某种抚慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.41,
+          "explanation": "面对死亡与历史浩劫时存在敬畏感，但语言朴素而较少宏大震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.92,
+          "explanation": "整部诗集围绕个人记忆、童年、故土与逝去时光反复书写。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.88,
+          "explanation": "诗歌持续引导读者进入内省状态，审视生命、历史与艺术。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.15,
+          "explanation": "爱情并非诗集主题，偶有涉及但非推动体验的核心力量。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.35,
+          "explanation": "审查背景与死亡主题带来潜在紧张，但语言风格消解了尖锐冲突。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.63,
+          "explanation": "对母亲、亲人、熟悉街景的书写传递出沉稳的亲密与温柔。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.74,
+          "explanation": "晚年视角和对逝者的思念营造出深刻的个体孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.28,
+          "explanation": "更多是坚韧的承受而非朝向未来的希望，光明感微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.45,
+          "explanation": "虽然运用象征，但意象多取自日常与自然，抽象程度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.58,
+          "explanation": "诗歌在简朴语言下隐藏多重历史与个人指涉，需要一定解读。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.82,
+          "explanation": "持续追问死亡、自由、美与时间等根本性问题，思想密度高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.27,
+          "explanation": "诗集结构松散，以意象和情绪而非严密逻辑衔接各篇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.52,
+          "explanation": "在压抑年代以朴素的感性书写坚守艺术自由，具历史语境下的原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.38,
+          "explanation": "更多是回溯与深挖而非向外探索未知领域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.71,
+          "explanation": "隐喻与象征丰富，许多表达含蓄多义，意在言外。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.22,
+          "explanation": "意象与情绪走向非线性和非叙事化，难以预测下一首的转折。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.78,
+          "explanation": "每首短诗凝聚大量历史信息、个人记忆和文化指涉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.72,
+          "explanation": "读者可深入了解捷克历史、极权下的文化处境以及晚年诗学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.91,
+          "explanation": "几乎全部从诗人个体视角出发，聚焦内心世界与私人记忆。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "亲情、友情、与亡者的精神联系是重要书写内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "社会压抑与审查制度作为背景存在，但并非直接描写重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.42,
+          "explanation": "战争与瘟疫被置于欧洲历史语境，但始终收束于个人感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.18,
+          "explanation": "极少涉及宇宙或超越性维度，始终扎根尘世经验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.88,
+          "explanation": "时间跨度广阔，贯穿诗人一生，从童年到晚年不断回溯。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "完全基于现实经验与历史记忆，无超自然或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.12,
+          "explanation": "整部诗集弥漫哀悼与沉思，快乐极少出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.84,
+          "explanation": "对逝者、逝去时光和自由的丧失构成浓郁哀伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.74,
+          "explanation": "叙述声音常处于孤独境地，与社会环境和历史对话但孤立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.63,
+          "explanation": "回忆中的亲密关系与感性细节持续提供人性温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.38,
+          "explanation": "死亡和极权压迫带来恐惧感，但被宁静语气部分消解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.35,
+          "explanation": "内在冲突大于外在戏剧张力，整体情绪趋于沉淀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.41,
+          "explanation": "对生命脆弱性与历史巨力有敬畏，但书写方式谦卑而克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.92,
+          "explanation": "怀旧是整部诗集最主导的情绪动力，贯穿所有主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.28,
+          "explanation": "希望感微弱，更多表现为对美与记忆的坚守而非乐观预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.86,
+          "explanation": "忧郁是整部作品的基础情绪色彩，深沉而持续。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "对压抑与死亡有不言明的愤懑，但始终被沉静的语调包裹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.58,
+          "explanation": "在历经沧桑后，诗歌整体达到一种宁静与接纳的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.88,
+          "explanation": "即使在书写衰败与死亡时，仍持续追寻并呈现感官与形式之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.82,
+          "explanation": "语言极度简朴、精确，去除修辞冗余，呈现洗练之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "回避任何华丽与奢侈色彩，专注朴素日常中的诗意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.72,
+          "explanation": "死亡、战争、疾病与政治阴影构成贯穿始终的黑暗底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.32,
+          "explanation": "明亮感仅在个别回忆片段中闪现，整体光线柔和而偏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.48,
+          "explanation": "回忆与现实的交织有时呈现朦胧感，但始终扎根真实经验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.25,
+          "explanation": "意象透明而克制，不刻意营造神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.28,
+          "explanation": "形式上回归传统抒情，不追求先锋实验手法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.74,
+          "explanation": "延续欧洲抒情诗传统，结构匀称，节奏稳重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.46,
+          "explanation": "处理现代历史经验，但诗艺偏向经典而非当代前卫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.12,
+          "explanation": "诗歌无叙事主线，不追求情节推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.78,
+          "explanation": "抒写主体及出现的亲友形象富于心理与情感纵深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.15,
+          "explanation": "不呈现清晰的成长弧线，更多是回望与沉淀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.22,
+          "explanation": "背景取自真实历史，无需构建虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.65,
+          "explanation": "时间在记忆、梦境与现实之间反复跳跃，结构非线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.88,
+          "explanation": "要求缓慢、专注的阅读，逐步沉浸于意象与情绪之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "完全内向静观，无外部行动或事件推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.28,
+          "explanation": "冲突被高度内化，表现为记忆与遗忘、自由与压制的对峙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "持续探讨死亡、自由、艺术与存在的意义，哲学性深刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "坚持个人感知与独立判断，在集体压力下守护个体声音。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.25,
+          "explanation": "社会集体经验作为背景，但诗人始终与之保持距离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.72,
+          "explanation": "母亲、妻女等家庭关系是重要的温暖与记忆来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.38,
+          "explanation": "友情偶被提及，但非核心关系轴心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.55,
+          "explanation": "爱以宽泛的眷恋与深情存在，而非聚焦浪漫关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.35,
+          "explanation": "诗人更多作为观察者而非共同体参与者，社区感不强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "全无竞争性内容，专注内在世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.18,
+          "explanation": "不涉及合作性互动，独立书写是主要姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.28,
+          "explanation": "极权与审查构成的权力关系是隐含背景，但非直接描摹对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.78,
+          "explanation": "诗人、捷克人、幸存者等多重身份持续被审视与定义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.85,
+          "explanation": "在审查时代坚守表达自由，是贯穿始终的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "对强加的外部秩序采取拒绝姿态，不寻求建构新秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.78,
+          "explanation": "追求个人与历史真实，在伪装盛行的时代保持诚实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.92,
+          "explanation": "美被视为对抗死亡与暴政的力量，是诗集最高价值之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.18,
+          "explanation": "不以世俗成就为目标，更看重内在完整。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.35,
+          "explanation": "对社会不公保持沉默的谴责，但非直接诉求正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.42,
+          "explanation": "战争与极权中的牺牲被铭记，但非全书重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.88,
+          "explanation": "整部诗集就是一次深入个体记忆与灵魂的自我勘探。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.38,
+          "explanation": "连接欧洲诗歌传统，但非捍卫传统秩序，而是汲取资源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.22,
+          "explanation": "更关注在不变中坚守而非推动变革，变化不被倡导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.68,
+          "explanation": "历经战争、疾病与政治寒冬后继续书写本身就是生存的证明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "在虚无与死亡面前固执地追问并创造意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.32,
+          "explanation": "更多是沉入已知记忆而非探索新知的好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.82,
+          "explanation": "写诗本身是核心行为，将经验转化为形式与美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.08,
+          "explanation": "完全不涉及外在冒险，空间与身体均静止。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "内省是诗集最核心的行为模式，在所有维度中最为突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "全无竞争倾向，自我与世界的关系是沉思而非较量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.18,
+          "explanation": "社交行为稀少，诗人处于退隐与孤独之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.42,
+          "explanation": "在压抑环境下持续创作需要一定纪律，但非强迫性严苛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "书写本身在审查下有风险，但诗集不追求冒险刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.72,
+          "explanation": "整体语调平静，情感被时间沉淀为宁静的观照。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.22,
+          "explanation": "回忆可能提供暂时远离现实，但始终面对而非逃避苦难。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.72,
+          "explanation": "丰富的视觉意象描绘布拉格街景、花园、墓园与亲人面容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.48,
+          "explanation": "色调偏向柔和与暗沉，不追求高饱和色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.15,
+          "explanation": "诗歌整体安静，缺乏强烈听觉刺激。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.22,
+          "explanation": "诗行节奏平稳悠缓，无高能量律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.88,
+          "explanation": "氛围感强烈，沉静、忧郁而温柔笼罩整部诗集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.82,
+          "explanation": "一旦进入诗集语境便容易完全沉浸于其内在世界。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.92,
+          "explanation": "塞弗尔特后期典型风格，简朴、澄澈、高度个人化。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.88,
+          "explanation": "语言在朴素中追求精确与音乐性，艺术造诣深厚。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.75,
+          "explanation": "瘟疫柱作为核心象征统摄全篇，意象系统完整而克制。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.42,
+          "explanation": "回避复杂修辞，偏好直白而有力的陈述。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.82,
+          "explanation": "对历史、存在与艺术的思考构成深刻的智性层面。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.85,
+          "explanation": "深深嵌入捷克历史、布拉格城市空间与中欧文学传统。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.78,
+          "explanation": "单篇短诗中浓缩大量历史事件、人物与地点的互文。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.72,
+          "explanation": "意象与隐喻允许多重解读，但情感指向明确而不过于晦涩。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者进入一种沉静而忧伤的凝视状态，翻阅诗集如同浏览一位老者的私人记忆画册。死亡、战争与疾病作为恒常背景，与之对峙的是感官世界中的微光：花香、女性肌肤的质感、布拉格特定街角的光线。情绪在整个阅读过程中并非剧烈起伏，而是如同缓慢的潮汐，在哀悼与温柔、孤独与亲密之间持续摆动，最终留下的是苦涩后的澄澈和一种被时间打磨过的、无言的坚韧。",
+        "structure_description": "诗集不依赖线性叙事，各诗篇如同围绕'瘟疫柱'这一中心意象展开的独立变奏。结构依靠意象的重复与变奏——墓园、花园、母亲、钟声——编织成一张记忆之网。时间的结构同样是破碎的：童年、战时、当下共同存在，读者在这些时间碎片之间移动，由情感逻辑而非时间逻辑连接，整体形成一种缓慢沉浸、反复回旋的阅读节奏。",
+        "cognitive_expression": "阅读过程要求持续的注意力和慢速处理。诗歌语言表面简朴，实则每个意象都承载着多重历史与个人指涉，读者需要不断在字面意义与隐喻空间之间来回转换，进行深度的语义解码。同时，诗集鼓励读者将诗中的个人记忆与自身经验进行类比和投射，从而引发高强度的自我反思。",
+        "behavioral_tendency_description": "诗集强化静默独处、内心审视的行为倾向，消解外在行动和社交冲动。它奖励缓慢的、重复的阅读和深层次的共情，而非快速消费或信息获取。在阅读之后，它所唤起的行为偏好可能是对个人记忆的整理、对日常之美的更敏锐察觉，以及在压力下保持内心宁静的意愿，而非追求外部变革或社交表达。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.25,
+        "Ti": 0.62,
+        "Te": 0.12,
+        "Fi": 0.92,
+        "Fe": 0.35,
+        "Si": 0.88,
+        "Se": 0.18,
+        "openness": 0.65,
+        "conscientiousness": 0.42,
+        "extraversion": 0.12,
+        "agreeableness": 0.38,
+        "neuroticism": 0.75,
+        "Assertive": 0.38,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "诗集以布拉格历史建筑瘟疫柱作为贯穿始终的核心象征意象。",
+        "作品在1968年华约入侵捷克斯洛伐克后的极权审查环境下秘密写成。",
+        "大量诗篇直接描写第二次世界大战期间的个人见闻与创伤。",
+        "诗歌反复书写童年记忆和已故亲人的细节，构成强烈的时间回溯。",
+        "诗人将疾病、瘟疫恐惧与身体的脆弱性作为反复出现的主题。",
+        "语言刻意回避复杂修辞，采用朴素、直接的陈述句式。",
+        "频繁出现花园、墓园、教堂钟声等具象意象，承载深沉情感。",
+        "诗歌持续探讨在死亡与压抑中继续创作的尊严与意义。",
+        "对女性形象、母亲和妻子的描写融合了感官之美与伦理温情。",
+        "诗集结构松散，不遵循严格的时间顺序或主题分辑。",
+        "叙述声音始终坚持个体视角，抵抗外部政治话语的侵蚀。",
+        "诗歌氛围沉静，避免高声抗议，却在平静中蕴含固执的拒绝。",
+        "作品大量互文参照捷克历史、文学传统与布拉格城市空间。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

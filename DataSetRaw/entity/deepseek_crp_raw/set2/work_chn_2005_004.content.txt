@@ -1,0 +1,722 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2005_004",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "这一切变化无常",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.75,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "液氧罐头乐队的重型专辑，融合新金属、民族打击乐与说唱。以愤怒的嘶吼和密集的节拍，宣泄对现实社会不公、虚伪与生活无常的强烈不满与迷惘，是2000年代中国新金属浪潮中极具冲击力和批判性的代表作品。",
+        "themes": [
+          "愤怒",
+          "迷惘",
+          "社会批判",
+          "无常",
+          "异化",
+          "生存困境",
+          "抗争"
+        ],
+        "keywords": [
+          "新金属",
+          "新金属",
+          "液氧罐头",
+          "重型音乐",
+          "说唱金属",
+          "民族打击乐",
+          "社会现实",
+          "愤怒",
+          "无常",
+          "生存压力"
+        ],
+        "core_experience": "作品通过密集的重型吉他Riff、爆发式嘶吼、跳跃的节奏律动和充满攻击性的说唱，构建出一种持续的压迫感与愤怒宣泄。听众被卷入一种焦灼、不安但通过强力释放获得短暂解脱的复杂情绪流中。",
+        "experience_introduction": "《这一切变化无常》将新金属的侵略性节拍、民族器乐的原始张力与嘻哈的直接表达融为一体，形成一种高强度的听觉冲击。听众在持续的重型声浪中，经历从压抑、愤怒到短暂宣泄再回归无力感的循环。作品不提供抚慰，而是提供一种对现实尖锐质问的集体共鸣，其核心体验是借助高能量声场将内在的焦虑与反叛转化为可感知的物理力量。"
+      },
+      "experience_vector": {
+        "passion": 0.85,
+        "healing": 0.05,
+        "awe": 0.15,
+        "nostalgia": 0.10,
+        "reflection": 0.55,
+        "romance": 0.00,
+        "tension": 0.90,
+        "warmth": 0.00,
+        "loneliness": 0.70,
+        "hope": 0.10
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.25,
+          "complexity": 0.45,
+          "depth_of_thought": 0.55,
+          "logical_structure": 0.30,
+          "novelty": 0.60,
+          "exploration": 0.35,
+          "ambiguity": 0.40,
+          "predictability": 0.25,
+          "information_density": 0.55,
+          "learning_value": 0.40
+        },
+        "worldview": {
+          "personal_scale": 0.70,
+          "relationship_scale": 0.35,
+          "social_scale": 0.75,
+          "civilization_scale": 0.20,
+          "cosmic_scale": 0.05,
+          "time_span": 0.15,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.00,
+          "sadness": 0.50,
+          "loneliness": 0.70,
+          "warmth": 0.00,
+          "fear": 0.40,
+          "tension": 0.90,
+          "awe": 0.15,
+          "nostalgia": 0.10,
+          "hope": 0.10,
+          "melancholy": 0.55,
+          "anger": 0.95,
+          "peace": 0.00
+        },
+        "aesthetic": {
+          "beauty": 0.10,
+          "minimalism": 0.20,
+          "luxury": 0.00,
+          "darkness": 0.85,
+          "brightness": 0.00,
+          "dreamlike": 0.05,
+          "mystery": 0.15,
+          "experimental": 0.60,
+          "classical": 0.05,
+          "modern": 0.80
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.30,
+          "character_growth": 0.10,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.30,
+          "slow_immersion": 0.05,
+          "action_intensity": 0.90,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.50
+        },
+        "social_relationship": {
+          "individualism": 0.80,
+          "collectivism": 0.15,
+          "family": 0.05,
+          "friendship": 0.20,
+          "love": 0.05,
+          "community": 0.25,
+          "competition": 0.70,
+          "cooperation": 0.10,
+          "power_relationship": 0.65,
+          "identity": 0.75
+        },
+        "value": {
+          "freedom": 0.70,
+          "order": 0.10,
+          "truth": 0.65,
+          "beauty": 0.05,
+          "achievement": 0.30,
+          "justice": 0.55,
+          "sacrifice": 0.25,
+          "self_exploration": 0.65,
+          "tradition": 0.10,
+          "change": 0.55,
+          "survival": 0.80,
+          "meaning": 0.40
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.45,
+          "adventure": 0.25,
+          "reflection": 0.60,
+          "competition": 0.75,
+          "social": 0.25,
+          "discipline": 0.40,
+          "risk": 0.70,
+          "calm": 0.05,
+          "escape": 0.55
+        },
+        "sensory": {
+          "visual_intensity": 0.60,
+          "color_richness": 0.20,
+          "sound_intensity": 0.95,
+          "rhythm_energy": 0.95,
+          "atmosphere": 0.80,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "新金属",
+          "tempo": 0.80,
+          "energy": 0.95,
+          "vocal_style": "嘶吼与说唱",
+          "instrumentation": "失真吉他、重型鼓、民族打击乐、采样",
+          "production_style": "重型、粗粝、现代",
+          "lyrical_theme": "社会批判、生存困境、愤怒与迷惘",
+          "emotional_scene": "城市底层、生存压力、内心挣扎",
+          "cultural_context": "中国2000年代新金属浪潮"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.85,
+          "explanation": "重型节拍和嘶吼式人声持续传递高强度情绪能量，引发强烈的激情共鸣。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品以宣泄愤怒和不安为主，几乎不提供平静、抚慰或治愈的情感功能。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "音乐技法融合具有一定创新性，但情绪表达直白，不主要追求令人敬畏的宏大感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.10,
+          "explanation": "核心表达聚焦当下现实的尖锐矛盾，几乎不涉及回忆、怀旧或往昔美好。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "歌词内容引导听众反思社会现状、个体处境与生活无常，具有中等程度的反思性。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.00,
+          "explanation": "专辑主题与浪漫爱情完全无关，情感表达中不存在亲密与浪漫的元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.90,
+          "explanation": "重型失真音色、密集节拍和愤怒人声共同构建了持续的紧张感与压迫性听觉体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.00,
+          "explanation": "作品基调阴冷、愤怒，不包含任何温暖、亲切或柔和的情感表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.70,
+          "explanation": "个体面对社会压力的无力感贯穿全专辑，强烈传达出孤立无援的情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.10,
+          "explanation": "作品主要表达迷惘与愤慨，对未来或希望的表达极为微弱，几乎不存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.25,
+          "explanation": "歌词表达多为直抒胸臆的现实批判，很少使用象征或抽象概念进行隐喻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "在编曲上融合了摇滚、民族与嘻哈元素，结构具有一定复杂性，但核心表达方式直接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.55,
+          "explanation": "对社会现实和个人生存状态的揭露具备一定的思想深度，促使听众思考异化与真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "音乐结构服务于情绪宣泄，并非以严谨的逻辑论证或复杂的逻辑框架为核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.60,
+          "explanation": "在当时的中国摇滚语境下，将新金属与民族打击乐、说唱深度嫁接具有明显的创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "内容聚焦于对已知现实困境的解剖，而非探索未知世界、新思想或新体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.40,
+          "explanation": "愤怒和批判的主题非常明确，但在对“无常”的表达上存在一些开放解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "作为重型音乐，情绪走向和爆发模式具有一定的类型预期性，但融合元素增加了变数。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "歌词蕴含了大量社会观察与个体感受，配合密集的音乐编排，信息传递较为丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.40,
+          "explanation": "主要价值在于了解特定时期中国青年的社会心态和音乐融合形式，知识延展性中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.70,
+          "explanation": "歌词视角多从“我”出发，表达个体的内心挣扎、愤怒和对社会压力的直接感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.35,
+          "explanation": "对人际关系的描写较少，偶有涉及也多为对抗或疏离状态，并非叙事核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.75,
+          "explanation": "作品将个体困境置于广阔的社会背景下，批判社会不公与虚伪，具有明确的社会指向性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.20,
+          "explanation": "视角局限在当代社会层面，极少上升到对历史、文明进程或人类命运的宏观探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "作品完全基于现实的人间体验，不涉及宇宙、生命本源或超自然尺度的议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "叙事和情感锚定在“当下”的社会现状与个人困境，缺乏对过往或未来的长时间跨度构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品是彻底的现实主义表达，不存在任何架空世界、魔幻或幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.00,
+          "explanation": "整张专辑充满负面情绪，完全没有表达快乐、喜悦或轻松愉快的情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.50,
+          "explanation": "在愤怒之下流淌着对现实无奈与失望的悲伤情绪，但并非自怨自艾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.70,
+          "explanation": "个体在对抗庞大社会机器时的无力感和不被理解的孤立感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.00,
+          "explanation": "音乐和歌词在听觉与内容上都充满冷硬质感，完全不提供温暖的情感支持。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.40,
+          "explanation": "对生存压力和不确定未来的焦虑弥漫在作品中，构成了一种中度的恐惧与不安感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.90,
+          "explanation": "从吉他Riff到密集的鼓点再到人声，全篇保持着一种濒临爆发边缘的紧绷状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.15,
+          "explanation": "作品追求的是共鸣而非敬畏，极少营造宏大、神圣或令人肃然起敬的艺术效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.10,
+          "explanation": "情感取向完全面向当下和未来，对过去没有眷恋或美化的怀旧表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.10,
+          "explanation": "即便在激烈宣泄中，也几乎看不到对未来的积极展望或充满希望的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "愤怒背后隐含着对“变化无常”的深层无力感和一种深沉的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.95,
+          "explanation": "愤怒是贯穿整张专辑的核心情绪，通过嘶吼、说唱和重型编曲得到极致宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.00,
+          "explanation": "无论是音乐动态还是歌词意境，都与宁静、平和、安详的状态完全相悖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.10,
+          "explanation": "追求粗粝、暴烈的美学效果，拒绝了传统意义上悦耳、优雅或和谐的“美”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "音乐以重型声墙为主，编曲层次较为丰富，不属于简约主义范畴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.00,
+          "explanation": "专辑气质是街头、底层、粗野的，与任何奢华、精致、贵气的审美无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "低沉的重型音阶、压抑的氛围营造出典型的黑暗美学风格，色调极其阴郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.00,
+          "explanation": "音乐的情绪和音色都极为沉重阴郁，不存在任何明快、亮丽的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.05,
+          "explanation": "作品具有强烈的现实质感和攻击性，完全不具备朦胧、梦幻或超现实的意境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "表达方式直接、喷张，没有营造需要猜测的谜题感或神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.60,
+          "explanation": "将重型摇滚与本土民族打击乐大胆结合，在当时是一种打破边界的实验性尝试。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "音乐风格、制作手法和表达内容都是典型的现代产物，与传统古典美学距离很远。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.80,
+          "explanation": "从金属乐到嘻哈，从制作技术到都市焦虑的主题，都是极其鲜明的现代美学标签。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "专辑并非概念专辑，各曲目虽主题统一，但缺乏复杂的线性故事或情节交错。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.30,
+          "explanation": "作品塑造了统一的“发声者”形象，但此形象更多是情绪载体，缺乏性格的多维刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "专辑呈现的是对现状的愤怒与无力，没有展现出人物心理或处境的成长变化弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "作品是基于现实社会的直接表达，没有创造一个需要构建体系的虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.30,
+          "explanation": "曲目编排上可能存在情绪起伏，但整体是非叙事性的，结构上相对直接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.05,
+          "explanation": "音乐以爆发式和强冲击力开场，极少通过缓慢铺垫来让听众逐渐沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.90,
+          "explanation": "重型节拍、极速说唱和嘶吼带来声音层面的高能行动感与身体律动的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "个体与社会的激烈冲突是全篇的核心，这种对抗被最尖锐的音乐语言无限放大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.50,
+          "explanation": "对“无常”的探讨使作品具备了一定的哲学意味，但其表达是感受性的而非思辨性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.80,
+          "explanation": "作品极力凸显个体意志、个人感受与独立反叛精神，是典型的个人主义叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "个体的挣扎是与社会集体对立的，作品不推崇集体价值，而是质疑和反抗它。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "作品中不存在以家庭为核心的叙事或情感维系，家人角色几乎缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.20,
+          "explanation": "偶有提及伙伴或同类，但更多是基于共同反叛的战友关系，而非温情脉脉的友谊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "主题与男女情爱无关，爱的概念在作品所构建的冷酷现实中几乎没有生存空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.25,
+          "explanation": "存在一种“我们这些被压迫者”的潜在集体认同，但并未形成互助或温暖的社区。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.70,
+          "explanation": "社会中人与人之间的生存竞争、资源争夺和地位攀比是批判的重要素材。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "描绘的社会图景充满对立与隔阂，合作共赢或团结一心的情况极为罕见。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.65,
+          "explanation": "对权力压迫、社会阶层固化和强势力量欺压的揭露是作品的核心批判对象之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.75,
+          "explanation": "“我是谁”，“在这个荒谬的世界中我该如何自处”是专辑反复质问的核心身份问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.70,
+          "explanation": "从束缚中挣脱、寻求精神自由和表达自由是反叛行为的终极目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "现行的社会秩序被视作压迫的根源，作品的价值取向是打破而非维护秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.65,
+          "explanation": "撕破虚伪假面、揭露血淋淋的现实真相是作品力求达到的效果，真实本身就是武器。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.05,
+          "explanation": "传统意义上的形式美、和谐美被完全抛弃，以丑为美、以力为美是其价值取向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.30,
+          "explanation": "作品表达了对社会成就标准的鄙夷，其自身的成就在于否定而非建设。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "对不公的愤怒本身就包含了对正义的潜在渴望，但作品更多是揭露不义而非探讨如何实现正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.25,
+          "explanation": "作品中偶有展现为反抗付出代价的悲壮感，但牺牲并非贯穿始终的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.65,
+          "explanation": "通过对外界的愤怒，作品不断向内心挖掘，探索自己的真实感受、底线和存在意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.10,
+          "explanation": "作品具有鲜明的反叛色彩，对权威和既定规则包括传统，持有的是对抗和置疑态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "对现状的极度不满是求变的动力，“这一切变化无常”本身也承认了变化的发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.80,
+          "explanation": "社会重压下个人如何生存、如何保持精神独立是出发点和核心焦虑所在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.40,
+          "explanation": "作品呈现了巨大的意义迷失感，虽然不断追问，但并未给出关于生命意义的明确答案。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "驱动力来自对现实的愤怒而非对未知的好奇，音乐表达更偏向宣泄而非探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.45,
+          "explanation": "用融合音乐这种创造性的方式来表达愤怒，本身就是一种破坏性的创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.25,
+          "explanation": "作品更倾向于凝视黑暗深渊而非追求冒险或刺激的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.60,
+          "explanation": "作品鼓励听众对主流价值观和生活状态进行质疑与反思，而非被动接受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.75,
+          "explanation": "从音乐的攻击性到歌词的对抗性，都充满了竞争和战斗的姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "核心姿态是疏离和对抗，不利于建立积极的社交互动，是一种“反社交”的社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.40,
+          "explanation": "重型音乐演奏需要高度的音乐纪律，但其内在精神是反约束的，显得矛盾而复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.70,
+          "explanation": "挑衅性的表达方式和反主流的立场，在当时的社会环境中是一种高风险的姿态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "整张专辑是一个持续的情绪高压带，几乎没有留下任何平静和冷静的行为空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.55,
+          "explanation": "通过暴烈的音乐进行精神宣泄，是对无法忍受的现实的一种暂时性逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.60,
+          "explanation": "虽然音乐是听觉媒介，但其侵略性的声音极易引发强烈的黑暗、混乱等视觉联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.20,
+          "explanation": "听觉上的色彩感单一且阴暗，主要是黑、灰、暗红，缺乏丰富的色彩想象空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.95,
+          "explanation": "巨响、失真、嘶吼叠加，创造出一种几乎令人窒息的极限听觉强度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.95,
+          "explanation": "新金属的跳跃节奏和打击乐驱动带来极高的动能，驱动听众身体律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "成功地营造出一种沉重、压抑、危机四伏且充满火药味的末日氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "高强度的声场很容易将听众席卷并完全包裹在它所创造的紧张情绪世界中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.80,
+          "explanation": "乐曲以中高速为主，节拍紧密，具有强烈的行进感和冲击力。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.95,
+          "explanation": "作品的能量级极高，从始至终保持着压迫性的、濒临失控边缘的能量状态。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众经历了一场由愤怒主导的、高强度且具有侵略性的听觉冲击。作品通过重型节奏和嘶吼，将压抑、孤独和对现实的无力感转化为一次带有宣泄性质的集体共鸣，整个过程充满紧张和对抗，几乎不提供平静或希望的出口。",
+        "structure_description": "作品以新金属为骨架，通过主歌说唱的压抑叙事与副歌嘶吼的爆发交替循环，构建起一种“积累-释放”的二元对立结构。民族打击乐和采样的插入为重型声场增添了异质感和变化感，使得情感的起伏更为立体。",
+        "cognitive_expression": "作品引导听众关注个人与社会之间的尖锐矛盾，认知模式偏向对现实黑暗面的聚焦和剖析。它鼓励一种怀疑主义的、反叛的思维方式，促使听众在对抗性语境中反思身份、真实与虚伪，而非进行抽象的逻辑推演。",
+        "behavioral_tendency_description": "作品激励一种直面冲突、以激烈方式进行自我表达的倾向。它呼应了对抗权威、释放攻击性能量和挑战既定规则的行为冲动，同时也为那些感到孤立和压抑的个体提供了一种通过共同情绪宣泄来获得短暂解脱的行为模式。"
+      },
+      "personality_affinity": {
+        "Ni": 0.35,
+        "Ne": 0.40,
+        "Ti": 0.30,
+        "Te": 0.65,
+        "Fi": 0.85,
+        "Fe": 0.15,
+        "Si": 0.15,
+        "Se": 0.80,
+        "openness": 0.70,
+        "conscientiousness": 0.35,
+        "extraversion": 0.70,
+        "agreeableness": 0.05,
+        "neuroticism": 0.85,
+        "Assertive": 0.25,
+        "Turbulent": 0.75
+      },
+      "supporting_evidence": [
+        "专辑采用失真吉他、重型鼓和嘶吼人声作为主要声音基底。",
+        "大量使用嘶吼和极速说唱作为人声表达方式，歌词多直指社会现实矛盾。",
+        "编曲融合了民族打击乐器，使其与摇滚三大件产生碰撞。",
+        "歌词主题反复围绕个人在都市快速发展下的无力感和身份迷失。",
+        "歌曲结构常采用压抑说唱段落与爆发嘶吼副歌的强烈动静对比。",
+        "作品以“这一切变化无常”为题，直指生活与命运的不可控性。",
+        "专辑整体氛围阴沉、暴烈，缺少明亮或柔和的音色处理。",
+        "多首歌曲批判社会中的虚伪、拜金和人情冷漠现象。",
+        "作品发行时正值中国新金属崛起，是其中融合本土元素的先锋之一。",
+        "音乐节奏具有极强的身体驱动性，适合重型音乐现场的激烈互动。",
+        "唱词中流露出对既定规则和权威的不信任与反叛情绪。",
+        "整张专辑的听觉质感偏向粗糙和原始，保留了地下摇滚的冲击力。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

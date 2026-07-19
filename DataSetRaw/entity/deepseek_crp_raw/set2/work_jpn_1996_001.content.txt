@@ -1,0 +1,752 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1996_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "荒野兵器",
+        "type": "GAME",
+        "countryName": "日本",
+        "year": 1996,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-04-10",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.72,
+        "primaryMediaType": "GAME",
+        "annotationLanguage": "zh-CN"
+      },
+      "semantic": {
+        "summary": "《荒野兵器》是一款将美国西部荒野美学与中古世纪奇幻深度融合的角色扮演游戏。玩家扮演漂流者、公主与恶魔战士，在濒临枯竭的星球法尔盖亚上冒险，探索古代遗迹，阻止魔族复苏。游戏以寻找个人身份、对抗宿命为主题，配乐创新地运用口哨与吉他交织的交响乐，营造出苍凉、自由且充满希望的独特氛围，是初代PlayStation上定义性的RPG之一。",
+        "themes": [
+          "冒险",
+          "身份认同",
+          "人与自然",
+          "科技与衰退",
+          "希望",
+          "友情",
+          "牺牲"
+        ],
+        "keywords": [
+          "西部荒野",
+          "奇幻",
+          "法尔盖亚",
+          "古代遗迹",
+          "ARM兵器",
+          "漂流者",
+          "魔族",
+          "口哨配乐",
+          "解谜探索",
+          "回合制战斗"
+        ],
+        "core_experience": "在苍茫的荒野与奇异的遗迹中，伴随悠远的口哨声，体验作为被放逐者寻找归属感的孤独旅程。这种体验交织着与古代超科技遗物互动的探索感，以及对抗衰败世界命运的沉重宿命感，最终指向少数勇者带来世界新生的希望之光。",
+        "experience_introduction": "《荒野兵器》通过其独特的西部奇幻世界观，向玩家传递了强烈的探索欲与深刻的孤独感相互交织的复杂体验。游戏开场动画配合成毛美智子创作的口哨主题曲，瞬间将玩家投入一个广袤荒凉却暗藏生机的世界。玩家在操控不同背景的主角穿越沙漠、城镇与古代遗迹时，会持续感受到个人身份与宏大命运的冲突，这种从被排斥的漂流到最终拯救世界的成长弧光，营造出一种英雄般的怀旧与救赎之旅。"
+      },
+      "experience_vector": {
+        "passion": 0.58,
+        "healing": 0.35,
+        "awe": 0.72,
+        "nostalgia": 0.85,
+        "reflection": 0.62,
+        "romance": 0.18,
+        "tension": 0.55,
+        "warmth": 0.48,
+        "loneliness": 0.81,
+        "hope": 0.88
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.58,
+          "complexity": 0.52,
+          "depth_of_thought": 0.55,
+          "logical_structure": 0.45,
+          "novelty": 0.68,
+          "exploration": 0.92,
+          "ambiguity": 0.48,
+          "predictability": 0.35,
+          "information_density": 0.62,
+          "learning_value": 0.38
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.65,
+          "social_scale": 0.52,
+          "civilization_scale": 0.78,
+          "cosmic_scale": 0.42,
+          "time_span": 0.72,
+          "fantasy_level": 0.85
+        },
+        "emotion": {
+          "happiness": 0.22,
+          "sadness": 0.65,
+          "loneliness": 0.85,
+          "warmth": 0.42,
+          "fear": 0.28,
+          "tension": 0.52,
+          "awe": 0.72,
+          "nostalgia": 0.88,
+          "hope": 0.85,
+          "melancholy": 0.78,
+          "anger": 0.25,
+          "peace": 0.38
+        },
+        "aesthetic": {
+          "beauty": 0.62,
+          "minimalism": 0.35,
+          "luxury": 0.12,
+          "darkness": 0.48,
+          "brightness": 0.28,
+          "dreamlike": 0.38,
+          "mystery": 0.82,
+          "experimental": 0.55,
+          "classical": 0.32,
+          "modern": 0.25
+        },
+        "narrative": {
+          "plot_complexity": 0.55,
+          "character_depth": 0.68,
+          "character_growth": 0.82,
+          "world_building": 0.88,
+          "nonlinear_structure": 0.28,
+          "slow_immersion": 0.65,
+          "action_intensity": 0.45,
+          "conflict_intensity": 0.58,
+          "philosophical_depth": 0.52
+        },
+        "social_relationship": {
+          "individualism": 0.88,
+          "collectivism": 0.32,
+          "family": 0.28,
+          "friendship": 0.72,
+          "love": 0.18,
+          "community": 0.35,
+          "competition": 0.42,
+          "cooperation": 0.78,
+          "power_relationship": 0.38,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.92,
+          "order": 0.25,
+          "truth": 0.65,
+          "beauty": 0.48,
+          "achievement": 0.55,
+          "justice": 0.62,
+          "sacrifice": 0.72,
+          "self_exploration": 0.85,
+          "tradition": 0.42,
+          "change": 0.68,
+          "survival": 0.78,
+          "meaning": 0.82
+        },
+        "behavior": {
+          "curiosity": 0.85,
+          "creation": 0.22,
+          "adventure": 0.95,
+          "reflection": 0.72,
+          "competition": 0.42,
+          "social": 0.52,
+          "discipline": 0.38,
+          "risk": 0.72,
+          "calm": 0.35,
+          "escape": 0.48
+        },
+        "sensory": {
+          "visual_intensity": 0.62,
+          "color_richness": 0.55,
+          "sound_intensity": 0.48,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.92,
+          "immersion": 0.88
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.55,
+          "mechanical_skill": 0.35,
+          "player_agency": 0.68,
+          "exploration_depth": 0.92,
+          "collection_system": 0.55,
+          "progression_system": 0.78,
+          "social_interaction": 0.12,
+          "competition_intensity": 0.28
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.58,
+          "explanation": "剧情围绕主角们对抗世界级威胁的热血使命感展开，战斗时配乐激昂，但叙事基调常带有沉静与孤独的底色，激情并非持续主导情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.35,
+          "explanation": "虽然角色间的羁绊带来短暂温暖，但整体世界观荒凉、故事基调沉重，缺乏轻快的治愈感，更多强调生存与挣扎。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.72,
+          "explanation": "古代超科技遗迹的视觉设计、宏大的世界地图以及与古代巨大造物的遭遇，频繁唤起玩家对失落文明的敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.85,
+          "explanation": "配乐使用口哨与西部风格吉他的怀旧音色，结合角色们追忆过去或探寻失落历史的叙事，营造出强烈的怀旧氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.62,
+          "explanation": "故事涉及环境恶化、种族隔阂、被放逐者的身份等议题，引导玩家在探索过程中对人与世界的关系进行思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.18,
+          "explanation": "作品核心聚焦于友情、身份认同与冒险，爱情并非主要叙事驱动或核心情感表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.55,
+          "explanation": "地下城探索中的解谜与遇敌机制、以及剧情高潮部分世界存亡的危机感，维持了适度的紧张情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.48,
+          "explanation": "角色间建立起的信任与羁绊在特定情节中缓解了世界的残酷，但整体氛围苍凉，温暖感并非基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.81,
+          "explanation": "主角均为被社会排斥的漂泊者，加上广袤且人烟稀少的荒野地图设计，使玩家持续体验到深刻的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.88,
+          "explanation": "故事主线是少数拥有坚定意志的勇者在末日危机中寻找并守护世界最后的光明，传递了极强的希望色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.58,
+          "explanation": "游戏涉及古代超文明、意识转移等概念，但叙事整体偏向王道冒险，将抽象理念转化为具象的遗迹探索与战斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.52,
+          "explanation": "剧情线索围绕多主角交织，包含种族隔阂与历史真相的揭示，但在当时的RPG中属于中等复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.55,
+          "explanation": "探讨了异族共存、被排斥的少数族裔寻求认同等深刻主题，但整体表达偏向情感冲击而非哲学辩论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.45,
+          "explanation": "依靠角色情感与背景故事驱动的传统RPG叙事，而非严密的推理、策略或逻辑解谜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.68,
+          "explanation": "在当时以中世纪或赛博朋克为主的日式RPG市场中，独创性地融合了西部荒野元素，具有极高的设定新颖度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.92,
+          "explanation": "核心玩法之一就是在大地图、地下城与古代设施中搜寻隐藏道具和古代遗物，探索行为贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.48,
+          "explanation": "剧情脉络明确，正邪阵营清晰，解密虽有巧妙之处但逻辑清晰，很少有一种开放结局的不确定感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "情节发展遵循经典的RPG叙事节奏，但角色背景揭露和身份反转的转折点仍带来意料之外的情感冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.62,
+          "explanation": "世界观的生态系统、古代科技体系以及多角色错综的背景故事，向玩家传递了较为丰富的设定信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.38,
+          "explanation": "作为完全的架空幻想世界，游戏并不直接提供现实世界的知识或技能，学习价值集中于剧情的道德寓意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "故事深刻聚焦于每个主角的过去创伤、身份寻找与内心矛盾，个人命运与内心挣扎是推动情节的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "三位主角从陌路到互相信任、成为生死之交的羁绊是叙事的重心，配角与主角团的互动也很丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.52,
+          "explanation": "存在对种族隔阂、不同部族文化以及政治势力的描写，但主要还是为了反衬主要角色的英雄之旅。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.78,
+          "explanation": "涉及到古代超文明遗物、星球环境衰退以及跨越千年的种族演化，文明兴衰是故事的重要背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.42,
+          "explanation": "故事完全发生在一颗星球法尔盖亚之上，虽然涉及远古的危机，但并未有大规模的太空或多元宇宙展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.72,
+          "explanation": "叙事时间横跨当代主角的冒险与千年前古代文明的毁灭瞬间，通过遗迹探索连接了久远的历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.85,
+          "explanation": "世界包含魔法、恶魔、精灵、古代超科技兵器与各类奇幻生物，与西部风情结合形成了高度的架空中土世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.22,
+          "explanation": "整体的色调、剧情和配乐都偏向忧郁和苍凉，即便有胜利的喜悦也是短暂的，纯然的快乐极少出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.65,
+          "explanation": "角色的惨痛过去、无辜者的牺牲以及世界不可挽回的衰退，构成了持续且深沉的悲伤基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "主角以独行侠的姿态出场，加上荒原与大漠的视觉主题，将孤独感刻入了作品的基因之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.42,
+          "explanation": "特定安全区如城镇的温馨氛围和角色的互动带来间歇温暖，但随即又会被推向冷酷的外部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.28,
+          "explanation": "恐怖并非此游戏的核心设计目标，虽然有危险的地底迷宫，但整体更偏重冒险的兴奋而非恐怖惊吓。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.52,
+          "explanation": "战斗系统、Boss战以及关乎世界命运的剧情节点，成功制造了合理的紧张节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.72,
+          "explanation": "壮丽却诡秘的古代遗迹和充满神秘感的故事情节，持续给予玩家超出预期的惊叹与敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.88,
+          "explanation": "不仅配乐营造怀旧感，故事中频繁出现对往日英雄与失落技术的追忆，使整个旅程充满对过去的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.85,
+          "explanation": "虽然是荒漠废土题材，但剧情驱动让玩家以希望之名去解放守护兽、唤醒沉睡的力量，结尾光明。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.78,
+          "explanation": "由孤独、回忆与未竟的遗憾组成的混合情绪弥漫在游戏始终，是一种带有美学色彩的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "角色更多的是承受命运的伤痛而不是被愤怒驱动，反派带来的冲突更多呼吁的是阻止而非仇恨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.38,
+          "explanation": "世界的危险程度与角色的宿命感难以提供长久的平和心境，只有在特定配乐或片段中存在短暂的安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.62,
+          "explanation": "游戏在古典奇幻与西部风情结合上拥有独特的美感，尽管受限于32位机能，设计意图依然呈现出壮丽感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.35,
+          "explanation": "画面上多采用丰富的色彩点缀荒原，配乐也偏向宏大的交响乐编排，非简约风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.12,
+          "explanation": "西部荒原和文明毁灭的背景涉及的是生存与破败，没有任何奢华或极其华丽的美术元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.48,
+          "explanation": "夜幕下的荒野、地下城与废墟带有明显的阴郁特征，但明亮的沙漠和城镇画面维持了光影平衡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.28,
+          "explanation": "世界观本质是明亮色调下的悲凉故事，其高饱和度的色调更偏向表现世界的苍茫，而非清新亮丽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.38,
+          "explanation": "故事中虽有神秘色彩，但叙事风格偏向一种粗砺的现实主义幻想，并不特别追求朦胧的梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.82,
+          "explanation": "对古代超文明的发掘、主线任务中的历史谎言与叛徒追查，给予了游戏极强的解密、探索未知的驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.55,
+          "explanation": "在经典的JRPG框架内，其工具解谜与西部配乐的结合是当时的大胆创新，具有一定的先锋性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.32,
+          "explanation": "美术风格和叙事虽然受西部片启发，但总体上属于现代奇幻的变种，并非古典主义艺术形式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.25,
+          "explanation": "虽然配乐前卫，但其世界观的荒凉与怀旧色彩与快节奏、都市化的现代美学背道而驰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.55,
+          "explanation": "多角色视角交织与历史真相的埋藏构成了多层次的剧情，转折自然但未达到错综复杂的烧脑程度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.68,
+          "explanation": "三名主角拥有细致的背景设定，每个人物的内驱力都源于深刻的童年或身份悲剧，塑造比较丰满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.82,
+          "explanation": "主线完整性涵盖了从逃避命运的流放者到主动承担使命救世的英雄这一显著的集体成长路径。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.88,
+          "explanation": "构建了法尔盖亚这个集科技、魔法、生态衰变于一体的多层次世界，历史细节与风土人情厚度丰满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.28,
+          "explanation": "叙事采用传统的线性章节推进方式，虽然有探索支线，但核心剧情受限于固定的触发顺序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.65,
+          "explanation": "通过大量的城镇对话、荒野漫长行走及具有深度的个人剧情铺垫，让玩家逐渐沉浸在世界中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.45,
+          "explanation": "采用传统回合制战斗，虽然有技能与必杀技，但整体节奏偏向策略而非高频次的动作反应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.58,
+          "explanation": "除了直接对抗魔族，还穿插着人际间的误解、背叛以及种族间的仇视，冲突维度较为丰富。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.52,
+          "explanation": "虽有涉及生命意义与环境伦理的讨论，但总体依然服务于热血冒险框架，并非纯粹的哲学思辨作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.88,
+          "explanation": "三位主角都是独行侠，故事强调依靠自己的力量对抗命运、寻找自我，角色个性鲜明且行动独立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.32,
+          "explanation": "虽然有拯救世界的结果，但行动更偏向少数精英的个人意志驱动，而非群众或社会集体的权力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.28,
+          "explanation": "主要角色的原生家庭要么是缺失的，要么是创伤的来源，核心关系是后天建立的羁绊而非血缘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.72,
+          "explanation": "同伴从互不信任到托付生死的友情是灵魂主题，在冒险中互相扶持解开心结的描写非常深刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.18,
+          "explanation": "作品非常克制地避免了恋爱戏份，专注于同伴情谊与守护大地的宏愿，无明显的爱情线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.35,
+          "explanation": "虽有拜访各地的村庄与聚落，但主角群通常作为外来者解决核心矛盾，而非完全融入社区生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.42,
+          "explanation": "偶尔有竞技场或与特定对手的宿命对决，但主要对抗是基于立场与生存矛盾的冲突而非竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.78,
+          "explanation": "游戏中充满需要利用角色各自独特的工具在迷宫中协作解谜的环节，团队配合是推进的去的关键。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.38,
+          "explanation": "虽然有统治者与反抗者、支配与被支配的种族设定，但主角的着力点在于打破这种现有结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.85,
+          "explanation": "故事的核心矛盾几乎都源于身份焦虑，如混血恶魔、流亡公主，寻找我是谁并接受自己是贯穿始终的主旨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.92,
+          "explanation": "故事的主轴就是从被家庭、社会、制度抛弃的境遇中逃脱，在广阔世界中争取生存与选择的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "现存世界的秩序往往是腐朽、封闭或严酷的，角色更倾向于打破旧秩序，而非维护它。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.65,
+          "explanation": "游戏过程强调挖掘古代文明灭亡和世界危机的真相，解开谎言与误解是驱动力的关键组成。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.48,
+          "explanation": "虽然有壮丽场景，但相比于对美本身的追寻，生存、真相与羁绊更占据核心的价值高地。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.55,
+          "explanation": "变强以对抗强敌、发掘世界顶级古代兵器的成长路径，符合获取成就感的典型玩法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.62,
+          "explanation": "保护无辜者、对抗灭绝人性的反派是角色底色的正义感驱动，虽然表现形式偏向个人化的义侠。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.72,
+          "explanation": "多位角色为了守护重要之人或开启未来之路而主动牺牲自己，包含深刻的诀别情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "角色的地图行动同时也是内心的朝圣，持续地质问自己是谁、应该承担怎样的使命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.42,
+          "explanation": "情节多旨在打破传统的偏见（如对恶魔血脉的恐惧），反而对过于固守传统的观念持批判态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.68,
+          "explanation": "游戏探讨了世界旧有格局的崩塌、角色的成长和生态系统的演替，变化是不可避免的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.78,
+          "explanation": "核心矛盾设定在走向死亡的行星上，个人、物种及整个世界都在为夺回生命力而坚持战斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.82,
+          "explanation": "在一个存在感薄弱的世界边缘，角色们执着地寻找自己存在的证明与战斗的意义，这是精神内核。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.85,
+          "explanation": "整个游戏设定围绕着对地图、对未知大陆和失落遗迹的探知欲，鼓励玩家踏遍法尔盖亚的角落。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.22,
+          "explanation": "游戏机制集中在使用现成工具和武器，缺少自建、改装或创造新事物的系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.95,
+          "explanation": "作为传统JRPG，它的几乎全部玩法都建立在离开安全区、进入未知险境并进行远征的行为基础上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.72,
+          "explanation": "情节节奏张弛有度，废墟中的静谧时刻，以及宿营对话都在引导玩家反思角色的过往遭遇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.42,
+          "explanation": "除了零星的竞技场战斗外，核心体验在于合作生存，不存在PvP或极高强度的内部竞争环境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.52,
+          "explanation": "游戏过程强制通过小队推进，虽然有大量的NPC互动，但社交不是核心机制，而是叙事工具。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.38,
+          "explanation": "作为标准的单机体验，大多数推进依赖剧情触发，没有硬性要求玩家进行枯燥的自律训练。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.72,
+          "explanation": "前路充满超出角色处理能力的强敌和陷阱，剧情中也鼓励冒险闯入禁地和接触被诅咒的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "玩家大部分时间需要应对突发战斗和解谜，情绪处于警觉或探索欲望中，很少平静如水。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.48,
+          "explanation": "角色为了活命逃离追捕、逃离过去的梦魇，是开篇动机，但最终都转化为面对而非逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.62,
+          "explanation": "具有特色的3D野外地图与2D像素精细城镇结合，光效魔法渲染华丽，视觉对比强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "游戏没有因为废土风而放弃多彩，依然保留了丰富的环境色相，但主色调统一在土黄与褐色系下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.48,
+          "explanation": "配乐并非靠音量或冲击力取胜，而是在悠远的口哨和宏大的交响间切换，讲究的是情绪传达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "战斗乐曲的节奏紧凑且律动感较强，但野外探索曲则往往舒缓低沉，带来一种张弛结合的节奏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "由美学、文字和配乐三方合力构建的独一二无的荒原氛围感，是这款游戏最被津津乐道的亮点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.88,
+          "explanation": "繁琐的迷宫解谜与细腻的NPC互动，配合场景氛围的出色营造，能够有效隔绝现实感拉入屏幕。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.55,
+          "explanation": "遇敌后的回合制指令选择、角色技能搭配以及Boss战中的弱点机制，提供了寻找策略空间的中等深度。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.35,
+          "explanation": "完全回合制不要求即时反应，对玩家手眼协调或操作手速几乎为零需求。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.68,
+          "explanation": "游戏虽然有主线，但广阔的世界地图给了玩家很大自由度去决定探索顺序和进行支线任务的机会。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.92,
+          "explanation": "地图上布满隐藏的宝藏、隐秘洞窟和特殊的古代遗物，使用工具交互探寻秘密的深度极高。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.55,
+          "explanation": "寻找并比对各种古代遗物和稀有道具的驱动力较强，虽然收集维度未达到现代图鉴式游戏的极致。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.78,
+          "explanation": "角色有清晰的等级成长、技能学习以及武器改造，个人力量的提升路径给予玩家极强的正向反馈。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.12,
+          "explanation": "完全的单机游戏，除了叙事驱动的队伍内互动外，不存在任何现实的多人或在线社交机制。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.28,
+          "explanation": "无玩家对战，游戏机制核心在于合作讨伐PVE模式，不存在竞争排行榜或其它对抗性内容。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "这是一段充满寂寥与英雄主义的西部奇幻漂流。玩家始终带着一种被放逐者的疏离感，在无边无际的荒原上独行或与三两知己同行。整体情感基调是苍凉的，但在探索古代遗迹的神秘感、与同伴建立羁绊的温暖瞬间以及最终拯救世界的高潮中，这种苍凉转化为深沉的希望和某种带有悲剧色彩的崇高感。怀旧的口哨声始终萦绕耳畔，让这场冒险像在翻阅一本泛黄的旧日记。",
+        "structure_description": "游戏的体验结构由三部分组成：以‘荒野探索’为主轴的自由漫游阶段，玩家操控载具横跨大陆，寻找隐藏的迷宫；以‘迷宫解密’为主的紧凑地牢阶段，玩家需要利用每个角色的专属工具（如炸弹、绳索）破解机关；以及以‘回合制战斗’和剧情过场为主的叙事高潮阶段。这种自由探险与线性叙事、指令战斗与工具解谜的有机切换，创造了张弛有度的节奏感，使得长线的旅程不会枯燥。",
+        "cognitive_expression": "作品高度鼓励‘联结式探索认知’。玩家需要通过环境线索判断哪里有隐藏路径，利用逻辑推理破解分布在大地图和迷宫中的机关谜题。同时，叙事引导玩家进行‘同理心推演’，通过不断闪回角色的悲惨过去，促使玩家将心比心地去理解他们当下的行为动机，并对种族隔阂、身份危机等抽象概念进行情感化的深度反思。",
+        "behavioral_tendency_description": "作品召唤玩家化身为‘不屈的拓荒者’。它奖励那种不满足于浅尝辄止、非要踏遍地图边缘寻找彩蛋的极致好奇心，以及那种在击败一次次强敌后依然坚忍不拔的韧性。虽然游戏世界充满危险，但它鼓励玩家在做好策略准备后勇于承担风险，去承担起跨越种族隔阂、建立跨文化同伴纽带的社交主动性。"
+      },
+      "personality_affinity": {
+        "Ni": 0.72,
+        "Ne": 0.55,
+        "Ti": 0.42,
+        "Te": 0.38,
+        "Fi": 0.88,
+        "Fe": 0.48,
+        "Si": 0.78,
+        "Se": 0.45,
+        "openness": 0.82,
+        "conscientiousness": 0.52,
+        "extraversion": 0.28,
+        "agreeableness": 0.62,
+        "neuroticism": 0.68,
+        "Assertive": 0.32,
+        "Turbulent": 0.78
+      },
+      "supporting_evidence": [
+        "主角被自己的族群视为禁忌之子而被流放、隐姓埋名地生活。",
+        "三位核心角色均为被社会排斥的边缘人：被放逐者、亡国公主、非人混血儿。",
+        "大地图是一片辽阔的荒野，散布着破败的城镇和深埋沙中的古代设施。",
+        "配乐大量使用悠长的口哨声和带有西部风格的吉他旋律。",
+        "故事核心设定在名为法尔盖亚的星球上，该星球的生命力正逐渐枯萎。",
+        "迷宫中需要特定角色使用工具（如炸弹、绳钩）来解开前进的机关。",
+        "游戏按章节推进剧情，每一章都深入揭露一次关于世界巨变的真相。",
+        "主角罗德在故事中不断需要压制自己体内狂暴的非人血统力量。",
+        "涉及数千年前高度发达的古代文明及其自行毁灭的战争遗产。",
+        "存在各种复兴生命或利用古代科技的守护兽与守护精灵。",
+        "角色在关键时刻会为了保护彼此而自愿做出重大的个体牺牲。",
+        "地图中隐藏着许多不触发剧情但却蕴含大量世界观设定的隐蔽区域。",
+        "通过遍布世界的古老文献和闪回片段，拼凑出历史真相是核心驱动力之一。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

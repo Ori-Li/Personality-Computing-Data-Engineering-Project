@@ -1,0 +1,739 @@
+{
+  "processingState": {
+    "processed": 0,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_ind_1935_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "三位少女",
+        "type": "PAINTING",
+        "countryName": "IND",
+        "year": 1935,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.75,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "印度画家阿姆丽塔·谢尔-吉尔1935年创作的油画《三位少女》描绘了三名安静沉思的印度农村女子。作品通过厚重的色彩和融合西方后印象派与印度细密画的风格，捕捉了人物内在的沉静与共同的生命质感。画面不强调叙事性，而是呈现出一种静止中蕴含力量的存在状态，表达了对印度本土女性日常生活的深切关注与艺术转译。",
+        "themes": [
+          "女性",
+          "日常生活",
+          "身份认同",
+          "传统",
+          "内在性",
+          "文化融合"
+        ],
+        "keywords": [
+          "印度农村",
+          "后印象派",
+          "印度细密画",
+          "女性肖像",
+          "阿姆丽塔·谢尔-吉尔",
+          "现代印度艺术",
+          "沉思",
+          "厚重色彩"
+        ],
+        "core_experience": "观者在画面前感受到一种沉静而庄重的凝视。三位少女静默无语，她们的存在本身构成了一种缓慢的情感沉淀，让人从城市喧嚣中抽离，体验乡村生活的朴素本质和女性情感的内在深度。",
+        "experience_introduction": "《三位少女》通过静态的构图、厚重的色彩和人物之间非交流的姿态，将观者引入一种沉静而内省的体验。作品不依赖叙事，而是让观者直接面对三位女性的存在感。画面中，西方后印象派的造型力度与印度细密画的平面感并置，迫使观者既感受人物的体积与重量，又保持一种东方式的内敛观看。这种视觉经验缓慢释放出朴素、忧郁而坚韧的情感，使观者意识到被描绘者的尊严与沉默中隐含的生命力。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.50,
+        "awe": 0.35,
+        "nostalgia": 0.45,
+        "reflection": 0.80,
+        "romance": 0.05,
+        "tension": 0.25,
+        "warmth": 0.55,
+        "loneliness": 0.40,
+        "hope": 0.30
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.45,
+          "depth_of_thought": 0.70,
+          "logical_structure": 0.20,
+          "novelty": 0.75,
+          "exploration": 0.30,
+          "ambiguity": 0.55,
+          "predictability": 0.35,
+          "information_density": 0.45,
+          "learning_value": 0.60
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.30,
+          "social_scale": 0.45,
+          "civilization_scale": 0.35,
+          "cosmic_scale": 0.05,
+          "time_span": 0.60,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.55,
+          "loneliness": 0.40,
+          "warmth": 0.55,
+          "fear": 0.05,
+          "tension": 0.25,
+          "awe": 0.35,
+          "nostalgia": 0.45,
+          "hope": 0.30,
+          "melancholy": 0.65,
+          "anger": 0.05,
+          "peace": 0.75
+        },
+        "aesthetic": {
+          "beauty": 0.75,
+          "minimalism": 0.60,
+          "luxury": 0.05,
+          "darkness": 0.20,
+          "brightness": 0.35,
+          "dreamlike": 0.15,
+          "mystery": 0.40,
+          "experimental": 0.65,
+          "classical": 0.30,
+          "modern": 0.70
+        },
+        "narrative": {
+          "plot_complexity": 0.00,
+          "character_depth": 0.75,
+          "character_growth": 0.20,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.00,
+          "slow_immersion": 0.90,
+          "action_intensity": 0.00,
+          "conflict_intensity": 0.20,
+          "philosophical_depth": 0.65
+        },
+        "social_relationship": {
+          "individualism": 0.60,
+          "collectivism": 0.45,
+          "family": 0.55,
+          "friendship": 0.15,
+          "love": 0.10,
+          "community": 0.40,
+          "competition": 0.00,
+          "cooperation": 0.15,
+          "power_relationship": 0.20,
+          "identity": 0.80
+        },
+        "value": {
+          "freedom": 0.20,
+          "order": 0.15,
+          "truth": 0.65,
+          "beauty": 0.75,
+          "achievement": 0.15,
+          "justice": 0.10,
+          "sacrifice": 0.25,
+          "self_exploration": 0.75,
+          "tradition": 0.55,
+          "change": 0.30,
+          "survival": 0.35,
+          "meaning": 0.70
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.60,
+          "adventure": 0.05,
+          "reflection": 0.90,
+          "competition": 0.00,
+          "social": 0.15,
+          "discipline": 0.20,
+          "risk": 0.10,
+          "calm": 0.85,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.60,
+          "color_richness": 0.55,
+          "sound_intensity": 0.00,
+          "rhythm_energy": 0.10,
+          "atmosphere": 0.80,
+          "immersion": 0.65
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "融合西方后印象派的厚重笔触与印度细密画的平面构图",
+          "color_expression": 0.75,
+          "composition_complexity": 0.40,
+          "symbolism": 0.55,
+          "emotional_expression": 0.80,
+          "historical_style": 0.70
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "画面以静止和沉思为主调，几乎不表达激昂或爆发性的情感。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.50,
+          "explanation": "人物平静的存在状态和柔和的光色处理营造出一定程度的安抚感，但并非明确的治愈主题。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.35,
+          "explanation": "作品的庄重氛围和画面分量让人对人物产生敬意，但并非引发强烈敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.45,
+          "explanation": "对传统印度农村生活方式的刻画，容易唤起一种对过往时光的缅怀之情。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.80,
+          "explanation": "人物深沉的静默与内省的姿态强烈地引导观者进行自我反思和沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "作品中完全没有涉及浪漫爱情的主题或情感暗示。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.25,
+          "explanation": "画面整体安静，几乎没有冲突或不安的氛围，紧张感非常低。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.55,
+          "explanation": "虽然人物表情疏离，但厚重的暖色调和人物间的亲近感营造出一定的人文温暖。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.40,
+          "explanation": "人物虽彼此靠近却无交流的姿态传达出一种个体在集体中的内在孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.30,
+          "explanation": "画面情绪更多是静默的承受与存在，对未来或改变的希望感并不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "作品将具象人物转化为一种普遍的人类状态象征，融合不同艺术传统的手法也增加了其抽象性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.45,
+          "explanation": "构图简洁，元素不多，但在文化融合和情感表达上具有一定复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.70,
+          "explanation": "通过对女性内心世界的深刻描绘和对东西方艺术的融合，引发了关于身份、传统和现代性的深度思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.20,
+          "explanation": "作为一件视觉艺术品，不依赖逻辑推理或论证结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "在1930年代，将西方后印象派与印度传统细密画风格结合创造了前所未有的视觉语言，在当时具有高度创新性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "作品主要聚焦于一个静止场景的深度挖掘，而非引导观众进行广泛的主题或世界探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "人物缺乏表情和叙事背景，使得其内心世界和作品含义具有多义性和开放性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.35,
+          "explanation": "作品的艺术风格和情感表达方式在当时背景下非常规，内容发展（静态构图）也非导向明确的故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.45,
+          "explanation": "在有限的视觉元素内浓缩了文化、身份和现代艺术史等多个层面的信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.60,
+          "explanation": "观看此作有助于理解现代印度艺术的形成、跨文化美学融合以及20世纪初印度社会面貌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "整个作品完全聚焦于三位女性的个体存在状态和内心世界，高度个人化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.30,
+          "explanation": "虽然三人并置，但她们之间几乎没有互动，人际关系的探讨非常弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.45,
+          "explanation": "通过描绘印度农村女性这一边缘群体，间接折射出殖民时期印度的社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.35,
+          "explanation": "作品的风格本身就是东西方文明交流的产物，而非描绘宏大的文明图景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及任何宇宙、哲学或形而上尺度的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.60,
+          "explanation": "虽然画面是瞬间定格，但其风格连接了过去传统（细密画）和现代艺术，赋予了作品一种跨越时代的时间感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.00,
+          "explanation": "作品是对现实人物的写实性描绘，完全没有任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "人物的表情和画面的整体情绪沉静而严肃，没有任何愉快或欢乐的迹象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.55,
+          "explanation": "人物神情和姿态传递出一种默然的悲伤或忧郁情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.40,
+          "explanation": "三人虽坐在一起却无交流的状态，加剧了个体被隔绝的孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.55,
+          "explanation": "土黄色调和厚重笔触带来视觉上的温度，抵消了部分情感的疏离感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "画面完全没有引发恐惧的元素或威胁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.25,
+          "explanation": "构图稳定，情绪内敛，几乎不存在动态的紧张或冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "人物的纪念碑式姿态和庄严感带来轻微的敬畏，但并非压倒性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.45,
+          "explanation": "作品对传统生活方式的描摹，容易唤起一种文化乡愁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.30,
+          "explanation": "情感基调是静默和承受，对未来的希望感不明晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.65,
+          "explanation": "画面主导情绪是一种深沉、宁静而持久的忧伤，即忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "作品中没有任何愤怒或控诉的直接表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.75,
+          "explanation": "尽管有忧郁，但整个场景展现出一种脱离喧嚣的、内在的宁静与和平。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.75,
+          "explanation": "作品追求形式与精神上的美感，人物形象和色彩构成都具有高度的审美价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.60,
+          "explanation": "构图简练，背景单纯，去除了一切不必要的叙事和装饰细节，专注于人物本身。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "描绘的是朴素的农村生活和人物，与奢华、财富毫无关联。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.20,
+          "explanation": "画面色调厚重但不阴暗，没有表现黑暗、恐怖或邪恶的美学倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.35,
+          "explanation": "色彩基调是土黄系列，整体明度不高，非明亮欢快的风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "作品风格偏向写实的形体塑造，没有梦境或超现实的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.40,
+          "explanation": "人物沉默而无表情的面孔，以及她们未知的思绪，为作品增添了一层神秘的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.65,
+          "explanation": "大胆地将两种截然不同的绘画传统融合，是艺术形式上的重要实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.30,
+          "explanation": "虽然借鉴了印度古典的细密画，但整体呈现方式并非传统意义上的古典主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.70,
+          "explanation": "作品是典型的现代主义艺术，体现了20世纪初艺术对形式突破和文化融合的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.00,
+          "explanation": "作为一幅静态绘画，没有故事线或情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.75,
+          "explanation": "作品成功传达了三个人物丰富的内心世界和深沉的存在感，而非表面的肖像。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.20,
+          "explanation": "画面捕捉的是一个静止瞬间，无法体现人物在时间中的成长或转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.10,
+          "explanation": "没有构建一个可供探索的、自成一体的虚构世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.00,
+          "explanation": "静态视觉作品，不存在时间线性或非线性的叙事结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.90,
+          "explanation": "作品的核心体验在于缓慢地沉浸其中，感受人物的情绪和氛围，而非快速获取信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.00,
+          "explanation": "完全静止的画面，没有任何肢体动作或事件发生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.20,
+          "explanation": "没有外部冲突；仅能感受到人物内在可能存在的、微弱的情绪对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.65,
+          "explanation": "作品引发了关于身份认同、文化归属和人类存在的哲学性追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.60,
+          "explanation": "作品强调的是每个作为独立个体的女性，而非一个统一的群体。她们的个性被尊重和放大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "三人作为一个社会单元（可能是一家人或群体）被共同描绘，代表着一个集体身份。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.55,
+          "explanation": "她们紧密的姿态和相似的年龄暗示了一种姐妹或家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.15,
+          "explanation": "人物之间缺乏交流和互动，友谊的主题不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.10,
+          "explanation": "完全没有涉及浪漫爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.40,
+          "explanation": "人物代表了一个特定的社会群体（印度农村妇女），使作品具有社区和阶层的维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.00,
+          "explanation": "画面内外部均无任何形式的竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "虽然她们共享一个空间，但画面并未表现任何协作或合作的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.20,
+          "explanation": "她们作为被凝视的、沉默的农村女性，暗示了一种潜在的被观看的权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.80,
+          "explanation": "作品的核心主题即是这些女性的身份，以及艺术家本人作为印度女性艺术家的文化身份探寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.20,
+          "explanation": "人物处于静止、受限的环境中，自由并非主要探讨的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "构图稳定但并非在强调秩序、规则或系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.65,
+          "explanation": "作品试图通过艺术揭示印度农村女性真实的生活状态和内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "艺术家通过独特的造型和色彩，在朴素中提炼出崇高的视觉之美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "作品内容不涉及个人成就、目标达成或竞争性成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.10,
+          "explanation": "没有明显的关于公平、正义或道德审判的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.25,
+          "explanation": "人物的姿态和艰苦的生活背景，隐约传达出一种默默承受和牺牲的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.75,
+          "explanation": "作品是艺术家通过描绘他人进行自我文化身份与艺术语言探索的典型。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.55,
+          "explanation": "描绘传统生活方式，并从传统细密画中汲取灵感，体现了对传统的尊重与转化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.30,
+          "explanation": "作品本身是艺术史上变革的标志，但其内容表现的是静止不变的日常生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.35,
+          "explanation": "人物朴素的存在和坚韧的姿态暗示了在艰苦环境中生存的主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.70,
+          "explanation": "作品迫使观众去思考这些沉默生命的意义，以及艺术如何赋予普通人以意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "作品体验更偏向沉思而非激发对外部世界的好奇或探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.60,
+          "explanation": "作品本身就是一件显著的创造性产物，其开创性风格能够激发观者的创造性思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "完全没有任何与冒险、刺激或行动相关的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.90,
+          "explanation": "作品的内在气质和静物般的构图，最大限度地引导观众进行内省和反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.00,
+          "explanation": "不涉及任何竞争行为或主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.15,
+          "explanation": "没有描绘社交活动或鼓励社交互动，体验是内省的、个人化的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.20,
+          "explanation": "作品体现的是艺术家的技法纪律，而非内容上对纪律或规则的强调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "画面内容与风险、危险无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.85,
+          "explanation": "作品的核心行为诱导便是让观者平静下来，进入一种缓慢的、冥想般的观看状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "观看作品可以暂时脱离现实，但作品本身指向沉重的现实，并非提供轻松的逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.60,
+          "explanation": "厚重的色彩和纪念碑式的人物形像提供了较强的视觉冲击力和存在感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "虽然主要使用暖色系的土色调，但在同一色系内有丰富的层次和变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.00,
+          "explanation": "作为视觉艺术，不直接涉及听觉感官。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.10,
+          "explanation": "构图和笔触带来的节奏是缓慢、平静甚至停滞的，能量水平极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "作品成功地营造出一种压倒性的、沉静而略带忧思的整体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.65,
+          "explanation": "通过其情感深度和美学力量，作品有能力使观众暂时沉浸在它所创造的凝滞时空里。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.80,
+          "explanation": "风格定位极其明确，是后印象派造型力度与印度细密画平面感的独特融合。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.75,
+          "explanation": "厚重的暖色调不仅是视觉元素，更是情感和氛围的主要制造者，色彩表现力极强。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.40,
+          "explanation": "构图稳定而朴素，三个中心人物形成稳定的三角，结构并不复杂。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.55,
+          "explanation": "三位少女本身成为了印度农村女性及其生活的象征，作品富含文化和社会象征意义。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.80,
+          "explanation": "作品的最高成就之一在于成功地将难以言喻的沉静、忧郁、坚韧等复杂情感视觉化。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.70,
+          "explanation": "作品是现代印度艺术史上的标志，清晰地展现了当时的历史风格取向和艺术变革精神。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "面对《三位少女》，观众首先感受到一种强烈的沉静，仿佛时间在画面中停止了流动。这幅画不讲述故事，而是呈现一种存在状态。三位少女静默无言，她们的目光或低垂或望向远方，引导观者进入一种缓慢而深沉的情感沉淀。体验的核心是内省的：观看这幅画的过程，更像是一场与沉默对象的内心对话。观者会逐渐感受到人物的朴素、坚韧以及她们承载的隐隐忧伤，这种感受并非激烈的情感冲击，而是一种缓慢浸润、挥之不去的心理氛围。",
+        "structure_description": "作品的视觉结构服务于其静态的体验。稳定的三角构图赋予了三个人物雕塑般的重量感和永恒感，而平涂的背景则弱化了具体时空，将焦点完全凝聚在人物本身。这种结构缺乏动态的视觉引导线，迫使观众的视线在人物之间缓慢移动或长时间停留，从而强化了凝视与沉思的体验过程。西方后印象派的笔触赋予了人物坚实的体积，印度细密画的传统则带来了平面感和装饰性，这两者之间的张力构成了作品独特的视觉结构。",
+        "cognitive_expression": "作品高度鼓励一种内省式的、抽象的认知方式。由于缺乏叙事和面部表情的细节，观众必须通过人物的姿态、色彩关系和整体氛围来推断其内心世界和作品意图。这种模糊性推动了观众进行主观解读和意义构建，而非被动地接收信息。同时，作品融合东西方艺术风格的显著特征，会促使认知上倾向于探索文化交流与融合的概念。这是一种缓慢的、需要投入个人经验和情感的认知处理模式。",
+        "behavioral_tendency_description": "《三位少女》并非一件激发行动的作品，它最强烈地奖励安静的凝视、耐心的感受和持续的自我反思。观者在画作前的行为倾向是停留和沉浸，而非快速浏览。它鼓励一种向内的、沉思的行为模式，可能也会激发观者离开作品后去了解更多关于艺术家或那段文化历史的求知行为。在社交层面，它诱导的是一种内向的、非交流性的个人体验，而非即时的分享和讨论。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.20,
+        "Ti": 0.30,
+        "Te": 0.10,
+        "Fi": 0.85,
+        "Fe": 0.35,
+        "Si": 0.55,
+        "Se": 0.25,
+        "openness": 0.80,
+        "conscientiousness": 0.25,
+        "extraversion": 0.10,
+        "agreeableness": 0.30,
+        "neuroticism": 0.65,
+        "Assertive": 0.30,
+        "Turbulent": 0.70
+      },
+      "supporting_evidence": [
+        "画面描绘了三名印度农村妇女坐在一起的场景。",
+        "三位人物彼此靠近但没有任何明显的语言或眼神交流。",
+        "画面中的人物表情沉静而略显疏离，视线朝向不同方向。",
+        "作品使用了厚重的油彩笔触来塑造人物的体积感。",
+        "整幅画的色彩基调以土黄、赭石和深红等暖色调为主。",
+        "构图上背景被简化成几个大的色块，没有任何深度和距离的提示。",
+        "人物的服饰朴素，以纱丽为主，体现出传统的印度农村服饰特征。",
+        "三名女性的姿态稳定而静止，没有任何动态的肢体语言。",
+        "画家将西方后印象派的造型手法与印度传统细密画的平面性相结合。",
+        "作品的年代处于印度独立前的殖民时期，艺术家本人具有跨国文化背景。",
+        "画中人物没有展现出喜悦、愤怒等强烈情绪，整体氛围安静而内敛。",
+        "光线处理柔和且均匀，没有强烈的明暗对比或戏剧性光源。",
+        "作品被视为现代印度艺术史上具有突破性意义的作品之一。",
+        "观看这幅画的体验是缓慢的，需要观众长时间停留和感受。",
+        "画作的美感来源于朴素而非繁复，强调内在的力量而非外表的华丽。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

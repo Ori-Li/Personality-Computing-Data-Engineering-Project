@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1950_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "于无声处",
+        "type": "STAGE",
+        "countryName": "中国",
+        "year": 1978,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "《于无声处》是宗福先创作的四幕话剧，以1976年天安门事件为背景，将两个家庭、六个人物集中在一天之内，通过昔日恋人在特殊政治环境下的重逢，层层揭开隐瞒、背叛、坚守与牺牲，展现极左政治对亲情、爱情与友情的碾压，以及普通人在历史洪流中的良知抉择与人性勇气。",
+        "themes": [
+          "政治反思",
+          "人性抉择",
+          "良知",
+          "牺牲",
+          "爱情与背叛",
+          "家庭冲突",
+          "时代创伤",
+          "正义",
+          "真相"
+        ],
+        "keywords": [
+          "天安门事件",
+          "1976年",
+          "伤痕文学",
+          "反思戏剧",
+          "两个家庭",
+          "政治审查",
+          "告密",
+          "坚守良知",
+          "一天之内",
+          "上海人民艺术剧院"
+        ],
+        "core_experience": "观众被置于一个高度压缩的政治道德困境之中，目睹人物在巨大压力下做出艰难抉择，体验到紧张、压抑、痛苦与最终良知迸发带来的震撼与净化。",
+        "experience_introduction": "《于无声处》将剧烈的政治冲突浓缩于客厅这一私密空间，利用密集的对话、人物关系的逐步揭露和道德立场的分化，持续向观众施加认知与情感上的高压。观众在近乎窒息的戏剧节奏中被迫与人物一同面对忠诚与背叛、自保与牺牲的拷问，最终在真相与良知获胜的瞬间获得强烈的情感释放与精神洗礼。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.15,
+        "awe": 0.38,
+        "nostalgia": 0.42,
+        "reflection": 0.91,
+        "romance": 0.28,
+        "tension": 0.93,
+        "warmth": 0.10,
+        "loneliness": 0.58,
+        "hope": 0.35
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.48,
+          "complexity": 0.64,
+          "depth_of_thought": 0.86,
+          "logical_structure": 0.62,
+          "novelty": 0.52,
+          "exploration": 0.22,
+          "ambiguity": 0.18,
+          "predictability": 0.14,
+          "information_density": 0.48,
+          "learning_value": 0.78
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.92,
+          "social_scale": 0.85,
+          "civilization_scale": 0.42,
+          "cosmic_scale": 0.05,
+          "time_span": 0.14,
+          "fantasy_level": 0.00
+        },
+        "emotion": {
+          "happiness": 0.02,
+          "sadness": 0.78,
+          "loneliness": 0.62,
+          "warmth": 0.08,
+          "fear": 0.72,
+          "tension": 0.94,
+          "awe": 0.35,
+          "nostalgia": 0.20,
+          "hope": 0.32,
+          "melancholy": 0.68,
+          "anger": 0.75,
+          "peace": 0.04
+        },
+        "aesthetic": {
+          "beauty": 0.28,
+          "minimalism": 0.78,
+          "luxury": 0.00,
+          "darkness": 0.85,
+          "brightness": 0.08,
+          "dreamlike": 0.00,
+          "mystery": 0.22,
+          "experimental": 0.10,
+          "classical": 0.64,
+          "modern": 0.15
+        },
+        "narrative": {
+          "plot_complexity": 0.62,
+          "character_depth": 0.86,
+          "character_growth": 0.18,
+          "world_building": 0.10,
+          "nonlinear_structure": 0.05,
+          "slow_immersion": 0.08,
+          "action_intensity": 0.02,
+          "conflict_intensity": 0.98,
+          "philosophical_depth": 0.78
+        },
+        "social_relationship": {
+          "individualism": 0.58,
+          "collectivism": 0.72,
+          "family": 0.85,
+          "friendship": 0.42,
+          "love": 0.62,
+          "community": 0.18,
+          "competition": 0.05,
+          "cooperation": 0.22,
+          "power_relationship": 0.95,
+          "identity": 0.82
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.38,
+          "truth": 1.00,
+          "beauty": 0.15,
+          "achievement": 0.08,
+          "justice": 0.92,
+          "sacrifice": 0.88,
+          "self_exploration": 0.62,
+          "tradition": 0.18,
+          "change": 0.55,
+          "survival": 0.78,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.10,
+          "creation": 0.05,
+          "adventure": 0.08,
+          "reflection": 0.95,
+          "competition": 0.02,
+          "social": 0.35,
+          "discipline": 0.42,
+          "risk": 0.68,
+          "calm": 0.15,
+          "escape": 0.28
+        },
+        "sensory": {
+          "visual_intensity": 0.25,
+          "color_richness": 0.10,
+          "sound_intensity": 0.32,
+          "rhythm_energy": 0.42,
+          "atmosphere": 0.94,
+          "immersion": 0.86
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.85,
+          "actor_expression": 0.92,
+          "body_expression": 0.58,
+          "audience_interaction": 0.75,
+          "performance_intensity": 0.90,
+          "ritual_sense": 0.38
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "人物在政治高压下为良知和正义激烈抗争，情感强度高，因此激情程度较高。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "全剧聚焦于创伤揭露和政治迫害，缺乏安抚与和解元素，治愈体验极低。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.38,
+          "explanation": "主要人物的道德勇气带来一定震撼，但整体基调压抑，敬畏感不明显。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.42,
+          "explanation": "对特定历史时期的再现会唤起特定观众的回忆，但作品主旨不是怀旧。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.91,
+          "explanation": "全剧核心即引导观众对政治、道德、人性进行深刻反思，反思性极强。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.28,
+          "explanation": "爱情线索存在但被政治冲突完全压制，不是浪漫体验，而是悲剧牺牲。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.93,
+          "explanation": "戏剧冲突高度集中，人物随时面临被捕和背叛，紧张感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.10,
+          "explanation": "人际关系被政治撕裂，温情时刻极少且短暂，整体气氛冰冷。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.58,
+          "explanation": "坚持良知的人物在高压下极度孤立，孤独感贯穿核心人物体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.35,
+          "explanation": "结尾正义虽得到声张，但代价巨大且未来不确定，希望有限且沉重。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.48,
+          "explanation": "主题通过具体家庭冲突和人物对话直接呈现，抽象思辨较少，但道德问题本身具有抽象性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.64,
+          "explanation": "人物关系、历史背景和道德困境相互交织，需观众综合理解多层信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.86,
+          "explanation": "作品深刻挖掘政治运动对人性、良知、亲情的摧残，思想深度突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.62,
+          "explanation": "遵循古典三一律结构，逻辑严密，冲突建立和爆发环环相扣。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.52,
+          "explanation": "在1978年首次以戏剧形式正面表现天安门事件和反思文革，具有历史开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.22,
+          "explanation": "场景固定在客厅，缺乏对未知世界或新领域的探索，空间封闭。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.18,
+          "explanation": "善恶立场在后期较为分明，道德判断清晰，少有模棱两可之处。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.14,
+          "explanation": "冲突爆发和人物关系反转具有高度戏剧性，超出观众预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.48,
+          "explanation": "对话承载大量历史、情感和道德信息，但因场景单一，信息密度中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.78,
+          "explanation": "为观众提供关于特定历史时期、政治运作、人性抉择的深刻认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "焦点完全集中在几个人物的内心挣扎和道德选择上，个人尺度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.92,
+          "explanation": "核心冲突在家庭、恋人、朋友关系中展开，人际关系是叙事主轴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "个人命运直接反映社会政治运动的残酷，社会批判意图明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.42,
+          "explanation": "触及文明与野蛮的冲突，但叙事框架限定在当代中国政治，未展开文明比较。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.05,
+          "explanation": "完全不涉及宇宙或终极存在议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.14,
+          "explanation": "故事时间集中在一天之内，虽有历史背景交代，但时间跨度极短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "完全现实主义作品，无任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.02,
+          "explanation": "整剧氛围压抑痛苦，几乎没有快乐时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.78,
+          "explanation": "人物经历背叛、牺牲和理想破灭，悲伤情绪是核心基调之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.62,
+          "explanation": "坚守良知者在家庭和社会中陷入孤立，孤独感强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.08,
+          "explanation": "人与人之间的温情被政治恐惧摧毁殆尽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.72,
+          "explanation": "政治迫害的危险时刻存在，恐惧是驱动人物行动和冲突的关键情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.94,
+          "explanation": "全剧由高强度的人际和政治对峙构成，紧张感占据主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.35,
+          "explanation": "对英雄主义的牺牲产生一定敬畏，但沉重的压抑感部分冲淡了这种情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.2,
+          "explanation": "主要面向未来审判而非过去怀念，怀旧感不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.32,
+          "explanation": "正义得到伸张带来一丝希望，但整体悲剧色彩浓厚，希望有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.68,
+          "explanation": "对逝去的理想、被摧毁的关系和时代悲剧的感伤贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.75,
+          "explanation": "对政治迫害、告密和背叛的愤怒是驱动剧情和感染观众的核心情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.04,
+          "explanation": "冲突激烈且无宁静时刻，全剧毫无平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.28,
+          "explanation": "审美追求让位于政治表达和现实批判，舞台美术朴素克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.78,
+          "explanation": "单一场景、有限人物、集中时间，高度符合戏剧极简主义原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.0,
+          "explanation": "反映普通市民家庭在特殊时期的生活，毫无奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "主题黑暗，氛围压抑，充满政治恐怖和精神折磨，黑暗感强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.08,
+          "explanation": "整体视觉和情绪基调阴沉，仅在结尾有微弱亮色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.0,
+          "explanation": "严格的现实主义手法，毫无梦幻成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.22,
+          "explanation": "人物关系和历史真相在开场时有所隐藏，但很快被揭开，神秘感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.1,
+          "explanation": "采用经典的佳构剧形式，艺术实验性较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.64,
+          "explanation": "严格遵循三一律，戏剧结构古典，冲突集中统一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.15,
+          "explanation": "主题具有当代性，但表现手法传统，不具备现代主义特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.62,
+          "explanation": "通过人物前史和当下冲突的交织构建了相对复杂的戏剧情境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.86,
+          "explanation": "对每个人物的动机、弱点和道德立场有深入的剖析，人物塑造饱满。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.18,
+          "explanation": "剧情发生在一天之内，人物更多是真相揭露而非渐进成长，转变是爆发式的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.1,
+          "explanation": "背景为观众熟知的历史现实，无需额外建构新世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.05,
+          "explanation": "叙事严格按照时间顺序推进，结构极为线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.08,
+          "explanation": "开场即进入紧张状态，没有缓慢的情绪铺垫。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.02,
+          "explanation": "完全依靠对话和表演推进，无肢体动作冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.98,
+          "explanation": "政治、道德、情感、家庭多层冲突高度浓缩并激烈爆发，冲突强度极大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.78,
+          "explanation": "通过具体历史事件探讨普遍的人性、良知、权力与反抗等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.58,
+          "explanation": "主人公的良知和选择体现出强烈的个人独立判断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.72,
+          "explanation": "个人命运被政治集体和运动裹挟，是对极端集体主义的批判性展现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.85,
+          "explanation": "家庭关系是冲突的核心载体，两代人的政治立场分裂是核心戏剧矛盾。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.42,
+          "explanation": "昔日的战友情谊被政治背叛所摧毁，友谊被检验和拷问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.62,
+          "explanation": "爱情作为重要的故事线索，最终被置于政治和正义的考验之下。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.18,
+          "explanation": "故事发生在私密的家庭空间，没有社区互动场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "冲突是政治迫害与反抗，而非平等竞争关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.22,
+          "explanation": "坚守良知的人物之间存在短暂的合作与默契。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.95,
+          "explanation": "政治权力不对等是驱动所有冲突的根源，权力压迫贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.82,
+          "explanation": "人物在政治身份（革命者、叛徒、官僚）和个人良知之间的撕裂是核心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "作品强烈呼唤思想自由和免于恐惧的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.38,
+          "explanation": "作品批判的是扭曲的政治秩序，对正面秩序的追求不突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 1.0,
+          "explanation": "对历史真相和个人清白的追求是所有人物的行动核心，是作品的最高价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.15,
+          "explanation": "艺术美的追求完全让位于严肃的政治道德主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.08,
+          "explanation": "个人成就被政治环境摧毁，作品不关注世俗成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.92,
+          "explanation": "对历史不公的控诉和对正义的渴求是作品最强音，正义价值极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.88,
+          "explanation": "主人公为坚持真理和良知不惜牺牲爱情、自由乃至生命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.62,
+          "explanation": "人物被迫面对良心，进行深刻的自我拷问和内心探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.18,
+          "explanation": "作品旨在颠覆和反思刚过去的历史，并非维护传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "作品诞生于历史转折点，表达了对社会彻底变革的强烈期待。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.78,
+          "explanation": "在极端政治环境下，如何保持生存并维护尊严是重要议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "作品核心是追问人在荒谬和残酷历史中的生存意义与道德价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.1,
+          "explanation": "情节由历史必然性推动，人物极少出于好奇行事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.05,
+          "explanation": "作品中无任何与创造、建设相关的行为表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.08,
+          "explanation": "场景封闭，情节不存在任何冒险元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "作品鼓励并展现人物深刻的内省和对历史、自身行为的反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.02,
+          "explanation": "行为模式是迫害与反抗，不是竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "人物处于激烈的人际冲突中，但并非愉悦的社交。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.42,
+          "explanation": "地下工作者展现出高度的组织纪律性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.68,
+          "explanation": "核心人物主动选择冒着生命危险保护同志、对抗政治权威。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.15,
+          "explanation": "全剧情绪激昂，仅有少数角色在特定时刻保持表面冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.28,
+          "explanation": "部分角色试图通过妥协和沉默逃避政治风险，这种行为受到批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.25,
+          "explanation": "舞台视觉以写实室内景为主，不以视觉奇观取胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.1,
+          "explanation": "舞台色调朴素、沉重，符合悲剧和压抑主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.32,
+          "explanation": "以人物对话为主要声音来源，音乐和音效使用克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.42,
+          "explanation": "对话节奏由冲突支配，能量随矛盾激化逐步升高，包含大量高能对峙。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.94,
+          "explanation": "整体氛围紧张、压抑、沉重，舞台气氛营造是核心艺术手段。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.86,
+          "explanation": "封闭空间和集中剧情迫使观众全程高度卷入人物困境，沉浸感强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.85,
+          "explanation": "作为话剧，演员表演与观众情感共振是核心魅力，现场感极强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.92,
+          "explanation": "依靠台词功力和细腻表情传达复杂内心，对演员表演要求极高。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.58,
+          "explanation": "戏剧冲突主要通过对话，肢体动作服务于写实表演，非独立表现手段。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.75,
+          "explanation": "作品的政治社会主题与观众强烈共鸣，打破了舞台界限，社会互动性强。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.9,
+          "explanation": "整场演出处于高度戏剧冲突中，表演强度大，情感爆发点密集。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.38,
+          "explanation": "采用写实主义风格，未使用仪式化或间离手法。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众被置于一个高度压缩的政治道德困境之中，经历从紧张、压抑、愤怒到震撼、悲伤的复杂情绪流。戏剧的开始即营造出阴郁、不信任的氛围，随着人物关系被逐一揭露，紧张感持续攀升至顶点。观众必须跟随人物一同面对忠诚与背叛、自保与牺牲的严酷抉择，最终在真相与良知获胜的瞬间，获得强烈的情感释放、道德净化及沉重的反思。",
+        "structure_description": "作品严格遵循古典戏剧三一律，将一天之内、同一地点、两个家庭的冲突凝结为一条完整的戏剧行动线。冲突结构清晰，分为人物登场与关系铺垫、矛盾积累与秘密揭露、高潮对峙与爆发、真相大白与最终抉择四幕。这种闭环式结构不给观众任何喘息机会，迫使情感和思考层层递进，直至最终审判。",
+        "cognitive_expression": "作品鼓励观众进行高强度的事件归因和道德推理。观众需要拼凑分散在对话中的人物前史信息，理解特定时期的政治环境与逻辑，并对多个角色的行为进行道德评判。同时，作品引导观众将个人悲剧与社会历史动因联系起来，进行宏观层面的系统性反思，而非仅仅停留在感性共鸣。",
+        "behavioral_tendency_description": "作品极大地鼓励和奖励内在反思行为，观众被导向审视历史、拷问自我良知的认知行为。同时，剧中有明确的行为榜样——坚守真相、不惧牺牲的反抗行为，这激发了一种对公正和勇气的向往。作品强烈削弱了妥协、逃避和盲从行为的正当性，并使观众对社交中的背叛和权力滥用产生高度警惕。"
+      },
+      "personality_affinity": {
+        "Ni": 0.52,
+        "Ne": 0.08,
+        "Ti": 0.62,
+        "Te": 0.15,
+        "Fi": 0.88,
+        "Fe": 0.45,
+        "Si": 0.28,
+        "Se": 0.05,
+        "openness": 0.62,
+        "conscientiousness": 0.42,
+        "extraversion": 0.18,
+        "agreeableness": 0.22,
+        "neuroticism": 0.85,
+        "Assertive": 0.15,
+        "Turbulent": 0.92
+      },
+      "supporting_evidence": [
+        "全剧情节在一天之内的客厅场景中完成，严格遵守古典戏剧结构。",
+        "剧情主要依靠人物之间的密集对话来推进和揭露矛盾。",
+        "故事背景设定在1976年天安门事件之后的特殊政治时期。",
+        "主要冲突发生在两个家庭成员之间，包括父子关系和昔日恋人。",
+        "一名角色的政治身份与过往的革命事迹在剧中成为核心悬念。",
+        "人物被迫在坚持真相、保护家人和自保之间做出选择。",
+        "剧中存在一个代表极左政治权力的反派角色，掌控他人命运。",
+        "全剧的高潮是一场激烈对峙，最终以公开的控诉和真相揭露告终。",
+        "正义一方的主角做出牺牲个人自由和爱情的决定。",
+        "剧中描绘了政治运动对家庭内部信任关系和亲情的撕裂。",
+        "没有采用插叙或倒叙手法，故事严格按照时间顺序发展。",
+        "舞台美术和道具设计极为朴素，聚焦于人物表演。",
+        "作品的诞生标志着中国戏剧开始公开反思文化大革命。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

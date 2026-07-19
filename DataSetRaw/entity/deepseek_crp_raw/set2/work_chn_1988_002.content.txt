@@ -1,0 +1,762 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1988_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "马不停蹄的忧伤",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 1988,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《马不停蹄的忧伤》是黄舒骏首张创作专辑，于1988年发行。专辑以文学化歌词与叙事性旋律为核心，融合幽默戏谑与深沉悲悯，描绘都市青年的爱情、成长与存在困惑。音乐风格兼具民谣的质朴与流行乐的悦耳，通过多首独立又相互呼应的曲目，构建出一个充满思辨与自嘲的精神世界，为华语流行音乐注入学院派的知性气质。",
+        "themes": [
+          "爱情",
+          "成长",
+          "时间",
+          "存在主义",
+          "自嘲",
+          "都市生活",
+          "孤独",
+          "青春",
+          "记忆"
+        ],
+        "keywords": [
+          "黄舒骏",
+          "学院派",
+          "叙事民谣",
+          "恋爱症候群",
+          "幽默",
+          "悲悯",
+          "都市青年",
+          "自我解嘲",
+          "文学化歌词",
+          "存在困惑"
+        ],
+        "core_experience": "在轻盈的旋律与睿智的歌词中，听众经历一场关于青春、爱情与时间的智性漫游。体验从轻松幽默的观察到深沉内省的自问，最终在“马不停蹄”的宿命感中感受到一种清醒而温柔的忧伤。",
+        "experience_introduction": "《马不停蹄的忧伤》通过高度文学化的歌词和叙事性的旋律编排，构建了一种独特的聆听体验。听众首先被其机智幽默的语言和悦耳的曲调吸引，随后在反复聆听中，歌词中的隐喻、反讽和哲学思辨逐渐浮现。专辑并非单纯的抒情，而是通过一个个具体而微的故事切片（如《恋爱症候群》），引导听众从外部观察转向内部自省，最终在时间的流逝感与存在的荒诞感中，获得一种超越年龄的知性共鸣与情感净化。"
+      },
+      "experience_vector": {
+        "passion": 0.38,
+        "healing": 0.25,
+        "awe": 0.12,
+        "nostalgia": 0.78,
+        "reflection": 0.92,
+        "romance": 0.45,
+        "tension": 0.42,
+        "warmth": 0.28,
+        "loneliness": 0.75,
+        "hope": 0.35
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.76,
+          "complexity": 0.68,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.72,
+          "novelty": 0.82,
+          "exploration": 0.55,
+          "ambiguity": 0.79,
+          "predictability": 0.25,
+          "information_density": 0.88,
+          "learning_value": 0.65
+        },
+        "worldview": {
+          "personal_scale": 0.92,
+          "relationship_scale": 0.75,
+          "social_scale": 0.65,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.08,
+          "time_span": 0.72,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.18,
+          "sadness": 0.82,
+          "loneliness": 0.85,
+          "warmth": 0.22,
+          "fear": 0.15,
+          "tension": 0.48,
+          "awe": 0.08,
+          "nostalgia": 0.88,
+          "hope": 0.28,
+          "melancholy": 0.92,
+          "anger": 0.28,
+          "peace": 0.22
+        },
+        "aesthetic": {
+          "beauty": 0.58,
+          "minimalism": 0.72,
+          "luxury": 0.05,
+          "darkness": 0.32,
+          "brightness": 0.35,
+          "dreamlike": 0.15,
+          "mystery": 0.18,
+          "experimental": 0.45,
+          "classical": 0.75,
+          "modern": 0.28
+        },
+        "narrative": {
+          "plot_complexity": 0.42,
+          "character_depth": 0.85,
+          "character_growth": 0.78,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.12,
+          "slow_immersion": 0.82,
+          "action_intensity": 0.08,
+          "conflict_intensity": 0.62,
+          "philosophical_depth": 0.88
+        },
+        "social": {
+          "individualism": 0.88,
+          "collectivism": 0.18,
+          "family": 0.35,
+          "friendship": 0.42,
+          "love": 0.82,
+          "community": 0.15,
+          "competition": 0.22,
+          "cooperation": 0.12,
+          "power_relationship": 0.18,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.78,
+          "order": 0.25,
+          "truth": 0.82,
+          "beauty": 0.62,
+          "achievement": 0.22,
+          "justice": 0.28,
+          "sacrifice": 0.42,
+          "self_exploration": 0.95,
+          "tradition": 0.38,
+          "change": 0.55,
+          "survival": 0.32,
+          "meaning": 0.88
+        },
+        "behavior": {
+          "curiosity": 0.58,
+          "creation": 0.72,
+          "adventure": 0.28,
+          "reflection": 0.95,
+          "competition": 0.18,
+          "social": 0.32,
+          "discipline": 0.28,
+          "risk": 0.15,
+          "calm": 0.35,
+          "escape": 0.38
+        },
+        "sensory": {
+          "visual_intensity": 0.12,
+          "color_richness": 0.22,
+          "sound_intensity": 0.52,
+          "rhythm_energy": 0.45,
+          "atmosphere": 0.82,
+          "immersion": 0.72
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "民谣流行",
+          "tempo": 0.45,
+          "energy": 0.38,
+          "vocal_style": "叙事性独白",
+          "instrumentation": "吉他、钢琴、弦乐",
+          "production_style": "学院派精致编曲",
+          "lyrical_theme": "存在主义爱情叙事",
+          "emotional_scene": "深夜独处与城市漫游",
+          "cultural_context": "后罗大佑时代华语创作复兴"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.38,
+          "explanation": "专辑核心情绪偏向冷静观察和内省，而非高亢激情。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.25,
+          "explanation": "自省和忧伤占据了主导，直接的治愈感较弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.12,
+          "explanation": "歌词以幽默和反讽见长，而非追求宏大与敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.78,
+          "explanation": "《未央歌》等曲目直接唤起对青春和过往时光的深刻怀旧。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.92,
+          "explanation": "全专以高度内省和文学化的视角剖析爱情与存在，引导听众进行深度思考。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.45,
+          "explanation": "爱情是核心主题之一，但其呈现方式多为解构和反思，而非浪漫理想化。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.42,
+          "explanation": "来自理想与现实的矛盾以及自我质疑所带来的内在紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.28,
+          "explanation": "情感基调偏向冷静和疏离，人际温暖并非主要追求。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.75,
+          "explanation": "作为个体在都市和思考中的孤独感，是贯穿始终的核心情绪之一。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.35,
+          "explanation": "在忧伤和自嘲的底色下，充满希望感的表达相对隐晦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.76,
+          "explanation": "大量运用隐喻、象征和文学典故来探讨抽象的情感与存在议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.68,
+          "explanation": "歌词具有多层含义，融合了叙事、反讽、思辨等多重元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品核心在于对爱情、时间、生命意义的哲学性探讨，思想深度显著。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.72,
+          "explanation": "歌词的论证和叙事逻辑清晰，如《恋爱症候群》表现出高度的结构性思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.82,
+          "explanation": "在1988年华语乐坛，将文学化叙事与黑色幽默融入流行乐，具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "探索主要体现在对内心世界和情感真相的挖掘，而非对外部世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.79,
+          "explanation": "歌词充满反讽和不确定性，拒绝提供简单的答案，留白空间大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "歌曲结构和情感走向常常出人意料，例如在抒情中突然插入批判性评论。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.88,
+          "explanation": "歌词承载了大量文学、历史和社会文化信息，信息量远超同时代作品。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.65,
+          "explanation": "听众可以从中获得文学修辞、社会观察以及哲学思辨方面的启发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.92,
+          "explanation": "视角完全聚焦于个体内心世界、个人情感史和自我身份的构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.75,
+          "explanation": "爱情关系是叙事主线，探讨了关系中的权力、欺骗与迷恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.65,
+          "explanation": "将个人情感困境置于现代都市社会背景下进行观察和剖析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "很少涉及文明史或宏大历史叙事，始终围绕个体经验展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.08,
+          "explanation": "几乎不涉及宇宙、自然或超验性主题，焦点高度集中于人文世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.72,
+          "explanation": "时间感强烈，反复探讨青春流逝、记忆与未来的不确定性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "内容完全基于现实生活经验与情感，无任何幻想或超现实元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.18,
+          "explanation": "愉悦感缺失，更多是苦中作乐的黑色幽默，并非真正的快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.82,
+          "explanation": "对爱情易逝、青春不再的深切哀伤是全专辑核心情感基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "深刻的孤独感源于深刻的自我意识和对人际关系的疏离性观察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.22,
+          "explanation": "情感质地偏冷，更多地展现了理性的克制和批判性的距离感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.15,
+          "explanation": "恐惧感不直接，更多表现为对生活荒诞性的清醒认知和无力感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.48,
+          "explanation": "来自理想与现实、感性与理性之间持续拉扯的内在张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.08,
+          "explanation": "解构式叙事消解了崇高感，敬畏感并非其追求的情感效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.88,
+          "explanation": "对过去时光、青春和纯真年代的怀念是其最强烈的情感驱动力之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.28,
+          "explanation": "在清醒的悲伤中，对未来抱持的希望被刻画得极其微薄和不确定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.92,
+          "explanation": "一种融合了智性、幽默与悲伤的忧郁感，是其最独特的情感色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.28,
+          "explanation": "对社会和爱情中的虚伪有冷嘲热讽，但并非直接的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.22,
+          "explanation": "内心并不平静，始终在思考和质疑，难以获得平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.58,
+          "explanation": "追求旋律的悦耳与文字的典雅之美，但有节制的、带有文人气的审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.72,
+          "explanation": "编曲和人声处理简洁，依赖吉他、钢琴等原声乐器，凸显歌词与旋律的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "美学风格质朴，充满文人情调，与奢华感完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.32,
+          "explanation": "主题涉及忧伤和孤独，但表达方式光明磊落，并非阴暗风格。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.35,
+          "explanation": "旋律和节奏有其明快之处，但在深沉的歌词下，整体调性并不明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "聚焦现实，其魅力来自对现实情感的敏锐捕捉，而非梦境营造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.18,
+          "explanation": "歌词的思辨性让其含义并非一望即知，但风格更偏向智性而非神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.45,
+          "explanation": "在流行乐中加入长篇口白和复杂歌词结构，具有一定的实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.75,
+          "explanation": "音乐根基来自古典民谣和传统流行乐，文学气质上接近古典叙事诗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.28,
+          "explanation": "其“现代性”更多体现在思考方式上，而非音乐形式上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.42,
+          "explanation": "叙事以片段化和情绪化为主，非强情节性的复杂故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.85,
+          "explanation": "特别注重对第一人称“我”的心理分析，人物内心世界刻画极深。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.78,
+          "explanation": "整张专辑可视为一个思维主体的成长记录，从迷茫走向清醒的认知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "不致力于构建外部世界，而是构建一个紧密围绕主题的内心世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.12,
+          "explanation": "歌曲之间和内部叙事多采用传统的时间或情感逻辑，结构线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.82,
+          "explanation": "需要反复聆听和品味才能完全进入其思想世界，体验是渐进式的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.08,
+          "explanation": "完全基于内心活动，没有任何外部动作或事件冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.62,
+          "explanation": "内心矛盾和与外部世界的格格不入构成了高强度的智识与情感冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.88,
+          "explanation": "其深度超越了一般叙事，直接指向存在、时间、真实等哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.88,
+          "explanation": "绝对的个人化叙述，强调个体独特的感受、思考和价值判断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.18,
+          "explanation": "对于集体、社会规范持观察甚至疏离态度，很少表现集体认同。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.35,
+          "explanation": "家庭关系偶尔作为背景出现，如涉及对父母的回忆，但非重心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.42,
+          "explanation": "友谊被提及但未深描，更多作为青春叙事的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.82,
+          "explanation": "爱情是全部叙事的绝对核心，对其进行了多角度、全方位的剖析。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.15,
+          "explanation": "无社区或社群概念，主人公始终以独立的旁观者形象存在。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.22,
+          "explanation": "竞争非主题，即使社会竞争存在，也被内化为个人自省而非外在对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.12,
+          "explanation": "不涉及任何形式的团队协作或共同完成任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.18,
+          "explanation": "在分析爱情时会触及，但非其主要兴趣点，更关注平等个体间的心理博弈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.85,
+          "explanation": "全专辑是一场关于“我是谁”的漫长而痛苦的自我认同求索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.78,
+          "explanation": "蔑视世俗、追求思想和生活方式独立是其重要的价值观表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "对僵化的社会秩序和爱情规则持批判和调侃态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.82,
+          "explanation": "作品的核心冲动是剥开情感和社会的伪装，探求背后的真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.62,
+          "explanation": "旨在追求文字和旋律之美，将其作为对抗庸常生活的方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.22,
+          "explanation": "社会意义上的成功和成就并非其关注点，甚至带有一些反讽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.28,
+          "explanation": "不直接涉及宏大的社会正义议题，而是关注个体情感的公正与真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.42,
+          "explanation": "为爱或为理想的自我牺牲感偶尔出现，但非主要驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.95,
+          "explanation": "整张专辑是自我探索的极致体现，一切外部观察最终都指向内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.38,
+          "explanation": "对传统持审视态度，既汲取养分（文学传统）又质疑其过时规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.55,
+          "explanation": "深刻意识到并描绘了个人与时代不可阻挡的变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.32,
+          "explanation": "生存的压力被转化为精神层面的困惑，而非物质层面的挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.88,
+          "explanation": "对生命意义、爱情意义和创作意义的追问，是贯穿始终的最高价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.58,
+          "explanation": "体现了对人心和情感规则的好奇与探索欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.72,
+          "explanation": "其本质就是一项高度原创性的艺术创作行为，并鼓励智识创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.28,
+          "explanation": "除思想上的探险外，几乎没有物理或情节上的冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "“反思”是其最核心的行为模式，所有体验都经过严苛的内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.18,
+          "explanation": "表现出对竞争性行为的疏离或嘲讽。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.32,
+          "explanation": "行为模式是内向且回避人群的，社交活动常被描绘成虚假的仪式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.28,
+          "explanation": "思想上的严谨不同于行动上的自律，纪律性主题未被强调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "在情感上敢于冒险，但在实际行动上无冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "外在表现冷静，但内在情绪澎湃，并非真正的平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.38,
+          "explanation": "隐含了从庸常现实遁入回忆或艺术世界的逃避倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.12,
+          "explanation": "作为音乐专辑，不提供直接的视觉刺激，歌词画面感也非重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.22,
+          "explanation": "感官世界的色彩并不丰富，色彩感被黑白灰的智性色调所取代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.52,
+          "explanation": "以人声和原声乐器为主，声响动态柔和适中，无强烈听觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.45,
+          "explanation": "节奏服务于叙事，能量等级为中等偏低，推动力柔和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.82,
+          "explanation": "擅长营造深夜沉思、孤独漫步的浓郁个人化氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.72,
+          "explanation": "智识和情感上的代入感极强，能引导听众高度沉浸于其思想叙事。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 1.0,
+          "explanation": "专辑风格由民谣叙事和流行旋律融合而成，定为“民谣流行”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.45,
+          "explanation": "大部分歌曲速度中慢，符合沉思和内省的基调。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.38,
+          "explanation": "音乐能量偏低，激昂和高亢的段落较少。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 1.0,
+          "explanation": "演唱方式如同吟游诗人在冷静地讲故事，是典型的“叙事性独白”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 1.0,
+          "explanation": "编曲以吉他、钢琴为核心，辅以弦乐，构造出文人化的精致音响空间。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 1.0,
+          "explanation": "制作上剥离了当时的商业浮华，追求严谨、工整和文学性，是“学院派精致编曲”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 1.0,
+          "explanation": "歌词围绕爱情、时间与存在，进行解构和反思，核心是“存在主义爱情叙事”。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 1.0,
+          "explanation": "音乐场景感极强，最适合“深夜独处与城市漫游”时聆听。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 1.0,
+          "explanation": "出现在罗大佑之后，承接了华语音乐中的社会批判和文学性，是“后罗大佑时代华语创作复兴”的代表。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众体验的核心是一场高度智性化的情感漫游。从《恋爱症候群》的戏谑解构开始，到《马不停蹄的忧伤》的宿命感结尾，体验由外而内，从对爱情现象的冷眼旁观转向对时间、存在与自我价值的深刻内省。整个过程被一种清醒的忧郁基调所笼罩，幽默只是悲伤的伪装，引发的是持久的反思而非片刻的娱乐。",
+        "structure_description": "专辑以多首独立但主题高度统一的歌曲组成，形成一个完整的精神叙事弧。这种结构如同散文集，每一首歌都是一个章节，从不同角度切入同一个核心矛盾。音乐编排上，以叙事性的民谣为骨架，配合学院派的精致编曲，起伏平缓但层次分明，服务于歌词的思想表达而非情感宣泄。",
+        "cognitive_expression": "作品强烈鼓励分析性、抽象性和反思性的认知模式。听众需要调动文学解读能力去理解歌词中的隐喻、反讽和典故，并运用逻辑去追踪其论证过程。它要求受众跳出常规的情感体验，以一种疏离的、哲学化的视角审视生活与爱情中的荒诞与真实，其高信息密度和思想深度挑战着听众的理解力。",
+        "behavioral_tendency_description": "这张专辑强烈鼓励内向的、思辨的行为倾向。它不驱动听众去行动、社交或竞争，而是驱使其陷入沉思、自我对话和批判性思考。它奖励独处、内省和文字创作，诱导听众以一种同样清高和审视的眼光去看待世界。"
+      },
+      "personality_affinity": {
+        "Ni": 0.85,
+        "Ne": 0.42,
+        "Ti": 0.82,
+        "Te": 0.22,
+        "Fi": 0.92,
+        "Fe": 0.32,
+        "Si": 0.88,
+        "Se": 0.12,
+        "openness": 0.88,
+        "conscientiousness": 0.32,
+        "extraversion": 0.15,
+        "agreeableness": 0.28,
+        "neuroticism": 0.82,
+        "Assertive": 0.18,
+        "Turbulent": 0.92
+      },
+      "supporting_evidence": [
+        "专辑大量使用文学典故和隐喻来探讨爱情与时间的关系。",
+        "歌曲《恋爱症候群》以长篇口白和一系列症状分析来解构恋爱现象。",
+        "歌词中频繁出现自我解嘲和黑色幽默的叙事口吻。",
+        "旋律和编曲采用简约的民谣风格，突出人声和歌词。",
+        "全专以第一人称视角展开，聚焦于内心独白和个人情感史。",
+        "核心主题是对青春流逝和爱情易碎的深切忧伤。",
+        "歌曲结构包含打破常规的段落，在抒情中突然插入理性评论。",
+        "反复探讨个体在都市社会中的孤独感和疏离感。",
+        "黄舒骏的演唱方式更接近冷静的叙述者而非情感宣泄者。",
+        "整张专辑被视为一张概念专辑，其曲目共同构建了一个统一的精神世界。",
+        "对社会规范和爱情中的虚伪现象进行了直接的讽刺。",
+        "歌词的信息密度极高，充满警句和思辨性的句子。",
+        "情感基调在幽默和悲伤之间摇摆，但最终指向深刻的忧郁。",
+        "强调个体的独立思考与价值判断，对群体行为持观察和疏离态度。",
+        "音乐整体能量内敛，节奏平稳，营造沉浸式的沉思氛围。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

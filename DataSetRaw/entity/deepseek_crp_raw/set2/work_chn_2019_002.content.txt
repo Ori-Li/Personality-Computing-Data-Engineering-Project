@@ -1,0 +1,758 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2019_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "莫欺少年穷",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2019,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.88,
+        "primaryMediaType": "MUSIC"
+      },
+      "semantic": {
+        "summary": "《莫欺少年穷》是九连真人乐队的一首客家话摇滚单曲，融合了高亢悲怆的唢呐与强力摇滚编曲。作品讲述了小镇少年面对家境贫困与现实挫折时的内心挣扎与不甘，以及渴望走出大山、出人头地的强烈决心。通过从低沉压抑到嘶吼爆发的两段式结构，歌曲呈现出逆境中不屈的生命力，最终指向对未来的坚定信念。作品引发了广泛的社会共鸣，成为底层青年奋斗精神的时代象征。",
+        "themes": [
+          "奋斗",
+          "逆境成长",
+          "尊严",
+          "社会阶层",
+          "家庭",
+          "身份认同",
+          "希望",
+          "反抗"
+        ],
+        "keywords": [
+          "客家话",
+          "唢呐",
+          "小镇青年",
+          "贫穷",
+          "不甘",
+          "出人头地",
+          "乐队的夏天",
+          "九连真人",
+          "摇滚",
+          "父子关系",
+          "乡村",
+          "城市梦"
+        ],
+        "core_experience": "听众在压抑与爆发的情感对峙中，经历一场从内心隐痛到不屈呐喊的强烈宣泄。歌谣式的客家念白与撕裂的嘶吼交替，让人切身感受到被现实困境所困却不肯低头的原始生命力，最终在悲壮中升腾出希望。",
+        "experience_introduction": "作品以客家话念白和唢呐的民间基因为底色，在第一段铺设出低微、压抑与贫穷的少年叙事；随后编曲骤变，吉他失真与急促鼓点将情绪推向愤怒与反抗的顶点，最终在唢呐如泣如诉又锋利坚硬的音色中完成一次集体的精神宣泄。整个聆听过程不是观赏，而是被拉进小镇少年的内心世界，与他一起承受、一起不甘、一起迸发。"
+      },
+      "experience_vector": {
+        "passion": 0.86,
+        "healing": 0.22,
+        "awe": 0.48,
+        "nostalgia": 0.52,
+        "reflection": 0.65,
+        "romance": 0.12,
+        "tension": 0.84,
+        "warmth": 0.35,
+        "loneliness": 0.72,
+        "hope": 0.78
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.28,
+          "complexity": 0.54,
+          "depth_of_thought": 0.62,
+          "logical_structure": 0.44,
+          "novelty": 0.58,
+          "exploration": 0.55,
+          "ambiguity": 0.30,
+          "predictability": 0.42,
+          "information_density": 0.60,
+          "learning_value": 0.56
+        },
+        "worldview": {
+          "personal_scale": 0.88,
+          "relationship_scale": 0.42,
+          "social_scale": 0.68,
+          "civilization_scale": 0.15,
+          "cosmic_scale": 0.08,
+          "time_span": 0.35,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.18,
+          "sadness": 0.68,
+          "loneliness": 0.72,
+          "warmth": 0.35,
+          "fear": 0.58,
+          "tension": 0.84,
+          "awe": 0.48,
+          "nostalgia": 0.52,
+          "hope": 0.78,
+          "melancholy": 0.66,
+          "anger": 0.82,
+          "peace": 0.10
+        },
+        "aesthetic": {
+          "beauty": 0.46,
+          "minimalism": 0.58,
+          "luxury": 0.05,
+          "darkness": 0.72,
+          "brightness": 0.22,
+          "dreamlike": 0.08,
+          "mystery": 0.15,
+          "experimental": 0.48,
+          "classical": 0.35,
+          "modern": 0.62
+        },
+        "narrative": {
+          "plot_complexity": 0.42,
+          "character_depth": 0.76,
+          "character_growth": 0.88,
+          "world_building": 0.25,
+          "nonlinear_structure": 0.35,
+          "slow_immersion": 0.68,
+          "action_intensity": 0.80,
+          "conflict_intensity": 0.90,
+          "philosophical_depth": 0.55
+        },
+        "social": {
+          "individualism": 0.82,
+          "collectivism": 0.28,
+          "family": 0.62,
+          "friendship": 0.30,
+          "love": 0.15,
+          "community": 0.48,
+          "competition": 0.78,
+          "cooperation": 0.18,
+          "power_relationship": 0.55,
+          "identity": 0.85
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.15,
+          "truth": 0.62,
+          "beauty": 0.32,
+          "achievement": 0.85,
+          "justice": 0.55,
+          "sacrifice": 0.48,
+          "self_exploration": 0.72,
+          "tradition": 0.42,
+          "change": 0.76,
+          "survival": 0.78,
+          "meaning": 0.68
+        },
+        "behavior": {
+          "curiosity": 0.42,
+          "creation": 0.52,
+          "adventure": 0.68,
+          "reflection": 0.72,
+          "competition": 0.82,
+          "social": 0.28,
+          "discipline": 0.58,
+          "risk": 0.78,
+          "calm": 0.18,
+          "escape": 0.25
+        },
+        "sensory": {
+          "visual_intensity": 0.45,
+          "color_richness": 0.38,
+          "sound_intensity": 0.92,
+          "rhythm_energy": 0.88,
+          "atmosphere": 0.86,
+          "immersion": 0.82
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "摇滚",
+          "tempo": 0.78,
+          "energy": 0.92,
+          "vocal_style": "客家话念白与嘶吼",
+          "instrumentation": "唢呐、电吉他、贝斯、鼓",
+          "production_style": "现场原声粗粝感",
+          "lyrical_theme": "小镇青年奋斗",
+          "emotional_scene": "压抑爆发",
+          "cultural_context": "中国山区小镇底层青年现实困境"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.86,
+          "explanation": "高亢唢呐与失真吉他持续推动情绪的猛烈爆发，情感强度极高。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.22,
+          "explanation": "整体氛围激烈悲怆，缺乏安抚和疗愈的倾向。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.48,
+          "explanation": "结尾悲壮诉求带来一定敬畏感，但主体是愤怒而非震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.52,
+          "explanation": "客家话念白和唢呐音色带有乡土记忆的怀旧成分。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.65,
+          "explanation": "歌词讲述真实困境，引人思考社会阶层和个体命运。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.12,
+          "explanation": "内容与情感表达均与爱情无关。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.84,
+          "explanation": "两段式结构从压抑到爆发制造了持续的心理紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.35,
+          "explanation": "父亲对话部分有细微温情，但整体冷峻沉重。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.72,
+          "explanation": "少年独自面对困境，歌者的嘶吼宣泄强烈的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.78,
+          "explanation": "从压抑到爆发终指向改变命运的希望，结尾具有向上的力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.28,
+          "explanation": "歌词直白叙事，聚焦具体现实困境，抽象程度较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.54,
+          "explanation": "两段式结构与多重情感交织，存在一定认知复杂度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.62,
+          "explanation": "主题触及阶级固化与个体尊严，引导听众进行深入反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.44,
+          "explanation": "采用传统的铺垫与爆发结构，逻辑组织较为直接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.58,
+          "explanation": "客家话摇滚与唢呐融合在主流乐坛具有明显新意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.55,
+          "explanation": "引导听众探索不同于自身生活的社会切面与文化语境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.30,
+          "explanation": "叙事意图清晰，情感指向明确，模糊性较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.42,
+          "explanation": "两段式爆发虽有先兆，但强度与唢呐编排仍超出常规预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.60,
+          "explanation": "歌词包含具体地域文化与身份信息，信息承载量较高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.56,
+          "explanation": "听众可以感知底层青年心理状态与客家音乐文化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.88,
+          "explanation": "全曲聚焦于个人内心独白与命运抗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.42,
+          "explanation": "仅出现父亲角色，人际关系描写有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.68,
+          "explanation": "个人困境背后呈现明显的社会阶层差异与地域不平等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.15,
+          "explanation": "内容完全不涉及文明层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.08,
+          "explanation": "没有任何宇宙或宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "时间跨度为少年的当下困境与未来憧憬，跨度较短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "作品完全是现实主义的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.18,
+          "explanation": "全曲几乎没有快乐成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.68,
+          "explanation": "贫穷与挫折的描写贯穿始终，悲伤感浓郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.72,
+          "explanation": "少年独自承受现实重压是作品的核心情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "仅在父子对话缝隙间有细微温情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.58,
+          "explanation": "对永远被困于贫困的恐惧驱动了少年的抗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.84,
+          "explanation": "压抑与爆发制造了持续的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.48,
+          "explanation": "悲壮的高潮段落带有震撼力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.52,
+          "explanation": "客家话与唢呐唤起对旧时乡土记忆的怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.78,
+          "explanation": "最终爆发的动力来自于对改变命运的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.66,
+          "explanation": "悲伤与不甘混合形成深沉的忧郁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.82,
+          "explanation": "愤怒是对不公正命运最直接的情感回应。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.10,
+          "explanation": "作品完全没有平静或超脱的氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.46,
+          "explanation": "粗粝的力量感是主要审美特征，而非传统美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.58,
+          "explanation": "叙事与编曲没有多余元素，核心冲突突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "与奢华完全无关，描绘的是贫困生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.72,
+          "explanation": "现实困境的描写带有明显的暗黑色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.22,
+          "explanation": "仅希望在结尾带来一丝亮色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.08,
+          "explanation": "极度写实，没有梦幻成分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.15,
+          "explanation": "内容直白，毫无神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.48,
+          "explanation": "唢呐与摇滚的融合具有一定的实验性特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.35,
+          "explanation": "保留了民间音乐的传统元素但整体偏向当代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.62,
+          "explanation": "摇滚编曲与底层写实主题具有鲜明现代性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.42,
+          "explanation": "叙事线索简单清晰：压抑到爆发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.76,
+          "explanation": "歌词深刻揭示了角色的内心欲望和耻辱感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.88,
+          "explanation": "作品完整展现了从隐忍到觉醒的转变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.25,
+          "explanation": "仅简单描绘了小镇环境，未做系统性构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.35,
+          "explanation": "结构为铺垫-爆发的线性模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.68,
+          "explanation": "开头的念白段落起到缓慢沉浸的引导作用。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.80,
+          "explanation": "爆发段的情感宣泄强度极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.90,
+          "explanation": "内心的压抑与外在的贫困构成了激烈的核心冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.55,
+          "explanation": "探讨了尊严、阶层与反抗的价值命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.82,
+          "explanation": "核心驱动力是个人出人头地的强烈愿望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.28,
+          "explanation": "集体意识在此作品中表现微弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.62,
+          "explanation": "父亲的期待和家庭贫困是重要背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.30,
+          "explanation": "没有涉及友情关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "爱情不是作品主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.48,
+          "explanation": "描绘了小镇社区环境及旁人的眼光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.78,
+          "explanation": "隐含了与城市同龄人的生存竞争与地位比拼。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.18,
+          "explanation": "作品完全聚焦个人奋斗，缺乏合作元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.55,
+          "explanation": "反映了社会阶层固化带来的权力不对等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.85,
+          "explanation": "身份焦虑和尊严追寻是核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "渴望摆脱贫困束缚并追求选择的自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.15,
+          "explanation": "作品反抗既有秩序而非维护它。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.62,
+          "explanation": "歌词揭示底层生活的残酷真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.32,
+          "explanation": "美不是本作品的追求目标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.85,
+          "explanation": "渴望成功和证明自己是作品的绝对驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "隐含着对命运不公的质问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.48,
+          "explanation": "提及了父母的牺牲，但非主题重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.72,
+          "explanation": "整首作品是少年的自我认知与觉醒过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.42,
+          "explanation": "保留了客家民谣形式但整体意在打破传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.76,
+          "explanation": "渴望改变现状是作品的最终诉求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.78,
+          "explanation": "在资源匮乏中生存下去的意志非常突出。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.68,
+          "explanation": "在逆境中寻找活下去的意义与尊严。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.42,
+          "explanation": "少年对外面的世界怀有好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.52,
+          "explanation": "作品形式具有创造性，角色意在创造新生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.68,
+          "explanation": "走出大山外出闯荡具有冒险性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.72,
+          "explanation": "大量内心独白引导听众进入自省状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.82,
+          "explanation": "作品鼓励通过竞争改变社会地位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.28,
+          "explanation": "表达方式偏向独白而非社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.58,
+          "explanation": "改变命运需要忍受当下的忍耐与自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.78,
+          "explanation": "孤注一掷的反抗承载了极大的风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.18,
+          "explanation": "情绪始终处于波动中，难以保持冷静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.25,
+          "explanation": "并非纯粹逃避，而是正面反抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.45,
+          "explanation": "音乐以听觉为主，视觉伴随感中等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.38,
+          "explanation": "色调偏阴郁，色彩丰富度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.92,
+          "explanation": "唢呐与电吉他的声压极强，听觉冲击力极高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.88,
+          "explanation": "节奏在爆发段具有极强的动能和冲击力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.86,
+          "explanation": "粗粝而压抑的氛围贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.82,
+          "explanation": "强烈的情感共鸣让听众极易代入少年的心境。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 0.78,
+          "explanation": "摇滚是其核心类型，融合民乐元素。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.78,
+          "explanation": "中板至快板过渡，后半段节奏激昂。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.92,
+          "explanation": "高亢的嘶吼与唢呐助推了极高的能量释放。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 0.72,
+          "explanation": "客家话念白与嘶吼的切换具有鲜明特色。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 0.68,
+          "explanation": "唢呐是标志性乐器，赋予音乐独特的悲怆感。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 0.55,
+          "explanation": "现场原声感强，质感粗粝真实。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 0.85,
+          "explanation": "小镇青年奋斗是绝对主题。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 0.90,
+          "explanation": "压抑爆发模式塑造了强烈的情绪场景。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 0.62,
+          "explanation": "背后折射出中国山区小镇的现实困境。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "听众从第一段低沉的客家话念白与压抑的叙事中进入少年的生存困境，体会到贫穷带来的无力、羞耻与挣扎。随着编曲加重，电吉他与鼓点将情感转化为愤怒与不甘，在副歌处汇成震撼的嘶吼，完成一次极具爆发力的情感释放。整个过程让听众与角色一起经历从隐忍到反抗的心路历程，最后在悲壮与希望交织中收束，留下持久的余震。",
+        "structure_description": "作品采用了典型的二段体铺垫-爆发结构。前半段以念白和缓慢铺排压缩情绪，极力克制；后半段通过音墙、加速鼓点和唢呐的突然登场制造情绪崩发点。这种先抑后扬的编排让压抑感层层累积，最终在嘶吼中全部释放，构成强烈张力与戏剧化的听觉体验。",
+        "cognitive_expression": "听众需连续处理文本中的自我叙事、社会阶层线索和地域身份信息。前半段引导反思贫困与刻板印象对个体心理的侵蚀，后半段则推动认知从自我怀疑转向觉醒和反抗，整体鼓励对尊严、公平和命运等抽象概念进行个人化的价值判断。",
+        "behavioral_tendency_description": "作品强化独立思考与个人奋斗的倾向，鼓励在逆境中保持反思和清醒，不畏世俗眼光。它唤起的不是顺从，而是蓄力后的反叛与冒险冲动，同时也暗示了需要通过克制和忍耐来换取未来的突破。"
+      },
+      "personality_affinity": {
+        "Ni": 0.45,
+        "Ne": 0.38,
+        "Ti": 0.42,
+        "Te": 0.72,
+        "Fi": 0.82,
+        "Fe": 0.35,
+        "Si": 0.62,
+        "Se": 0.65,
+        "openness": 0.62,
+        "conscientiousness": 0.58,
+        "extraversion": 0.48,
+        "agreeableness": 0.25,
+        "neuroticism": 0.78,
+        "Assertive": 0.65,
+        "Turbulent": 0.72
+      },
+      "supporting_evidence": [
+        "作品以客家话进行叙事和演唱，具有鲜明的地域文化特征。",
+        "歌词讲述少年因家境贫寒而在学校和社交中遭遇冷眼与轻视。",
+        "前半部分采用念白形式，以低沉压抑的语气铺陈现实困境。",
+        "歌曲后半部分转向嘶吼和呐喊，情绪突然猛烈爆发。",
+        "编曲中将唢呐的高亢悲凉音色与电吉他的失真音色结合在一起。",
+        "歌词提到父亲劝诫少年要忍耐，反映出家庭的无力感。",
+        "作品反复强调不能向命运低头，要出人头地的决心。",
+        "音乐节奏从中速逐渐加快至急促，模拟心理紧张感的升级。",
+        "整首作品的核心冲突源于城乡差异和阶层固化的现实背景。",
+        "现场演出版本保留了粗糙的原声质感，未经过度后期修饰。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

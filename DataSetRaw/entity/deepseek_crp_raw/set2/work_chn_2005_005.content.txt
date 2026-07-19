@@ -1,0 +1,735 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2005_005",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "欲望景观",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 2005,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.85,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "《欲望景观》是陈默的油画及装置系列作品，采用艳俗色彩与拼贴形象构建消费主义图景。作品通过波普风格与夸张视觉符号，直接呈现消费社会中的欲望扩张、物质崇拜及精神空虚，形成对当代文化的尖锐批判。整体体验充满视觉冲击、荒诞感受与反思性不适，是川派当代艺术中表达社会批判的重要代表。",
+        "themes": [
+          "消费主义",
+          "社会批判",
+          "精神空虚",
+          "欲望",
+          "现代性",
+          "物质崇拜",
+          "城市文化"
+        ],
+        "keywords": [
+          "艳俗色彩",
+          "拼贴",
+          "波普风格",
+          "消费符号",
+          "川派当代艺术",
+          "装置艺术",
+          "社会批判",
+          "精神困境"
+        ],
+        "core_experience": "面对浮华艳俗的视觉堆叠，产生强烈的感官冲击与荒诞感，体验到消费主义狂欢背后的空洞与不安，引发对当代物质文明的反思性不适。",
+        "experience_introduction": "该系列作品通过艳俗的色彩体系和拼贴式的商业符号堆砌，刻意营造出一种过度饱和、令人不安的视觉场域。观众进入作品空间后，首先被强烈的感官刺激所淹没，随后在辨认熟悉的消费符号过程中，逐渐体会到一种表面的狂欢与内在的空虚之间的撕裂感，从而被迫直面现代消费文化对精神的侵蚀。"
+      },
+      "experience_vector": {
+        "passion": 0.55,
+        "healing": 0.05,
+        "awe": 0.15,
+        "nostalgia": 0.10,
+        "reflection": 0.85,
+        "romance": 0.00,
+        "tension": 0.60,
+        "warmth": 0.00,
+        "loneliness": 0.65,
+        "hope": 0.05
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.62,
+          "complexity": 0.58,
+          "depth_of_thought": 0.78,
+          "logical_structure": 0.40,
+          "novelty": 0.45,
+          "exploration": 0.30,
+          "ambiguity": 0.55,
+          "predictability": 0.30,
+          "information_density": 0.65,
+          "learning_value": 0.72
+        },
+        "worldview": {
+          "personal_scale": 0.50,
+          "relationship_scale": 0.30,
+          "social_scale": 0.85,
+          "civilization_scale": 0.78,
+          "cosmic_scale": 0.10,
+          "time_span": 0.40,
+          "fantasy_level": 0.25
+        },
+        "emotion": {
+          "happiness": 0.20,
+          "sadness": 0.35,
+          "loneliness": 0.70,
+          "warmth": 0.00,
+          "fear": 0.30,
+          "tension": 0.65,
+          "awe": 0.25,
+          "nostalgia": 0.15,
+          "hope": 0.05,
+          "melancholy": 0.55,
+          "anger": 0.35,
+          "peace": 0.00
+        },
+        "aesthetic": {
+          "beauty": 0.30,
+          "minimalism": 0.00,
+          "luxury": 0.85,
+          "darkness": 0.55,
+          "brightness": 0.50,
+          "dreamlike": 0.20,
+          "mystery": 0.40,
+          "experimental": 0.60,
+          "classical": 0.05,
+          "modern": 0.90
+        },
+        "narrative": {
+          "plot_complexity": 0.20,
+          "character_depth": 0.25,
+          "character_growth": 0.10,
+          "world_building": 0.45,
+          "nonlinear_structure": 0.55,
+          "slow_immersion": 0.30,
+          "action_intensity": 0.40,
+          "conflict_intensity": 0.80,
+          "philosophical_depth": 0.82
+        },
+        "social_relationship": {
+          "individualism": 0.40,
+          "collectivism": 0.45,
+          "family": 0.10,
+          "friendship": 0.05,
+          "love": 0.05,
+          "community": 0.50,
+          "competition": 0.75,
+          "cooperation": 0.10,
+          "power_relationship": 0.60,
+          "identity": 0.68
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.10,
+          "truth": 0.75,
+          "beauty": 0.30,
+          "achievement": 0.40,
+          "justice": 0.55,
+          "sacrifice": 0.15,
+          "self_exploration": 0.50,
+          "tradition": 0.10,
+          "change": 0.65,
+          "survival": 0.45,
+          "meaning": 0.80
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.55,
+          "adventure": 0.20,
+          "reflection": 0.85,
+          "competition": 0.60,
+          "social": 0.35,
+          "discipline": 0.15,
+          "risk": 0.30,
+          "calm": 0.10,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.95,
+          "color_richness": 0.92,
+          "sound_intensity": 0.10,
+          "rhythm_energy": 0.75,
+          "atmosphere": 0.80,
+          "immersion": 0.70
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "艳俗波普与拼贴",
+          "color_expression": 0.95,
+          "composition_complexity": 0.65,
+          "symbolism": 0.88,
+          "emotional_expression": 0.82,
+          "historical_style": 0.15
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.55,
+          "explanation": "作品中强烈的视觉刺激和批判性能量赋予一定的情感驱动力，但被反思和批判所中和。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "作品刻意营造不安和空洞感，几乎不提供疗愈或安慰体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.15,
+          "explanation": "视觉形式具有冲击力，但核心体验是批判和荒诞而非崇高敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.10,
+          "explanation": "主要聚焦当代社会批判，怀旧情绪极弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "对消费主义和精神困境的直接批判强烈诱发观众进行社会反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.00,
+          "explanation": "作品不涉及任何浪漫元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.60,
+          "explanation": "艳俗色彩与空虚内涵之间的冲突制造了持续的心理紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.00,
+          "explanation": "作品风格冷漠、批判，毫无温暖质感。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.65,
+          "explanation": "描绘个体在繁华物质世界中的精神孤立与空虚，孤独感强烈。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.05,
+          "explanation": "表达以揭示困境为主，几乎不提供希望或出路。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.62,
+          "explanation": "使用符号拼贴和概念隐喻来表达批判，需要一定的抽象解读能力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.58,
+          "explanation": "符号层次和观念交织具备一定的认知复杂性，但视觉语言较为直接。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.78,
+          "explanation": "深入探讨消费主义、精神空虚和文化异化等社会哲学议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.40,
+          "explanation": "艺术表达以感性和符号堆叠为主，不强调逻辑推演结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.45,
+          "explanation": "在2005年的语境下融合艳俗与波普具有新意，但波普艺术语言本身已有历史。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "主要聚焦已知的社会现象进行批判，对外部未知领域的探索性不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "符号拼贴带有一定的多义性和反讽，含义并非完全直白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "批判立场明确但视觉形式具有冲击性，并非完全可预测。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.65,
+          "explanation": "大量消费符号和视觉元素的堆叠提供了较高的社会文化信息密度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.72,
+          "explanation": "为理解当代中国消费文化、社会批判艺术提供了典型案例和思辨价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.50,
+          "explanation": "关注个体在消费社会中的精神状态，个人尺度适中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.30,
+          "explanation": "人际亲密关系并非重点，更强调个体与商业环境的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.85,
+          "explanation": "核心焦点是整体社会现象、消费文化和集体精神面貌。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.78,
+          "explanation": "将议题上升到现代文明和消费主义文化的宏观层面进行批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "不涉及宇宙或宏大自然尺度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.40,
+          "explanation": "主要表现当代社会切片，时间跨度有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.25,
+          "explanation": "虽有夸张和拼贴，但基础是对现实社会的映射，幻想程度低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.20,
+          "explanation": "视觉上的艳俗仅带来表面的虚假快乐，核心情绪是空虚。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.35,
+          "explanation": "对精神困境的揭示带来一定的悲哀感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.70,
+          "explanation": "突出表现繁华背后个体的精神孤立与疏离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.00,
+          "explanation": "情感基调是冷峻批判，毫无温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.30,
+          "explanation": "物质膨胀带来的精神异化感可能引发轻微恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.65,
+          "explanation": "外在浮华与内在空虚的强烈对比持续制造内心紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.25,
+          "explanation": "技术表现带来的视觉冲击产生轻微惊叹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.15,
+          "explanation": "不旨在唤起怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "批判性表达为主，不提供希望出口。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.55,
+          "explanation": "对物质文明的深刻反思带来浓厚的忧郁和感伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.35,
+          "explanation": "批判中带有一定的讽刺和愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.00,
+          "explanation": "整体氛围充满冲突和不安，绝不平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.30,
+          "explanation": "刻意使用艳俗甚至“丑”的视觉表达，传统美感低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.00,
+          "explanation": "视觉元素堆砌繁复，与极简主义完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.85,
+          "explanation": "直接描绘并夸张表现物质奢华和消费符号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.55,
+          "explanation": "浮华外表下隐藏着对黑暗精神内核的揭示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.50,
+          "explanation": "色彩明艳高亮，但内在寓意阴暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.20,
+          "explanation": "视觉夸张但根源是现实批判，非梦境营造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.40,
+          "explanation": "符号拼贴具有一定的多义性，但主题明确。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.60,
+          "explanation": "结合艳俗、波普与装置，在艺术形式上具有较强的实验性质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.05,
+          "explanation": "完全远离古典美学范式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.90,
+          "explanation": "高度体现当代艺术语言和现代消费文化特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.20,
+          "explanation": "非叙事性绘画，无复杂情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.25,
+          "explanation": "更多表现群体符号而非深刻个体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.10,
+          "explanation": "不存在人物成长弧光。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.45,
+          "explanation": "构建了一个符号化的消费社会图景，但非系统性世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.55,
+          "explanation": "拼贴式的视觉构成具有非线性、多层次的结构特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.30,
+          "explanation": "视觉冲击直接强烈，非渐进式沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.40,
+          "explanation": "视觉元素复杂且充满张力，但无动态叙事动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.80,
+          "explanation": "精神与物质、个体与社会、真实与虚假的冲突极为剧烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.82,
+          "explanation": "深入探讨存在、异化和现代性等深刻的哲学命题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.40,
+          "explanation": "描绘了追求物质满足的个体，但更多是集体无意识行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "表现了群体性的消费狂潮和社会趋同现象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.10,
+          "explanation": "不涉及家庭关系主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "不涉及友情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "不涉及爱情主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.50,
+          "explanation": "表现了处于同一消费文化下的社会群体。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.75,
+          "explanation": "隐含物质攀比、身份区隔和消费竞争的社会关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "不表现合作关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.60,
+          "explanation": "揭示了商业资本和符号权力对个体的支配关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.68,
+          "explanation": "探讨消费文化对个体身份认同的塑造与侵蚀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "更多是揭示精神的不自由，而非颂扬自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.10,
+          "explanation": "呈现商业秩序下的失序，不强调秩序价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.75,
+          "explanation": "意图揭露浮华表象下的精神真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "并非追求传统审美，而是批判虚假的“美”。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.40,
+          "explanation": "物欲成就被展示但同时也被质疑和批判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "扮演社会批判的良心角色，寻求价值正义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "不涉及牺牲主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.50,
+          "explanation": "促使观众反省自身与消费文化的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.10,
+          "explanation": "完全是当代语境的批判，远离传统价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.65,
+          "explanation": "隐含对改变社会现状和精神面貌的呼吁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.45,
+          "explanation": "暗示在物欲横流中精神生存的困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.80,
+          "explanation": "核心指向对人生意义和存在价值的追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "观看动机中包含对社会现象的好奇，但不是探索未知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.55,
+          "explanation": "作品本身是强烈的艺术创造，并启发观众建构批判性思维。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.20,
+          "explanation": "体验是思想上的冒险而非行动上的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "作品的核心驱动力是引发观众深刻的理性与感性反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.60,
+          "explanation": "内容高度呈现社会性竞争和攀比行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.35,
+          "explanation": "关注社会整体而非个体社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "不强调自律或克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.30,
+          "explanation": "艺术表达具挑战性，但不直接关联风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.10,
+          "explanation": "情绪和视觉充满张力，与平静相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "直面现实的批判，不提供逃避空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.95,
+          "explanation": "高饱和度艳俗色彩和拼贴造成极强视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.92,
+          "explanation": "色彩种类繁多且极度饱满浓烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.10,
+          "explanation": "视觉艺术，无声元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.75,
+          "explanation": "视觉元素排布密集，节奏感强、能量充沛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.80,
+          "explanation": "营造出强烈的物质膨胀与精神压抑并存的矛盾氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.70,
+          "explanation": "视觉信息过载容易将观众完全包裹其中。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.95,
+          "explanation": "风格定义为艳俗波普与拼贴，是作品最显著的视觉特征。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.95,
+          "explanation": "使用极其艳丽甚至刺目的色彩表达情感与批判。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.65,
+          "explanation": "多元素拼贴使画面构成层次复杂。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.88,
+          "explanation": "大量使用商业符号和拼贴图像承载隐喻批判。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.82,
+          "explanation": "直接传递出亢奋、空洞与不安的混合情绪。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.15,
+          "explanation": "属于当代前卫艺术，与古典历史风格无关。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在遭遇密集的消费符号和刺目的艳俗色彩时，会经历从视觉震撼到心理不适的转变。这是一场感官的过度饱和体验，表面上的热闹繁华迅速转化为内在的空虚感和荒诞感。当辨认出那些熟悉的日常商品符号被扭曲、堆砌时，愉快的消费联想被打破，取而代之的是一种被物欲包围的窒息感和批判性的自我审视。",
+        "structure_description": "作品采用非线性的拼贴结构来组织视觉元素，没有传统绘画的叙事焦点或单一透视。碎片化的图像、相互冲突的色彩被并置在同一平面上，形成一种去中心化的视觉构成。这种结构模拟了消费信息爆炸的当代生活经验，迫使观众在混乱中寻找自己的观看路径，强化了被信息吞噬的体验。",
+        "cognitive_expression": "观众需要调动符号解读能力来理解商业图像背后的文化含义，并运用抽象思维将视觉上的奢华与精神上的贫困建立联系。作品不提供明确的答案，而是通过矛盾的视觉陈述促使观众进行批判性思考，对习以为常的消费行为和价值观念进行再评估，认知过程侧重于解构与反思而非线性理解。",
+        "behavioral_tendency_description": "这种体验往往会抑制行动冲动，转而引发冷静的思辨行为。它不会激起消费欲望或行动激情，反而会培养一种抽离和审视的态度。观看后的行为倾向指向对社会现象的重新反思，而非身体的运动或直接的社交行为。"
+      },
+      "personality_affinity": {
+        "Ni": 0.78,
+        "Ne": 0.55,
+        "Ti": 0.65,
+        "Te": 0.40,
+        "Fi": 0.72,
+        "Fe": 0.68,
+        "Si": 0.15,
+        "Se": 0.70,
+        "openness": 0.88,
+        "conscientiousness": 0.55,
+        "extraversion": 0.45,
+        "agreeableness": 0.30,
+        "neuroticism": 0.70,
+        "Assertive": 0.35,
+        "Turbulent": 0.80
+      },
+      "supporting_evidence": [
+        "系列作品采用高饱和度的艳俗色彩和商业广告式的视觉语言。",
+        "使用拼贴手法将名牌标志、商品和日常图像并置在同一画面中。",
+        "视觉元素堆砌繁密，刻意制造信息过载的观看效果。",
+        "画面表现出奢华外表与空洞内核之间的强烈反差。",
+        "作品属于川派当代艺术中具有社会批判性的重要代表。",
+        "艺术语言融合了波普艺术、艳俗艺术和装置艺术的特点。",
+        "内容聚焦当代中国消费文化下的物质崇拜与精神困境。",
+        "通过夸张和反讽手法揭示消费社会中的虚假欲望。",
+        "装置部分强化了现实空间的物质感与包围感。",
+        "不提供明确的叙事线索，依赖符号本身的冲击力传递信息。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

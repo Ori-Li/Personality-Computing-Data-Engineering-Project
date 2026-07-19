@@ -1,0 +1,1502 @@
+[
+  {
+    "workId": "work_chn_1913_001",
+    "workName": "狼之独步",
+    "originalName": "狼之独步",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1960,
+    "countryCode": "CHN",
+    "introduction": "《狼之独步》是纪弦的现代诗作，以“狼”自喻，在冷寂的荒原上发出孤独而骄傲的嚎叫，是其现代主义诗歌理念的宣言。",
+    "primaryAuthorId": "realCharacter_chn_1913_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1913_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_0701_001",
+    "workName": "将进酒",
+    "originalName": "将进酒",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 752,
+    "countryCode": "CHN",
+    "introduction": "《将进酒》是唐代诗人李白最负盛名的歌行体诗篇之一。以“君不见黄河之水天上来”的磅礴开篇，抒发人生苦短、怀才不遇的慷慨，最终在“与尔同销万古愁”中狂放作结，尽显诗仙的浪漫情怀与不羁人格。",
+    "primaryAuthorId": "realCharacter_chn_0701_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_0701_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1950_001",
+    "workName": "阳光中的向日葵",
+    "originalName": "阳光中的向日葵",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1983,
+    "countryCode": "CHN",
+    "introduction": "《阳光中的向日葵》是芒克的代表作，以向日葵在阳光下不屈的姿态象征一代人冲破束缚、追求光明的生命意识，语言单纯而充满力量。",
+    "primaryAuthorId": "realCharacter_chn_1950_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1950_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1954_001",
+    "workName": "四大名捕",
+    "originalName": "四大名捕",
+    "genre": 6,
+    "subcategory": 6003,
+    "subcategories": [6003],
+    "year": 1973,
+    "countryCode": "CHN",
+    "introduction": "《四大名捕》系列是温瑞安创作的武侠小说，以无情、铁手、追命、冷血四位捕快为主角，在江湖与庙堂之间展开悬念重重的破案故事，将推理与武侠精妙融合。",
+    "primaryAuthorId": "realCharacter_chn_1954_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1954_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1892_001",
+    "workName": "女神",
+    "originalName": "女神",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1921,
+    "countryCode": "CHN",
+    "introduction": "《女神》是郭沫若的第一部诗集，也是中国新诗的奠基之作。以《凤凰涅槃》《天狗》等诗篇，用狂飙突进的浪漫主义笔调，歌颂毁灭与新生，充满了五四时代的破坏与创造精神。",
+    "primaryAuthorId": "realCharacter_chn_1892_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1892_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1898_001",
+    "workName": "海滨故人",
+    "originalName": "海滨故人",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004],
+    "year": 1925,
+    "countryCode": "CHN",
+    "introduction": "《海滨故人》是庐隐的代表作，以哀婉清丽的笔触，描写几位受过新式教育的女性在海滨相聚与离散，倾诉她们在爱情、理想与现实之间的苦闷与彷徨。",
+    "primaryAuthorId": "realCharacter_chn_1898_001",
+    "creators": [
+      { "characterId": "realCharacter_chn_1898_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1940_001",
+    "workName": "人到中年",
+    "originalName": "人到中年",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 1982,
+    "countryCode": "CHN",
+    "introduction": "《人到中年》是王启民、孙羽执导的影片，达式常饰演眼科医生陆文婷的丈夫傅家杰。电影真实反映了中年知识分子在工作与家庭重压下默默奉献的困境，上映后引起巨大社会反响。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1940_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1946_001",
+    "workName": "英雄本色",
+    "originalName": "英雄本色",
+    "genre": 4,
+    "subcategory": 4012,
+    "subcategories": [4012, 4003],
+    "year": 1986,
+    "countryCode": "CHN",
+    "introduction": "《英雄本色》是吴宇森执导的警匪片经典，狄龙饰演落魄的江湖大哥宋子豪。他与周润发饰演的小马哥在枪火中重拾兄弟情义，将男性友谊与江湖道义推向极致。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1946_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1947_001",
+    "workName": "一一",
+    "originalName": "一一",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2000,
+    "countryCode": "CHN",
+    "introduction": "《一一》是杨德昌执导的电影，以台北中产家庭NJ为中心，从婚礼到葬礼，透过三代人的视角呈现了生命的各个阶段，沉静而深邃，获戛纳电影节最佳导演奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1947_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1967_001",
+    "workName": "最遥远的距离",
+    "originalName": "最遙遠的距離",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2007,
+    "countryCode": "CHN",
+    "introduction": "《最遥远的距离》是林靖杰执导的电影，以录音师、心理医生和上班族三人沿着东海岸寻找声音的旅程，编织出一部关于声音、爱情和疏离的散文诗电影。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1967_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1974_001",
+    "workName": "太极",
+    "originalName": "太極",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4004],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《太极》系列是冯德伦执导的蒸汽朋克风格武侠电影，讲述憨厚少年杨露禅到陈家沟学拳的故事，将传统武术与漫画、机械元素结合，视觉风格大胆。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1974_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1952_001",
+    "workName": "铁齿铜牙纪晓岚",
+    "originalName": "铁齿铜牙纪晓岚",
+    "genre": 5,
+    "subcategory": 5007,
+    "subcategories": [5007, 5012],
+    "year": 2000,
+    "countryCode": "CHN",
+    "introduction": "《铁齿铜牙纪晓岚》是邹静之编剧的系列古装喜剧，由张国立、王刚、张铁林铁三角主演。纪晓岚与和珅斗智斗嘴，以轻松诙谐的方式演绎乾隆朝堂与市井百态。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1952_001", "relationType": 3, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1975_001",
+    "workName": "十六岁的花季",
+    "originalName": "十六岁的花季",
+    "genre": 5,
+    "subcategory": 5011,
+    "subcategories": [5011],
+    "year": 1989,
+    "countryCode": "CHN",
+    "introduction": "《十六岁的花季》是1989年播出的校园青春剧，池华琼饰演白雪。该剧真实展现了上世纪八十年代末高中生的生活、友情与成长，是国产青春剧的经典开山之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1975_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1969_001",
+    "workName": "爱丽丝的镜子",
+    "originalName": "愛麗絲的鏡子",
+    "genre": 4,
+    "subcategory": 4015,
+    "subcategories": [4015],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "《爱丽丝的镜子》是姚宏易执导的纪录片，以细腻的镜头观察台湾年轻人之间的情感依偎与自我探寻，延续了台湾新浪潮的写实诗学风格。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1969_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1960_001",
+    "workName": "都挺好",
+    "originalName": "都挺好",
+    "genre": 5,
+    "subcategory": 5001,
+    "subcategories": [5001, 5010],
+    "year": 2019,
+    "countryCode": "CHN",
+    "introduction": "《都挺好》是正午阳光出品的都市家庭剧，倪大红饰演苏大强。这个作天作地、压抑后又“放飞自我”的老父亲形象，引发了对原生家庭之痛的全民大讨论。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1960_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1984_001",
+    "workName": "最美的时光",
+    "originalName": "最美的时光",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [5008, 5009],
+    "year": 2013,
+    "countryCode": "CHN",
+    "introduction": "《最美的时光》是2013年播出的都市情感剧，贾乃亮饰演深情守候的宋翊。该剧改编自桐华小说《被时光掩埋的秘密》，讲述了一段跨越多年的暗恋与职场故事。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1984_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1962_001",
+    "workName": "士兵突击",
+    "originalName": "士兵突击",
+    "genre": 5,
+    "subcategory": 5001,
+    "subcategories": [5001, 5014],
+    "year": 2006,
+    "countryCode": "CHN",
+    "introduction": "《士兵突击》是康洪雷执导的军旅剧，讲述农村娃许三多从一个“孬兵”成长为兵王的历程。全剧没有爱情线，以纯粹的战友情和“不抛弃、不放弃”精神感动无数观众。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1962_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1974_002",
+    "workName": "何以笙箫默",
+    "originalName": "何以笙箫默",
+    "genre": 5,
+    "subcategory": 5008,
+    "subcategories": [5008, 5009],
+    "year": 2015,
+    "countryCode": "CHN",
+    "introduction": "《何以笙箫默》是2015年播出的都市爱情剧，钟汉良饰演法律精英何以琛。七年等待一人归的深情人设，引爆了“亿年修得何以琛”的热潮。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1974_002", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1986_001",
+    "workName": "三生三世十里桃花",
+    "originalName": "三生三世十里桃花",
+    "genre": 5,
+    "subcategory": 5005,
+    "subcategories": [5005, 5009],
+    "year": 2017,
+    "countryCode": "CHN",
+    "introduction": "《三生三世十里桃花》是杨幂主演的仙侠剧，她饰演的白浅与赵又廷饰演的夜华历经三段爱恨纠葛。该剧以唯美虐恋和“整容式演技”赢得超高收视。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1986_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1943_001",
+    "workName": "卧虎藏龙",
+    "originalName": "卧虎藏龙",
+    "genre": 4,
+    "subcategory": 4003,
+    "subcategories": [4003, 4002],
+    "year": 2000,
+    "countryCode": "CHN",
+    "introduction": "《卧虎藏龙》是李安执导的武侠片，徐立功担任制片人。影片以青冥剑为线索展开江湖恩怨，将东方美学与西方叙事结合，获奥斯卡最佳外语片等四项大奖。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1943_001", "relationType": 4, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1960_002",
+    "workName": "吻别",
+    "originalName": "吻别",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1993,
+    "countryCode": "CHN",
+    "introduction": "《吻别》是张学友演唱的歌曲，黄庆元编曲。凄美的前奏和学友深情克制的演唱，将失恋的痛楚唱得入木三分，成为华语乐坛销量神话。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1960_002", "relationType": 26, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1952_002",
+    "workName": "Mong Dong",
+    "originalName": "Mong Dong",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": 1984,
+    "countryCode": "CHN",
+    "introduction": "《Mong Dong》是瞿小松为动画片《悍牛与牧童》创作的音乐，将云南民间素材与现代技法糅合，以原始野性的音响构造出极具生命力的乐章，是中国现代音乐代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1952_002", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1940_002",
+    "workName": "春江花月夜",
+    "originalName": "春江花月夜",
+    "genre": 7,
+    "subcategory": 7014,
+    "subcategories": [7014],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《春江花月夜》是经典琵琶古曲，李光华以纯净深沉的处理，将夕阳箫鼓、月上东山、风回曲水等诗化意境通过指尖徐徐展开，是文人琵琶艺术的典范。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1940_002", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1982_001",
+    "workName": "色弱",
+    "originalName": "色弱",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《色弱》是小老虎的专辑，以即兴说唱和诗性歌词，将爵士与实验Hip-Hop融合，像一场流动的意识漫谈，展示了他独树一帜的嘻哈艺术。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1982_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1975_002",
+    "workName": "在路旁",
+    "originalName": "在路旁",
+    "genre": 7,
+    "subcategory": 7008,
+    "subcategories": [7008],
+    "year": 2006,
+    "countryCode": "CHN",
+    "introduction": "《在路旁》是钟立风的民谣专辑，带有俄罗斯民谣的悠远和文学青年的内敛，同名歌曲以朴素的叙事和手风琴的旋律，唱出旅人的漂泊与希冀。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1975_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2013_001",
+    "workName": "如果一生只有三十岁",
+    "originalName": "如果一生只有三十歲",
+    "genre": 7,
+    "subcategory": 7008,
+    "subcategories": [7008],
+    "year": 2015,
+    "countryCode": "CHN",
+    "introduction": "《如果一生只有三十岁》是新青年理发厅的歌曲，以质朴的粤语和木吉他，探讨短暂生命里面对爱情与梦想的惶恐，淡淡忧愁中透出青春的真挚。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2013_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1989_001",
+    "workName": "Come back to me",
+    "originalName": "Come back to me",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2013,
+    "countryCode": "CHN",
+    "introduction": "《Come back to me》是毕书尽的歌曲，以中韩文双语演唱，高亢的嗓音和都市R&B节奏，诉说着渴望恋人回头的伤情，成为偶像剧热门插曲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1989_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1981_001",
+    "workName": "断点",
+    "originalName": "断点",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2004,
+    "countryCode": "CHN",
+    "introduction": "《断点》是张敬轩创作并演唱的国语歌曲，以简洁的钢琴和弦乐铺陈，唱出分手后无法释怀的遗憾，旋律深情上口，是他在内地走红的代表作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1981_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1982_002",
+    "workName": "心象",
+    "originalName": "心象",
+    "genre": 7,
+    "subcategory": 7012,
+    "subcategories": [7012],
+    "year": 2006,
+    "countryCode": "CHN",
+    "introduction": "《心象》是Dead J的电子音乐专辑，以IDM的冷冽节拍、故障声效和空旷氛围，在抽象世界中探索内心景观，是中国独立电子音乐的佳作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1982_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1991_001",
+    "workName": "潮流",
+    "originalName": "潮流",
+    "genre": 7,
+    "subcategory": 7002,
+    "subcategories": [7002],
+    "year": 2020,
+    "countryCode": "CHN",
+    "introduction": "《潮流》是Kc的单曲，以旋律说唱捕捉年轻人在潮流文化中的迷失与自我坚持，流畅的律动和情绪化歌词吸引了一批听众。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1991_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1961_001",
+    "workName": "花心",
+    "originalName": "花心",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1993,
+    "countryCode": "CHN",
+    "introduction": "《花心》是周华健演唱的歌曲，厉曼婷作词。以花喻心，劝人珍惜当下，歌词婉约而励志，加上周华健温暖的演唱，成为1990年代极具传唱度的经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1961_001", "relationType": 12, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1978_001",
+    "workName": "一个人生活",
+    "originalName": "一個人生活",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2000,
+    "countryCode": "CHN",
+    "introduction": "《一个人生活》是林凡的出道歌曲，也是偶像剧《天地传说之鱼美人》片尾曲。以温暖而略带沙哑的嗓音，唱出学会独处的勇气与失落。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1978_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2002_001",
+    "workName": "我们的合唱歌",
+    "originalName": "我們的合唱歌",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2003,
+    "countryCode": "CHN",
+    "introduction": "《我们的合唱歌》是2R组合的歌曲，以轻快节拍和双胞胎姐妹的甜美和声，唱着少女友谊与恋爱心事，是千禧年初粤语乐坛青春组合的代表作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2002_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1983_001",
+    "workName": "时间煮雨",
+    "originalName": "时间煮雨",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 2013,
+    "countryCode": "CHN",
+    "introduction": "《时间煮雨》是郁可唯为电影《小时代》演唱的宣传曲，以细腻的嗓音和钢琴旋律，感叹青春流逝与友情珍贵，是现象级的影视歌曲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1983_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2017_001",
+    "workName": "5:10a.m.",
+    "originalName": "5:10a.m.",
+    "genre": 7,
+    "subcategory": 7003,
+    "subcategories": [7003],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "《5:10a.m.》是傻子与白痴乐队的歌曲，主唱蔡维泽以慵懒低迷的声线，描绘凌晨失眠的都市孤独感，在明日之子节目后成为标志性作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2017_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1975_003",
+    "workName": "心有独钟",
+    "originalName": "心有獨鍾",
+    "genre": 7,
+    "subcategory": 7001,
+    "subcategories": [7001],
+    "year": 1997,
+    "countryCode": "CHN",
+    "introduction": "《心有独钟》是陈晓东的成名曲，以温暖略沙的嗓音诠释一见钟情的痴情，旋律简单却直击人心，使他一举成为人气偶像。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1975_003", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1947_002",
+    "workName": "天仙配",
+    "originalName": "天仙配",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "黄梅戏《天仙配》是黄新德的代表剧目，他饰演的董永忠厚老实，与七仙女演绎了一段感人肺腑的仙凡之恋，唱腔质朴深情，是黄梅戏的传世经典。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1947_002", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1934_001",
+    "workName": "肖邦夜曲集",
+    "originalName": "Chopin Nocturnes",
+    "genre": 7,
+    "subcategory": 7005,
+    "subcategories": [7005],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "傅聪演奏的肖邦夜曲，以诗意的分句和细腻的触键，将肖邦的浪漫与哀愁渗透于黑白键之间，玛祖卡节奏感尤其出众，是国际乐坛推崇的诠释版本。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1934_001", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1933_001",
+    "workName": "霸王卸甲",
+    "originalName": "霸王卸甲",
+    "genre": 7,
+    "subcategory": 7014,
+    "subcategories": [7014],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "《霸王卸甲》是王范地演奏并整理的琵琶武曲，以沉雄悲壮的轮指和扫弦，再现西楚霸王项羽兵败的悲剧一幕，是琵琶传统大套曲的重要版本。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1933_001", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1978_002",
+    "workName": "图兰朵",
+    "originalName": "Turandot",
+    "genre": 8,
+    "subcategory": 8003,
+    "subcategories": [8003],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "歌剧《图兰朵》是普契尼的经典作品，周晓琳在其中饰演柳儿等角色。她以华丽抒情的高音和纯正的美声，在大型制作中展示了中国女高音的实力。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1978_002", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1932_001",
+    "workName": "大闹天宫",
+    "originalName": "大闹天宫",
+    "genre": 2,
+    "subcategory": 2002,
+    "subcategories": [2002, 2004],
+    "year": 1961,
+    "countryCode": "CHN",
+    "introduction": "《大闹天宫》是上海美术电影制片厂制作的动画长片，李永进担任动画设计。影片以浓郁的京剧脸谱和壁画风格，描绘孙悟空大闹龙宫天庭的壮丽神话，是中国动画学派的巅峰之作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1932_001", "relationType": 32, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2011_001",
+    "workName": "二战风云2",
+    "originalName": "二战风云2",
+    "genre": 1,
+    "subcategory": 1005,
+    "subcategories": [1005],
+    "year": 2015,
+    "countryCode": "CHN",
+    "introduction": "《二战风云2》是火炬工作室开发的军事策略手游，以二战战役为背景，玩家指挥海陆空三军协同作战，还原历史战场的宏观策略。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2011_001", "relationType": 8, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1987_001",
+    "workName": "哑舍",
+    "originalName": "哑舍",
+    "genre": 3,
+    "subcategory": 3004,
+    "subcategories": [3004, 3010],
+    "year": 2011,
+    "countryCode": "CHN",
+    "introduction": "《哑舍》是玄色创作的系列古董幻想小说，鹿菏为多部封面及插画执笔。他以清丽的水墨古风，描绘出哑舍中每一件古物背后的神秘与情愁。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1987_001", "relationType": 31, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1965_001",
+    "workName": "风景",
+    "originalName": "风景",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "刘炜的《风景》系列油画以近乎溃烂的鲜艳颜料和大胆笔触，将传统风景题材演绎为一种肉感、糜烂的生命景象，充满感官冲击和哲学隐喻。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1965_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1050_001",
+    "workName": "后赤壁赋图",
+    "originalName": "后赤壁赋图",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1100,
+    "countryCode": "CHN",
+    "introduction": "《后赤壁赋图》是乔仲常的白描手卷，以苏轼《后赤壁赋》为底本，用水墨线条营造出孤鹤横江、山高月小的文人意境，是北宋叙事画珍品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1050_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1939_001",
+    "workName": "人民和总理",
+    "originalName": "人民和总理",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1979,
+    "countryCode": "CHN",
+    "introduction": "《人民和总理》是周思聪创作的水墨人物画，描绘周恩来总理在邢台地震灾区视察时与群众在一起的感人场景，笔情墨意，深情内敛，是新中国人物画的杰作。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1939_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1973_001",
+    "workName": "北海",
+    "originalName": "北海",
+    "genre": 9,
+    "subcategory": 9001,
+    "subcategories": [9001],
+    "year": 2008,
+    "countryCode": "CHN",
+    "introduction": "李松松的《北海》以厚涂油画重绘历史旧照中的北京北海公园一景，颜料堆积如浮雕，模糊了具体人物和细节，形成一种记忆与遗忘交织的厚重质感。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1973_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1919_001",
+    "workName": "双燕",
+    "originalName": "双燕",
+    "genre": 9,
+    "subcategory": 9002,
+    "subcategories": [9002],
+    "year": 1981,
+    "countryCode": "CHN",
+    "introduction": "《双燕》是吴冠中的水墨画代表作，以极简的线条和黑白色块，勾画出江南民居的白墙黛瓦与两只归燕，形式感极强，是其“形式美”理论的完美实践。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1919_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1930_001",
+    "workName": "白求恩",
+    "originalName": "白求恩",
+    "genre": 11,
+    "subcategory": 11004,
+    "subcategories": [11004],
+    "year": 1970,
+    "countryCode": "CHN",
+    "introduction": "《白求恩》是沈文强创作的雕塑，以写实手法塑造了诺尔曼·白求恩为伤员手术时的凝重形象，造型严谨，成为新中国纪念雕塑的经典形象。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1930_001", "relationType": 23, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1956_001",
+    "workName": "首都博物馆新馆",
+    "originalName": "首都博物馆新馆",
+    "genre": 12,
+    "subcategory": 12010,
+    "subcategories": [12010, 12005],
+    "year": 2005,
+    "countryCode": "CHN",
+    "introduction": "首都博物馆新馆由任庆英主持设计，2005年落成。巨大的青铜圆筒破墙而出，与玻璃幕墙、木质幕墙虚实相生，象征着历史与未来的对话。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1956_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1962_002",
+    "workName": "牛首山佛顶宫",
+    "originalName": "牛首山佛顶宫",
+    "genre": 12,
+    "subcategory": 12009,
+    "subcategories": [12009, 12005],
+    "year": 2015,
+    "countryCode": "CHN",
+    "introduction": "牛首山佛顶宫由龚恺参与设计，利用矿坑建造，以巨大的穹顶覆盖地宫，供奉佛顶骨舍利。建筑将佛教莲花、袈裟元素与现代结构糅合，是当代宗教建筑的奇观。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1962_002", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1986_002",
+    "workName": "身体",
+    "originalName": "身体",
+    "genre": 14,
+    "subcategory": 14006,
+    "subcategories": [14006],
+    "year": 2010,
+    "countryCode": "CHN",
+    "introduction": "《身体》是任航的摄影系列，以直视的镜头和近乎偏执的构图，拍摄年轻朋友裸露的身体与奇异的组合，在禁忌边缘绽放大胆而诗意的青春宣言。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1986_002", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1960_003",
+    "workName": "凌迟考",
+    "originalName": "凌迟考",
+    "genre": 14,
+    "subcategory": 14007,
+    "subcategories": [14007],
+    "year": 2002,
+    "countryCode": "CHN",
+    "introduction": "《凌迟考》是陈界仁的录像装置作品，通过缓慢而沉重的黑白影像，重构清末凌迟酷刑的历史现场，以身体痛感反思暴力与权力结构。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1960_003", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1962_003",
+    "workName": "西海固",
+    "originalName": "西海固",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [14005],
+    "year": 2000,
+    "countryCode": "CHN",
+    "introduction": "《西海固》是王征的纪实摄影集，用十余年时间在宁夏南部山区，以温柔的黑白影像拍摄回族人民的日常、仪式与生存环境，是一部用相机写成的民族志。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1962_003", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1919_002",
+    "workName": "小蝌蚪找妈妈",
+    "originalName": "小蝌蚪找妈妈",
+    "genre": 2,
+    "subcategory": 2004,
+    "subcategories": [2004],
+    "year": 1960,
+    "countryCode": "CHN",
+    "introduction": "《小蝌蚪找妈妈》是中国首部水墨动画片，唐澄参与导演。动画汲取齐白石画意，让蝌蚪、青蛙等在淡雅水墨中悠游，清新童趣，是世界动画史上独具东方魅力的艺术珍品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1919_002", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_2014_001",
+    "workName": "少年歌行",
+    "originalName": "少年歌行",
+    "genre": 2,
+    "subcategory": 2002,
+    "subcategories": [2002, 2001],
+    "year": 2018,
+    "countryCode": "CHN",
+    "introduction": "《少年歌行》是寒木春华动画参与制作的网络动画，讲述少年雷无桀、萧瑟等人在江湖中的热血冒险。精美的国风美术和武侠气息获得高人气。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_2014_001", "relationType": 16, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1957_001",
+    "workName": "红楼梦",
+    "originalName": "红楼梦",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": 1999,
+    "countryCode": "CHN",
+    "introduction": "越剧《红楼梦》由徐俊执导，以唯美的舞美和经典唱段，将宝黛的爱情悲剧搬上舞台，在传承徐玉兰、王文娟版本基础上，注入新的戏剧节奏与视觉美感。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1957_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1933_002",
+    "workName": "锁麟囊",
+    "originalName": "锁麟囊",
+    "genre": 8,
+    "subcategory": 8005,
+    "subcategories": [8005],
+    "year": null,
+    "countryCode": "CHN",
+    "introduction": "京剧《锁麟囊》是程派经典，李世济以其宽厚圆润的嗓音和细腻的唱念，演绎富家女薛湘灵因一个锁麟囊而命运交错的传奇，是程派艺术传承的典范。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1933_002", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1974_003",
+    "workName": "水生",
+    "originalName": "水生",
+    "genre": 8,
+    "subcategory": 8007,
+    "subcategories": [8007],
+    "year": 2012,
+    "countryCode": "CHN",
+    "introduction": "《水生》是赵淼导演的形体剧，以傩戏面具和象征性肢体语汇，演绎蒲松龄《聊斋志异·王六郎》的鬼怪故事，在黑暗中以纯粹的身体诗学探讨友谊与牺牲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1974_003", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1984_002",
+    "workName": "青衣",
+    "originalName": "青衣",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 2015,
+    "countryCode": "CHN",
+    "introduction": "舞剧《青衣》由王亚彬编舞并主演，以毕飞宇同名小说为蓝本。她以惊人的肢体控制和水袖身段，展现戏曲演员筱燕秋对舞台的痴迷与献祭。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1984_002", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_chn_1971_001",
+    "workName": "Tantalus",
+    "originalName": "Tantalus",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 2006,
+    "countryCode": "CHN",
+    "introduction": "《Tantalus》是伍国柱的编舞作品，以希腊神话中坦塔罗斯的苦难为灵感，舞者在极度张力和失衡中挣扎，悲剧感与身体力量直击人心。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_chn_1971_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1941_001",
+    "workName": "五贼",
+    "originalName": "오적",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1970,
+    "countryCode": "KOR",
+    "introduction": "《五贼》是金芝河的长篇讽刺诗，以“即所谓五贼，即财阀、国会议员、高级公务员、将军、长官”为靶向，猛烈批判朴正熙独裁，震撼韩国社会。",
+    "primaryAuthorId": "realCharacter_kor_1941_001",
+    "creators": [
+      { "characterId": "realCharacter_kor_1941_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1981_001",
+    "workName": "蜂鸟",
+    "originalName": "벌새",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2018,
+    "countryCode": "KOR",
+    "introduction": "《蜂鸟》是金宝拉执导的半自传电影，以1994年的首尔为背景，讲述初二女生恩熙在青春期的孤独、迷茫与成长，细腻平实地触碰性别与家庭议题。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1981_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1950_001",
+    "workName": "千与千寻",
+    "originalName": "千と千尋の神隠し",
+    "genre": 4,
+    "subcategory": 4016,
+    "subcategories": [4016, 4002],
+    "year": 2001,
+    "countryCode": "JPN",
+    "introduction": "《千与千寻》是宫崎骏执导、久石让配乐的动画电影。少女千寻误入神灵世界，在汤屋中以勇气和善良找回自我。久石让的钢琴与交响旋律纯净空灵，完美契合奇幻之旅。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1950_001", "relationType": 10, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1973_001",
+    "workName": "女高中生结婚记",
+    "originalName": "여고생 시집가기",
+    "genre": 4,
+    "subcategory": 4007,
+    "subcategories": [4007],
+    "year": 2004,
+    "countryCode": "KOR",
+    "introduction": "《女高中生结婚记》是黄在浩执导的喜剧片，以“平江公主与傻子温达”的古代故事为外壳，夸张演绎高中生成婚的荒唐闹剧，是韩国校园无厘头喜剧的代表。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1973_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1973_001",
+    "workName": "女神异闻录5",
+    "originalName": "ペルソナ5",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2016,
+    "countryCode": "JPN",
+    "introduction": "《女神异闻录5》是Atlus开发的角色扮演游戏，副岛成记担任角色设计师。他以鲜明色彩和红黑基调，塑造了怪盗团时尚叛逆的形象，成为游戏视觉标杆。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1973_001", "relationType": 32, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1952_001",
+    "workName": "最终幻想VI",
+    "originalName": "ファイナルファンタジーVI",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 1994,
+    "countryCode": "JPN",
+    "introduction": "《最终幻想VI》是史克威尔的角色扮演游戏，天野喜孝绘制概念插画。他以天马行空的笔触和颓废唯美的风格，为蒂娜、洛克等角色赋予了跨越时空的幻想气质。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1952_001", "relationType": 32, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_unknown_001",
+    "workName": "最终幻想VII",
+    "originalName": "ファイナルファンタジーVII",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 1997,
+    "countryCode": "JPN",
+    "introduction": "《最终幻想VII》是史克威尔第一开发部制作的划时代RPG，以克劳德与神罗公司的斗争及星球生命之流为主线，首次以3D影像和电影化叙事震撼了游戏界。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_unknown_001", "relationType": 7, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1987_001",
+    "workName": "灿烂的遗产",
+    "originalName": "찬란한 유산",
+    "genre": 5,
+    "subcategory": 5001,
+    "subcategories": [5001],
+    "year": 2009,
+    "countryCode": "KOR",
+    "introduction": "《灿烂的遗产》是韩国SBS电视剧，李昇基饰演被继母夺走一切的善良男主鲜于焕，收视率一度突破47%。在家族遗产纷争中展开的成长与爱情感动观众。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1987_001", "relationType": 24, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_kor_1922_001",
+    "workName": "首尔法国大使馆",
+    "originalName": "주한 프랑스 대사관",
+    "genre": 12,
+    "subcategory": 12005,
+    "subcategories": [12005],
+    "year": 1962,
+    "countryCode": "KOR",
+    "introduction": "首尔法国大使馆由金重业设计，将柯布西耶的现代主义语汇与韩国传统屋顶曲线、庭园布局巧妙结合，是韩国现代建筑史上的里程碑作品。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_kor_1922_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1915_001",
+    "workName": "里日本",
+    "originalName": "裏日本",
+    "genre": 14,
+    "subcategory": 14005,
+    "subcategories": [14005],
+    "year": 1957,
+    "countryCode": "JPN",
+    "introduction": "《里日本》是滨谷浩的摄影集，以深黑白的影像记录日本雪乡新潟等地的严酷自然和传统民俗，在严峻的风土中发现即将消逝的日本原风景。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1915_001", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_jpn_1972_001",
+    "workName": "天鹅湖",
+    "originalName": "白鳥の湖",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": null,
+    "countryCode": "JPN",
+    "introduction": "熊川哲也主演的古典芭蕾《天鹅湖》，他以俊美外形和超绝技巧演绎王子与黑天鹅的双重角色，优雅而炫目，是日本芭蕾走向大众的重要标志。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_jpn_1972_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_aut_1926_001",
+    "workName": "马利纳",
+    "originalName": "Malina",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004, 6015],
+    "year": 1971,
+    "countryCode": "AUT",
+    "introduction": "《马利纳》是英格博格·巴赫曼的小说，以一位女作家在两位男性之间的精神分裂式独白，深刻揭示战后女性在爱与暴力中的崩溃与写作的救赎。",
+    "primaryAuthorId": "realCharacter_aut_1926_001",
+    "creators": [
+      { "characterId": "realCharacter_aut_1926_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1332_001",
+    "workName": "农夫皮尔斯",
+    "originalName": "Piers Plowman",
+    "genre": 10,
+    "subcategory": 10005,
+    "subcategories": [10005],
+    "year": 1370,
+    "countryCode": "GBR",
+    "introduction": "《农夫皮尔斯》是威廉·兰格伦的梦幻寓言长诗，以中世纪英语头韵体，通过叙述者的一系列梦境，讽刺社会各阶层的腐败，寻求真理与灵魂的救赎。",
+    "primaryAuthorId": "realCharacter_gbr_1332_001",
+    "creators": [
+      { "characterId": "realCharacter_gbr_1332_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1892_001",
+    "workName": "邮差总按两遍铃",
+    "originalName": "The Postman Always Rings Twice",
+    "genre": 6,
+    "subcategory": 6007,
+    "subcategories": [6007],
+    "year": 1934,
+    "countryCode": "USA",
+    "introduction": "《邮差总按两遍铃》是詹姆斯·M·凯恩的硬汉小说，描绘流浪汉与饭店老板娘因奸情谋杀亲夫的冷硬故事，以极简的硬汉笔法开创黑色小说先河。",
+    "primaryAuthorId": "realCharacter_usa_1892_001",
+    "creators": [
+      { "characterId": "realCharacter_usa_1892_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_rus_1907_001",
+    "workName": "科雷马故事",
+    "originalName": "Колымские рассказы",
+    "genre": 10,
+    "subcategory": 10012,
+    "subcategories": [10012],
+    "year": 1970,
+    "countryCode": "RUS",
+    "introduction": "《科雷马故事》是瓦尔拉姆·沙拉莫夫的短篇小说集，以冷峻的纪实笔触，记录了自己在科雷马劳改营的十七年地狱生涯，每一篇都是对极权与生存极限的恐怖见证。",
+    "primaryAuthorId": "realCharacter_rus_1907_001",
+    "creators": [
+      { "characterId": "realCharacter_rus_1907_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_pol_1798_001",
+    "workName": "塔杜施先生",
+    "originalName": "Pan Tadeusz",
+    "genre": 10,
+    "subcategory": 10005,
+    "subcategories": [10005],
+    "year": 1834,
+    "countryCode": "POL",
+    "introduction": "《塔杜施先生》是亚当·密茨凯维奇的民族史诗，以1812年立陶宛乡村的贵族庄园为舞台，在对狩猎、宴饮和爱情的风俗画卷中，寄寓了波兰复国的希望。",
+    "primaryAuthorId": "realCharacter_pol_1798_001",
+    "creators": [
+      { "characterId": "realCharacter_pol_1798_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_blr_1948_001",
+    "workName": "切尔诺贝利的悲鸣",
+    "originalName": "Чернобыльская молитва",
+    "genre": 10,
+    "subcategory": 10012,
+    "subcategories": [10012],
+    "year": 1997,
+    "countryCode": "BLR",
+    "introduction": "《切尔诺贝利的悲鸣》是斯维特兰娜·阿列克谢耶维奇的口述纪实作品，通过对灾难幸存者、消防员遗孀等上百人的采访，拼贴出切尔诺贝利核灾难后人们灵魂深处的合唱与哀嚎。",
+    "primaryAuthorId": "realCharacter_blr_1948_001",
+    "creators": [
+      { "characterId": "realCharacter_blr_1948_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_irl_1882_001",
+    "workName": "尤利西斯",
+    "originalName": "Ulysses",
+    "genre": 6,
+    "subcategory": 6004,
+    "subcategories": [6004, 6015],
+    "year": 1922,
+    "countryCode": "IRL",
+    "introduction": "《尤利西斯》是詹姆斯·乔伊斯的意识流巨著，在一天之内平行于荷马史诗的框架，游走于都柏林的街头与广告推销员布卢姆的意识深渊，是现代主义小说的巅峰。",
+    "primaryAuthorId": "realCharacter_irl_1882_001",
+    "creators": [
+      { "characterId": "realCharacter_irl_1882_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_deu_1890_001",
+    "workName": "大都会",
+    "originalName": "Metropolis",
+    "genre": 4,
+    "subcategory": 4001,
+    "subcategories": [4001],
+    "year": 1927,
+    "countryCode": "DEU",
+    "introduction": "《大都会》是弗里茨·朗执导的默片科幻巨作，以反乌托邦的未来城市为舞台，描绘工人与资本家之间的尖锐对立，其巨大的机器人与摩天楼场景成为影史不灭的象征。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_deu_1890_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1946_001",
+    "workName": "辛德勒的名单",
+    "originalName": "Schindler's List",
+    "genre": 4,
+    "subcategory": 4014,
+    "subcategories": [4014, 4013],
+    "year": 1993,
+    "countryCode": "USA",
+    "introduction": "《辛德勒的名单》是史蒂文·斯皮尔伯格执导的黑白历史片，讲述德国商人辛德勒拯救千余名犹太人的真实故事。以纪录式的冷峻和一抹红衣的震撼，拷问人性与良知。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1946_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1920_001",
+    "workName": "Ornithology",
+    "originalName": "Ornithology",
+    "genre": 7,
+    "subcategory": 7006,
+    "subcategories": [7006],
+    "year": 1946,
+    "countryCode": "USA",
+    "introduction": "《Ornithology》是查理·帕克创作的比波普爵士标准曲，以极快的和弦变化和高难度的即兴，成为Bebop运动的标杆，展示了Bird天才的萨克斯风演奏。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1920_001", "relationType": 13, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1971_001",
+    "workName": "侠盗猎车手V",
+    "originalName": "Grand Theft Auto V",
+    "genre": 1,
+    "subcategory": 1004,
+    "subcategories": [1004, 1001],
+    "year": 2013,
+    "countryCode": "GBR",
+    "introduction": "《侠盗猎车手V》是Rockstar Games开发、莱斯利·本齐斯担任执行制作人的开放世界巨作。三位主角交织的犯罪史诗，在洛圣都的广袤沙盒中，对当代美国进行娱乐性十足的尖锐讽刺。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1971_001", "relationType": 6, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1958_001",
+    "workName": "闪耀的婴儿",
+    "originalName": "Radiant Baby",
+    "genre": 9,
+    "subcategory": 9006,
+    "subcategories": [9006],
+    "year": 1982,
+    "countryCode": "USA",
+    "introduction": "《闪耀的婴儿》是凯斯·哈林的标志性涂鸦符号，一个爬行的婴儿周围放射光芒。这个粗轮廓、色彩明快的形象成为他街头艺术的图腾，传递纯真、生命与希望。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1958_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_aus_1958_001",
+    "workName": "母亲与孩子",
+    "originalName": "Mother and Child",
+    "genre": 11,
+    "subcategory": 11002,
+    "subcategories": [11002],
+    "year": 2002,
+    "countryCode": "AUS",
+    "introduction": "《母亲与孩子》是让·穆克的超写实雕塑，以诡异而逼真的巨大化婴儿和微小母亲形象，模糊了亲密与怪诞的边界，引发观者强烈的心理震颤。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_aus_1958_001", "relationType": 23, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_ita_1404_001",
+    "workName": "鲁切拉宫",
+    "originalName": "Palazzo Rucellai",
+    "genre": 12,
+    "subcategory": 12003,
+    "subcategories": [12003],
+    "year": 1451,
+    "countryCode": "ITA",
+    "introduction": "鲁切拉宫是阿尔伯蒂设计的佛罗伦萨府邸，以三层古典壁柱优雅叠加，完美诠释了文艺复兴的建筑比例和人文精神，为后世提供了一种宫殿立面的标准范式。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_ita_1404_001", "relationType": 18, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1952_001",
+    "workName": "圣诞夜惊魂",
+    "originalName": "The Nightmare Before Christmas",
+    "genre": 4,
+    "subcategory": 4016,
+    "subcategories": [4016, 4002],
+    "year": 1993,
+    "countryCode": "USA",
+    "introduction": "《圣诞夜惊魂》是亨利·塞利克执导的定格动画长片，蒂姆·波顿制片。万圣节城的骷髅杰克误入圣诞镇，以哥特式的浪漫和歌舞，讲述了一个关于自我认同的奇诡童话。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1952_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_gbr_1959_001",
+    "workName": "理查二世",
+    "originalName": "Richard II",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1995,
+    "countryCode": "GBR",
+    "introduction": "《理查二世》是黛博拉·沃纳执导的舞台剧，由菲奥娜·肖反串出演。以女性之身演绎这位沉溺辞藻却丧失王权的君王，挖掘了权力、神性与脆弱的多重内涵。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_gbr_1959_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1978_001",
+    "workName": "4000英里",
+    "originalName": "4000 Miles",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 2011,
+    "countryCode": "USA",
+    "introduction": "《4000英里》是艾米·赫尔佐格的剧作，讲述一位丧友后的年轻男孩骑车横跨美国，意外留宿在纽约独居祖母家，祖孙间代际的碰撞与治愈温暖动人。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1978_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1910_001",
+    "workName": "房间",
+    "originalName": "Rooms",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 1955,
+    "countryCode": "USA",
+    "introduction": "《房间》是安娜·索科洛的现代舞作品，以椅子和封闭空间为意象，用内敛而紧张的肢体语言，刻画了都市人内心的孤独、隔绝与渴望。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1910_001", "relationType": 22, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_deu_1973_001",
+    "workName": "春之祭",
+    "originalName": "Frühlingsopfer",
+    "genre": 8,
+    "subcategory": 8004,
+    "subcategories": [8004],
+    "year": 1975,
+    "countryCode": "DEU",
+    "introduction": "皮娜·鲍什编舞的《春之祭》，在斯特拉文斯基野蛮的乐声中，舞者在铺满泥土的舞台上疯狂地对抗、痉挛、牺牲，将原始仪式转化为一种震撼灵魂的舞蹈剧场。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_deu_1973_001", "relationType": 5, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_tha_1984_001",
+    "workName": "死于明日",
+    "originalName": "Die Tomorrow",
+    "genre": 4,
+    "subcategory": 4005,
+    "subcategories": [4005],
+    "year": 2017,
+    "countryCode": "THA",
+    "introduction": "《死于明日》是纳瓦彭·坦荣瓜塔纳利的电影，以六段根据真实新闻改编的故事，在静态的日常片段中安静地预演死亡，反思生命的稍纵即逝。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_tha_1984_001", "relationType": 2, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_egy_1929_001",
+    "workName": "Qariat al-Fingan",
+    "originalName": "قارئة الفنجان",
+    "genre": 7,
+    "subcategory": 7014,
+    "subcategories": [7014],
+    "year": 1976,
+    "countryCode": "EGY",
+    "introduction": "《Qariat al-Fingan》是阿卜杜勒·哈利姆·哈菲兹的歌曲，以悲伤的曲调讲述咖啡占卜师预言失去爱人的悲剧故事，是阿拉伯音乐史上的永恒金曲。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_egy_1929_001", "relationType": 11, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_usa_1972_001",
+    "workName": "流放之路",
+    "originalName": "Path of Exile",
+    "genre": 1,
+    "subcategory": 1003,
+    "subcategories": [1003],
+    "year": 2013,
+    "countryCode": "USA",
+    "introduction": "《流放之路》是Grinding Gear Games的动作RPG，康·黎担任艺术总监。以暗黑风格、庞大天赋树和免费运营模式，在暗黑类游戏中树立了独特地位。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_usa_1972_001", "relationType": 32, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_bra_1886_001",
+    "workName": "阿巴波鲁",
+    "originalName": "Abaporu",
+    "genre": 9,
+    "subcategory": 9010,
+    "subcategories": [9010],
+    "year": 1928,
+    "countryCode": "BRA",
+    "introduction": "《阿巴波鲁》是塔尔西拉·杜·阿马拉尔的油画，以夸张变形的身体和沙漠、仙人掌等元素，催生了巴西现代主义的“食人主义”宣言，是拉美艺术史的里程碑。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_bra_1886_001", "relationType": 17, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_zaf_1976_001",
+    "workName": "鬣狗与人",
+    "originalName": "The Hyena & Other Men",
+    "genre": 14,
+    "subcategory": 14001,
+    "subcategories": [14001],
+    "year": 2007,
+    "countryCode": "ZAF",
+    "introduction": "《鬣狗与人》是彼得·雨果的摄影系列，拍摄了尼日利亚一群与驯养鬣狗、狒狒共存的街头艺人，在张力十足的肖像中探讨人与自然、边缘与生存的边界。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_zaf_1976_001", "relationType": 20, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_tha_1985_001",
+    "workName": "Shelldon",
+    "originalName": "Shelldon",
+    "genre": 2,
+    "subcategory": 2002,
+    "subcategories": [2002],
+    "year": 2008,
+    "countryCode": "THA",
+    "introduction": "《Shelldon》是Kantana Animation Studios制作的儿童动画系列，讲述小贝壳Shelldon和海洋伙伴们在珊瑚湾的冒险，是泰国动画走向国际的尝试。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_tha_1985_001", "relationType": 16, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_idn_1941_001",
+    "workName": "比喻集",
+    "originalName": "Kumpulan Parikesit",
+    "genre": 10,
+    "subcategory": 10001,
+    "subcategories": [10001],
+    "year": 1975,
+    "countryCode": "IDN",
+    "introduction": "《比喻集》是古纳万·穆罕默德的诗集，以其特有的神秘主义和冷智，通过丰富的意象和典故，对印尼社会政治进行深层的隐喻与批判。",
+    "primaryAuthorId": "realCharacter_idn_1941_001",
+    "creators": [
+      { "characterId": "realCharacter_idn_1941_001", "relationType": 1, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_irn_1936_001",
+    "workName": "牛",
+    "originalName": "گاو",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1968,
+    "countryCode": "IRN",
+    "introduction": "《牛》是古拉姆-侯赛因·萨埃迪的寓言剧作，讲述一个村民因心爱的奶牛死亡而精神崩溃、逐渐异化为牛的故事，是对贫困和绝望的荒诞而沉痛的控诉。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_irn_1936_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  },
+  {
+    "workId": "work_zaf_1947_001",
+    "workName": "深渊",
+    "originalName": "Diepe Grond",
+    "genre": 8,
+    "subcategory": 8001,
+    "subcategories": [8001],
+    "year": 1986,
+    "countryCode": "ZAF",
+    "introduction": "《深渊》是雷扎·德·韦特的魔幻现实主义剧作，讲述一对白人兄妹在干旱农场上退化到原始巫术与乱伦的边缘，以哥特诗风揭示阿非利卡人的心理创伤。",
+    "primaryAuthorId": null,
+    "creators": [
+      { "characterId": "realCharacter_zaf_1947_001", "relationType": 21, "sortOrder": 0 }
+    ]
+  }
+]

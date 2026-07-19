@@ -1,0 +1,749 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_usa_1917_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "心是孤独的猎手",
+        "type": "NOVEL",
+        "countryName": "美国",
+        "year": 1940,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2025-03-28",
+        "evidenceVersion": "v1.0",
+        "annotationLanguage": "zh-CN",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《心是孤独的猎手》以美国南方小镇为舞台，围绕聋哑人辛格与四位不同背景的孤独者展开。他们分别是少女米克、黑人医生考普兰德、工人运动者布朗特和咖啡馆老板比夫。每个人都视辛格为唯一的精神寄托和倾诉对象，却不知辛格内心同样深陷对已故哑友安东尼帕罗斯的无法忘怀与绝对依赖。作品采用多声部复调叙事，通过平静而压抑的笔触揭示了人类精神隔绝的本质——每个人都拼命表达，却无人真正倾听与理解，最终走向更深的孤独。这部作品奠定了麦卡勒斯美国南方文学重要代表人物的地位。",
+        "themes": [
+          "孤独",
+          "沟通障碍",
+          "精神隔绝",
+          "身份认同",
+          "阶级差异",
+          "种族问题",
+          "理想主义",
+          "成长",
+          "失落",
+          "南方文学"
+        ],
+        "keywords": [
+          "辛格",
+          "米克",
+          "考普兰德",
+          "布朗特",
+          "比夫",
+          "聋哑人",
+          "美国南方小镇",
+          "大萧条时期",
+          "复调叙事",
+          "精神寄托",
+          "误解",
+          "无声倾诉",
+          "种族隔离",
+          "青春期迷茫"
+        ],
+        "core_experience": "读者被带入一种缓慢蔓延的孤独氛围，目睹所有人物各自怀揣深切的渴望与不被理解的痛苦。作品没有提供情感宣泄的出口，而是让读者沉浸于每次失败的沟通和单向的倾诉之中。最终，读者体验到一种温和却无法消解的忧郁，意识到人与人之间可能永远存在无法逾越的理解鸿沟。",
+        "experience_introduction": "《心是孤独的猎手》通过多声部复调叙事，将五位不同背景的人物各自深埋的孤独与渴望并置展开。聋哑人辛格作为他者存在的中心，成为其他人物的理想化精神寄托，而他自己对哑友的绝对依赖则暴露出所有依赖关系的虚幻本质。读者在跟随各个人物的内心独白与单向倾诉时，逐渐感受到一种平静而压抑的隔绝感——每个人都试图挣脱隔绝，却都在各自的执念中越陷越深。这种结构使得整部小说的读者始终处于高度内省和缓慢情感渗透之中，最终形成深刻而持久的孤独共鸣。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.1,
+        "awe": 0.05,
+        "nostalgia": 0.3,
+        "reflection": 0.85,
+        "romance": 0.05,
+        "tension": 0.4,
+        "warmth": 0.2,
+        "loneliness": 0.95,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.8,
+          "complexity": 0.7,
+          "depth_of_thought": 0.9,
+          "logical_structure": 0.5,
+          "novelty": 0.6,
+          "exploration": 0.3,
+          "ambiguity": 0.7,
+          "predictability": 0.3,
+          "information_density": 0.7,
+          "learning_value": 0.7
+        },
+        "worldview": {
+          "personal_scale": 0.9,
+          "relationship_scale": 0.75,
+          "social_scale": 0.65,
+          "civilization_scale": 0.2,
+          "cosmic_scale": 0.1,
+          "time_span": 0.35,
+          "fantasy_level": 0.0
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.85,
+          "loneliness": 0.95,
+          "warmth": 0.15,
+          "fear": 0.2,
+          "tension": 0.45,
+          "awe": 0.05,
+          "nostalgia": 0.3,
+          "hope": 0.1,
+          "melancholy": 0.9,
+          "anger": 0.35,
+          "peace": 0.2
+        },
+        "aesthetic": {
+          "beauty": 0.5,
+          "minimalism": 0.7,
+          "luxury": 0.05,
+          "darkness": 0.65,
+          "brightness": 0.1,
+          "dreamlike": 0.15,
+          "mystery": 0.25,
+          "experimental": 0.5,
+          "classical": 0.7,
+          "modern": 0.45
+        },
+        "narrative": {
+          "plot_complexity": 0.65,
+          "character_depth": 0.9,
+          "character_growth": 0.5,
+          "world_building": 0.5,
+          "nonlinear_structure": 0.4,
+          "slow_immersion": 0.9,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.4,
+          "philosophical_depth": 0.85
+        },
+        "social": {
+          "individualism": 0.85,
+          "collectivism": 0.15,
+          "family": 0.2,
+          "friendship": 0.4,
+          "love": 0.35,
+          "community": 0.35,
+          "competition": 0.2,
+          "cooperation": 0.2,
+          "power_relationship": 0.45,
+          "identity": 0.8
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.2,
+          "truth": 0.6,
+          "beauty": 0.4,
+          "achievement": 0.25,
+          "justice": 0.4,
+          "sacrifice": 0.2,
+          "self_exploration": 0.85,
+          "tradition": 0.35,
+          "change": 0.3,
+          "survival": 0.3,
+          "meaning": 0.8
+        },
+        "behavior": {
+          "curiosity": 0.4,
+          "creation": 0.3,
+          "adventure": 0.1,
+          "reflection": 0.9,
+          "competition": 0.15,
+          "social": 0.25,
+          "discipline": 0.2,
+          "risk": 0.15,
+          "calm": 0.45,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.3,
+          "color_richness": 0.25,
+          "sound_intensity": 0.15,
+          "rhythm_energy": 0.1,
+          "atmosphere": 0.85,
+          "immersion": 0.8
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.85,
+          "writing_style": 0.75,
+          "narrative_voice": 0.9,
+          "symbolism": 0.8,
+          "inner_monologue": 0.85,
+          "world_building_depth": 0.5
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品整体氛围沉静压抑，人物情感方向内敛，缺少外显的激情表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.1,
+          "explanation": "小说叙事不提供情感治愈，人物困境未能得到缓解，结局加深了隔绝感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "叙事聚焦于个人内心和日常生活，几乎没有引发敬畏感的宏大场景。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.3,
+          "explanation": "作品描绘大萧条时期的美国南方小镇，包含一定时代怀旧氛围，但并非主要体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "人物的深层孤独与沟通困境迫使读者不断进行内省和哲学反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "全书几乎没有传统浪漫爱情描写，两性情感更多表现为误解与疏离。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.4,
+          "explanation": "人物间因无法有效沟通而积累的压抑感和阶级种族冲突带来适度的心理紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.2,
+          "explanation": "尽管人物渴望温暖联结，但实际互动中鲜少流露真正被理解的暖意。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.95,
+          "explanation": "孤独是贯穿全书每个主要人物的核心体验，是作品最根本的情感基调。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "几乎所有寄托的希望最终都落空，叙事整体弥漫着淡淡的绝望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.8,
+          "explanation": "作品探讨的精神隔绝、孤独本质等主题属于高度抽象的心理和哲学概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.7,
+          "explanation": "复调叙事交织多人视角，每个人物的心理和处境相互映射，构成多层次理解结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.9,
+          "explanation": "对孤独、沟通困境、存在意义的挖掘极为深入，属于高度深层的思想表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.5,
+          "explanation": "叙事以人物内心体验为主导，不以明确的逻辑推演或推理结构为核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "同时代以聋哑人为核心并深入探讨普遍孤独的创作手法具有相当新颖性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.3,
+          "explanation": "故事主要限定于小镇日常生活，人物较少向外探索未知的世界或观念系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.7,
+          "explanation": "人物情感动机和彼此间的理解始终存在暧昧和误解，意义往往悬而未决。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.3,
+          "explanation": "人物各自走向更深的孤独，结局并非突兀，但整体情感发展仍具内在必然性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.7,
+          "explanation": "文本承载丰富的社会、心理和文化信息，每段叙述往往隐含多层含义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.7,
+          "explanation": "阅读此书可深入理解人类孤独本质、美国南方社会及种族问题等知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.9,
+          "explanation": "叙事将镜头严格聚焦于几位个体的内心世界和私人生活体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.75,
+          "explanation": "人物之间单向的精神寄托和失败的沟通是故事结构的基本支点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.65,
+          "explanation": "种族隔离、阶级差异等社会结构性议题作为重要背景渗透在人物命运中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.2,
+          "explanation": "作品关注的始终是具体人物而非宏观文明进程，极少触及文明兴衰议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.1,
+          "explanation": "叙事没有进入宇宙或超自然领域，几乎不探讨人类在宇宙中的位置。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "故事集中于较短的特定时间段，偶尔通过人物回忆延伸到过去，时间跨度不大。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.0,
+          "explanation": "完全基于现实主义的美国南方小镇生活，不含任何幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "文本很少提供快乐瞬间，整体感情基调是阴郁而克制的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.85,
+          "explanation": "对人物心灵困境和失败沟通的描绘持续引发深沉的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.95,
+          "explanation": "每个人物的行动和语言最终都指向了难以排遣的孤独，是全书主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.15,
+          "explanation": "即便人物在寻找温暖，叙事中能真正传达到读者的暖意仍然非常有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.2,
+          "explanation": "人物偶尔表现出对未来的不安和被抛弃的恐惧，但并非主导情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.45,
+          "explanation": "种族冲突、阶级矛盾及人际误解累积，使文本不断带有潜在的紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "叙事中几乎没有宏大或超验的场景能引发敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.3,
+          "explanation": "对旧日南方生活的描写带有模糊的怀旧质地，但不主导情绪方向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.1,
+          "explanation": "人物反复燃起的希望每次都以挫败告终，结局几乎关闭了乐观的可能性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.9,
+          "explanation": "从语言质感、叙事节奏到人物命运，整部小说笼罩在细腻而深沉的忧郁之中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.35,
+          "explanation": "阶级和种族压迫激发的愤怒作为布朗特和考普兰德的驱动力，时有浮现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.2,
+          "explanation": "整体叙事难以带给读者真正的宁静，更多表现为沉寂的压抑感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.5,
+          "explanation": "语言凝练而富有美感，但整体氛围阴郁，使美带有悲哀的底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.7,
+          "explanation": "叙事摒弃华丽辞藻和繁琐描写，以克制简洁的笔触呈现朴素的南方现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "描绘的生活环境和人物处境远离任何富贵或奢华意象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.65,
+          "explanation": "阴郁的氛围、压抑的心理描写和悲剧走向使作品带有明显的暗色美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.1,
+          "explanation": "情感和视觉层面都极少出现明亮、轻快的色调与场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "叙事始终保持清醒现实，偶尔的抒情段落也未进入梦幻氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.25,
+          "explanation": "人物心思具有幽微难解的特质而非刻意营造的悬疑神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.5,
+          "explanation": "其复调结构和聋哑人作为绝对中心的手法在当时具有一定实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.7,
+          "explanation": "文本结构匀称、语言沉静典雅，具有经典文学的庄重质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.45,
+          "explanation": "其内倾心理学视角和意识流倾向体现了现代文学的部分特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.65,
+          "explanation": "多线并行的人物叙事通过辛格交汇，情节线索织成复杂的复调网络。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.9,
+          "explanation": "对每个主要人物的精神世界和内心矛盾展开了极其细腻的深入刻画。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.5,
+          "explanation": "人物在理想幻灭和孤独加深中经历了心理变化，但未必是正面意义上的成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.5,
+          "explanation": "美国南方小镇的社会肌理和时代氛围得到写实呈现，但并非幻想世界构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.4,
+          "explanation": "各人物线交织但大体仍是时间顺序叙事，不存在明显的碎片化时间跳跃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.9,
+          "explanation": "叙事波澜不惊、节奏缓慢，让读者逐渐浸泡在人物内心世界中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "几乎没有任何激烈的外部事件，所有重大冲突都发生在心理层面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.4,
+          "explanation": "内在冲突剧烈而外部冲突多为含蓄的对立，整体强度偏向内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "通过具体人物命运上升到对人类存在、沟通本质和孤独的哲学性探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.85,
+          "explanation": "每个人物都被呈现为孤立的个体，独自挣扎于自己对世界的理解方式中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.15,
+          "explanation": "即使出现劳工运动和种族平等理想，叙事的重心仍在于个人的孤立体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.2,
+          "explanation": "家庭关系经常以疏远、负担或冷漠的背景出现，缺乏温情与归属感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.4,
+          "explanation": "人物强烈渴望友谊，但所谓的友谊多为单向投射和深层误解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.35,
+          "explanation": "小说呈现的情感多为精神依赖，而非相互理解的爱，常停留在不对称的眷恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.35,
+          "explanation": "社会环境和邻里关系是故事背景，但未能给个体带来真正的归属与联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.2,
+          "explanation": "人与人之间多为疏离而非直接竞争，外部竞争关系并不是叙事焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.2,
+          "explanation": "有效的合作在故事中很少出现，人物多数时候孤独地面对自身的困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.45,
+          "explanation": "种族压迫、经济地位差异及阶级结构始终构成人物关系的隐性权力坐标。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.8,
+          "explanation": "各人物都在寻找自我身份和社会角色，聋哑、种族、性别、阶级等身份问题贯穿全书。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "人物向往摆脱束缚和偏见，但自由更多是内心渴望而非可实现的状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "外部世界并未强调秩序价值，人物的内在生活也无强力的规制框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.6,
+          "explanation": "叙事试图揭露人物内心的真实和人际交流的真相，尽管真相令人痛苦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.4,
+          "explanation": "米克的音乐梦想等细节体现了对美的追求，但更多被现实和压抑氛围所冲淡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.25,
+          "explanation": "几乎没有人物的理想或抱负得以实现，作品不强调成就和成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.4,
+          "explanation": "种族平等和社会正义是考普兰德和布朗特推动叙事的动机，但结局中正义未能实现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.2,
+          "explanation": "人物更多是被动承受而非主动牺牲，牺牲本身不是作品宣扬的价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "作品的全部驱动力来自于人物对自身情感和存在状态的深刻内省与追寻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.35,
+          "explanation": "南方保守的传统作为背景存在，但往往表现为需要反叛或承受的压力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "工人运动和种族意识暗示了变革的可能，但叙事未推进到真正的改变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.3,
+          "explanation": "人物的挣扎更多是精神和情感层面的，而非直接关乎生死存亡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.8,
+          "explanation": "辛格对他人而言是赋予意义的对象，而每个人物的挣扎最终都指向对人生意义的追问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.4,
+          "explanation": "米克的音乐探索等细节体现出求知欲，但整体上行为受内心封闭制约。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.3,
+          "explanation": "米克的音乐兴趣和比夫对咖啡馆的经营包含创作，但并非作品普遍行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.1,
+          "explanation": "故事几乎不包含刺激的外部冒险，所有行动都内敛而有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.9,
+          "explanation": "本书从根本上将叙事重心放在人物的内省和深度沉思上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.15,
+          "explanation": "人物之间很少形成明确竞争关系，竞争性几乎不构成行为驱力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "人物大多处于孤独状态，社交互动要么失败要么仅是单向倾诉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.2,
+          "explanation": "叙事并不强调自律或严格规律的生活框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.15,
+          "explanation": "人物很少主动进入高风险的境况，冒险行为不是叙事核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.45,
+          "explanation": "叙事语气沉稳平静，即使人物内心动荡，外部行为仍被克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "几位人物都试图从当前无望的生活状态中逃离，但多数以失败告终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.3,
+          "explanation": "作为小说，主要通过文字而非直接的视觉强度产生影响。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "文字指向朴素的灰色调与暗色氛围，色彩感不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.15,
+          "explanation": "辛格的沉默与整体缓慢节奏使‘听觉’层面的刺激感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.1,
+          "explanation": "叙事节奏缓慢、安静，几乎没有急促进展或动态变化带来的能量感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.85,
+          "explanation": "作品在文字层面营造出高度统一、深厚而具有包围感的孤独氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.8,
+          "explanation": "细致内心描写和持续的情绪氛围容易让专注的读者全身心投入人物境遇。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.85,
+          "explanation": "语言和主题在文学层面极富深度，是公认的美国南方文学代表作。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.75,
+          "explanation": "麦卡勒斯的文笔克制、精炼且富有诗意，具有强烈可辨识的风格。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.9,
+          "explanation": "复调叙事让多个人物各自拥有独立而有区分度的叙述声音。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.8,
+          "explanation": "辛格作为‘上帝’式存在、音乐作为不可即的理想等，作品遍布象征意涵。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.85,
+          "explanation": "大量篇幅以自由间接引语呈现角色的内在思绪和隐秘情感。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.5,
+          "explanation": "成功勾勒了南方小镇的社会结构和生活氛围，但未建构独立于现实的完整世界。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者跟随五位相隔咫尺却彼此隔绝的人物，进入一种缓慢扩散的孤独体验。每个人都将聋哑人辛格当作唯一的精神容器，倾吐无法被他人理解的渴望、愤怒与梦想，而辛格自身的绝对孤独则在无声中加倍沉重。这种单向倾听与深度误解的结构，带来的是持续的心理压抑和隐约的不安。最终，孤独不再是可以被治愈的情绪，而是被体验为人类共通的底色。",
+        "structure_description": "小说使用复调叙事，为少女米克、医生考普兰德、工运者布朗特、咖啡馆老板比夫分别编织独立的声音，并将这四条人物线交汇于辛格身上。每条叙事线都沿着‘渴望—寄托—幻灭’的弧线缓慢推进。大量内心独白与自由间接引语使叙事看似平静，实际上内部蓄满张力。",
+        "cognitive_expression": "文本鼓励高度内省和抽象解读，要求读者同时追踪多个内在世界并感知人物话语下的层层潜台词。阅读过程涉及对孤独、沟通和误解等普遍主题的深层推理，也需要在碎片化的独白之间建立隐含的心理关联。",
+        "behavioral_tendency_description": "叙事奖励沉静而反复的反思性阅读，而非追求情节推进或外部行动。读者在文字中习得的更多是审视内在情感、容忍模糊和化解对孤独的恐惧。作品不引导外向探索或竞争性行为，而是强化独自沉思和深层理解的价值。"
+      },
+      "personality_affinity": {
+        "Ni": 0.88,
+        "Ne": 0.25,
+        "Ti": 0.75,
+        "Te": 0.2,
+        "Fi": 0.92,
+        "Fe": 0.35,
+        "Si": 0.3,
+        "Se": 0.08,
+        "openness": 0.82,
+        "conscientiousness": 0.4,
+        "extraversion": 0.1,
+        "agreeableness": 0.45,
+        "neuroticism": 0.78,
+        "Assertive": 0.15,
+        "Turbulent": 0.9
+      },
+      "supporting_evidence": [
+        "主人公辛格是聋哑人，其他四位主要人物各自将他视为唯一能理解自己的对象。",
+        "文本通过自由间接引语大量呈现人物内心思绪，外部对话稀少且常伴随误解。",
+        "少女米克将音乐和辛格视为逃离沉闷家庭与阶级限制的隐秘出口。",
+        "黑人医生考普兰德终日为种族平等而奔走，却感到自己的子女和社区皆疏远他。",
+        "工运者布朗特试图唤醒工人的阶级意识，却因暴力倾向和酒精扭曲了自身诉求。",
+        "咖啡馆老板比夫观察着所有来客，自身却始终游离在真正亲密的关系之外。",
+        "辛格将全部情感与生存意义寄托于已被送进精神病院的哑友安东尼帕罗斯。",
+        "每个人都向辛格长篇倾述自己的秘密，却从未注意到辛格脸上日渐加深的疲惫。",
+        "辛格在哑友去世后选择自杀，此前围绕他各自运转的世界瞬间崩溃。",
+        "叙事几乎没有激烈的外部事件，冲突主要发生在人物内心的渴望与幻灭之间。",
+        "小说背景设定在美国南方小镇，种族隔离和阶级分化渗透在每个角色的日常处境中。",
+        "米克从怀抱音乐梦想的少女逐渐在现实压力下妥协，失去通往理想的道路。",
+        "考普兰德和布朗特都在试图改变世界，但他们的行动因性格缺陷和外部阻力难以奏效。",
+        "书名本身暗示孤独具有近乎猎手般的主动性，在每个人心中搜寻猎物。",
+        "结尾所有人各自回归更深的沉寂，暗示孤独不是阶段而是人类固有的永恒状态。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

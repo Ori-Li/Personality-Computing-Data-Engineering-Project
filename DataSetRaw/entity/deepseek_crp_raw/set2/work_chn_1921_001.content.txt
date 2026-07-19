@@ -1,0 +1,747 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1921_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "阿Q正传",
+        "type": "NOVEL",
+        "countryName": "中国",
+        "year": 1921,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.95,
+        "primaryMediaType": "NOVEL"
+      },
+      "semantic": {
+        "summary": "《阿Q正传》是鲁迅创作的一部中篇小说，以辛亥革命前后的未庄为背景，通过一系列生活片段刻画了流浪雇农阿Q的形象。作品以戏谑冷峻的笔调，展现阿Q惯用精神胜利法自我安慰、自轻自贱却又自高自大、欺软怕硬的矛盾性格。小说借阿Q糊里糊涂被卷入革命并被处决的悲剧，揭示了中国国民性中的麻木、自欺、健忘等深层的文化与心理结构问题。整体体验既令人发笑又带来深沉的悲哀与内省，是中国现代文学对社会病态心理最锐利的解剖。",
+        "themes": [
+          "国民性批判",
+          "精神胜利法",
+          "自欺",
+          "社会等级",
+          "权力关系",
+          "命运",
+          "群体冷漠",
+          "个体尊严",
+          "启蒙与批判"
+        ],
+        "keywords": [
+          "阿Q",
+          "精神胜利法",
+          "未庄",
+          "辛亥革命",
+          "赵太爷",
+          "假洋鬼子",
+          "王胡",
+          "小D",
+          "尼姑庵",
+          "乡土社会",
+          "欺软怕硬",
+          "示众文化",
+          "画押",
+          "行刑"
+        ],
+        "core_experience": "读者在黑色幽默与荒诞感中，体验一个卑微者不断自我欺骗和自我贬损的心理机制，并在他人的冷漠与自身的无知中感受一种无力、荒谬而沉重的悲剧性。",
+        "experience_introduction": "读者跟随阿Q的视角，在看似滑稽的日常遭遇中，反复遭遇自我欺骗、自我安慰与自我否定的矛盾心理体验。作品通过一系列具有高度概括性的生活片段和戏剧性场景，使读者在嘲笑中夹杂怜悯，在愤怒中滋生反省，最终形成一种对社会病态心理与个体生存困境的复合认知与情感振荡。"
+      },
+      "experience_vector": {
+        "passion": 0.15,
+        "healing": 0.05,
+        "awe": 0.20,
+        "nostalgia": 0.30,
+        "reflection": 0.95,
+        "romance": 0.00,
+        "tension": 0.65,
+        "warmth": 0.05,
+        "loneliness": 0.85,
+        "hope": 0.10
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.92,
+          "complexity": 0.88,
+          "depth_of_thought": 0.95,
+          "logical_structure": 0.55,
+          "novelty": 0.96,
+          "exploration": 0.45,
+          "ambiguity": 0.80,
+          "predictability": 0.15,
+          "information_density": 0.90,
+          "learning_value": 0.93
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.85,
+          "social_scale": 0.95,
+          "civilization_scale": 0.80,
+          "cosmic_scale": 0.20,
+          "time_span": 0.35,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.10,
+          "sadness": 0.70,
+          "loneliness": 0.90,
+          "warmth": 0.05,
+          "fear": 0.55,
+          "tension": 0.65,
+          "awe": 0.25,
+          "nostalgia": 0.30,
+          "hope": 0.05,
+          "melancholy": 0.60,
+          "anger": 0.80,
+          "peace": 0.00
+        },
+        "aesthetic": {
+          "beauty": 0.40,
+          "minimalism": 0.60,
+          "luxury": 0.00,
+          "darkness": 0.85,
+          "brightness": 0.05,
+          "dreamlike": 0.10,
+          "mystery": 0.05,
+          "experimental": 0.70,
+          "classical": 0.60,
+          "modern": 0.85
+        },
+        "narrative": {
+          "plot_complexity": 0.45,
+          "character_depth": 0.98,
+          "character_growth": 0.05,
+          "world_building": 0.70,
+          "nonlinear_structure": 0.35,
+          "slow_immersion": 0.30,
+          "action_intensity": 0.25,
+          "conflict_intensity": 0.75,
+          "philosophical_depth": 0.96
+        },
+        "social": {
+          "individualism": 0.70,
+          "collectivism": 0.80,
+          "family": 0.15,
+          "friendship": 0.05,
+          "love": 0.05,
+          "community": 0.85,
+          "competition": 0.85,
+          "cooperation": 0.10,
+          "power_relationship": 0.95,
+          "identity": 0.92
+        },
+        "value": {
+          "freedom": 0.40,
+          "order": 0.60,
+          "truth": 0.75,
+          "beauty": 0.20,
+          "achievement": 0.35,
+          "justice": 0.55,
+          "sacrifice": 0.45,
+          "self_exploration": 0.85,
+          "tradition": 0.70,
+          "change": 0.40,
+          "survival": 0.80,
+          "meaning": 0.90
+        },
+        "behavior": {
+          "curiosity": 0.20,
+          "creation": 0.05,
+          "adventure": 0.05,
+          "reflection": 0.95,
+          "competition": 0.80,
+          "social": 0.60,
+          "discipline": 0.15,
+          "risk": 0.10,
+          "calm": 0.05,
+          "escape": 0.95
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.25,
+          "sound_intensity": 0.40,
+          "rhythm_energy": 0.35,
+          "atmosphere": 0.90,
+          "immersion": 0.70
+        }
+      },
+      "media_vector": {
+        "novel_vector": {
+          "literary_depth": 0.98,
+          "writing_style": 0.96,
+          "narrative_voice": 0.95,
+          "symbolism": 0.92,
+          "inner_monologue": 0.45,
+          "world_building_depth": 0.60
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.15,
+          "explanation": "作品缺乏热烈的情感宣泄，更多呈现压抑与自嘲。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.05,
+          "explanation": "几乎不提供抚慰性体验，整体基调尖锐且痛苦。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.20,
+          "explanation": "虽然具有思想震撼力，但更多引导反思而非敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.30,
+          "explanation": "描绘清末民初乡土社会，引发有限的历史怀旧感。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "作品的根本目的是引发对国民性与社会结构的深度反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.00,
+          "explanation": "不含任何浪漫爱情元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.65,
+          "explanation": "持续的压迫感、权力落差与被吞噬的预感制造紧张。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.05,
+          "explanation": "人物之间极少存在温情互动，人际关系极度冷淡。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "阿Q在人群中的孤立及其精神世界的隔离感贯穿始终。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.10,
+          "explanation": "结尾的悲剧性和循环式群体冷漠几乎消解了所有希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.92,
+          "explanation": "人物行为具有高度象征性，精神胜利法本身即是抽象文化心理的具象化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.88,
+          "explanation": "表层言行与深层心理形成多层次的戏剧性反讽结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.95,
+          "explanation": "深入挖掘集体无意识中的自欺、权力崇拜与麻木等社会心理结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.55,
+          "explanation": "叙事逻辑松散但服务于核心主题，不以严密推理见长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.96,
+          "explanation": "在1921年的文学语境中，塑造精神胜利法这一典型心理是前所未有的创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.45,
+          "explanation": "主要聚焦于已知社会现实的分析，而非探索未知世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.80,
+          "explanation": "叙述者的态度在讽刺与同情间摇摆，提供多重解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.15,
+          "explanation": "阿Q的悲惨结局与其性格逻辑高度一致，但并非依靠情节翻转。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.90,
+          "explanation": "简短篇幅中浓缩了社会文化批判、心理分析及历史反思等大量信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.93,
+          "explanation": "提供关于中国社会、集体心理与人性弱点的持久知识价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "极度聚焦阿Q个体心理，将个人生存感受作为解剖社会的最基本单位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.85,
+          "explanation": "通过阿Q与他人的每一次互动揭示社会关系的权力本质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "以未庄小社会精确映射整体中国乡土社会的等级秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.80,
+          "explanation": "批判触及古老文明中病态心理的传承与固化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.20,
+          "explanation": "不涉及宇宙观或超越性维度，完全固着于人间社会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.35,
+          "explanation": "叙述时间跨度短，但指向漫长历史积淀下的国民性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "严格遵循现实主义原则，无奇幻元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.10,
+          "explanation": "仅有黑色幽默带来的间歇性苦涩笑意，非真正快乐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.70,
+          "explanation": "个体悲剧与社会整体麻木交融，悲哀是持续的背景情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.90,
+          "explanation": "阿Q在精神上完全孤立，被所有人轻视，无法建立任何真实联系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.05,
+          "explanation": "文本氛围冰冷，人物关系缺乏任何温情或善意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "表现出对强权的恐惧及对未知命运的隐约不安。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.65,
+          "explanation": "等级压制、围观情境及执行死刑的场景持续制造紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.25,
+          "explanation": "思想的锋利可能唤起敬畏，但冷峻的讽刺冲淡了这种体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "描绘消失的传统乡土社会，引发微弱的历史怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.05,
+          "explanation": "阿Q至死不觉醒，结尾的看客群像完全扼杀希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.60,
+          "explanation": "对民族命运的深重忧虑感渗透在字里行间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.80,
+          "explanation": "对社会不公及群体愚昧的愤怒是驱动作品的核心情感之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.00,
+          "explanation": "作品刻意扰乱读者内心的平静，无一瞬安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.40,
+          "explanation": "美学风格以丑、扭曲和荒诞为主，但语言艺术本身具有美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.60,
+          "explanation": "情节和场景极度精炼，以少胜多。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.00,
+          "explanation": "描写的完全是底层贫乏粗糙的生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "整体色调灰暗压抑，结局冷酷无情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.05,
+          "explanation": "几乎不存在明亮的色调或积极的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.10,
+          "explanation": "叙事写实，非梦境结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "不追求未知的神秘感，而是揭示已知现实的荒诞。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.70,
+          "explanation": "在当时语境下，这种以典型化艺术形象参与社会批评的手法极具实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.60,
+          "explanation": "语言和叙事结构保留了章回体及传统白描的古典痕迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.85,
+          "explanation": "其理性批判精神与心理透视是现代文学的核心特质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.45,
+          "explanation": "情节简单，为生活片段连缀，不以复杂故事取胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.98,
+          "explanation": "对阿Q内在心理机制的透析成为中国现代文学人物深度的巅峰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "阿Q的性格定型后固守不变，直至死亡也无真正觉醒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.70,
+          "explanation": "以高度写实的细节构建了完整且具有代表性的未庄社会生态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.35,
+          "explanation": "结构基本上是线性串联，仅穿插少量背景补充。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.30,
+          "explanation": "节奏紧凑，不追求缓慢沉浸，而通过连续的事件冲击形成印象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.25,
+          "explanation": "剧烈的肢体冲突和外部行动较少，多为心理活动与言语交锋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.75,
+          "explanation": "社会等级、经济地位等结构性的冲突非常尖锐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.96,
+          "explanation": "关于存在、自尊、权力的扭曲关系的探讨使作品达到了哲学高度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.70,
+          "explanation": "阿Q的一切行为均源于极端的自私自利。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.80,
+          "explanation": "作品中的群体压力、看客心态及集体无意识是批判的核心对象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.15,
+          "explanation": "阿Q无家庭归属感，传统家族结构在作品中缺席。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.05,
+          "explanation": "不存在真正的友谊，人与人之间只有利用、蔑视和争斗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.05,
+          "explanation": "爱情完全缺席，唯一涉及的求爱行为被扭曲成一场闹剧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.85,
+          "explanation": "未庄的社区关系是作品着力描绘的核心社会单位。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.85,
+          "explanation": "人物之间充满了因地位、资源、尊严而发生的激烈竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.10,
+          "explanation": "合作极度罕见，即使有也是临时的、功利性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.95,
+          "explanation": "作品精确刻画了强权压制下欺软怕硬的阶级统治链条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.92,
+          "explanation": "阿Q对自身地位的认知、其自我欺瞒式的身份认同是作品的根本母题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.40,
+          "explanation": "阿Q对自由并无明确意识，只浑浑噩噩地生存。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.60,
+          "explanation": "作品详尽描绘了乡土社会中森严且森严苛刻的等级秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.75,
+          "explanation": "作品的最高追求在于揭示国民灵魂的真实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.20,
+          "explanation": "展现的是精神的丑陋，并非以审美愉悦为核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.35,
+          "explanation": "阿Q追求被人敬畏，但毫无真正的成就可言。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "作品控诉了司法与执行正义的缺失，引发对公平的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.45,
+          "explanation": "阿Q是旧制度的牺牲品，但其个体牺牲缺乏自觉的崇高性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.85,
+          "explanation": "作品本身即是一次剖析民族自我、寻找精神病因的深度探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.70,
+          "explanation": "深刻批判了僵死的、作为包袱存在的传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.40,
+          "explanation": "革命并未带来任何实质的思想改变，作品对变革本身持悲观态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.80,
+          "explanation": "阿Q全部行为的底层逻辑是生物学和心理学意义上的存活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.90,
+          "explanation": "终极指向个体如何为虚无的生存寻找或伪造意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.20,
+          "explanation": "阿Q与周围人普遍缺乏对未知的好奇心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.05,
+          "explanation": "不存在任何创造性或建设性的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.05,
+          "explanation": "阿Q进城勉强算被动的游荡，非主动探险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "作品本身高度鼓励读者进行反思，虽然角色本身不反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.80,
+          "explanation": "角色间处于持续不断的、为尊严和生存而展开的竞争状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.60,
+          "explanation": "作品重度依赖社会互动和人际冲突来推动叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "人物生活混乱无序，完全缺乏自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "角色们回避风险，只有投机心态而少冒险精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.05,
+          "explanation": "氛围完全被讽刺、焦虑和骚动占据，缺乏平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.95,
+          "explanation": "精神胜利法本质上是一种对现实世界的彻底逃避机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "文字具有强烈的画面感，如行刑场景等。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.25,
+          "explanation": "环境与色彩的描绘退居其次，服务于灰暗的社会基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.40,
+          "explanation": "对话和叫骂声是主要的声音元素，缺乏复杂的听觉描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.35,
+          "explanation": "叙事节奏紧张急促，而非律动性强的能量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.90,
+          "explanation": "压抑、荒诞、冷漠的整体氛围支配了全篇的阅读体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.70,
+          "explanation": "读者极易被带入未庄的社会氛围并产生强烈的情感反应。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.literary_depth",
+          "score": 0.98,
+          "explanation": "是中国现代文学史上思想性、艺术性深度的最高典范之一。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.writing_style",
+          "score": 0.96,
+          "explanation": "冷峻、犀利、高度凝练的杂文式小说语言风格极为突出。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.narrative_voice",
+          "score": 0.95,
+          "explanation": "叙述者带有明显的知识分子批判视角和反讽语调。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.symbolism",
+          "score": 0.92,
+          "explanation": "阿Q及其精神胜利法等具有高度的文学与社会象征意义。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.inner_monologue",
+          "score": 0.45,
+          "explanation": "内心活动主要通过外部言行和叙述评论来暗示，较少直接倾泻内心独白。"
+        },
+        {
+          "dimensionPath": "media_vector.novel_vector.world_building_depth",
+          "score": 0.60,
+          "explanation": "社会世界构建非常扎实，但其物理世界的具体细节并非描绘重点。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "读者的情感在同情、鄙夷、愤怒和深刻悲哀之间反复拉扯。由最初的荒诞可笑逐渐转变为一种无望的窒息感，行刑现场旁观者的麻木与狂欢将这种体验推向冷酷的顶峰。",
+        "structure_description": "小说以人物传记式的结构串联起独立的场景，形成一种累积式的证伪力量，最终在荒唐的审判与死亡中完成对人物和社会的双重判决。",
+        "cognitive_expression": "作品强烈地激发读者的解码与阐释欲望。读者被诱导去解读角色荒诞言行背后的社会文化逻辑，进行一场关于集体心理、阶级与身份认同的理性反思。",
+        "behavioral_tendency_description": "作品极大地抑制任何主动探索外界或向外寻求抚慰的倾向，反而迫使读者向内审视自我与外部世界的权力关系，并引发一种反求诸己的分析性行为冲动。"
+      },
+      "personality_affinity": {
+        "Ni": 0.92,
+        "Ne": 0.15,
+        "Ti": 0.85,
+        "Te": 0.40,
+        "Fi": 0.55,
+        "Fe": 0.30,
+        "Si": 0.45,
+        "Se": 0.15,
+        "openness": 0.75,
+        "conscientiousness": 0.70,
+        "extraversion": 0.05,
+        "agreeableness": 0.10,
+        "neuroticism": 0.85,
+        "Assertive": 0.10,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "阿Q每次遭受屈辱之后，总会通过自我安慰转换为心理上的胜利。",
+        "故事围绕一个无固定住所、无姓氏、无家室的流浪雇农展开。",
+        "叙述者以一种冷静而带刺的口吻，反复剖析人物言行的表里不一。",
+        "阿Q自称先前的阔绰和未来的发达，并以此在想象中建立优越感。",
+        "人物关系完全建立在等级秩序之上，每个人都在欺凌弱者、畏惧强者。",
+        "作品中出现了赵太爷、假洋鬼子、王胡、小D等多个层级分明的社会角色。",
+        "未庄的群体对于阿Q的嘲笑、殴打、直至死亡都表现出惊人的冷漠。",
+        "阿Q对革命的理解完全是扭曲的，幻想通过造反获得权力和女人。",
+        "社会变革被描绘为仅仅是换了一块牌子和抢一些东西的形式主义。",
+        "阿Q至死未觉悟自己世界的荒诞，在画押时还在关心圆圈是否画得圆。",
+        "行刑前的游街示众和沿途的围观者成为全篇最具悲剧张力的场景。",
+        "作品描绘了个体在封闭落后的乡土社群中是如何被彻底物化与排斥的。",
+        "鲁迅高度提炼的白话文语言使故事既具有古典小说的简练，又带有现代的穿透力。",
+        "阿Q的精神胜利法被塑造成一种可悲的、循环往复的固化心理机制。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

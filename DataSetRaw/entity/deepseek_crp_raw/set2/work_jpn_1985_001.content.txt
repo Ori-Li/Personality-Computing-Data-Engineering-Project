@@ -1,0 +1,747 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1985_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "超级马力欧兄弟",
+        "type": "GAME",
+        "countryName": "日本",
+        "year": 1985,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.94,
+        "primaryMediaType": "GAME"
+      },
+      "semantic": {
+        "summary": "一款横向卷轴平台动作游戏，玩家操控马力欧穿越八个风格各异的世界，击败库巴并营救公主。游戏通过精准的跳跃机制、隐藏砖块与水管通道、逐步升级的敌人配置，将冒险、探索与操作挑战融为一体，奠定了现代电子游戏的交互范式。",
+        "themes": [
+          "冒险",
+          "英雄拯救",
+          "成长"
+        ],
+        "keywords": [
+          "蘑菇王国",
+          "桃花公主",
+          "库巴",
+          "马力欧",
+          "横向卷轴",
+          "关卡设计",
+          "力量提升道具",
+          "红白机"
+        ],
+        "core_experience": "通过即时操作反馈、渐进式关卡挑战与隐藏要素探索，持续获得发现感、掌控感与通关成就感交织的纯粹游戏乐趣。",
+        "experience_introduction": "《超级马力欧兄弟》将玩家置于一个由跳跃、躲避和道具构成的连续动态系统中。每一处平台、敌人和砖块都同时作为挑战与可能性出现，玩家的每一步操作都即时转化为马力欧的移动、弹跳或变化。关卡从简单的步行逐渐引入加速跑、水下迷宫、熔岩城堡和高空弹跳，难度曲线平滑但不可逆，迫使玩家在反复尝试中提升反应精度与节奏感。隐藏的奖励房间、顶出藤蔓爬向云端的捷径、以及金币与生命蘑菇的稀缺分配，共同营造出一种持续的轻度紧张与破解获得回报的满足感。整个体验没有冗余叙事，所有注意力都聚焦在眼手协调、空间判断和瞬时决策上，最终在世界8-4击败库巴时达成强烈的终结成就感。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.18,
+        "awe": 0.12,
+        "nostalgia": 0.35,
+        "reflection": 0.05,
+        "romance": 0.05,
+        "tension": 0.55,
+        "warmth": 0.42,
+        "loneliness": 0.22,
+        "hope": 0.48
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.10,
+          "complexity": 0.28,
+          "depth_of_thought": 0.08,
+          "logical_structure": 0.72,
+          "novelty": 0.88,
+          "exploration": 0.60,
+          "ambiguity": 0.30,
+          "predictability": 0.62,
+          "information_density": 0.25,
+          "learning_value": 0.15
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.24,
+          "social_scale": 0.10,
+          "civilization_scale": 0.05,
+          "cosmic_scale": 0.02,
+          "time_span": 0.15,
+          "fantasy_level": 0.78
+        },
+        "emotion": {
+          "happiness": 0.68,
+          "sadness": 0.05,
+          "loneliness": 0.22,
+          "warmth": 0.38,
+          "fear": 0.10,
+          "tension": 0.52,
+          "awe": 0.08,
+          "nostalgia": 0.30,
+          "hope": 0.45,
+          "melancholy": 0.05,
+          "anger": 0.06,
+          "peace": 0.12
+        },
+        "aesthetic": {
+          "beauty": 0.42,
+          "minimalism": 0.85,
+          "luxury": 0.02,
+          "darkness": 0.22,
+          "brightness": 0.80,
+          "dreamlike": 0.35,
+          "mystery": 0.45,
+          "experimental": 0.28,
+          "classical": 0.30,
+          "modern": 0.58
+        },
+        "narrative": {
+          "plot_complexity": 0.05,
+          "character_depth": 0.06,
+          "character_growth": 0.08,
+          "world_building": 0.62,
+          "nonlinear_structure": 0.18,
+          "slow_immersion": 0.15,
+          "action_intensity": 0.82,
+          "conflict_intensity": 0.60,
+          "philosophical_depth": 0.02
+        },
+        "social": {
+          "individualism": 0.68,
+          "collectivism": 0.05,
+          "family": 0.02,
+          "friendship": 0.10,
+          "love": 0.08,
+          "community": 0.04,
+          "competition": 0.30,
+          "cooperation": 0.08,
+          "power_relationship": 0.25,
+          "identity": 0.12
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.38,
+          "truth": 0.05,
+          "beauty": 0.30,
+          "achievement": 0.90,
+          "justice": 0.55,
+          "sacrifice": 0.32,
+          "self_exploration": 0.10,
+          "tradition": 0.18,
+          "change": 0.35,
+          "survival": 0.65,
+          "meaning": 0.10
+        },
+        "behavior": {
+          "curiosity": 0.62,
+          "creation": 0.10,
+          "adventure": 0.88,
+          "reflection": 0.05,
+          "competition": 0.35,
+          "social": 0.04,
+          "discipline": 0.68,
+          "risk": 0.75,
+          "calm": 0.08,
+          "escape": 0.12
+        },
+        "sensory": {
+          "visual_intensity": 0.65,
+          "color_richness": 0.74,
+          "sound_intensity": 0.62,
+          "rhythm_energy": 0.78,
+          "atmosphere": 0.52,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "game_vector": {
+          "strategy_depth": 0.30,
+          "mechanical_skill": 0.85,
+          "player_agency": 0.62,
+          "exploration_depth": 0.68,
+          "collection_system": 0.40,
+          "progression_system": 0.72,
+          "social_interaction": 0.02,
+          "competition_intensity": 0.12
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "即时操作反馈和连续关卡挑战产生高度投入和激动情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.18,
+          "explanation": "游戏主要体验为挑战和冒险，治愈感较弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.12,
+          "explanation": "内容风格明亮活泼，很少引发宏大敬畏感。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.35,
+          "explanation": "经典像素美术和标志性音乐在当代可能唤起怀旧感，但非作品固有体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.05,
+          "explanation": "游戏不提供叙事反思空间，注意力集中在即时操作。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "拯救公主仅作为任务框架，未展开浪漫叙事。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.55,
+          "explanation": "时间限制、敌人密度和陷阱分布持续施加轻度紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.42,
+          "explanation": "明亮的色彩、圆润的角色设计和轻快音乐营造温和氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.22,
+          "explanation": "马力欧独自穿越世界，孤立感轻微但可察觉。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.48,
+          "explanation": "每次通关一个关卡和获得道具都传递微小但持续的推进希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.10,
+          "explanation": "所有规则通过即时操作直接体验，无抽象概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.28,
+          "explanation": "核心机制简单，组合形式有限，认知负担较低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.08,
+          "explanation": "不涉及任何深度思想探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.72,
+          "explanation": "关卡设计遵循严格的因果链和时间窗口，逻辑性极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.88,
+          "explanation": "在1985年，精确物理、隐藏要素和连续卷轴世界具有高度原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "鼓励玩家通过顶砖块、进入水管和尝试捷径发现隐藏内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.30,
+          "explanation": "规则清晰，少数隐藏路径带来模糊感但非核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.62,
+          "explanation": "敌人行为模式固定，多数关卡结构可预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.25,
+          "explanation": "主要信息为平台位置和敌人分布，信息密度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.15,
+          "explanation": "几乎不提供知识或文化理解，纯粹训练操作技能。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "故事聚焦于马力欧个人拯救公主的行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.24,
+          "explanation": "关系中仅有拯救者与被拯救者、英雄与反派。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.10,
+          "explanation": "未呈现任何社会组织或群体互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.05,
+          "explanation": "蘑菇王国仅作为背景存在，无文明层面描绘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.02,
+          "explanation": "无宇宙层面内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.15,
+          "explanation": "游戏内部时间感知为连续的单次冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.78,
+          "explanation": "设定完全脱离现实，包含蘑菇人、魔法火焰花和会飞的乌龟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.68,
+          "explanation": "成功跳跃、击败敌人和找到秘密带来的快乐是基础体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.05,
+          "explanation": "几乎没有悲伤表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.22,
+          "explanation": "马力欧独自行动，略有孤独感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.38,
+          "explanation": "美术风格和音乐带来温和友善的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.10,
+          "explanation": "轻度惊吓仅来自突然出现的敌人，整体不恐怖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.52,
+          "explanation": "生存压力、时间限制和关卡难度持续制造紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.08,
+          "explanation": "极少引发敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "潜在唤起早期电子游戏时代的复古情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.45,
+          "explanation": "道具和进度保存带来持续的前进希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.05,
+          "explanation": "无忧郁气质。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.06,
+          "explanation": "失败可能引起短暂挫折感，但非作品表达的愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.12,
+          "explanation": "平和感很少，体验以动态为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.42,
+          "explanation": "像素美术具有简洁、协调的视觉美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.85,
+          "explanation": "8-bit图形、单屏关卡和极简叙事是典型极简主义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.02,
+          "explanation": "完全没有奢华元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.22,
+          "explanation": "地下和城堡关卡有一定阴暗视觉效果。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.80,
+          "explanation": "主色调为明亮的蓝天、绿色管道和鲜艳角色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.35,
+          "explanation": "扭曲水管通道和云端金币略有梦境质感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.45,
+          "explanation": "隐藏砖块和秘密出口持续提供神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.28,
+          "explanation": "视觉风格在发行时具实验性，但以当代标准则相对传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.30,
+          "explanation": "对称构图和清晰规则带有经典设计原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.58,
+          "explanation": "操作性、抽象性和极简界面在当时非常现代。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.05,
+          "explanation": "情节仅为一个简单的拯救任务。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.06,
+          "explanation": "角色无心理描写或背景故事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.08,
+          "explanation": "仅有道具带来的能力变化，无内在性格成长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.62,
+          "explanation": "8个世界、多样化地形和敌人生态构成一个完整的世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.18,
+          "explanation": "允许通过跳关水管选择路径，但主线仍是线性的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.15,
+          "explanation": "节奏快，少有缓慢沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.82,
+          "explanation": "跳跃、踩踏和躲避动作几乎连续不断。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.60,
+          "explanation": "马力欧与库巴军团之间的对抗贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.02,
+          "explanation": "无哲学内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.68,
+          "explanation": "核心体验为单人英雄独立完成所有挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.05,
+          "explanation": "无集体目标或团队合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.02,
+          "explanation": "未涉及家庭关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.10,
+          "explanation": "除了被拯救的蘑菇仆从，没有朋友互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.08,
+          "explanation": "浪漫爱情缺失。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.04,
+          "explanation": "蘑菇王国居民未展现社群生活。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.30,
+          "explanation": "本质上是对抗反派，而非人际竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.08,
+          "explanation": "无合作机制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.25,
+          "explanation": "库巴的统治与马力欧的反抗形成简单的权力关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.12,
+          "explanation": "不涉及身份认同探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "拯救公主即是为蘑菇王国恢复自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.38,
+          "explanation": "游戏本身强调规则遵守和顺序通关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.05,
+          "explanation": "无关真理追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.30,
+          "explanation": "视觉和音乐的美感是体验的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.90,
+          "explanation": "游戏的核心驱动力是完成关卡和最终拯救公主的成就感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.55,
+          "explanation": "击败邪恶的库巴是正义实施的直接体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.32,
+          "explanation": "马力欧冒险涉险自身安危以拯救他人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.10,
+          "explanation": "无自我探索主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.18,
+          "explanation": "英雄救美的传统叙事框架。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.35,
+          "explanation": "马力欧的存在改变了蘑菇王国的现状。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.65,
+          "explanation": "游戏全程围绕马力欧的生存战斗展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.10,
+          "explanation": "不涉及深层意义探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.62,
+          "explanation": "隐藏要素驱动玩家强烈的好奇心去尝试和探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.10,
+          "explanation": "无创造空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.88,
+          "explanation": "整个游戏是一段勇敢者闯入未知地域的冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.05,
+          "explanation": "不鼓励反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.35,
+          "explanation": "单机模式下无竞争，但分数排行隐含自我竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.04,
+          "explanation": "几乎不涉及社交行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.68,
+          "explanation": "成功需要反复练习、记住敌人模式和精确控制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.75,
+          "explanation": "随时需要评估跳跃距离和敌人位置，鼓励不断冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.08,
+          "explanation": "游戏节奏快，难以保持平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.12,
+          "explanation": "非现实逃避主题，更多是主动挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.65,
+          "explanation": "高速滚动、颜色跳跃和频繁的动画变化引人注目。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.74,
+          "explanation": "尽管受8位限制，仍鲜明使用了蓝、红、绿、黄等丰富色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.62,
+          "explanation": "旋律和音效突出，并持续伴随玩家行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.78,
+          "explanation": "著名的主题曲和快节奏关卡驱动高能量律动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.52,
+          "explanation": "各世界具有独特的视觉与音乐氛围，如地下关的幽闭感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "迅捷的反馈和高挑战性令人高度沉浸于游戏环境。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.strategy_depth",
+          "score": 0.30,
+          "explanation": "主要为即时反应，长期策略性较低。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.mechanical_skill",
+          "score": 0.85,
+          "explanation": "游戏极度依赖精准的跳跃和时机控制。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.player_agency",
+          "score": 0.62,
+          "explanation": "玩家可自由选择路径和探索方式，但受关卡空间限制。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.exploration_depth",
+          "score": 0.68,
+          "explanation": "鼓励寻找隐藏区域、跳关和秘密道具。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.collection_system",
+          "score": 0.40,
+          "explanation": "收集金币和蘑菇是其基本系统，但非核心。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.progression_system",
+          "score": 0.72,
+          "explanation": "通过世界1至8的线性进阶，且通过道具实现角色能力提升。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.social_interaction",
+          "score": 0.02,
+          "explanation": "无多人模式或社交功能。"
+        },
+        {
+          "dimensionPath": "media_vector.game_vector.competition_intensity",
+          "score": 0.12,
+          "explanation": "无直接竞争机制，间接竞争来自高分纪录。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "玩家体验到一种由即时挑战、快速反馈和连续成功驱动的兴奋感。游戏提供了一种纯粹的动作满足感，混合着对未知区域的轻微好奇和对失败重来的短暂紧张。整体情感基调是明快、积极且充满活力的，希望感和冒险热情贯穿始终，而治愈、反思或悲伤等复杂情绪几乎不参与核心体验。",
+        "structure_description": "体验结构由严格的关卡序列和逐步引入的机制构成。每一关都是一个微型的挑战-解决循环，玩家在反复尝试中掌握模式，并通过检查点和道具获得阶段性奖励。这种结构创造了一种强烈的节奏感：紧张-释放-再紧张，最终在击败关底领主时达成高潮。隐藏路径和跳关机制引入了非线性的选择感，但主线仍是明确的线性递进。",
+        "cognitive_expression": "该作品主要调用玩家的空间推理、模式识别和瞬间决策能力。认知过程高度实用化，几乎不涉及抽象反思或深度哲理探讨。玩家需要在执行动作的同时观察敌人运动规律和平台布局，这是一种基于规则和因果逻辑的即时思维，新奇性在最初接触时极高，但规则一旦掌握，便转向可预测的熟练操作。",
+        "behavioral_tendency_description": "游戏强烈鼓励冒险尝试、纪律性练习和好奇心驱动的探索。玩家被反复激励去跳出安全区域、顶开可能藏有道具的砖块、进入未知的水管。同时，为了通关，必须培养纪律性和精准的操作习惯。整个体验奖励主动和果断的行为，不提供社交、合作或静态沉思的空间。"
+      },
+      "personality_affinity": {
+        "Ni": 0.12,
+        "Ne": 0.28,
+        "Ti": 0.58,
+        "Te": 0.80,
+        "Fi": 0.12,
+        "Fe": 0.10,
+        "Si": 0.40,
+        "Se": 0.92,
+        "openness": 0.70,
+        "conscientiousness": 0.72,
+        "extraversion": 0.38,
+        "agreeableness": 0.25,
+        "neuroticism": 0.45,
+        "Assertive": 0.65,
+        "Turbulent": 0.38
+      },
+      "supporting_evidence": [
+        "游戏包含八个世界共三十二个关卡，每个世界的视觉主题和敌人配置各不相同。",
+        "玩家通过方向键移动和两个按键实现跑、跳和发射火球，操作反馈即时且精确。",
+        "关卡中设置了隐藏砖块、隐藏奖励区域和可穿越的水管，奖励积极调查行为。",
+        "游戏拥有严格的时间限制，每关须在时限内完成。",
+        "触碰敌人或落入深渊会立即失去一条生命，失败惩罚直接且频繁。",
+        "地图中存在跳关区域，允许玩家从世界1-2直接进入世界4-1。",
+        "主角可以通过吃下超级蘑菇变身为超级马力欧，获得一次额外承受伤害的机会。",
+        "获得火焰花可使马力欧发射火球攻击敌人，改变了基础攻击方式。",
+        "道具和能力提升均为暂时性，受到攻击后会失去。",
+        "敌方单位如栗宝宝和绿龟具有固定的水平和垂直移动模式。",
+        "主要冲突表现为马力欧对抗反派库巴及其军队，最终目标是营救被囚禁的桃花公主。",
+        "击败关底库巴后，玩家会得到提示公主在其他城堡，重复直至世界8-4。",
+        "视觉上采用明亮的蓝天和绿色管道作为背景，角色设计为色彩鲜明的像素块。",
+        "背景音乐包含节奏轻快且辨识度高的主旋律，城堡关则使用较为严肃的曲调。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

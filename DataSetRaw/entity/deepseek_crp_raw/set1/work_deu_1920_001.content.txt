@@ -1,0 +1,741 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_deu_1920_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "群众与人",
+        "type": "STAGE",
+        "countryName": "德国",
+        "year": 1920,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-14",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.68,
+        "primaryMediaType": "STAGE"
+      },
+      "semantic": {
+        "summary": "该剧围绕一位投身革命运动的女性，在群众暴力与个人道德之间展开激烈内心挣扎。通过表现主义手法，以呐喊、独白和象征性场景，传递出个体在时代洪流中的无力感与自我审判。作品将阶级斗争、人道主义与灵魂救赎融合于舞台上，营造出一种紧迫而压抑的思想体验。剧本反映了战后欧洲的精神危机，是对政治暴力与集体狂热的深刻质询。",
+        "themes": [
+          "革命",
+          "群众运动",
+          "暴力",
+          "道德",
+          "个人责任",
+          "人道主义",
+          "阶级冲突",
+          "自我审判"
+        ],
+        "keywords": [
+          "表现主义",
+          "狱中创作",
+          "女性革命者",
+          "群众",
+          "牺牲",
+          "政治戏剧",
+          "德国表现主义",
+          "灵魂挣扎",
+          "非人化",
+          "理想幻灭"
+        ],
+        "core_experience": "在高度紧张的思想碰撞中，体验个体信念被集体暴力撕扯的心理焦灼。",
+        "experience_introduction": "《群众与人》通过表现主义戏剧的强烈风格，将观众直接拉入一场充满道德拷问和政治激情的内心风暴。舞台上，抽象的群众力量与具体的个体良知反复对抗，观众在角色呐喊与自白中持续感受到理想与现实的撕裂。整个体验以紧张、压抑和痛苦的情感共鸣为主，迫使人们面对暴力手段与人道目的之间的根本矛盾，最终导向一种沉重的自我反思。"
+      },
+      "experience_vector": {
+        "passion": 0.88,
+        "healing": 0.12,
+        "awe": 0.45,
+        "nostalgia": 0.08,
+        "reflection": 0.95,
+        "romance": 0.05,
+        "tension": 0.92,
+        "warmth": 0.1,
+        "loneliness": 0.85,
+        "hope": 0.15
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.82,
+          "complexity": 0.78,
+          "depth_of_thought": 0.9,
+          "logical_structure": 0.68,
+          "novelty": 0.75,
+          "exploration": 0.72,
+          "ambiguity": 0.8,
+          "predictability": 0.25,
+          "information_density": 0.7,
+          "learning_value": 0.82
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.4,
+          "social_scale": 0.95,
+          "civilization_scale": 0.78,
+          "cosmic_scale": 0.2,
+          "time_span": 0.3,
+          "fantasy_level": 0.1
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.78,
+          "loneliness": 0.88,
+          "warmth": 0.08,
+          "fear": 0.55,
+          "tension": 0.9,
+          "awe": 0.42,
+          "nostalgia": 0.06,
+          "hope": 0.12,
+          "melancholy": 0.75,
+          "anger": 0.7,
+          "peace": 0.04
+        },
+        "aesthetic": {
+          "beauty": 0.35,
+          "minimalism": 0.65,
+          "luxury": 0.05,
+          "darkness": 0.85,
+          "brightness": 0.15,
+          "dreamlike": 0.4,
+          "mystery": 0.3,
+          "experimental": 0.88,
+          "classical": 0.25,
+          "modern": 0.86
+        },
+        "narrative": {
+          "plot_complexity": 0.45,
+          "character_depth": 0.82,
+          "character_growth": 0.62,
+          "world_building": 0.35,
+          "nonlinear_structure": 0.7,
+          "slow_immersion": 0.4,
+          "action_intensity": 0.55,
+          "conflict_intensity": 0.95,
+          "philosophical_depth": 0.92
+        },
+        "social": {
+          "individualism": 0.68,
+          "collectivism": 0.82,
+          "family": 0.08,
+          "friendship": 0.12,
+          "love": 0.15,
+          "community": 0.22,
+          "competition": 0.78,
+          "cooperation": 0.3,
+          "power_relationship": 0.88,
+          "identity": 0.9
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.3,
+          "truth": 0.85,
+          "beauty": 0.25,
+          "achievement": 0.3,
+          "justice": 0.82,
+          "sacrifice": 0.88,
+          "self_exploration": 0.9,
+          "tradition": 0.15,
+          "change": 0.8,
+          "survival": 0.75,
+          "meaning": 0.92
+        },
+        "behavior": {
+          "curiosity": 0.65,
+          "creation": 0.4,
+          "adventure": 0.35,
+          "reflection": 0.95,
+          "competition": 0.78,
+          "social": 0.28,
+          "discipline": 0.45,
+          "risk": 0.72,
+          "calm": 0.08,
+          "escape": 0.15
+        },
+        "sensory": {
+          "visual_intensity": 0.72,
+          "color_richness": 0.45,
+          "sound_intensity": 0.8,
+          "rhythm_energy": 0.84,
+          "atmosphere": 0.9,
+          "immersion": 0.78
+        }
+      },
+      "media_vector": {
+        "stage_vector": {
+          "live_presence": 0.92,
+          "actor_expression": 0.95,
+          "body_expression": 0.88,
+          "audience_interaction": 0.35,
+          "performance_intensity": 0.96,
+          "ritual_sense": 0.68
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.88,
+          "explanation": "全剧充满激烈的政治激情和道德呐喊，情感表达极为强烈。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.12,
+          "explanation": "持续的内心冲突和悲剧结局几乎不提供任何心灵抚慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "群众运动的宏大描写带来一定的压迫感，但并非以崇高感为核心。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.08,
+          "explanation": "作品聚焦当下革命现实，基本不呈现对过去的怀念。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.95,
+          "explanation": "作品核心是对暴力、责任和道德的深刻自我反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.05,
+          "explanation": "剧情几乎不涉及任何浪漫爱情元素。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.92,
+          "explanation": "个体与群众的对抗贯穿始终，营造出持续的高度紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.1,
+          "explanation": "作品整体氛围冰冷、严酷，缺乏温暖的人际互动。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "主人公在集体中孤立无援，面临深刻的道德孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.15,
+          "explanation": "作品的悲剧性和人物的牺牲几乎不传递明确的希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.82,
+          "explanation": "表现主义手法将群众与个人抽象化为概念符号，大量使用象征性台词。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.78,
+          "explanation": "交织了阶级斗争、个人道德、人道主义等多重思想冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.9,
+          "explanation": "对暴力革命的正当性和个人责任的探讨达到了相当的哲学深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.68,
+          "explanation": "剧情依靠情感逻辑和思想对撞推进，而非严密的逻辑论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "在20世纪初，将表现主义用于政治题材并塑造女性革命者形象具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.72,
+          "explanation": "引导观众探索革命伦理的灰色地带和群众心理的复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.8,
+          "explanation": "对革命手段与目的的关系缺乏明确答案，立场趋于复杂和暧昧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "主人公的内心摇摆和悲剧走向并不遵循简单的因果报应逻辑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.7,
+          "explanation": "充满思辨性的独白和象征性场景承载了较高的思想信息密度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.82,
+          "explanation": "观众可借此理解表现主义戏剧形态和早期左翼知识分子的思想困境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "核心视角聚焦于女主人公的内心世界和个人良知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.4,
+          "explanation": "具体的人际关系描写相对模糊，更多是象征性的对立。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.95,
+          "explanation": "整个故事以阶级社会为背景，群众与个人的矛盾是社会性的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.78,
+          "explanation": "通过革命运动反思了西方文明中的暴力与道德问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.2,
+          "explanation": "作品完全扎根于现实社会政治，不涉及宇宙或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.3,
+          "explanation": "叙事时间集中在革命高潮点附近，时间跨度很短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.1,
+          "explanation": "无任何幻想或超现实元素，尽管形式风格化但内容高度写实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "整部剧的气氛是压抑和痛苦的，完全没有快乐的情绪表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.78,
+          "explanation": "理想幻灭和无谓的牺牲带来了深沉的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.88,
+          "explanation": "即便身处群众之中，主人公仍因道德选择而极度孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.08,
+          "explanation": "冷峻的表现主义风格和残酷的主题完全排斥了温暖的传递。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.55,
+          "explanation": "对群众暴力和失去控制的恐惧是主人公情绪的一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.9,
+          "explanation": "个人良知与集体意志的对撞产生了持续的高压心理张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.42,
+          "explanation": "群众力量的展示带有一种令人畏怖的震撼，而非欣赏式的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.06,
+          "explanation": "没有任何对往昔美好岁月的留恋情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.12,
+          "explanation": "主人公的牺牲带有绝望色彩，未给未来留下明确希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.75,
+          "explanation": "对理想失落和人性脆弱的哀叹构成了全剧的底色。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.7,
+          "explanation": "对不公、暴力和集体盲从的愤怒贯穿于主人公的呐喊中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.04,
+          "explanation": "至死主人公也未能获得内心的平静，戏剧在剧烈冲突中结束。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.35,
+          "explanation": "表现主义注重情感冲击而非传统美感，整体视觉粗粝、尖锐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.65,
+          "explanation": "舞台布景和人物设定常采用高度简化和象征化的处理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "毫无奢华感，场景严酷压抑，与底层革命背景一致。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "主题的残酷和舞台氛围的阴暗构成了典型的黑色美学。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.15,
+          "explanation": "仅在象征理想的少数时刻出现微弱的明亮感，但很快被吞没。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.4,
+          "explanation": "某些内心场景具有梦魇般的不真实感，但整体仍紧扣现实冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.3,
+          "explanation": "作品更侧重于直接宣泄，而非营造神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.88,
+          "explanation": "作为表现主义代表作，其运用了夸张、变形和类型化角色的先锋技法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.25,
+          "explanation": "叙事结构基本是围绕主角冲突展开的线性悲剧，存有古典内核。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.86,
+          "explanation": "无论在思想内容还是戏剧形式上，都体现了鲜明的现代主义特征。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.45,
+          "explanation": "情节线相对简单，主要围绕核心道德冲突展开，缺乏复杂的多线叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "通过大量内心独白，深刻展现了主人公在信仰和道德层面的复杂性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.62,
+          "explanation": "主人公经历了一个从信仰革命到质疑暴力的痛苦心理转变过程。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.35,
+          "explanation": "社会背景通过抽象化的“群众”来表现，缺乏具体世界的细致建构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.7,
+          "explanation": "场景以梦境和思想对撞的形式穿插，不完全遵循现实时空顺序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.4,
+          "explanation": "戏剧节奏充满爆发力，很少给予观众缓慢沉浸和适应的机会。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.55,
+          "explanation": "外部行动往往被内心戏取代，但群众暴乱等场景提供了较强的动作张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.95,
+          "explanation": "全剧几乎完全由高强度且不可调和的思想与道德冲突驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.92,
+          "explanation": "作品的核心是对革命伦理、牺牲和个人责任的深入哲学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.individualism",
+          "score": 0.68,
+          "explanation": "作品始终强调个体良知的价值，即使在集体主义洪流中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.collectivism",
+          "score": 0.82,
+          "explanation": "群众作为一股巨大的集体力量是戏剧的核心驱动和冲突来源。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.family",
+          "score": 0.08,
+          "explanation": "家庭关系和亲情纽带在剧中几乎没有涉及。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.friendship",
+          "score": 0.12,
+          "explanation": "革命同志关系更多是象征化的，缺乏私密友谊的描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.love",
+          "score": 0.15,
+          "explanation": "爱情并非故事的主题，仅在侧面略有折射。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.community",
+          "score": 0.22,
+          "explanation": "群众并非温暖的社群，而是非人化的集体力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.competition",
+          "score": 0.78,
+          "explanation": "表现为阶级之间、个人与群众之间激烈的意识形态竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.cooperation",
+          "score": 0.3,
+          "explanation": "虽然身处集体，但个人与集体之间缺乏真正的合作与理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.power_relationship",
+          "score": 0.88,
+          "explanation": "核心关系是对群众力量的恐惧、试图引导和最终被其吞噬的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social.identity",
+          "score": 0.9,
+          "explanation": "主人公的核心挣扎在于定义自己是革命者、人道主义者还是罪人。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "追求阶级解放和个人选择的自由是驱使主人公行动的动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.3,
+          "explanation": "剧中更多是混乱和革命，对秩序没有明确的肯定或追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.85,
+          "explanation": "主人公不顾一切地寻求革命的道德真相和内心的诚实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.25,
+          "explanation": "戏剧重心在于思想与道德，而非审美体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.3,
+          "explanation": "主人公的行为不追求个人成就，而是被责任感驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.82,
+          "explanation": "对正义的渴望是革命动机，但对实现正义的手段产生了深刻怀疑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.88,
+          "explanation": "个人为了理想和赎罪而自我牺牲是戏剧的主线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.9,
+          "explanation": "在革命的极端情境下，主人公对自我的软弱、罪恶和良心进行了残酷探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "革命的目标是颠覆旧传统，剧中完全没有维护传统的意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.8,
+          "explanation": "全剧以推动激进社会变革为绝对主题，即使对变革方式充满疑虑。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.75,
+          "explanation": "在残酷的革命暴力中，个体生存与道德原则的取舍成为关键抉择。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.92,
+          "explanation": "寻找革命的终极意义和个人存在的价值是全剧的根本驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.65,
+          "explanation": "表现为对革命理论和社会真相的探索欲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.4,
+          "explanation": "试图创造一个新世界是革命初衷，但过程中充满破坏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.35,
+          "explanation": "投身革命带有一定的冒险性质，但并非故事的主要行为模式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "持续的自我反思和道德审判是主人公最主要的行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.78,
+          "explanation": "与对立阶级和群众内部不同主张者之间存在激烈的思想斗争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.28,
+          "explanation": "作品中的社交是意识形态的碰撞，缺乏日常的亲近社交行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.45,
+          "explanation": "主人公受其道德准则的严格约束，而非外部纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.72,
+          "explanation": "选择与暴力群众划清界限并坚持人道立场是巨大的个人风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.08,
+          "explanation": "全剧始终处于内心风暴中，完全没有冷静的情绪状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.15,
+          "explanation": "主人公直面残酷现实，从未真正寻求逃避。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.72,
+          "explanation": "表现主义戏剧通常依靠强烈的灯光、投影和夸张动作来制造视觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "表现主义色彩运用倾向于对比强烈的非自然色，而非丰富细腻的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.8,
+          "explanation": "剧本中充满高亢的呐喊、口号和抗议声，声音表现力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.84,
+          "explanation": "语言和情绪的节奏紧张而急促，充满爆发力和间歇性的停顿。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.9,
+          "explanation": "营造了一种沉重、压抑、充满末日审判感的整体氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.78,
+          "explanation": "通过强烈的共情和思想冲击将观众深度卷入主人公的心理世界。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.live_presence",
+          "score": 0.92,
+          "explanation": "表现主义戏剧极度依赖演员在现场的直接情感爆发力。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.actor_expression",
+          "score": 0.95,
+          "explanation": "主人公的独白和内心戏要求极高强度的面部表情和声音控制。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.body_expression",
+          "score": 0.88,
+          "explanation": "群众的机械化和个体的挣扎需要通过风格化的肢体语言来呈现。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.audience_interaction",
+          "score": 0.35,
+          "explanation": "戏剧更倾向于让观众以震撼和反思的方式观看，而非直接互动。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.performance_intensity",
+          "score": 0.96,
+          "explanation": "从头到尾处于高情感强度，少有平缓过渡，对表演要求严苛。"
+        },
+        {
+          "dimensionPath": "media_vector.stage_vector.ritual_sense",
+          "score": 0.68,
+          "explanation": "群众的齐声呐喊和牺牲场景带有某种政治审判的仪式感。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众体验到一种极度紧张、压抑且充满道德激情的内心风暴。整个观赏过程伴随着持续的认知挑战和情感冲击，在主人公的呐喊与独白中，感到一种深沉的孤独、愤怒和对现实的无力感，最终导向沉重的悲悯与自我反思。这是一场迫使灵魂面对暴力与良知的戏剧体验。",
+        "structure_description": "戏剧结构围绕不可调和的思想冲突构建，通过非线性的、梦魇般的场景切换，将主人公的内心挣扎与外部群众运动对撞。高强度的语言节奏和表现主义的美学手法，将戏剧张力维持在顶峰，使每一场戏都像一次情感上的爆发与道德上的叩问。",
+        "cognitive_expression": "作品强烈激发关于革命伦理、个人责任和集体暴力的深度思考。观众被引导去探索复杂的道德灰色地带，对抽象化、符号化的群众与个人进行解码，理解其中蕴含的政治哲学和存在主义焦虑，认知过程充满思辨和评价。",
+        "behavioral_tendency_description": "戏剧鼓励强烈的自我反思、对既有信念的质疑和对极端社会现象的深度探究。它倾向于抑制冲动和简单的站队行为，转而推动一种审慎的、人道的思考方式，即使在巨大的集体压力下也坚持个人的道德责任。"
+      },
+      "personality_affinity": {
+        "Ni": 0.88,
+        "Ne": 0.6,
+        "Ti": 0.82,
+        "Te": 0.55,
+        "Fi": 0.92,
+        "Fe": 0.4,
+        "Si": 0.1,
+        "Se": 0.42,
+        "openness": 0.92,
+        "conscientiousness": 0.48,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.9,
+        "Assertive": 0.08,
+        "Turbulent": 0.95
+      },
+      "supporting_evidence": [
+        "全剧以一名女性革命者在狱中的自我审判为主要框架。",
+        "群众被刻画成非人化的集体符号，代表着盲目的暴力力量。",
+        "主人公反复在谴责革命暴力和坚持人道主义之间痛苦摇摆。",
+        "剧本使用了大量直接诉诸情感的呐喊式独白。",
+        "舞台提示和场景转换具有典型的梦境和象征意味。",
+        "主要矛盾是个人道德良知与集体政治行动之间的激烈对撞。",
+        "戏剧的语言充满诗意又极具攻击性和思想煽动力。",
+        "作品诞生于第一次世界大战后德国社会动荡的革命时期。",
+        "主人公最终因坚持个人道德而付出了生命的代价。",
+        "故事中没有提供明确的政治路线或道德标准答案。",
+        "创作者在监狱中完成了该剧的写作，亲身经历了政治迫害。",
+        "角色的内心活动是推动剧情发展的绝对核心动力。",
+        "作品深刻反思了以暴力追求正义所带来的自我毁灭。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

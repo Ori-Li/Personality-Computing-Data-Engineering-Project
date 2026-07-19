@@ -1,0 +1,738 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_jpn_1947_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "花火",
+        "type": "MOVIE",
+        "countryName": "日本",
+        "year": 1997,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "《花火》是北野武执导并主演的犯罪剧情片。影片通过极少的台词和冷峻的镜头，讲述了一名刑警在家庭与职业双双崩塌后，走向毁灭与救赎的过程。他用银行抢劫来的钱帮助亡友的遗孀、抚慰因公致残的同事，并带着身患绝症的妻子踏上没有归途的旅程。北野武的手绘插画穿插其间，以童稚笔触反衬现实的残酷，融合静谧与突如其来的暴力，塑造出深刻的抒情暴力美学。",
+        "themes": [
+          "死亡",
+          "救赎",
+          "守护",
+          "暴力",
+          "孤独",
+          "家庭",
+          "友情",
+          "宿命",
+          "爱与牺牲"
+        ],
+        "keywords": [
+          "警察",
+          "绝症",
+          "暴力美学",
+          "插画",
+          "静默",
+          "海边",
+          "银行抢劫",
+          "轮椅",
+          "自杀",
+          "金狮奖",
+          "北野武"
+        ],
+        "core_experience": "观众在极度克制的叙事中承受一种沉默而沉重的哀伤，同时被突如其来的暴力打断思绪。在静谧的画面与童稚的插画间，感受到一种对毁灭的温柔注视，最终在海浪声中接受一种无言的告别，体验残酷现实中的诗意与悲悯。",
+        "experience_introduction": "影片通过极简的台词、冷冽的固定机位以及舒缓的剪辑节奏，将观众带入主角封闭的内心世界。叙事在平静的家庭时光、残酷的犯罪行动与童真的手绘插画之间来回切换，营造出强烈的情感张力。观众并非被情节推着走，而是在绵长的沉默和偶尔爆发的暴力中，被迫直面死亡的阴影与人际间最后的温暖，从而获得一种关于告别、守护与自我毁灭的复杂情感体验。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.15,
+        "awe": 0.45,
+        "nostalgia": 0.25,
+        "reflection": 0.85,
+        "romance": 0.55,
+        "tension": 0.75,
+        "warmth": 0.40,
+        "loneliness": 0.90,
+        "hope": 0.10
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.60,
+          "complexity": 0.65,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.40,
+          "novelty": 0.70,
+          "exploration": 0.30,
+          "ambiguity": 0.75,
+          "predictability": 0.25,
+          "information_density": 0.55,
+          "learning_value": 0.45
+        },
+        "worldview": {
+          "personal_scale": 0.95,
+          "relationship_scale": 0.80,
+          "social_scale": 0.60,
+          "civilization_scale": 0.20,
+          "cosmic_scale": 0.10,
+          "time_span": 0.20,
+          "fantasy_level": 0.05
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.95,
+          "loneliness": 0.90,
+          "warmth": 0.35,
+          "fear": 0.20,
+          "tension": 0.80,
+          "awe": 0.50,
+          "nostalgia": 0.30,
+          "hope": 0.10,
+          "melancholy": 0.90,
+          "anger": 0.40,
+          "peace": 0.20
+        },
+        "aesthetic": {
+          "beauty": 0.80,
+          "minimalism": 0.95,
+          "luxury": 0.10,
+          "darkness": 0.85,
+          "brightness": 0.20,
+          "dreamlike": 0.15,
+          "mystery": 0.10,
+          "experimental": 0.60,
+          "classical": 0.25,
+          "modern": 0.55
+        },
+        "narrative": {
+          "plot_complexity": 0.40,
+          "character_depth": 0.90,
+          "character_growth": 0.25,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.50,
+          "slow_immersion": 0.95,
+          "action_intensity": 0.60,
+          "conflict_intensity": 0.85,
+          "philosophical_depth": 0.80
+        },
+        "social_relationship": {
+          "individualism": 0.85,
+          "collectivism": 0.30,
+          "family": 0.80,
+          "friendship": 0.75,
+          "love": 0.85,
+          "community": 0.20,
+          "competition": 0.20,
+          "cooperation": 0.35,
+          "power_relationship": 0.55,
+          "identity": 0.60
+        },
+        "value": {
+          "freedom": 0.45,
+          "order": 0.25,
+          "truth": 0.50,
+          "beauty": 0.75,
+          "achievement": 0.10,
+          "justice": 0.30,
+          "sacrifice": 0.90,
+          "self_exploration": 0.55,
+          "tradition": 0.15,
+          "change": 0.25,
+          "survival": 0.60,
+          "meaning": 0.85
+        },
+        "behavior": {
+          "curiosity": 0.15,
+          "creation": 0.30,
+          "adventure": 0.40,
+          "reflection": 0.95,
+          "competition": 0.15,
+          "social": 0.20,
+          "discipline": 0.50,
+          "risk": 0.70,
+          "calm": 0.65,
+          "escape": 0.60
+        },
+        "sensory": {
+          "visual_intensity": 0.75,
+          "color_richness": 0.65,
+          "sound_intensity": 0.60,
+          "rhythm_energy": 0.15,
+          "atmosphere": 0.95,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.60,
+          "visual_storytelling": 0.90,
+          "soundtrack_importance": 0.70,
+          "actor_expression": 0.50,
+          "director_style": 0.95
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "影片整体氛围克制压抑，极少有激昂或奔放的情感宣泄，热情的感染力较弱。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "尽管有守护与关怀的行为，但结局指向毁灭与离别，几乎没有治愈或慰藉感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "导演独特的暴力美学和插画运用带有某种震撼力，但并非以宏大的奇观令人敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.25,
+          "explanation": "叙事聚焦于当下的绝境，对过去回忆的描写较为零碎，怀旧并非主要情感体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.85,
+          "explanation": "极少对白和缓慢的节奏极大地激发了观众对于生命、死亡和选择的深层反思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.55,
+          "explanation": "夫妻间无言的深情贯穿始终，是驱动主角行动的核心动力，但表达极为克制。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.75,
+          "explanation": "突如其来的暴力时刻和非法行为带来的风险持续制造紧绷的心理压力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.40,
+          "explanation": "对妻子、朋友的关怀偶尔流露温暖，但被整体的悲剧宿命所冲淡。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.90,
+          "explanation": "主角寡言少语，独自承担一切重负，影片浸透着无法言说的深刻孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.10,
+          "explanation": "剧情走向是无望的，结局的枪声彻底消解了任何生存的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.60,
+          "explanation": "叙事高度依赖视觉符号和隐喻，如花火的意象和插画的对比，具有一定抽象性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.65,
+          "explanation": "非线性叙事和多线情节交织，加上大量留白，需要观众进行心理拼图，结构复杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品深入探讨了生命、死亡、罪与罚、爱与牺牲等哲学命题，思想深邃。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.40,
+          "explanation": "情节推进依赖情感逻辑而非严密的因果推理，故事结构偏向感性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.70,
+          "explanation": "手绘插画与暴力剧情的穿插、极简对白的运用在当时极具原创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.30,
+          "explanation": "故事空间有限，主角的旅程更多是情感上的归途，而非对世界的探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.75,
+          "explanation": "大量叙事留白、人物动机的沉默表达以及开放式的结局造成了高度歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.25,
+          "explanation": "非线性插叙和人物沉默的行为使得情节难以预测，充满不确定感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.55,
+          "explanation": "虽然对白极少，但镜头语言和象征符号承载了丰富的情感与叙事信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.45,
+          "explanation": "观众能获得对日本黑帮文化、刑警处境的某种认知，但更多是关于人性与美学的体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.95,
+          "explanation": "整个故事完全围绕主角个人的心理状态、情感挣扎和选择展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.80,
+          "explanation": "主角与妻子、朋友之间的关系是推动剧情的核心纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.60,
+          "explanation": "警察组织内部、黑帮社会等社会阶层的压力构成了主角处境的一部分背景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.20,
+          "explanation": "故事不涉及更广泛的人类文明、历史或宏大社会变迁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.10,
+          "explanation": "影片完全聚焦现实世界的人类情感，无任何宇宙或超自然维度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.20,
+          "explanation": "叙事时间集中在一段短暂的不归旅程中，时间跨度很短。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.05,
+          "explanation": "插画穿插进现实，但这是一种艺术表现手法，而非构建奇幻世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "作品的基调是悲凉肃杀的，几乎没有纯粹的快乐时刻。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.95,
+          "explanation": "贯穿全片的丧妻之痛、同事之伤以及自我毁灭的结局，弥漫着深刻的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.90,
+          "explanation": "主角始终是孤绝的，无论是面对黑帮、同事还是心爱的妻子，内心都极度孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.35,
+          "explanation": "少数温情时刻如放烟花、陪伴妻子，但脆弱且短暂，终究被寒冷吞没。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.20,
+          "explanation": "主角表现得无畏，恐惧感主要来源于观众对其随时可能身处险境的担忧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.80,
+          "explanation": "静默长镜头与突如其来的暴力交替，制造出持续不断的心理紧张感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.50,
+          "explanation": "导演对暴力和死亡的独特美学处理，产生了一种令人屏息的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "更多是关于当下的沉溺与解脱，对甜美过去的追忆不占主导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.10,
+          "explanation": "最温暖的旅程通向的是自我毁灭，影片几乎不给予任何希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.90,
+          "explanation": "影片风格沉静、忧思，充满了一种对即将逝去事物的无言哀伤和沉思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.40,
+          "explanation": "虽然存在暴力报复情节，但情感基调更多是沉默的承受而非愤怒的宣泄。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.20,
+          "explanation": "结局的宁静是死亡带来的绝对平静，而非身处和谐之境的平和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.80,
+          "explanation": "摄影构图、自然景色与插画的运用，即使在描绘暴力时也追求一种残酷的美感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.95,
+          "explanation": "剪辑干净、台词极简、表演克制，遵循极简主义的美学原则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "影片场景朴素，关注底层人物的挣扎，与奢华和富足感完全相反。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.85,
+          "explanation": "无论是剧情主题还是画面影调，都笼罩在一种黑暗、阴郁的氛围中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.20,
+          "explanation": "只有少量海边的日景和插画部分提供了一些明亮感，但整体偏暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.15,
+          "explanation": "插画的突兀插入带有超现实色彩，但现实世界部分冷峻真实，非梦幻想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.10,
+          "explanation": "故事并非悬疑解谜类型，更多是情感的展开与宿命的呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.60,
+          "explanation": "将暴力类型片与抒情画作结合，并采用极度克制的叙事手法，具有实验性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.25,
+          "explanation": "风格非常现代电影，没有遵循古典叙事或传统美学的痕迹。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.55,
+          "explanation": "其独特的作者电影风格代表了现代艺术电影的一种重要走向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.40,
+          "explanation": "主干情节简单清晰，复杂在于非线性叙事和留白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.90,
+          "explanation": "通过对沉默寡言的主角的行为描绘，刻画了极其深刻和复杂的人物心理深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.25,
+          "explanation": "主角的性格和世界观已经定型，影片展示的是其走向终点而非成长变化。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "故事发生在现实日本，无构建虚构世界的需求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.50,
+          "explanation": "插叙了同事受伤、职业生涯转折等过去的事件，结构并非完全线性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.95,
+          "explanation": "节奏极其缓慢，长镜头和沉默场景需要观众完全沉浸其中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.60,
+          "explanation": "暴力场面虽然不多，但每次出现都短促、直接且冲击力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.85,
+          "explanation": "内部的心理冲突和外部的生死冲突都异常激烈，只是表现方式内敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.80,
+          "explanation": "探讨了通过暴力寻求救赎、面对死亡的存在主义等深刻哲学问题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.85,
+          "explanation": "主角完全按照个人意志行动，独自对抗体系、承担后果，个人主义色彩强烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.30,
+          "explanation": "对警察组织和黑帮的集体规则均持反叛或疏离态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.80,
+          "explanation": "与妻子的婚姻关系是故事的情感核心和所有行动的出发点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.75,
+          "explanation": "对因公致残同事的照顾和愧疚是重要的行动线，体现了深沉的朋友义气。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.85,
+          "explanation": "影片展现了一种深沉、无言、以行动证明的极端爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.20,
+          "explanation": "主角与广大的社区环境疏离，孤立独行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.20,
+          "explanation": "主角无意竞争，与黑帮的冲突是生死搏斗而非平等竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.35,
+          "explanation": "行动几乎都是独自完成，缺乏合作，只有与妻子间有沉默的同行。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.55,
+          "explanation": "男主角与警察系统、黑帮高利贷之间存在明显的权力压迫与反抗关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.60,
+          "explanation": "故事的核心关乎一个刑警如何转变为罪犯，是对社会身份和个体身份的深刻拷问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.45,
+          "explanation": "最终的旅程是摆脱一切社会束缚的逃亡，但这种自由是以非法和自我毁灭为代价的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.25,
+          "explanation": "主角的行为是打破规则，而非维护社会或自身的秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.50,
+          "explanation": "影片试图展示男性情感和生存状态的残酷真相，但不以智识性求真为目的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.75,
+          "explanation": "对镜头构图、自然景观和艺术绘画的运用，使得对美的追求贯穿全片。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.10,
+          "explanation": "主角主动放下了社会成就和职业身份，放弃而非追求事功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.30,
+          "explanation": "主角通过非法手段达成私人正义，颠覆了法律意义上的公正。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.90,
+          "explanation": "主角为朋友遗孀、残疾同事以及妻子的余生，牺牲了自己的一切，包括生命。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "在赴死旅程中，主角的内心世界通过行为缓慢揭示，是一种内敛的自我探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.15,
+          "explanation": "影片是高度现代叙事的作品，不侧重传承或赞美传统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.25,
+          "explanation": "主角的状态是从绝境走向毁灭的线性过程，并非积极的变革或新生。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.60,
+          "explanation": "主角放弃了生存，但其行动却是为了确保身边人的生存与未来。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.85,
+          "explanation": "影片反复追问在绝望的境遇下，人生的意义和最后的价值是什么。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.15,
+          "explanation": "主角的行动源于情感和责任，而非好奇心驱动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.30,
+          "explanation": "主角本人不创造，只毁灭；但影片中的插画元素是重要的创造行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.40,
+          "explanation": "最后的旅程带有亡命天涯的属性，但充满了压抑感和目的性，非纯粹冒险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.95,
+          "explanation": "缓慢的节奏和克制的表达使整部影片成为一次对生与死的漫长凝视和反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.15,
+          "explanation": "主角不在意胜负，其行动不是为了在竞争中取胜。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.20,
+          "explanation": "主角沉默寡言，回避社交，与社会关系网脱离。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.50,
+          "explanation": "作为前刑警，其行事果断、冷静，有某种内在的行动纪律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.70,
+          "explanation": "主角主动进行银行抢劫、面对黑帮，其整个计划都是高风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.65,
+          "explanation": "主角不论是在等待还是施暴，始终保持着一种近乎冷漠的镇定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.60,
+          "explanation": "最终旅程是对现实压力和社会责任的彻底逃避，也是一种精神解脱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.75,
+          "explanation": "精心构图的镜头、突发的暴力以及画作的视觉冲击力极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.65,
+          "explanation": "无论是自然风光还是北野武色调大胆的插画，都赋予了影像丰富的色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.60,
+          "explanation": "久石让的配乐和突然的枪声在极静的环境中显得冲击力十足，而非持续嘈杂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.15,
+          "explanation": "影片的剪辑节奏极为舒缓，能量密度低，重在积蓄而非释放。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.95,
+          "explanation": "通过视听语言营造出一种极度统一、贯穿始终的悲凉与宿命氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "其独特的慢节奏和强烈风格化的视听，很容易让观众深陷其情感世界。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.60,
+          "explanation": "主要以中近景和人物心理刻画为主，虽有自然空镜，但并未追求史诗级的场面规模。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.90,
+          "explanation": "在台词极少的情况下，几乎完全依赖镜头语言、人物动作和表情来推进叙事。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.70,
+          "explanation": "久石让的配乐是影片情感表达的关键一环，极大地烘托了悲情与诗意的氛围。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.50,
+          "explanation": "主演北野武的表演风格极度内敛，面无表情，依赖微动作而非丰富夸张的表情。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.95,
+          "explanation": "这是一部典型的作者电影，剪辑、叙事、绘画元素的融入都彰显了北野武极其鲜明的个人风格。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "影片带来的观众体验是沉重而内敛的。观众被置于一种深沉的悲伤与孤独感之中，伴随着突如其来的紧张与暴力冲击，进行着一场关于生命、死亡与责任的漫长反思。叙事虽然夹杂一丝无言的爱与牺牲带来的温暖，但整体走向绝望与毁灭，几乎不提供任何慰藉或希望。这是一种将暴力与诗意、残酷与深情融为一体的复杂情感体验。",
+        "structure_description": "影片结构以线性逃亡旅程为主线，穿插非线性闪回，交织出现实世界与导演手绘的童稚插画。这种结构打破了常规叙事的流畅性，利用长镜头和留白打造出缓慢沉浸的节奏。极简的对白和高度克制的演员表演，迫使观众将注意力集中于镜头语言和声音细节，从而使得每一次暴力的爆发都具有更强的心理冲击力。",
+        "cognitive_expression": "作品高度依赖视觉隐喻和符号系统，要求观众进行大量的解读和意义构建。其叙事留白和情感逻辑鼓励深度思考，而非因果推断。观众需要主动串联碎片化的情节、理解人物沉默背后的动机，并反思作品中关于存在、正义与救赎的哲学命题，这对认知参与度提出了极高要求。",
+        "behavioral_tendency_description": "影片极大地激发了内向省思的倾向，使人倾向于独处并审视内心。主角的行动模式——为所爱之人牺牲、在沉默中承担、以冷静面对风险——提供了一种面对绝境时极度个人主义、重情重义且不惜代价的行为范本。同时，长时间的静默观察体验也强化了沉静、克制的行为状态。"
+      },
+      "personality_affinity": {
+        "Ni": 0.82,
+        "Ne": 0.25,
+        "Ti": 0.55,
+        "Te": 0.30,
+        "Fi": 0.85,
+        "Fe": 0.65,
+        "Si": 0.40,
+        "Se": 0.70,
+        "openness": 0.75,
+        "conscientiousness": 0.35,
+        "extraversion": 0.15,
+        "agreeableness": 0.30,
+        "neuroticism": 0.80,
+        "Assertive": 0.60,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "影片经常在动作高潮或暴力场面后突然切入北野武手绘的童稚风格插画。",
+        "男主角西佳敬在整部影片中的对白极为稀少，大量时间以面无表情的沉默应对周遭一切。",
+        "叙事采用了非线性手法，通过闪回片段交代了同事堀部受伤的前因后果。",
+        "男主角为了帮助死去同事的妻子和自己身患绝症的妻子，策划并实施了银行抢劫。",
+        "影片中多次出现海边的场景，成为男主角与妻子最后旅程中重要的情感载体。",
+        "因公残疾的警官堀部在试图融入家庭失败后，走上了独自面对生活并开始作画的道路。",
+        "男主角在旅途中冷静而果断地利高利贷集团成员，行为直接且毫不留情。",
+        "影片结尾，在海边伴随着两声枪响和女孩放风筝的镜头，明确暗示了主角夫妻的最终结局。",
+        "久石让创作的管弦乐配乐在影片中反复出现，旋律忧郁而抒情，烘托出浓重的悲剧宿命感。",
+        "男主角与妻子之间的情感交流主要依靠并肩静坐、蒙眼猜牌等动作和眼神，几乎没有台词。",
+        "影片使用了大量固定机位和缓慢的长镜头，让观众长时间凝视角色的状态和自然环境。",
+        "不欠钱的黑帮注意到男主角在逃亡途中的行踪后，对其展开了追击。",
+        "男主角将抢来的钱分成几份，寄给了朋友的遗孀和自己的妻子，准备处理完一切后事。",
+        "影片将极具仪式感的静态画面与突然爆发、迅速结束的血腥暴力场面并置，形成强烈反差。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

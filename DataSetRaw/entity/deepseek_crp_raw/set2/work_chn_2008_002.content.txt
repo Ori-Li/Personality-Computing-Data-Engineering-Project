@@ -1,0 +1,759 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_2008_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "画心",
+        "type": "MUSIC",
+        "countryName": "中国",
+        "year": 2008,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "confidence": 0.94,
+        "primaryMediaType": "MUSIC",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0"
+      },
+      "semantic": {
+        "summary": "《画心》是2008年电影《画皮》的主题曲，由张靓颖演唱。歌曲以空灵凄美的旋律和跨越三个八度的宽广音域，表达了对爱而不得、人妖殊途的无奈与悲恸。全曲采用层层递进的编曲，从低吟浅唱到情感爆发，营造出东方魔幻主义悲剧氛围，成为中国影视歌曲的经典代表。",
+        "themes": [
+          "爱情",
+          "牺牲",
+          "孤独",
+          "宿命",
+          "人妖殊途",
+          "自我认知",
+          "记忆",
+          "哀伤",
+          "不朽"
+        ],
+        "keywords": [
+          "画皮",
+          "凄美",
+          "空灵",
+          "人妖恋",
+          "牺牲",
+          "思念",
+          "千年",
+          "痴情",
+          "张靓颖",
+          "影视歌曲"
+        ],
+        "core_experience": "受众在聆听时将经历一种由压抑克制到情感宣泄的递进式情绪体验。歌曲从一开始的低沉迷离，带领听众进入一个孤独坚守的内心世界，随后在高潮段落彻底释放出巨大的悲恸与无力感，最终在空灵余音中留下挥之不去的遗憾与怅惘。",
+        "experience_introduction": "这首歌曲通过极宽的音域跨越和递进式的编曲结构，营造出从压抑到爆发的完整情感弧线。张靓颖空灵而富有穿透力的声线配合东方魔幻风格的配器，使听众仿佛亲历了一场跨越人妖界限、注定无果的爱情悲剧，在凄美的旋律中获得深层次的审美净化与情感释放。"
+      },
+      "experience_vector": {
+        "passion": 0.78,
+        "healing": 0.15,
+        "awe": 0.42,
+        "nostalgia": 0.38,
+        "reflection": 0.55,
+        "romance": 0.72,
+        "tension": 0.68,
+        "warmth": 0.12,
+        "loneliness": 0.85,
+        "hope": 0.08
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.48,
+          "complexity": 0.35,
+          "depth_of_thought": 0.62,
+          "logical_structure": 0.30,
+          "novelty": 0.28,
+          "exploration": 0.25,
+          "ambiguity": 0.55,
+          "predictability": 0.52,
+          "information_density": 0.32,
+          "learning_value": 0.22
+        },
+        "worldview": {
+          "personal_scale": 0.92,
+          "relationship_scale": 0.78,
+          "social_scale": 0.15,
+          "civilization_scale": 0.08,
+          "cosmic_scale": 0.22,
+          "time_span": 0.58,
+          "fantasy_level": 0.72
+        },
+        "emotion": {
+          "happiness": 0.05,
+          "sadness": 0.90,
+          "loneliness": 0.85,
+          "warmth": 0.12,
+          "fear": 0.32,
+          "tension": 0.68,
+          "awe": 0.42,
+          "nostalgia": 0.38,
+          "hope": 0.08,
+          "melancholy": 0.82,
+          "anger": 0.25,
+          "peace": 0.18
+        },
+        "aesthetic": {
+          "beauty": 0.85,
+          "minimalism": 0.35,
+          "luxury": 0.28,
+          "darkness": 0.62,
+          "brightness": 0.18,
+          "dreamlike": 0.78,
+          "mystery": 0.65,
+          "experimental": 0.22,
+          "classical": 0.72,
+          "modern": 0.35
+        },
+        "narrative": {
+          "plot_complexity": 0.25,
+          "character_depth": 0.82,
+          "character_growth": 0.32,
+          "world_building": 0.55,
+          "nonlinear_structure": 0.18,
+          "slow_immersion": 0.72,
+          "action_intensity": 0.15,
+          "conflict_intensity": 0.78,
+          "philosophical_depth": 0.48
+        },
+        "social_relationship": {
+          "individualism": 0.42,
+          "collectivism": 0.15,
+          "family": 0.12,
+          "friendship": 0.18,
+          "love": 0.95,
+          "community": 0.08,
+          "competition": 0.22,
+          "cooperation": 0.15,
+          "power_relationship": 0.28,
+          "identity": 0.68
+        },
+        "value": {
+          "freedom": 0.35,
+          "order": 0.18,
+          "truth": 0.52,
+          "beauty": 0.88,
+          "achievement": 0.12,
+          "justice": 0.10,
+          "sacrifice": 0.82,
+          "self_exploration": 0.58,
+          "tradition": 0.42,
+          "change": 0.22,
+          "survival": 0.15,
+          "meaning": 0.72
+        },
+        "behavior": {
+          "curiosity": 0.25,
+          "creation": 0.18,
+          "adventure": 0.15,
+          "reflection": 0.78,
+          "competition": 0.22,
+          "social": 0.12,
+          "discipline": 0.28,
+          "risk": 0.32,
+          "calm": 0.35,
+          "escape": 0.52
+        },
+        "sensory": {
+          "visual_intensity": 0.42,
+          "color_richness": 0.55,
+          "sound_intensity": 0.72,
+          "rhythm_energy": 0.58,
+          "atmosphere": 0.92,
+          "immersion": 0.85
+        }
+      },
+      "media_vector": {
+        "music_vector": {
+          "genre": "流行",
+          "tempo": 0.42,
+          "energy": 0.62,
+          "vocal_style": "空灵凄美",
+          "instrumentation": "钢琴、弦乐、民族乐器",
+          "production_style": "东方魔幻",
+          "lyrical_theme": "爱而不得",
+          "emotional_scene": "悲剧高潮",
+          "cultural_context": "中国魔幻电影主题曲"
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.78,
+          "explanation": "歌曲在高潮段落的情感爆发极具冲击力，表达出强烈的爱意与挣扎。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.15,
+          "explanation": "整首歌曲沉浸在悲剧情绪中，几乎不提供慰藉或安抚感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.42,
+          "explanation": "张靓颖广阔的音域和空灵的演唱技法引发一定的惊叹。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.38,
+          "explanation": "古典风格的编曲和东方韵味唤起对旧时情感的追忆。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "对爱情本质和牺牲精神的探讨促发内省。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.72,
+          "explanation": "核心主题围绕一段刻骨铭心的爱恋展开。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.68,
+          "explanation": "情感在压抑与爆发之间的拉扯贯穿全曲，营造强烈的戏剧张力。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.12,
+          "explanation": "整体基调冰冷绝望，几乎没有温暖的感觉。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.85,
+          "explanation": "歌曲深刻地展现了爱人在身边却无法相守的极致孤独。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.08,
+          "explanation": "曲目传达的是宿命般的绝望，几乎没有希望感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.48,
+          "explanation": "歌词偏向内心独白，画面感强烈但并不完全抽象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.35,
+          "explanation": "情感脉络清晰，不涉及复杂的概念交织。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.62,
+          "explanation": "对爱的本质和人性牺牲进行了深刻探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.30,
+          "explanation": "以情感驱动，不以逻辑结构见长。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.28,
+          "explanation": "采用经典的影视歌曲架构，创新性不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.25,
+          "explanation": "深度聚焦于单一情感内核，外部探索感较弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.55,
+          "explanation": "妖与人、爱与恨的边界在表达中带有模糊性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.52,
+          "explanation": "情感递进结构较为传统，但具体旋律转折不完全可预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.32,
+          "explanation": "以情感氛围为核心，传递的具体文化或知识信息较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.22,
+          "explanation": "主要为审美和情感体验，知识和学习价值有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.92,
+          "explanation": "高度聚焦于人物内心世界和个人情感挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.78,
+          "explanation": "核心冲突建立在恋爱关系和身份关系之上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.15,
+          "explanation": "社会大环境对故事的影响较小，未深入探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.08,
+          "explanation": "不涉及文明层面的宏大叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.22,
+          "explanation": "借用魔幻色彩，但核心是尘世的悲欢。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.58,
+          "explanation": "歌曲传达出跨越千年的等待感与永恒感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.72,
+          "explanation": "依托《画皮》人妖相恋的奇幻设定，脱离现实。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.05,
+          "explanation": "整首歌曲没有传达任何喜悦情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.90,
+          "explanation": "悲伤是贯穿全曲的核心情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.85,
+          "explanation": "极致的孤独感贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.12,
+          "explanation": "几乎没有温暖的情感基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.32,
+          "explanation": "包含对失去所爱和表露真身的隐隐恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.68,
+          "explanation": "情感压抑与激烈释放之间的对抗形成持续的紧张。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.42,
+          "explanation": "对广阔音域和凄美意境的敬畏感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.38,
+          "explanation": "古典意境的塑造带来对遥远过去的联想。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.08,
+          "explanation": "基调绝望，几乎没有希望的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.82,
+          "explanation": "浓厚的忧愁与感伤构成了主要美学基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.25,
+          "explanation": "主要是悲伤，愤怒感很弱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.18,
+          "explanation": "内心充满波澜，没有安宁感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.85,
+          "explanation": "旋律和音色都追求并达到了极致的凄美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.35,
+          "explanation": "编曲层次丰富，并未走极简路线。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.28,
+          "explanation": "审美方向是清冷脱俗，而非华丽奢靡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.62,
+          "explanation": "歌曲氛围带有明显的黯淡和宿命悲剧色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.18,
+          "explanation": "整体音色和情绪都极为灰暗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.78,
+          "explanation": "空灵的唱腔和魔幻题材营造出强烈的梦幻感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.65,
+          "explanation": "妖的身份与爱的秘密充满了神秘色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.22,
+          "explanation": "遵循传统影视配乐结构，未进行前卫实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.72,
+          "explanation": "浓厚的古典东方韵味贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.35,
+          "explanation": "使用了现代流行音乐的编曲和演唱技法。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.25,
+          "explanation": "歌曲叙事是片段式的，不追求复杂情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.82,
+          "explanation": "深入挖掘了主角内心的矛盾与痛苦。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.32,
+          "explanation": "角色在歌曲中更多呈现一种静止的痛苦状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.55,
+          "explanation": "简短歌词勾勒出一个具有神秘色彩的人妖世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.18,
+          "explanation": "结构以情绪递进推动，不采用非线性叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.72,
+          "explanation": "歌曲从低沉开始，引导听众缓慢沉浸到情绪中。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.15,
+          "explanation": "几乎不包含动作元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.78,
+          "explanation": "内心的爱与对现实的绝望形成了高度激烈的冲突。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.48,
+          "explanation": "涉及对爱、生命和身份的有限哲学探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.42,
+          "explanation": "强调个人的情感选择和孤独承受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "不涉及集体利益或集体行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.12,
+          "explanation": "家庭关系不是歌曲的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.18,
+          "explanation": "没有讲述友情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.95,
+          "explanation": "爱情是绝对的核心主题，贯穿始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.08,
+          "explanation": "不存在社区或群体的概念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.22,
+          "explanation": "竞争感较弱，主要是与命运的对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.15,
+          "explanation": "没有体现合作关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.28,
+          "explanation": "人与妖的身份差异隐含了微弱的权力差距。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.68,
+          "explanation": "对自我身份的困惑与挣扎是歌曲的潜在核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.35,
+          "explanation": "渴求从身份和命运的桎梏中获得解脱。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.18,
+          "explanation": "没有维护或打破秩序的意图。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.52,
+          "explanation": "关于爱和被爱的真相是人物探寻的核心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.88,
+          "explanation": "凄美的艺术追求是作品最显著的价值体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.12,
+          "explanation": "不关注世俗的成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.10,
+          "explanation": "不涉及正义主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.82,
+          "explanation": "为爱牺牲是推动情感爆发的核心价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.58,
+          "explanation": "在爱情中对自我身份和内心的深度拷问。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.42,
+          "explanation": "古典东方意象塑造了传统的审美语境。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.22,
+          "explanation": "渴望改变但无力回天。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.15,
+          "explanation": "生存不是本曲关注的重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.72,
+          "explanation": "试图在无望的爱情中寻求存在的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.25,
+          "explanation": "探索新知的动机不强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.18,
+          "explanation": "不涉及创作或建设性活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "没有冒险的元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.78,
+          "explanation": "整首歌曲引导听众进行深刻的内省。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.22,
+          "explanation": "竞争关系不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.12,
+          "explanation": "社交互动性极低，专注于内心。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.28,
+          "explanation": "表现为某种对爱的严苛坚守。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.32,
+          "explanation": "爱上不该爱的人本身是一种风险。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.35,
+          "explanation": "情感澎湃，并不平静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.52,
+          "explanation": "歌词透露出从痛苦现实中逃避的欲望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.42,
+          "explanation": "音乐唤起了鲜明的东方魔幻画面感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.55,
+          "explanation": "音乐色彩偏向冷暖交织，富有层次。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.72,
+          "explanation": "从低吟到高亢，声音的动态范围极强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.58,
+          "explanation": "节奏随情绪递进逐步增强。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.92,
+          "explanation": "氛围感的营造是这首歌曲最核心的艺术成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.85,
+          "explanation": "强烈的情绪感染力让听众极易沉浸其中。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.genre",
+          "score": 0.0,
+          "explanation": "音乐风格被归类为带有东方魔幻色彩的流行音乐。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.tempo",
+          "score": 0.42,
+          "explanation": "速度中等偏慢，为情感的铺垫留出空间。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.energy",
+          "score": 0.62,
+          "explanation": "在高潮部分具有很高的能量释放。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.vocal_style",
+          "score": 0.0,
+          "explanation": "演唱方式极具辨识度，以空灵和凄美为核心。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.instrumentation",
+          "score": 0.0,
+          "explanation": "融合了钢琴、弦乐以及传统民族乐器进行编曲。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.production_style",
+          "score": 0.0,
+          "explanation": "制作上强调了东方魔幻主义的宏大与悲情。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.lyrical_theme",
+          "score": 0.0,
+          "explanation": "歌词主题是爱而不得的千古悲歌。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.emotional_scene",
+          "score": 0.0,
+          "explanation": "适用于描绘情感悲剧的高潮场景。"
+        },
+        {
+          "dimensionPath": "media_vector.music_vector.cultural_context",
+          "score": 0.0,
+          "explanation": "作品根植于中国魔幻电影文化背景。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "聆听者将经历一场从压抑克制到彻底爆发的情感宣泄之旅。初始的低沉与空灵营造出极致的孤独感，随着旋律推进，情感不断积蓄，最终在高潮段落将巨大的悲恸和绝望毫无保留地释放，最后又归于飘渺的余音，留下无尽的怅惘与遗憾。这是一种沉浸在凄美悲剧中获得审美净化的体验。",
+        "structure_description": "歌曲结构以情感递进为核心驱动力，采用从低音吟唱到高音爆发的动态布局。编曲在不同段落之间通过配器的层层叠加和旋律的跨度扩展，构建出起承转合的戏剧化结构，最终在高潮达到顶点后安静回落，形成一个完整的情感闭环。",
+        "cognitive_expression": "作品引导受众通过听觉沉浸进入深度的情感内省。受众需跟随歌者的音域变化和歌词的意象，解读其中的隐喻与情感挣扎，从而引发对爱情、牺牲、身份认同等概念的反思。这是一种以感性为主导、结合象征性思考的认知过程。",
+        "behavioral_tendency_description": "这首歌曲鼓励并强化了内省、反思和对情感的深度体验。它不会引发外向的行动冲动，而是促使听众停留在内心的情绪世界中，审视爱与痛的真实感受，并可能在孤独的审美体验中寻求自我认同与情感寄托。"
+      },
+      "personality_affinity": {
+        "Ni": 0.75,
+        "Ne": 0.28,
+        "Ti": 0.22,
+        "Te": 0.15,
+        "Fi": 0.92,
+        "Fe": 0.55,
+        "Si": 0.48,
+        "Se": 0.62,
+        "openness": 0.72,
+        "conscientiousness": 0.35,
+        "extraversion": 0.18,
+        "agreeableness": 0.40,
+        "neuroticism": 0.82,
+        "Assertive": 0.18,
+        "Turbulent": 0.85
+      },
+      "supporting_evidence": [
+        "张靓颖在演唱中使用了跨越三个八度的极宽音域。",
+        "歌词描绘了人妖殊途、注定无法相守的恋情。",
+        "编曲融合钢琴、弦乐与古筝等民族乐器，营造东方魔幻氛围。",
+        "歌曲作为电影《画皮》的主题曲，与影片悲剧情节紧密关联。",
+        "主歌以极低音区开始，展现压抑和内心世界的低语。",
+        "副歌部分旋律上行，情感在高音区强烈爆发。",
+        "人声长音与转音频繁，增强了凄美感和不稳定性。",
+        "歌词中包含对身份伪装下真实情感的深度拷问。",
+        "整体节奏偏慢，为听众留下充分的情绪酝酿空间。",
+        "全曲从安静到激烈再回归安静，构成一条完整的情绪起伏线。",
+        "歌词核心意象围绕着一场注定失去的爱情与牺牲精神。",
+        "整首歌曲以第一人称视角直抒胸臆，表达内心独白。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

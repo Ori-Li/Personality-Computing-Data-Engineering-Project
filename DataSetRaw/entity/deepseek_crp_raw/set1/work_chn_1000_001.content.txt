@@ -1,0 +1,742 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1000_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "早春图",
+        "type": "PAINTING",
+        "countryName": "中国",
+        "year": 1072,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.92,
+        "primaryMediaType": "PAINTING"
+      },
+      "semantic": {
+        "summary": "《早春图》是北宋画家郭熙的水墨山水巨作，完成于1072年。作品运用全景构图描绘了寒冬退去、春意萌动的北方山川景象，主峰峻拔居中，两侧层峦叠嶂，云雾缭绕其间，溪流瀑布隐现。郭熙融合高远、深远、平远三法，以独创的卷云皴和蟹爪枝笔法塑造山石树木，既呈现了帝国江山的恢弘气势，又营造出世外幽居的诗意境界，是宋代山水画中自然哲理与技法完美结合的典范。",
+        "themes": [
+          "自然",
+          "季节",
+          "道",
+          "意境",
+          "山水",
+          "生命",
+          "天人合一"
+        ],
+        "keywords": [
+          "北宋",
+          "郭熙",
+          "水墨山水",
+          "卷云皴",
+          "蟹爪枝",
+          "三远法",
+          "全景构图",
+          "云雾",
+          "松木",
+          "溪流",
+          "山峦",
+          "文人画"
+        ],
+        "core_experience": "观赏者被置于一个宏大而静谧的自然时空中，视线随层叠的山峦和缭绕的云雾游走盘旋。画面整体带来一种沉静而庄严的沉浸感，同时蕴含着寒冬将尽、新生意起的微妙希望与生机律动。",
+        "experience_introduction": "《早春图》将观众带入一场深邃的山水时空之旅。画面以居中的主峰为视觉核心，通过层叠的山峦结构和弥漫的云雾，引导视线在空间中迂回攀升，形成一种纪念碑式的庄严感。同时，画中对初春时节万物复苏的细腻刻画——如萌发的树木、解冻的溪流和淡淡的水气——又为这种崇高感注入了含蓄的温暖与生机，使观者在宏伟气势中体会到一种内在的、微妙的生命喜悦与精神舒展。"
+      },
+      "experience_vector": {
+        "passion": 0.20,
+        "healing": 0.60,
+        "awe": 0.85,
+        "nostalgia": 0.30,
+        "reflection": 0.70,
+        "romance": 0.10,
+        "tension": 0.15,
+        "warmth": 0.40,
+        "loneliness": 0.35,
+        "hope": 0.65
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.75,
+          "complexity": 0.80,
+          "depth_of_thought": 0.85,
+          "logical_structure": 0.70,
+          "novelty": 0.75,
+          "exploration": 0.60,
+          "ambiguity": 0.50,
+          "predictability": 0.30,
+          "information_density": 0.70,
+          "learning_value": 0.80
+        },
+        "worldview": {
+          "personal_scale": 0.20,
+          "relationship_scale": 0.05,
+          "social_scale": 0.10,
+          "civilization_scale": 0.60,
+          "cosmic_scale": 0.75,
+          "time_span": 0.60,
+          "fantasy_level": 0.40
+        },
+        "emotion": {
+          "happiness": 0.30,
+          "sadness": 0.20,
+          "loneliness": 0.35,
+          "warmth": 0.40,
+          "fear": 0.05,
+          "tension": 0.15,
+          "awe": 0.85,
+          "nostalgia": 0.30,
+          "hope": 0.65,
+          "melancholy": 0.40,
+          "anger": 0.00,
+          "peace": 0.85
+        },
+        "aesthetic": {
+          "beauty": 0.90,
+          "minimalism": 0.20,
+          "luxury": 0.10,
+          "darkness": 0.15,
+          "brightness": 0.55,
+          "dreamlike": 0.60,
+          "mystery": 0.65,
+          "experimental": 0.30,
+          "classical": 0.90,
+          "modern": 0.05
+        },
+        "narrative": {
+          "plot_complexity": 0.10,
+          "character_depth": 0.05,
+          "character_growth": 0.05,
+          "world_building": 0.60,
+          "nonlinear_structure": 0.40,
+          "slow_immersion": 0.90,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.10,
+          "philosophical_depth": 0.85
+        },
+        "social_relationship": {
+          "individualism": 0.20,
+          "collectivism": 0.15,
+          "family": 0.05,
+          "friendship": 0.05,
+          "love": 0.05,
+          "community": 0.05,
+          "competition": 0.05,
+          "cooperation": 0.10,
+          "power_relationship": 0.10,
+          "identity": 0.10
+        },
+        "values": {
+          "freedom": 0.50,
+          "order": 0.85,
+          "truth": 0.70,
+          "beauty": 0.90,
+          "achievement": 0.20,
+          "justice": 0.05,
+          "sacrifice": 0.05,
+          "self_exploration": 0.65,
+          "tradition": 0.80,
+          "change": 0.55,
+          "survival": 0.25,
+          "meaning": 0.80
+        },
+        "behavior": {
+          "curiosity": 0.60,
+          "creation": 0.50,
+          "adventure": 0.40,
+          "reflection": 0.85,
+          "competition": 0.05,
+          "social": 0.05,
+          "discipline": 0.75,
+          "risk": 0.10,
+          "calm": 0.90,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.80,
+          "color_richness": 0.30,
+          "sound_intensity": 0.10,
+          "rhythm_energy": 0.20,
+          "atmosphere": 0.90,
+          "immersion": 0.80
+        }
+      },
+      "media_vector": {
+        "painting_vector": {
+          "visual_style": "水墨写意",
+          "color_expression": 0.20,
+          "composition_complexity": 0.90,
+          "symbolism": 0.85,
+          "emotional_expression": 0.75,
+          "historical_style": 0.85
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.20,
+          "explanation": "作品整体氛围沉静内省，缺乏高强度的热烈或激情表达。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.60,
+          "explanation": "连绵的远山和弥漫的云雾营造出包容安详的气氛，带来精神抚慰。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.85,
+          "explanation": "高耸的主峰与全景式构图产生强烈的崇高感和对自然的敬畏。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.30,
+          "explanation": "作品虽有传统技法，但其核心在于描绘自然生机而非追溯往昔。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.70,
+          "explanation": "复杂的空间关系和深邃的意境引导观者进入持续的哲学性沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.10,
+          "explanation": "画面中没有描绘人际间的浪漫关系或亲密互动。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.15,
+          "explanation": "构图虽宏伟，但线条柔和、云雾缓冲，几乎不传递紧张感。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.40,
+          "explanation": "早春复苏的树木和柔和的水气带来了一些初生的暖意。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.35,
+          "explanation": "画中点景人物微小，高山深壑间传递出一种淡淡的遗世独立之感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.65,
+          "explanation": "冬去春来的主题和苍劲又含新枝的树木明确传达了生命不息的希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.75,
+          "explanation": "作品通过山水符号表达自然哲学，而非直接描摹现实，具有高度抽象性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.80,
+          "explanation": "三远法的融合、复杂的山石结构和墨色变化构成了高密度的视觉信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.85,
+          "explanation": "作品深入探讨了天人关系、自然法则与生命循环等深刻哲学议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.70,
+          "explanation": "全景构图遵循严格的空间逻辑，主次分明，山脉走向和空间层次井然。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.75,
+          "explanation": "郭熙在北宋时期集成了三远法理论并创造了独特的卷云皴，具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.60,
+          "explanation": "作品邀请观众的目光在层叠山水中进行一场视觉与精神的游历探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.50,
+          "explanation": "云雾与实体山石的虚实关系制造了部分视觉上的模糊和想象空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.30,
+          "explanation": "复杂的构图细节和深邃意境使得观者难以一眼穷尽，跳脱常规体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.70,
+          "explanation": "在有限的画幅内，通过笔法、构图和象征，集中承载了丰厚的美学和哲学信息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.80,
+          "explanation": "作品是理解北宋山水画、传统美学和东方自然观的绝佳样本，具有极高的认知价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.20,
+          "explanation": "点景人物极其微小，视觉焦聚于宏大山水，个人尺度被极度压缩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.05,
+          "explanation": "画面中无任何关于人际关系的描绘或暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.10,
+          "explanation": "山水中仅有几处茅屋渔舟，社会活动被描绘为自然环境下的极小点缀。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.60,
+          "explanation": "虽然描绘自然，但整饬的构图和理想化的山水反映了高度发达的文明审美。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.75,
+          "explanation": "作品透过山水万物的生发与循环，意在揭示一个统摄自然的普遍大道法则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.60,
+          "explanation": "画面的‘早春’主题捕捉的是季节转换的瞬间，同时暗示了亘古不变的自然轮回。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.40,
+          "explanation": "作品描绘的是理想化的自然，是心中之山水，但并未涉及超现实的幻想元素。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.30,
+          "explanation": "情绪基调是宁静而非欢愉，微微的春意带来一些轻松感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.20,
+          "explanation": "虽有冬末的萧瑟感，但整体情绪是平稳的，不导向明显的悲伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.35,
+          "explanation": "雄伟孤独的山峰与人迹罕至的自然景观传递了一些独处的静谧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.40,
+          "explanation": "早春的生命气息和温和的墨色带来含蓄的内在暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "画面基调庄严而非恐怖，不试图引发恐惧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.15,
+          "explanation": "构图虽有力，但被流动的云雾所柔化，杜绝了紧绷感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.85,
+          "explanation": "巨大的山体和精湛的技艺是作品最主导的情感力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.30,
+          "explanation": "更多的是一种对理想化自然文明的向往，而非个人怀旧。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.65,
+          "explanation": "冰雪消融、枯木逢春的意象非常直接地承载了希望的感觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.40,
+          "explanation": "混合了崇高的美感与一丝冬末的萧疏，存在一种雅致的忧郁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.00,
+          "explanation": "画面内容与情绪完全无关。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.85,
+          "explanation": "静谧的山林和有序的宇宙秩序营造了一种深度的内心安宁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.90,
+          "explanation": "作品是传统山水美学的巅峰，追求和谐完美的视觉艺术形态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.20,
+          "explanation": "构图充盈饱满、细节丰富，并非以简约或留白为主要审美追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.10,
+          "explanation": "美学品格是清雅的文人趣味，而非奢华富丽的宫廷气息。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.15,
+          "explanation": "虽有墨色渲染的阴影面，但整体调性是明朗的清晨氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.55,
+          "explanation": "画面仿佛被晨光穿透，薄雾和晴空使得整体感觉舒朗明亮。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.60,
+          "explanation": "云烟变灭、虚实相生的效果创造了一种如梦似幻的精神世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.65,
+          "explanation": "云雾掩映下的远方和不尽的山水空间充满了引人探究的神秘感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.30,
+          "explanation": "在宋代其笔法颇有新意，但整体上是对深厚传统的集成与发扬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.90,
+          "explanation": "几乎所有元素都严格遵循并典范地体现了古典山水画的最高准则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.05,
+          "explanation": "作品的美学标准完全建立在其所属时代的审美体系之内。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.10,
+          "explanation": "作为静态绘画，没有情节发展，仅有视觉叙事的引导。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.05,
+          "explanation": "没有明确的人物角色刻画，仅有概念上的点景人物。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.05,
+          "explanation": "无人物的成长弧光，对季节生机的表现是循环式的而非个体发展的。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.60,
+          "explanation": "构建了一个自洽、完整且富有层次感和细节的山水世界体系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.40,
+          "explanation": "观者的视线可以自由游走，其空间步移景异的组织方式打破了线性观看。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.90,
+          "explanation": "作品的全部体验依赖于静观默察，要求观者投入时间进行缓慢的沉思式沉浸。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "画面捕捉的是大自然的静态与微动，没有任何剧烈动作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.10,
+          "explanation": "无任何形式的冲突，呈现的是和谐状态。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.85,
+          "explanation": "山水承载了儒释道思想，将哲学思辨深度融入画面构成的每一部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.20,
+          "explanation": "画面主题是融于自然，并无强调个人独立价值的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.15,
+          "explanation": "虽有文明痕迹，但未强调任何集体性社会结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.05,
+          "explanation": "无任何家庭主题相关的活动或符号。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.05,
+          "explanation": "未出现有关友情的活动和叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.05,
+          "explanation": "作为山水画，毫无爱情主题的表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.05,
+          "explanation": "点景的人烟过于稀薄，不成其为一个明确的社区。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "作品的内核是完全和谐有序的，排斥竞争性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.10,
+          "explanation": "未涉及任何社会层面的合作活动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.10,
+          "explanation": "主峰居中统领群山的构图暗喻了等级秩序，但并未在人文层面展现权力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.10,
+          "explanation": "不涉及社会或个人身份的探讨，其核心是无我的宇宙观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.freedom",
+          "score": 0.50,
+          "explanation": "山水本身象征着精神的自由和隐逸情怀，但这种自由被宏大的秩序感所框定。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.order",
+          "score": 0.85,
+          "explanation": "层次分明的宇宙秩序是作品最根本的价值观表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.truth",
+          "score": 0.70,
+          "explanation": "其终极追求在于探求自然背后的本质规律与真理。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.beauty",
+          "score": 0.90,
+          "explanation": "创造高度的视觉与精神之美是作品最首要的价值体现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.achievement",
+          "score": 0.20,
+          "explanation": "画面主旨并非表达世俗的成就追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.justice",
+          "score": 0.05,
+          "explanation": "完全没有涉及正义、公平等相关社会伦理议题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.sacrifice",
+          "score": 0.05,
+          "explanation": "没有牺牲奉献相关的主题或叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.self_exploration",
+          "score": 0.65,
+          "explanation": "观赏山水是通向内心世界和自身心性体悟的一种方式。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.tradition",
+          "score": 0.80,
+          "explanation": "集前代山水画法大成，是对文化传统的继承与极高崇敬。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.change",
+          "score": 0.55,
+          "explanation": "早春的‘变’是作品核心主题，但这种变化是自然循环的一部分，是符合天道的变。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.survival",
+          "score": 0.25,
+          "explanation": "虽有草木在寒冬中萌生，但作品强调的是生命诗意而非生存挣扎。"
+        },
+        {
+          "dimensionPath": "psychology_vector.values.meaning",
+          "score": 0.80,
+          "explanation": "整幅画就是对宇宙人生意义的探讨和视觉化呈现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.60,
+          "explanation": "作品本身即是探索自然的好奇心产物，并激发观者对山之深处的向往。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.50,
+          "explanation": "作品是艺术创造的极致典范，暗示了创造性活动的严谨与崇高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.40,
+          "explanation": "观者的视线旅行具有探险性，包含攀登和寻幽的想象。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.85,
+          "explanation": "作品鼓励并几乎强制要求观者进行安静的、深刻的内心反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "与作品的互动是个体内在的，不存在任何竞争行为指向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.05,
+          "explanation": "体验导向独处和内省，而非社交互动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.75,
+          "explanation": "不论是其精严的创作法度还是它所倡导的精神修炼，都体现出高度的自律。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "画面中没有任何高风险或不确定性行为的暗示。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.90,
+          "explanation": "镇定、平和、从容不迫的行事作风与审美态度贯穿作品始终。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "山水画传统上含有林泉之志的避世意味，但这是一种寻求精神家园的主动‘逃离’。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.80,
+          "explanation": "精微的墨色变化和磅礴的构图提供了极为强烈的视觉体验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.30,
+          "explanation": "纯水墨作品，色彩的丰富度仅体现在‘墨分五色’上。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.10,
+          "explanation": "作为视觉艺术，画面本身未传达明显的听觉刺激，唯有静默。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.20,
+          "explanation": "云雾和山形的节奏感是舒缓、宁静的，能量温和。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.90,
+          "explanation": "营造沉浸式的、包裹一切的空间氛围感是作品最核心的感官成就。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.80,
+          "explanation": "全景式的构图和丰富的细节邀请观者将整个精神投入其中。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.visual_style",
+          "score": 0.0,
+          "explanation": "作品的艺术表现风格为水墨写意与工整技法结合的典范。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.color_expression",
+          "score": 0.20,
+          "explanation": "作为水墨画，其色彩的表达极其克制，主要依靠墨色的浓淡来表现。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.composition_complexity",
+          "score": 0.90,
+          "explanation": "融合高远、深远、平远三法，构图复杂且结构严谨，空间层次极为丰富。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.symbolism",
+          "score": 0.85,
+          "explanation": "山、水、松、石、云无不承载着儒家的人伦理想和道家的自然哲学寓意。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.emotional_expression",
+          "score": 0.75,
+          "explanation": "通过全景山水的氛围，强烈地表达了宁静、崇高与生机等内在情感。"
+        },
+        {
+          "dimensionPath": "media_vector.painting_vector.historical_style",
+          "score": 0.85,
+          "explanation": "作品是北宋院体山水画发展到顶峰的标志性风格，具有鲜明的时代特征。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "《早春图》为观众带来的核心体验是一种从视觉震撼到心灵抚慰的渐进式旅程。最初，观众被画作巨大的体量和雄奇的全景构图所震慑，感到一种崇高的敬畏。随着视点在峰峦和云雾间的深入游走，这种敬畏逐渐转化为一种深沉的平和感。最后，当目光落在初春细微的生机上时，一丝内在的温暖和希望被悄然唤醒，完成了从宏伟到细腻、从外在景观到内心世界的转化。",
+        "structure_description": "作品的体验结构严格依赖于其‘三远法’的空间组织。主峰带来的‘高远’奠定了庄严的基调，视线的抬升引发敬畏。层叠山峦的‘深远’构建了幽邃的探索感，引导视线向内，触发好奇与沉思。而前景溪岸的‘平远’则将视角拉回舒缓的日常尺度，平复心绪。这种精密的构图布局如同精心设计的乐章，强制性地规定了视觉运动的节奏，使情绪随空间的变换有张有弛。",
+        "cognitive_expression": "作品要求观众进行高度抽象的关联性思维，将具体的山石树木解读为宇宙法则的象征。同时，视觉信息密集且复杂，需要持续的‘视觉解码’和模式识别来理解空间层次。它不追求快速的理解，而是鼓励缓慢的、冥想式的直觉和内省，整体调用的是系统性思维与对深层哲思的渴望，而非线性的逻辑推理。",
+        "behavioral_tendency_description": "这幅画鼓励一种静态的、内省的观赏行为，强调‘澄怀味象’式的从容品味，排斥急躁和功利性的浏览。它可能吸引那些倾向于在独处和安静中获取能量，喜爱在严谨的结构中寻求精神自由，并对深厚的文化传统有着依恋与尊崇之心的观众。作品所表达的宇宙秩序，也呼应了对生活有规划、喜欢在宏观框架下观察细节的潜在行为倾向。"
+      },
+      "personality_affinity": {
+        "Ni": 0.90,
+        "Ne": 0.40,
+        "Ti": 0.55,
+        "Te": 0.30,
+        "Fi": 0.65,
+        "Fe": 0.20,
+        "Si": 0.80,
+        "Se": 0.60,
+        "openness": 0.85,
+        "conscientiousness": 0.80,
+        "extraversion": 0.10,
+        "agreeableness": 0.35,
+        "neuroticism": 0.25,
+        "Assertive": 0.85,
+        "Turbulent": 0.30
+      },
+      "supporting_evidence": [
+        "作品以全景构图描绘了冬末春初时节云雾缭绕的北方山峦景象。",
+        "主峰高耸居中，两侧层峦叠嶂，形成极为庄重的对称式布局。",
+        "融合了高远、深远、平远三种空间透视法来构建深邃画面。",
+        "画家使用独创的‘卷云皴’笔法来表现山石圆润浑厚的质感。",
+        "树枝以遒劲的‘蟹爪枝’画法呈现，表现出树木顽强的生命力。",
+        "画面中云雾迷蒙，虚实相生，营造出强烈的空间流动感和神秘意境。",
+        "山间点缀有细小的亭台楼阁与行人，反衬出山水的宏大。",
+        "作品强调对季节转换时刻的捕捉，传递出寒冬将尽、春意萌生的暗示。",
+        "全画为纯水墨绘制，依靠墨色的浓淡干湿变化来表现丰富层次。",
+        "作品记录了作者对大自然内在运行规律和宇宙秩序的深刻思考。",
+        "山、水、云、树的组合不止是风景，更是特定哲学思想的视觉符号。",
+        "观赏过程要求目光在复杂的空间中缓慢游走，无法一眼穷尽所有细节。",
+        "整体氛围静谧而庄重，引导观者进入一种凝神静观的状态。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

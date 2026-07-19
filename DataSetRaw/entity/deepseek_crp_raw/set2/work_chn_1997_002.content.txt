@@ -1,0 +1,734 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_chn_1997_002",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "甲方乙方",
+        "type": "MOVIE",
+        "countryName": "中国",
+        "year": 1997,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-04-04",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.9,
+        "primaryMediaType": "MOVIE"
+      },
+      "semantic": {
+        "summary": "《甲方乙方》是中国内地首部贺岁片，讲述了四个年轻人创办“好梦一日游”公司，为普通顾客圆荒诞梦想的系列故事。影片采用小品式的分段叙事，通过平民化视角展现将军梦、守口如瓶梦、富人吃苦梦、明星普通人梦等一系列幽默情景，用京味调侃和温情反讽将市井生活理想与现实落差编织成喜剧狂欢，最终传递出回归日常生活本身的朴素温情。",
+        "themes": [
+          "梦想",
+          "现实",
+          "幽默",
+          "身份",
+          "温情",
+          "人性",
+          "社会百态"
+        ],
+        "keywords": [
+          "好梦一日游",
+          "贺岁片",
+          "京味喜剧",
+          "市井生活",
+          "角色扮演",
+          "荒诞服务",
+          "冯小刚",
+          "北京胡同",
+          "圆梦",
+          "温情反讽"
+        ],
+        "core_experience": "观众在轻松诙谐的氛围中，体验普通人荒诞梦想被短暂满足的幽默快感，同时感受到理想与现实碰撞后的温暖自嘲，最终获得一种回归日常、珍惜当下的朴素慰藉。",
+        "experience_introduction": "影片通过“好梦一日游”公司的业务串联起多个独立小故事，每个段落都以一位顾客的荒诞愿望为起点，通过夸张的角色扮演和情境模拟制造笑声。笑声背后，每个圆梦过程都暗含对身份焦虑、虚荣心、阶层差异的温和揭示，但影片并不尖锐批判，而是用京味幽默和邻里温情消解冲突，让观众在轻松中完成对自身欲望的审视。"
+      },
+      "experience_vector": {
+        "passion": 0.35,
+        "healing": 0.55,
+        "awe": 0.05,
+        "nostalgia": 0.65,
+        "reflection": 0.55,
+        "romance": 0.1,
+        "tension": 0.15,
+        "warmth": 0.75,
+        "loneliness": 0.3,
+        "hope": 0.45
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.3,
+          "complexity": 0.2,
+          "depth_of_thought": 0.4,
+          "logical_structure": 0.15,
+          "novelty": 0.6,
+          "exploration": 0.35,
+          "ambiguity": 0.1,
+          "predictability": 0.7,
+          "information_density": 0.3,
+          "learning_value": 0.35
+        },
+        "worldview": {
+          "personal_scale": 0.85,
+          "relationship_scale": 0.65,
+          "social_scale": 0.55,
+          "civilization_scale": 0.1,
+          "cosmic_scale": 0.0,
+          "time_span": 0.25,
+          "fantasy_level": 0.55
+        },
+        "emotion": {
+          "happiness": 0.8,
+          "sadness": 0.2,
+          "loneliness": 0.3,
+          "warmth": 0.75,
+          "fear": 0.05,
+          "tension": 0.15,
+          "awe": 0.05,
+          "nostalgia": 0.65,
+          "hope": 0.45,
+          "melancholy": 0.35,
+          "anger": 0.05,
+          "peace": 0.5
+        },
+        "aesthetic": {
+          "beauty": 0.3,
+          "minimalism": 0.45,
+          "luxury": 0.35,
+          "darkness": 0.05,
+          "brightness": 0.7,
+          "dreamlike": 0.5,
+          "mystery": 0.05,
+          "experimental": 0.25,
+          "classical": 0.55,
+          "modern": 0.4
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.35,
+          "character_growth": 0.25,
+          "world_building": 0.15,
+          "nonlinear_structure": 0.1,
+          "slow_immersion": 0.3,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.25,
+          "philosophical_depth": 0.35
+        },
+        "social_relationship": {
+          "individualism": 0.5,
+          "collectivism": 0.45,
+          "family": 0.55,
+          "friendship": 0.75,
+          "love": 0.35,
+          "community": 0.55,
+          "competition": 0.15,
+          "cooperation": 0.6,
+          "power_relationship": 0.25,
+          "identity": 0.65
+        },
+        "value": {
+          "freedom": 0.25,
+          "order": 0.2,
+          "truth": 0.35,
+          "beauty": 0.2,
+          "achievement": 0.25,
+          "justice": 0.2,
+          "sacrifice": 0.15,
+          "self_exploration": 0.55,
+          "tradition": 0.5,
+          "change": 0.3,
+          "survival": 0.2,
+          "meaning": 0.45
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.45,
+          "adventure": 0.3,
+          "reflection": 0.55,
+          "competition": 0.1,
+          "social": 0.7,
+          "discipline": 0.1,
+          "risk": 0.2,
+          "calm": 0.45,
+          "escape": 0.35
+        },
+        "sensory": {
+          "visual_intensity": 0.3,
+          "color_richness": 0.45,
+          "sound_intensity": 0.3,
+          "rhythm_energy": 0.45,
+          "atmosphere": 0.6,
+          "immersion": 0.45
+        }
+      },
+      "media_vector": {
+        "movie_vector": {
+          "cinematic_scale": 0.25,
+          "visual_storytelling": 0.45,
+          "soundtrack_importance": 0.35,
+          "actor_expression": 0.75,
+          "director_style": 0.7
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.35,
+          "explanation": "影片情绪基调以轻松诙谐为主，热情并非主导体验。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.55,
+          "explanation": "平凡生活的温情结尾传递了明显的治愈感。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.05,
+          "explanation": "影片聚焦市井生活，不追求宏大震撼的视觉效果。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.65,
+          "explanation": "影片充满九十年代北京的城市风貌与市民生活气息，唤起怀旧情绪。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.55,
+          "explanation": "每个圆梦故事都在笑声后引导观众反思欲望与现实的关系。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.1,
+          "explanation": "爱情并非影片的核心主题或主要情感驱动力。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.15,
+          "explanation": "喜剧形式消解了冲突的尖锐性，整体氛围松弛。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.75,
+          "explanation": "伙伴间的友情与互助贯穿全片，营造出强烈的温暖氛围。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.3,
+          "explanation": "个别角色在理想与现实落差中流露出短暂孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.45,
+          "explanation": "结局回归平凡生活，带有平和的希望感而非强烈的向往。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.3,
+          "explanation": "影片叙事直接、易于理解，抽象隐喻较少。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.2,
+          "explanation": "分段式小品结构简单明了，未设复杂因果链条。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.4,
+          "explanation": "每个故事背后隐含着对身份、阶层和人性的温和思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.15,
+          "explanation": "叙事以片段拼接为主，缺乏严密的内在逻辑系统。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.6,
+          "explanation": "作为中国内地首部贺岁片，其圆梦服务的核心创意在当时具有开创性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.35,
+          "explanation": "观众通过角色扮演间接体验不同身份，形成有限的身份探索。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.1,
+          "explanation": "故事主题清晰，角色动机明确，几乎不存在歧义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.7,
+          "explanation": "美梦成真—好梦易醒—回归平凡，每个段落遵循相似结构。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.3,
+          "explanation": "影片以情感体验和对话为主，知识性内容密度不高。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.35,
+          "explanation": "观众能获得对社会百态和人情世故的感性认识而非系统知识。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.85,
+          "explanation": "故事几乎全部围绕个人欲望、梦想和生活琐事展开。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.65,
+          "explanation": "公司合伙人、情侣、朋友等多种亲密关系是情节推进的重要部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "通过不同顾客展现了社会各阶层的众生相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.1,
+          "explanation": "影片完全不涉及文明演进或宏大历史叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.0,
+          "explanation": "故事局限于都市日常，无任何宇宙或哲学终极层面的探讨。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.25,
+          "explanation": "叙事时间集中在短期服务过程，时间跨度极小。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.55,
+          "explanation": "通过情景模拟实现幻想的“好梦一日游”设定本身带有较强幻想色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.8,
+          "explanation": "喜剧的夸张表演和幽默对白营造出全片主导的欢乐情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.2,
+          "explanation": "仅在梦境结束回归现实时存在轻微失落感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.3,
+          "explanation": "个别独居角色和梦想落差的瞬间透露出孤独。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.75,
+          "explanation": "邻里互助、朋友共渡难关等情节持续输出温暖。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.05,
+          "explanation": "影片基调轻松，几乎不制造惊悚或恐惧感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.15,
+          "explanation": "戏剧冲突常以幽默方式迅速化解，紧张感极低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.05,
+          "explanation": "影片完全立足于平凡生活，无任何令人敬畏的场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.65,
+          "explanation": "对九十年代老北京胡同、大院生活的再现充满怀旧情绪。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.45,
+          "explanation": "结尾回归日常生活，带有脚踏实地的平和希望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.35,
+          "explanation": "在欢笑之下，对梦想易逝的感叹带来一丝淡淡的忧伤。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.05,
+          "explanation": "影片解构社会现象但不煽动愤怒，始终保持温和基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.5,
+          "explanation": "尘埃落定、安然度日的结局传递出中等程度的平和感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.3,
+          "explanation": "影片追求生活化真实感，不强调唯美观感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.45,
+          "explanation": "场景和道具以日常生活为主，风格朴实简洁。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.35,
+          "explanation": "部分梦境片段模拟了奢华场景，但多带反讽意味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.05,
+          "explanation": "全片色调明亮，无阴郁、黑暗的美学表现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.7,
+          "explanation": "整体视觉明亮、喜庆，符合贺岁基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.5,
+          "explanation": "核心设定是圆梦，部分情境刻意营造超现实的梦境感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.05,
+          "explanation": "故事直白，无悬疑设置或神秘氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.25,
+          "explanation": "分段小品式结构和圆梦设定有一定实验性但整体叙事保守。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.55,
+          "explanation": "影片具有京味市民喜剧的经典韵味。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.4,
+          "explanation": "表现九十年代的城市生活，具备当时特定的现代感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "由多个独立短篇故事串联而成，剧情简单易懂。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.35,
+          "explanation": "角色多为展现特定特征的喜剧群像，深度挖掘有限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.25,
+          "explanation": "主人公在创业过程中思想认识有所转变，但非核心叙事重点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.15,
+          "explanation": "依托现实北京城市背景，未构建独立的幻想世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.1,
+          "explanation": "故事严格按时间线性发展，无倒叙或多线交叉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.3,
+          "explanation": "节奏轻快，依赖对话推进，沉浸感主要由生活细节提供。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "全片无任何动作场面，完全依靠对话和情境推动剧情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.25,
+          "explanation": "冲突均为日常化矛盾且多以喜剧方式化解，强度低。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.35,
+          "explanation": "对真实与虚假、理想与现实有浅显的哲学触碰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.5,
+          "explanation": "顾客追求个人梦想的同时，主角团也展现集体主义精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.45,
+          "explanation": "团队合作与邻里帮扶是剧情的重要组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.55,
+          "explanation": "家庭团聚、夫妻关系是其中重要的圆梦内容。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.75,
+          "explanation": "主角四人组的深厚友谊和互助是故事的核心纽带。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.35,
+          "explanation": "爱情作为次要元素出现，未主导故事走向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.55,
+          "explanation": "展示了典型的北京大院式邻里社区关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.15,
+          "explanation": "剧情几乎不涉及个人之间的利益竞争。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.6,
+          "explanation": "“好梦一日游”的每个圆梦过程都依赖团队紧密合作。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.25,
+          "explanation": "仅在角色扮演中模拟了上下级或权力不对等关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.65,
+          "explanation": "体验不同身份、反思自我身份是贯穿全片的核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.25,
+          "explanation": "影片最终强调接受现实和责任，而非绝对自由。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.2,
+          "explanation": "叙事依赖情感而非秩序规则推进。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.35,
+          "explanation": "影片核心在于揭示梦境背后普通生活的真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.2,
+          "explanation": "影片侧重生活化幽默，不刻意追求审美价值。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.25,
+          "explanation": "个体的世俗成就并非影片关注焦点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.2,
+          "explanation": "故事不涉及法律或道德审判。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.15,
+          "explanation": "主角为帮助他人有所付出，但未上升到牺牲的崇高感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "顾客通过角色扮演重新认识自己的欲望和局限。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.5,
+          "explanation": "影片流露出对传统市民文化和京味生活方式的留恋。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.3,
+          "explanation": "影片不鼓励激烈的变革，而强调内心的知足。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.2,
+          "explanation": "无生存威胁，角色面临的仅是精神层面的困扰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.45,
+          "explanation": "通过解构梦想，引导观众思考平凡生活的意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "观众对下一个顾客的梦想产生好奇。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.45,
+          "explanation": "主角团队作为策划者，持续进行情境创造。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.3,
+          "explanation": "体验不同人生具有冒险成分，但仅限于模拟。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.55,
+          "explanation": "影片引导观众反思梦想与现实、身份与欲望的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.1,
+          "explanation": "故事氛围轻松友好，不以竞争为驱动力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.7,
+          "explanation": "影片高度依赖人物间的对话、互动和社交场景。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.1,
+          "explanation": "公司运作松散随意，不强调纪律或规则。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.2,
+          "explanation": "圆梦过程不涉及高风险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.45,
+          "explanation": "结局回归平淡，传递出冷静淡然的生活态度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.35,
+          "explanation": "顾客花钱圆梦带有短暂逃避现实的倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.3,
+          "explanation": "视觉风格写实朴素，不制造视觉奇观。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.45,
+          "explanation": "色调明亮，色彩以自然生活场景为主。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.3,
+          "explanation": "配乐和音效为喜剧服务，不刻意追求听觉冲击。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.45,
+          "explanation": "叙事依靠京味对白维持明快节奏，但无激烈起伏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.6,
+          "explanation": "九十年代北京的市井烟火气和胡同人情味营造了独特氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.45,
+          "explanation": "切近生活的角色和情境为观众提供了一定程度的代入感。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.cinematic_scale",
+          "score": 0.25,
+          "explanation": "影片以对白和表演为主，缺乏大场面或宏大调度。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.visual_storytelling",
+          "score": 0.45,
+          "explanation": "叙事主要依靠台词，视觉元素起辅助作用。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.soundtrack_importance",
+          "score": 0.35,
+          "explanation": "配乐用于烘托喜剧氛围，非核心表意手段。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.actor_expression",
+          "score": 0.75,
+          "explanation": "葛优等演员精湛的喜剧表演是影片成功的关键。"
+        },
+        {
+          "dimensionPath": "media_vector.movie_vector.director_style",
+          "score": 0.7,
+          "explanation": "作品具有鲜明的冯小刚式京味幽默和荒诞喜剧风格。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "观众在紧凑的短篇故事串联中体验到持续的欢笑与温情。每个圆梦故事都是一个迷你喜剧，让观众在调侃中释放压力，同时角色们善良的本性和温暖的互助带来了强烈的情感慰藉。整体情绪是轻松、明亮且接地气的，观众在笑过之后会感到内心的平和与暖意。",
+        "structure_description": "影片采用分段式的小品结构，通过一家圆梦公司将不同阶层顾客的欲望串联起来。每个段落遵循相似的节奏：提出荒诞诉求、模拟情景制造笑料、梦醒后回归现实，最后在结尾将所有线索收束，点明“珍惜平凡”的主题。对白是推动叙事和制造喜剧效果的核心结构元素。",
+        "cognitive_expression": "作品鼓励观众进行较低负荷但具备社会洞察力的认知处理。观众无需解构复杂的逻辑或深奥隐喻，而是通过观察角色扮演中的反差，直观地理解身份、欲望和社会角色的局限性。影片引导观众进行温和的社会对比和个人反思，但认知门槛极低。",
+        "behavioral_tendency_description": "影片倡导一种回归社群、珍惜亲友和当下生活的行为倾向。它不鼓励激烈的竞争或冒险，而是赞美友善、互助和脚踏实地的乐观精神。观众体验后可能更倾向于与他人进行轻松、温暖的社交互动，并减少对不切实际幻想的追逐。"
+      },
+      "personality_affinity": {
+        "Ni": 0.3,
+        "Ne": 0.6,
+        "Ti": 0.25,
+        "Te": 0.25,
+        "Fi": 0.6,
+        "Fe": 0.75,
+        "Si": 0.7,
+        "Se": 0.35,
+        "openness": 0.45,
+        "conscientiousness": 0.35,
+        "extraversion": 0.65,
+        "agreeableness": 0.75,
+        "neuroticism": 0.2,
+        "Assertive": 0.7,
+        "Turbulent": 0.35
+      },
+      "supporting_evidence": [
+        "影片由多个独立的顾客圆梦故事串联而成，每个故事构成一个叙事段落。",
+        "主角团租用胡同里的旧房子作为“好梦一日游”公司办公室。",
+        "顾客提出荒诞的愿望，主角团队通过模拟场景和角色扮演帮助其实现。",
+        "服务包括让普通人扮演将军接受敬礼、让大厨体验守口如瓶等。",
+        "影片通过反差巨大的角色扮演制造喜剧效果，如让大款体验山区穷苦生活。",
+        "叙事高度依赖带有京味风格的幽默对白和演员的肢体表演。",
+        "故事设定在九十年代的老北京，展现了当时的胡同、大院和市民生活风貌。",
+        "主角公司成员之间互相打趣、互相支持，没有复杂的人际斗争。",
+        "每个圆梦过程都以欢笑告终，但不久后迅速回归原本的现实生活。",
+        "影片结尾在大雪纷飞的年夜饭场景中，主角团围坐吃饺子。",
+        "主角在帮助他人圆梦的过程中，反思了生活的本质和幸福的意义。",
+        "没有明确的善恶对立或外部反派，冲突全部来自内部个人欲望。",
+        "借助角色短暂的身份转变来探讨真实自我与幻想自我的差距。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}

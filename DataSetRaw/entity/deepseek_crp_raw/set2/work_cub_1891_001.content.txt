@@ -1,0 +1,750 @@
+{
+  "processingState": {
+    "processed": 1,
+    "remaining": 0,
+    "total": 1,
+    "currentWorkId": "work_cub_1891_001",
+    "nextWorkId": null,
+    "isCompleted": true
+  },
+  "items": [
+    {
+      "basic": {
+        "name": "纯朴的诗",
+        "type": "LITERATURE",
+        "countryName": "古巴",
+        "year": 1891,
+        "ontologyVersion": "v1.0",
+        "promptVersion": "CPR-1.2",
+        "annotationModelVersion": "GPT-5.5",
+        "generatorDate": "2026-07-11",
+        "annotationLanguage": "zh-CN",
+        "evidenceVersion": "v1.0",
+        "confidence": 0.85,
+        "primaryMediaType": "LITERATURE"
+      },
+      "semantic": {
+        "summary": "何塞·马蒂的诗集，以简洁质朴的语言书写日常景物，将自然意象、个人情感与古巴民族认同融为一体。诗集韵律明快，看似简单却蕴含深沉的情感力量，从一朵花、一滴露水中生发出对故土、自由与生命意义的哲思。作品整体体验是从平凡中见崇高，在纯净的诗意中获得精神慰藉与爱国情感的共鸣。",
+        "themes": [
+          "自然",
+          "爱国",
+          "自由",
+          "生命哲思",
+          "纯真",
+          "身份认同",
+          "美"
+        ],
+        "keywords": [
+          "古巴",
+          "拉丁美洲",
+          "现代主义诗歌",
+          "自然意象",
+          "民族精神",
+          "韵律",
+          "简洁",
+          "抒情",
+          "歌曲改编",
+          "何塞·马蒂"
+        ],
+        "core_experience": "通过简洁纯净的语言和韵律，在日常景物中感受深沉的爱与哀愁，体验一种从朴素自然中升腾起的崇高爱国情怀和对生命本质的温柔沉思。",
+        "experience_introduction": "《纯朴的诗》将读者带入一个由简洁语言构成的抒情世界。阅读过程中，读者首先被其明快的韵律和清新的自然意象吸引，继而逐渐感受到文字背后深沉的忧郁与炽热的爱国情感。诗集不追求复杂技巧，而是以真挚和纯粹打动人心，使阅读成为一种静谧而深刻的情感净化过程。"
+      },
+      "experience_vector": {
+        "passion": 0.72,
+        "healing": 0.68,
+        "awe": 0.45,
+        "nostalgia": 0.60,
+        "reflection": 0.65,
+        "romance": 0.35,
+        "tension": 0.25,
+        "warmth": 0.70,
+        "loneliness": 0.50,
+        "hope": 0.62
+      },
+      "psychology_vector": {
+        "cognitive": {
+          "abstractness": 0.55,
+          "complexity": 0.30,
+          "depth_of_thought": 0.60,
+          "logical_structure": 0.25,
+          "novelty": 0.50,
+          "exploration": 0.40,
+          "ambiguity": 0.45,
+          "predictability": 0.55,
+          "information_density": 0.35,
+          "learning_value": 0.55
+        },
+        "worldview": {
+          "personal_scale": 0.75,
+          "relationship_scale": 0.35,
+          "social_scale": 0.55,
+          "civilization_scale": 0.45,
+          "cosmic_scale": 0.40,
+          "time_span": 0.30,
+          "fantasy_level": 0.10
+        },
+        "emotion": {
+          "happiness": 0.40,
+          "sadness": 0.50,
+          "loneliness": 0.50,
+          "warmth": 0.70,
+          "fear": 0.10,
+          "tension": 0.20,
+          "awe": 0.45,
+          "nostalgia": 0.65,
+          "hope": 0.62,
+          "melancholy": 0.58,
+          "anger": 0.10,
+          "peace": 0.72
+        },
+        "aesthetic": {
+          "beauty": 0.80,
+          "minimalism": 0.75,
+          "luxury": 0.05,
+          "darkness": 0.20,
+          "brightness": 0.60,
+          "dreamlike": 0.30,
+          "mystery": 0.20,
+          "experimental": 0.15,
+          "classical": 0.70,
+          "modern": 0.35
+        },
+        "narrative": {
+          "plot_complexity": 0.15,
+          "character_depth": 0.40,
+          "character_growth": 0.30,
+          "world_building": 0.25,
+          "nonlinear_structure": 0.20,
+          "slow_immersion": 0.65,
+          "action_intensity": 0.05,
+          "conflict_intensity": 0.30,
+          "philosophical_depth": 0.60
+        },
+        "social_relationship": {
+          "individualism": 0.55,
+          "collectivism": 0.60,
+          "family": 0.25,
+          "friendship": 0.30,
+          "love": 0.45,
+          "community": 0.55,
+          "competition": 0.05,
+          "cooperation": 0.20,
+          "power_relationship": 0.10,
+          "identity": 0.70
+        },
+        "value": {
+          "freedom": 0.72,
+          "order": 0.20,
+          "truth": 0.60,
+          "beauty": 0.80,
+          "achievement": 0.15,
+          "justice": 0.35,
+          "sacrifice": 0.40,
+          "self_exploration": 0.55,
+          "tradition": 0.45,
+          "change": 0.30,
+          "survival": 0.25,
+          "meaning": 0.65
+        },
+        "behavior": {
+          "curiosity": 0.35,
+          "creation": 0.45,
+          "adventure": 0.15,
+          "reflection": 0.72,
+          "competition": 0.05,
+          "social": 0.25,
+          "discipline": 0.15,
+          "risk": 0.10,
+          "calm": 0.70,
+          "escape": 0.30
+        },
+        "sensory": {
+          "visual_intensity": 0.55,
+          "color_richness": 0.50,
+          "sound_intensity": 0.60,
+          "rhythm_energy": 0.55,
+          "atmosphere": 0.65,
+          "immersion": 0.50
+        }
+      },
+      "media_vector": {
+        "literature_vector": {
+          "literary_style": 0.65,
+          "language_artistry": 0.75,
+          "symbolism": 0.60,
+          "rhetorical_complexity": 0.25,
+          "intellectual_depth": 0.55,
+          "cultural_depth": 0.70,
+          "knowledge_density": 0.30,
+          "interpretation_openness": 0.50
+        }
+      },
+      "vector_facts": [
+        {
+          "dimensionPath": "experience_vector.passion",
+          "score": 0.72,
+          "explanation": "诗集中充满对祖国和自由的热烈情感，语言直接而真挚。"
+        },
+        {
+          "dimensionPath": "experience_vector.healing",
+          "score": 0.68,
+          "explanation": "自然意象与平和语调带来精神慰藉和情感净化。"
+        },
+        {
+          "dimensionPath": "experience_vector.awe",
+          "score": 0.45,
+          "explanation": "在日常景物中感知崇高，但整体风格偏向亲切而非震撼。"
+        },
+        {
+          "dimensionPath": "experience_vector.nostalgia",
+          "score": 0.60,
+          "explanation": "对故土和纯真过去的怀念贯穿作品。"
+        },
+        {
+          "dimensionPath": "experience_vector.reflection",
+          "score": 0.65,
+          "explanation": "诗歌引导读者对生命意义和个人身份进行沉思。"
+        },
+        {
+          "dimensionPath": "experience_vector.romance",
+          "score": 0.35,
+          "explanation": "情感表达真挚但非浪漫爱情主导。"
+        },
+        {
+          "dimensionPath": "experience_vector.tension",
+          "score": 0.25,
+          "explanation": "作品氛围以平静为主，情感冲突较为内敛。"
+        },
+        {
+          "dimensionPath": "experience_vector.warmth",
+          "score": 0.70,
+          "explanation": "语言温和，对自然与人的描写充满温情。"
+        },
+        {
+          "dimensionPath": "experience_vector.loneliness",
+          "score": 0.50,
+          "explanation": "诗人独处的沉思状态为作品带来一定的孤独感。"
+        },
+        {
+          "dimensionPath": "experience_vector.hope",
+          "score": 0.62,
+          "explanation": "尽管有忧郁，但作品最终传递对未来的信念。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.abstractness",
+          "score": 0.55,
+          "explanation": "日常意象承载抽象情感与哲思，但语言本身直白。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.complexity",
+          "score": 0.30,
+          "explanation": "结构简单，不追求复杂的认知挑战。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.depth_of_thought",
+          "score": 0.60,
+          "explanation": "从简单事物引发生命、自由与身份的深层思考。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.logical_structure",
+          "score": 0.25,
+          "explanation": "抒情诗为主，不强调逻辑推演和论证。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.novelty",
+          "score": 0.50,
+          "explanation": "在现代主义诗歌运动中具有创新性，但形式本身并非激进实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.exploration",
+          "score": 0.40,
+          "explanation": "探索内心世界和民族认同，而非外部未知领域。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.ambiguity",
+          "score": 0.45,
+          "explanation": "意象清晰但留有情感解读空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.predictability",
+          "score": 0.55,
+          "explanation": "抒情逻辑自然流畅，情感走向可预期。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.information_density",
+          "score": 0.35,
+          "explanation": "语言简洁，情感浓度高但信息量不密集。"
+        },
+        {
+          "dimensionPath": "psychology_vector.cognitive.learning_value",
+          "score": 0.55,
+          "explanation": "提供对古巴文化和拉丁美洲精神的理解。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.personal_scale",
+          "score": 0.75,
+          "explanation": "大量从个人视角和内心感受出发。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.relationship_scale",
+          "score": 0.35,
+          "explanation": "人际互动不是核心主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.social_scale",
+          "score": 0.55,
+          "explanation": "个人情感与国家民族命运紧密相连。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.civilization_scale",
+          "score": 0.45,
+          "explanation": "涉及拉丁美洲文化认同，但非史诗性文明叙事。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.cosmic_scale",
+          "score": 0.40,
+          "explanation": "自然描写有时通向对宇宙秩序的感知。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.time_span",
+          "score": 0.30,
+          "explanation": "关注当下瞬间的感受与永恒的联结。"
+        },
+        {
+          "dimensionPath": "psychology_vector.worldview.fantasy_level",
+          "score": 0.10,
+          "explanation": "完全基于现实生活与情感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.happiness",
+          "score": 0.40,
+          "explanation": "对美的感受带来喜悦，但忧郁常伴。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.sadness",
+          "score": 0.50,
+          "explanation": "流亡与苦难题材使悲伤成为底色之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.loneliness",
+          "score": 0.50,
+          "explanation": "独白式的抒情传递离群索居的感受。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.warmth",
+          "score": 0.70,
+          "explanation": "对故土和自然的热爱散发持久暖意。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.fear",
+          "score": 0.10,
+          "explanation": "恐惧不是主导情感色彩。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.tension",
+          "score": 0.20,
+          "explanation": "情感表达克制，缺乏尖锐的内在张力。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.awe",
+          "score": 0.45,
+          "explanation": "诗人在平凡中发现神圣，引发温和的敬畏。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.nostalgia",
+          "score": 0.65,
+          "explanation": "全篇弥漫对过去和故乡的深情回望。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.hope",
+          "score": 0.62,
+          "explanation": "在困境中持续表达对自由和光明的向往。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.melancholy",
+          "score": 0.58,
+          "explanation": "淡淡的忧愁是作品主要的情绪氛围之一。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.anger",
+          "score": 0.10,
+          "explanation": "批判现实时倾向于悲伤而非愤怒。"
+        },
+        {
+          "dimensionPath": "psychology_vector.emotion.peace",
+          "score": 0.72,
+          "explanation": "诗歌节奏和自然意象营造出深沉的宁静。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.beauty",
+          "score": 0.80,
+          "explanation": "语言之美和意象之美是作品的核心追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.minimalism",
+          "score": 0.75,
+          "explanation": "用词简练，风格洗练，无繁复修饰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.luxury",
+          "score": 0.05,
+          "explanation": "完全排斥华丽与奢靡。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.darkness",
+          "score": 0.20,
+          "explanation": "色调明亮为主，黑暗元素极收敛。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.brightness",
+          "score": 0.60,
+          "explanation": "光和明亮的自然意象反复出现。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.dreamlike",
+          "score": 0.30,
+          "explanation": "倾向于真实感受而非梦幻构建。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.mystery",
+          "score": 0.20,
+          "explanation": "表达直接真诚，不为神秘而神秘。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.experimental",
+          "score": 0.15,
+          "explanation": "基于传统抒情形式，未做激进实验。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.classical",
+          "score": 0.70,
+          "explanation": "韵律和格律带有古典诗歌的和谐。"
+        },
+        {
+          "dimensionPath": "psychology_vector.aesthetic.modern",
+          "score": 0.35,
+          "explanation": "属于早期现代主义，但保持了传统可读性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.plot_complexity",
+          "score": 0.15,
+          "explanation": "抒情诗集无复杂故事情节。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_depth",
+          "score": 0.40,
+          "explanation": "通过抒情展现诗人的人格深度。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.character_growth",
+          "score": 0.30,
+          "explanation": "各诗篇独立，整体成长弧线不明显。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.world_building",
+          "score": 0.25,
+          "explanation": "未构建虚构世界，描写的是心理与现实交织的空间。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.nonlinear_structure",
+          "score": 0.20,
+          "explanation": "诗篇之间跳跃性小，结构线性清晰。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.slow_immersion",
+          "score": 0.65,
+          "explanation": "需要静心慢读以沉浸于其情感氛围。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.action_intensity",
+          "score": 0.05,
+          "explanation": "无外向的动作描写。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.conflict_intensity",
+          "score": 0.30,
+          "explanation": "冲突内化为情感矛盾，而非外在激烈对抗。"
+        },
+        {
+          "dimensionPath": "psychology_vector.narrative.philosophical_depth",
+          "score": 0.60,
+          "explanation": "日常景物引发对生命与存在的哲学性反思。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.individualism",
+          "score": 0.55,
+          "explanation": "强调个人感受和独特视角。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.collectivism",
+          "score": 0.60,
+          "explanation": "个人情感与民族集体命运紧密相连。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.family",
+          "score": 0.25,
+          "explanation": "家庭关系不是显著主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.friendship",
+          "score": 0.30,
+          "explanation": "侧重个人与自然、祖国的关系。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.love",
+          "score": 0.45,
+          "explanation": "广义的爱与情感，非局限于爱情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.community",
+          "score": 0.55,
+          "explanation": "展现对民族共同体的归属感。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.competition",
+          "score": 0.05,
+          "explanation": "完全不涉及竞争主题。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.cooperation",
+          "score": 0.20,
+          "explanation": "更强调共同情感而非协作行动。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.power_relationship",
+          "score": 0.10,
+          "explanation": "权力结构非关注点。"
+        },
+        {
+          "dimensionPath": "psychology_vector.social_relationship.identity",
+          "score": 0.70,
+          "explanation": "对古巴人身份的民族认同是核心表达。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.freedom",
+          "score": 0.72,
+          "explanation": "对祖国的独立与自由的渴望是基调。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.order",
+          "score": 0.20,
+          "explanation": "更倾向情感自由而非社会秩序。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.truth",
+          "score": 0.60,
+          "explanation": "追求真诚的表达和生命的真相。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.beauty",
+          "score": 0.80,
+          "explanation": "将美视为核心价值和救赎力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.achievement",
+          "score": 0.15,
+          "explanation": "不强调个人成就和世俗成功。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.justice",
+          "score": 0.35,
+          "explanation": "隐含对公正世界的向往，但非直接呐喊。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.sacrifice",
+          "score": 0.40,
+          "explanation": "个人情感中包含为民族献身的自觉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.self_exploration",
+          "score": 0.55,
+          "explanation": "向内探索自我与精神世界。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.tradition",
+          "score": 0.45,
+          "explanation": "尊重传统但将其转化为新的抒情力量。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.change",
+          "score": 0.30,
+          "explanation": "渴望变革但更侧重于坚守内在精神。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.survival",
+          "score": 0.25,
+          "explanation": "生存压力让位于精神追求。"
+        },
+        {
+          "dimensionPath": "psychology_vector.value.meaning",
+          "score": 0.65,
+          "explanation": "全篇核心是寻找和赋予生命以意义。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.curiosity",
+          "score": 0.35,
+          "explanation": "对外部世界的好奇让位于内心观察。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.creation",
+          "score": 0.45,
+          "explanation": "诗歌创作行为本身就是主题的组成部分。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.adventure",
+          "score": 0.15,
+          "explanation": "不涉及物理探险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.reflection",
+          "score": 0.72,
+          "explanation": "反复出现的沉思和自省是最主要的行为倾向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.competition",
+          "score": 0.05,
+          "explanation": "毫无竞争性行为导向。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.social",
+          "score": 0.25,
+          "explanation": "偏内向的交流，与读者进行灵魂对话。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.discipline",
+          "score": 0.15,
+          "explanation": "不侧重自律或克制。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.risk",
+          "score": 0.10,
+          "explanation": "无视冒险行为。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.calm",
+          "score": 0.70,
+          "explanation": "整体节奏和态度倾向于平静与接纳。"
+        },
+        {
+          "dimensionPath": "psychology_vector.behavior.escape",
+          "score": 0.30,
+          "explanation": "在面对现实困境时向自然和精神世界寻求慰藉。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.visual_intensity",
+          "score": 0.55,
+          "explanation": "利用鲜明的自然意象构建视觉画面。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.color_richness",
+          "score": 0.50,
+          "explanation": "色彩描写纯净但非浓烈。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.sound_intensity",
+          "score": 0.60,
+          "explanation": "韵律和节奏感非常突出，适宜谱曲。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.rhythm_energy",
+          "score": 0.55,
+          "explanation": "韵律规整流畅，富有音乐性。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.atmosphere",
+          "score": 0.65,
+          "explanation": "整体氛围宁静、质朴而深情。"
+        },
+        {
+          "dimensionPath": "psychology_vector.sensory.immersion",
+          "score": 0.50,
+          "explanation": "情感共鸣可带来沉浸，但形式简洁。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.literary_style",
+          "score": 0.65,
+          "explanation": "简洁质朴而富有音乐性的风格独树一帜。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.language_artistry",
+          "score": 0.75,
+          "explanation": "用词精炼，对日常语言进行了高度的艺术提纯。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.symbolism",
+          "score": 0.60,
+          "explanation": "日常自然意象成为个人与民族命运的象征。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.rhetorical_complexity",
+          "score": 0.25,
+          "explanation": "修辞手法朴素，追求真挚而非精巧。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.intellectual_depth",
+          "score": 0.55,
+          "explanation": "蕴含对生命、自由和民族的理性思考。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.cultural_depth",
+          "score": 0.70,
+          "explanation": "深刻体现了古巴的文化特征和民族精神。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.knowledge_density",
+          "score": 0.30,
+          "explanation": "不提供密集的知识，而是情感与智慧的浓缩。"
+        },
+        {
+          "dimensionPath": "media_vector.literature_vector.interpretation_openness",
+          "score": 0.50,
+          "explanation": "意象清晰明确，留给读者的解读范围适中。"
+        }
+      ],
+      "experience_vector_summary": {
+        "experience_description": "阅读《纯朴的诗》是一场从日常走向崇高的情感净化之旅。读者在简洁的语言和流畅的韵律中，先是感受到自然之美与内心的平静，随后逐渐被诗中对故土的深沉热爱、流亡的淡淡忧伤以及对自由的不灭希望所覆盖。最终获得一种温暖的慰藉与跨越时空的民族精神共鸣。",
+        "structure_description": "作为抒情诗集，其结构源于独立的诗篇和统一的韵律。每一首诗如同一个独立的呼吸，而重复出现的核心意象与情感主题又将所有诗篇串联成一个完整的精神世界。节奏明快且富有音乐性，引导读者不自觉地放慢阅读速度，进入沉思与共鸣。",
+        "cognitive_expression": "诗集鼓励读者进行类比和联想，从一朵花、一滴露水中感知到宏大的民族叙事与生命哲理。它不要求逻辑分析和复杂推理，而是激发直觉性的感悟和内省式的沉思，引导读者在简单中寻找深度，在具体意象中提炼抽象情感。",
+        "behavioral_tendency_description": "作品唤起的行为倾向是内省的沉默与平静的接纳。它强化读者向内探索自我的意愿，而非向外竞争或冒险。它鼓励一种沉思的生活态度，在美的感受和深情的怀旧中，将个人的宁静与对集体的责任感结合起来，促使心灵回归淳朴。"
+      },
+      "personality_affinity": {
+        "Ni": 0.68,
+        "Ne": 0.30,
+        "Ti": 0.25,
+        "Te": 0.12,
+        "Fi": 0.78,
+        "Fe": 0.58,
+        "Si": 0.65,
+        "Se": 0.35,
+        "openness": 0.62,
+        "conscientiousness": 0.28,
+        "extraversion": 0.20,
+        "agreeableness": 0.70,
+        "neuroticism": 0.55,
+        "Assertive": 0.60,
+        "Turbulent": 0.50
+      },
+      "supporting_evidence": [
+        "诗歌通过露珠、花朵、飞鸟等日常自然意象表达深刻情感。",
+        "大量诗篇直接抒发对古巴故土的热爱与眷恋。",
+        "语言极度简练，用词朴素，避免华丽辞藻。",
+        "诗歌韵律规整且富有音乐性，部分诗篇后被改编成歌曲。",
+        "内容包含对流亡生活孤独感的真实书写。",
+        "个人情感与民族集体命运始终交织在一起。",
+        "反复出现对自由和光明的渴望与信念。",
+        "作品从卑微事物中提炼出崇高的精神价值。",
+        "诗中弥漫着一种宁静而略带忧愁的基调。",
+        "强调内在精神的纯真与质朴，反对浮华。",
+        "展现诗人对生命本质的持续沉思。"
+      ],
+      "quality_control": {
+        "trainingStatus": "TRAINABLE",
+        "evidenceSufficiency": "SUFFICIENT",
+        "cleanlinessPassed": true,
+        "schemaPassed": true,
+        "vectorCoveragePassed": true,
+        "rejectionReasons": []
+      }
+    }
+  ]
+}
